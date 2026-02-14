@@ -1,311 +1,444 @@
 {
     "verses": [
         {
-            "id": 5376,
             "verse_number": 1,
-            "verse_key": "70:1",
-            "hizb_number": 57,
-            "rub_el_hizb_number": 227,
-            "ruku_number": 504,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": " سَأَلَ سَآئِلٌۢ بِعَذَابٍ وَاقِعٍ",
-            "page_number": 568,
-            "juz_number": 29,
             "translations": [
                 {
-                    "id": 101218,
-                    "resource_id": 20,
-                    "text": "A supplicant asked for a punishment bound to happen<sup foot_note=197608>1</sup>"
-                },
-                {
-                    "id": 219070,
                     "resource_id": 39,
                     "text": "Salah seorang (dari kalangan orang-orang kafir Makkah, secara mengejek-ejek) meminta kedatangan azab yang (dijanjikan) akan berlaku,"
-                },
-                {
-                    "id": 1096353,
-                    "resource_id": 161,
-                    "text": "এক ব্যক্তি চাইল সে ‘আযাব যা অবশ্যই সংঘটিত হবে।"
                 }
             ]
         },
         {
-            "id": 5377,
             "verse_number": 2,
-            "verse_key": "70:2",
-            "hizb_number": 57,
-            "rub_el_hizb_number": 227,
-            "ruku_number": 504,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "لِّلْكَـٰفِرِينَ لَيْسَ لَهُۥ دَافِعٌ",
-            "page_number": 568,
-            "juz_number": 29,
             "translations": [
                 {
-                    "id": 101229,
-                    "resource_id": 20,
-                    "text": "To the disbelievers; of it there is no preventer."
-                },
-                {
-                    "id": 219146,
                     "resource_id": 39,
                     "text": "Azab yang disediakan untuk orang-orang yang kafir, yang tidak ada sesiapapun dapat menolak kedatangannya -"
-                },
-                {
-                    "id": 1096354,
-                    "resource_id": 161,
-                    "text": "কাফিরদের জন্য তা প্রতিরোধ করার কেউ নেই"
                 }
             ]
         },
         {
-            "id": 5378,
             "verse_number": 3,
-            "verse_key": "70:3",
-            "hizb_number": 57,
-            "rub_el_hizb_number": 227,
-            "ruku_number": 504,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "مِّنَ ٱللَّهِ ذِى ٱلْمَعَارِجِ",
-            "page_number": 568,
-            "juz_number": 29,
             "translations": [
                 {
-                    "id": 101240,
-                    "resource_id": 20,
-                    "text": "[It is] from Allāh, owner of the ways of ascent."
-                },
-                {
-                    "id": 219077,
                     "resource_id": 39,
                     "text": "Dari Allah yang menguasai tempat-tempat turun naik -"
-                },
-                {
-                    "id": 1096355,
-                    "resource_id": 161,
-                    "text": "(যে শাস্তি আসবে) আল্লাহর নিকট হতে যিনি আসমানে উঠার সিঁড়িগুলোর মালিক,"
                 }
             ]
         },
         {
-            "id": 5379,
             "verse_number": 4,
-            "verse_key": "70:4",
-            "hizb_number": 57,
-            "rub_el_hizb_number": 227,
-            "ruku_number": 504,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "تَعْرُجُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ إِلَيْهِ فِى يَوْمٍ كَانَ مِقْدَارُهُۥ خَمْسِينَ أَلْفَ سَنَةٍ",
-            "page_number": 568,
-            "juz_number": 29,
             "translations": [
                 {
-                    "id": 101251,
-                    "resource_id": 20,
-                    "text": "The angels and the Spirit [i.e., Gabriel] will ascend to Him during a Day the extent of which is fifty thousand years."
-                },
-                {
-                    "id": 219088,
                     "resource_id": 39,
                     "text": "Yang dilalui oleh malaikat-malaikat dan Jibril ke pusat pemerintahanNya (untuk menerima dan menyempurnakan tugas masing-masing, terutama) pada satu masa yang adalah tempohnya (dirasai oleh orang-orang yang bersalah) sungguh panjang, (kerana banyak hitungan hisab dan berat soal jawabnya)."
-                },
-                {
-                    "id": 1096356,
-                    "resource_id": 161,
-                    "text": "ফেরেশতা এবং রূহ (অর্থাৎ জিবরীল) আল্লাহর দিকে আরোহণ করে এমন এক দিনে, যার পরিমাণ পঞ্চাশ হাজার বছর।"
                 }
             ]
         },
         {
-            "id": 5380,
             "verse_number": 5,
-            "verse_key": "70:5",
-            "hizb_number": 57,
-            "rub_el_hizb_number": 227,
-            "ruku_number": 504,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "فَٱصْبِرْ صَبْرًا جَمِيلًا",
-            "page_number": 568,
-            "juz_number": 29,
             "translations": [
                 {
-                    "id": 101258,
-                    "resource_id": 20,
-                    "text": "So be patient with gracious patience."
-                },
-                {
-                    "id": 219095,
                     "resource_id": 39,
                     "text": "Maka bersabarlah (wahai Muhammad terhadap ejekan golongan yang kafir itu), dengan cara kesabaran yang sebaik-baiknya."
-                },
-                {
-                    "id": 1096357,
-                    "resource_id": 161,
-                    "text": "সুতরাং (হে নবী!) ধৈর্য ধর- সুন্দর সৌজন্যমূলক ধৈর্য।"
                 }
             ]
         },
         {
-            "id": 5381,
             "verse_number": 6,
-            "verse_key": "70:6",
-            "hizb_number": 57,
-            "rub_el_hizb_number": 227,
-            "ruku_number": 504,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "إِنَّهُمْ يَرَوْنَهُۥ بَعِيدًا",
-            "page_number": 568,
-            "juz_number": 29,
             "translations": [
                 {
-                    "id": 101259,
-                    "resource_id": 20,
-                    "text": "Indeed, they see it [as] distant,"
-                },
-                {
-                    "id": 219101,
                     "resource_id": 39,
                     "text": "Sebenarnya mereka memandang azab itu jauh (daripada berlaku),"
-                },
-                {
-                    "id": 1096358,
-                    "resource_id": 161,
-                    "text": "তারা ঐ দিনটিকে সুদূর মনে করছে,"
                 }
             ]
         },
         {
-            "id": 5382,
             "verse_number": 7,
-            "verse_key": "70:7",
-            "hizb_number": 57,
-            "rub_el_hizb_number": 227,
-            "ruku_number": 504,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "وَنَرَىٰهُ قَرِيبًا",
-            "page_number": 568,
-            "juz_number": 29,
             "translations": [
                 {
-                    "id": 101260,
-                    "resource_id": 20,
-                    "text": "But We see it [as] near."
-                },
-                {
-                    "id": 219096,
                     "resource_id": 39,
                     "text": "Sedang Kami memandangnya dekat, (tetap akan berlaku),"
-                },
-                {
-                    "id": 1096359,
-                    "resource_id": 161,
-                    "text": "কিন্তু আমি তা নিকটে দেখতে পাচ্ছি।"
                 }
             ]
         },
         {
-            "id": 5383,
             "verse_number": 8,
-            "verse_key": "70:8",
-            "hizb_number": 57,
-            "rub_el_hizb_number": 227,
-            "ruku_number": 504,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "يَوْمَ تَكُونُ ٱلسَّمَآءُ كَٱلْمُهْلِ",
-            "page_number": 568,
-            "juz_number": 29,
             "translations": [
                 {
-                    "id": 101261,
-                    "resource_id": 20,
-                    "text": "On the Day the sky will be like murky oil,<sup foot_note=197609>1</sup>"
-                },
-                {
-                    "id": 219097,
                     "resource_id": 39,
                     "text": "(Iaitu) pada hari langit menjadi seperti tembaga cair,"
-                },
-                {
-                    "id": 1096360,
-                    "resource_id": 161,
-                    "text": "সেদিন আকাশ হবে গলিত রূপার মত,"
                 }
             ]
         },
         {
-            "id": 5384,
             "verse_number": 9,
-            "verse_key": "70:9",
-            "hizb_number": 57,
-            "rub_el_hizb_number": 227,
-            "ruku_number": 504,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ",
-            "page_number": 568,
-            "juz_number": 29,
             "translations": [
                 {
-                    "id": 101262,
-                    "resource_id": 20,
-                    "text": "And the mountains will be like wool,<sup foot_note=197610>1</sup>"
-                },
-                {
-                    "id": 219098,
                     "resource_id": 39,
                     "text": "Dan gunung-ganang pula menjadi seperti bulu (yang berterbangan)"
-                },
-                {
-                    "id": 1096361,
-                    "resource_id": 161,
-                    "text": "আর পাহাড়গুলো হবে রঙ্গীণ পশমের মত,"
                 }
             ]
         },
         {
-            "id": 5385,
             "verse_number": 10,
-            "verse_key": "70:10",
-            "hizb_number": 57,
-            "rub_el_hizb_number": 227,
-            "ruku_number": 504,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "وَلَا يَسْـَٔلُ حَمِيمٌ حَمِيمًا",
-            "page_number": 568,
-            "juz_number": 29,
             "translations": [
                 {
-                    "id": 101219,
-                    "resource_id": 20,
-                    "text": "And no friend will ask [anything of] a friend,"
-                },
-                {
-                    "id": 219071,
                     "resource_id": 39,
                     "text": "Dan sahabat karib tidak bertanyakan hal sahabat karibnya, (kerana tiap-tiap seorang sibuk memikirkan hal keadaannya sendiri),"
-                },
+                }
+            ]
+        },
+        {
+            "verse_number": 11,
+            "text_uthmani": "يُبَصَّرُونَهُمْ ۚ يَوَدُّ ٱلْمُجْرِمُ لَوْ يَفْتَدِى مِنْ عَذَابِ يَوْمِئِذٍۭ بِبَنِيهِ",
+            "translations": [
                 {
-                    "id": 1096362,
-                    "resource_id": 161,
-                    "text": "বন্ধু বন্ধুর খবর নিবে না,"
+                    "resource_id": 39,
+                    "text": "Padahal masing-masing diberi melihat setengahnya yang lain; (pada saat yang demikian) orang yang kafir suka kiranya dapat menebus dirinya dari azab itu dengan anak-anaknya sendiri,"
+                }
+            ]
+        },
+        {
+            "verse_number": 12,
+            "text_uthmani": "وَصَـٰحِبَتِهِۦ وَأَخِيهِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan isteri serta saudaranya,"
+                }
+            ]
+        },
+        {
+            "verse_number": 13,
+            "text_uthmani": "وَفَصِيلَتِهِ ٱلَّتِى تُـْٔوِيهِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan kaum kerabatnya yang melindunginya,"
+                }
+            ]
+        },
+        {
+            "verse_number": 14,
+            "text_uthmani": "وَمَن فِى ٱلْأَرْضِ جَمِيعًا ثُمَّ يُنجِيهِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan juga sekalian makhluk yang ada di bumi - kemudian (diharapkannya) tebusan itu dapat menyelamatkannya."
+                }
+            ]
+        },
+        {
+            "verse_number": 15,
+            "text_uthmani": "كَلَّآ ۖ إِنَّهَا لَظَىٰ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Tidak sekali-kali (sebagaimana yang diharapkannya)! Sesungguhnya neraka (yang disediakan baginya) tetap menjulang-julang apinya,"
+                }
+            ]
+        },
+        {
+            "verse_number": 16,
+            "text_uthmani": "نَزَّاعَةً لِّلشَّوَىٰ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "(Membakar serta) menggugurkan kulit ubun-ubun dan anggota anggota tubuh badan,"
+                }
+            ]
+        },
+        {
+            "verse_number": 17,
+            "text_uthmani": "تَدْعُوا۟ مَنْ أَدْبَرَ وَتَوَلَّىٰ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Neraka itu juga memanggil dan menarik orang yang membelakangi serta berpaling (dari kebenaran),"
+                }
+            ]
+        },
+        {
+            "verse_number": 18,
+            "text_uthmani": "وَجَمَعَ فَأَوْعَىٰٓ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan yang mengumpulkan harta kekayaan lalu menyimpannya (dengan tidak membayar zakatnya)."
+                }
+            ]
+        },
+        {
+            "verse_number": 19,
+            "text_uthmani": "۞ إِنَّ ٱلْإِنسَـٰنَ خُلِقَ هَلُوعًا",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Sesungguhnya manusia itu dijadikan bertabiat resah gelisah (lagi bakhil kedekut); -"
+                }
+            ]
+        },
+        {
+            "verse_number": 20,
+            "text_uthmani": "إِذَا مَسَّهُ ٱلشَّرُّ جَزُوعًا",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Apabila ia ditimpa kesusahan, dia sangat resah gelisah;"
+                }
+            ]
+        },
+        {
+            "verse_number": 21,
+            "text_uthmani": "وَإِذَا مَسَّهُ ٱلْخَيْرُ مَنُوعًا",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan apabila ia beroleh kesenangan, ia sangat bakhil kedekut;"
+                }
+            ]
+        },
+        {
+            "verse_number": 22,
+            "text_uthmani": "إِلَّا ٱلْمُصَلِّينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Kecuali orang-orang yang mengerjakan sembahyang -"
+                }
+            ]
+        },
+        {
+            "verse_number": 23,
+            "text_uthmani": "ٱلَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ دَآئِمُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Iaitu mereka yang tetap mengerjakan sembahyangnya;"
+                }
+            ]
+        },
+        {
+            "verse_number": 24,
+            "text_uthmani": "وَٱلَّذِينَ فِىٓ أَمْوَٰلِهِمْ حَقٌّ مَّعْلُومٌ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan mereka (yang menentukan bahagian) pada harta-hartanya, menjadi hak yang termaklum -"
+                }
+            ]
+        },
+        {
+            "verse_number": 25,
+            "text_uthmani": "لِّلسَّآئِلِ وَٱلْمَحْرُومِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Bagi orang miskin yang meminta dan orang miskin yang menahan diri (daripada meminta);"
+                }
+            ]
+        },
+        {
+            "verse_number": 26,
+            "text_uthmani": "وَٱلَّذِينَ يُصَدِّقُونَ بِيَوْمِ ٱلدِّينِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan mereka yang percayakan hari pembalasan (dengan mengerjakan amal-amal yang soleh sebagai buktinya);"
+                }
+            ]
+        },
+        {
+            "verse_number": 27,
+            "text_uthmani": "وَٱلَّذِينَ هُم مِّنْ عَذَابِ رَبِّهِم مُّشْفِقُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan mereka yang cemas takut daripada ditimpa azab Tuhannya, -"
+                }
+            ]
+        },
+        {
+            "verse_number": 28,
+            "text_uthmani": "إِنَّ عَذَابَ رَبِّهِمْ غَيْرُ مَأْمُونٍ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Kerana sesungguhnya azab Tuhan mereka, tidak patut (bagi seseorangpun) merasa aman terhadapnya;"
+                }
+            ]
+        },
+        {
+            "verse_number": 29,
+            "text_uthmani": "وَٱلَّذِينَ هُمْ لِفُرُوجِهِمْ حَـٰفِظُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan mereka yang menjaga kehormatannya, -"
+                }
+            ]
+        },
+        {
+            "verse_number": 30,
+            "text_uthmani": "إِلَّا عَلَىٰٓ أَزْوَٰجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَـٰنُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Kecuali kepada isterinya atau kepada hambanya, maka sesungguhnya mereka tidak tercela;"
+                }
+            ]
+        },
+        {
+            "verse_number": 31,
+            "text_uthmani": "فَمَنِ ٱبْتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْعَادُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Kemudian sesiapa yang mengingini selain dari yang demikian, maka merekalah orang-orang yang melampaui batas;"
+                }
+            ]
+        },
+        {
+            "verse_number": 32,
+            "text_uthmani": "وَٱلَّذِينَ هُمْ لِأَمَـٰنَـٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan mereka yang menjaga amanah dan janjinya;"
+                }
+            ]
+        },
+        {
+            "verse_number": 33,
+            "text_uthmani": "وَٱلَّذِينَ هُم بِشَهَـٰدَٰتِهِمْ قَآئِمُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan mereka yang memberikan keterangan dengan benar lagi adil (semasa mereka menjadi saksi);"
+                }
+            ]
+        },
+        {
+            "verse_number": 34,
+            "text_uthmani": "وَٱلَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan mereka yang tetap memelihara sembahyangnya;"
+                }
+            ]
+        },
+        {
+            "verse_number": 35,
+            "text_uthmani": "أُو۟لَـٰٓئِكَ فِى جَنَّـٰتٍ مُّكْرَمُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Mereka (yang demikian sifatnya) ditempatkan di dalam Syurga dengan diberikan penghormatan."
+                }
+            ]
+        },
+        {
+            "verse_number": 36,
+            "text_uthmani": "فَمَالِ ٱلَّذِينَ كَفَرُوا۟ قِبَلَكَ مُهْطِعِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka apakah yang menyebabkan orang-orang kafir, yang menentangmu (wahai Muhammad) datang berkejaran ke sisimu -"
+                }
+            ]
+        },
+        {
+            "verse_number": 37,
+            "text_uthmani": "عَنِ ٱلْيَمِينِ وَعَنِ ٱلشِّمَالِ عِزِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "(Sambil mereka) berkumpul berpuak-puak di sebelah kanan dan di sebelah kirimu."
+                }
+            ]
+        },
+        {
+            "verse_number": 38,
+            "text_uthmani": "أَيَطْمَعُ كُلُّ ٱمْرِئٍ مِّنْهُمْ أَن يُدْخَلَ جَنَّةَ نَعِيمٍ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Patutkah tiap-tiap seorang dari mereka berharap supaya dimasukkan ke dalam Syurga yang penuh nikmat (sedang ia tidak beriman)?"
+                }
+            ]
+        },
+        {
+            "verse_number": 39,
+            "text_uthmani": "كَلَّآ ۖ إِنَّا خَلَقْنَـٰهُم مِّمَّا يَعْلَمُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Tidak sekali-kali! (Mereka yang kufur ingkar tidak akan dapat memasukinya). Sesungguhnya Kami telah menciptakan mereka dari apa yang mereka sedia mengetahuinya."
+                }
+            ]
+        },
+        {
+            "verse_number": 40,
+            "text_uthmani": "فَلَآ أُقْسِمُ بِرَبِّ ٱلْمَشَـٰرِقِ وَٱلْمَغَـٰرِبِ إِنَّا لَقَـٰدِرُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka Aku bersumpah dengan (kebesaranKu) Tuhan yang menguasai (seluruh alam, meliputi) tempat-tempat terbit (matahari dan bulan bintang) dan tempat-tempat tenggelamnya, - sesungguhnya Kami berkuasa -"
+                }
+            ]
+        },
+        {
+            "verse_number": 41,
+            "text_uthmani": "عَلَىٰٓ أَن نُّبَدِّلَ خَيْرًا مِّنْهُمْ وَمَا نَحْنُ بِمَسْبُوقِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "(Membinasakan mereka, serta) menggantikan mereka dengan makhluk-makluk yang lebih baik dari mereka; dan Kami tidak sekali-kali dapat dikalahkan atau dilemahkan."
+                }
+            ]
+        },
+        {
+            "verse_number": 42,
+            "text_uthmani": "فَذَرْهُمْ يَخُوضُوا۟ وَيَلْعَبُوا۟ حَتَّىٰ يُلَـٰقُوا۟ يَوْمَهُمُ ٱلَّذِى يُوعَدُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Oleh itu, biarkanlah mereka (wahai Muhammad) tenggelam dalam kesesatannya dan leka bermain-main (dalam dunianya), sehingga mereka menemui hari yang dijanjikan kepada mereka (untuk menerima balasan)! -"
+                }
+            ]
+        },
+        {
+            "verse_number": 43,
+            "text_uthmani": "يَوْمَ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ سِرَاعًا كَأَنَّهُمْ إِلَىٰ نُصُبٍ يُوفِضُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Iaitu hari mereka segera keluar dari kubur masing-masing menuju (ke Padang Mahsyar) dengan keadaan seolah-olah mereka berkejaran ke (tempat) berhala-berhala (yang mereka sembah dahulu),"
+                }
+            ]
+        },
+        {
+            "verse_number": 44,
+            "text_uthmani": "خَـٰشِعَةً أَبْصَـٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۚ ذَٰلِكَ ٱلْيَوْمُ ٱلَّذِى كَانُوا۟ يُوعَدُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Sambil pandangan mereka tunduk, serta mereka diliputi kehinaan; itulah hari yang telah dijanjikan kepada mereka."
                 }
             ]
         }
-    ],
-    "pagination": {
-        "per_page": 10,
-        "current_page": 1,
-        "next_page": 2,
-        "total_pages": 5,
-        "total_records": 44
-    }
+    ]
 }

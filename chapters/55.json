@@ -1,311 +1,784 @@
 {
     "verses": [
         {
-            "id": 4902,
             "verse_number": 1,
-            "verse_key": "55:1",
-            "hizb_number": 54,
-            "rub_el_hizb_number": 213,
-            "ruku_number": 468,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": " ٱلرَّحْمَـٰنُ",
-            "page_number": 531,
-            "juz_number": 27,
             "translations": [
                 {
-                    "id": 100531,
-                    "resource_id": 20,
-                    "text": "The Most Merciful"
-                },
-                {
-                    "id": 214869,
                     "resource_id": 39,
                     "text": "(Tuhan) Yang Maha Pemurah serta melimpah-limpah rahmatNya."
-                },
-                {
-                    "id": 1095879,
-                    "resource_id": 161,
-                    "text": "পরম দয়ালু (আল্লাহ),"
                 }
             ]
         },
         {
-            "id": 4903,
             "verse_number": 2,
-            "verse_key": "55:2",
-            "hizb_number": 54,
-            "rub_el_hizb_number": 213,
-            "ruku_number": 468,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "عَلَّمَ ٱلْقُرْءَانَ",
-            "page_number": 531,
-            "juz_number": 27,
             "translations": [
                 {
-                    "id": 100543,
-                    "resource_id": 20,
-                    "text": "Taught the Qur’ān,"
-                },
-                {
-                    "id": 214636,
                     "resource_id": 39,
                     "text": "Dia lah yang telah mengajarkan Al-Quran."
-                },
-                {
-                    "id": 1095880,
-                    "resource_id": 161,
-                    "text": "তিনিই শিক্ষা দিয়েছেন কুরআন,"
                 }
             ]
         },
         {
-            "id": 4904,
             "verse_number": 3,
-            "verse_key": "55:3",
-            "hizb_number": 54,
-            "rub_el_hizb_number": 213,
-            "ruku_number": 468,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "خَلَقَ ٱلْإِنسَـٰنَ",
-            "page_number": 531,
-            "juz_number": 27,
             "translations": [
                 {
-                    "id": 100555,
-                    "resource_id": 20,
-                    "text": "Created man,"
-                },
-                {
-                    "id": 218448,
                     "resource_id": 39,
                     "text": "Dia lah yang telah menciptakan manusia; -"
-                },
-                {
-                    "id": 1095881,
-                    "resource_id": 161,
-                    "text": "তিনিই মানুষ সৃষ্টি করেছেন,"
                 }
             ]
         },
         {
-            "id": 4905,
             "verse_number": 4,
-            "verse_key": "55:4",
-            "hizb_number": 54,
-            "rub_el_hizb_number": 213,
-            "ruku_number": 468,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "عَلَّمَهُ ٱلْبَيَانَ",
-            "page_number": 531,
-            "juz_number": 27,
             "translations": [
                 {
-                    "id": 100568,
-                    "resource_id": 20,
-                    "text": "[And] taught him eloquence."
-                },
-                {
-                    "id": 218524,
                     "resource_id": 39,
                     "text": "Dia lah yang telah membolehkan manusia (bertutur) memberi dan menerima kenyataan."
-                },
-                {
-                    "id": 1095882,
-                    "resource_id": 161,
-                    "text": "তিনিই শিখিয়েছেন মনের কথা প্রকাশ করতে,"
                 }
             ]
         },
         {
-            "id": 4906,
             "verse_number": 5,
-            "verse_key": "55:5",
-            "hizb_number": 54,
-            "rub_el_hizb_number": 213,
-            "ruku_number": 468,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "ٱلشَّمْسُ وَٱلْقَمَرُ بِحُسْبَانٍ",
-            "page_number": 531,
-            "juz_number": 27,
             "translations": [
                 {
-                    "id": 100580,
-                    "resource_id": 20,
-                    "text": "The sun and the moon [move] by precise calculation,"
-                },
-                {
-                    "id": 218197,
                     "resource_id": 39,
                     "text": "Matahari dan bulan beredar dengan peraturan dan hitungan yang tertentu;"
-                },
-                {
-                    "id": 1095883,
-                    "resource_id": 161,
-                    "text": "সূর্য ও চন্দ্র আবর্তন করে সুনির্দিষ্ট হিসাব অনুযায়ী।"
                 }
             ]
         },
         {
-            "id": 4907,
             "verse_number": 6,
-            "verse_key": "55:6",
-            "hizb_number": 54,
-            "rub_el_hizb_number": 213,
-            "ruku_number": 468,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ",
-            "page_number": 531,
-            "juz_number": 27,
             "translations": [
                 {
-                    "id": 100592,
-                    "resource_id": 20,
-                    "text": "And the stars and trees prostrate.<sup foot_note=197468>1</sup>"
-                },
-                {
-                    "id": 218430,
                     "resource_id": 39,
                     "text": "Dan tumbuh-tumbuhan yang melata serta pohon-pohon kayu-kayan, masing-masing tunduk menurut peraturanNya."
-                },
-                {
-                    "id": 1095884,
-                    "resource_id": 161,
-                    "text": "তৃণলতা গাছপালা (তাঁরই জন্য) সাজদায় অবনত,"
                 }
             ]
         },
         {
-            "id": 4908,
             "verse_number": 7,
-            "verse_key": "55:7",
-            "hizb_number": 54,
-            "rub_el_hizb_number": 213,
-            "ruku_number": 468,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ",
-            "page_number": 531,
-            "juz_number": 27,
             "translations": [
                 {
-                    "id": 100604,
-                    "resource_id": 20,
-                    "text": "And the heaven He raised and imposed the balance"
-                },
-                {
-                    "id": 218442,
                     "resource_id": 39,
                     "text": "Dan langit dijadikannya (bumbung) tinggi, serta Ia mengadakan undang-undang dan peraturan neraca keadilan,"
-                },
-                {
-                    "id": 1095885,
-                    "resource_id": 161,
-                    "text": "তিনি আকাশকে করেছেন সমুন্নত, আর স্থাপন করেছেন (ন্যায়ের) মানদন্ড,"
                 }
             ]
         },
         {
-            "id": 4909,
             "verse_number": 8,
-            "verse_key": "55:8",
-            "hizb_number": 54,
-            "rub_el_hizb_number": 213,
-            "ruku_number": 468,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "أَلَّا تَطْغَوْا۟ فِى ٱلْمِيزَانِ",
-            "page_number": 531,
-            "juz_number": 27,
             "translations": [
                 {
-                    "id": 100615,
-                    "resource_id": 20,
-                    "text": "That you not transgress within the balance."
-                },
-                {
-                    "id": 218456,
                     "resource_id": 39,
                     "text": "Supaya kamu tidak melampaui batas dalam menjalankan keadilan;"
-                },
-                {
-                    "id": 1095886,
-                    "resource_id": 161,
-                    "text": "যাতে তোমরা মানদন্ডে সীমালঙ্ঘন না কর,"
                 }
             ]
         },
         {
-            "id": 4910,
             "verse_number": 9,
-            "verse_key": "55:9",
-            "hizb_number": 54,
-            "rub_el_hizb_number": 213,
-            "ruku_number": 468,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "وَأَقِيمُوا۟ ٱلْوَزْنَ بِٱلْقِسْطِ وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ",
-            "page_number": 531,
-            "juz_number": 27,
             "translations": [
                 {
-                    "id": 100617,
-                    "resource_id": 20,
-                    "text": "And establish weight in justice and do not make deficient the balance."
-                },
-                {
-                    "id": 218458,
                     "resource_id": 39,
                     "text": "Dan betulkanlah cara menimbang itu dengan adil, serta janganlah kamu mengurangi barang yang ditimbang."
-                },
-                {
-                    "id": 1095887,
-                    "resource_id": 161,
-                    "text": "সুবিচারের সঙ্গে ওজন প্রতিষ্ঠা কর আর ওজনে কম দিও না,"
                 }
             ]
         },
         {
-            "id": 4911,
             "verse_number": 10,
-            "verse_key": "55:10",
-            "hizb_number": 54,
-            "rub_el_hizb_number": 213,
-            "ruku_number": 468,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "وَٱلْأَرْضَ وَضَعَهَا لِلْأَنَامِ",
-            "page_number": 531,
-            "juz_number": 27,
             "translations": [
                 {
-                    "id": 100532,
-                    "resource_id": 20,
-                    "text": "And the earth He laid [out] for the creatures."
-                },
-                {
-                    "id": 218421,
                     "resource_id": 39,
                     "text": "Dan bumi pula dijadikannya rata untuk kegunaan manusia dan makhluk-makhlukNya yang lain:"
-                },
+                }
+            ]
+        },
+        {
+            "verse_number": 11,
+            "text_uthmani": "فِيهَا فَـٰكِهَةٌ وَٱلنَّخْلُ ذَاتُ ٱلْأَكْمَامِ",
+            "translations": [
                 {
-                    "id": 1095888,
-                    "resource_id": 161,
-                    "text": "আর যমীন- তিনি (তাঁর) প্রাণীকুলের জন্য তাকে করেছেন বিস্তৃত,"
+                    "resource_id": 39,
+                    "text": "Terdapat padanya berbagai jenis buah-buahan dan pohon-pohon kurma yang ada kelopak-kelopak mayang;"
+                }
+            ]
+        },
+        {
+            "verse_number": 12,
+            "text_uthmani": "وَٱلْحَبُّ ذُو ٱلْعَصْفِ وَٱلرَّيْحَانُ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Demikian juga terdapat biji-bijian yang ada jerami serta daun, dan terdapat lagi bunga-bungaan yang harum;"
+                }
+            ]
+        },
+        {
+            "verse_number": 13,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan (wahai umat manusia dan jin)?"
+                }
+            ]
+        },
+        {
+            "verse_number": 14,
+            "text_uthmani": "خَلَقَ ٱلْإِنسَـٰنَ مِن صَلْصَـٰلٍ كَٱلْفَخَّارِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Ia menciptakan manusia (lembaga Adam) dari tanah liat kering seperti tembikar,"
+                }
+            ]
+        },
+        {
+            "verse_number": 15,
+            "text_uthmani": "وَخَلَقَ ٱلْجَآنَّ مِن مَّارِجٍ مِّن نَّارٍ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan Ia telah menciptakan jin dari lidah api yang menjulang-julang;"
+                }
+            ]
+        },
+        {
+            "verse_number": 16,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                }
+            ]
+        },
+        {
+            "verse_number": 17,
+            "text_uthmani": "رَبُّ ٱلْمَشْرِقَيْنِ وَرَبُّ ٱلْمَغْرِبَيْنِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "(Dia lah) Tuhan yang mentadbirkan dua timur, dan Tuhan yang mentadbirkan dua barat."
+                }
+            ]
+        },
+        {
+            "verse_number": 18,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                }
+            ]
+        },
+        {
+            "verse_number": 19,
+            "text_uthmani": "مَرَجَ ٱلْبَحْرَيْنِ يَلْتَقِيَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Ia biarkan air dua laut (yang masin dan yang tawar) mengalir, sedang keduanya pula bertemu;"
+                }
+            ]
+        },
+        {
+            "verse_number": 20,
+            "text_uthmani": "بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Di antara keduanya ada penyekat yang memisahkannya, masing-masing tidak melampaui sempadannya;"
+                }
+            ]
+        },
+        {
+            "verse_number": 21,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                }
+            ]
+        },
+        {
+            "verse_number": 22,
+            "text_uthmani": "يَخْرُجُ مِنْهُمَا ٱللُّؤْلُؤُ وَٱلْمَرْجَانُ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dari kedua laut itu, keluar mutiara dan marjan;"
+                }
+            ]
+        },
+        {
+            "verse_number": 23,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                }
+            ]
+        },
+        {
+            "verse_number": 24,
+            "text_uthmani": "وَلَهُ ٱلْجَوَارِ ٱلْمُنشَـَٔاتُ فِى ٱلْبَحْرِ كَٱلْأَعْلَـٰمِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan Dia lah yang menguasai kapal-kapal yang belayar di laut, yang kembang tinggi layarnya seperti gunung-ganang;"
+                }
+            ]
+        },
+        {
+            "verse_number": 25,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                }
+            ]
+        },
+        {
+            "verse_number": 26,
+            "text_uthmani": "كُلُّ مَنْ عَلَيْهَا فَانٍ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Segala yang ada di muka bumi itu akan binasa:"
+                }
+            ]
+        },
+        {
+            "verse_number": 27,
+            "text_uthmani": "وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan akan kekalah Zat Tuhanmu yang mempunyai Kebesaran dan Kemuliaan:"
+                }
+            ]
+        },
+        {
+            "verse_number": 28,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                }
+            ]
+        },
+        {
+            "verse_number": 29,
+            "text_uthmani": "يَسْـَٔلُهُۥ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ كُلَّ يَوْمٍ هُوَ فِى شَأْنٍ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Sekalian makhluk yang ada di langit dan di bumi sentiasa berhajat dan memohon kepadaNya. Tiap-tiap masa Ia di dalam urusan (mencipta dan mentadbirkan makhluk-makhlukNya)!"
+                }
+            ]
+        },
+        {
+            "verse_number": 30,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan)?"
+                }
+            ]
+        },
+        {
+            "verse_number": 31,
+            "text_uthmani": "سَنَفْرُغُ لَكُمْ أَيُّهَ ٱلثَّقَلَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Kami hanya akan menguruskan hitungan dan balasan amal kamu sahaja (pada hari kiamat,) wahai manusia dan jin!"
+                }
+            ]
+        },
+        {
+            "verse_number": 32,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                }
+            ]
+        },
+        {
+            "verse_number": 33,
+            "text_uthmani": "يَـٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ إِنِ ٱسْتَطَعْتُمْ أَن تَنفُذُوا۟ مِنْ أَقْطَارِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ فَٱنفُذُوا۟ ۚ لَا تَنفُذُونَ إِلَّا بِسُلْطَـٰنٍ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Wahai sekalian jin dan manusia! Kalau kamu dapat menembus keluar dari kawasan-kawasan langit dan bumi (untuk melarikan diri dari kekuasaan dan balasan Kami), maka cubalah kamu menembus keluar. Kamu tidak akan menembus keluar melainkan dengan satu kekuasaan (yang mengatasi kekuasaan Kami; masakan dapat)!"
+                }
+            ]
+        },
+        {
+            "verse_number": 34,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                }
+            ]
+        },
+        {
+            "verse_number": 35,
+            "text_uthmani": "يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِّن نَّارٍ وَنُحَاسٌ فَلَا تَنتَصِرَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Kamu (wahai golongan yang kufur ingkar dari kalangan jin dan manusia) akan ditimpakan dengan api yang menjulang-julang dan leburan tembaga cair (yang membakar); dengan yang demikian, kamu tidak akan dapat mempertahankan diri (dari azab seksa itu);"
+                }
+            ]
+        },
+        {
+            "verse_number": 36,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                }
+            ]
+        },
+        {
+            "verse_number": 37,
+            "text_uthmani": "فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتْ وَرْدَةً كَٱلدِّهَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Selain itu (sungguh ngeri) ketika langit pecah-belah lalu menjadilah ia merah mawar, berkilat seperti minyak;"
+                }
+            ]
+        },
+        {
+            "verse_number": 38,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                }
+            ]
+        },
+        {
+            "verse_number": 39,
+            "text_uthmani": "فَيَوْمَئِذٍ لَّا يُسْـَٔلُ عَن ذَنۢبِهِۦٓ إِنسٌ وَلَا جَآنٌّ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Pada masa itu tiada sesiapapun, sama ada manusia atau jin, yang akan ditanya tentang dosanya (kerana masing-masing dapat dikenal menurut keadaannya);"
+                }
+            ]
+        },
+        {
+            "verse_number": 40,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                }
+            ]
+        },
+        {
+            "verse_number": 41,
+            "text_uthmani": "يُعْرَفُ ٱلْمُجْرِمُونَ بِسِيمَـٰهُمْ فَيُؤْخَذُ بِٱلنَّوَٰصِى وَٱلْأَقْدَامِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Orang-orang yang berdosa dapat dikenal dari tanda-tandanya, lalu dipegang dari atas kepala dan kakinya (serta diseret ke neraka);"
+                }
+            ]
+        },
+        {
+            "verse_number": 42,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                }
+            ]
+        },
+        {
+            "verse_number": 43,
+            "text_uthmani": "هَـٰذِهِۦ جَهَنَّمُ ٱلَّتِى يُكَذِّبُ بِهَا ٱلْمُجْرِمُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "(Lalu dikatakan kepada mereka): \"Inilah neraka Jahannam yang selalu orang-orang yang berdosa mendustakannya \"."
+                }
+            ]
+        },
+        {
+            "verse_number": 44,
+            "text_uthmani": "يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ ءَانٍ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Mereka (terus diseksa) berulang-ulang di antara api neraka dengan air yang menggelegak yang cukup masak panasnya!"
+                }
+            ]
+        },
+        {
+            "verse_number": 45,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                }
+            ]
+        },
+        {
+            "verse_number": 46,
+            "text_uthmani": "وَلِمَنْ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan orang yang takut akan keadaan dirinya di mahkamah Tuhannya (untuk dihitung amalnya), disediakan baginya dua Syurga, -"
+                }
+            ]
+        },
+        {
+            "verse_number": 47,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                }
+            ]
+        },
+        {
+            "verse_number": 48,
+            "text_uthmani": "ذَوَاتَآ أَفْنَانٍ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "(Dua Syurga) yang ada berjenis-jenis pohon dan buah-buahan; -"
+                }
+            ]
+        },
+        {
+            "verse_number": 49,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                }
+            ]
+        },
+        {
+            "verse_number": 50,
+            "text_uthmani": "فِيهِمَا عَيْنَانِ تَجْرِيَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Pada kedua-dua Syurga itu terdapat dua matair yang mengalir; -"
+                }
+            ]
+        },
+        {
+            "verse_number": 51,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan."
+                }
+            ]
+        },
+        {
+            "verse_number": 52,
+            "text_uthmani": "فِيهِمَا مِن كُلِّ فَـٰكِهَةٍ زَوْجَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Pada kedua Syurga itu terdapat dua macam dari tiap-tiap jenis buah-buahan (yang biasa dan yang luar biasa)."
+                }
+            ]
+        },
+        {
+            "verse_number": 53,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                }
+            ]
+        },
+        {
+            "verse_number": 54,
+            "text_uthmani": "مُتَّكِـِٔينَ عَلَىٰ فُرُشٍۭ بَطَآئِنُهَا مِنْ إِسْتَبْرَقٍ ۚ وَجَنَى ٱلْجَنَّتَيْنِ دَانٍ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Mereka (bersenang-senang di tempat masing-masing dalam Syurga itu dengan) berbaring di atas hamparan-hamparan, yang lapisan-lapisan sebelah dalamnya - dari sutera tebal yang bersulam; dan buah-buahan kedua-dua Syurga itu dekat (kepada mereka) untuk dipetik."
+                }
+            ]
+        },
+        {
+            "verse_number": 55,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                }
+            ]
+        },
+        {
+            "verse_number": 56,
+            "text_uthmani": "فِيهِنَّ قَـٰصِرَٰتُ ٱلطَّرْفِ لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَا جَآنٌّ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Di dalam Syurga-syurga itu terdapat bidadari-bidadari yang pandangannya tertumpu (kepada mereka semata-mata), yang tidak pernah disentuh sebelum mereka oleh manusia dan jin;"
+                }
+            ]
+        },
+        {
+            "verse_number": 57,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                }
+            ]
+        },
+        {
+            "verse_number": 58,
+            "text_uthmani": "كَأَنَّهُنَّ ٱلْيَاقُوتُ وَٱلْمَرْجَانُ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Bidadari-bidadari itu (cantik berseri) seperti permata delima dan marjan."
+                }
+            ]
+        },
+        {
+            "verse_number": 59,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                }
+            ]
+        },
+        {
+            "verse_number": 60,
+            "text_uthmani": "هَلْ جَزَآءُ ٱلْإِحْسَـٰنِ إِلَّا ٱلْإِحْسَـٰنُ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Bukankah tidak ada balasan bagi amal yang baik - melainkan balasan yang baik juga?"
+                }
+            ]
+        },
+        {
+            "verse_number": 61,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                }
+            ]
+        },
+        {
+            "verse_number": 62,
+            "text_uthmani": "وَمِن دُونِهِمَا جَنَّتَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan selain dari dua Syurga itu, dua Syurga lagi (untuk menjadi balasan bagi golongan peringkat yang kedua);"
+                }
+            ]
+        },
+        {
+            "verse_number": 63,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                }
+            ]
+        },
+        {
+            "verse_number": 64,
+            "text_uthmani": "مُدْهَآمَّتَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Kedua-duanya menghijau subur tanamannya;"
+                }
+            ]
+        },
+        {
+            "verse_number": 65,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                }
+            ]
+        },
+        {
+            "verse_number": 66,
+            "text_uthmani": "فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dalam kedua-dua Syurga itu terdapat dua matair yang terus menerus memancutkan airnya:"
+                }
+            ]
+        },
+        {
+            "verse_number": 67,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                }
+            ]
+        },
+        {
+            "verse_number": 68,
+            "text_uthmani": "فِيهِمَا فَـٰكِهَةٌ وَنَخْلٌ وَرُمَّانٌ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Pada keduanya juga terdapat buah-buahan, serta pohon-pohon kurma dan delima,"
+                }
+            ]
+        },
+        {
+            "verse_number": 69,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                }
+            ]
+        },
+        {
+            "verse_number": 70,
+            "text_uthmani": "فِيهِنَّ خَيْرَٰتٌ حِسَانٌ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dalam kedua-dua Syurga itu juga terdapat (teman-teman) yang baik akhlaknya, lagi cantik parasnya;"
+                }
+            ]
+        },
+        {
+            "verse_number": 71,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat tuhan kamu, yang kamu hendak dustakan?"
+                }
+            ]
+        },
+        {
+            "verse_number": 72,
+            "text_uthmani": "حُورٌ مَّقْصُورَٰتٌ فِى ٱلْخِيَامِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Ia itu bidadari-bidadari, yang hanya tinggal tetap di tempat tinggal masing-masing;"
+                }
+            ]
+        },
+        {
+            "verse_number": 73,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                }
+            ]
+        },
+        {
+            "verse_number": 74,
+            "text_uthmani": "لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَا جَآنٌّ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "(Bidadari-bidadari itu) tidak pernah disentuh sebelum mereka oleh manusia dan tidak juga oleh jin;"
+                }
+            ]
+        },
+        {
+            "verse_number": 75,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                }
+            ]
+        },
+        {
+            "verse_number": 76,
+            "text_uthmani": "مُتَّكِـِٔينَ عَلَىٰ رَفْرَفٍ خُضْرٍ وَعَبْقَرِىٍّ حِسَانٍ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Penduduk Syurga itu (bersenang-senang di dalamnya dengan) berbaring di atas (bantal-bantal dan) cadar-cadar yang hijau warnanya serta permaidani-permaidani yang sangat indah."
+                }
+            ]
+        },
+        {
+            "verse_number": 77,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                }
+            ]
+        },
+        {
+            "verse_number": 78,
+            "text_uthmani": "تَبَـٰرَكَ ٱسْمُ رَبِّكَ ذِى ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maha Sucilah nama Tuhanmu yang mempunyai Kebesaran dan Kemuliaan."
                 }
             ]
         }
-    ],
-    "pagination": {
-        "per_page": 10,
-        "current_page": 1,
-        "next_page": 2,
-        "total_pages": 8,
-        "total_records": 78
-    }
+    ]
 }

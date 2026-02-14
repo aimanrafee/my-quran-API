@@ -1,311 +1,194 @@
 {
     "verses": [
         {
-            "id": 5949,
             "verse_number": 1,
-            "verse_key": "87:1",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 237,
-            "ruku_number": 531,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": " سَبِّحِ ٱسْمَ رَبِّكَ ٱلْأَعْلَى",
-            "page_number": 591,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 102067,
-                    "resource_id": 20,
-                    "text": "Exalt the name of your Lord, the Most High,"
-                },
-                {
-                    "id": 219999,
                     "resource_id": 39,
                     "text": "Bertasbihlah mensucikan nama Tuhanmu Yang Maha Tinggi (dari segala sifat-sifat kekurangan), -"
-                },
-                {
-                    "id": 1096926,
-                    "resource_id": 161,
-                    "text": "তোমার মহান প্রতিপালকের নামের পবিত্রতা ও মহিমা ঘোষণা কর।"
                 }
             ]
         },
         {
-            "id": 5950,
             "verse_number": 2,
-            "verse_key": "87:2",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 237,
-            "ruku_number": 531,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "ٱلَّذِى خَلَقَ فَسَوَّىٰ",
-            "page_number": 591,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 102079,
-                    "resource_id": 20,
-                    "text": "Who created and proportioned"
-                },
-                {
-                    "id": 220000,
                     "resource_id": 39,
                     "text": "Yang telah menciptakan (sekalian makhlukNya) serta menyempurnakan kejadiannya dengan kelengkapan yang sesuai dengan keadaannya;"
-                },
-                {
-                    "id": 1096927,
-                    "resource_id": 161,
-                    "text": "যিনি সৃষ্টি করেছেন অতঃপর করেছেন (দেহের প্রতিটি অঙ্গকে) সামঞ্জস্যপূর্ণ।"
                 }
             ]
         },
         {
-            "id": 5951,
             "verse_number": 3,
-            "verse_key": "87:3",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 237,
-            "ruku_number": 531,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "وَٱلَّذِى قَدَّرَ فَهَدَىٰ",
-            "page_number": 591,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 102081,
-                    "resource_id": 20,
-                    "text": "And who destined and [then] guided"
-                },
-                {
-                    "id": 219896,
                     "resource_id": 39,
                     "text": "Dan Yang telah mengatur (keadaan makhluk-makhlukNya) serta memberikan hidayah petunjuk (ke jalan keselamatannya dan kesempurnaannya);"
-                },
-                {
-                    "id": 1096928,
-                    "resource_id": 161,
-                    "text": "যিনি সকল বস্তুকে পরিমাণ মত সৃষ্টি করেছেন, অতঃপর (জীবনে চলার) পথনির্দেশ করেছেন।"
                 }
             ]
         },
         {
-            "id": 5952,
             "verse_number": 4,
-            "verse_key": "87:4",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 237,
-            "ruku_number": 531,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "وَٱلَّذِىٓ أَخْرَجَ ٱلْمَرْعَىٰ",
-            "page_number": 591,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 102083,
-                    "resource_id": 20,
-                    "text": "And who brings out the pasture"
-                },
-                {
-                    "id": 219898,
                     "resource_id": 39,
                     "text": "Dan Yang telah mengeluarkan tumbuh-tumbuhan untuk binatang-binatang ternak,"
-                },
-                {
-                    "id": 1096929,
-                    "resource_id": 161,
-                    "text": "যিনি তৃণ ইত্যাদি বের করেছেন।"
                 }
             ]
         },
         {
-            "id": 5953,
             "verse_number": 5,
-            "verse_key": "87:5",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 237,
-            "ruku_number": 531,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "فَجَعَلَهُۥ غُثَآءً أَحْوَىٰ",
-            "page_number": 591,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 102085,
-                    "resource_id": 20,
-                    "text": "And [then] makes it black stubble."
-                },
-                {
-                    "id": 219900,
                     "resource_id": 39,
                     "text": "Kemudian Ia menjadikan (tumbuh-tumbuhan yang menghijau) itu kering - (berubah warnanya) kehitam-hitaman."
-                },
-                {
-                    "id": 1096930,
-                    "resource_id": 161,
-                    "text": "অতঃপর তাকে কাল আবর্জনায় পরিণত করেছেন।"
                 }
             ]
         },
         {
-            "id": 5954,
             "verse_number": 6,
-            "verse_key": "87:6",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 237,
-            "ruku_number": 531,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "سَنُقْرِئُكَ فَلَا تَنسَىٰٓ",
-            "page_number": 591,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 102086,
-                    "resource_id": 20,
-                    "text": "We will make you recite, [O Muḥammad], and you will not forget,"
-                },
-                {
-                    "id": 219984,
                     "resource_id": 39,
                     "text": "Kami sentiasa menjadikan engkau (wahai Muhammad) dapat membaca (Al-Quran yang diturunkan kepadamu - dengan perantaraan jibril), sehingga engkau (menghafaznya dan) tidak lupa,"
-                },
-                {
-                    "id": 1096931,
-                    "resource_id": 161,
-                    "text": "আমি তোমাকে পড়িয়ে দেব, যার ফলে তুমি ভুলে যাবে না।"
                 }
             ]
         },
         {
-            "id": 5955,
             "verse_number": 7,
-            "verse_key": "87:7",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 237,
-            "ruku_number": 531,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "إِلَّا مَا شَآءَ ٱللَّهُ ۚ إِنَّهُۥ يَعْلَمُ ٱلْجَهْرَ وَمَا يَخْفَىٰ",
-            "page_number": 591,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 102087,
-                    "resource_id": 20,
-                    "text": "Except what Allāh should will. Indeed, He knows what is declared and what is hidden."
-                },
-                {
-                    "id": 219901,
                     "resource_id": 39,
                     "text": "Kecuali apa yang dikehendaki Allah engkau lupakan; sesungguhnya Ia mengetahui (segala keadaan yang patut berlaku), dan yang tersembunyi."
-                },
-                {
-                    "id": 1096932,
-                    "resource_id": 161,
-                    "text": "তবে ওটা বাদে যেটা আল্লাহ (রহিত করার) ইচ্ছে করবেন। তিনি জানেন যা প্রকাশ্য আর যা গোপন।"
                 }
             ]
         },
         {
-            "id": 5956,
             "verse_number": 8,
-            "verse_key": "87:8",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 237,
-            "ruku_number": 531,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "وَنُيَسِّرُكَ لِلْيُسْرَىٰ",
-            "page_number": 591,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 102088,
-                    "resource_id": 20,
-                    "text": "And We will ease you toward ease.<sup foot_note=197750>1</sup>"
-                },
-                {
-                    "id": 219902,
                     "resource_id": 39,
                     "text": "Dan Kami tetap memberi kemudahan kepadamu untuk (melaksanakan segala perkara) Ugama yang mudah diterima oleh akal yang sihat."
-                },
-                {
-                    "id": 1096933,
-                    "resource_id": 161,
-                    "text": "আমি তোমার জন্য সহজপথ (অনুসরণ করা) আরো সহজ করে দেব।"
                 }
             ]
         },
         {
-            "id": 5957,
             "verse_number": 9,
-            "verse_key": "87:9",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 237,
-            "ruku_number": 531,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "فَذَكِّرْ إِن نَّفَعَتِ ٱلذِّكْرَىٰ",
-            "page_number": 591,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 102089,
-                    "resource_id": 20,
-                    "text": "So remind, if the reminder should benefit;<sup foot_note=197751>1</sup>"
-                },
-                {
-                    "id": 219903,
                     "resource_id": 39,
                     "text": "Oleh itu berilah peringatan (kepada umat manusia dengan ajaran Al-Quran), kalau-kalau peringatan itu berguna (dan sudah tentu berguna);"
-                },
-                {
-                    "id": 1096934,
-                    "resource_id": 161,
-                    "text": "কাজেই তুমি উপদেশ দাও যদি উপদেশ উপকার দেয়।"
                 }
             ]
         },
         {
-            "id": 5958,
             "verse_number": 10,
-            "verse_key": "87:10",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 237,
-            "ruku_number": 531,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "سَيَذَّكَّرُ مَن يَخْشَىٰ",
-            "page_number": 591,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 102068,
-                    "resource_id": 20,
-                    "text": "He who fears [Allāh] will be reminded."
-                },
-                {
-                    "id": 219888,
                     "resource_id": 39,
                     "text": "Kerana orang yang takut (melanggar perintah Allah) akan menerima peringatan itu;"
-                },
+                }
+            ]
+        },
+        {
+            "verse_number": 11,
+            "text_uthmani": "وَيَتَجَنَّبُهَا ٱلْأَشْقَى",
+            "translations": [
                 {
-                    "id": 1096935,
-                    "resource_id": 161,
-                    "text": "যে ভয় করে সে উপদেশ গ্রহণ করবে।"
+                    "resource_id": 39,
+                    "text": "Dan (sebaliknya) orang yang sangat celaka akan menjauhinya,"
+                }
+            ]
+        },
+        {
+            "verse_number": 12,
+            "text_uthmani": "ٱلَّذِى يَصْلَى ٱلنَّارَ ٱلْكُبْرَىٰ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dia lah orang yang akan menderita bakaran neraka yang amat besar (azab seksanya),"
+                }
+            ]
+        },
+        {
+            "verse_number": 13,
+            "text_uthmani": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Selain dari itu, ia tidak mati di dalamnya dan tidak pula hidup senang."
+                }
+            ]
+        },
+        {
+            "verse_number": 14,
+            "text_uthmani": "قَدْ أَفْلَحَ مَن تَزَكَّىٰ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Sesungguhnya berjayalah orang yang - setelah menerima peringatan itu - berusaha membersihkan dirinya (dengan taat dan amal yang soleh),"
+                }
+            ]
+        },
+        {
+            "verse_number": 15,
+            "text_uthmani": "وَذَكَرَ ٱسْمَ رَبِّهِۦ فَصَلَّىٰ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan menyebut-nyebut dengan lidah dan hatinya akan nama Tuhannya serta mangerjakan sembahyang (dengan khusyuk)."
+                }
+            ]
+        },
+        {
+            "verse_number": 16,
+            "text_uthmani": "بَلْ تُؤْثِرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "(Tetapi kebanyakkan kamu tidak melakukan yang demikian), bahkan kamu utamakan kehidupan dunia;"
+                }
+            ]
+        },
+        {
+            "verse_number": 17,
+            "text_uthmani": "وَٱلْـَٔاخِرَةُ خَيْرٌ وَأَبْقَىٰٓ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Padahal kehidupan akhirat lebih baik dan lebih kekal."
+                }
+            ]
+        },
+        {
+            "verse_number": 18,
+            "text_uthmani": "إِنَّ هَـٰذَا لَفِى ٱلصُّحُفِ ٱلْأُولَىٰ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Sesungguhnya (keterangan-keterangan yang dinyatakan) ini ada (disebutkan) di dalam Kitab-kitab yang terdahulu, -"
+                }
+            ]
+        },
+        {
+            "verse_number": 19,
+            "text_uthmani": "صُحُفِ إِبْرَٰهِيمَ وَمُوسَىٰ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Iaitu Kitab-kitab Nabi Ibrahim dan Nabi Musa."
                 }
             ]
         }
-    ],
-    "pagination": {
-        "per_page": 10,
-        "current_page": 1,
-        "next_page": 2,
-        "total_pages": 2,
-        "total_records": 19
-    }
+    ]
 }

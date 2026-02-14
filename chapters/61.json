@@ -1,311 +1,144 @@
 {
     "verses": [
         {
-            "id": 5164,
             "verse_number": 1,
-            "verse_key": "61:1",
-            "hizb_number": 55,
-            "rub_el_hizb_number": 220,
-            "ruku_number": 486,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": " سَبَّحَ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
-            "page_number": 551,
-            "juz_number": 28,
             "translations": [
                 {
-                    "id": 100858,
-                    "resource_id": 20,
-                    "text": "Whatever is in the heavens and whatever is on the earth exalts Allāh,<sup foot_note=197550>1</sup> and He is the Exalted in Might, the Wise."
-                },
-                {
-                    "id": 218712,
                     "resource_id": 39,
                     "text": "Segala yang ada di langit dan yang ada di bumi, tetap mengucap tasbih kepada Allah; dan Dia lah Yang Maha Kuasa, lagi Maha Bijaksana."
-                },
-                {
-                    "id": 1096141,
-                    "resource_id": 161,
-                    "text": "আসমানে যা কিছু আছে আর যমীনে যা কিছু আছে (সবই) আল্লাহর প্রশংসা ও মহিমা ঘোষণা করে; তিনি মহাপরাক্রান্ত মহাবিজ্ঞানী।"
                 }
             ]
         },
         {
-            "id": 5165,
             "verse_number": 2,
-            "verse_key": "61:2",
-            "hizb_number": 55,
-            "rub_el_hizb_number": 220,
-            "ruku_number": 486,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ",
-            "page_number": 551,
-            "juz_number": 28,
             "translations": [
                 {
-                    "id": 100877,
-                    "resource_id": 20,
-                    "text": "O you who have believed, why do you say what you do not do?"
-                },
-                {
-                    "id": 218729,
                     "resource_id": 39,
                     "text": "Wahai orang-orang yang beriman! Mengapa kamu memperkatakan apa yang kamu tidak melakukannya!"
-                },
-                {
-                    "id": 1096142,
-                    "resource_id": 161,
-                    "text": "হে মু’মিনগণ! তোমরা এমন কথা কেন বল যা তোমরা কর না।"
                 }
             ]
         },
         {
-            "id": 5166,
             "verse_number": 3,
-            "verse_key": "61:3",
-            "hizb_number": 55,
-            "rub_el_hizb_number": 220,
-            "ruku_number": 486,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "كَبُرَ مَقْتًا عِندَ ٱللَّهِ أَن تَقُولُوا۟ مَا لَا تَفْعَلُونَ",
-            "page_number": 551,
-            "juz_number": 28,
             "translations": [
                 {
-                    "id": 100889,
-                    "resource_id": 20,
-                    "text": "Greatly hateful in the sight of Allāh is that you say what you do not do."
-                },
-                {
-                    "id": 218740,
                     "resource_id": 39,
                     "text": "Amat besar kebenciannya di sisi Allah - kamu memperkatakan sesuatu yang kamu tidak melakukannya."
-                },
-                {
-                    "id": 1096143,
-                    "resource_id": 161,
-                    "text": "আল্লাহর দৃষ্টিতে এটা অত্যন্ত নিন্দনীয় ব্যাপার যে, তোমরা বলবে এমন কথা যা তোমরা কর না।"
                 }
             ]
         },
         {
-            "id": 5167,
             "verse_number": 4,
-            "verse_key": "61:4",
-            "hizb_number": 55,
-            "rub_el_hizb_number": 220,
-            "ruku_number": 486,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "إِنَّ ٱللَّهَ يُحِبُّ ٱلَّذِينَ يُقَـٰتِلُونَ فِى سَبِيلِهِۦ صَفًّا كَأَنَّهُم بُنْيَـٰنٌ مَّرْصُوصٌ",
-            "page_number": 551,
-            "juz_number": 28,
             "translations": [
                 {
-                    "id": 100741,
-                    "resource_id": 20,
-                    "text": "Indeed, Allāh loves those who fight in His cause in a row as though they are a [single] structure joined firmly."
-                },
-                {
-                    "id": 214891,
                     "resource_id": 39,
                     "text": "Sesungguhnya Allah mengasihi orang-orang yang berperang untuk membela ugamaNya, dalam barisan yang teratur rapi, seolah-olah mereka sebuah bangunan yang tersusun kukuh."
-                },
-                {
-                    "id": 1096144,
-                    "resource_id": 161,
-                    "text": "আল্লাহ তাদেরকে ভালবাসেন যারা তাঁর পথে সারিবদ্ধ হয়ে যুদ্ধ করে- যেন তারা সীসা-গলানো প্রাচীর।"
                 }
             ]
         },
         {
-            "id": 5168,
             "verse_number": 5,
-            "verse_key": "61:5",
-            "hizb_number": 55,
-            "rub_el_hizb_number": 220,
-            "ruku_number": 486,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَـٰقَوْمِ لِمَ تُؤْذُونَنِى وَقَد تَّعْلَمُونَ أَنِّى رَسُولُ ٱللَّهِ إِلَيْكُمْ ۖ فَلَمَّا زَاغُوٓا۟ أَزَاغَ ٱللَّهُ قُلُوبَهُمْ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَـٰسِقِينَ",
-            "page_number": 551,
-            "juz_number": 28,
             "translations": [
                 {
-                    "id": 100911,
-                    "resource_id": 20,
-                    "text": "And [mention, O Muḥammad], when Moses said to his people, \"O my people, why do you harm me while you certainly know that I am the messenger of Allāh to you?\" And when they deviated, Allāh caused their hearts to deviate. And Allāh does not guide the defiantly disobedient people."
-                },
-                {
-                    "id": 218763,
                     "resource_id": 39,
                     "text": "Dan (ingatlah peristiwa) ketika Nabi Musa berkata kepada kaumnya: \" Wahai kaumku! Mengapa kamu menyakiti daku, sedang kamu mengetahui bahawa sesungguhnya aku ini Pesuruh Allah kepada kamu?\" Maka ketika mereka menyeleweng (dari kebenaran yang mereka sedia mengetahuinya), Allah selewengkan hati mereka (dari mendapat hidayah petunjuk); dan sememangnya Allah tidak memberi hidayah petunjuk kepada kaum yang fasik - derhaka."
-                },
-                {
-                    "id": 1096145,
-                    "resource_id": 161,
-                    "text": "স্মরণ কর, যখন মূসা তার সম্প্রদায়কে বলেছিল, ‘হে আমার সম্প্রদায়! তোমরা আমাকে কেন কষ্ট দিচ্ছ, তোমরা তো জানই যে, আমি তোমাদের নিকট আল্লাহর রসূল!’ অতঃপর তারা যখন বাঁকা পথ ধরল, আল্লাহ তাদের হৃদয়কে বাঁকা করে দিলেন। আল্লাহ পাপাচারীদেরকে সঠিক পথে পরিচালিত করেন না।"
                 }
             ]
         },
         {
-            "id": 5169,
             "verse_number": 6,
-            "verse_key": "61:6",
-            "hizb_number": 55,
-            "rub_el_hizb_number": 220,
-            "ruku_number": 486,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "وَإِذْ قَالَ عِيسَى ٱبْنُ مَرْيَمَ يَـٰبَنِىٓ إِسْرَٰٓءِيلَ إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُم مُّصَدِّقًا لِّمَا بَيْنَ يَدَىَّ مِنَ ٱلتَّوْرَىٰةِ وَمُبَشِّرًۢا بِرَسُولٍ يَأْتِى مِنۢ بَعْدِى ٱسْمُهُۥٓ أَحْمَدُ ۖ فَلَمَّا جَآءَهُم بِٱلْبَيِّنَـٰتِ قَالُوا۟ هَـٰذَا سِحْرٌ مُّبِينٌ",
-            "page_number": 552,
-            "juz_number": 28,
             "translations": [
                 {
-                    "id": 100923,
-                    "resource_id": 20,
-                    "text": "And [mention] when Jesus, the son of Mary, said, \"O Children of Israel, indeed I am the messenger of Allāh to you confirming what came before me of the Torah and bringing good tidings of a messenger to come after me, whose name is Aḥmad.\"<sup foot_note=197552>1</sup> But when he came to them with clear evidences, they said, \"This is obvious magic.\"<sup foot_note=197551>2</sup>"
-                },
-                {
-                    "id": 218776,
                     "resource_id": 39,
                     "text": "Dan (ingatlah juga peristiwa) ketika Nabi Isa ibni Maryam berkata: \"Wahai Bani Israil, sesungguhnya aku ini Pesuruh Allah kepada kamu, mengesahkan kebenaran Kitab yang diturunkan sebelumku, iaitu Kitab Taurat, dan memberikan berita gembira dengan kedatangan seorang Rasul yang akan datang kemudian daripadaku - bernama: Ahmad\". Maka ketika ia datang kepada mereka membawa keterangan-keterangan yang jelas nyata, mereka berkata: \"Ini ialah sihir yang jelas nyata!\""
-                },
-                {
-                    "id": 1096146,
-                    "resource_id": 161,
-                    "text": "স্মরণ কর, যখন মারইয়ামের পুত্র ‘ঈসা বলেছিল, ‘হে বানী ইসরাঈল! আমি তোমাদের প্রতি আল্লাহর রসূল, আমার পূর্ববর্তী তাওরাতের আমি সত্যায়নকারী এবং আমি একজন রসূলের সুসংবাদদাতা যিনি আমার পরে আসবেন, যার নাম আহমাদ।’ অতঃপর সে [অর্থাৎ ‘ঈসা (আঃ) যাঁর সম্পর্কে সুসংবাদ দিয়ে ছিলেন সেই নবী] যখন তাদের কাছে সুস্পষ্ট নিদর্শন নিয়ে আসল, তখন তারা বলল, ‘এটা তো স্পষ্ট যাদু।’"
                 }
             ]
         },
         {
-            "id": 5170,
             "verse_number": 7,
-            "verse_key": "61:7",
-            "hizb_number": 55,
-            "rub_el_hizb_number": 220,
-            "ruku_number": 486,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُوَ يُدْعَىٰٓ إِلَى ٱلْإِسْلَـٰمِ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
-            "page_number": 552,
-            "juz_number": 28,
             "translations": [
                 {
-                    "id": 100932,
-                    "resource_id": 20,
-                    "text": "And who is more unjust than one who invents about Allāh untruth while he is being invited to Islām. And Allāh does not guide the wrongdoing people."
-                },
-                {
-                    "id": 218784,
                     "resource_id": 39,
                     "text": "Dan tidak ada yang lebih zalim daripada orang yang mengada-adakan perkara dusta terhadap Allah, sedang ia diajak kepada memeluk Islam; dan (ingatlah), Allah tidak memberi hidayah petunjuk kepada orang-orang yang zalim."
-                },
-                {
-                    "id": 1096147,
-                    "resource_id": 161,
-                    "text": "তার চেয়ে অধিক যালিম আর কে যে আল্লাহ সম্বন্ধে মিথ্যে রচনা করে- অথচ তাকে ইসলামের পথ অবলম্বন করার জন্য আহবান জানানো হয়। (এ রকম) যালিম সম্প্রদায়কে আল্লাহ সঠিক পথে চালিত করেন না।"
                 }
             ]
         },
         {
-            "id": 5171,
             "verse_number": 8,
-            "verse_key": "61:8",
-            "hizb_number": 55,
-            "rub_el_hizb_number": 220,
-            "ruku_number": 486,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "يُرِيدُونَ لِيُطْفِـُٔوا۟ نُورَ ٱللَّهِ بِأَفْوَٰهِهِمْ وَٱللَّهُ مُتِمُّ نُورِهِۦ وَلَوْ كَرِهَ ٱلْكَـٰفِرُونَ",
-            "page_number": 552,
-            "juz_number": 28,
             "translations": [
                 {
-                    "id": 100934,
-                    "resource_id": 20,
-                    "text": "They want to extinguish the light of Allāh with their mouths, but Allāh will perfect His light, although the disbelievers dislike it."
-                },
-                {
-                    "id": 218786,
                     "resource_id": 39,
                     "text": "Mereka sentiasa berusaha hendak memadamkan cahaya Allah (ugama Islam) dengan mulut mereka, sedang Allah tetap menyempurnakan cahayaNya, sekalipun orang-orang kafir tidak suka (akan yang demikian)."
-                },
-                {
-                    "id": 1096148,
-                    "resource_id": 161,
-                    "text": "তারা তাদের মুখের ফুঁৎকারে আল্লাহর নূরকে নিভিয়ে দিতে চায়, কিন্তু আল্লাহ তাঁর নূরকে পরিপূর্ণ করবেনই যদিও কাফিররা (তা) অপছন্দ করে।"
                 }
             ]
         },
         {
-            "id": 5172,
             "verse_number": 9,
-            "verse_key": "61:9",
-            "hizb_number": 55,
-            "rub_el_hizb_number": 220,
-            "ruku_number": 486,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ وَلَوْ كَرِهَ ٱلْمُشْرِكُونَ",
-            "page_number": 552,
-            "juz_number": 28,
             "translations": [
                 {
-                    "id": 100936,
-                    "resource_id": 20,
-                    "text": "It is He who sent His Messenger with guidance and the religion of truth to manifest it over all religion, although those who associate others with Allāh dislike it."
-                },
-                {
-                    "id": 218788,
                     "resource_id": 39,
                     "text": "Dia lah yang telah mengutus RasulNya (Muhammad s.a.w) dengan membawa hidayah petunjuk dan ugama yang benar (ugama Islam), supaya Ia memenangkannya dan meninggikannya atas segala ugama yang lain, walaupun orang-orang musyrik tidak menyukainya."
-                },
-                {
-                    "id": 1096149,
-                    "resource_id": 161,
-                    "text": "তিনিই তাঁর রসূলকে হিদায়াত ও সত্য দীনসহ পাঠিয়েছেন তাকে সকল দীনের উপর বিজয়ী করার জন্য- যদিও মুশরিকরা (তা) অপছন্দ করে।"
                 }
             ]
         },
         {
-            "id": 5173,
             "verse_number": 10,
-            "verse_key": "61:10",
-            "hizb_number": 55,
-            "rub_el_hizb_number": 220,
-            "ruku_number": 487,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ هَلْ أَدُلُّكُمْ عَلَىٰ تِجَـٰرَةٍ تُنجِيكُم مِّنْ عَذَابٍ أَلِيمٍ",
-            "page_number": 552,
-            "juz_number": 28,
             "translations": [
                 {
-                    "id": 100860,
-                    "resource_id": 20,
-                    "text": "O you who have believed, shall I guide you to a transaction that will save you from a painful punishment?"
-                },
-                {
-                    "id": 218715,
                     "resource_id": 39,
                     "text": "Wahai orang-orang yang beriman! Mahukah Aku tunjukkan sesuatu perniagaan yang boleh menyelamatkan kamu dari azab seksa yang tidak terperi sakitnya?"
-                },
+                }
+            ]
+        },
+        {
+            "verse_number": 11,
+            "text_uthmani": "تُؤْمِنُونَ بِٱللَّهِ وَرَسُولِهِۦ وَتُجَـٰهِدُونَ فِى سَبِيلِ ٱللَّهِ بِأَمْوَٰلِكُمْ وَأَنفُسِكُمْ ۚ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+            "translations": [
                 {
-                    "id": 1096150,
-                    "resource_id": 161,
-                    "text": "হে মু’মিনগণ! আমি কি তোমাদেরকে এমন এক ব্যবসায়ের সন্ধান দেব যা তোমাদেরকে মর্মান্তিক ‘আযাব থেকে রক্ষা করবে?"
+                    "resource_id": 39,
+                    "text": "Iaitu, kamu beriman kepada Allah dan rasulNya, serta kamu berjuang membela dan menegakkan ugama Allah dengan harta benda dan diri kamu; yang demikian itulah yang lebih baik bagi kamu, jika kamu hendak mengetahui (hakikat yang sebenarnya)."
+                }
+            ]
+        },
+        {
+            "verse_number": 12,
+            "text_uthmani": "يَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَيُدْخِلْكُمْ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ وَمَسَـٰكِنَ طَيِّبَةً فِى جَنَّـٰتِ عَدْنٍ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "(Dengan itu) Allah akan mengampunkan dosa-dosa kamu, dan memasukkan kamu ke dalam taman-taman yang mengalir di bawahnya beberapa sungai, serta ditempatkan kamu di tempat-tempat tinggal yang baik dalam Syurga \" Adn \". Itulah kemenangan yang besar."
+                }
+            ]
+        },
+        {
+            "verse_number": 13,
+            "text_uthmani": "وَأُخْرَىٰ تُحِبُّونَهَا ۖ نَصْرٌ مِّنَ ٱللَّهِ وَفَتْحٌ قَرِيبٌ ۗ وَبَشِّرِ ٱلْمُؤْمِنِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan ada lagi limpah kurnia yang kamu sukai, iaitu pertolongan dari Allah dan kemenangan yang cepat (masa berlakunya). Dan sampaikanlah berita yang mengembirakan itu kepada orang-orang yang beriman."
+                }
+            ]
+        },
+        {
+            "verse_number": 14,
+            "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوٓا۟ أَنصَارَ ٱللَّهِ كَمَا قَالَ عِيسَى ٱبْنُ مَرْيَمَ لِلْحَوَارِيِّـۧنَ مَنْ أَنصَارِىٓ إِلَى ٱللَّهِ ۖ قَالَ ٱلْحَوَارِيُّونَ نَحْنُ أَنصَارُ ٱللَّهِ ۖ فَـَٔامَنَت طَّآئِفَةٌ مِّنۢ بَنِىٓ إِسْرَٰٓءِيلَ وَكَفَرَت طَّآئِفَةٌ ۖ فَأَيَّدْنَا ٱلَّذِينَ ءَامَنُوا۟ عَلَىٰ عَدُوِّهِمْ فَأَصْبَحُوا۟ ظَـٰهِرِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Wahai orang-orang yang beriman! Jadikanlah diri kamu pembela-pembela (ugama) Allah sebagaimana (keadaan penyokong-penyokong) Nabi Isa ibni Maryam (ketika ia) berkata kepada penyokong-penyokongnya itu: \"Siapakah penolong-penolongku (dalam perjalananku) kepada Allah (dengan menegakkan ugamaNya)?\" Mereka menjawab: \"Kamilah pembela-pembela (ugama) Allah!\" (Setelah Nabi Isa tidak berada di antara mereka) maka sepuak dari kaum Bani Israil beriman, dan sepuak lagi (tetap) kafir. Lalu Kami berikan pertolongan kepada orang-orang yang beriman untuk mengalahkan musuhnya, maka menjadilah mereka orang-orang yang menang."
                 }
             ]
         }
-    ],
-    "pagination": {
-        "per_page": 10,
-        "current_page": 1,
-        "next_page": 2,
-        "total_pages": 2,
-        "total_records": 14
-    }
+    ]
 }

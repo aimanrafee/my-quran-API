@@ -13,7 +13,7 @@
             "id": 2,
             "name_complex": "Al-Baqarah",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 286,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -22,7 +22,7 @@
             "id": 3,
             "name_complex": "Ali 'Imran",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 200,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -31,7 +31,7 @@
             "id": 4,
             "name_complex": "An-Nisa",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 176,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -40,7 +40,7 @@
             "id": 5,
             "name_complex": "Al-Ma'idah",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 120,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -49,7 +49,7 @@
             "id": 6,
             "name_complex": "Al-An'am",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 165,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -58,7 +58,7 @@
             "id": 7,
             "name_complex": "Al-A'raf",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 206,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -67,7 +67,7 @@
             "id": 8,
             "name_complex": "Al-Anfal",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 75,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -76,7 +76,7 @@
             "id": 9,
             "name_complex": "At-Tawbah",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 129,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -85,7 +85,7 @@
             "id": 10,
             "name_complex": "Yunus",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 109,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -94,7 +94,7 @@
             "id": 11,
             "name_complex": "Hud",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 123,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -103,7 +103,7 @@
             "id": 12,
             "name_complex": "Yusuf",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 111,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -112,7 +112,7 @@
             "id": 13,
             "name_complex": "Ar-Ra'd",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 43,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -121,7 +121,7 @@
             "id": 14,
             "name_complex": "Ibrahim",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 52,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -130,7 +130,7 @@
             "id": 15,
             "name_complex": "Al-Hijr",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 99,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -139,7 +139,7 @@
             "id": 16,
             "name_complex": "An-Nahl",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 128,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -148,7 +148,7 @@
             "id": 17,
             "name_complex": "Al-Isra",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 111,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -157,7 +157,7 @@
             "id": 18,
             "name_complex": "Al-Kahf",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 110,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -166,7 +166,7 @@
             "id": 19,
             "name_complex": "Maryam",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 98,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -175,7 +175,7 @@
             "id": 20,
             "name_complex": "Ta-Ha",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 135,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -184,7 +184,7 @@
             "id": 21,
             "name_complex": "Al-Anbiya",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 112,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -193,7 +193,7 @@
             "id": 22,
             "name_complex": "Al-Hajj",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 78,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -202,7 +202,7 @@
             "id": 23,
             "name_complex": "Al-Mu'minun",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 118,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -211,7 +211,7 @@
             "id": 24,
             "name_complex": "An-Nur",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 64,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -220,7 +220,7 @@
             "id": 25,
             "name_complex": "Al-Furqan",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 77,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -229,7 +229,7 @@
             "id": 26,
             "name_complex": "Ash-Shu'ara",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 227,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -238,7 +238,7 @@
             "id": 27,
             "name_complex": "An-Naml",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 93,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -247,7 +247,7 @@
             "id": 28,
             "name_complex": "Al-Qasas",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 88,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -256,7 +256,7 @@
             "id": 29,
             "name_complex": "Al-Ankabut",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 69,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -265,7 +265,7 @@
             "id": 30,
             "name_complex": "Ar-Rum",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 60,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -274,7 +274,7 @@
             "id": 31,
             "name_complex": "Luqman",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 34,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -283,7 +283,7 @@
             "id": 32,
             "name_complex": "As-Sajdah",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 30,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -292,7 +292,7 @@
             "id": 33,
             "name_complex": "Al-Ahzab",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 73,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -301,7 +301,7 @@
             "id": 34,
             "name_complex": "Saba",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 54,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -310,7 +310,7 @@
             "id": 35,
             "name_complex": "Fatir",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 45,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -319,7 +319,7 @@
             "id": 36,
             "name_complex": "Ya-Sin",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 83,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -328,7 +328,7 @@
             "id": 37,
             "name_complex": "As-Saffat",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 182,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -337,7 +337,7 @@
             "id": 38,
             "name_complex": "Sad",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 88,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -346,7 +346,7 @@
             "id": 39,
             "name_complex": "Az-Zumar",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 75,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -355,7 +355,7 @@
             "id": 40,
             "name_complex": "Ghafir",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 85,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -364,7 +364,7 @@
             "id": 41,
             "name_complex": "Fussilat",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 54,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -373,7 +373,7 @@
             "id": 42,
             "name_complex": "Ash-Shura",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 53,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -382,7 +382,7 @@
             "id": 43,
             "name_complex": "Az-Zukhruf",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 89,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -391,7 +391,7 @@
             "id": 44,
             "name_complex": "Ad-Dukhan",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 59,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -400,7 +400,7 @@
             "id": 45,
             "name_complex": "Al-Jathiyah",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 37,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -409,7 +409,7 @@
             "id": 46,
             "name_complex": "Al-Ahqaf",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 35,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -418,7 +418,7 @@
             "id": 47,
             "name_complex": "Muhammad",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 38,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -427,7 +427,7 @@
             "id": 48,
             "name_complex": "Al-Fath",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 29,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -436,7 +436,7 @@
             "id": 49,
             "name_complex": "Al-Hujurat",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 18,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -445,7 +445,7 @@
             "id": 50,
             "name_complex": "Qaf",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 45,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -454,7 +454,7 @@
             "id": 51,
             "name_complex": "Adh-Dhariyat",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 60,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -463,7 +463,7 @@
             "id": 52,
             "name_complex": "At-Tur",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 49,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -472,7 +472,7 @@
             "id": 53,
             "name_complex": "An-Najm",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 62,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -481,7 +481,7 @@
             "id": 54,
             "name_complex": "Al-Qamar",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 55,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -490,7 +490,7 @@
             "id": 55,
             "name_complex": "Ar-Rahman",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 78,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -499,7 +499,7 @@
             "id": 56,
             "name_complex": "Al-Waqi'ah",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 96,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -508,7 +508,7 @@
             "id": 57,
             "name_complex": "Al-Hadid",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 29,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -517,7 +517,7 @@
             "id": 58,
             "name_complex": "Al-Mujadilah",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 22,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -526,7 +526,7 @@
             "id": 59,
             "name_complex": "Al-Hashr",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 24,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -535,7 +535,7 @@
             "id": 60,
             "name_complex": "Al-Mumtahanah",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 13,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -544,7 +544,7 @@
             "id": 61,
             "name_complex": "As-Saff",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 14,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -553,7 +553,7 @@
             "id": 62,
             "name_complex": "Al-Jumu'ah",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 11,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -562,7 +562,7 @@
             "id": 63,
             "name_complex": "Al-Munafiqun",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 11,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -571,7 +571,7 @@
             "id": 64,
             "name_complex": "At-Taghabun",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 18,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -580,7 +580,7 @@
             "id": 65,
             "name_complex": "At-Talaq",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 12,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -589,7 +589,7 @@
             "id": 66,
             "name_complex": "At-Tahrim",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 12,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -598,7 +598,7 @@
             "id": 67,
             "name_complex": "Al-Mulk",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 30,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -607,7 +607,7 @@
             "id": 68,
             "name_complex": "Al-Qalam",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 52,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -616,7 +616,7 @@
             "id": 69,
             "name_complex": "Al-Haqqah",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 52,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -625,7 +625,7 @@
             "id": 70,
             "name_complex": "Al-Ma'arij",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 44,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -634,7 +634,7 @@
             "id": 71,
             "name_complex": "Nuh",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 28,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -643,7 +643,7 @@
             "id": 72,
             "name_complex": "Al-Jinn",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 28,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -652,7 +652,7 @@
             "id": 73,
             "name_complex": "Al-Muzzammil",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 20,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -661,7 +661,7 @@
             "id": 74,
             "name_complex": "Al-Muddaththir",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 56,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -670,7 +670,7 @@
             "id": 75,
             "name_complex": "Al-Qiyamah",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 40,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -679,7 +679,7 @@
             "id": 76,
             "name_complex": "Al-Insan",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 31,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -688,7 +688,7 @@
             "id": 77,
             "name_complex": "Al-Mursalat",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 50,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -697,7 +697,7 @@
             "id": 78,
             "name_complex": "An-Naba",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 40,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -706,7 +706,7 @@
             "id": 79,
             "name_complex": "An-Nazi'at",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 46,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -715,7 +715,7 @@
             "id": 80,
             "name_complex": "Abasa",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 42,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -724,7 +724,7 @@
             "id": 81,
             "name_complex": "At-Takwir",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 29,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -733,7 +733,7 @@
             "id": 82,
             "name_complex": "Al-Infitar",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 19,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -742,7 +742,7 @@
             "id": 83,
             "name_complex": "Al-Mutaffifin",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 36,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -751,7 +751,7 @@
             "id": 84,
             "name_complex": "Al-Inshiqaq",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 25,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -760,7 +760,7 @@
             "id": 85,
             "name_complex": "Al-Buruj",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 22,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -769,7 +769,7 @@
             "id": 86,
             "name_complex": "At-Tariq",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 17,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -778,7 +778,7 @@
             "id": 87,
             "name_complex": "Al-A'la",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 19,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -787,7 +787,7 @@
             "id": 88,
             "name_complex": "Al-Ghashiyah",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 26,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -796,7 +796,7 @@
             "id": 89,
             "name_complex": "Al-Fajr",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 30,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -805,7 +805,7 @@
             "id": 90,
             "name_complex": "Al-Balad",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 20,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -814,7 +814,7 @@
             "id": 91,
             "name_complex": "Ash-Shams",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 15,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -823,7 +823,7 @@
             "id": 92,
             "name_complex": "Al-Layl",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 21,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -832,7 +832,7 @@
             "id": 93,
             "name_complex": "Ad-Duha",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 11,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -859,7 +859,7 @@
             "id": 96,
             "name_complex": "Al-Alaq",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 19,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -895,7 +895,7 @@
             "id": 100,
             "name_complex": "Al-Adiyat",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 11,
             "translated_name": {
                 "name": "Terjemahan"
             }
@@ -904,7 +904,7 @@
             "id": 101,
             "name_complex": "Al-Qari'ah",
             "name_arabic": "Arabic",
-            "verses_count": 10,
+            "verses_count": 11,
             "translated_name": {
                 "name": "Terjemahan"
             }

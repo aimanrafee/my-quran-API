@@ -1,311 +1,564 @@
 {
     "verses": [
         {
-            "id": 5496,
             "verse_number": 1,
-            "verse_key": "74:1",
-            "hizb_number": 58,
-            "rub_el_hizb_number": 230,
-            "ruku_number": 512,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": " يَـٰٓأَيُّهَا ٱلْمُدَّثِّرُ",
-            "page_number": 575,
-            "juz_number": 29,
             "translations": [
                 {
-                    "id": 101492,
-                    "resource_id": 20,
-                    "text": "O you who covers himself [with a garment],<sup foot_note=197644>1</sup>"
-                },
-                {
-                    "id": 219375,
                     "resource_id": 39,
                     "text": "Wahai orang yang berselimut!"
-                },
-                {
-                    "id": 1096473,
-                    "resource_id": 161,
-                    "text": "ওহে বস্ত্র আবৃত (ব্যক্তি)!"
                 }
             ]
         },
         {
-            "id": 5497,
             "verse_number": 2,
-            "verse_key": "74:2",
-            "hizb_number": 58,
-            "rub_el_hizb_number": 230,
-            "ruku_number": 512,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "قُمْ فَأَنذِرْ",
-            "page_number": 575,
-            "juz_number": 29,
             "translations": [
                 {
-                    "id": 101504,
-                    "resource_id": 20,
-                    "text": "Arise and warn."
-                },
-                {
-                    "id": 219299,
                     "resource_id": 39,
                     "text": "Bangunlah serta berilah peringatan dan amaran (kepada umat manusia)."
-                },
-                {
-                    "id": 1096474,
-                    "resource_id": 161,
-                    "text": "ওঠ, সতর্ক কর।"
                 }
             ]
         },
         {
-            "id": 5498,
             "verse_number": 3,
-            "verse_key": "74:3",
-            "hizb_number": 58,
-            "rub_el_hizb_number": 230,
-            "ruku_number": 512,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "وَرَبَّكَ فَكَبِّرْ",
-            "page_number": 575,
-            "juz_number": 29,
             "translations": [
                 {
-                    "id": 101516,
-                    "resource_id": 20,
-                    "text": "And your Lord glorify."
-                },
-                {
-                    "id": 214921,
                     "resource_id": 39,
                     "text": "Dan Tuhanmu, maka ucaplah dan ingatlah kebesaranNya!"
-                },
-                {
-                    "id": 1096475,
-                    "resource_id": 161,
-                    "text": "আর তোমার প্রতিপালকের শ্রেষ্ঠত্ব ঘোষণা কর।"
                 }
             ]
         },
         {
-            "id": 5499,
             "verse_number": 4,
-            "verse_key": "74:4",
-            "hizb_number": 58,
-            "rub_el_hizb_number": 230,
-            "ruku_number": 512,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "وَثِيَابَكَ فَطَهِّرْ",
-            "page_number": 575,
-            "juz_number": 29,
             "translations": [
                 {
-                    "id": 101467,
-                    "resource_id": 20,
-                    "text": "And your clothing purify."
-                },
-                {
-                    "id": 219390,
                     "resource_id": 39,
                     "text": "Dan pakaianmu, maka hendaklah engkau bersihkan."
-                },
-                {
-                    "id": 1096476,
-                    "resource_id": 161,
-                    "text": "তোমার পোশাক পরিচ্ছদ পবিত্র রাখ।"
                 }
             ]
         },
         {
-            "id": 5500,
             "verse_number": 5,
-            "verse_key": "74:5",
-            "hizb_number": 58,
-            "rub_el_hizb_number": 230,
-            "ruku_number": 512,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "وَٱلرُّجْزَ فَٱهْجُرْ",
-            "page_number": 575,
-            "juz_number": 29,
             "translations": [
                 {
-                    "id": 101528,
-                    "resource_id": 20,
-                    "text": "And uncleanliness<sup foot_note=197645>1</sup> avoid."
-                },
-                {
-                    "id": 219366,
                     "resource_id": 39,
                     "text": "Dan segala kejahatan, maka hendaklah engkau jauhi."
-                },
-                {
-                    "id": 1096477,
-                    "resource_id": 161,
-                    "text": "(যাবতীয়) অপবিত্রতা থেকে দূরে থাক।"
                 }
             ]
         },
         {
-            "id": 5501,
             "verse_number": 6,
-            "verse_key": "74:6",
-            "hizb_number": 58,
-            "rub_el_hizb_number": 230,
-            "ruku_number": 512,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "وَلَا تَمْنُن تَسْتَكْثِرُ",
-            "page_number": 575,
-            "juz_number": 29,
             "translations": [
                 {
-                    "id": 101537,
-                    "resource_id": 20,
-                    "text": "And do not confer favor to acquire more<sup foot_note=197646>1</sup>."
-                },
-                {
-                    "id": 219377,
                     "resource_id": 39,
                     "text": "Dan janganlah engkau memberi (sesuatu, dengan tujuan hendak) mendapat lebih banyak daripadanya."
-                },
-                {
-                    "id": 1096478,
-                    "resource_id": 161,
-                    "text": "(কারো প্রতি) অনুগ্রহ করো না অধিক পাওয়ার উদ্দেশ্যে।"
                 }
             ]
         },
         {
-            "id": 5502,
             "verse_number": 7,
-            "verse_key": "74:7",
-            "hizb_number": 58,
-            "rub_el_hizb_number": 230,
-            "ruku_number": 512,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "وَلِرَبِّكَ فَٱصْبِرْ",
-            "page_number": 575,
-            "juz_number": 29,
             "translations": [
                 {
-                    "id": 101539,
-                    "resource_id": 20,
-                    "text": "But for your Lord be patient."
-                },
-                {
-                    "id": 219379,
                     "resource_id": 39,
                     "text": "Dan bagi (menjalankan perintah) Tuhanmu, maka hendaklah engkau bersabar (terhadap tentangan musuh)!"
-                },
-                {
-                    "id": 1096479,
-                    "resource_id": 161,
-                    "text": "তোমার প্রতিপালকের (সন্তুষ্টির) জন্য ধৈর্য ধর।"
                 }
             ]
         },
         {
-            "id": 5503,
             "verse_number": 8,
-            "verse_key": "74:8",
-            "hizb_number": 58,
-            "rub_el_hizb_number": 230,
-            "ruku_number": 512,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "فَإِذَا نُقِرَ فِى ٱلنَّاقُورِ",
-            "page_number": 575,
-            "juz_number": 29,
             "translations": [
                 {
-                    "id": 101541,
-                    "resource_id": 20,
-                    "text": "And when the trumpet is blown,"
-                },
-                {
-                    "id": 215007,
                     "resource_id": 39,
                     "text": "Kerana apabila telah ditiup sangkakala,"
-                },
-                {
-                    "id": 1096480,
-                    "resource_id": 161,
-                    "text": "যেদিন শিঙ্গায় ফুঁ দেয়া হবে,"
                 }
             ]
         },
         {
-            "id": 5504,
             "verse_number": 9,
-            "verse_key": "74:9",
-            "hizb_number": 58,
-            "rub_el_hizb_number": 230,
-            "ruku_number": 512,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "فَذَٰلِكَ يَوْمَئِذٍ يَوْمٌ عَسِيرٌ",
-            "page_number": 575,
-            "juz_number": 29,
             "translations": [
                 {
-                    "id": 101543,
-                    "resource_id": 20,
-                    "text": "That Day will be a difficult day"
-                },
-                {
-                    "id": 219392,
                     "resource_id": 39,
                     "text": "Maka saat yang demikian adalah saat (berlakunya) hari yang sukar -"
-                },
-                {
-                    "id": 1096481,
-                    "resource_id": 161,
-                    "text": "সেদিনটি হবে বড়ই কঠিন দিন,"
                 }
             ]
         },
         {
-            "id": 5505,
             "verse_number": 10,
-            "verse_key": "74:10",
-            "hizb_number": 58,
-            "rub_el_hizb_number": 230,
-            "ruku_number": 512,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "عَلَى ٱلْكَـٰفِرِينَ غَيْرُ يَسِيرٍ",
-            "page_number": 575,
-            "juz_number": 29,
             "translations": [
                 {
-                    "id": 101493,
-                    "resource_id": 20,
-                    "text": "For the disbelievers - not easy."
-                },
-                {
-                    "id": 219381,
                     "resource_id": 39,
                     "text": "Kepada orang-orang kafir, lagi tidak mudah (mengelak azabnya)."
-                },
+                }
+            ]
+        },
+        {
+            "verse_number": 11,
+            "text_uthmani": "ذَرْنِى وَمَنْ خَلَقْتُ وَحِيدًا",
+            "translations": [
                 {
-                    "id": 1096482,
-                    "resource_id": 161,
-                    "text": "(যা) কাফিরদের জন্য মোটেই সহজ নয়।"
+                    "resource_id": 39,
+                    "text": "(Jangan engkau bimbang wahai Muhammad) biarkanlah Aku sahaja membalas orang (yang menentangmu) yang Aku ciptakan dia (dalam keadaan) seorang diri (tidak berharta dan anak pinak),"
+                }
+            ]
+        },
+        {
+            "verse_number": 12,
+            "text_uthmani": "وَجَعَلْتُ لَهُۥ مَالًا مَّمْدُودًا",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan Aku jadikan baginya harta kekayaan yang banyak,"
+                }
+            ]
+        },
+        {
+            "verse_number": 13,
+            "text_uthmani": "وَبَنِينَ شُهُودًا",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Serta anak pinak (yang ramai), yang sentiasa ada di sisinya."
+                }
+            ]
+        },
+        {
+            "verse_number": 14,
+            "text_uthmani": "وَمَهَّدتُّ لَهُۥ تَمْهِيدًا",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan Aku mudahkan baginya (mendapat kekayaan dan kekuasaan) dengan semudah-mudahnya."
+                }
+            ]
+        },
+        {
+            "verse_number": 15,
+            "text_uthmani": "ثُمَّ يَطْمَعُ أَنْ أَزِيدَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Kemudian ia ingin sangat, supaya Aku tambahi lagi;"
+                }
+            ]
+        },
+        {
+            "verse_number": 16,
+            "text_uthmani": "كَلَّآ ۖ إِنَّهُۥ كَانَ لِـَٔايَـٰتِنَا عَنِيدًا",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Tidak sekali-kali (akan ditambahi) ! Kerana sesungguhnya dia menentang dengan degilnya akan ayat-ayat Kami (Al-Quran, yang disampaikan oleh Rasul Kami)."
+                }
+            ]
+        },
+        {
+            "verse_number": 17,
+            "text_uthmani": "سَأُرْهِقُهُۥ صَعُودًا",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Aku akan menyeksanya (dengan azab) yang memuncak beratnya."
+                }
+            ]
+        },
+        {
+            "verse_number": 18,
+            "text_uthmani": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Kerana sesungguhnya ia telah memikirkan dan mereka-reka berbagai tuduhan terhadap Al-Quran) -"
+                }
+            ]
+        },
+        {
+            "verse_number": 19,
+            "text_uthmani": "فَقُتِلَ كَيْفَ قَدَّرَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka binasalah dia hendaknya! Bagaimanakah dia berani mereka-reka (yang demikian)?"
+                }
+            ]
+        },
+        {
+            "verse_number": 20,
+            "text_uthmani": "ثُمَّ قُتِلَ كَيْفَ قَدَّرَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Sekali lagi: binasalah dia hendaknya! Bagaimana ia berani mereka-reka (tuduhan-tuduhan itu)?"
+                }
+            ]
+        },
+        {
+            "verse_number": 21,
+            "text_uthmani": "ثُمَّ نَظَرَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Kemudian ia merenung dan memikirkan (berkali-kali: jalan-jalan mencaci Al-Quran, tetapi ia gagal);"
+                }
+            ]
+        },
+        {
+            "verse_number": 22,
+            "text_uthmani": "ثُمَّ عَبَسَ وَبَسَرَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Setelah itu ia memasamkan mukanya serta ia bertambah masam berkerut;"
+                }
+            ]
+        },
+        {
+            "verse_number": 23,
+            "text_uthmani": "ثُمَّ أَدْبَرَ وَٱسْتَكْبَرَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Kemudian ia berpaling (dari kebenaran) dan berlaku sombong angkuh,"
+                }
+            ]
+        },
+        {
+            "verse_number": 24,
+            "text_uthmani": "فَقَالَ إِنْ هَـٰذَآ إِلَّا سِحْرٌ يُؤْثَرُ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Serta ia berkata: \" (Al-Quran) ini tidak lain hanyalah sihir yang dituntut serta dipelajari (dari ahli-ahlinya);"
+                }
+            ]
+        },
+        {
+            "verse_number": 25,
+            "text_uthmani": "إِنْ هَـٰذَآ إِلَّا قَوْلُ ٱلْبَشَرِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "\"Ini tidak lain hanyalah kata-kata (rekaan) manusia!\""
+                }
+            ]
+        },
+        {
+            "verse_number": 26,
+            "text_uthmani": "سَأُصْلِيهِ سَقَرَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "(Disebabkan kekufurannya itu) Aku akan masukkan dia ke dalam neraka Saqar."
+                }
+            ]
+        },
+        {
+            "verse_number": 27,
+            "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا سَقَرُ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan apa jalannya engkau dapat mengetahui kedahsyatan neraka Saqar itu?"
+                }
+            ]
+        },
+        {
+            "verse_number": 28,
+            "text_uthmani": "لَا تُبْقِى وَلَا تَذَرُ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Ia membakar mangsanya dengan tidak meninggalkan sisa, dan tidak membiarkannya (binasa terus)"
+                }
+            ]
+        },
+        {
+            "verse_number": 29,
+            "text_uthmani": "لَوَّاحَةٌ لِّلْبَشَرِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Ia terus-menerus membakar kulit manusia!"
+                }
+            ]
+        },
+        {
+            "verse_number": 30,
+            "text_uthmani": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Pengawal dan penjaganya adalah sembilan belas (malaikat)."
+                }
+            ]
+        },
+        {
+            "verse_number": 31,
+            "text_uthmani": "وَمَا جَعَلْنَآ أَصْحَـٰبَ ٱلنَّارِ إِلَّا مَلَـٰٓئِكَةً ۙ وَمَا جَعَلْنَا عِدَّتَهُمْ إِلَّا فِتْنَةً لِّلَّذِينَ كَفَرُوا۟ لِيَسْتَيْقِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ وَيَزْدَادَ ٱلَّذِينَ ءَامَنُوٓا۟ إِيمَـٰنًا ۙ وَلَا يَرْتَابَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ وَٱلْمُؤْمِنُونَ ۙ وَلِيَقُولَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ وَٱلْكَـٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَـٰذَا مَثَلًا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ ۚ وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَ ۚ وَمَا هِىَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan (ketahuilah bahawa hikmat) Kami tidak menjadikan pengawal-pengawal neraka itu melainkan (dari kalangan) malaikat, (kerana merekalah sekuat-kuat dan sebenar-benar makhluk yang menjalankan perintah Kami); dan (hikmat) Kami tidak menerangkan bilangan mereka melainkan dengan satu bilangan yang menyebabkan kesesatan dan kesengsaraan orang-orang kafir itu, supaya orang-orang yang diberi Kitab (Yahudi dan Nasrani) boleh percaya dengan yakin (akan kebenaran Al-Quran), dan supaya orang-orang yang beriman bertambah imannya; dan juga supaya orang-orang yang diberi Kitab dan orang-orang yang beriman itu tidak ragu-ragu (tentang kebenaran keterangan itu); dan (sebaliknya) supaya orang-orang (munafik) yang ada penyakit (ragu-ragu) dalam hatinya dan orang-orang kafir berkata: \"Apakah yang di maksudkan oleh Allah dengan menyebutkan bilangan ganjil ini?\" Demikianlah Allah menyesatkan sesiapa yang dikehendakiNya (menurut undang-undang peraturanNya), dan memberi hidayah petunjuk kepada sesiapa yang dikehendakiNya (menurut undang-undang peraturanNya); dan tiada yang mengetahui tentera Tuhanmu melainkan Dia lah sahaja. Dan (ingatlah, segala yang diterangkan berkenaan dengan) neraka itu tidak lain hanyalah menjadi peringatan bagi manusia."
+                }
+            ]
+        },
+        {
+            "verse_number": 32,
+            "text_uthmani": "كَلَّا وَٱلْقَمَرِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Sebenarnya! Demi bulan,"
+                }
+            ]
+        },
+        {
+            "verse_number": 33,
+            "text_uthmani": "وَٱلَّيْلِ إِذْ أَدْبَرَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan malam apabila ia balik melenyapkan diri,"
+                }
+            ]
+        },
+        {
+            "verse_number": 34,
+            "text_uthmani": "وَٱلصُّبْحِ إِذَآ أَسْفَرَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan waktu subuh apabila ia terang-benderang,"
+                }
+            ]
+        },
+        {
+            "verse_number": 35,
+            "text_uthmani": "إِنَّهَا لَإِحْدَى ٱلْكُبَرِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Sesungguhnya neraka Saqar itu adalah salah satu (malapetaka) yang amat besar,"
+                }
+            ]
+        },
+        {
+            "verse_number": 36,
+            "text_uthmani": "نَذِيرًا لِّلْبَشَرِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Yang menjadi amaran bagi umat manusia,"
+                }
+            ]
+        },
+        {
+            "verse_number": 37,
+            "text_uthmani": "لِمَن شَآءَ مِنكُمْ أَن يَتَقَدَّمَ أَوْ يَتَأَخَّرَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "(Iaitu) bagi sesiapa di antara kamu yang mahu maju (dalam mengerjakan kebaikan) atau yang mahu mundur (daripada mengerjakannya)."
+                }
+            ]
+        },
+        {
+            "verse_number": 38,
+            "text_uthmani": "كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ رَهِينَةٌ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Tiap-tiap diri terikat, tidak terlepas daripada (balasan buruk bagi amal jahat) yang dikerjakannya,"
+                }
+            ]
+        },
+        {
+            "verse_number": 39,
+            "text_uthmani": "إِلَّآ أَصْحَـٰبَ ٱلْيَمِينِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Kecuali puak Kanan,"
+                }
+            ]
+        },
+        {
+            "verse_number": 40,
+            "text_uthmani": "فِى جَنَّـٰتٍ يَتَسَآءَلُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "(Mereka ditempatkan) di dalam Syurga (yang penuh nikmat), mereka bertanya-tanya,"
+                }
+            ]
+        },
+        {
+            "verse_number": 41,
+            "text_uthmani": "عَنِ ٱلْمُجْرِمِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Tentang (tempat tinggal) orang-orang yang bersalah,"
+                }
+            ]
+        },
+        {
+            "verse_number": 42,
+            "text_uthmani": "مَا سَلَكَكُمْ فِى سَقَرَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "(Setelah melihat orang-orang yang bersalah itu, mereka berkata): \"Apakah yang menyebabkan kamu masuk ke dalam (neraka) Saqar?\""
+                }
+            ]
+        },
+        {
+            "verse_number": 43,
+            "text_uthmani": "قَالُوا۟ لَمْ نَكُ مِنَ ٱلْمُصَلِّينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Orang-orang yang bersalah itu menjawab: \"Kami tidak termasuk dalam kumpulan orang-orang yang mengerjakan sembahyang;"
+                }
+            ]
+        },
+        {
+            "verse_number": 44,
+            "text_uthmani": "وَلَمْ نَكُ نُطْعِمُ ٱلْمِسْكِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "\"Dan kami tidak pernah memberi makan orang-orang miskin;"
+                }
+            ]
+        },
+        {
+            "verse_number": 45,
+            "text_uthmani": "وَكُنَّا نَخُوضُ مَعَ ٱلْخَآئِضِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "\"Dan kami dahulu selalu mengambil bahagian memperkatakan perkara yang salah, bersama-sama orang-orang yang memperkatakannya;"
+                }
+            ]
+        },
+        {
+            "verse_number": 46,
+            "text_uthmani": "وَكُنَّا نُكَذِّبُ بِيَوْمِ ٱلدِّينِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "\"Dan kami sentiasa mendustakan hari pembalasan,"
+                }
+            ]
+        },
+        {
+            "verse_number": 47,
+            "text_uthmani": "حَتَّىٰٓ أَتَىٰنَا ٱلْيَقِينُ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "\"Sehinggalah kami didatangi oleh perkara yang tetap diyakini\"."
+                }
+            ]
+        },
+        {
+            "verse_number": 48,
+            "text_uthmani": "فَمَا تَنفَعُهُمْ شَفَـٰعَةُ ٱلشَّـٰفِعِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka tidak akan berguna kepada mereka sebarang syafaat pertolongan (kalaulah ditakdirkan ada) sesiapa yang boleh memberikan syafaat itu."
+                }
+            ]
+        },
+        {
+            "verse_number": 49,
+            "text_uthmani": "فَمَا لَهُمْ عَنِ ٱلتَّذْكِرَةِ مُعْرِضِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "(Kalau demikianlah halnya orang-orang yang bersalah), maka mengapa mereka berpaling lari dari peringatan (Al-Quran) ?"
+                }
+            ]
+        },
+        {
+            "verse_number": 50,
+            "text_uthmani": "كَأَنَّهُمْ حُمُرٌ مُّسْتَنفِرَةٌ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Seolah-olah mereka sekawan keldai liar yang lari,"
+                }
+            ]
+        },
+        {
+            "verse_number": 51,
+            "text_uthmani": "فَرَّتْ مِن قَسْوَرَةٍۭ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Melarikan diri (ketakutan) dari singa!"
+                }
+            ]
+        },
+        {
+            "verse_number": 52,
+            "text_uthmani": "بَلْ يُرِيدُ كُلُّ ٱمْرِئٍ مِّنْهُمْ أَن يُؤْتَىٰ صُحُفًا مُّنَشَّرَةً",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "(Mereka tidak merasa cukup dengan peringatan itu) bahkan tiap-tiap seorang di antaranya mahu supaya diberi kepadanya lembaran surat yang terbuka (yang diturunkan dari langit untuk dibaca oleh mereka sendiri)."
+                }
+            ]
+        },
+        {
+            "verse_number": 53,
+            "text_uthmani": "كَلَّا ۖ بَل لَّا يَخَافُونَ ٱلْـَٔاخِرَةَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Sebenarnya! (Bukan kerana kemahuan mereka tidak berhasil), bahkan mereka (tidak percaya dan) tidak takut akan hari akhirat."
+                }
+            ]
+        },
+        {
+            "verse_number": 54,
+            "text_uthmani": "كَلَّآ إِنَّهُۥ تَذْكِرَةٌ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Ketahuilah! Sesungguhnya Al-Quran itu adalah satu peringatan (yang sangat besar pengajarannya);"
+                }
+            ]
+        },
+        {
+            "verse_number": 55,
+            "text_uthmani": "فَمَن شَآءَ ذَكَرَهُۥ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Oleh itu sesiapa yang mahu (beringat) dapatlah ia mengambil peringatan daripadanya."
+                }
+            ]
+        },
+        {
+            "verse_number": 56,
+            "text_uthmani": "وَمَا يَذْكُرُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ هُوَ أَهْلُ ٱلتَّقْوَىٰ وَأَهْلُ ٱلْمَغْفِرَةِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan (dalam pada itu) tiadalah mereka dapat beringat melainkan jika dikehendaki Allah; Dia lah Tuhan yang berhak dipatuhi perintahNya, dan Dia lah jua yang berhak memberi keampunan (kepada orang-orang yang beriman dan taat)."
                 }
             ]
         }
-    ],
-    "pagination": {
-        "per_page": 10,
-        "current_page": 1,
-        "next_page": 2,
-        "total_pages": 6,
-        "total_records": 56
-    }
+    ]
 }

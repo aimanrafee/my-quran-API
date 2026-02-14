@@ -1,311 +1,604 @@
 {
     "verses": [
         {
-            "id": 3410,
             "verse_number": 1,
-            "verse_key": "30:1",
-            "hizb_number": 41,
-            "rub_el_hizb_number": 162,
-            "ruku_number": 350,
-            "manzil_number": 5,
-            "sajdah_number": null,
             "text_uthmani": " الٓمٓ",
-            "page_number": 404,
-            "juz_number": 21,
             "translations": [
                 {
-                    "id": 98601,
-                    "resource_id": 20,
-                    "text": "Alif, Lām, Meem.<sup foot_note=197038>1</sup>"
-                },
-                {
-                    "id": 214630,
                     "resource_id": 39,
                     "text": "Alif, Laam, Miim."
-                },
-                {
-                    "id": 1094387,
-                    "resource_id": 161,
-                    "text": "আলিম-লাম-মীম।"
                 }
             ]
         },
         {
-            "id": 3411,
             "verse_number": 2,
-            "verse_key": "30:2",
-            "hizb_number": 41,
-            "rub_el_hizb_number": 162,
-            "ruku_number": 350,
-            "manzil_number": 5,
-            "sajdah_number": null,
             "text_uthmani": "غُلِبَتِ ٱلرُّومُ",
-            "page_number": 404,
-            "juz_number": 21,
             "translations": [
                 {
-                    "id": 98612,
-                    "resource_id": 20,
-                    "text": "The Byzantines have been defeated<sup foot_note=197039>1</sup>"
-                },
-                {
-                    "id": 216473,
                     "resource_id": 39,
                     "text": "Orang-orang Rom telah dikalahkan -"
-                },
-                {
-                    "id": 1094388,
-                    "resource_id": 161,
-                    "text": "রোমানরা পরাজিত হয়েছে।"
                 }
             ]
         },
         {
-            "id": 3412,
             "verse_number": 3,
-            "verse_key": "30:3",
-            "hizb_number": 41,
-            "rub_el_hizb_number": 162,
-            "ruku_number": 350,
-            "manzil_number": 5,
-            "sajdah_number": null,
             "text_uthmani": "فِىٓ أَدْنَى ٱلْأَرْضِ وَهُم مِّنۢ بَعْدِ غَلَبِهِمْ سَيَغْلِبُونَ",
-            "page_number": 404,
-            "juz_number": 21,
             "translations": [
                 {
-                    "id": 98623,
-                    "resource_id": 20,
-                    "text": "In the nearest land.<sup foot_note=197040>1</sup> But they, after their defeat, will overcome"
-                },
-                {
-                    "id": 214771,
                     "resource_id": 39,
                     "text": "Di negeri yang dekat sekali; dan mereka sesudah kekalahannya itu akan mengalahkan lawannya -"
-                },
-                {
-                    "id": 1094389,
-                    "resource_id": 161,
-                    "text": "নিকটস্থ ভূমিতে, কিন্তু তারা তাদের পরাজয়ের পর শীঘ্রই জয়লাভ করবে।"
                 }
             ]
         },
         {
-            "id": 3413,
             "verse_number": 4,
-            "verse_key": "30:4",
-            "hizb_number": 41,
-            "rub_el_hizb_number": 162,
-            "ruku_number": 350,
-            "manzil_number": 5,
-            "sajdah_number": null,
             "text_uthmani": "فِى بِضْعِ سِنِينَ ۗ لِلَّهِ ٱلْأَمْرُ مِن قَبْلُ وَمِنۢ بَعْدُ ۚ وَيَوْمَئِذٍ يَفْرَحُ ٱلْمُؤْمِنُونَ",
-            "page_number": 404,
-            "juz_number": 21,
             "translations": [
                 {
-                    "id": 98635,
-                    "resource_id": 20,
-                    "text": "Within three to nine years. To Allāh belongs the command [i.e., decree] before and after. And that day the believers will rejoice"
-                },
-                {
-                    "id": 216486,
                     "resource_id": 39,
                     "text": "Dalam masa tidak sampai sepuluh tahun. Kepada pentadbiran Allah jualah terpulang segala urusan, sebelum berlakunya dan sesudah berlakunya; dan pada ketika berlakunya (kemenangan Rom) itu, orang-orang yang beriman akan bergembira -"
-                },
-                {
-                    "id": 1094390,
-                    "resource_id": 161,
-                    "text": "কয়েক (তিন থেকে নয়) বছরের মধ্যেই; (কোন্ কাজ হবে) আগে ও (কোন্ কাজ হবে) পরে সে ফয়সালা আল্লাহরই। সেদিন মু’মিনরা আনন্দ করবে।"
                 }
             ]
         },
         {
-            "id": 3414,
             "verse_number": 5,
-            "verse_key": "30:5",
-            "hizb_number": 41,
-            "rub_el_hizb_number": 162,
-            "ruku_number": 350,
-            "manzil_number": 5,
-            "sajdah_number": null,
             "text_uthmani": "بِنَصْرِ ٱللَّهِ ۚ يَنصُرُ مَن يَشَآءُ ۖ وَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
-            "page_number": 404,
-            "juz_number": 21,
             "translations": [
                 {
-                    "id": 98646,
-                    "resource_id": 20,
-                    "text": "In the victory of Allāh.<sup foot_note=197041>1</sup> He gives victory to whom He wills, and He is the Exalted in Might, the Merciful."
-                },
-                {
-                    "id": 216496,
                     "resource_id": 39,
                     "text": "Dengan kemenangan yang diberi Allah. Ia memberi kemenangan kepada sesiapa yang dikehendakiNya, dan Dia lah jua yang Maha Kuasa, lagi Maha Mengasihani."
-                },
-                {
-                    "id": 1094391,
-                    "resource_id": 161,
-                    "text": "(সে বিজয় অর্জিত হবে) আল্লাহর সাহায্যে। যাকে ইচ্ছে তিনি সাহায্য করেন, তিনি মহাপরাক্রমশালী, বড়ই দয়ালু।"
                 }
             ]
         },
         {
-            "id": 3415,
             "verse_number": 6,
-            "verse_key": "30:6",
-            "hizb_number": 41,
-            "rub_el_hizb_number": 162,
-            "ruku_number": 350,
-            "manzil_number": 5,
-            "sajdah_number": null,
             "text_uthmani": "وَعْدَ ٱللَّهِ ۖ لَا يُخْلِفُ ٱللَّهُ وَعْدَهُۥ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
-            "page_number": 405,
-            "juz_number": 21,
             "translations": [
                 {
-                    "id": 98657,
-                    "resource_id": 20,
-                    "text": "[It is] the promise of Allāh. Allāh does not fail in His promise, but most of the people do not know."
-                },
-                {
-                    "id": 216507,
                     "resource_id": 39,
                     "text": "Demikian dijanjikan Allah. Allah tidak pernah mengubah janjiNya, akan tetapi kebanyakan manusia tidak mengetahui (hakikat yang sebenarnya)."
-                },
-                {
-                    "id": 1094392,
-                    "resource_id": 161,
-                    "text": "এটা আল্লাহর ও‘য়াদা, আল্লাহ তাঁর ও‘য়াদার ব্যতিক্রম করেন না, কিন্তু অধিকাংশ লোকই জানে না।"
                 }
             ]
         },
         {
-            "id": 3416,
             "verse_number": 7,
-            "verse_key": "30:7",
-            "hizb_number": 41,
-            "rub_el_hizb_number": 162,
-            "ruku_number": 350,
-            "manzil_number": 5,
-            "sajdah_number": null,
             "text_uthmani": "يَعْلَمُونَ ظَـٰهِرًا مِّنَ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَهُمْ عَنِ ٱلْـَٔاخِرَةِ هُمْ غَـٰفِلُونَ",
-            "page_number": 405,
-            "juz_number": 21,
             "translations": [
                 {
-                    "id": 98659,
-                    "resource_id": 20,
-                    "text": "They know what is apparent of the worldly life, but they, of the Hereafter, are unaware."
-                },
-                {
-                    "id": 216508,
                     "resource_id": 39,
                     "text": "Mereka hanya mengetahui perkara yang zahir nyata dari kehidupan dunia sahaja, dan mereka tidak pernah ingat hendak mengambil tahu tentang hari akhirat."
-                },
-                {
-                    "id": 1094393,
-                    "resource_id": 161,
-                    "text": "তারা পার্থিব জীবনের বাহ্যিক দিক জানে, আর তারা পরকালের খবর রাখে না।"
                 }
             ]
         },
         {
-            "id": 3417,
             "verse_number": 8,
-            "verse_key": "30:8",
-            "hizb_number": 41,
-            "rub_el_hizb_number": 162,
-            "ruku_number": 350,
-            "manzil_number": 5,
-            "sajdah_number": null,
             "text_uthmani": "أَوَلَمْ يَتَفَكَّرُوا۟ فِىٓ أَنفُسِهِم ۗ مَّا خَلَقَ ٱللَّهُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَآ إِلَّا بِٱلْحَقِّ وَأَجَلٍ مُّسَمًّى ۗ وَإِنَّ كَثِيرًا مِّنَ ٱلنَّاسِ بِلِقَآئِ رَبِّهِمْ لَكَـٰفِرُونَ",
-            "page_number": 405,
-            "juz_number": 21,
             "translations": [
                 {
-                    "id": 98660,
-                    "resource_id": 20,
-                    "text": "Do they not contemplate within themselves?<sup foot_note=197042>1</sup> Allāh has not created the heavens and the earth and what is between them except in truth and for a specified term. And indeed, many of the people, in the meeting with their Lord, are disbelievers."
-                },
-                {
-                    "id": 216509,
                     "resource_id": 39,
                     "text": "Patutkah mereka merasa cukup dengan mengetahui yang demikian sahaja, dan tidak memikirkan dalam hati mereka, (supaya mereka dapat mengetahui), bahawa Allah tidak menciptakan langit dan bumi serta segala yang ada di antara keduanya itu melainkan dengan ada gunanya yang sebenar, dan dengan ada masa penghujungnya yang tertentu, (juga untuk kembali menemui Penciptanya)? Dan sebenarnya banyak di antara manusia, orang-orang yang sungguh ingkar akan pertemuan dengan Tuhannya."
-                },
-                {
-                    "id": 1094394,
-                    "resource_id": 161,
-                    "text": "তারা কি তাদের মনে ভেবে দেখে না যে, আল্লাহ আকাশমন্ডলী, পৃথিবী ও এ দু’এর মধ্যবর্তী সবকিছু সৃষ্টি করেছেন যথাযথভাবে ও নির্দিষ্ট কালের জন্য, কিন্তু অনেক মানুষ তাদের প্রতিপালকের সাক্ষাতে নিশ্চিতই অবিশ্বাসী।"
                 }
             ]
         },
         {
-            "id": 3418,
             "verse_number": 9,
-            "verse_key": "30:9",
-            "hizb_number": 41,
-            "rub_el_hizb_number": 162,
-            "ruku_number": 350,
-            "manzil_number": 5,
-            "sajdah_number": null,
             "text_uthmani": "أَوَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ كَانُوٓا۟ أَشَدَّ مِنْهُمْ قُوَّةً وَأَثَارُوا۟ ٱلْأَرْضَ وَعَمَرُوهَآ أَكْثَرَ مِمَّا عَمَرُوهَا وَجَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَـٰتِ ۖ فَمَا كَانَ ٱللَّهُ لِيَظْلِمَهُمْ وَلَـٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ",
-            "page_number": 405,
-            "juz_number": 21,
             "translations": [
                 {
-                    "id": 98661,
-                    "resource_id": 20,
-                    "text": "Have they not traveled through the earth and observed how was the end of those before them? They were greater than them in power, and they plowed [or excavated] the earth and built it up more than they [i.e., the Makkans] have built it up, and their messengers came to them with clear evidences. And Allāh would not ever have wronged them, but they were wronging themselves."
-                },
-                {
-                    "id": 216511,
                     "resource_id": 39,
                     "text": "Tidakkah mereka telah berjalan dan mengembara di muka bumi, serta memerhatikan bagaimana kesudahan orang-orang yang terdahulu dari mereka? Orang-orang itu lebih kuat daripada mereka sendiri, dan orang-orang itu telah meneroka bumi serta memakmurkannya lebih daripada kemakmuran yang dilakukan oleh mereka, dan orang-orang itu juga telah didatangi oleh Rasul-rasulnya dengan membawa keterangan-keterangan yang jelas nyata (lalu mereka mendustakannya dan kesudahannya mereka dibinasakan). Dengan yang demikian, maka Allah tidak sekali-kali menganiaya mereka, tetapi merekalah yang menganiaya diri sendiri."
-                },
-                {
-                    "id": 1094395,
-                    "resource_id": 161,
-                    "text": "তারা কি পৃথিবীতে ভ্রমণ করে না? তাহলে তারা দেখত যে, তাদের পূর্ববর্তীদের পরিণাম কী হয়েছিল। তারা শক্তিতে ছিল এদের চেয়ে অধিক প্রবল। তারা যমীন চাষ করত আর তা আবাদ করত এদের আবাদ করার চেয়ে বেশি। তাদের কাছে তাদের রসূলগণ স্পষ্ট প্রমাণ নিয়ে এসেছিল। অতঃপর আল্লাহ তাদের উপর যুলম করেননি, তারা নিজেরাই নিজেদের উপর যুলম করেছিল।"
                 }
             ]
         },
         {
-            "id": 3419,
             "verse_number": 10,
-            "verse_key": "30:10",
-            "hizb_number": 41,
-            "rub_el_hizb_number": 162,
-            "ruku_number": 350,
-            "manzil_number": 5,
-            "sajdah_number": null,
             "text_uthmani": "ثُمَّ كَانَ عَـٰقِبَةَ ٱلَّذِينَ أَسَـٰٓـُٔوا۟ ٱلسُّوٓأَىٰٓ أَن كَذَّبُوا۟ بِـَٔايَـٰتِ ٱللَّهِ وَكَانُوا۟ بِهَا يَسْتَهْزِءُونَ",
-            "page_number": 405,
-            "juz_number": 21,
             "translations": [
                 {
-                    "id": 98602,
-                    "resource_id": 20,
-                    "text": "Then the end of those who did evil was the worst [consequence] because they denied the signs of Allāh and used to ridicule them."
-                },
-                {
-                    "id": 216621,
                     "resource_id": 39,
                     "text": "Sesudah dibinasakan di dunia maka akibat orang-orang yang melakukan kejahatan itu ialah seburuk-buruk azab (di akhirat kelak), disebabkan mereka mendustakan ayat-ayat keterangan Allah dan sentiasa mempersendakannya."
-                },
+                }
+            ]
+        },
+        {
+            "verse_number": 11,
+            "text_uthmani": "ٱللَّهُ يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ ثُمَّ إِلَيْهِ تُرْجَعُونَ",
+            "translations": [
                 {
-                    "id": 1094396,
-                    "resource_id": 161,
-                    "text": "অতঃপর যারা মন্দ কাজ করত, তাদের পরিণাম হয়েছিল মন্দ; কারণ তারা আল্লাহর নিদর্শনাবলীকে অস্বীকার করেছিল আর সেগুলো নিয়ে ঠাট্টা-বিদ্রূপ করত।"
+                    "resource_id": 39,
+                    "text": "Allah memulakan kejadian sekalian makhluk, kemudian Ia mengembalikannya (hidup semula pada hari kiamat), kemudian kepadaNyalah kamu akan dikembalikan (untuk menerima balasan)."
+                }
+            ]
+        },
+        {
+            "verse_number": 12,
+            "text_uthmani": "وَيَوْمَ تَقُومُ ٱلسَّاعَةُ يُبْلِسُ ٱلْمُجْرِمُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan semasa berlakunya hari kiamat, orang-orang yang berdosa akan dia membisu serta berputus asa."
+                }
+            ]
+        },
+        {
+            "verse_number": 13,
+            "text_uthmani": "وَلَمْ يَكُن لَّهُم مِّن شُرَكَآئِهِمْ شُفَعَـٰٓؤُا۟ وَكَانُوا۟ بِشُرَكَآئِهِمْ كَـٰفِرِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan makhluk-makhluk yang mereka jadikan sekutu-sekutu Allah itu tidak ada satupun daripadanya pemberi syafaat melepaskan mereka (dari azab Allah), padahal mereka berlaku kufur di dunia dahulu dengan sebab makhluk-makhluk yang mereka sekutukan (dengan Allah) itu."
+                }
+            ]
+        },
+        {
+            "verse_number": 14,
+            "text_uthmani": "وَيَوْمَ تَقُومُ ٱلسَّاعَةُ يَوْمَئِذٍ يَتَفَرَّقُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan semasa berlakunya kiamat, mereka pada hari itu akan berpecah kepada dua kumpulan (setelah selesai perbicaraan)."
+                }
+            ]
+        },
+        {
+            "verse_number": 15,
+            "text_uthmani": "فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَهُمْ فِى رَوْضَةٍ يُحْبَرُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Adapun kumpulan orang-orang yang beriman dan beramal soleh, maka mereka akan ditempatkan di taman Syurga dalam keadaan bersuka ria."
+                }
+            ]
+        },
+        {
+            "verse_number": 16,
+            "text_uthmani": "وَأَمَّا ٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَـٰتِنَا وَلِقَآئِ ٱلْـَٔاخِرَةِ فَأُو۟لَـٰٓئِكَ فِى ٱلْعَذَابِ مُحْضَرُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan sebaliknya kumpulan orang-orang yang kafir dan mendustakan ayat-ayat Kami (Al-Quran) serta mendustakan pertemuan hari akhirat, maka mereka akan tetap berada dalam azab seksa selama-lamanya."
+                }
+            ]
+        },
+        {
+            "verse_number": 17,
+            "text_uthmani": "فَسُبْحَـٰنَ ٱللَّهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "(Setelah kamu mengetahui yang demikian) maka bertasbihlah kepada Allah semasa kamu berada pada waktu malam dan semasa kamu berada pada waktu subuh."
+                }
+            ]
+        },
+        {
+            "verse_number": 18,
+            "text_uthmani": "وَلَهُ ٱلْحَمْدُ فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَعَشِيًّا وَحِينَ تُظْهِرُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Serta pujilah Allah yang berhak menerima segala puji (dari sekalian makhlukNya) di langit dan di bumi, dan juga (bertasbihlah kepadaNya serta pujilah Dia) pada waktu petang dan semasa kamu berada pada waktu zuhur."
+                }
+            ]
+        },
+        {
+            "verse_number": 19,
+            "text_uthmani": "يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَيُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ وَيُحْىِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا ۚ وَكَذَٰلِكَ تُخْرَجُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Ia mengeluarkan sesuatu yang hidup dari benda yang mati, dan mengeluarkan benda yang mati dari sesuatu yang hidup, serta menghidupkan bumi sesudah matinya; dan sedemikian itulah kamu akan dikeluarkan (hidup semula dari kubur)."
+                }
+            ]
+        },
+        {
+            "verse_number": 20,
+            "text_uthmani": "وَمِنْ ءَايَـٰتِهِۦٓ أَنْ خَلَقَكُم مِّن تُرَابٍ ثُمَّ إِذَآ أَنتُم بَشَرٌ تَنتَشِرُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan di antara tanda-tanda yang membuktikan kekuasaanNya (menghidupkan kamu semula), bahawa Ia menciptakan kamu dari tanah; setelah sempurna sahaja peringkat-peringkat kejadian kamu, kamu menjadi manusia yang hidup bertebaran di muka bumi."
+                }
+            ]
+        },
+        {
+            "verse_number": 21,
+            "text_uthmani": "وَمِنْ ءَايَـٰتِهِۦٓ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا لِّتَسْكُنُوٓا۟ إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan di antara tanda-tanda yang membuktikan kekuasaannya dan rahmatNya, bahawa Ia menciptakan untuk kamu (wahai kaum lelaki), isteri-isteri dari jenis kamu sendiri, supaya kamu bersenang hati dan hidup mesra dengannya, dan dijadikanNya di antara kamu (suami isteri) perasaan kasih sayang dan belas kasihan. Sesungguhnya yang demikian itu mengandungi keterangan-keterangan (yang menimbulkan kesedaran) bagi orang-orang yang berfikir."
+                }
+            ]
+        },
+        {
+            "verse_number": 22,
+            "text_uthmani": "وَمِنْ ءَايَـٰتِهِۦ خَلْقُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَـٰفُ أَلْسِنَتِكُمْ وَأَلْوَٰنِكُمْ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّلْعَـٰلِمِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan di antara tanda-tanda yang membuktikan kekuasaanNya dan kebijaksanaanNya ialah kejadian langit dan bumi, dan perbezaan bahasa kamu dan warna kulit kamu. Sesungguhnya yang demikian itu mengandungi keterangan-keterangan bagi orang-orang yang berpengetahuan."
+                }
+            ]
+        },
+        {
+            "verse_number": 23,
+            "text_uthmani": "وَمِنْ ءَايَـٰتِهِۦ مَنَامُكُم بِٱلَّيْلِ وَٱلنَّهَارِ وَٱبْتِغَآؤُكُم مِّن فَضْلِهِۦٓ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يَسْمَعُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan di antara tanda-tanda yang membuktikan kemurahannya dan kasih sayangNya ialah tidurnya kamu pada waktu malam dan pada siang hari, dan usaha kamu mencari rezeki dari limpah kurniaNya (pada kedua-dua waktu itu). Sesungguhnya keadaan yang demikian mengandungi keterangan-keterangan bagi orang-orang yang mahu mendengar (nasihat pengajaran)."
+                }
+            ]
+        },
+        {
+            "verse_number": 24,
+            "text_uthmani": "وَمِنْ ءَايَـٰتِهِۦ يُرِيكُمُ ٱلْبَرْقَ خَوْفًا وَطَمَعًا وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مَآءً فَيُحْىِۦ بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَآ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يَعْقِلُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan di antara tanda-tanda yang membuktikan kebesaranNya dan kekuasaanNya, Ia memperlihatkan kilat kepada kamu, untuk menakutkan (dari panahan petir) dan memberi harapan (dengan turunnya hujan); dan Ia menurunkan hujan dari langit, lalu Ia hidupkan bumi sesudah matinya dengan hujan itu. Sesungguhnya yang demikian mengandungi keterangan-keterangan bagi orang-orang yang menggunakan akal untuk memahamiNya."
+                }
+            ]
+        },
+        {
+            "verse_number": 25,
+            "text_uthmani": "وَمِنْ ءَايَـٰتِهِۦٓ أَن تَقُومَ ٱلسَّمَآءُ وَٱلْأَرْضُ بِأَمْرِهِۦ ۚ ثُمَّ إِذَا دَعَاكُمْ دَعْوَةً مِّنَ ٱلْأَرْضِ إِذَآ أَنتُمْ تَخْرُجُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan di antara tanda-tanda yang membuktikan keluasan ilmuNya dan kekuasaanNya, ialah terdirinya langit dan bumi (dalam keadaan yang menakjubkan itu) dengan perintah dan penentuan takdirNya; akhirnya apabila Ia menyeru kamu dengan satu seruan (supaya kamu bangkit hidup semula) dari bumi, kamu dengan serta merta keluar (dari kubur masing-masing)."
+                }
+            ]
+        },
+        {
+            "verse_number": 26,
+            "text_uthmani": "وَلَهُۥ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ كُلٌّ لَّهُۥ قَـٰنِتُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan sekalian makhluk yang ada di langit dan di bumi adalah hak kepunyaanNya, masing-masing tetap tunduk kepada hukum peraturanNya."
+                }
+            ]
+        },
+        {
+            "verse_number": 27,
+            "text_uthmani": "وَهُوَ ٱلَّذِى يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ وَهُوَ أَهْوَنُ عَلَيْهِ ۚ وَلَهُ ٱلْمَثَلُ ٱلْأَعْلَىٰ فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan Dia lah yang memulakan kejadian sekalian makhluk, kemudian Ia mengembalikannya (hidup semula sesudah mereka mati), sedang perlaksanaan yang demikian amatlah mudah bagiNya. Dan bagiNyalah jua sifat yang tertinggi di langit dan di bumi, dan Dia lah jua Yang Maha Kuasa, lagi Maha Bijaksana."
+                }
+            ]
+        },
+        {
+            "verse_number": 28,
+            "text_uthmani": "ضَرَبَ لَكُم مَّثَلًا مِّنْ أَنفُسِكُمْ ۖ هَل لَّكُم مِّن مَّا مَلَكَتْ أَيْمَـٰنُكُم مِّن شُرَكَآءَ فِى مَا رَزَقْنَـٰكُمْ فَأَنتُمْ فِيهِ سَوَآءٌ تَخَافُونَهُمْ كَخِيفَتِكُمْ أَنفُسَكُمْ ۚ كَذَٰلِكَ نُفَصِّلُ ٱلْـَٔايَـٰتِ لِقَوْمٍ يَعْقِلُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Ia mengemukakan kepada kamu satu misal perbandingan dari keadaan diri kamu sendiri, iaitu: Relakah kamu menerima sebahagian dari hamba-hamba abdi yang kamu miliki itu menjadi rakan kongsi kamu pada harta benda yang Kami telah kurniakan kepada kamu, supaya dengan penerimaan kamu itu, mereka dengan kamu menjadi sama-sama berhak padanya, sehingga kamu pun tidak berani (menguruskan harta benda itu dengan tiada persetujuan) mereka, sebagaimana kamu tidak berani (berbuat demikian dengan orang-orang yang berkongsi dengan kamu - yang setaraf dengan) diri kamu? Demikianlah Kami menjelaskan keterangan-keterangan satu persatu bagi orang-orang yang menggunakan akal untuk memahaminya."
+                }
+            ]
+        },
+        {
+            "verse_number": 29,
+            "text_uthmani": "بَلِ ٱتَّبَعَ ٱلَّذِينَ ظَلَمُوٓا۟ أَهْوَآءَهُم بِغَيْرِ عِلْمٍ ۖ فَمَن يَهْدِى مَنْ أَضَلَّ ٱللَّهُ ۖ وَمَا لَهُم مِّن نَّـٰصِرِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Orang-orang yang zalim itu (tidak berfikir), bahkan menurut hawa nafsu mereka (melakukan syirik) dengan tidak berdasarkan pengetahuan. Maka tiada sesiapa yang dapat memberi petunjuk kepada orang yang telah disesatkan oleh Allah (disebabkan bawaannya sendiri), dan tiada pula bagi mereka sesiapa yang dapat menolong melepaskan mereka dari azab."
+                }
+            ]
+        },
+        {
+            "verse_number": 30,
+            "text_uthmani": "فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا ۚ فِطْرَتَ ٱللَّهِ ٱلَّتِى فَطَرَ ٱلنَّاسَ عَلَيْهَا ۚ لَا تَبْدِيلَ لِخَلْقِ ٱللَّهِ ۚ ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "(Setelah jelas kesesatan syirik itu) maka hadapkanlah dirimu (engkau dan pengikut-pengikutmu, wahai Muhammad) ke arah ugama yang jauh dari kesesatan; (turutlah terus) ugama Allah, iaitu ugama yang Allah menciptakan manusia (dengan keadaan bersedia dari semulajadinya) untuk menerimanya; tidaklah patut ada sebarang perubahan pada ciptaan Allah itu; itulah ugama yang betul lurus, tetapi kebanyakan manusia tidak mengetahui."
+                }
+            ]
+        },
+        {
+            "verse_number": 31,
+            "text_uthmani": "۞ مُنِيبِينَ إِلَيْهِ وَٱتَّقُوهُ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَلَا تَكُونُوا۟ مِنَ ٱلْمُشْرِكِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Hendaklah kamu (wahai Muhammad dan pengikut-pengikutmu) sentiasa rujuk kembali kepada Allah (dengan mengerjakan amal-amal bakti) serta bertaqwalah kamu kepadaNya; dan kerjakanlah sembahyang dengan betul sempurna; dan janganlah kamu menjadi dari mana-mana golongan orang musyrik -"
+                }
+            ]
+        },
+        {
+            "verse_number": 32,
+            "text_uthmani": "مِنَ ٱلَّذِينَ فَرَّقُوا۟ دِينَهُمْ وَكَانُوا۟ شِيَعًا ۖ كُلُّ حِزْبٍۭ بِمَا لَدَيْهِمْ فَرِحُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Iaitu orang-orang yang menjadikan fahaman ugama mereka berselisihan mengikut kecenderungan masing-masing serta mereka pula menjadi berpuak-puak; tiap-tiap puak bergembira dengan apa yang ada padanya (dari fahaman dan amalan yang terpesong itu)."
+                }
+            ]
+        },
+        {
+            "verse_number": 33,
+            "text_uthmani": "وَإِذَا مَسَّ ٱلنَّاسَ ضُرٌّ دَعَوْا۟ رَبَّهُم مُّنِيبِينَ إِلَيْهِ ثُمَّ إِذَآ أَذَاقَهُم مِّنْهُ رَحْمَةً إِذَا فَرِيقٌ مِّنْهُم بِرَبِّهِمْ يُشْرِكُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan apabila manusia disentuh oleh sesuatu bahaya, mereka segera berdoa kepada Tuhan mereka dengan keadaan rujuk kembali bertaubat kepadaNya; kemudian apabila Allah memberi mereka merasai sesuatu rahmat daripadaNya, tiba-tiba sebahagian dari mereka mempersekutukan sesuatu yang lain dengan Tuhannya;"
+                }
+            ]
+        },
+        {
+            "verse_number": 34,
+            "text_uthmani": "لِيَكْفُرُوا۟ بِمَآ ءَاتَيْنَـٰهُمْ ۚ فَتَمَتَّعُوا۟ فَسَوْفَ تَعْلَمُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dengan sebab itu, mereka mengingkari nikmat-nikmat yang telah Kami berikan kepadanya. Maka (dikatakan kepada mereka): \"Bersenang-senanglah kamu (bagi sementara), kemudian kamu akan mengetahui (balasan kederhakaan kamu)\"."
+                }
+            ]
+        },
+        {
+            "verse_number": 35,
+            "text_uthmani": "أَمْ أَنزَلْنَا عَلَيْهِمْ سُلْطَـٰنًا فَهُوَ يَتَكَلَّمُ بِمَا كَانُوا۟ بِهِۦ يُشْرِكُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Pernahkah Kami menurunkan kepada mereka (yang musyrik itu) sebarang bukti keterangan, lalu ia menerangkan jalan yang membolehkan mereka lakukan perbuatan syirik itu?"
+                }
+            ]
+        },
+        {
+            "verse_number": 36,
+            "text_uthmani": "وَإِذَآ أَذَقْنَا ٱلنَّاسَ رَحْمَةً فَرِحُوا۟ بِهَا ۖ وَإِن تُصِبْهُمْ سَيِّئَةٌۢ بِمَا قَدَّمَتْ أَيْدِيهِمْ إِذَا هُمْ يَقْنَطُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan apabila Kami beri manusia merasai sesuatu rahmat, mereka bergembira dengannya (sehingga lupa daratan); dan jika mereka ditimpa sesuatu bencana disebabkan apa yang telah dilakukan oleh tangan mereka sendiri, tiba-tiba mereka berputus asa."
+                }
+            ]
+        },
+        {
+            "verse_number": 37,
+            "text_uthmani": "أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يُؤْمِنُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "(Mengapa mereka bersikap demikian?) dan mengapa mereka tidak melihat (dengan hati mereka) bahawa Allah memewahkan rezeki bagi sesiapa yang dikehendakiNya (sebagai cubaan adakah orang itu bersyukur atau sebaliknya), dan Ia juga yang menyempitkannya (sebagai ujian sama ada diterima dengan sabar atau tidak)? Sesungguhnya hal yang demikian itu mengandungi keterangan-keterangan (yang membuktikan kekuasaan Allah) bagi orang-orang yang beriman."
+                }
+            ]
+        },
+        {
+            "verse_number": 38,
+            "text_uthmani": "فَـَٔاتِ ذَا ٱلْقُرْبَىٰ حَقَّهُۥ وَٱلْمِسْكِينَ وَٱبْنَ ٱلسَّبِيلِ ۚ ذَٰلِكَ خَيْرٌ لِّلَّذِينَ يُرِيدُونَ وَجْهَ ٱللَّهِ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka (bagi menyatakan sikap syukur) berikanlah kepada kerabatmu, dan orang miskin serta orang musafir akan haknya masing-masing; pemberian yang demikian adalah baik bagi orang-orang yang bertujuan memperoleh keredaan Allah dan mereka itulah orang-orang yang berjaya."
+                }
+            ]
+        },
+        {
+            "verse_number": 39,
+            "text_uthmani": "وَمَآ ءَاتَيْتُم مِّن رِّبًا لِّيَرْبُوَا۟ فِىٓ أَمْوَٰلِ ٱلنَّاسِ فَلَا يَرْبُوا۟ عِندَ ٱللَّهِ ۖ وَمَآ ءَاتَيْتُم مِّن زَكَوٰةٍ تُرِيدُونَ وَجْهَ ٱللَّهِ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُضْعِفُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan (ketahuilah bahawa) sesuatu pemberian atau tambahan yang kamu berikan, supaya bertambah kembangnya dalam pusingan harta manusia maka ia tidak sekali-kali akan kembang di sisi Allah (tidak mendatangkan kebaikan). Dan sebaliknya sesuatu pemberian sedekah yang kamu berikan dengan tujuan mengharapkan keredaan Allah semata-mata, maka mereka yang melakukannya itulah orang-orang yang beroleh pahala berganda-ganda."
+                }
+            ]
+        },
+        {
+            "verse_number": 40,
+            "text_uthmani": "ٱللَّهُ ٱلَّذِى خَلَقَكُمْ ثُمَّ رَزَقَكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ ۖ هَلْ مِن شُرَكَآئِكُم مَّن يَفْعَلُ مِن ذَٰلِكُم مِّن شَىْءٍ ۚ سُبْحَـٰنَهُۥ وَتَعَـٰلَىٰ عَمَّا يُشْرِكُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Allah jualah yang mencipta kamu; kemudian Ia memberi rezeki kepada kamu; sesudah itu Ia mematikan kamu; kemudian Ia menghidupkan kamu semula. Adakah di antara makhluk-makhluk yang kamu sekutukan dengan Allah itu sesiapa yang dapat berbuat sesuatu pun dari segala yang tersebut? Maha Suci Allah dan Tertinggi keadaanNya dari apa yang mereka sekutukan (denganNya)."
+                }
+            ]
+        },
+        {
+            "verse_number": 41,
+            "text_uthmani": "ظَهَرَ ٱلْفَسَادُ فِى ٱلْبَرِّ وَٱلْبَحْرِ بِمَا كَسَبَتْ أَيْدِى ٱلنَّاسِ لِيُذِيقَهُم بَعْضَ ٱلَّذِى عَمِلُوا۟ لَعَلَّهُمْ يَرْجِعُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Telah timbul berbagai kerosakan dan bala bencana di darat dan di laut dengan sebab apa yang telah dilakukan oleh tangan manusia; (timbulnya yang demikian) kerana Allah hendak merasakan mereka sebahagian dari balasan perbuatan-perbuatan buruk yang mereka telah lakukan, supaya mereka kembali (insaf dan bertaubat)."
+                }
+            ]
+        },
+        {
+            "verse_number": 42,
+            "text_uthmani": "قُلْ سِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلَّذِينَ مِن قَبْلُ ۚ كَانَ أَكْثَرُهُم مُّشْرِكِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Katakanlah: \"Mengembaralah kamu di muka bumi kemudian lihatlah bagaimana kesudahan orang-orang yang telah lalu (yang telah dibinasakan); kebanyakan mereka adalah orang-orang musyrik\"."
+                }
+            ]
+        },
+        {
+            "verse_number": 43,
+            "text_uthmani": "فَأَقِمْ وَجْهَكَ لِلدِّينِ ٱلْقَيِّمِ مِن قَبْلِ أَن يَأْتِىَ يَوْمٌ لَّا مَرَدَّ لَهُۥ مِنَ ٱللَّهِ ۖ يَوْمَئِذٍ يَصَّدَّعُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "(Jika demikian keadaannya) maka hadapkanlah dirimu (wahai Muhammad) ke arah ugama yang betul, sebelum datangnya dari Allah: hari yang tak dapat ditolak; pada hari itu manusia akan berpecah (kepada dua golongan)."
+                }
+            ]
+        },
+        {
+            "verse_number": 44,
+            "text_uthmani": "مَن كَفَرَ فَعَلَيْهِ كُفْرُهُۥ ۖ وَمَنْ عَمِلَ صَـٰلِحًا فَلِأَنفُسِهِمْ يَمْهَدُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Sesiapa yang kufur ingkar maka dia lah sahaja yang menanggung bencana kekufurannya itu, dan sesiapa yang beramal soleh (yang membuktikan imannya), maka merekalah orang-orang yang membuat persiapan untuk kesenangan diri mereka masing-masing;"
+                }
+            ]
+        },
+        {
+            "verse_number": 45,
+            "text_uthmani": "لِيَجْزِىَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ مِن فَضْلِهِۦٓ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلْكَـٰفِرِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Kerana Allah akan membalas orang-orang yang beriman dan beramal soleh dari limpah kurniaNya. Sesungguhnya Ia tidak suka kepada orang-orang yang kufur ingkar."
+                }
+            ]
+        },
+        {
+            "verse_number": 46,
+            "text_uthmani": "وَمِنْ ءَايَـٰتِهِۦٓ أَن يُرْسِلَ ٱلرِّيَاحَ مُبَشِّرَٰتٍ وَلِيُذِيقَكُم مِّن رَّحْمَتِهِۦ وَلِتَجْرِىَ ٱلْفُلْكُ بِأَمْرِهِۦ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan di antara tanda-tanda yang membuktikan kekuasaanNya, bahawa Ia menghantarkan angin sebagai pembawa berita yang mengembirakan; dan untuk merasakan kamu sedikit dari rahmatNya, dan supaya kapal-kapal belayar laju dengan perintahNya, dan juga supaya kamu dapat mencari rezeki dari limpah kurniaNya; dan seterusnya supaya kamu bersyukur."
+                }
+            ]
+        },
+        {
+            "verse_number": 47,
+            "text_uthmani": "وَلَقَدْ أَرْسَلْنَا مِن قَبْلِكَ رُسُلًا إِلَىٰ قَوْمِهِمْ فَجَآءُوهُم بِٱلْبَيِّنَـٰتِ فَٱنتَقَمْنَا مِنَ ٱلَّذِينَ أَجْرَمُوا۟ ۖ وَكَانَ حَقًّا عَلَيْنَا نَصْرُ ٱلْمُؤْمِنِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan demi sesungguhnya, Kami telah mengutuskan sebelummu (wahai Muhammad) Rasul-rasul kepada kaum masing-masing, lalu mereka membawa kepada kaumnya keterangan-keterangan yang jelas nyata; kemudian Kami menyeksa orang-orang yang berlaku salah (mengingkarinya); dan sememangnya adalah menjadi tanggungjawab Kami menolong orang-orang yang beriman."
+                }
+            ]
+        },
+        {
+            "verse_number": 48,
+            "text_uthmani": "ٱللَّهُ ٱلَّذِى يُرْسِلُ ٱلرِّيَـٰحَ فَتُثِيرُ سَحَابًا فَيَبْسُطُهُۥ فِى ٱلسَّمَآءِ كَيْفَ يَشَآءُ وَيَجْعَلُهُۥ كِسَفًا فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَـٰلِهِۦ ۖ فَإِذَآ أَصَابَ بِهِۦ مَن يَشَآءُ مِنْ عِبَادِهِۦٓ إِذَا هُمْ يَسْتَبْشِرُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Allah jualah yang menghantarkan angin, lalu angin itu menggerakkan awan; kemudian Allah menyebarkan awan itu di langit sebagaimana yang dikehendakiNya, dan menjadikannya berkelompok-kelompok; lalu engkau melihat hujan keluar dari celah-celahnya. Maka apabila Allah menurunkan hujan itu mengenai sesiapa yang dikehendakiNya dari hamba-hambanya, mereka serta merta bergembira;"
+                }
+            ]
+        },
+        {
+            "verse_number": 49,
+            "text_uthmani": "وَإِن كَانُوا۟ مِن قَبْلِ أَن يُنَزَّلَ عَلَيْهِم مِّن قَبْلِهِۦ لَمُبْلِسِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan sesungguhnya mereka dahulu, sebelum diturunkan hujan kepada mereka, adalah orang-orang yang telah berputus asa."
+                }
+            ]
+        },
+        {
+            "verse_number": 50,
+            "text_uthmani": "فَٱنظُرْ إِلَىٰٓ ءَاثَـٰرِ رَحْمَتِ ٱللَّهِ كَيْفَ يُحْىِ ٱلْأَرْضَ بَعْدَ مَوْتِهَآ ۚ إِنَّ ذَٰلِكَ لَمُحْىِ ٱلْمَوْتَىٰ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka lihatlah olehmu kepada kesan-kesan rahmat Allah, bagaimana Ia menghidupkan bumi sesudah matinya (dengan tanaman-tanaman yang menghijau subur). Sesungguhnya Allah yang demikian kekuasaanNya, sudah tentu berkuasa menghidupkan orang-orang yang telah mati. Dan (ingatlah) Ia maha Kuasa atas tiap-tiap sesuatu."
+                }
+            ]
+        },
+        {
+            "verse_number": 51,
+            "text_uthmani": "وَلَئِنْ أَرْسَلْنَا رِيحًا فَرَأَوْهُ مُصْفَرًّا لَّظَلُّوا۟ مِنۢ بَعْدِهِۦ يَكْفُرُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan demi sesungguhnya, jika Kami hantarkan angin (menyerang tanaman) lalu mereka melihat tanaman itu menjadi kuning kering, nescaya mereka sesudah itu, terus kembali kufur (tidak mengenangkan nikmat-nikmat Allah serta berputus asa)."
+                }
+            ]
+        },
+        {
+            "verse_number": 52,
+            "text_uthmani": "فَإِنَّكَ لَا تُسْمِعُ ٱلْمَوْتَىٰ وَلَا تُسْمِعُ ٱلصُّمَّ ٱلدُّعَآءَ إِذَا وَلَّوْا۟ مُدْبِرِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "(Maka janganlah engkau berdukacita - wahai Muhammad - terhadap keadaan mereka yang demikian), kerana sesungguhnya engkau tidak dapat menjadikan orang-orang yang mati (hatinya) itu menerima ajaranmu, dan tidak dapat menjadikan orang-orang yang pekak itu mendengar seruanmu, apabila mereka berpaling undur (disebabkan keingkarannya)."
+                }
+            ]
+        },
+        {
+            "verse_number": 53,
+            "text_uthmani": "وَمَآ أَنتَ بِهَـٰدِ ٱلْعُمْىِ عَن ضَلَـٰلَتِهِمْ ۖ إِن تُسْمِعُ إِلَّا مَن يُؤْمِنُ بِـَٔايَـٰتِنَا فَهُم مُّسْلِمُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan engkau tidak akan dapat memberi petunjuk kepada orang-orang yang buta (matahatinya) supaya menjauhi kesesatan mereka; engkau tidak dapat memperdengarkan (seruanmu itu) melainkan kepada orang-orang yang sedia beriman akan ayat-ayat keterangan Kami, kerana mereka orang-orang yang menurut perintah."
+                }
+            ]
+        },
+        {
+            "verse_number": 54,
+            "text_uthmani": "۞ ٱللَّهُ ٱلَّذِى خَلَقَكُم مِّن ضَعْفٍ ثُمَّ جَعَلَ مِنۢ بَعْدِ ضَعْفٍ قُوَّةً ثُمَّ جَعَلَ مِنۢ بَعْدِ قُوَّةٍ ضَعْفًا وَشَيْبَةً ۚ يَخْلُقُ مَا يَشَآءُ ۖ وَهُوَ ٱلْعَلِيمُ ٱلْقَدِيرُ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Allah yang menciptakan kamu bermula dengan keadaan lemah, selepas berkeadaan lemah itu Ia menjadikan kamu kuat. Setelah itu Ia menjadikan kamu lemah pula serta tua beruban. Ia menciptakan apa yang dikehendakiNya, dan Dia lah jua yang Maha Mengetahui, lagi Maha Kuasa."
+                }
+            ]
+        },
+        {
+            "verse_number": 55,
+            "text_uthmani": "وَيَوْمَ تَقُومُ ٱلسَّاعَةُ يُقْسِمُ ٱلْمُجْرِمُونَ مَا لَبِثُوا۟ غَيْرَ سَاعَةٍ ۚ كَذَٰلِكَ كَانُوا۟ يُؤْفَكُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan semasa berlakunya hari kiamat, orang-orang yang berdosa akan bersumpah mengatakan bahawa mereka tidak tinggal (di dalam kubur) melainkan sekadar satu saat sahaja; demikianlah mereka sentiasa dipalingkan (oleh fahaman sesatnya dari memperkatakan yang benar)."
+                }
+            ]
+        },
+        {
+            "verse_number": 56,
+            "text_uthmani": "وَقَالَ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ وَٱلْإِيمَـٰنَ لَقَدْ لَبِثْتُمْ فِى كِتَـٰبِ ٱللَّهِ إِلَىٰ يَوْمِ ٱلْبَعْثِ ۖ فَهَـٰذَا يَوْمُ ٱلْبَعْثِ وَلَـٰكِنَّكُمْ كُنتُمْ لَا تَعْلَمُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan (bagi menjawabnya) berkatalah orang-orang yang berilmu serta beriman: \"Demi sesungguhnya, kamu telah tinggal - menurut yang terkandung dalam Kitab Allah - sampai ke hari kebangkitan (hari kiamat); maka inilah dia hari kebangkitan (yang dijanjikan) itu, akan tetapi kamu dari dahulu lagi tidak mahu mengetahui (kebenarannya)\"."
+                }
+            ]
+        },
+        {
+            "verse_number": 57,
+            "text_uthmani": "فَيَوْمَئِذٍ لَّا يَنفَعُ ٱلَّذِينَ ظَلَمُوا۟ مَعْذِرَتُهُمْ وَلَا هُمْ يُسْتَعْتَبُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka pada hari itu tidak berguna lagi bagi orang-orang yang zalim, sebarang alasan yang mereka kemukakan untuk melepaskan diri, dan mereka pula tidak diberi peluang untuk memohon keredaan Allah."
+                }
+            ]
+        },
+        {
+            "verse_number": 58,
+            "text_uthmani": "وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِى هَـٰذَا ٱلْقُرْءَانِ مِن كُلِّ مَثَلٍ ۚ وَلَئِن جِئْتَهُم بِـَٔايَةٍ لَّيَقُولَنَّ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ أَنتُمْ إِلَّا مُبْطِلُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan demi sesungguhnya, Kami telah mengemukakan kepada umat manusia berbagai kisah dan perbandingan di dalam Al-Quran ini; dan demi sesungguhnya jika engkau membawa kepada mereka sebarang keterangan, sudah tentu orang-orang kafir itu akan berkata: \"Kamu ini tidak lain hanyalah orang-orang yang membuat dakwaan palsu\"."
+                }
+            ]
+        },
+        {
+            "verse_number": 59,
+            "text_uthmani": "كَذَٰلِكَ يَطْبَعُ ٱللَّهُ عَلَىٰ قُلُوبِ ٱلَّذِينَ لَا يَعْلَمُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Demikianlah Allah meteraikan hati orang-orang yang tidak mahu menerima jalan mengetahui (kebenaran)."
+                }
+            ]
+        },
+        {
+            "verse_number": 60,
+            "text_uthmani": "فَٱصْبِرْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ ۖ وَلَا يَسْتَخِفَّنَّكَ ٱلَّذِينَ لَا يُوقِنُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Oleh itu, bersabarlah (wahai Muhammad), sesungguhnya janji Allah itu benar; dan janganlah orang-orang yang tidak meyakini apa yang engkau sampaikan itu menjadikan engkau resah gelisah."
                 }
             ]
         }
-    ],
-    "pagination": {
-        "per_page": 10,
-        "current_page": 1,
-        "next_page": 2,
-        "total_pages": 6,
-        "total_records": 60
-    }
+    ]
 }

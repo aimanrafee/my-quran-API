@@ -1,251 +1,84 @@
 {
     "verses": [
         {
-            "id": 6091,
             "verse_number": 1,
-            "verse_key": "94:1",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 239,
-            "ruku_number": 538,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": " أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
-            "page_number": 596,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 102276,
-                    "resource_id": 20,
-                    "text": "Did We not expand for you, [O Muḥammad], your breast?<sup foot_note=197780>1</sup>"
-                },
-                {
-                    "id": 220103,
                     "resource_id": 39,
                     "text": "Bukankah Kami telah melapangkan bagimu: dadamu (wahai Muhammad serta mengisinya dengan iman dan hidayah petunjuk) ?"
-                },
-                {
-                    "id": 1097068,
-                    "resource_id": 161,
-                    "text": "(হে নবী! ওয়াহীর মাধ্যমে প্রকৃত জ্ঞান ও মানসিক শক্তি দিয়ে) আমি কি তোমার বক্ষদেশকে প্রসারিত করে দেইনি?"
                 }
             ]
         },
         {
-            "id": 6092,
             "verse_number": 2,
-            "verse_key": "94:2",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 239,
-            "ruku_number": 538,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
-            "page_number": 596,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 102278,
-                    "resource_id": 20,
-                    "text": "And We removed from you your burden<sup foot_note=197781>1</sup>"
-                },
-                {
-                    "id": 220105,
                     "resource_id": 39,
                     "text": "Dan Kami telah meringankan daripadamu: bebanmu (menyiarkan Islam) -"
-                },
-                {
-                    "id": 1097069,
-                    "resource_id": 161,
-                    "text": "আর আমি তোমার হতে সরিয়ে দিয়েছি (সমাজের অনাচার, অশ্লীলতা ও পঙ্কিলতা দেখে তোমার অন্তরে জেগে উঠা দুঃখ, বেদনা, উদ্বেগ ও অস্থিরতার) ভার,"
                 }
             ]
         },
         {
-            "id": 6093,
             "verse_number": 3,
-            "verse_key": "94:3",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 239,
-            "ruku_number": 538,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ",
-            "page_number": 596,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 102280,
-                    "resource_id": 20,
-                    "text": "Which had weighed upon your back"
-                },
-                {
-                    "id": 220107,
                     "resource_id": 39,
                     "text": "Yang memberati tanggunganmu, (dengan memberikan berbagai kemudahan dalam melaksanakannya)?"
-                },
-                {
-                    "id": 1097070,
-                    "resource_id": 161,
-                    "text": "যা তোমার কোমরকে ভেঙ্গে দিচ্ছিল।"
                 }
             ]
         },
         {
-            "id": 6094,
             "verse_number": 4,
-            "verse_key": "94:4",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 239,
-            "ruku_number": 538,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
-            "page_number": 596,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 102282,
-                    "resource_id": 20,
-                    "text": "And raised high for you your repute."
-                },
-                {
-                    "id": 220109,
                     "resource_id": 39,
                     "text": "Dan Kami telah meninggikan bagimu: sebutan namamu (dengan mengurniakan pangkat Nabi dan berbagai kemuliaan)?"
-                },
-                {
-                    "id": 1097071,
-                    "resource_id": 161,
-                    "text": "এবং আমি (মু’মিনদের যাবতীয় আবশ্যিক ‘ইবাদাত আযান, ইক্বামাত, নামায, খুৎবাহ ইত্যাদির মাধ্যমে) তোমার স্মৃতিকে উচ্চ মর্যাদায় তুলে ধরেছি।"
                 }
             ]
         },
         {
-            "id": 6095,
             "verse_number": 5,
-            "verse_key": "94:5",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 239,
-            "ruku_number": 538,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
-            "page_number": 596,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 102284,
-                    "resource_id": 20,
-                    "text": "For indeed, with hardship [will be] ease [i.e., relief]."
-                },
-                {
-                    "id": 220111,
                     "resource_id": 39,
                     "text": "Oleh itu, maka (tetapkanlah kepercayaanmu) bahawa sesungguhnya tiap-tiap kesukaran disertai kemudahan,"
-                },
-                {
-                    "id": 1097072,
-                    "resource_id": 161,
-                    "text": "কষ্টের সাথেই স্বস্তি আছে,"
                 }
             ]
         },
         {
-            "id": 6096,
             "verse_number": 6,
-            "verse_key": "94:6",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 239,
-            "ruku_number": 538,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
-            "page_number": 596,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 102286,
-                    "resource_id": 20,
-                    "text": "Indeed, with hardship [will be] ease."
-                },
-                {
-                    "id": 220113,
                     "resource_id": 39,
                     "text": "(Sekali lagi ditegaskan): bahawa sesungguhnya tiap-tiap kesukaran disertai kemudahan."
-                },
-                {
-                    "id": 1097073,
-                    "resource_id": 161,
-                    "text": "নিঃসন্দেহে কষ্টের সাথেই স্বস্তি আছে।"
                 }
             ]
         },
         {
-            "id": 6097,
             "verse_number": 7,
-            "verse_key": "94:7",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 239,
-            "ruku_number": 538,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
-            "page_number": 596,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 102288,
-                    "resource_id": 20,
-                    "text": "So when you have finished [your duties], then stand up [for worship]."
-                },
-                {
-                    "id": 220115,
                     "resource_id": 39,
                     "text": "Kemudian apabila engkau telah selesai (daripada sesuatu amal soleh), maka bersungguh-sungguhlah engkau berusaha (mengerjakan amal soleh yang lain),"
-                },
-                {
-                    "id": 1097074,
-                    "resource_id": 161,
-                    "text": "কাজেই তুমি যখনই অবসর পাবে, ‘ইবাদাতের কঠোর শ্রমে লেগে যাবে,"
                 }
             ]
         },
         {
-            "id": 6098,
             "verse_number": 8,
-            "verse_key": "94:8",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 239,
-            "ruku_number": 538,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "وَإِلَىٰ رَبِّكَ فَٱرْغَب",
-            "page_number": 596,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 102290,
-                    "resource_id": 20,
-                    "text": "And to your Lord direct [your] longing."
-                },
-                {
-                    "id": 214959,
                     "resource_id": 39,
                     "text": "Dan kepada Tuhanmu sahaja hendaklah engkau memohon (apa yang engkau gemar dan ingini)."
-                },
-                {
-                    "id": 1097075,
-                    "resource_id": 161,
-                    "text": "এবং তোমার রব-এর প্রতি গভীরভাবে মনোযোগ দিবে।"
                 }
             ]
         }
-    ],
-    "pagination": {
-        "per_page": 10,
-        "current_page": 1,
-        "next_page": null,
-        "total_pages": 1,
-        "total_records": 8
-    }
+    ]
 }

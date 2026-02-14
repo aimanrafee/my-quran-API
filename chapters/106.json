@@ -1,131 +1,44 @@
 {
     "verses": [
         {
-            "id": 6194,
             "verse_number": 1,
-            "verse_key": "106:1",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 240,
-            "ruku_number": 550,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": " لِإِيلَـٰفِ قُرَيْشٍ",
-            "page_number": 602,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 96279,
-                    "resource_id": 20,
-                    "text": "For the accustomed security of the Quraysh<sup foot_note=197820>1</sup> -"
-                },
-                {
-                    "id": 220621,
                     "resource_id": 39,
                     "text": "Kerana kebiasaan aman tenteram kaum Quraisy (penduduk Makkah)"
-                },
-                {
-                    "id": 1097171,
-                    "resource_id": 161,
-                    "text": "কুরাইশদের অভ্যস্ত হওয়ার কারণে,"
                 }
             ]
         },
         {
-            "id": 6195,
             "verse_number": 2,
-            "verse_key": "106:2",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 240,
-            "ruku_number": 550,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "إِۦلَـٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ",
-            "page_number": 602,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 96281,
-                    "resource_id": 20,
-                    "text": "Their accustomed security [in] the caravan of winter and summer<sup foot_note=197821>1</sup> -"
-                },
-                {
-                    "id": 220627,
                     "resource_id": 39,
                     "text": "(laitu) kebiasaan aman tenteram perjalanan mereka (menjalankan perniagaan) pada musim sejuk (ke negeri Yaman), dan pada musim panas (ke negeri Syam),"
-                },
-                {
-                    "id": 1097172,
-                    "resource_id": 161,
-                    "text": "(অর্থাৎ) শীত ও গ্রীষ্মে তাদের বিদেশ সফরে অভ্যস্ত হওয়ার (কারণে)"
                 }
             ]
         },
         {
-            "id": 6196,
             "verse_number": 3,
-            "verse_key": "106:3",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 240,
-            "ruku_number": 550,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "فَلْيَعْبُدُوا۟ رَبَّ هَـٰذَا ٱلْبَيْتِ",
-            "page_number": 602,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 96283,
-                    "resource_id": 20,
-                    "text": "Let them worship the Lord of this House,<sup foot_note=197822>1</sup>"
-                },
-                {
-                    "id": 220265,
                     "resource_id": 39,
                     "text": "Maka hendaklah mereka menyembah Tuhan yang menguasai rumah (Kaabah) ini,"
-                },
-                {
-                    "id": 1097173,
-                    "resource_id": 161,
-                    "text": "তাদের কর্তব্য হল এই (কা‘বা) ঘরের রবের ‘ইবাদাত করা,"
                 }
             ]
         },
         {
-            "id": 6197,
             "verse_number": 4,
-            "verse_key": "106:4",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 240,
-            "ruku_number": 550,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ",
-            "page_number": 602,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 96286,
-                    "resource_id": 20,
-                    "text": "Who has fed them, [saving them] from hunger and made them safe, [saving them] from fear."
-                },
-                {
-                    "id": 220260,
                     "resource_id": 39,
                     "text": "Tuhan yang memberi mereka penghidupan: menyelamatkan mereka dari kelaparan, dan mengamankan mereka dari ketakutan."
-                },
-                {
-                    "id": 1097174,
-                    "resource_id": 161,
-                    "text": "যিনি তাদেরকে (কা‘বা ঘরের খাদিম হওয়ার কারণে নির্বিঘ্নে ব্যবসা-বাণিজ্যের মাধ্যমে) ক্ষুধায় খাদ্য দিচ্ছেন এবং তাদেরকে ভয়-ভীতি হতে নিরাপদ করেছেন।"
                 }
             ]
         }
-    ],
-    "pagination": {
-        "per_page": 10,
-        "current_page": 1,
-        "next_page": null,
-        "total_pages": 1,
-        "total_records": 4
-    }
+    ]
 }

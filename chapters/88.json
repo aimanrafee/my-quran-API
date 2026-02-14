@@ -1,311 +1,264 @@
 {
     "verses": [
         {
-            "id": 5968,
             "verse_number": 1,
-            "verse_key": "88:1",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 237,
-            "ruku_number": 532,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": " هَلْ أَتَىٰكَ حَدِيثُ ٱلْغَـٰشِيَةِ",
-            "page_number": 592,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 102091,
-                    "resource_id": 20,
-                    "text": "Has there reached you the report of the Overwhelming [event]?"
-                },
-                {
-                    "id": 219905,
                     "resource_id": 39,
                     "text": "Sudahkah sampai kepadamu (wahai Muhammad) perihal hari kiamat yang huru-haranya meliputi?"
-                },
-                {
-                    "id": 1096945,
-                    "resource_id": 161,
-                    "text": "(সব কিছুকে) আচ্ছন্নকারী কিয়ামাতের খবর তোমার কাছে পৌঁছেছে কি?"
                 }
             ]
         },
         {
-            "id": 5969,
             "verse_number": 2,
-            "verse_key": "88:2",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 237,
-            "ruku_number": 532,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "وُجُوهٌ يَوْمَئِذٍ خَـٰشِعَةٌ",
-            "page_number": 592,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 102102,
-                    "resource_id": 20,
-                    "text": "[Some] faces, that Day, will be humbled,"
-                },
-                {
-                    "id": 219914,
                     "resource_id": 39,
                     "text": "Muka (orang-orang yang kafir) pada hari itu tunduk kerana merasa hina,"
-                },
-                {
-                    "id": 1096946,
-                    "resource_id": 161,
-                    "text": "কতক মুখ সেদিন নীচু হবে"
                 }
             ]
         },
         {
-            "id": 5970,
             "verse_number": 3,
-            "verse_key": "88:3",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 237,
-            "ruku_number": 532,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "عَامِلَةٌ نَّاصِبَةٌ",
-            "page_number": 592,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 102110,
-                    "resource_id": 20,
-                    "text": "Working [hard] and exhausted.<sup foot_note=197752>1</sup>"
-                },
-                {
-                    "id": 219923,
                     "resource_id": 39,
                     "text": "Mereka menjalankan kerja yang berat lagi berpenat lelah,"
-                },
-                {
-                    "id": 1096947,
-                    "resource_id": 161,
-                    "text": "হবে কর্মক্লান্ত, শ্রান্ত।"
                 }
             ]
         },
         {
-            "id": 5971,
             "verse_number": 4,
-            "verse_key": "88:4",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 237,
-            "ruku_number": 532,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "تَصْلَىٰ نَارًا حَامِيَةً",
-            "page_number": 592,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 102111,
-                    "resource_id": 20,
-                    "text": "They will [enter to] burn in an intensely hot Fire."
-                },
-                {
-                    "id": 219924,
                     "resource_id": 39,
                     "text": "Mereka tetap menderita bakaran neraka yang amat panas (membakar), -"
-                },
-                {
-                    "id": 1096948,
-                    "resource_id": 161,
-                    "text": "তারা জ্বলন্ত আগুনে প্রবেশ করবে।"
                 }
             ]
         },
         {
-            "id": 5972,
             "verse_number": 5,
-            "verse_key": "88:5",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 237,
-            "ruku_number": 532,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "تُسْقَىٰ مِنْ عَيْنٍ ءَانِيَةٍ",
-            "page_number": 592,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 102112,
-                    "resource_id": 20,
-                    "text": "They will be given drink from a boiling spring."
-                },
-                {
-                    "id": 219925,
                     "resource_id": 39,
                     "text": "Mereka diberi minum dari matair yang menggelegak panasnya."
-                },
-                {
-                    "id": 1096949,
-                    "resource_id": 161,
-                    "text": "টগবগে ফুটন্ত ঝর্ণা থেকে তাদেরকে পান করানো হবে।"
                 }
             ]
         },
         {
-            "id": 5973,
             "verse_number": 6,
-            "verse_key": "88:6",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 237,
-            "ruku_number": 532,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ",
-            "page_number": 592,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 102113,
-                    "resource_id": 20,
-                    "text": "For them there will be no food except from a poisonous, thorny plant"
-                },
-                {
-                    "id": 219926,
                     "resource_id": 39,
                     "text": "Tiada makanan bagi mereka (di situ) selain dari pokok-pokok yang berduri,"
-                },
-                {
-                    "id": 1096950,
-                    "resource_id": 161,
-                    "text": "কাঁটাযুক্ত শুকনো ঘাস ছাড়া তাদের জন্য আর কোন খাদ্য থাকবে না।"
                 }
             ]
         },
         {
-            "id": 5974,
             "verse_number": 7,
-            "verse_key": "88:7",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 237,
-            "ruku_number": 532,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "لَّا يُسْمِنُ وَلَا يُغْنِى مِن جُوعٍ",
-            "page_number": 592,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 102114,
-                    "resource_id": 20,
-                    "text": "Which neither nourishes nor avails against hunger."
-                },
-                {
-                    "id": 214897,
                     "resource_id": 39,
                     "text": "Yang tidak menggemokkan, dan tidak pula dapat menghilangkan sedikit kelaparan pun."
-                },
-                {
-                    "id": 1096951,
-                    "resource_id": 161,
-                    "text": "যা পুষ্টিসাধন করবে না, আর ক্ষুধাও মিটাবে না।"
                 }
             ]
         },
         {
-            "id": 5975,
             "verse_number": 8,
-            "verse_key": "88:8",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 237,
-            "ruku_number": 532,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ",
-            "page_number": 592,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 102115,
-                    "resource_id": 20,
-                    "text": "[Other] faces, that Day, will show pleasure."
-                },
-                {
-                    "id": 219927,
                     "resource_id": 39,
                     "text": "(Sebaliknya) muka (orang-orang yang beriman) pada hari itu berseri-seri,"
-                },
-                {
-                    "id": 1096952,
-                    "resource_id": 161,
-                    "text": "কতক মুখ সেদিন হবে আনন্দে উজ্জ্বল।"
                 }
             ]
         },
         {
-            "id": 5976,
             "verse_number": 9,
-            "verse_key": "88:9",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 237,
-            "ruku_number": 532,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "لِّسَعْيِهَا رَاضِيَةٌ",
-            "page_number": 592,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 102116,
-                    "resource_id": 20,
-                    "text": "With their effort [they are] satisfied"
-                },
-                {
-                    "id": 219928,
                     "resource_id": 39,
                     "text": "Berpuas hati dengan balasan amal usahanya (yang baik yang telah dikerjakannya di dunia), -"
-                },
-                {
-                    "id": 1096953,
-                    "resource_id": 161,
-                    "text": "নিজেদের চেষ্টা-সাধনার জন্য সন্তুষ্ট।"
                 }
             ]
         },
         {
-            "id": 5977,
             "verse_number": 10,
-            "verse_key": "88:10",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 237,
-            "ruku_number": 532,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "فِى جَنَّةٍ عَالِيَةٍ",
-            "page_number": 592,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 102092,
-                    "resource_id": 20,
-                    "text": "In an elevated garden,"
-                },
-                {
-                    "id": 219939,
                     "resource_id": 39,
                     "text": "(Mereka tinggal menetap) di dalam Syurga tinggi (tempat kedudukannya darjatnya),"
-                },
+                }
+            ]
+        },
+        {
+            "verse_number": 11,
+            "text_uthmani": "لَّا تَسْمَعُ فِيهَا لَـٰغِيَةً",
+            "translations": [
                 {
-                    "id": 1096954,
-                    "resource_id": 161,
-                    "text": "উচ্চ মর্যাদাপূর্ণ জান্নাতে,"
+                    "resource_id": 39,
+                    "text": "Mereka tidak mendengar di situ sebarang perkataan yang sia-sia,"
+                }
+            ]
+        },
+        {
+            "verse_number": 12,
+            "text_uthmani": "فِيهَا عَيْنٌ جَارِيَةٌ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Di dalam Syurga itu ada matair yang mengalir,"
+                }
+            ]
+        },
+        {
+            "verse_number": 13,
+            "text_uthmani": "فِيهَا سُرُرٌ مَّرْفُوعَةٌ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Di situ juga ada pelamin-pelamin (berhias) yang tinggi (tempatnya),"
+                }
+            ]
+        },
+        {
+            "verse_number": 14,
+            "text_uthmani": "وَأَكْوَابٌ مَّوْضُوعَةٌ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan piala-piala minuman yang disediakan (untuk mereka),"
+                }
+            ]
+        },
+        {
+            "verse_number": 15,
+            "text_uthmani": "وَنَمَارِقُ مَصْفُوفَةٌ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan bantal-bantal yang teratur (untuk mereka berbaring atau bersandar),"
+                }
+            ]
+        },
+        {
+            "verse_number": 16,
+            "text_uthmani": "وَزَرَابِىُّ مَبْثُوثَةٌ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Serta hamparan-hamparan yang terbentang."
+                }
+            ]
+        },
+        {
+            "verse_number": 17,
+            "text_uthmani": "أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "(Mengapa mereka yang kafir masih mengingkari akhirat) tidakkah mereka memperhatikan keadaan unta bagaimana ia diciptakan?"
+                }
+            ]
+        },
+        {
+            "verse_number": 18,
+            "text_uthmani": "وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan keadaan langit bagaimana ia ditinggikan binaannya.?"
+                }
+            ]
+        },
+        {
+            "verse_number": 19,
+            "text_uthmani": "وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan keadaan gunung-ganang bagaimana ia ditegakkan?"
+                }
+            ]
+        },
+        {
+            "verse_number": 20,
+            "text_uthmani": "وَإِلَى ٱلْأَرْضِ كَيْفَ سُطِحَتْ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan keadaan bumi bagaimana ia dihamparkan?"
+                }
+            ]
+        },
+        {
+            "verse_number": 21,
+            "text_uthmani": "فَذَكِّرْ إِنَّمَآ أَنتَ مُذَكِّرٌ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Oleh itu berikanlah sahaja peringatan (wahai Muhammad, kepada manusia, dan janganlah berdukacita kiranya ada yang menolaknya), kerana sesungguhnya engkau hanyalah seorang Rasul pemberi ingatan;"
+                }
+            ]
+        },
+        {
+            "verse_number": 22,
+            "text_uthmani": "لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Bukanlah engkau seorang yang berkuasa memaksa mereka (menerima ajaran Islam yang engkau sampaikan itu)."
+                }
+            ]
+        },
+        {
+            "verse_number": 23,
+            "text_uthmani": "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Akan tetapi sesiapa yang berpaling (dari kebenaran) serta ia kufur ingkar, -"
+                }
+            ]
+        },
+        {
+            "verse_number": 24,
+            "text_uthmani": "فَيُعَذِّبُهُ ٱللَّهُ ٱلْعَذَابَ ٱلْأَكْبَرَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka Allah akan menyeksanya dengan azab seksa yang sebesar-besarnya."
+                }
+            ]
+        },
+        {
+            "verse_number": 25,
+            "text_uthmani": "إِنَّ إِلَيْنَآ إِيَابَهُمْ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Sesungguhnya kepada Kamilah kembalinya mereka,"
+                }
+            ]
+        },
+        {
+            "verse_number": 26,
+            "text_uthmani": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Selain dari itu, sesungguhnya tanggungan Kamilah soal menghitung amal mereka."
                 }
             ]
         }
-    ],
-    "pagination": {
-        "per_page": 10,
-        "current_page": 1,
-        "next_page": 2,
-        "total_pages": 3,
-        "total_records": 26
-    }
+    ]
 }

@@ -1,311 +1,364 @@
 {
     "verses": [
         {
-            "id": 5849,
             "verse_number": 1,
-            "verse_key": "83:1",
-            "hizb_number": 59,
-            "rub_el_hizb_number": 235,
-            "ruku_number": 527,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": " وَيْلٌ لِّلْمُطَفِّفِينَ",
-            "page_number": 587,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 101917,
-                    "resource_id": 20,
-                    "text": "Woe to those who give less [than due],<sup foot_note=197725>1</sup>"
-                },
-                {
-                    "id": 219789,
                     "resource_id": 39,
                     "text": "Kecelakaan besar bagi orang-orang yang curang (dalam timbangan dan sukatan),"
-                },
-                {
-                    "id": 1096826,
-                    "resource_id": 161,
-                    "text": "দুর্ভোগ ঠকবাজদের জন্য (যারা মাপে বা ওজনে কম দেয়),"
                 }
             ]
         },
         {
-            "id": 5850,
             "verse_number": 2,
-            "verse_key": "83:2",
-            "hizb_number": 59,
-            "rub_el_hizb_number": 235,
-            "ruku_number": 527,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "ٱلَّذِينَ إِذَا ٱكْتَالُوا۟ عَلَى ٱلنَّاسِ يَسْتَوْفُونَ",
-            "page_number": 587,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 101930,
-                    "resource_id": 20,
-                    "text": "Who, when they take a measure from people, take in full."
-                },
-                {
-                    "id": 219828,
                     "resource_id": 39,
                     "text": "Iaitu mereka yang apabila menerima sukatan (gantang cupak) dari orang lain mereka mengambilnya dengan cukup,"
-                },
-                {
-                    "id": 1096827,
-                    "resource_id": 161,
-                    "text": "যারা লোকের কাছ থেকে মেপে নেয়ার সময় পুরামাত্রায় নেয়,"
                 }
             ]
         },
         {
-            "id": 5851,
             "verse_number": 3,
-            "verse_key": "83:3",
-            "hizb_number": 59,
-            "rub_el_hizb_number": 235,
-            "ruku_number": 527,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "وَإِذَا كَالُوهُمْ أَو وَّزَنُوهُمْ يُخْسِرُونَ",
-            "page_number": 587,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 101942,
-                    "resource_id": 20,
-                    "text": "But if they give by measure or by weight to them, they cause loss."
-                },
-                {
-                    "id": 219767,
                     "resource_id": 39,
                     "text": "Dan (sebaliknya) apabila mereka menyukat atau menimbang untuk orang lain, mereka kurangi."
-                },
-                {
-                    "id": 1096828,
-                    "resource_id": 161,
-                    "text": "আর যখন তাদেরকে মেপে দেয় বা ওজন ক’রে দেয় তখন কম দেয়।"
                 }
             ]
         },
         {
-            "id": 5852,
             "verse_number": 4,
-            "verse_key": "83:4",
-            "hizb_number": 59,
-            "rub_el_hizb_number": 235,
-            "ruku_number": 527,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "أَلَا يَظُنُّ أُو۟لَـٰٓئِكَ أَنَّهُم مَّبْعُوثُونَ",
-            "page_number": 587,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 101951,
-                    "resource_id": 20,
-                    "text": "Do they not think that they will be resurrected"
-                },
-                {
-                    "id": 219829,
                     "resource_id": 39,
                     "text": "Tidakkah mereka menyangka bahawa mereka akan dibangkitkan (hidup semula sesudah mati)?"
-                },
-                {
-                    "id": 1096829,
-                    "resource_id": 161,
-                    "text": "তারা কি চিন্তা করে না যে (তাদের মৃত্যুর পর) তাদেরকে আবার উঠানো হবে,"
                 }
             ]
         },
         {
-            "id": 5853,
             "verse_number": 5,
-            "verse_key": "83:5",
-            "hizb_number": 59,
-            "rub_el_hizb_number": 235,
-            "ruku_number": 527,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "لِيَوْمٍ عَظِيمٍ",
-            "page_number": 587,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 101953,
-                    "resource_id": 20,
-                    "text": "For a tremendous Day -"
-                },
-                {
-                    "id": 219777,
                     "resource_id": 39,
                     "text": "Pada hari (kiamat) yang amat besar (huru-haranya),"
-                },
-                {
-                    "id": 1096830,
-                    "resource_id": 161,
-                    "text": "এক মহা দিবসে।"
                 }
             ]
         },
         {
-            "id": 5854,
             "verse_number": 6,
-            "verse_key": "83:6",
-            "hizb_number": 59,
-            "rub_el_hizb_number": 235,
-            "ruku_number": 527,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "يَوْمَ يَقُومُ ٱلنَّاسُ لِرَبِّ ٱلْعَـٰلَمِينَ",
-            "page_number": 587,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 101955,
-                    "resource_id": 20,
-                    "text": "The Day when mankind will stand before the Lord of the worlds?"
-                },
-                {
-                    "id": 219830,
                     "resource_id": 39,
                     "text": "Hari berdiri manusia untuk mengadap Tuhan sekalian alam?"
-                },
-                {
-                    "id": 1096831,
-                    "resource_id": 161,
-                    "text": "যেদিন মানুষ বিশ্বজগতের প্রতিপালকের সামনে দাঁড়াবে।"
                 }
             ]
         },
         {
-            "id": 5855,
             "verse_number": 7,
-            "verse_key": "83:7",
-            "hizb_number": 59,
-            "rub_el_hizb_number": 235,
-            "ruku_number": 527,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "كَلَّآ إِنَّ كِتَـٰبَ ٱلْفُجَّارِ لَفِى سِجِّينٍ",
-            "page_number": 588,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 101957,
-                    "resource_id": 20,
-                    "text": "No! Indeed, the record of the wicked is in sijjeen."
-                },
-                {
-                    "id": 219831,
                     "resource_id": 39,
                     "text": "Tidak sepatutnya (mereka melakukan perbuatan yang salah itu dan melalaikan hari akhirat)! Sesungguhnya \"kitab suratan amal\" orang-orang yang berdosa itu (didaftarkan) dalam \"Sijjiin\"."
-                },
-                {
-                    "id": 1096832,
-                    "resource_id": 161,
-                    "text": "(তারা যে সব ধারণা করছে তা) কক্ষনো না, নিশ্চয়ই পাপীদের ‘আমালনামা সিজ্জীনে (সংরক্ষিত) আছে।"
                 }
             ]
         },
         {
-            "id": 5856,
             "verse_number": 8,
-            "verse_key": "83:8",
-            "hizb_number": 59,
-            "rub_el_hizb_number": 235,
-            "ruku_number": 527,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا سِجِّينٌ",
-            "page_number": 588,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 101959,
-                    "resource_id": 20,
-                    "text": "And what can make you know what is sijjeen?"
-                },
-                {
-                    "id": 219783,
                     "resource_id": 39,
                     "text": "Dan apa jalannya engkau dapat mengetahui: apa dia \"Sijjiin\" itu,"
-                },
-                {
-                    "id": 1096833,
-                    "resource_id": 161,
-                    "text": "তুমি কি জান সিজ্জীন কী"
                 }
             ]
         },
         {
-            "id": 5857,
             "verse_number": 9,
-            "verse_key": "83:9",
-            "hizb_number": 59,
-            "rub_el_hizb_number": 235,
-            "ruku_number": 527,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "كِتَـٰبٌ مَّرْقُومٌ",
-            "page_number": 588,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 101961,
-                    "resource_id": 20,
-                    "text": "It is [their destination<sup foot_note=197726>1</sup> recorded in] a register inscribed."
-                },
-                {
-                    "id": 219785,
                     "resource_id": 39,
                     "text": "Ialah (tempat simpanan) kitab catitan yang jelas nyata, (yang menghimpunkan amalan orang-orang yang berdosa)."
-                },
-                {
-                    "id": 1096834,
-                    "resource_id": 161,
-                    "text": "সীলমোহরকৃত কিতাব।"
                 }
             ]
         },
         {
-            "id": 5858,
             "verse_number": 10,
-            "verse_key": "83:10",
-            "hizb_number": 59,
-            "rub_el_hizb_number": 235,
-            "ruku_number": 527,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
-            "page_number": 588,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 101918,
-                    "resource_id": 20,
-                    "text": "Woe, that Day, to the deniers,"
-                },
-                {
-                    "id": 215005,
                     "resource_id": 39,
                     "text": "Kecelakaan besar, pada hari itu, bagi orang-orang yang mendustakan -"
-                },
+                }
+            ]
+        },
+        {
+            "verse_number": 11,
+            "text_uthmani": "ٱلَّذِينَ يُكَذِّبُونَ بِيَوْمِ ٱلدِّينِ",
+            "translations": [
                 {
-                    "id": 1096835,
-                    "resource_id": 161,
-                    "text": "সেদিন দুর্ভোগ হবে অস্বীকারকারীদের,"
+                    "resource_id": 39,
+                    "text": "Iaitu mereka yang mendustakan hari pembalasan."
+                }
+            ]
+        },
+        {
+            "verse_number": 12,
+            "text_uthmani": "وَمَا يُكَذِّبُ بِهِۦٓ إِلَّا كُلُّ مُعْتَدٍ أَثِيمٍ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan tiada yang mendustakannya melainkan tiap-tiap orang yang melampaui batas (kebenaran), lagi amat derhaka!"
+                }
+            ]
+        },
+        {
+            "verse_number": 13,
+            "text_uthmani": "إِذَا تُتْلَىٰ عَلَيْهِ ءَايَـٰتُنَا قَالَ أَسَـٰطِيرُ ٱلْأَوَّلِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "(Sehingga) apabila ia dibacakan kepadanya ayat-ayat Kami, ia berkata:\" Ini ialah dongeng orang-orang dahulu kala!\""
+                }
+            ]
+        },
+        {
+            "verse_number": 14,
+            "text_uthmani": "كَلَّا ۖ بَلْ ۜ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُوا۟ يَكْسِبُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Sebenarnya! (Ayat-ayat Kami itu tidak ada cacatnya) bahkan mata hati mereka telah diselaputi kekotoran (dosa), dengan sebab (perbuatan kufur dan maksiat) yang mereka kerjakan."
+                }
+            ]
+        },
+        {
+            "verse_number": 15,
+            "text_uthmani": "كَلَّآ إِنَّهُمْ عَن رَّبِّهِمْ يَوْمَئِذٍ لَّمَحْجُوبُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Jangan lagi mereka berlaku demikian! (kalau tidak), mereka pada hari itu, tetap terdinding dari (rahmat) Tuhannya."
+                }
+            ]
+        },
+        {
+            "verse_number": 16,
+            "text_uthmani": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Kemudian, sesungguhnya mereka akan menderita bakaran neraka."
+                }
+            ]
+        },
+        {
+            "verse_number": 17,
+            "text_uthmani": "ثُمَّ يُقَالُ هَـٰذَا ٱلَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Akhirnya dikatakan (kepada mereka): \"Inilah dia (azab seksa) yang kamu dustakan dahulu.\""
+                }
+            ]
+        },
+        {
+            "verse_number": 18,
+            "text_uthmani": "كَلَّآ إِنَّ كِتَـٰبَ ٱلْأَبْرَارِ لَفِى عِلِّيِّينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Ingatlah wahai manusia! Sesungguhnya \"kitab suratan amal\" orang-orang yang berbakti (dengan taat dan amal kebajikan), adalah (didaftarkan) dalam\" Illiyiin\"."
+                }
+            ]
+        },
+        {
+            "verse_number": 19,
+            "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا عِلِّيُّونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan apa jalannya engkau dapat mengetahui, apa dia \"Illiyiin\" itu?"
+                }
+            ]
+        },
+        {
+            "verse_number": 20,
+            "text_uthmani": "كِتَـٰبٌ مَّرْقُومٌ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Ialah (tempat simpanan) kitab catitan yang jelas nyata,"
+                }
+            ]
+        },
+        {
+            "verse_number": 21,
+            "text_uthmani": "يَشْهَدُهُ ٱلْمُقَرَّبُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Yang disaksikan oleh sekumpulan malaikat, yang didampingkan Tuhan di sisinya."
+                }
+            ]
+        },
+        {
+            "verse_number": 22,
+            "text_uthmani": "إِنَّ ٱلْأَبْرَارَ لَفِى نَعِيمٍ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Sesungguhnya orang-orang yang berbakti (dengan taat dan amal kebajikan), tetap berada di dalam Syurga yang penuh nikmat:"
+                }
+            ]
+        },
+        {
+            "verse_number": 23,
+            "text_uthmani": "عَلَى ٱلْأَرَآئِكِ يَنظُرُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Mereka berehat di atas pelamin-pelamin (yang berhias), sambil melihat (segala keindahan dan kemuliaan yang disediakan untuk mereka di situ)."
+                }
+            ]
+        },
+        {
+            "verse_number": 24,
+            "text_uthmani": "تَعْرِفُ فِى وُجُوهِهِمْ نَضْرَةَ ٱلنَّعِيمِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Engkau dapat melihat pada muka mereka: cahaya nikmat yang mereka perolehi."
+                }
+            ]
+        },
+        {
+            "verse_number": 25,
+            "text_uthmani": "يُسْقَوْنَ مِن رَّحِيقٍ مَّخْتُومٍ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Mereka diberi minum dari satu minuman yang termeterai bekasnya,"
+                }
+            ]
+        },
+        {
+            "verse_number": 26,
+            "text_uthmani": "خِتَـٰمُهُۥ مِسْكٌ ۚ وَفِى ذَٰلِكَ فَلْيَتَنَافَسِ ٱلْمُتَنَـٰفِسُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Meterainya kasturi; - dan untuk (memperolehi nikmat kesenangan) itu hendaknya berlumba-lumba mereka yang ingin merebut kelebihan dan kesenangan;"
+                }
+            ]
+        },
+        {
+            "verse_number": 27,
+            "text_uthmani": "وَمِزَاجُهُۥ مِن تَسْنِيمٍ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan campuran minuman itu adalah dari \"Tasnim\":"
+                }
+            ]
+        },
+        {
+            "verse_number": 28,
+            "text_uthmani": "عَيْنًا يَشْرَبُ بِهَا ٱلْمُقَرَّبُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "laitu matair yang diminum daripadanya oleh orang-orang yang di dampingkan (Tuhan di sisiNya)."
+                }
+            ]
+        },
+        {
+            "verse_number": 29,
+            "text_uthmani": "إِنَّ ٱلَّذِينَ أَجْرَمُوا۟ كَانُوا۟ مِنَ ٱلَّذِينَ ءَامَنُوا۟ يَضْحَكُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Sesungguhnya orang-orang yang derhaka, mereka selalu tertawakan orang-orang yang beriman."
+                }
+            ]
+        },
+        {
+            "verse_number": 30,
+            "text_uthmani": "وَإِذَا مَرُّوا۟ بِهِمْ يَتَغَامَزُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan apabila orang-orang yang beriman lalu dekat mereka, mereka mengerling dan memejam celikkan mata sesama sendiri (mencemuhnya)."
+                }
+            ]
+        },
+        {
+            "verse_number": 31,
+            "text_uthmani": "وَإِذَا ٱنقَلَبُوٓا۟ إِلَىٰٓ أَهْلِهِمُ ٱنقَلَبُوا۟ فَكِهِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan apabila mereka kembali kepada kaum keluarganya, mereka kembali dengan riang gembira;"
+                }
+            ]
+        },
+        {
+            "verse_number": 32,
+            "text_uthmani": "وَإِذَا رَأَوْهُمْ قَالُوٓا۟ إِنَّ هَـٰٓؤُلَآءِ لَضَآلُّونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan apabila mereka melihat orang-orang yang beriman, mereka berkata: \"Sesungguhnya orang-orang itu adalah golongan yang sesat!\""
+                }
+            ]
+        },
+        {
+            "verse_number": 33,
+            "text_uthmani": "وَمَآ أُرْسِلُوا۟ عَلَيْهِمْ حَـٰفِظِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Pada hal mereka tidak diutus untuk menjaga sesat atau tidaknya orang-orang yang beriman itu!"
+                }
+            ]
+        },
+        {
+            "verse_number": 34,
+            "text_uthmani": "فَٱلْيَوْمَ ٱلَّذِينَ ءَامَنُوا۟ مِنَ ٱلْكُفَّارِ يَضْحَكُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Maka pada hari ini, orang-orang yang beriman pula tertawakan orang yang kafir itu."
+                }
+            ]
+        },
+        {
+            "verse_number": 35,
+            "text_uthmani": "عَلَى ٱلْأَرَآئِكِ يَنظُرُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Sambil mereka berehat di atas pelamin-pelamin (yang berhias), serta melihat (hal yang berlaku kepada musuhnya)."
+                }
+            ]
+        },
+        {
+            "verse_number": 36,
+            "text_uthmani": "هَلْ ثُوِّبَ ٱلْكُفَّارُ مَا كَانُوا۟ يَفْعَلُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "(Untuk menambahkan kegembiraan mereka, mereka ditanya): \"Bukankah orang-orang yang kafir itu telah dibalas akan apa yang mereka telah kerjakan dahulu?\""
                 }
             ]
         }
-    ],
-    "pagination": {
-        "per_page": 10,
-        "current_page": 1,
-        "next_page": 2,
-        "total_pages": 4,
-        "total_records": 36
-    }
+    ]
 }

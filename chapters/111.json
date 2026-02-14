@@ -1,161 +1,54 @@
 {
     "verses": [
         {
-            "id": 6217,
             "verse_number": 1,
-            "verse_key": "111:1",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 240,
-            "ruku_number": 555,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": " تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ",
-            "page_number": 603,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 96360,
-                    "resource_id": 20,
-                    "text": "May the hands of Abū Lahab be ruined, and ruined is he.<sup foot_note=197827>1</sup>"
-                },
-                {
-                    "id": 220314,
                     "resource_id": 39,
                     "text": "Binasalah kedua-dua tangan Abu lahab, dan binasalah ia bersama!"
-                },
-                {
-                    "id": 1097194,
-                    "resource_id": 161,
-                    "text": "আবূ লাহাবের হাত দু‘টো ধ্বংস হোক, ধ্বংস হোক সে নিজে,"
                 }
             ]
         },
         {
-            "id": 6218,
             "verse_number": 2,
-            "verse_key": "111:2",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 240,
-            "ruku_number": 555,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
-            "page_number": 603,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 96372,
-                    "resource_id": 20,
-                    "text": "His wealth will not avail him or that which he gained."
-                },
-                {
-                    "id": 220324,
                     "resource_id": 39,
                     "text": "Hartanya dan segala yang diusahakannya, tidak dapat menolongnya."
-                },
-                {
-                    "id": 1097195,
-                    "resource_id": 161,
-                    "text": "তার ধন-সম্পদ আর সে যা অর্জন করেছে তা তার কোন কাজে আসল না,"
                 }
             ]
         },
         {
-            "id": 6219,
             "verse_number": 3,
-            "verse_key": "111:3",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 240,
-            "ruku_number": 555,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
-            "page_number": 603,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 96378,
-                    "resource_id": 20,
-                    "text": "He will [enter to] burn in a Fire of [blazing] flame"
-                },
-                {
-                    "id": 220439,
                     "resource_id": 39,
                     "text": "Ia akan menderita bakaran api neraka yang marak menjulang."
-                },
-                {
-                    "id": 1097196,
-                    "resource_id": 161,
-                    "text": "অচিরে সে প্রবেশ করবে লেলিহান শিখাযুক্ত আগুনে,"
                 }
             ]
         },
         {
-            "id": 6220,
             "verse_number": 4,
-            "verse_key": "111:4",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 240,
-            "ruku_number": 555,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ",
-            "page_number": 603,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 96381,
-                    "resource_id": 20,
-                    "text": "And his wife [as well] - the carrier of firewood.<sup foot_note=197828>1</sup>"
-                },
-                {
-                    "id": 220319,
                     "resource_id": 39,
                     "text": "Dan juga isterinya, seorang perempuan pemunggah kayu api. -"
-                },
-                {
-                    "id": 1097197,
-                    "resource_id": 161,
-                    "text": "আর তার স্ত্রীও- যে কাঠবহনকারিণী (যে কাঁটার সাহায্যে নবী-কে কষ্ট দিত এবং একজনের কথা অন্যজনকে ব’লে পারস্পরিক বিবাদের আগুন জ্বালাত)।"
                 }
             ]
         },
         {
-            "id": 6221,
             "verse_number": 5,
-            "verse_key": "111:5",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 240,
-            "ruku_number": 555,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "فِى جِيدِهَا حَبْلٌ مِّن مَّسَدٍۭ",
-            "page_number": 603,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 96383,
-                    "resource_id": 20,
-                    "text": "Around her neck is a rope of [twisted] fiber."
-                },
-                {
-                    "id": 220334,
                     "resource_id": 39,
                     "text": "Di lehernya sejenis tali, dari tali-tali yang dipintal."
-                },
-                {
-                    "id": 1097198,
-                    "resource_id": 161,
-                    "text": "আর (দুনিয়াতে তার বহনকৃত কাঠ-খড়ির পরিবর্তে জাহান্নামে) তার গলায় শক্ত পাকানো রশি বাঁধা থাকবে।"
                 }
             ]
         }
-    ],
-    "pagination": {
-        "per_page": 10,
-        "current_page": 1,
-        "next_page": null,
-        "total_pages": 1,
-        "total_records": 5
-    }
+    ]
 }

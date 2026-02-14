@@ -1,161 +1,54 @@
 {
     "verses": [
         {
-            "id": 6189,
             "verse_number": 1,
-            "verse_key": "105:1",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 240,
-            "ruku_number": 549,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": " أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
-            "page_number": 601,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 96263,
-                    "resource_id": 20,
-                    "text": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant?<sup foot_note=197817>1</sup>"
-                },
-                {
-                    "id": 220245,
                     "resource_id": 39,
                     "text": "Tidakkah engkau mengetahui bagaimana Tuhanmu telah melakukan kepada angkatan tentera (yang dipimpin oleh pembawa) Gajah, (yang hendak meruntuhkan Kaabah)?"
-                },
-                {
-                    "id": 1097166,
-                    "resource_id": 161,
-                    "text": "তুমি কি দেখনি (কা‘বা ঘর ধ্বংসের জন্য আগত) হাতীওয়ালাদের সঙ্গে তোমার প্রতিপালক কীরূপ ব্যবহার করেছিলেন?"
                 }
             ]
         },
         {
-            "id": 6190,
             "verse_number": 2,
-            "verse_key": "105:2",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 240,
-            "ruku_number": 549,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍ",
-            "page_number": 601,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 96265,
-                    "resource_id": 20,
-                    "text": "Did He not make their plan into misguidance?<sup foot_note=197818>1</sup>"
-                },
-                {
-                    "id": 220249,
                     "resource_id": 39,
                     "text": "Bukankah Tuhanmu telah menjadikan rancangan jahat mereka dalam keadaan yang rugi dan memusnahkan mereka?"
-                },
-                {
-                    "id": 1097167,
-                    "resource_id": 161,
-                    "text": "তিনি কি তাদের চক্রান্ত ব্যর্থ করে দেননি?"
                 }
             ]
         },
         {
-            "id": 6191,
             "verse_number": 3,
-            "verse_key": "105:3",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 240,
-            "ruku_number": 549,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
-            "page_number": 601,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 96267,
-                    "resource_id": 20,
-                    "text": "And He sent against them birds in flocks,"
-                },
-                {
-                    "id": 220646,
                     "resource_id": 39,
                     "text": "Dan Ia telah menghantarkan kepada mereka (rombongan) burung berpasuk-pasukan, -"
-                },
-                {
-                    "id": 1097168,
-                    "resource_id": 161,
-                    "text": "তিনি তাদের বিরুদ্ধে পাঠিয়েছিলেন ঝাঁকে ঝাঁকে পাখি।"
                 }
             ]
         },
         {
-            "id": 6192,
             "verse_number": 4,
-            "verse_key": "105:4",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 240,
-            "ruku_number": 549,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
-            "page_number": 601,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 96269,
-                    "resource_id": 20,
-                    "text": "Striking them with stones of hard clay,"
-                },
-                {
-                    "id": 220254,
                     "resource_id": 39,
                     "text": "Yang melontar mereka dengan batu-batu dari sejenis tanah yang dibakar keras, -"
-                },
-                {
-                    "id": 1097169,
-                    "resource_id": 161,
-                    "text": "যারা তাদের উপর পাথরের কাঁকর নিক্ষেপ করেছিল।"
                 }
             ]
         },
         {
-            "id": 6193,
             "verse_number": 5,
-            "verse_key": "105:5",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 240,
-            "ruku_number": 549,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ",
-            "page_number": 601,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 96271,
-                    "resource_id": 20,
-                    "text": "And He made them like eaten straw.<sup foot_note=197819>1</sup>"
-                },
-                {
-                    "id": 220253,
                     "resource_id": 39,
                     "text": "Lalu Ia menjadikan mereka hancur berkecai seperti daun-daun kayu yang dimakan ulat."
-                },
-                {
-                    "id": 1097170,
-                    "resource_id": 161,
-                    "text": "অতঃপর তিনি তাদেরকে করে দিলেন ভক্ষিত তৃণ-ভুষির মত।"
                 }
             ]
         }
-    ],
-    "pagination": {
-        "per_page": 10,
-        "current_page": 1,
-        "next_page": null,
-        "total_pages": 1,
-        "total_records": 5
-    }
+    ]
 }

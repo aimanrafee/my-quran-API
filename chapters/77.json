@@ -1,311 +1,504 @@
 {
     "verses": [
         {
-            "id": 5623,
             "verse_number": 1,
-            "verse_key": "77:1",
-            "hizb_number": 58,
-            "rub_el_hizb_number": 232,
-            "ruku_number": 518,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": " وَٱلْمُرْسَلَـٰتِ عُرْفًا",
-            "page_number": 580,
-            "juz_number": 29,
             "translations": [
                 {
-                    "id": 101643,
-                    "resource_id": 20,
-                    "text": "By those [winds] sent forth in gusts"
-                },
-                {
-                    "id": 219724,
                     "resource_id": 39,
                     "text": "Demi (makhluk-makhluk) yang dihantarkan berturut-turut (menjalankan tugasnya),"
-                },
-                {
-                    "id": 1096600,
-                    "resource_id": 161,
-                    "text": "পর পর পাঠানো বাতাসের শপথ যা উপকার সাধন করে,"
                 }
             ]
         },
         {
-            "id": 5624,
             "verse_number": 2,
-            "verse_key": "77:2",
-            "hizb_number": 58,
-            "rub_el_hizb_number": 232,
-            "ruku_number": 518,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "فَٱلْعَـٰصِفَـٰتِ عَصْفًا",
-            "page_number": 580,
-            "juz_number": 29,
             "translations": [
                 {
-                    "id": 101652,
-                    "resource_id": 20,
-                    "text": "And the winds that blow violently"
-                },
-                {
-                    "id": 216299,
                     "resource_id": 39,
                     "text": "Juga yang merempuh mara dengan sekencang-kencangnya,"
-                },
-                {
-                    "id": 1096601,
-                    "resource_id": 161,
-                    "text": "অতঃপর তা প্রচন্ড ঝড়ের বেগে বইতে থাকে,"
                 }
             ]
         },
         {
-            "id": 5625,
             "verse_number": 3,
-            "verse_key": "77:3",
-            "hizb_number": 58,
-            "rub_el_hizb_number": 232,
-            "ruku_number": 518,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "وَٱلنَّـٰشِرَٰتِ نَشْرًا",
-            "page_number": 580,
-            "juz_number": 29,
             "translations": [
                 {
-                    "id": 101664,
-                    "resource_id": 20,
-                    "text": "And [by] the winds that spread [clouds]"
-                },
-                {
-                    "id": 219495,
                     "resource_id": 39,
                     "text": "Dan demi (makhluk-makhluk) yang menyebarkan (pengajaran dan peringatan) dengan sebaran yang sesungguh-sungguhnya,"
-                },
-                {
-                    "id": 1096602,
-                    "resource_id": 161,
-                    "text": "শপথ সেই বায়ুর যা (মেঘমালাকে) ছড়িয়ে দেয় দূর দূরান্তে,"
                 }
             ]
         },
         {
-            "id": 5626,
             "verse_number": 4,
-            "verse_key": "77:4",
-            "hizb_number": 58,
-            "rub_el_hizb_number": 232,
-            "ruku_number": 518,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "فَٱلْفَـٰرِقَـٰتِ فَرْقًا",
-            "page_number": 580,
-            "juz_number": 29,
             "translations": [
                 {
-                    "id": 101676,
-                    "resource_id": 20,
-                    "text": "And those [angels] who bring criterion<sup foot_note=197669>1</sup>"
-                },
-                {
-                    "id": 219517,
                     "resource_id": 39,
                     "text": "Serta yang memisahkan (antara yang benar dengan yang salah) dengan pemisahan yang sejelas-jelasnya,"
-                },
-                {
-                    "id": 1096603,
-                    "resource_id": 161,
-                    "text": "আর বিচ্ছিন্নকারী বাতাসের শপথ যা (মেঘমালাকে) বিচ্ছিন্ন করে,"
                 }
             ]
         },
         {
-            "id": 5627,
             "verse_number": 5,
-            "verse_key": "77:5",
-            "hizb_number": 58,
-            "rub_el_hizb_number": 232,
-            "ruku_number": 518,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "فَٱلْمُلْقِيَـٰتِ ذِكْرًا",
-            "page_number": 580,
-            "juz_number": 29,
             "translations": [
                 {
-                    "id": 101688,
-                    "resource_id": 20,
-                    "text": "And those [angels] who deliver a message."
-                },
-                {
-                    "id": 219522,
                     "resource_id": 39,
                     "text": "Lalu menyampaikan pengajaran dan peringatan (kepada manusia),"
-                },
-                {
-                    "id": 1096604,
-                    "resource_id": 161,
-                    "text": "অতঃপর (মানুষের অন্তরে) পৌঁছে দেয় (আল্লাহর) স্মরণ,"
                 }
             ]
         },
         {
-            "id": 5628,
             "verse_number": 6,
-            "verse_key": "77:6",
-            "hizb_number": 58,
-            "rub_el_hizb_number": 232,
-            "ruku_number": 518,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "عُذْرًا أَوْ نُذْرًا",
-            "page_number": 580,
-            "juz_number": 29,
             "translations": [
                 {
-                    "id": 101691,
-                    "resource_id": 20,
-                    "text": "As justification or warning,"
-                },
-                {
-                    "id": 219520,
                     "resource_id": 39,
                     "text": "Untuk menghapuskan kesalahan orang-orang yang bertaubat serta memperbaiki keadaan dirinya, dan untuk menakutkan orang-orang yang ingkar - derhaka; -"
-                },
-                {
-                    "id": 1096605,
-                    "resource_id": 161,
-                    "text": "(বিশ্বাসী লোকদেরকে) ক্ষমা চাওয়ার সুযোগ দেয়ার জন্য আর (কাফিরদেরকে) সতর্ক করার জন্য।"
                 }
             ]
         },
         {
-            "id": 5629,
             "verse_number": 7,
-            "verse_key": "77:7",
-            "hizb_number": 58,
-            "rub_el_hizb_number": 232,
-            "ruku_number": 518,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "إِنَّمَا تُوعَدُونَ لَوَٰقِعٌ",
-            "page_number": 580,
-            "juz_number": 29,
             "translations": [
                 {
-                    "id": 101693,
-                    "resource_id": 20,
-                    "text": "Indeed, what you are promised is to occur."
-                },
-                {
-                    "id": 219526,
                     "resource_id": 39,
                     "text": "(Sumpah demi sumpah) sesungguhnya segala yang dijanjikan kepada kamu tetap berlaku."
-                },
-                {
-                    "id": 1096606,
-                    "resource_id": 161,
-                    "text": "তোমাদেরকে যার ও‘য়াদা দেয়া হয়েছে তা অবশ্যই সংঘটিত হবে।"
                 }
             ]
         },
         {
-            "id": 5630,
             "verse_number": 8,
-            "verse_key": "77:8",
-            "hizb_number": 58,
-            "rub_el_hizb_number": 232,
-            "ruku_number": 518,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "فَإِذَا ٱلنُّجُومُ طُمِسَتْ",
-            "page_number": 580,
-            "juz_number": 29,
             "translations": [
                 {
-                    "id": 101695,
-                    "resource_id": 20,
-                    "text": "So when the stars are obliterated"
-                },
-                {
-                    "id": 219524,
                     "resource_id": 39,
                     "text": "Oleh itu, apabila bintang-bintang (binasa dan) hilang lenyap;"
-                },
-                {
-                    "id": 1096607,
-                    "resource_id": 161,
-                    "text": "যখন নক্ষত্ররাজির আলো বিলুপ্ত হবে,"
                 }
             ]
         },
         {
-            "id": 5631,
             "verse_number": 9,
-            "verse_key": "77:9",
-            "hizb_number": 58,
-            "rub_el_hizb_number": 232,
-            "ruku_number": 518,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "وَإِذَا ٱلسَّمَآءُ فُرِجَتْ",
-            "page_number": 580,
-            "juz_number": 29,
             "translations": [
                 {
-                    "id": 101697,
-                    "resource_id": 20,
-                    "text": "And when the heaven is opened"
-                },
-                {
-                    "id": 219561,
                     "resource_id": 39,
                     "text": "Dan apabila langit terbelah;"
-                },
-                {
-                    "id": 1096608,
-                    "resource_id": 161,
-                    "text": "যখন আকাশ বিদীর্ণ হবে,"
                 }
             ]
         },
         {
-            "id": 5632,
             "verse_number": 10,
-            "verse_key": "77:10",
-            "hizb_number": 58,
-            "rub_el_hizb_number": 232,
-            "ruku_number": 518,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "وَإِذَا ٱلْجِبَالُ نُسِفَتْ",
-            "page_number": 580,
-            "juz_number": 29,
             "translations": [
                 {
-                    "id": 101644,
-                    "resource_id": 20,
-                    "text": "And when the mountains are blown away"
-                },
-                {
-                    "id": 219474,
                     "resource_id": 39,
                     "text": "Dan apabila gunung-ganang hancur lebur berterbangan;"
-                },
+                }
+            ]
+        },
+        {
+            "verse_number": 11,
+            "text_uthmani": "وَإِذَا ٱلرُّسُلُ أُقِّتَتْ",
+            "translations": [
                 {
-                    "id": 1096609,
-                    "resource_id": 161,
-                    "text": "যখন পবর্তমালা ধুনিত হবে।"
+                    "resource_id": 39,
+                    "text": "Dan apabila Rasul-rasul ditentukan waktunya untuk dipanggil menjadi saksi terhadap umatnya, (maka sudah tentu manusia akan menerima balasan masing-masing)."
+                }
+            ]
+        },
+        {
+            "verse_number": 12,
+            "text_uthmani": "لِأَىِّ يَوْمٍ أُجِّلَتْ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "(Jika ditanya): ke hari yang manakah (perkara-perkara yang besar) itu ditangguhkan?"
+                }
+            ]
+        },
+        {
+            "verse_number": 13,
+            "text_uthmani": "لِيَوْمِ ٱلْفَصْلِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "(Jawabnya): Ke hari pemutusan hukum."
+                }
+            ]
+        },
+        {
+            "verse_number": 14,
+            "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلْفَصْلِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan apa jalannya engkau dapat mengetahui kedahsyatan hari pemutusan hukum itu?"
+                }
+            ]
+        },
+        {
+            "verse_number": 15,
+            "text_uthmani": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Kecelakaan besar, pada hari itu, bagi orang-orang yang mendustakan (apa yang dijanjikan oleh Rasulnya)!"
+                }
+            ]
+        },
+        {
+            "verse_number": 16,
+            "text_uthmani": "أَلَمْ نُهْلِكِ ٱلْأَوَّلِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Bukankah Kami telah binasakan orang-orang dahulu (yang ingkar derhaka, seperti kaum Nabi Nuh, Aad dan Thamud)?"
+                }
+            ]
+        },
+        {
+            "verse_number": 17,
+            "text_uthmani": "ثُمَّ نُتْبِعُهُمُ ٱلْـَٔاخِرِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Kemudian kami akan iringi mereka dengan (membinasakan orang-orang yang ingkar derhaka, dari) kaum-kaum yang datang kemudian."
+                }
+            ]
+        },
+        {
+            "verse_number": 18,
+            "text_uthmani": "كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Demikian cara kami lakukan terhadap sesiapa yang berdosa."
+                }
+            ]
+        },
+        {
+            "verse_number": 19,
+            "text_uthmani": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Kecelakaan besar, pada hari itu, bagi orang-orang yang mendustakan (apa yang Kami janjikan)!"
+                }
+            ]
+        },
+        {
+            "verse_number": 20,
+            "text_uthmani": "أَلَمْ نَخْلُقكُّم مِّن مَّآءٍ مَّهِينٍ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Bukankah Kami telah menciptakan kamu dari air (benih) yang sedikit dipandang orang?"
+                }
+            ]
+        },
+        {
+            "verse_number": 21,
+            "text_uthmani": "فَجَعَلْنَـٰهُ فِى قَرَارٍ مَّكِينٍ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Lalu Kami jadikan air (benih) itu pada tempat penetapan yang kukuh,"
+                }
+            ]
+        },
+        {
+            "verse_number": 22,
+            "text_uthmani": "إِلَىٰ قَدَرٍ مَّعْلُومٍ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Hingga ke suatu masa yang termaklum?"
+                }
+            ]
+        },
+        {
+            "verse_number": 23,
+            "text_uthmani": "فَقَدَرْنَا فَنِعْمَ ٱلْقَـٰدِرُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Serta Kami tentukan (keadaannya), maka Kamilah sebaik-baik yang berkuasa menentukan dan melakukan (tiap-tiap sesuatu)!"
+                }
+            ]
+        },
+        {
+            "verse_number": 24,
+            "text_uthmani": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Kecelakaan besar, pada hari itu, bagi orang-orang yang mendustakan (kekuasaan Kami)!"
+                }
+            ]
+        },
+        {
+            "verse_number": 25,
+            "text_uthmani": "أَلَمْ نَجْعَلِ ٱلْأَرْضَ كِفَاتًا",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Bukankah Kami telah menjadikan bumi (sebagai tempat) penampung dan penghimpun (penduduknya)? -"
+                }
+            ]
+        },
+        {
+            "verse_number": 26,
+            "text_uthmani": "أَحْيَآءً وَأَمْوَٰتًا",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Yang hidup dan yang mati?"
+                }
+            ]
+        },
+        {
+            "verse_number": 27,
+            "text_uthmani": "وَجَعَلْنَا فِيهَا رَوَٰسِىَ شَـٰمِخَـٰتٍ وَأَسْقَيْنَـٰكُم مَّآءً فُرَاتًا",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan Kami telah jadikan di bumi: gunung-ganang yang menetapnya, yang tinggi menjulang; dan Kami telah memberi minum kepada kamu air yang tawar lagi memuaskan dahaga?"
+                }
+            ]
+        },
+        {
+            "verse_number": 28,
+            "text_uthmani": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Kecelakaan besar, pada hari itu, bagi orang-orang yang mendustakan (nikmat-nikmat pemberian Kami)!"
+                }
+            ]
+        },
+        {
+            "verse_number": 29,
+            "text_uthmani": "ٱنطَلِقُوٓا۟ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "(Dikatakan kepada mereka semasa ditimpakan dengan azab): \"Pergilah kepada azab yang dahulu kamu mendustakannya."
+                }
+            ]
+        },
+        {
+            "verse_number": 30,
+            "text_uthmani": "ٱنطَلِقُوٓا۟ إِلَىٰ ظِلٍّ ذِى ثَلَـٰثِ شُعَبٍ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "\"Pergilah kamu kepada naungan (asap neraka) yang bercabang tiga, -"
+                }
+            ]
+        },
+        {
+            "verse_number": 31,
+            "text_uthmani": "لَّا ظَلِيلٍ وَلَا يُغْنِى مِنَ ٱللَّهَبِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "\"Yang tidak dapat dijadikan naungan, dan tidak dapat memberikan sebarang lindungan dari julangan api neraka."
+                }
+            ]
+        },
+        {
+            "verse_number": 32,
+            "text_uthmani": "إِنَّهَا تَرْمِى بِشَرَرٍ كَٱلْقَصْرِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "\"Sesungguhnya neraka itu melemparkan bunga api, (yang besarnya) seperti bangunan besar,"
+                }
+            ]
+        },
+        {
+            "verse_number": 33,
+            "text_uthmani": "كَأَنَّهُۥ جِمَـٰلَتٌ صُفْرٌ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "\"(Banyaknya dan warnanya) bunga api itu seolah-olah rombongan unta kuning\"."
+                }
+            ]
+        },
+        {
+            "verse_number": 34,
+            "text_uthmani": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Kecelakaan besar, pada hari itu, bagi orang-orang yang mendustakan (keadaan yang demikian)."
+                }
+            ]
+        },
+        {
+            "verse_number": 35,
+            "text_uthmani": "هَـٰذَا يَوْمُ لَا يَنطِقُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Inilah hari mereka tidak dapat berkata-kata, (kerana masing-masing terpinga-pinga ketakutan),"
+                }
+            ]
+        },
+        {
+            "verse_number": 36,
+            "text_uthmani": "وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan tidak pula diizinkan mereka bercakap, maka mereka tidak dapat meminta maaf."
+                }
+            ]
+        },
+        {
+            "verse_number": 37,
+            "text_uthmani": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Kecelakaan besar, pada hari itu, bagi orang-orang yang mendustakan (hari akhirat)!"
+                }
+            ]
+        },
+        {
+            "verse_number": 38,
+            "text_uthmani": "هَـٰذَا يَوْمُ ٱلْفَصْلِ ۖ جَمَعْنَـٰكُمْ وَٱلْأَوَّلِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Inilah hari pemutusan hukum (yang menentukan siapa yang benar dan siapa yang salah). Kami himpunkan kamu bersama orang-orang yang terdahulu (dari kamu)."
+                }
+            ]
+        },
+        {
+            "verse_number": 39,
+            "text_uthmani": "فَإِن كَانَ لَكُمْ كَيْدٌ فَكِيدُونِ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Oleh itu, kalau kamu ada sebarang tipu-helah melepaskan diri, maka cubalah kamu lakukan terhadap azabKu."
+                }
+            ]
+        },
+        {
+            "verse_number": 40,
+            "text_uthmani": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Kecelakaan besar, pada hari itu, bagi orang-orang yang mendustakan (apa yang telah dijanjikan oleh Allah)!"
+                }
+            ]
+        },
+        {
+            "verse_number": 41,
+            "text_uthmani": "إِنَّ ٱلْمُتَّقِينَ فِى ظِلَـٰلٍ وَعُيُونٍ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Sesungguhnya orang-orang yang bertaqwa berada di tempat teduh (yang dipenuhi pelbagai nikmat), dan yang berdekatan dengan matair-matair (yang mengalir), -"
+                }
+            ]
+        },
+        {
+            "verse_number": 42,
+            "text_uthmani": "وَفَوَٰكِهَ مِمَّا يَشْتَهُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Serta menikmati buah-buahan dari segala jenis yang mereka ingini."
+                }
+            ]
+        },
+        {
+            "verse_number": 43,
+            "text_uthmani": "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "(Pada ketika itu dikatakan kepada mereka): \"Makanlah dan minumlah kamu dengan lazatnya, disebabkan apa yang kamu telah kerjakan.\""
+                }
+            ]
+        },
+        {
+            "verse_number": 44,
+            "text_uthmani": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Sesungguhnya, demikianlah Kami membalas orang-orang yang berusaha mengerjakan amal-amal yang baik."
+                }
+            ]
+        },
+        {
+            "verse_number": 45,
+            "text_uthmani": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Kecelakaan besar, pada hari itu, bagi orang-orang yang mendustakan (nikmat-nikmat Syurga)!"
+                }
+            ]
+        },
+        {
+            "verse_number": 46,
+            "text_uthmani": "كُلُوا۟ وَتَمَتَّعُوا۟ قَلِيلًا إِنَّكُم مُّجْرِمُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Makanlah dan bersenang-senanglah kamu (wahai orang-orang yang ingkar derhaka) sementara waktu hidup, (kemudian kamu akan menghadapi bahaya), kerana sesungguhnya kamu adalah orang-orang yang berdosa."
+                }
+            ]
+        },
+        {
+            "verse_number": 47,
+            "text_uthmani": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Kecelakaan besar, pada hari itu, bagi orang-orang yang mendustakan (amaran Allah), -"
+                }
+            ]
+        },
+        {
+            "verse_number": 48,
+            "text_uthmani": "وَإِذَا قِيلَ لَهُمُ ٱرْكَعُوا۟ لَا يَرْكَعُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Dan apabila dikatakan kepada mereka (yang ingkar): \"Taatlah dan kerjakanlah sembahyang\", mereka enggan mengerjakannya."
+                }
+            ]
+        },
+        {
+            "verse_number": 49,
+            "text_uthmani": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "Kecelakaan besar, pada hari itu, bagi orang-orang yang mendustakan (perintah-perintah Allah dan laranganNya)!"
+                }
+            ]
+        },
+        {
+            "verse_number": 50,
+            "text_uthmani": "فَبِأَىِّ حَدِيثٍۭ بَعْدَهُۥ يُؤْمِنُونَ",
+            "translations": [
+                {
+                    "resource_id": 39,
+                    "text": "(Kalau mereka tidak juga mahu beriman kepada keterangan-keterangan yang tersebut) maka kepada perkataan yang mana lagi, sesudah itu, mereka mahu beriman?"
                 }
             ]
         }
-    ],
-    "pagination": {
-        "per_page": 10,
-        "current_page": 1,
-        "next_page": 2,
-        "total_pages": 5,
-        "total_records": 50
-    }
+    ]
 }

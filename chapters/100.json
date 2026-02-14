@@ -1,311 +1,114 @@
 {
     "verses": [
         {
-            "id": 6147,
             "verse_number": 1,
-            "verse_key": "100:1",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 239,
-            "ruku_number": 544,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": " وَٱلْعَـٰدِيَـٰتِ ضَبْحًا",
-            "page_number": 599,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 96164,
-                    "resource_id": 20,
-                    "text": "By the racers, panting,<sup foot_note=197797>1</sup>"
-                },
-                {
-                    "id": 215559,
                     "resource_id": 39,
                     "text": "Demi Kuda Perang yang tangkas berlari dengan kedengaran kencang nafasnya,"
-                },
-                {
-                    "id": 1097124,
-                    "resource_id": 161,
-                    "text": "শপথ সেই (ঘোড়া) গুলোর যারা ঊর্ধ্বশ্বাসে দৌড়ায়,"
                 }
             ]
         },
         {
-            "id": 6148,
             "verse_number": 2,
-            "verse_key": "100:2",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 239,
-            "ruku_number": 544,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "فَٱلْمُورِيَـٰتِ قَدْحًا",
-            "page_number": 599,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 96167,
-                    "resource_id": 20,
-                    "text": "And the producers of sparks [when] striking<sup foot_note=197798>1</sup>"
-                },
-                {
-                    "id": 215548,
                     "resource_id": 39,
                     "text": "Serta mencetuskan api dari telapak kakinya,"
-                },
-                {
-                    "id": 1097125,
-                    "resource_id": 161,
-                    "text": "অতঃপর (নিজের ক্ষুরের) ঘর্ষণে আগুন ছুটায়,"
                 }
             ]
         },
         {
-            "id": 6149,
             "verse_number": 3,
-            "verse_key": "100:3",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 239,
-            "ruku_number": 544,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "فَٱلْمُغِيرَٰتِ صُبْحًا",
-            "page_number": 599,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 96168,
-                    "resource_id": 20,
-                    "text": "And the chargers at dawn,<sup foot_note=197799>1</sup>"
-                },
-                {
-                    "id": 215161,
                     "resource_id": 39,
                     "text": "Dan meluru menyerbu musuh pada waktu subuh,"
-                },
-                {
-                    "id": 1097126,
-                    "resource_id": 161,
-                    "text": "অতঃপর সকালে হঠাৎ আক্রমণ চালায়,"
                 }
             ]
         },
         {
-            "id": 6150,
             "verse_number": 4,
-            "verse_key": "100:4",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 239,
-            "ruku_number": 544,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "فَأَثَرْنَ بِهِۦ نَقْعًا",
-            "page_number": 599,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 96169,
-                    "resource_id": 20,
-                    "text": "Stirring up thereby [clouds of] dust,"
-                },
-                {
-                    "id": 215327,
                     "resource_id": 39,
                     "text": "Sehingga menghamburkan debu pada waktu itu,"
-                },
-                {
-                    "id": 1097127,
-                    "resource_id": 161,
-                    "text": "আর সে সময় ধূলি উড়ায়,"
                 }
             ]
         },
         {
-            "id": 6151,
             "verse_number": 5,
-            "verse_key": "100:5",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 239,
-            "ruku_number": 544,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "فَوَسَطْنَ بِهِۦ جَمْعًا",
-            "page_number": 599,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 96170,
-                    "resource_id": 20,
-                    "text": "Arriving thereby in the center<sup foot_note=197800>1</sup> collectively,"
-                },
-                {
-                    "id": 215002,
                     "resource_id": 39,
                     "text": "Lalu menggempur ketika itu di tengah-tengah kumpulan musuh;"
-                },
-                {
-                    "id": 1097128,
-                    "resource_id": 161,
-                    "text": "অতঃপর (শত্রু) দলের অভ্যন্তরে ঢুকে পড়ে (এভাবে মানুষ নিজের শক্তি-সামর্থ্য ও আল্লাহর এক অতি বড় নি‘মাত ঘোড়াকে অপরের সম্পদ লুণ্ঠন ও অন্যের প্রতি যুলমের কাজে ব্যবহার করে),"
                 }
             ]
         },
         {
-            "id": 6152,
             "verse_number": 6,
-            "verse_key": "100:6",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 239,
-            "ruku_number": 544,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "إِنَّ ٱلْإِنسَـٰنَ لِرَبِّهِۦ لَكَنُودٌ",
-            "page_number": 599,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 96171,
-                    "resource_id": 20,
-                    "text": "Indeed mankind, to his Lord, is ungrateful."
-                },
-                {
-                    "id": 214936,
                     "resource_id": 39,
                     "text": "Sesungguhnya manusia sangat tidak bersyukur akan nikmat Tuhannya."
-                },
-                {
-                    "id": 1097129,
-                    "resource_id": 161,
-                    "text": "বস্তুতঃ মানুষ তার রব-এর প্রতি বড়ই অকৃতজ্ঞ।"
                 }
             ]
         },
         {
-            "id": 6153,
             "verse_number": 7,
-            "verse_key": "100:7",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 239,
-            "ruku_number": 544,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ",
-            "page_number": 599,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 96172,
-                    "resource_id": 20,
-                    "text": "And indeed, he is to that a witness.<sup foot_note=197801>1</sup>"
-                },
-                {
-                    "id": 214858,
                     "resource_id": 39,
                     "text": "Dan sesungguhnya ia (dengan bawaannya) menerangkan dengan jelas keadaan yang demikian;"
-                },
-                {
-                    "id": 1097130,
-                    "resource_id": 161,
-                    "text": "আর সে নিজেই (নিজের কাজ-কর্মের মাধ্যমে) এ বিষয়ের সাক্ষী।"
                 }
             ]
         },
         {
-            "id": 6154,
             "verse_number": 8,
-            "verse_key": "100:8",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 239,
-            "ruku_number": 544,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ",
-            "page_number": 599,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 96173,
-                    "resource_id": 20,
-                    "text": "And indeed he is, in love of wealth, intense."
-                },
-                {
-                    "id": 215516,
                     "resource_id": 39,
                     "text": "Dan sesungguhnya ia melampau sangat sayangkan harta (secara tamak haloba)."
-                },
-                {
-                    "id": 1097131,
-                    "resource_id": 161,
-                    "text": "আর ধন-সম্পদের প্রতি অবশ্যই সে খুবই আসক্ত।"
                 }
             ]
         },
         {
-            "id": 6155,
             "verse_number": 9,
-            "verse_key": "100:9",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 240,
-            "ruku_number": 544,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "۞ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ",
-            "page_number": 599,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 96174,
-                    "resource_id": 20,
-                    "text": "But does he not know that when the contents of the graves are scattered"
-                },
-                {
-                    "id": 215352,
                     "resource_id": 39,
                     "text": "(Patutkah ia bersikap demikian?) Tidakkah ia mengetahui (bagaimana keadaan) ketika dibongkarkan segala yang ada dalam kubur?"
-                },
-                {
-                    "id": 1097132,
-                    "resource_id": 161,
-                    "text": "সে কি জানে না, কবরে যা আছে তা যখন উত্থিত হবে,"
                 }
             ]
         },
         {
-            "id": 6156,
             "verse_number": 10,
-            "verse_key": "100:10",
-            "hizb_number": 60,
-            "rub_el_hizb_number": 240,
-            "ruku_number": 544,
-            "manzil_number": 7,
-            "sajdah_number": null,
             "text_uthmani": "وَحُصِّلَ مَا فِى ٱلصُّدُورِ",
-            "page_number": 600,
-            "juz_number": 30,
             "translations": [
                 {
-                    "id": 96165,
-                    "resource_id": 20,
-                    "text": "And that within the breasts is obtained,<sup foot_note=197802>1</sup>"
-                },
-                {
-                    "id": 214998,
                     "resource_id": 39,
                     "text": "Dan dikumpul serta didedahkan segala yang terpendam dalam dada?"
-                },
+                }
+            ]
+        },
+        {
+            "verse_number": 11,
+            "text_uthmani": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌۢ",
+            "translations": [
                 {
-                    "id": 1097133,
-                    "resource_id": 161,
-                    "text": "আর অন্তরে যা (কিছু লুকানো) আছে তা প্রকাশ করা হবে,"
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Tuhan mereka Maha Mengetahui dengan mendalam tentang (balasan yang diberikanNya kepada) mereka - pada hari itu."
                 }
             ]
         }
-    ],
-    "pagination": {
-        "per_page": 10,
-        "current_page": 1,
-        "next_page": 2,
-        "total_pages": 2,
-        "total_records": 11
-    }
+    ]
 }
