@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 1803,
+            "verse_number": 1,
+            "verse_key": "15:1",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 105,
+            "ruku_number": 218,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": " الٓر ۚ تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ وَقُرْءَانٍ مُّبِينٍ",
+            "page_number": 262,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96708,
+                    "resource_id": 20,
+                    "text": "Alif, Lām, Rā.<sup foot_note=196583>1</sup> These are the verses of the Book and a clear Qur’ān [i.e., recitation]."
+                },
+                {
+                    "id": 220684,
+                    "resource_id": 39,
+                    "text": "Alif, Laam, Raa'. Ini ialah ayat-ayat Kitab (yang lengkap sempurna) dan Al-Quran yang memberi penjelasan."
+                },
+                {
+                    "id": 1092780,
+                    "resource_id": 161,
+                    "text": "আলিফ-লাম-র, এগুলো কিতাবের এবং সুস্পষ্ট কুরআনে আয়াতসমূহ।"
+                }
+            ]
+        },
+        {
+            "id": 1804,
+            "verse_number": 2,
+            "verse_key": "15:2",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 105,
+            "ruku_number": 218,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "رُّبَمَا يَوَدُّ ٱلَّذِينَ كَفَرُوا۟ لَوْ كَانُوا۟ مُسْلِمِينَ",
+            "page_number": 262,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96719,
+                    "resource_id": 20,
+                    "text": "Perhaps those who disbelieve will wish<sup foot_note=196584>1</sup> that they had been Muslims."
+                },
+                {
+                    "id": 220689,
+                    "resource_id": 39,
+                    "text": "Ada masanya orang-orang yang kafir merasa ingin kalaulah mereka telah menjadi orang-orang Islam."
+                },
+                {
+                    "id": 1092781,
+                    "resource_id": 161,
+                    "text": "এমন একটা সময় আসবে যখন কাফিরগণ আক্ষেপ করে বলবে, ‘হায়, আমরা যদি মুসলিম হয়ে যেতাম!’"
+                }
+            ]
+        },
+        {
+            "id": 1805,
+            "verse_number": 3,
+            "verse_key": "15:3",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 105,
+            "ruku_number": 218,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "ذَرْهُمْ يَأْكُلُوا۟ وَيَتَمَتَّعُوا۟ وَيُلْهِهِمُ ٱلْأَمَلُ ۖ فَسَوْفَ يَعْلَمُونَ",
+            "page_number": 262,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96730,
+                    "resource_id": 20,
+                    "text": "Let them eat and enjoy themselves and be diverted by [false] hope, for they are going to know."
+                },
+                {
+                    "id": 220704,
+                    "resource_id": 39,
+                    "text": "Biarkanlah mereka makan dan bersenang-lenang dengan kemewahan dunia dan dilalaikan oleh angan-angan (daripada bertaubat dan insaf); kemudian mereka akan mengetahui kelak (bencana perbuatan mereka)."
+                },
+                {
+                    "id": 1092782,
+                    "resource_id": 161,
+                    "text": "ছেড়ে দাও ওদেরকে, ওরা খেতে থাক আর ভোগ করতে থাক, আর (মিথ্যে) আশা ওদেরকে উদাসীনতায় ডুবিয়ে রাখুক, শীঘ্রই ওরা (ওদের ‘আমালের পরিণতি) জানতে পারবে।"
+                }
+            ]
+        },
+        {
+            "id": 1806,
+            "verse_number": 4,
+            "verse_key": "15:4",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 105,
+            "ruku_number": 218,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَآ أَهْلَكْنَا مِن قَرْيَةٍ إِلَّا وَلَهَا كِتَابٌ مَّعْلُومٌ",
+            "page_number": 262,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96739,
+                    "resource_id": 20,
+                    "text": "And We did not destroy any city but that for it was a known decree."
+                },
+                {
+                    "id": 214681,
+                    "resource_id": 39,
+                    "text": "Dan tiadalah Kami binasakan (penduduk) sesebuah negeri melainkan ada baginya tempoh yang tertentu dan termaklum."
+                },
+                {
+                    "id": 1092783,
+                    "resource_id": 161,
+                    "text": "আমি যে জনপদকেই ধ্বংস করেছি তাদের জন্য ছিল লিখিত একটা নির্দিষ্ট সময়।"
+                }
+            ]
+        },
+        {
+            "id": 1807,
+            "verse_number": 5,
+            "verse_key": "15:5",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 105,
+            "ruku_number": 218,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "مَّا تَسْبِقُ مِنْ أُمَّةٍ أَجَلَهَا وَمَا يَسْتَـْٔخِرُونَ",
+            "page_number": 262,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96750,
+                    "resource_id": 20,
+                    "text": "No nation will precede its term, nor will they remain thereafter."
+                },
+                {
+                    "id": 220727,
+                    "resource_id": 39,
+                    "text": "Sesuatu umat itu tidak dapat mendahului tempohnya yang telah ditentukan, dan mereka juga tidak dapat mengundurkannya."
+                },
+                {
+                    "id": 1092784,
+                    "resource_id": 161,
+                    "text": "কোন জাতিই তাদের নির্দিষ্ট কালকে অগ্র-পশ্চাৎ করতে পারে না।"
+                }
+            ]
+        },
+        {
+            "id": 1808,
+            "verse_number": 6,
+            "verse_key": "15:6",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 105,
+            "ruku_number": 218,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَقَالُوا۟ يَـٰٓأَيُّهَا ٱلَّذِى نُزِّلَ عَلَيْهِ ٱلذِّكْرُ إِنَّكَ لَمَجْنُونٌ",
+            "page_number": 262,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96761,
+                    "resource_id": 20,
+                    "text": "And they say, \"O you upon whom the message has been sent down, indeed you are mad.<sup foot_note=196585>1</sup>"
+                },
+                {
+                    "id": 220726,
+                    "resource_id": 39,
+                    "text": "Dan mereka yang ingkar berkata (kepada Nabi Muhammad): \"Wahai orang yang kepadanya diturunkan Al-Quran, sesungguhnya engkau adalah orang gila\"."
+                },
+                {
+                    "id": 1092785,
+                    "resource_id": 161,
+                    "text": "তারা বলে, ‘ওহে ঐ ব্যক্তি যার প্রতি কুরআন অবতীর্ণ হয়েছে! তুমি তো অবশ্যই পাগল।"
+                }
+            ]
+        },
+        {
+            "id": 1809,
+            "verse_number": 7,
+            "verse_key": "15:7",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 105,
+            "ruku_number": 218,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "لَّوْ مَا تَأْتِينَا بِٱلْمَلَـٰٓئِكَةِ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+            "page_number": 262,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96772,
+                    "resource_id": 20,
+                    "text": "Why do you not bring us the angels, if you should be among the truthful?\""
+                },
+                {
+                    "id": 220733,
+                    "resource_id": 39,
+                    "text": "\"Sepatutnya engkau membawakan malaikat kepada kami (untuk menjadi saksi tentang kerasulanmu), jika betul engkau dari orang-orang yang benar!\""
+                },
+                {
+                    "id": 1092786,
+                    "resource_id": 161,
+                    "text": "তুমি সত্যবাদী হলে আমাদের নিকট ফেরেশতাদের হাজির করছ না কেন?’"
+                }
+            ]
+        },
+        {
+            "id": 1810,
+            "verse_number": 8,
+            "verse_key": "15:8",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 105,
+            "ruku_number": 218,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "مَا نُنَزِّلُ ٱلْمَلَـٰٓئِكَةَ إِلَّا بِٱلْحَقِّ وَمَا كَانُوٓا۟ إِذًا مُّنظَرِينَ",
+            "page_number": 262,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96783,
+                    "resource_id": 20,
+                    "text": "We do not send down the angels except with truth;<sup foot_note=196586>1</sup> and they [i.e., the disbelievers] would not then be reprieved."
+                },
+                {
+                    "id": 220754,
+                    "resource_id": 39,
+                    "text": "Tiadalah Kami menurunkan Malaikat melainkan dengan cara yang sungguh layak dan berhikmat, dan pada ketika itu mereka (yang ingkar) tidak akan diberi tempoh lagi."
+                },
+                {
+                    "id": 1092787,
+                    "resource_id": 161,
+                    "text": "যথাযথ কারণ ছাড়া আমি ফেরেশতা পাঠাই না, পাঠালে কাফিরদেরকে আর কোন অবকাশ দেয়া হবে না।"
+                }
+            ]
+        },
+        {
+            "id": 1811,
+            "verse_number": 9,
+            "verse_key": "15:9",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 105,
+            "ruku_number": 218,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّا نَحْنُ نَزَّلْنَا ٱلذِّكْرَ وَإِنَّا لَهُۥ لَحَـٰفِظُونَ",
+            "page_number": 262,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96794,
+                    "resource_id": 20,
+                    "text": "Indeed, it is We who sent down the message [i.e., the Qur’ān], and indeed, We will be its guardian."
+                },
+                {
+                    "id": 220741,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Kamilah yang menurunkan Al-Quran, dan Kamilah yang memelihara dan menjaganya."
+                },
+                {
+                    "id": 1092788,
+                    "resource_id": 161,
+                    "text": "নিশ্চয় আমিই কুরআন নাযিল করেছি আর অবশ্যই আমি তার সংরক্ষক।"
+                }
+            ]
+        },
+        {
+            "id": 1812,
+            "verse_number": 10,
+            "verse_key": "15:10",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 105,
+            "ruku_number": 218,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَقَدْ أَرْسَلْنَا مِن قَبْلِكَ فِى شِيَعِ ٱلْأَوَّلِينَ",
+            "page_number": 262,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96709,
+                    "resource_id": 20,
+                    "text": "And We had certainly sent [messengers] before you, [O Muḥammad], among the sects of the former peoples."
+                },
+                {
+                    "id": 220682,
+                    "resource_id": 39,
+                    "text": "Dan demi sesungguhnya! Kami telah utuskan Rasul-rasul sebelummu (wahai Muhammad), dalam kalangan kaum-kaum yang telah lalu."
+                },
+                {
+                    "id": 1092789,
+                    "resource_id": 161,
+                    "text": "তোমার পূর্ববর্তী জাতিগুলোর কাছেও আমি রসূল পাঠিয়েছিলাম।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 23,
+        "total_records": 227
+    }
+}

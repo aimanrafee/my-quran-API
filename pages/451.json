@@ -1,0 +1,821 @@
+{
+    "verses": [
+        {
+            "id": 3915,
+            "verse_number": 127,
+            "verse_key": "37:127",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 391,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فَكَذَّبُوهُ فَإِنَّهُمْ لَمُحْضَرُونَ",
+            "page_number": 451,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99186,
+                    "resource_id": 20,
+                    "text": "And they denied him, so indeed, they will be brought [for punishment],"
+                },
+                {
+                    "id": 217038,
+                    "resource_id": 39,
+                    "text": "Maka mereka mendustakannya; akibatnya mereka tetap akan dibawa hadir (untuk diseksa),"
+                },
+                {
+                    "id": 1094892,
+                    "resource_id": 161,
+                    "text": "কিন্তু তারা তাকে মিথ্যে বলে প্রত্যাখ্যান করল, কাজেই তাদেরকে অবশ্যই (শাস্তির জন্য) হাজির করা হবে।"
+                }
+            ]
+        },
+        {
+            "id": 3916,
+            "verse_number": 128,
+            "verse_key": "37:128",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 391,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ",
+            "page_number": 451,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99187,
+                    "resource_id": 20,
+                    "text": "Except the chosen servants of Allāh."
+                },
+                {
+                    "id": 217037,
+                    "resource_id": 39,
+                    "text": "Kecuali hamba-hamba Allah yang dibersihkan dari sebarang syirik (maka mereka akan terselamat, dan mendapat sebaik-baik balasan)."
+                },
+                {
+                    "id": 1094893,
+                    "resource_id": 161,
+                    "text": "কিন্তু আল্লাহর একনিষ্ঠ বান্দাহদেরকে নয়।"
+                }
+            ]
+        },
+        {
+            "id": 3917,
+            "verse_number": 129,
+            "verse_key": "37:129",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 391,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَتَرَكْنَا عَلَيْهِ فِى ٱلْـَٔاخِرِينَ",
+            "page_number": 451,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99188,
+                    "resource_id": 20,
+                    "text": "And We left for him [favorable mention] among later generations:"
+                },
+                {
+                    "id": 217046,
+                    "resource_id": 39,
+                    "text": "Dan Kami kekalkan bagi Nabi Ilyas (nama yang harum) dalam kalangan orang-orang yang datang kemudian:"
+                },
+                {
+                    "id": 1094894,
+                    "resource_id": 161,
+                    "text": "আমি তাকে পরবর্তীদের মাঝে স্মরণীয় করে রাখলাম।"
+                }
+            ]
+        },
+        {
+            "id": 3918,
+            "verse_number": 130,
+            "verse_key": "37:130",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 391,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+            "page_number": 451,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99190,
+                    "resource_id": 20,
+                    "text": "\"Peace upon Elias.\"<sup foot_note=197194>1</sup>"
+                },
+                {
+                    "id": 214839,
+                    "resource_id": 39,
+                    "text": "\"Salam sejahtera kepada Nabi Ilyas!\""
+                },
+                {
+                    "id": 1094895,
+                    "resource_id": 161,
+                    "text": "ইলিয়াসের প্রতি শান্তি বর্ষিত হোক।"
+                }
+            ]
+        },
+        {
+            "id": 3919,
+            "verse_number": 131,
+            "verse_key": "37:131",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 391,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+            "page_number": 451,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99191,
+                    "resource_id": 20,
+                    "text": "Indeed, We thus reward the doers of good."
+                },
+                {
+                    "id": 217040,
+                    "resource_id": 39,
+                    "text": "Demikianlah sebenarnya Kami membalas orang-orang yang berusaha mengerjakan kebaikan."
+                },
+                {
+                    "id": 1094896,
+                    "resource_id": 161,
+                    "text": "এভাবেই আমি সৎকর্মশীলদেরকে প্রতিদান দিয়ে থাকি।"
+                }
+            ]
+        },
+        {
+            "id": 3920,
+            "verse_number": 132,
+            "verse_key": "37:132",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 391,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ",
+            "page_number": 451,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99192,
+                    "resource_id": 20,
+                    "text": "Indeed, he was of Our believing servants."
+                },
+                {
+                    "id": 217041,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Nabi Ilyas itu dari hamba-hamba Kami yang beriman."
+                },
+                {
+                    "id": 1094897,
+                    "resource_id": 161,
+                    "text": "সে ছিল আমার মু’মিন বান্দাহদের অন্তুর্ভুক্ত।"
+                }
+            ]
+        },
+        {
+            "id": 3921,
+            "verse_number": 133,
+            "verse_key": "37:133",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 391,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِنَّ لُوطًا لَّمِنَ ٱلْمُرْسَلِينَ",
+            "page_number": 451,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99193,
+                    "resource_id": 20,
+                    "text": "And indeed, Lot was among the messengers."
+                },
+                {
+                    "id": 217042,
+                    "resource_id": 39,
+                    "text": "Dan sesungguhnya Nabi Lut adalah dari Rasul-rasul (Kami) yang diutus."
+                },
+                {
+                    "id": 1094898,
+                    "resource_id": 161,
+                    "text": "লূতও ছিল অবশ্যই রসূলদের একজন।"
+                }
+            ]
+        },
+        {
+            "id": 3922,
+            "verse_number": 134,
+            "verse_key": "37:134",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 391,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "إِذْ نَجَّيْنَـٰهُ وَأَهْلَهُۥٓ أَجْمَعِينَ",
+            "page_number": 451,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99194,
+                    "resource_id": 20,
+                    "text": "[So mention] when We saved him and his family, all,"
+                },
+                {
+                    "id": 217043,
+                    "resource_id": 39,
+                    "text": "(ingatkanlah peristiwa) ketika kami selamatkan dia dan keluarga serta pengikut-pengikutnya semuanya,"
+                },
+                {
+                    "id": 1094899,
+                    "resource_id": 161,
+                    "text": "স্মরণ কর যখন আমি তাকে আর তার পরিবারের সকলকে উদ্ধার করেছিলাম"
+                }
+            ]
+        },
+        {
+            "id": 3923,
+            "verse_number": 135,
+            "verse_key": "37:135",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 391,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "إِلَّا عَجُوزًا فِى ٱلْغَـٰبِرِينَ",
+            "page_number": 451,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99195,
+                    "resource_id": 20,
+                    "text": "Except an old woman [i.e., his wife] among those who remained [with the evildoers]."
+                },
+                {
+                    "id": 217044,
+                    "resource_id": 39,
+                    "text": "Kecuali seorang perempuan tua tertinggal dalam golongan yang dibinasakan."
+                },
+                {
+                    "id": 1094900,
+                    "resource_id": 161,
+                    "text": "এক বৃদ্ধা ছাড়া- সে ছিল পিছ-পড়াদের একজন।"
+                }
+            ]
+        },
+        {
+            "id": 3924,
+            "verse_number": 136,
+            "verse_key": "37:136",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 391,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "ثُمَّ دَمَّرْنَا ٱلْـَٔاخَرِينَ",
+            "page_number": 451,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99196,
+                    "resource_id": 20,
+                    "text": "Then We destroyed the others."
+                },
+                {
+                    "id": 214985,
+                    "resource_id": 39,
+                    "text": "Kemudian Kami hancurkan yang lain (dari pengikut-pengikut Nabi Lut)."
+                },
+                {
+                    "id": 1094901,
+                    "resource_id": 161,
+                    "text": "অতঃপর অন্য সব্বাইকে আমি পুরোপুরি ধ্বংস করে ছিয়েছিলাম।"
+                }
+            ]
+        },
+        {
+            "id": 3925,
+            "verse_number": 137,
+            "verse_key": "37:137",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 391,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِنَّكُمْ لَتَمُرُّونَ عَلَيْهِم مُّصْبِحِينَ",
+            "page_number": 451,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99197,
+                    "resource_id": 20,
+                    "text": "And indeed, you pass by them in the morning"
+                },
+                {
+                    "id": 217045,
+                    "resource_id": 39,
+                    "text": "Dan sesungguhnya kamu (yang menentang Nabi Muhammad): berulang-alik (melalui bekas-bekas tempat tinggal) mereka, semasa kamu berada pada waktu pagi."
+                },
+                {
+                    "id": 1094902,
+                    "resource_id": 161,
+                    "text": "তোমরা তো তাদের ধ্বংসপ্রাপ্ত বসতিগুলোর উপর দিয়ে অবশ্যই চলাচল কর সকালে"
+                }
+            ]
+        },
+        {
+            "id": 3926,
+            "verse_number": 138,
+            "verse_key": "37:138",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 391,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَبِٱلَّيْلِ ۗ أَفَلَا تَعْقِلُونَ",
+            "page_number": 451,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99198,
+                    "resource_id": 20,
+                    "text": "And at night. Then will you not use reason?"
+                },
+                {
+                    "id": 217049,
+                    "resource_id": 39,
+                    "text": "Dan juga pada waktu malam; maka mengapa kamu tidak mahu memikirkannya?."
+                },
+                {
+                    "id": 1094903,
+                    "resource_id": 161,
+                    "text": "ও সন্ধ্যায়, তোমরা কি বুঝবে না?"
+                }
+            ]
+        },
+        {
+            "id": 3927,
+            "verse_number": 139,
+            "verse_key": "37:139",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 392,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِنَّ يُونُسَ لَمِنَ ٱلْمُرْسَلِينَ",
+            "page_number": 451,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99199,
+                    "resource_id": 20,
+                    "text": "And indeed, Jonah was among the messengers."
+                },
+                {
+                    "id": 217047,
+                    "resource_id": 39,
+                    "text": "Dan sesungguhnya Nabi Yunus adalah dari Rasul-rasul (Kami) yang diutus."
+                },
+                {
+                    "id": 1094904,
+                    "resource_id": 161,
+                    "text": "ইউনুসও ছিল রসূলদের একজন।"
+                }
+            ]
+        },
+        {
+            "id": 3928,
+            "verse_number": 140,
+            "verse_key": "37:140",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 392,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "إِذْ أَبَقَ إِلَى ٱلْفُلْكِ ٱلْمَشْحُونِ",
+            "page_number": 451,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99201,
+                    "resource_id": 20,
+                    "text": "[Mention] when he ran away to the laden ship."
+                },
+                {
+                    "id": 217051,
+                    "resource_id": 39,
+                    "text": "(Ingatkanlah peristiwa) ketika ia melarikan diri ke kapal yang penuh sarat."
+                },
+                {
+                    "id": 1094905,
+                    "resource_id": 161,
+                    "text": "স্মরণ কর, যখন সে পালিয়ে বোঝাই নৌকায় পৌঁছেছিল।"
+                }
+            ]
+        },
+        {
+            "id": 3929,
+            "verse_number": 141,
+            "verse_key": "37:141",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 392,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فَسَاهَمَ فَكَانَ مِنَ ٱلْمُدْحَضِينَ",
+            "page_number": 451,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99202,
+                    "resource_id": 20,
+                    "text": "And he drew lots<sup foot_note=197195>1</sup> and was among the losers."
+                },
+                {
+                    "id": 217050,
+                    "resource_id": 39,
+                    "text": "(Dengan satu keadaan yang memaksa) maka dia pun turut mengundi, lalu menjadilah ia dari orang-orang yang kalah yang digelunsurkan (ke laut)."
+                },
+                {
+                    "id": 1094906,
+                    "resource_id": 161,
+                    "text": "অতঃপর (দোষী খুঁজার জন্য যে লটারী করা হল সেই) লটারীতে সে অংশ নিল আর তাতে হেরে গেল।"
+                }
+            ]
+        },
+        {
+            "id": 3930,
+            "verse_number": 142,
+            "verse_key": "37:142",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 392,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌ",
+            "page_number": 451,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99203,
+                    "resource_id": 20,
+                    "text": "Then the fish swallowed him, while he was blameworthy.<sup foot_note=197196>1</sup>"
+                },
+                {
+                    "id": 217054,
+                    "resource_id": 39,
+                    "text": "Setelah itu ia ditelan oleh ikan besar, sedang ia berhak ditempelak."
+                },
+                {
+                    "id": 1094907,
+                    "resource_id": 161,
+                    "text": "পরে একটা বড় মাছে তাকে গিলে ফেলল, সে কাজ করেছিল ধিক্কারযোগ্য।"
+                }
+            ]
+        },
+        {
+            "id": 3931,
+            "verse_number": 143,
+            "verse_key": "37:143",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 392,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فَلَوْلَآ أَنَّهُۥ كَانَ مِنَ ٱلْمُسَبِّحِينَ",
+            "page_number": 451,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99204,
+                    "resource_id": 20,
+                    "text": "And had he not been of those who exalt Allāh,"
+                },
+                {
+                    "id": 217052,
+                    "resource_id": 39,
+                    "text": "Maka kalaulah ia bukan dari orang-orang yang sentiasa mengingati Allah (dengan zikir dan tasbih),"
+                },
+                {
+                    "id": 1094908,
+                    "resource_id": 161,
+                    "text": "সে যদি (অনুতপ্ত হয়ে) আল্লাহর তাসবীহকারী না হত,"
+                }
+            ]
+        },
+        {
+            "id": 3932,
+            "verse_number": 144,
+            "verse_key": "37:144",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 392,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "لَلَبِثَ فِى بَطْنِهِۦٓ إِلَىٰ يَوْمِ يُبْعَثُونَ",
+            "page_number": 451,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99205,
+                    "resource_id": 20,
+                    "text": "He would have remained inside its belly until the Day they are resurrected.<sup foot_note=197197>1</sup>"
+                },
+                {
+                    "id": 217053,
+                    "resource_id": 39,
+                    "text": "Tentulah ia akan tinggal di dalam perut ikan itu hingga ke hari manusia dibangkitkan keluar dari kubur."
+                },
+                {
+                    "id": 1094909,
+                    "resource_id": 161,
+                    "text": "তাহলে নিশ্চিতই তাকে পুনরুত্থানের দিন পর্যন্ত মাছের পেটে থাকতে হত।"
+                }
+            ]
+        },
+        {
+            "id": 3933,
+            "verse_number": 145,
+            "verse_key": "37:145",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 181,
+            "ruku_number": 392,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "۞ فَنَبَذْنَـٰهُ بِٱلْعَرَآءِ وَهُوَ سَقِيمٌ",
+            "page_number": 451,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99206,
+                    "resource_id": 20,
+                    "text": "But We threw him onto the open shore while he was ill."
+                },
+                {
+                    "id": 217055,
+                    "resource_id": 39,
+                    "text": "Oleh itu Kami campakkan dia keluar (dari perut ikan) ke tanah yang tandus (di tepi pantai), sedang ia berkeadaan sakit."
+                },
+                {
+                    "id": 1094910,
+                    "resource_id": 161,
+                    "text": "অতঃপর আমি তাকে তৃণলতাহীন প্রান্তরে নিক্ষেপ করলাম, আর সে ছিল রুগ্ন।"
+                }
+            ]
+        },
+        {
+            "id": 3934,
+            "verse_number": 146,
+            "verse_key": "37:146",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 181,
+            "ruku_number": 392,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَنۢبَتْنَا عَلَيْهِ شَجَرَةً مِّن يَقْطِينٍ",
+            "page_number": 451,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99207,
+                    "resource_id": 20,
+                    "text": "And We caused to grow over him a gourd vine.<sup foot_note=197198>1</sup>"
+                },
+                {
+                    "id": 217056,
+                    "resource_id": 39,
+                    "text": "Dan Kami tumbuhkan (untuk melindunginya) sebatang pokok yang berdaun lebar."
+                },
+                {
+                    "id": 1094911,
+                    "resource_id": 161,
+                    "text": "অতঃপর আমি তার উপর লাউ-কুমড়া জাতীয় লতা-পাতাযুক্ত একটা গাছ বের করে দিলাম।"
+                }
+            ]
+        },
+        {
+            "id": 3935,
+            "verse_number": 147,
+            "verse_key": "37:147",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 181,
+            "ruku_number": 392,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+            "page_number": 451,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99208,
+                    "resource_id": 20,
+                    "text": "And We sent him<sup foot_note=197199>1</sup> to [his people of] a hundred thousand or more."
+                },
+                {
+                    "id": 217057,
+                    "resource_id": 39,
+                    "text": "Dan (Nabi Yunus yang tersebut kisahnya itu) Kami utuskan kepada (kaumnya yang seramai) seratus ribu atau lebih."
+                },
+                {
+                    "id": 1094912,
+                    "resource_id": 161,
+                    "text": "অতঃপর তাকে এক লাখ বা তার চেয়ে বেশি লোকের কাছে পাঠালাম।"
+                }
+            ]
+        },
+        {
+            "id": 3936,
+            "verse_number": 148,
+            "verse_key": "37:148",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 181,
+            "ruku_number": 392,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍ",
+            "page_number": 451,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99209,
+                    "resource_id": 20,
+                    "text": "And they believed, so We gave them enjoyment [of life] for a time."
+                },
+                {
+                    "id": 217058,
+                    "resource_id": 39,
+                    "text": "(Setelah berlaku apa yang berlaku) maka mereka pun beriman, lalu Kami biarkan mereka menikmati kesenangan hidup hingga ke suatu masa (yang ditetapkan bagi masing-masing)."
+                },
+                {
+                    "id": 1094913,
+                    "resource_id": 161,
+                    "text": "তারা ঈমান আনল, কাজেই আমি তাদেরকে কিছুকাল পর্যন্ত জীবন উপভোগ করতে দিলাম।"
+                }
+            ]
+        },
+        {
+            "id": 3937,
+            "verse_number": 149,
+            "verse_key": "37:149",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 181,
+            "ruku_number": 392,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فَٱسْتَفْتِهِمْ أَلِرَبِّكَ ٱلْبَنَاتُ وَلَهُمُ ٱلْبَنُونَ",
+            "page_number": 451,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99210,
+                    "resource_id": 20,
+                    "text": "So inquire of them, [O Muḥammad], \"Does your Lord have daughters while they have sons?<sup foot_note=197200>1</sup>"
+                },
+                {
+                    "id": 217059,
+                    "resource_id": 39,
+                    "text": "(Oleh sebab ada di antara kaum musyrik Arab yang mendakwa bahawa malaikat itu anak-anak perempuan Allah) maka bertanyalah (wahai Muhammad) kepada mereka itu: Adilkah mereka membahagi untuk Tuhanmu anak-anak perempuan, dan untuk mereka anak-anak lelaki?"
+                },
+                {
+                    "id": 1094914,
+                    "resource_id": 161,
+                    "text": "এখন তুমি তাদেরকে (অর্থাৎ মক্কার কাফিরদেরকে) জিজ্ঞেস কর ‘কন্যাগুলোই কি তোমাদের প্রতিপালকের জন্য, আর তাদের নিজেদের জন্য পুত্রগণ?"
+                }
+            ]
+        },
+        {
+            "id": 3938,
+            "verse_number": 150,
+            "verse_key": "37:150",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 181,
+            "ruku_number": 392,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "أَمْ خَلَقْنَا ٱلْمَلَـٰٓئِكَةَ إِنَـٰثًا وَهُمْ شَـٰهِدُونَ",
+            "page_number": 451,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99212,
+                    "resource_id": 20,
+                    "text": "Or did We create the angels as females while they were witnesses?\""
+                },
+                {
+                    "id": 217064,
+                    "resource_id": 39,
+                    "text": "Atau adakah mereka hadir sendiri menyaksikan Kami mencipta malaikat-malaikat itu - perempuan?"
+                },
+                {
+                    "id": 1094915,
+                    "resource_id": 161,
+                    "text": "নাকি আমি ফেরেশতাদেরকে মেয়ে হিসেবে সৃষ্টি করেছিলাম আর তারা (অর্থাৎ মক্কার কাফিররা সেখানে) হাজির ছিল?"
+                }
+            ]
+        },
+        {
+            "id": 3939,
+            "verse_number": 151,
+            "verse_key": "37:151",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 181,
+            "ruku_number": 392,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "أَلَآ إِنَّهُم مِّنْ إِفْكِهِمْ لَيَقُولُونَ",
+            "page_number": 451,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99213,
+                    "resource_id": 20,
+                    "text": "Unquestionably, it is out of their [invented] falsehood that they say,"
+                },
+                {
+                    "id": 217061,
+                    "resource_id": 39,
+                    "text": "Ketahuilah! Bahawa sesungguhnya, dengan sebab terpesongnya dari kebenaran, mereka berkata:"
+                },
+                {
+                    "id": 1094916,
+                    "resource_id": 161,
+                    "text": "দেখ, তারা অবশ্যই তাদের মন-গড়া কথা বলে যে,"
+                }
+            ]
+        },
+        {
+            "id": 3940,
+            "verse_number": 152,
+            "verse_key": "37:152",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 181,
+            "ruku_number": 392,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَدَ ٱللَّهُ وَإِنَّهُمْ لَكَـٰذِبُونَ",
+            "page_number": 451,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99214,
+                    "resource_id": 20,
+                    "text": "\"Allāh has begotten,\" and indeed, they are liars."
+                },
+                {
+                    "id": 217062,
+                    "resource_id": 39,
+                    "text": "\"Allah beranak\"; sedang mereka, sesungguhnya adalah orang-orang yang berdusta!"
+                },
+                {
+                    "id": 1094917,
+                    "resource_id": 161,
+                    "text": "আল্লাহ সন্তানের জন্ম দিয়েছেন। তারা অবশ্যই মিথ্যেবাদী।"
+                }
+            ]
+        },
+        {
+            "id": 3941,
+            "verse_number": 153,
+            "verse_key": "37:153",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 181,
+            "ruku_number": 392,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "أَصْطَفَى ٱلْبَنَاتِ عَلَى ٱلْبَنِينَ",
+            "page_number": 451,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99215,
+                    "resource_id": 20,
+                    "text": "Has He chosen daughters over sons?"
+                },
+                {
+                    "id": 217063,
+                    "resource_id": 39,
+                    "text": "(Patutkah kamu mendakwa bahawa Tuhan mempunyai anak, dan anak itu pula ialah anak-anak perempuan yang kamu tidak sukai?) Adakah Tuhan memilih serta mengutamakan anak-anak perempuan dari anak-anak lelaki (sedang kedua-dua jenis itu Dia lah yang menciptakannya)?"
+                },
+                {
+                    "id": 1094918,
+                    "resource_id": 161,
+                    "text": "তিনি কি পুত্রদের চেয়ে কন্যাদেরকেই বেশি পছন্দ করেছেন?"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 27,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 27
+    }
+}

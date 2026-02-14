@@ -1,0 +1,221 @@
+{
+    "verses": [
+        {
+            "id": 3379,
+            "verse_number": 39,
+            "verse_key": "29:39",
+            "hizb_number": 40,
+            "rub_el_hizb_number": 160,
+            "ruku_number": 346,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَقَـٰرُونَ وَفِرْعَوْنَ وَهَـٰمَـٰنَ ۖ وَلَقَدْ جَآءَهُم مُّوسَىٰ بِٱلْبَيِّنَـٰتِ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ وَمَا كَانُوا۟ سَـٰبِقِينَ",
+            "page_number": 401,
+            "juz_number": 20,
+            "translations": [
+                {
+                    "id": 98559,
+                    "resource_id": 20,
+                    "text": "And [We destroyed] Qārūn and Pharaoh and Hāmān. And Moses had already come to them with clear evidences, and they were arrogant in the land, but they were not outrunners [of Our punishment]."
+                },
+                {
+                    "id": 216423,
+                    "resource_id": 39,
+                    "text": "Dan (ingatkanlah juga peristiwa kebinasaan) Qarun dan Firaun serta Haman. Dan demi sesungguhnya Nabi Musa telah datang kepada mereka membawa keterangan-keterangan (mukjizat) yang jelas nyata, lalu mereka berlaku sombong takbur di bumi (mendustakannya), padahal mereka tidak dapat melepaskan diri (dari azab Allah)."
+                },
+                {
+                    "id": 1094356,
+                    "resource_id": 161,
+                    "text": "(স্মরণ কর) কারূন, ফেরাউন ও হামানের কথা। মূসা তাদের কাছে সুস্পষ্ট নিদর্শন নিয়ে এসেছিল, অতঃপর তারা পৃথিবীতে অহংকার করল, কিন্তু তারা (আমাকে পেছনে ফেলে) আগে বেড়ে যেতে পারেনি।"
+                }
+            ]
+        },
+        {
+            "id": 3380,
+            "verse_number": 40,
+            "verse_key": "29:40",
+            "hizb_number": 40,
+            "rub_el_hizb_number": 160,
+            "ruku_number": 346,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "فَكُلًّا أَخَذْنَا بِذَنۢبِهِۦ ۖ فَمِنْهُم مَّنْ أَرْسَلْنَا عَلَيْهِ حَاصِبًا وَمِنْهُم مَّنْ أَخَذَتْهُ ٱلصَّيْحَةُ وَمِنْهُم مَّنْ خَسَفْنَا بِهِ ٱلْأَرْضَ وَمِنْهُم مَّنْ أَغْرَقْنَا ۚ وَمَا كَانَ ٱللَّهُ لِيَظْلِمَهُمْ وَلَـٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ",
+            "page_number": 401,
+            "juz_number": 20,
+            "translations": [
+                {
+                    "id": 98562,
+                    "resource_id": 20,
+                    "text": "So each We seized for his sin; and among them were those upon whom We sent a storm of stones, and among them were those who were seized by the blast [from the sky], and among them were those whom We caused the earth to swallow, and among them were those whom We drowned. And Allāh would not have wronged them, but it was they who were wronging themselves."
+                },
+                {
+                    "id": 216426,
+                    "resource_id": 39,
+                    "text": "Maka masing-masing Kami binasakan dengan sebab dosanya, iaitu di antaranya ada yang Kami hantarkan angin ribut menghujaninya dengan batu; dan ada yang dibinasakan dengan letusan suara yang menggempakan bumi; dan ada yang Kami timbuskan dia di bumi; dan ada pula yang Kami tenggelamkan di laut. Dan (ingatlah) Allah tidak sekali-kali menganiaya mereka, akan tetapi merekalah yang menganiaya diri sendiri."
+                },
+                {
+                    "id": 1094357,
+                    "resource_id": 161,
+                    "text": "ওদের প্রত্যেককেই আমি তার পাপের কারণে পাকড়াও করেছিলাম। তাদের কারো প্রতি আমি পাঠিয়েছিলাম পাথরসহ ঝটিকা, কারো প্রতি আঘাত হেনেছিল বজ্রের প্রচন্ড আওয়াজ, কাউকে আমি প্রোথিত করেছি ভূগর্ভে আর কাউকে দিয়েছিলাম ডুবিয়ে। তাদের প্রতি আল্লাহ কোন যুলম করেননি, তারা নিজেরাই নিজেদের প্রতি যুলম করেছিল।"
+                }
+            ]
+        },
+        {
+            "id": 3381,
+            "verse_number": 41,
+            "verse_key": "29:41",
+            "hizb_number": 40,
+            "rub_el_hizb_number": 160,
+            "ruku_number": 346,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "مَثَلُ ٱلَّذِينَ ٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ أَوْلِيَآءَ كَمَثَلِ ٱلْعَنكَبُوتِ ٱتَّخَذَتْ بَيْتًا ۖ وَإِنَّ أَوْهَنَ ٱلْبُيُوتِ لَبَيْتُ ٱلْعَنكَبُوتِ ۖ لَوْ كَانُوا۟ يَعْلَمُونَ",
+            "page_number": 401,
+            "juz_number": 20,
+            "translations": [
+                {
+                    "id": 98563,
+                    "resource_id": 20,
+                    "text": "The example of those who take allies other than Allāh is like that of the spider who takes [i.e., constructs] a home. And indeed, the weakest of homes is the home of the spider, if they only knew."
+                },
+                {
+                    "id": 216427,
+                    "resource_id": 39,
+                    "text": "Misal bandingan orang-orang yang menjadikan benda-benda yang lain dari Allah sebagai pelindung-pelindung (yang diharapkan pertolongannya) adalah seperti labah-labah yang membuat sarang (untuk menjadi tempat perlindungannya); padahal sesungguhnya sarang-sarang yang paling reput ialah sarang labah-labah, kalaulah mereka orang-orang yang berpengetahuan."
+                },
+                {
+                    "id": 1094358,
+                    "resource_id": 161,
+                    "text": "যারা আল্লাহকে বাদ দিয়ে অন্যদেরকে অভিভাবকরূপে গ্রহণ করেছে তাদের দৃষ্টান্ত হল মাকড়সার মত। সে ঘর বানায়, আর ঘরের মধ্যে মাকড়সার ঘরই সবচেয়ে দুর্বল; যদি তারা জানত!"
+                }
+            ]
+        },
+        {
+            "id": 3382,
+            "verse_number": 42,
+            "verse_key": "29:42",
+            "hizb_number": 40,
+            "rub_el_hizb_number": 160,
+            "ruku_number": 346,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ ٱللَّهَ يَعْلَمُ مَا يَدْعُونَ مِن دُونِهِۦ مِن شَىْءٍ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+            "page_number": 401,
+            "juz_number": 20,
+            "translations": [
+                {
+                    "id": 98564,
+                    "resource_id": 20,
+                    "text": "Indeed, Allāh knows whatever thing they call upon<sup foot_note=197034>1</sup> other than Him. And He is the Exalted in Might, the Wise."
+                },
+                {
+                    "id": 216429,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Allah mengetahui (kepalsuan) apa jua yang mereka sembah yang lain daripadaNya, dan Allah jualah Yang Maha Kuasa, lagi Maha Bijaksana."
+                },
+                {
+                    "id": 1094359,
+                    "resource_id": 161,
+                    "text": "তারা আল্লাহর পরিবর্তে যা কিছুকে ডাকে আল্লাহ তা জানেন, তিনি মহাপরাক্রান্ত, মহাপ্রজ্ঞাময়।"
+                }
+            ]
+        },
+        {
+            "id": 3383,
+            "verse_number": 43,
+            "verse_key": "29:43",
+            "hizb_number": 40,
+            "rub_el_hizb_number": 160,
+            "ruku_number": 346,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَتِلْكَ ٱلْأَمْثَـٰلُ نَضْرِبُهَا لِلنَّاسِ ۖ وَمَا يَعْقِلُهَآ إِلَّا ٱلْعَـٰلِمُونَ",
+            "page_number": 401,
+            "juz_number": 20,
+            "translations": [
+                {
+                    "id": 98565,
+                    "resource_id": 20,
+                    "text": "And these examples We present to the people, but none will understand them except those of knowledge."
+                },
+                {
+                    "id": 216430,
+                    "resource_id": 39,
+                    "text": "Dan misal-misal perbandingan yang demikian itu Kami kemukakan kepada umat manusia, dan hanya orang-orang yang berilmu yang dapat memahaminya."
+                },
+                {
+                    "id": 1094360,
+                    "resource_id": 161,
+                    "text": "এ সব দৃষ্টান্ত আমি মানুষদের জন্য বর্ণনা করছি, কেবল জ্ঞানীরাই তা বুঝে।"
+                }
+            ]
+        },
+        {
+            "id": 3384,
+            "verse_number": 44,
+            "verse_key": "29:44",
+            "hizb_number": 40,
+            "rub_el_hizb_number": 160,
+            "ruku_number": 346,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "خَلَقَ ٱللَّهُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّلْمُؤْمِنِينَ",
+            "page_number": 401,
+            "juz_number": 20,
+            "translations": [
+                {
+                    "id": 98566,
+                    "resource_id": 20,
+                    "text": "Allāh created the heavens and the earth in truth. Indeed in that is a sign for the believers."
+                },
+                {
+                    "id": 216431,
+                    "resource_id": 39,
+                    "text": "Allah mencipta langit dan bumi dengan cara yang layak dan berhikmat; sesungguhnya yang demikian itu mengandungi satu tanda (yang membuktikan kebijaksanaan Allah) bagi orang-orang yang beriman."
+                },
+                {
+                    "id": 1094361,
+                    "resource_id": 161,
+                    "text": "আসমানসমূহ আর পৃথিবীকে আল্লাহ উদ্দেশ্য সাধনের উপযোগী ক’রে সৃষ্টি করেছেন, এতে বিশ্বাসীদের জন্য অবশ্যই নিদর্শন আছে।"
+                }
+            ]
+        },
+        {
+            "id": 3385,
+            "verse_number": 45,
+            "verse_key": "29:45",
+            "hizb_number": 40,
+            "rub_el_hizb_number": 160,
+            "ruku_number": 347,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "ٱتْلُ مَآ أُوحِىَ إِلَيْكَ مِنَ ٱلْكِتَـٰبِ وَأَقِمِ ٱلصَّلَوٰةَ ۖ إِنَّ ٱلصَّلَوٰةَ تَنْهَىٰ عَنِ ٱلْفَحْشَآءِ وَٱلْمُنكَرِ ۗ وَلَذِكْرُ ٱللَّهِ أَكْبَرُ ۗ وَٱللَّهُ يَعْلَمُ مَا تَصْنَعُونَ",
+            "page_number": 401,
+            "juz_number": 20,
+            "translations": [
+                {
+                    "id": 98567,
+                    "resource_id": 20,
+                    "text": "Recite, [O Muḥammad], what has been revealed to you of the Book and establish prayer. Indeed, prayer prohibits immorality and wrongdoing, and the remembrance of Allāh is greater. And Allāh knows that which you do."
+                },
+                {
+                    "id": 216432,
+                    "resource_id": 39,
+                    "text": "Bacalah serta ikutlah (wahai Muhammad) akan apa yang diwahyukan kepadamu dari Al-Quran, dan dirikanlah sembahyang (dengan tekun); sesungguhnya sembahyang itu mencegah dari perbuatan yang keji dan mungkar; dan sesungguhnya mengingati Allah adalah lebih besar (faedahnya dan kesannya); dan (ingatlah) Allah mengetahui akan apa yang kamu kerjakan."
+                },
+                {
+                    "id": 1094362,
+                    "resource_id": 161,
+                    "text": "তোমার প্রতি যা ওয়াহী করা হয়েছে কিতাব থেকে তা পাঠ কর আর নামায প্রতিষ্ঠা কর; নামায অশ্লীল ও মন্দ কাজ হতে বিরত রাখে। নিশ্চয়ই আল্লাহর স্মরণই সর্বশ্রেষ্ঠ (বিষয়)। তোমরা যা কর আল্লাহ তা জানেন।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 7,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 7
+    }
+}

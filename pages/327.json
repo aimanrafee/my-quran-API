@@ -1,0 +1,461 @@
+{
+    "verses": [
+        {
+            "id": 2541,
+            "verse_number": 58,
+            "verse_key": "21:58",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 131,
+            "ruku_number": 282,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَجَعَلَهُمْ جُذَٰذًا إِلَّا كَبِيرًا لَّهُمْ لَعَلَّهُمْ إِلَيْهِ يَرْجِعُونَ",
+            "page_number": 327,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97521,
+                    "resource_id": 20,
+                    "text": "So he made them into fragments, except a large one among them, that they might return to it [and question]."
+                },
+                {
+                    "id": 215394,
+                    "resource_id": 39,
+                    "text": "Lalu ia memecahkan semuanya berketul-ketul, kecuali sebuah berhala mereka yang besar (dibiarkannya), supaya mereka kembali kepadanya."
+                },
+                {
+                    "id": 1093518,
+                    "resource_id": 161,
+                    "text": "তারপর সে মূর্তিগুলোকে টুকরো টুকরো করে দিল, ওগুলোর বড়টি ছাড়া, যাতে পূজারীরা ওটার প্রতিই মনোযোগী হয়।"
+                }
+            ]
+        },
+        {
+            "id": 2542,
+            "verse_number": 59,
+            "verse_key": "21:59",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 131,
+            "ruku_number": 282,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالُوا۟ مَن فَعَلَ هَـٰذَا بِـَٔالِهَتِنَآ إِنَّهُۥ لَمِنَ ٱلظَّـٰلِمِينَ",
+            "page_number": 327,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97523,
+                    "resource_id": 20,
+                    "text": "They said, \"Who has done this to our gods? Indeed, he is of the wrongdoers.\""
+                },
+                {
+                    "id": 215398,
+                    "resource_id": 39,
+                    "text": "(Setelah melihat kejadian itu) mereka bertanya: \"Siapakah yang melakukan perbuatan yang demikian terhadap tuhan-tuhan kami? Sesungguhnya adalah ia dari orang-orang yang zalim\"."
+                },
+                {
+                    "id": 1093519,
+                    "resource_id": 161,
+                    "text": "তারা বলল, ‘আমাদের মূর্তিগুলোর সাথে এমনটা কে করল? সে অবশ্যই যালিম।’"
+                }
+            ]
+        },
+        {
+            "id": 2543,
+            "verse_number": 60,
+            "verse_key": "21:60",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 131,
+            "ruku_number": 282,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالُوا۟ سَمِعْنَا فَتًى يَذْكُرُهُمْ يُقَالُ لَهُۥٓ إِبْرَٰهِيمُ",
+            "page_number": 327,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97527,
+                    "resource_id": 20,
+                    "text": "They said, \"We heard a young man mention them who is called Abraham.\""
+                },
+                {
+                    "id": 214713,
+                    "resource_id": 39,
+                    "text": "(Setengah dari) mereka berkata: \"Kami ada mendengar seorang anak muda bernama Ibrahim, mencacinya\"."
+                },
+                {
+                    "id": 1093520,
+                    "resource_id": 161,
+                    "text": "কেউ কেউ বলল, ‘এক যুবককে এদের সম্পর্কে বলতে শুনেছি, তাকে ইবরাহীম বলা হয়।’"
+                }
+            ]
+        },
+        {
+            "id": 2544,
+            "verse_number": 61,
+            "verse_key": "21:61",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 131,
+            "ruku_number": 282,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالُوا۟ فَأْتُوا۟ بِهِۦ عَلَىٰٓ أَعْيُنِ ٱلنَّاسِ لَعَلَّهُمْ يَشْهَدُونَ",
+            "page_number": 327,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97529,
+                    "resource_id": 20,
+                    "text": "They said, \"Then bring him before the eyes of the people that they may testify.\"<sup foot_note=196801>1</sup>"
+                },
+                {
+                    "id": 215399,
+                    "resource_id": 39,
+                    "text": "(Ketua-ketua) mereka berkata: \"Jika demikian, bawalah dia di hadapan orang ramai supaya mereka menyaksikan (tindakan mengenainya)."
+                },
+                {
+                    "id": 1093521,
+                    "resource_id": 161,
+                    "text": "তারা বলল, ‘তাকে নিয়ে এসো লোকজনের সামনে যাতে তারা সাক্ষী হতে পারে।’"
+                }
+            ]
+        },
+        {
+            "id": 2545,
+            "verse_number": 62,
+            "verse_key": "21:62",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 131,
+            "ruku_number": 282,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالُوٓا۟ ءَأَنتَ فَعَلْتَ هَـٰذَا بِـَٔالِهَتِنَا يَـٰٓإِبْرَٰهِيمُ",
+            "page_number": 327,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97531,
+                    "resource_id": 20,
+                    "text": "They said, \"Have you done this to our gods, O Abraham?\""
+                },
+                {
+                    "id": 215401,
+                    "resource_id": 39,
+                    "text": "(Setelah ia dibawa ke situ) mereka bertanya: \"Engkaukah yang melakukan demikian kepada tuhan-tuhan kami, hai Ibrahim?\""
+                },
+                {
+                    "id": 1093522,
+                    "resource_id": 161,
+                    "text": "তারা বলল, ‘ওহে ইবরাহীম! আমাদের উপাস্যদের সাথে তুমিই কি এমনটি করেছ?’"
+                }
+            ]
+        },
+        {
+            "id": 2546,
+            "verse_number": 63,
+            "verse_key": "21:63",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 131,
+            "ruku_number": 282,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ بَلْ فَعَلَهُۥ كَبِيرُهُمْ هَـٰذَا فَسْـَٔلُوهُمْ إِن كَانُوا۟ يَنطِقُونَ",
+            "page_number": 327,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97533,
+                    "resource_id": 20,
+                    "text": "He said, \"Rather, this - the largest of them - did it, so ask them, if they should [be able to] speak.\""
+                },
+                {
+                    "id": 215403,
+                    "resource_id": 39,
+                    "text": "Ia menjawab: \"(Tidak) bahkan yang melakukannya ialah (berhala) yang besar di antara mereka ini! Maka bertanyalah kamu kepada mereka kalau-kalau mereka dapat berkata-kata\"."
+                },
+                {
+                    "id": 1093523,
+                    "resource_id": 161,
+                    "text": "সে বলল, ‘না, তাদের এই বড়টাই এ সব করেছে, তারা যদি কথা বলতে পারে তবে তাদেরকে জিজ্ঞেস কর।’"
+                }
+            ]
+        },
+        {
+            "id": 2547,
+            "verse_number": 64,
+            "verse_key": "21:64",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 131,
+            "ruku_number": 282,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَرَجَعُوٓا۟ إِلَىٰٓ أَنفُسِهِمْ فَقَالُوٓا۟ إِنَّكُمْ أَنتُمُ ٱلظَّـٰلِمُونَ",
+            "page_number": 327,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97535,
+                    "resource_id": 20,
+                    "text": "So they returned to [blaming] themselves and said [to each other], \"Indeed, you are the wrongdoers.\""
+                },
+                {
+                    "id": 215407,
+                    "resource_id": 39,
+                    "text": "Maka mereka (penyembah berhala) kembali kepada diri mereka (memikirkan hal itu) lalu berkata (sesama sendiri): \"Sesungguhnya kamulah sendiri orang-orang yang zalim\"."
+                },
+                {
+                    "id": 1093524,
+                    "resource_id": 161,
+                    "text": "তখন তারা বিষয়টি নিয়ে মনে মনে চিন্তা করল এবং পরস্পর বলাবলি করল- তোমরা নিজেরাই তো অন্যায়কারী।"
+                }
+            ]
+        },
+        {
+            "id": 2548,
+            "verse_number": 65,
+            "verse_key": "21:65",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 131,
+            "ruku_number": 282,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "ثُمَّ نُكِسُوا۟ عَلَىٰ رُءُوسِهِمْ لَقَدْ عَلِمْتَ مَا هَـٰٓؤُلَآءِ يَنطِقُونَ",
+            "page_number": 327,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97537,
+                    "resource_id": 20,
+                    "text": "Then they reversed themselves,<sup foot_note=196802>1</sup> [saying], \"You have already known that these do not speak!\""
+                },
+                {
+                    "id": 215408,
+                    "resource_id": 39,
+                    "text": "Kemudian mereka terbalik fikirannya kepada kesesatan, lalu berkata: \"Sesungguhnya engkau (hai Ibrahim), telah sedia mengetahui bahawa berhala-berhala itu tidak dapat berkata-kata (maka betapa engkau menyuruh kami bertanya kepadanya)?\""
+                },
+                {
+                    "id": 1093525,
+                    "resource_id": 161,
+                    "text": "তাদের মাথা হেঁট হয়ে গেল। (তখন তারা বলল) ‘তুমি তো জানই ওরা কথা বলতে পারে না।’"
+                }
+            ]
+        },
+        {
+            "id": 2549,
+            "verse_number": 66,
+            "verse_key": "21:66",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 131,
+            "ruku_number": 282,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ أَفَتَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُكُمْ شَيْـًٔا وَلَا يَضُرُّكُمْ",
+            "page_number": 327,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97540,
+                    "resource_id": 20,
+                    "text": "He said, \"Then do you worship instead of Allāh that which does not benefit you at all or harm you?"
+                },
+                {
+                    "id": 215411,
+                    "resource_id": 39,
+                    "text": "Nabi Ibrahim berkata: \"Jika demikian, patutkah kamu menyembah yang lain dari Allah sesuatu yang tidak dapat mendatangkan faedah sedikitpun kepada kamu, dan juga tidak dapat mendatangkan mudarat kepada kamu?"
+                },
+                {
+                    "id": 1093526,
+                    "resource_id": 161,
+                    "text": "সে বলল, ‘তাহলে তোমরা কি আল্লাহর পরিবর্তে এমন কিছুর ‘ইবাদাত কর যা না পারে তোমাদের কোন উপকার করতে, আর না পারে তোমাদের ক্ষতি করতে?"
+                }
+            ]
+        },
+        {
+            "id": 2550,
+            "verse_number": 67,
+            "verse_key": "21:67",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 131,
+            "ruku_number": 282,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "أُفٍّ لَّكُمْ وَلِمَا تَعْبُدُونَ مِن دُونِ ٱللَّهِ ۖ أَفَلَا تَعْقِلُونَ",
+            "page_number": 327,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97542,
+                    "resource_id": 20,
+                    "text": "Uff<sup foot_note=196803>1</sup> to you and to what you worship instead of Allāh. Then will you not use reason?\""
+                },
+                {
+                    "id": 215417,
+                    "resource_id": 39,
+                    "text": "\"Jijik perasaanku terhadap kamu dan apa yang kamu sembah selain Allah! Maka mengapa kamu tidak mahu menggunakan akal fikiran kamu?\""
+                },
+                {
+                    "id": 1093527,
+                    "resource_id": 161,
+                    "text": "ধিক তোমাদের প্রতি আর আল্লাহর পরিবর্তে তোমরা যাদের ‘ইবাদাত কর তাদেরও প্রতি। এরপরও কি তোমরা বুঝবে না।"
+                }
+            ]
+        },
+        {
+            "id": 2551,
+            "verse_number": 68,
+            "verse_key": "21:68",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 131,
+            "ruku_number": 282,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+            "page_number": 327,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97544,
+                    "resource_id": 20,
+                    "text": "They said, \"Burn him and support your gods - if you are to act.\""
+                },
+                {
+                    "id": 215413,
+                    "resource_id": 39,
+                    "text": "(Setelah tidak dapat berhujah lagi, ketua-ketua) mereka berkata: \"Bakarlah dia dan belalah tuhan-tuhan kamu, jika betul kamu mahu bertindak membelanya!\""
+                },
+                {
+                    "id": 1093528,
+                    "resource_id": 161,
+                    "text": "তারা বলল, ‘তাকে পুড়িয়ে মার আর তোমাদের উপাস্যদের সাহায্য কর- যদি তোমরা কিছু করতেই চাও।"
+                }
+            ]
+        },
+        {
+            "id": 2552,
+            "verse_number": 69,
+            "verse_key": "21:69",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 131,
+            "ruku_number": 282,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قُلْنَا يَـٰنَارُ كُونِى بَرْدًا وَسَلَـٰمًا عَلَىٰٓ إِبْرَٰهِيمَ",
+            "page_number": 327,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97546,
+                    "resource_id": 20,
+                    "text": "We [i.e., Allāh] said, \"O fire, be coolness and safety upon Abraham.\""
+                },
+                {
+                    "id": 215415,
+                    "resource_id": 39,
+                    "text": "Kami berfirman: \"Hai api, jadilah engkau sejuk serta selamat sejahtera kepada Ibrahim! \"."
+                },
+                {
+                    "id": 1093529,
+                    "resource_id": 161,
+                    "text": "আমি বললাম, ‘হে অগ্নি! তুমি ইবরাহীমের জন্য শীতল ও শান্তিময় হয়ে যাও।’"
+                }
+            ]
+        },
+        {
+            "id": 2553,
+            "verse_number": 70,
+            "verse_key": "21:70",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 131,
+            "ruku_number": 282,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَرَادُوا۟ بِهِۦ كَيْدًا فَجَعَلْنَـٰهُمُ ٱلْأَخْسَرِينَ",
+            "page_number": 327,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97550,
+                    "resource_id": 20,
+                    "text": "And they intended for him a plan [i.e., harm], but We made them the greatest losers."
+                },
+                {
+                    "id": 215421,
+                    "resource_id": 39,
+                    "text": "Dan mereka (dengan perbuatan membakarnya itu) hendak melakukan angkara yang menyakitinya, lalu Kami jadikan mereka orang-orang yang amat rugi, (kalah dengan hinanya)."
+                },
+                {
+                    "id": 1093530,
+                    "resource_id": 161,
+                    "text": "তারা তার বিরুদ্ধে চক্রান্ত করেছিল কিন্তু আমি তাদেরকেই সবচেয়ে ক্ষতিগ্রস্ত করে ছাড়লাম।"
+                }
+            ]
+        },
+        {
+            "id": 2554,
+            "verse_number": 71,
+            "verse_key": "21:71",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 131,
+            "ruku_number": 282,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَنَجَّيْنَـٰهُ وَلُوطًا إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا لِلْعَـٰلَمِينَ",
+            "page_number": 327,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97552,
+                    "resource_id": 20,
+                    "text": "And We delivered him and Lot to the land which We had blessed for the worlds [i.e., peoples]."
+                },
+                {
+                    "id": 215425,
+                    "resource_id": 39,
+                    "text": "Dan Kami selamatkan dia dan (sepupunya) Nabi Lut ke negeri yang Kami limpahkan berkat padanya untuk umat manusia."
+                },
+                {
+                    "id": 1093531,
+                    "resource_id": 161,
+                    "text": "আর আমি তাকে ও (তার ভ্রাতুষ্পুত্র) লূতকে উদ্ধার করে তাদেরকে এমন দেশে (অর্থাৎ ফিলিস্তিনে) নিয়ে গেলাম যা আমি বিশ্ববাসীর জন্য কল্যাণময় করেছি।"
+                }
+            ]
+        },
+        {
+            "id": 2555,
+            "verse_number": 72,
+            "verse_key": "21:72",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 131,
+            "ruku_number": 282,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَوَهَبْنَا لَهُۥٓ إِسْحَـٰقَ وَيَعْقُوبَ نَافِلَةً ۖ وَكُلًّا جَعَلْنَا صَـٰلِحِينَ",
+            "page_number": 327,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97554,
+                    "resource_id": 20,
+                    "text": "And We gave him Isaac and Jacob in addition, and all [of them] We made righteous."
+                },
+                {
+                    "id": 215423,
+                    "resource_id": 39,
+                    "text": "Dan Kami kurniakan kepadanya: Ishak (anaknya), dan Yaakub (cucunya) sebagai tambahan; dan tiap-tiap seorang (dari mereka) Kami jadikan orang yang soleh."
+                },
+                {
+                    "id": 1093532,
+                    "resource_id": 161,
+                    "text": "আমি ইবরাহীমকে দান করেছিলাম ইসহাক, আর অতিরিক্ত হিসেবে (পৌত্র) ইয়া‘কুব, (তাদের) প্রত্যেককেই আমি করেছিলাম সৎকর্মশীল।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 15,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 15
+    }
+}

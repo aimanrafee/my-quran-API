@@ -1,0 +1,611 @@
+{
+    "verses": [
+        {
+            "id": 2952,
+            "verse_number": 20,
+            "verse_key": "26:20",
+            "hizb_number": 37,
+            "rub_el_hizb_number": 147,
+            "ruku_number": 317,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ فَعَلْتُهَآ إِذًا وَأَنَا۠ مِنَ ٱلضَّآلِّينَ",
+            "page_number": 368,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98196,
+                    "resource_id": 20,
+                    "text": "[Moses] said, \"I did it, then, while I was of those astray [i.e., ignorant]."
+                },
+                {
+                    "id": 216054,
+                    "resource_id": 39,
+                    "text": "Nabi Musa berkata: \"Aku melakukan perbuatan yang demikian sedang aku ketika itu dari orang-orang yang belum mendapat petunjuk."
+                },
+                {
+                    "id": 1093929,
+                    "resource_id": 161,
+                    "text": "মূসা বলল : ‘আমি তো তা করেছিলাম সে সময় যখন আমি ছিলাম (সঠিক পথ সম্পর্কে) অজ্ঞ।"
+                }
+            ]
+        },
+        {
+            "id": 2953,
+            "verse_number": 21,
+            "verse_key": "26:21",
+            "hizb_number": 37,
+            "rub_el_hizb_number": 147,
+            "ruku_number": 317,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "فَفَرَرْتُ مِنكُمْ لَمَّا خِفْتُكُمْ فَوَهَبَ لِى رَبِّى حُكْمًا وَجَعَلَنِى مِنَ ٱلْمُرْسَلِينَ",
+            "page_number": 368,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98207,
+                    "resource_id": 20,
+                    "text": "So I fled from you when I feared you. Then my Lord granted me judgement [i.e., wisdom and prophet hood] and appointed me [as one] of the messengers."
+                },
+                {
+                    "id": 216065,
+                    "resource_id": 39,
+                    "text": "\"Lalu aku melarikan diri dari kamu, ketika aku merasa takut kepada kamu; kemudian Tuhanku mengurniakan daku ilmu pengetahuan ugama, dan menjadikan daku seorang RasulNya."
+                },
+                {
+                    "id": 1093930,
+                    "resource_id": 161,
+                    "text": "অতঃপর তোমাদের ভয়ে ভীত হয়ে আমি তোমাদের থেকে পালিয়ে গেলাম। অতঃপর আমার রবব আমাকে প্রজ্ঞা দান করলেন, আর আমাকে করলেন রসূলদের একজন।"
+                }
+            ]
+        },
+        {
+            "id": 2954,
+            "verse_number": 22,
+            "verse_key": "26:22",
+            "hizb_number": 37,
+            "rub_el_hizb_number": 147,
+            "ruku_number": 317,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَتِلْكَ نِعْمَةٌ تَمُنُّهَا عَلَىَّ أَنْ عَبَّدتَّ بَنِىٓ إِسْرَٰٓءِيلَ",
+            "page_number": 368,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98218,
+                    "resource_id": 20,
+                    "text": "And is this a favor of which you remind me - that you have enslaved the Children of Israel?\""
+                },
+                {
+                    "id": 216074,
+                    "resource_id": 39,
+                    "text": "\"Dan budimu memeliharaku yang engkau bangkit-bangkitkan itu adalah kerana engkau telah bertindak memperhambakan kaum Bani Israil."
+                },
+                {
+                    "id": 1093931,
+                    "resource_id": 161,
+                    "text": "তুমি আমার প্রতি তোমার যে অনুগ্রহের খোঁটা দিচ্ছ তাতো এই যে, তুমি বানী ইসরাঈলকে দাসে পরিণত করেছ।’"
+                }
+            ]
+        },
+        {
+            "id": 2955,
+            "verse_number": 23,
+            "verse_key": "26:23",
+            "hizb_number": 37,
+            "rub_el_hizb_number": 147,
+            "ruku_number": 317,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ فِرْعَوْنُ وَمَا رَبُّ ٱلْعَـٰلَمِينَ",
+            "page_number": 368,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98227,
+                    "resource_id": 20,
+                    "text": "Said Pharaoh, \"And what is the Lord of the worlds?\""
+                },
+                {
+                    "id": 216085,
+                    "resource_id": 39,
+                    "text": "Firaun berkata (dengan sombongnya): \"Dan apa dia Tuhan sekalian alam itu?\""
+                },
+                {
+                    "id": 1093932,
+                    "resource_id": 161,
+                    "text": "ফেরাউন বলল : ‘বিশ্বজগতের প্রতিপালক আবার কী?’"
+                }
+            ]
+        },
+        {
+            "id": 2956,
+            "verse_number": 24,
+            "verse_key": "26:24",
+            "hizb_number": 37,
+            "rub_el_hizb_number": 147,
+            "ruku_number": 317,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ رَبُّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَآ ۖ إِن كُنتُم مُّوقِنِينَ",
+            "page_number": 368,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98228,
+                    "resource_id": 20,
+                    "text": "[Moses] said, \"The Lord of the heavens and earth and that between them, if you should be convinced.\""
+                },
+                {
+                    "id": 216084,
+                    "resource_id": 39,
+                    "text": "Nabi Musa menjawab. \"Dia lah yang memiliki dan mentadbirkan langit dan bumi serta segala yang ada di antara keduanya, - kalaulah kamu mahu mendapat keyakinan dengan berdalil maka inilah jalannya\"."
+                },
+                {
+                    "id": 1093933,
+                    "resource_id": 161,
+                    "text": "মূসা বলল : ‘(যিনি) আসমান ও যমীন ও এ দু’য়ের মাঝে যা কিছু আছে সব কিছুর প্রতিপালক- যদি তোমরা নিঃসন্দেহে বিশ্বাসী হও।"
+                }
+            ]
+        },
+        {
+            "id": 2957,
+            "verse_number": 25,
+            "verse_key": "26:25",
+            "hizb_number": 37,
+            "rub_el_hizb_number": 147,
+            "ruku_number": 317,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ لِمَنْ حَوْلَهُۥٓ أَلَا تَسْتَمِعُونَ",
+            "page_number": 368,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 97933,
+                    "resource_id": 20,
+                    "text": "[Pharaoh] said to those around him, \"Do you not hear?\""
+                },
+                {
+                    "id": 216086,
+                    "resource_id": 39,
+                    "text": "Firaun berkata kepada orang-orang yang ada di sekelilingnya: \"Tidakkah kamu dengar (apa yang dikatakan olehnya)?\""
+                },
+                {
+                    "id": 1093934,
+                    "resource_id": 161,
+                    "text": "ফেরাউন তার চারপাশের লোকেদেরকে বলল- ‘তোমরা শুনছ তো?’"
+                }
+            ]
+        },
+        {
+            "id": 2958,
+            "verse_number": 26,
+            "verse_key": "26:26",
+            "hizb_number": 37,
+            "rub_el_hizb_number": 147,
+            "ruku_number": 317,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ رَبُّكُمْ وَرَبُّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ",
+            "page_number": 368,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98229,
+                    "resource_id": 20,
+                    "text": "[Moses] said, \"Your Lord and the Lord of your first forefathers.\""
+                },
+                {
+                    "id": 216087,
+                    "resource_id": 39,
+                    "text": "Nabi Musa menegaskan lagi: \"Dia lah Tuhan yang memiliki dan memelihara kamu dan Tuhan datuk nenek kamu yang telah lalu.\""
+                },
+                {
+                    "id": 1093935,
+                    "resource_id": 161,
+                    "text": "মূসা বলল : ‘(তিনি) তোমাদের প্রতিপালক ও শুরু থেকে পূর্ববর্তী তোমাদের বাপ-দাদাদেরও প্রতিপালক।’"
+                }
+            ]
+        },
+        {
+            "id": 2959,
+            "verse_number": 27,
+            "verse_key": "26:27",
+            "hizb_number": 37,
+            "rub_el_hizb_number": 147,
+            "ruku_number": 317,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ إِنَّ رَسُولَكُمُ ٱلَّذِىٓ أُرْسِلَ إِلَيْكُمْ لَمَجْنُونٌ",
+            "page_number": 368,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98230,
+                    "resource_id": 20,
+                    "text": "[Pharaoh] said,<sup foot_note=196951>1</sup> \"Indeed, your 'messenger' who has been sent to you is mad.\""
+                },
+                {
+                    "id": 216088,
+                    "resource_id": 39,
+                    "text": "Firaun berkata (kepada orang-orangnya): \"Sebenarnya Rasul yang diutuskan kepada kamu ini, sungguh gila?\""
+                },
+                {
+                    "id": 1093936,
+                    "resource_id": 161,
+                    "text": "(ফিরআউন) বলল: ‘তোমাদের রসূল যে তোমাদের নিকট প্রেরিত হয়েছে সে নিশ্চিতই পাগল।’"
+                }
+            ]
+        },
+        {
+            "id": 2960,
+            "verse_number": 28,
+            "verse_key": "26:28",
+            "hizb_number": 37,
+            "rub_el_hizb_number": 147,
+            "ruku_number": 317,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ رَبُّ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَمَا بَيْنَهُمَآ ۖ إِن كُنتُمْ تَعْقِلُونَ",
+            "page_number": 368,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98231,
+                    "resource_id": 20,
+                    "text": "[Moses] said, \"Lord of the east and the west and that between them, if you were to reason.\""
+                },
+                {
+                    "id": 216089,
+                    "resource_id": 39,
+                    "text": "Nabi Musa (menerangkan lagi tentang keesaan Allah dan kekuasaanNya dengan) berkata: \"Dia lah yang memiliki dan menguasai timur dan barat serta segala yang ada di antara keduanya; kalau kamu orang-orang yang berakal tentulah memahamiNya!\""
+                },
+                {
+                    "id": 1093937,
+                    "resource_id": 161,
+                    "text": "(মূসা) বললঃ ‘(তিনিই) পূর্ব ও পশ্চিমের প্রতিপালক, আর এ উভয় দিকের মাঝে যা আছে তারও- যদি তোমাদের বুদ্ধিসুদ্ধি থাকে।’"
+                }
+            ]
+        },
+        {
+            "id": 2961,
+            "verse_number": 29,
+            "verse_key": "26:29",
+            "hizb_number": 37,
+            "rub_el_hizb_number": 147,
+            "ruku_number": 317,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ لَئِنِ ٱتَّخَذْتَ إِلَـٰهًا غَيْرِى لَأَجْعَلَنَّكَ مِنَ ٱلْمَسْجُونِينَ",
+            "page_number": 368,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98232,
+                    "resource_id": 20,
+                    "text": "[Pharaoh] said, \"If you take a god other than me, I will surely place you among those imprisoned.\""
+                },
+                {
+                    "id": 216092,
+                    "resource_id": 39,
+                    "text": "Firaun berkata: \"Demi sesungguhnya! Jika engkau menyembah Tuhan yang lain daripadaku, sudah tentu aku akan menjadikan engkau dari orang-orang yang dipenjarakan\"."
+                },
+                {
+                    "id": 1093938,
+                    "resource_id": 161,
+                    "text": "(ফেরাউন) বলল : ‘যদি তুমি আমাকে বাদ দিয়ে (অন্য কিছুকে) ইলাহ হিসেবে গ্রহণ কর, তাহলে আমি তোমাকে অবশ্য অবশ্যই কারারুদ্ধ করব।’"
+                }
+            ]
+        },
+        {
+            "id": 2962,
+            "verse_number": 30,
+            "verse_key": "26:30",
+            "hizb_number": 37,
+            "rub_el_hizb_number": 147,
+            "ruku_number": 317,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ أَوَلَوْ جِئْتُكَ بِشَىْءٍ مُّبِينٍ",
+            "page_number": 368,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98235,
+                    "resource_id": 20,
+                    "text": "[Moses] said, \"Even if I brought you something [i.e., proof] manifest?\""
+                },
+                {
+                    "id": 216094,
+                    "resource_id": 39,
+                    "text": "Nabi Musa menjawab: \"Adakah (engkau akan memenjarakan daku juga) walau pun aku membawa kepadamu sesuatu bukti yang jelas nyata?\""
+                },
+                {
+                    "id": 1093939,
+                    "resource_id": 161,
+                    "text": "(মূসা) বলল : ‘আমি যদি তোমার কাছে কোন স্পষ্ট জিনিস নিয়ে আসি তবুও?"
+                }
+            ]
+        },
+        {
+            "id": 2963,
+            "verse_number": 31,
+            "verse_key": "26:31",
+            "hizb_number": 37,
+            "rub_el_hizb_number": 147,
+            "ruku_number": 317,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ فَأْتِ بِهِۦٓ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+            "page_number": 368,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98236,
+                    "resource_id": 20,
+                    "text": "[Pharaoh] said, \"Then bring it, if you should be of the truthful.\""
+                },
+                {
+                    "id": 216104,
+                    "resource_id": 39,
+                    "text": "Firaun berkata: \"Kalau demikian, bawalah bukti itu jika betul engkau dari orang-orang yang benar\"."
+                },
+                {
+                    "id": 1093940,
+                    "resource_id": 161,
+                    "text": "(ফেরাউন) বলল : ‘তাহলে তা আনো, যদি তুমি সত্যবাদী হও।’"
+                }
+            ]
+        },
+        {
+            "id": 2964,
+            "verse_number": 32,
+            "verse_key": "26:32",
+            "hizb_number": 37,
+            "rub_el_hizb_number": 147,
+            "ruku_number": 317,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "فَأَلْقَىٰ عَصَاهُ فَإِذَا هِىَ ثُعْبَانٌ مُّبِينٌ",
+            "page_number": 368,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98237,
+                    "resource_id": 20,
+                    "text": "So [Moses] threw his staff, and suddenly it was a serpent manifest.<sup foot_note=196952>1</sup>"
+                },
+                {
+                    "id": 216095,
+                    "resource_id": 39,
+                    "text": "Nabi Musa pun mencampakkan tongkatnya, maka tiba-tiba tongkatnya itu menjadi seekor ular yang jelas nyata."
+                },
+                {
+                    "id": 1093941,
+                    "resource_id": 161,
+                    "text": "তখন মূসা তার লাঠি ছুঁড়ে দিল আর সহসাই তা স্পষ্ট এক অজগর হয়ে গেল।"
+                }
+            ]
+        },
+        {
+            "id": 2965,
+            "verse_number": 33,
+            "verse_key": "26:33",
+            "hizb_number": 37,
+            "rub_el_hizb_number": 147,
+            "ruku_number": 317,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَنَزَعَ يَدَهُۥ فَإِذَا هِىَ بَيْضَآءُ لِلنَّـٰظِرِينَ",
+            "page_number": 368,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98238,
+                    "resource_id": 20,
+                    "text": "And he drew out his hand; thereupon it was white for the observers."
+                },
+                {
+                    "id": 216096,
+                    "resource_id": 39,
+                    "text": "Dan ia mengeluarkan tangannya, maka tiba-tiba tangannya menjadi putih (bersinar-sinar) bagi orang-orang yang melihatnya."
+                },
+                {
+                    "id": 1093942,
+                    "resource_id": 161,
+                    "text": "আর মূসা (বগলের নীচ দিয়ে) নিজের হাত টেনে বের করল, আর তা দর্শকদের সামনে ঝকমক করতে লাগল।"
+                }
+            ]
+        },
+        {
+            "id": 2966,
+            "verse_number": 34,
+            "verse_key": "26:34",
+            "hizb_number": 37,
+            "rub_el_hizb_number": 147,
+            "ruku_number": 318,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ لِلْمَلَإِ حَوْلَهُۥٓ إِنَّ هَـٰذَا لَسَـٰحِرٌ عَلِيمٌ",
+            "page_number": 368,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98239,
+                    "resource_id": 20,
+                    "text": "[Pharaoh] said to the eminent ones around him, \"Indeed, this is a learned magician."
+                },
+                {
+                    "id": 216097,
+                    "resource_id": 39,
+                    "text": "Firaun berkata kepada ketua-ketua kaum yang ada dikelilingnya: \"Sesungguhnya orang ini (Musa) ialah seorang ahli sihir yang mahir."
+                },
+                {
+                    "id": 1093943,
+                    "resource_id": 161,
+                    "text": "ফেরাউন তার চারপাশের প্রধানদের বলল : ‘সে অবশ্যই এক দক্ষ যাদুকর।"
+                }
+            ]
+        },
+        {
+            "id": 2967,
+            "verse_number": 35,
+            "verse_key": "26:35",
+            "hizb_number": 37,
+            "rub_el_hizb_number": 147,
+            "ruku_number": 318,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "يُرِيدُ أَن يُخْرِجَكُم مِّنْ أَرْضِكُم بِسِحْرِهِۦ فَمَاذَا تَأْمُرُونَ",
+            "page_number": 368,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98240,
+                    "resource_id": 20,
+                    "text": "He wants to drive you out of your land by his magic, so what do you advise?\""
+                },
+                {
+                    "id": 216098,
+                    "resource_id": 39,
+                    "text": "\"Ia bertujuan hendak mengeluarkan kamu dari negeri kamu dengan sihirnya, maka apa yang kamu syorkan?\""
+                },
+                {
+                    "id": 1093944,
+                    "resource_id": 161,
+                    "text": "যাদুর বলে সে তোমাদেরকে তোমাদের দেশ থেকে বের করে দিতে চায়। এখন বল তোমাদের নির্দেশ কী?’"
+                }
+            ]
+        },
+        {
+            "id": 2968,
+            "verse_number": 36,
+            "verse_key": "26:36",
+            "hizb_number": 37,
+            "rub_el_hizb_number": 147,
+            "ruku_number": 318,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "قَالُوٓا۟ أَرْجِهْ وَأَخَاهُ وَٱبْعَثْ فِى ٱلْمَدَآئِنِ حَـٰشِرِينَ",
+            "page_number": 368,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98241,
+                    "resource_id": 20,
+                    "text": "They said, \"Postpone [the matter of] him and his brother and send among the cities gatherers"
+                },
+                {
+                    "id": 216099,
+                    "resource_id": 39,
+                    "text": "Mereka berkata: \"Tangguhkanlah dahulu (sebarang tindakan) terhadapnya dan terhadap saudaranya, serta hantarkanlah ke bandar-bandar (negeri Mesir) orang-orang yang mengumpulkan (ahli-ahli sihir),"
+                },
+                {
+                    "id": 1093945,
+                    "resource_id": 161,
+                    "text": "তারা বলল : ‘তাকে ও তার ভাইকে (কিছু সময়) অপেক্ষায় ফেলে রাখুন আর জড়ো করার জন্য ঘোষকদেরকে নগরে নগরে পাঠিয়ে দিন।"
+                }
+            ]
+        },
+        {
+            "id": 2969,
+            "verse_number": 37,
+            "verse_key": "26:37",
+            "hizb_number": 37,
+            "rub_el_hizb_number": 147,
+            "ruku_number": 318,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "يَأْتُوكَ بِكُلِّ سَحَّارٍ عَلِيمٍ",
+            "page_number": 368,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98242,
+                    "resource_id": 20,
+                    "text": "Who will bring you every learned, skilled magician.\""
+                },
+                {
+                    "id": 216100,
+                    "resource_id": 39,
+                    "text": "\"Supaya mereka membawa kepadamu segala ahli sihir yang mahir\"."
+                },
+                {
+                    "id": 1093946,
+                    "resource_id": 161,
+                    "text": "তারা আপনার কাছে প্রত্যেকটি অভিজ্ঞ যাদুকরকে নিয়ে আসবে।’"
+                }
+            ]
+        },
+        {
+            "id": 2970,
+            "verse_number": 38,
+            "verse_key": "26:38",
+            "hizb_number": 37,
+            "rub_el_hizb_number": 147,
+            "ruku_number": 318,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "فَجُمِعَ ٱلسَّحَرَةُ لِمِيقَـٰتِ يَوْمٍ مَّعْلُومٍ",
+            "page_number": 368,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98243,
+                    "resource_id": 20,
+                    "text": "So the magicians were assembled for the appointment of a well-known day.<sup foot_note=196953>1</sup>"
+                },
+                {
+                    "id": 216101,
+                    "resource_id": 39,
+                    "text": "Lalu dikumpulkanlah ahli-ahli sihir itu pada satu masa yang ditentukan, pada hari (perayaan) yang termaklum."
+                },
+                {
+                    "id": 1093947,
+                    "resource_id": 161,
+                    "text": "কাজেই যাদুকরদেরকে একত্রিত করা হল একটি নির্দিষ্ট দিন ক্ষণের জন্য যা ছিল সুবিদিত।"
+                }
+            ]
+        },
+        {
+            "id": 2971,
+            "verse_number": 39,
+            "verse_key": "26:39",
+            "hizb_number": 37,
+            "rub_el_hizb_number": 147,
+            "ruku_number": 318,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَقِيلَ لِلنَّاسِ هَلْ أَنتُم مُّجْتَمِعُونَ",
+            "page_number": 368,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98244,
+                    "resource_id": 20,
+                    "text": "And it was said to the people, \"Will you congregate."
+                },
+                {
+                    "id": 216102,
+                    "resource_id": 39,
+                    "text": "Dan dikatakan kepada orang ramai: \"Berkumpulah kamu semuanya;."
+                },
+                {
+                    "id": 1093948,
+                    "resource_id": 161,
+                    "text": "আর জনগণকে বলা হল- ‘তোমরা কি সম্মিলিত হবে?"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 20,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 20
+    }
+}

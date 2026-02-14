@@ -1,0 +1,461 @@
+{
+    "verses": [
+        {
+            "id": 2447,
+            "verse_number": 99,
+            "verse_key": "20:99",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 127,
+            "ruku_number": 274,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "كَذَٰلِكَ نَقُصُّ عَلَيْكَ مِنْ أَنۢبَآءِ مَا قَدْ سَبَقَ ۚ وَقَدْ ءَاتَيْنَـٰكَ مِن لَّدُنَّا ذِكْرًا",
+            "page_number": 319,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97386,
+                    "resource_id": 20,
+                    "text": "Thus, [O Muḥammad], We relate to you from the news of what has preceded. And We have certainly given you from Us a message [i.e., the Qur’ān]."
+                },
+                {
+                    "id": 215259,
+                    "resource_id": 39,
+                    "text": "Demikianlah Kami ceritakan kepadamu (wahai Muhammad), sebahagian dari kisah-kisah umat manusia yang telah lalu; dan sesungguhnya Kami telah memberikan kepadamu, dari sisi Kami (sebuah Kitab Al-Quran yang menjadi) peringatan."
+                },
+                {
+                    "id": 1093424,
+                    "resource_id": 161,
+                    "text": "এভাবে পূর্বে যা ঘটে গেছে তার কিছু সংবাদ আমি তোমার কাছে বর্ণনা করছি, আর আমি আমার নিকট থেকে তোমাকে দান করেছি উপদেশ (বা কুরআন)।"
+                }
+            ]
+        },
+        {
+            "id": 2448,
+            "verse_number": 100,
+            "verse_key": "20:100",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 127,
+            "ruku_number": 274,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "مَّنْ أَعْرَضَ عَنْهُ فَإِنَّهُۥ يَحْمِلُ يَوْمَ ٱلْقِيَـٰمَةِ وِزْرًا",
+            "page_number": 319,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97257,
+                    "resource_id": 20,
+                    "text": "Whoever turns away from it - then indeed, he will bear on the Day of Resurrection a burden [i.e., great sin],"
+                },
+                {
+                    "id": 215124,
+                    "resource_id": 39,
+                    "text": "Sesiapa yang berpaling ingkar dari peringatan Al-Quran itu, maka sesungguhnya ia pada hari kiamat menanggung beban (dosa) yang berat."
+                },
+                {
+                    "id": 1093425,
+                    "resource_id": 161,
+                    "text": "যে তাত্থেকে মুখ ফিরিয়ে নেবে, কিয়ামাতের দিন সে (পাপের) বোঝা বহন করবে।"
+                }
+            ]
+        },
+        {
+            "id": 2449,
+            "verse_number": 101,
+            "verse_key": "20:101",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 127,
+            "ruku_number": 274,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "خَـٰلِدِينَ فِيهِ ۖ وَسَآءَ لَهُمْ يَوْمَ ٱلْقِيَـٰمَةِ حِمْلًا",
+            "page_number": 319,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97258,
+                    "resource_id": 20,
+                    "text": "[Abiding] eternally therein,<sup foot_note=196763>1</sup> and evil it is for them on the Day of Resurrection as a load -"
+                },
+                {
+                    "id": 215125,
+                    "resource_id": 39,
+                    "text": "Mereka kekal di dalam (azab) dosa itu; dan amatlah buruknya tanggungan itu bagi mereka pada hari kiamat,"
+                },
+                {
+                    "id": 1093426,
+                    "resource_id": 161,
+                    "text": "তারা এ অবস্থাতেই স্থায়ীভাবে থাকবে, কিয়ামাতের দিন এ বোঝা তাদের জন্য কতই না মন্দ হবে!"
+                }
+            ]
+        },
+        {
+            "id": 2450,
+            "verse_number": 102,
+            "verse_key": "20:102",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 127,
+            "ruku_number": 274,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "يَوْمَ يُنفَخُ فِى ٱلصُّورِ ۚ وَنَحْشُرُ ٱلْمُجْرِمِينَ يَوْمَئِذٍ زُرْقًا",
+            "page_number": 319,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97259,
+                    "resource_id": 20,
+                    "text": "The Day the Horn will be blown. And We will gather the criminals, that Day, blue-eyed.<sup foot_note=196764>1</sup>"
+                },
+                {
+                    "id": 215126,
+                    "resource_id": 39,
+                    "text": "(Iaitu) hari ditiup Sangkakala, dan Kami akan himpunkan pada hari itu orang-orang yang bersalah dalam keadaan kelabu matanya."
+                },
+                {
+                    "id": 1093427,
+                    "resource_id": 161,
+                    "text": "যেদিন সিঙ্গায় ফুঁ দেয়া হবে আর আমি অপরাধীদেরকে একত্রিত করব (ভয়ে ভীত-সন্ত্রস্ত) দৃষ্টিহীন অবস্থায়।"
+                }
+            ]
+        },
+        {
+            "id": 2451,
+            "verse_number": 103,
+            "verse_key": "20:103",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 127,
+            "ruku_number": 274,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "يَتَخَـٰفَتُونَ بَيْنَهُمْ إِن لَّبِثْتُمْ إِلَّا عَشْرًا",
+            "page_number": 319,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97260,
+                    "resource_id": 20,
+                    "text": "They will murmur among themselves, \"You remained not but ten [days in the world].\""
+                },
+                {
+                    "id": 214703,
+                    "resource_id": 39,
+                    "text": "Mereka berbisik-bisik sesama sendiri: \"Kamu telah tinggal hanya sepuluh sahaja\"."
+                },
+                {
+                    "id": 1093428,
+                    "resource_id": 161,
+                    "text": "তারা চুপিসারে নিজেদের মধ্যে বলাবলি করবে যে, (দুনিয়াতে) দশ দিনের বেশি তোমরা অবস্থান করনি।"
+                }
+            ]
+        },
+        {
+            "id": 2452,
+            "verse_number": 104,
+            "verse_key": "20:104",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 127,
+            "ruku_number": 274,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "نَّحْنُ أَعْلَمُ بِمَا يَقُولُونَ إِذْ يَقُولُ أَمْثَلُهُمْ طَرِيقَةً إِن لَّبِثْتُمْ إِلَّا يَوْمًا",
+            "page_number": 319,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97261,
+                    "resource_id": 20,
+                    "text": "We are most knowing of what they say when the best of them in manner [i.e., wisdom or speech] will say, \"You remained not but one day.\""
+                },
+                {
+                    "id": 215127,
+                    "resource_id": 39,
+                    "text": "(Allah berfirman): Kami lebih mengetahui akan kadar masa yang mereka katakan itu, manakala orang yang lebih tepat pendapatnya di antara mereka berkata pula: \"Tiadalah kamu tinggal melainkan satu masa yang amat singkat\"."
+                },
+                {
+                    "id": 1093429,
+                    "resource_id": 161,
+                    "text": "আমি ভালভাবেই জানি তারা যা বলে। তাদের মধ্যে যে উত্তম পথের অনুসারী সে বলবে, ‘তোমরা একদিনের বেশি অবস্থান করনি।’"
+                }
+            ]
+        },
+        {
+            "id": 2453,
+            "verse_number": 105,
+            "verse_key": "20:105",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 127,
+            "ruku_number": 275,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَيَسْـَٔلُونَكَ عَنِ ٱلْجِبَالِ فَقُلْ يَنسِفُهَا رَبِّى نَسْفًا",
+            "page_number": 319,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97262,
+                    "resource_id": 20,
+                    "text": "And they ask you about the mountains, so say, \"My Lord will blow them away with a blast.<sup foot_note=196765>1</sup>"
+                },
+                {
+                    "id": 215128,
+                    "resource_id": 39,
+                    "text": "Dan mereka (yang kafir) bertanya kepadamu (wahai Muhammad) dari hal gunung-ganang; maka jawablah: \"Tuhanku akan menghancurkannya menjadi debu ditiup angin."
+                },
+                {
+                    "id": 1093430,
+                    "resource_id": 161,
+                    "text": "তারা তোমাকে পর্বতগুলো সম্পর্কে প্রশ্ন করে। বল, আমার প্রতিপালক সেগুলো সমূলে উৎপাটিত করবেন এবং ধূলির ন্যায় বিক্ষিপ্ত করবেন।"
+                }
+            ]
+        },
+        {
+            "id": 2454,
+            "verse_number": 106,
+            "verse_key": "20:106",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 127,
+            "ruku_number": 275,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَيَذَرُهَا قَاعًا صَفْصَفًا",
+            "page_number": 319,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97263,
+                    "resource_id": 20,
+                    "text": "And He will leave it [i.e., the earth] a level plain;"
+                },
+                {
+                    "id": 215129,
+                    "resource_id": 39,
+                    "text": "\"Lalu Ia membiarkan tapak gunung-gunung itu (di bumi) rata lagi licin\"."
+                },
+                {
+                    "id": 1093431,
+                    "resource_id": 161,
+                    "text": "অতঃপর তিনি তাকে (অর্থাৎ ভূমিকে) মসৃণ সমতলভূমি করে ছাড়বেন।"
+                }
+            ]
+        },
+        {
+            "id": 2455,
+            "verse_number": 107,
+            "verse_key": "20:107",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 127,
+            "ruku_number": 275,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "لَّا تَرَىٰ فِيهَا عِوَجًا وَلَآ أَمْتًا",
+            "page_number": 319,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97264,
+                    "resource_id": 20,
+                    "text": "You will not see therein a depression or an elevation.\""
+                },
+                {
+                    "id": 215131,
+                    "resource_id": 39,
+                    "text": "Engkau tidak akan melihat pada tapaknya itu tempat yang rendah atau yang tinggi."
+                },
+                {
+                    "id": 1093432,
+                    "resource_id": 161,
+                    "text": "তাতে তুমি দেখবে না কোন বক্রতা ও উচ্চতা।"
+                }
+            ]
+        },
+        {
+            "id": 2456,
+            "verse_number": 108,
+            "verse_key": "20:108",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 127,
+            "ruku_number": 275,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "يَوْمَئِذٍ يَتَّبِعُونَ ٱلدَّاعِىَ لَا عِوَجَ لَهُۥ ۖ وَخَشَعَتِ ٱلْأَصْوَاتُ لِلرَّحْمَـٰنِ فَلَا تَسْمَعُ إِلَّا هَمْسًا",
+            "page_number": 319,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97265,
+                    "resource_id": 20,
+                    "text": "That Day, they [i.e., everyone] will follow [the call of] the Caller<sup foot_note=196766>1</sup> [with] no deviation therefrom, and [all] voices will be stilled before the Most Merciful, so you will not hear except a whisper [of footsteps]."
+                },
+                {
+                    "id": 215130,
+                    "resource_id": 39,
+                    "text": "Pada hari itu mereka menurut seruan panggilan yang menyeru mereka dengan tidak dapat melencong dari menurutnya; dan diam khusyuklah segala suara kepada Allah yang melimpah-limpah rahmatNya sehingga engkau tidak mendengar melainkan bunyi yang amat perlahan."
+                },
+                {
+                    "id": 1093433,
+                    "resource_id": 161,
+                    "text": "সেদিন তারা (সোজাসুজি) আহবানকারীর অনুসরণ করবে যার কথা এদিক ওদিক হবে না। দয়াময়ের সম্মুখে সেদিন যাবতীয় আওয়াজ স্তব্ধ হয়ে যাবে (এমনভাবে) যে মৃদু গুঞ্জন ছাড়া তুমি কিছুই শুনবে না।"
+                }
+            ]
+        },
+        {
+            "id": 2457,
+            "verse_number": 109,
+            "verse_key": "20:109",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 127,
+            "ruku_number": 275,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "يَوْمَئِذٍ لَّا تَنفَعُ ٱلشَّفَـٰعَةُ إِلَّا مَنْ أَذِنَ لَهُ ٱلرَّحْمَـٰنُ وَرَضِىَ لَهُۥ قَوْلًا",
+            "page_number": 319,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97266,
+                    "resource_id": 20,
+                    "text": "That Day, no intercession will benefit except [that of] one to whom the Most Merciful has given permission and has accepted his word."
+                },
+                {
+                    "id": 215132,
+                    "resource_id": 39,
+                    "text": "Pada hari itu, tidak berfaedah syafaat (dari dan kepada sesiapapun) kecuali dari orang yang diizinkan oleh Allah yang melimpah-limpah rahmatNya, dan kepada orang yang diredai perkataannya."
+                },
+                {
+                    "id": 1093434,
+                    "resource_id": 161,
+                    "text": "সেদিন কারো সুপারিশ কোন কাজে আসবে না, দয়াময় যাকে অনুমতি দেবেন আর যার কথায় সন্তুষ্ট হবেন তার (সুপারিশ) ব্যতীত।"
+                }
+            ]
+        },
+        {
+            "id": 2458,
+            "verse_number": 110,
+            "verse_key": "20:110",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 127,
+            "ruku_number": 275,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِهِۦ عِلْمًا",
+            "page_number": 319,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97268,
+                    "resource_id": 20,
+                    "text": "He [i.e., Allāh] knows what is [presently] before them and what will be after them,<sup foot_note=196767>1</sup> but they do not encompass it [i.e., what He knows] in knowledge."
+                },
+                {
+                    "id": 215134,
+                    "resource_id": 39,
+                    "text": "Allah mengetahui apa yang di hadapan mereka (dari hal-hal dunia), dan apa yang di belakang mereka (dari perkara akhirat); sedang mereka tidak mengetahuinya secara meliputi."
+                },
+                {
+                    "id": 1093435,
+                    "resource_id": 161,
+                    "text": "তাদের সম্মুখে ও পশ্চাতে যা আছে তা তিনি জানেন, তারা জ্ঞান দিয়ে তাঁকে আয়ত্ত করতে পারে না।"
+                }
+            ]
+        },
+        {
+            "id": 2459,
+            "verse_number": 111,
+            "verse_key": "20:111",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 128,
+            "ruku_number": 275,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "۞ وَعَنَتِ ٱلْوُجُوهُ لِلْحَىِّ ٱلْقَيُّومِ ۖ وَقَدْ خَابَ مَنْ حَمَلَ ظُلْمًا",
+            "page_number": 319,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97269,
+                    "resource_id": 20,
+                    "text": "And [all] faces will be humbled before the Ever-Living, the Self-Sustaining.<sup foot_note=196769>1</sup> And he will have failed who carries injustice.<sup foot_note=196768>2</sup>"
+                },
+                {
+                    "id": 215135,
+                    "resource_id": 39,
+                    "text": "Dan segala muka akan tunduk dengan berupa hina kepada Allah Yang Tetap Hidup, lagi Yang Kekal Mentadbirkan makhluk selama-lamanya; dan sesungguhnya telah rugi dan hampalah orang yang menanggung dosa kezaliman."
+                },
+                {
+                    "id": 1093436,
+                    "resource_id": 161,
+                    "text": "চিরঞ্জীব চিরস্থায়ীর সম্মুখে সকলেই হবে অধোমুখী, আর সে ব্যর্থ হবে যে যুলমের (পাপের) ভার বহন করবে।"
+                }
+            ]
+        },
+        {
+            "id": 2460,
+            "verse_number": 112,
+            "verse_key": "20:112",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 128,
+            "ruku_number": 275,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَن يَعْمَلْ مِنَ ٱلصَّـٰلِحَـٰتِ وَهُوَ مُؤْمِنٌ فَلَا يَخَافُ ظُلْمًا وَلَا هَضْمًا",
+            "page_number": 319,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97270,
+                    "resource_id": 20,
+                    "text": "But he who does of righteous deeds while he is a believer - he will neither fear injustice nor deprivation."
+                },
+                {
+                    "id": 215136,
+                    "resource_id": 39,
+                    "text": "Dan sesiapa yang mengerjakan sebarang apa dari amal-amal yang soleh, sedang ia beriman, maka tidaklah (seharusnya) ia merasa takut dianiaya atau dikurangkan sedikitpun dari pahalanya."
+                },
+                {
+                    "id": 1093437,
+                    "resource_id": 161,
+                    "text": "যে সৎ কাজ করবে মু’মিন হয়ে, তার অবিচার বা ক্ষতির কোন আশংকা নেই।"
+                }
+            ]
+        },
+        {
+            "id": 2461,
+            "verse_number": 113,
+            "verse_key": "20:113",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 128,
+            "ruku_number": 275,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَكَذَٰلِكَ أَنزَلْنَـٰهُ قُرْءَانًا عَرَبِيًّا وَصَرَّفْنَا فِيهِ مِنَ ٱلْوَعِيدِ لَعَلَّهُمْ يَتَّقُونَ أَوْ يُحْدِثُ لَهُمْ ذِكْرًا",
+            "page_number": 319,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97271,
+                    "resource_id": 20,
+                    "text": "And thus We have sent it down as an Arabic Qur’ān<sup foot_note=196770>1</sup> and have diversified therein the warnings that perhaps they will avoid [sin] or it would cause them remembrance."
+                },
+                {
+                    "id": 215137,
+                    "resource_id": 39,
+                    "text": "Dan demikianlah Kami telah menurunkan Al-Quran sebagai bacaan dalam bahasa Arab, dan kami telah terangkan di dalamnya berbagai-bagai amaran supaya mereka (umat manusia seluruhnya) bertaqwa, atau mereka mendapat daripadanya sesuatu peringatan dari faedah mereka."
+                },
+                {
+                    "id": 1093438,
+                    "resource_id": 161,
+                    "text": "এভাবেই আমি কুরআনকে আরবী ভাষায় নাযিল করেছি আর তাতে সতর্কবাণী বিস্তারিতভাবে বিবৃত করেছি যাতে তারা আল্লাহকে ভয় করে অথবা তা হয় তাদের জন্য উপদেশ।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 15,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 15
+    }
+}

@@ -1,0 +1,191 @@
+{
+    "verses": [
+        {
+            "id": 232,
+            "verse_number": 225,
+            "verse_key": "2:225",
+            "hizb_number": 4,
+            "rub_el_hizb_number": 14,
+            "ruku_number": 29,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "لَّا يُؤَاخِذُكُمُ ٱللَّهُ بِٱللَّغْوِ فِىٓ أَيْمَـٰنِكُمْ وَلَـٰكِن يُؤَاخِذُكُم بِمَا كَسَبَتْ قُلُوبُكُمْ ۗ وَٱللَّهُ غَفُورٌ حَلِيمٌ",
+            "page_number": 36,
+            "juz_number": 2,
+            "translations": [
+                {
+                    "id": 97662,
+                    "resource_id": 20,
+                    "text": "Allāh does not impose blame upon you for what is unintentional in your oaths, but He imposes blame upon you for what your hearts have earned. And Allāh is Forgiving and Forbearing.<sup foot_note=196012>1</sup>"
+                },
+                {
+                    "id": 215530,
+                    "resource_id": 39,
+                    "text": "Allah tidak mengira kamu bersalah tentang sumpah kamu yang tidak dimaksudkan (untuk bersumpah), tetapi Ia mengira kamu bersalah (dan akan mengenakan hukuman) dengan sebab sumpah yang diusahakan (disengajakan) oleh hati kamu (dengan niat bersumpah). Dan (ingatlah), Allah Maha Pengampun, lagi Maha Penyabar."
+                },
+                {
+                    "id": 1091209,
+                    "resource_id": 161,
+                    "text": "আল্লাহ তোমাদের অর্থহীন শপথের জন্য তোমাদেরকে পাকড়াও করবেন না, কিন্তু তোমাদের অন্তরের সংকল্পের জন্য দায়ী করবেন। আল্লাহ ক্ষমাশীল, সহনশীল।"
+                }
+            ]
+        },
+        {
+            "id": 233,
+            "verse_number": 226,
+            "verse_key": "2:226",
+            "hizb_number": 4,
+            "rub_el_hizb_number": 14,
+            "ruku_number": 29,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "لِّلَّذِينَ يُؤْلُونَ مِن نِّسَآئِهِمْ تَرَبُّصُ أَرْبَعَةِ أَشْهُرٍ ۖ فَإِن فَآءُو فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+            "page_number": 36,
+            "juz_number": 2,
+            "translations": [
+                {
+                    "id": 97664,
+                    "resource_id": 20,
+                    "text": "For those who swear not to have sexual relations with their wives<sup foot_note=196013>1</sup> is a waiting time of four months, but if they return [to normal relations] - then indeed, Allāh is Forgiving and Merciful."
+                },
+                {
+                    "id": 215532,
+                    "resource_id": 39,
+                    "text": "Kepada orang-orang yang bersumpah tidak akan mencampuri isteri-isteri mereka, diberikan tempoh empat bulan. Setelah itu jika mereka kembali (mencampurinya), maka sesungguhnya Allah Maha Pengampun, lagi Maha Mengasihani."
+                },
+                {
+                    "id": 1091210,
+                    "resource_id": 161,
+                    "text": "যারা নিজেদের স্ত্রীদের নিকট না যাওয়ার জন্য শপথ গ্রহণ করে, তাদের জন্য চার মাসের অবকাশ আছে। যদি তারা (উক্ত সময়ের মধ্যে) ফিরে আসে, তবে নিশ্চয়ই আল্লাহ ক্ষমাশীল, পরম দয়ালু।"
+                }
+            ]
+        },
+        {
+            "id": 234,
+            "verse_number": 227,
+            "verse_key": "2:227",
+            "hizb_number": 4,
+            "rub_el_hizb_number": 14,
+            "ruku_number": 29,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِنْ عَزَمُوا۟ ٱلطَّلَـٰقَ فَإِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ",
+            "page_number": 36,
+            "juz_number": 2,
+            "translations": [
+                {
+                    "id": 97666,
+                    "resource_id": 20,
+                    "text": "And if they decide on divorce - then indeed, Allāh is Hearing and Knowing."
+                },
+                {
+                    "id": 215534,
+                    "resource_id": 39,
+                    "text": "Dan jika mereka berazam hendak menjatuhkan talak (menceraikan isteri), maka sesungguhnya Allah Maha Mendengar, lagi Maha mengetahui."
+                },
+                {
+                    "id": 1091211,
+                    "resource_id": 161,
+                    "text": "এবং তারা যদি তালাক দেয়ার দৃঢ়প্রত্যয় গ্রহণ করে, তবে আল্লাহ সর্বশ্রোতা ও সর্বজ্ঞ।"
+                }
+            ]
+        },
+        {
+            "id": 235,
+            "verse_number": 228,
+            "verse_key": "2:228",
+            "hizb_number": 4,
+            "rub_el_hizb_number": 14,
+            "ruku_number": 29,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلْمُطَلَّقَـٰتُ يَتَرَبَّصْنَ بِأَنفُسِهِنَّ ثَلَـٰثَةَ قُرُوٓءٍ ۚ وَلَا يَحِلُّ لَهُنَّ أَن يَكْتُمْنَ مَا خَلَقَ ٱللَّهُ فِىٓ أَرْحَامِهِنَّ إِن كُنَّ يُؤْمِنَّ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ۚ وَبُعُولَتُهُنَّ أَحَقُّ بِرَدِّهِنَّ فِى ذَٰلِكَ إِنْ أَرَادُوٓا۟ إِصْلَـٰحًا ۚ وَلَهُنَّ مِثْلُ ٱلَّذِى عَلَيْهِنَّ بِٱلْمَعْرُوفِ ۚ وَلِلرِّجَالِ عَلَيْهِنَّ دَرَجَةٌ ۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ",
+            "page_number": 36,
+            "juz_number": 2,
+            "translations": [
+                {
+                    "id": 97668,
+                    "resource_id": 20,
+                    "text": "Divorced women remain in waiting [i.e., do not remarry] for three periods,<sup foot_note=196016>1</sup> and it is not lawful for them to conceal what Allāh has created in their wombs if they believe in Allāh and the Last Day. And their husbands have more right to take them back in this [period] if they want reconciliation.<sup foot_note=196015>2</sup> And due to them [i.e., the wives] is similar to what is expected of them, according to what is reasonable.<sup foot_note=196014>3</sup> But the men [i.e., husbands] have a degree over them [in responsibility and authority]. And Allāh is Exalted in Might and Wise."
+                },
+                {
+                    "id": 215536,
+                    "resource_id": 39,
+                    "text": "Dan isteri-isteri yang diceraikan itu hendaklah menunggu dengan menahan diri mereka (dari berkahwin) selama tiga kali suci (dari haid). Dan tidaklah halal bagi mereka menyembunyikan (tidak memberitahu tentang) anak yang dijadikan oleh Allah dalam kandungan rahim mereka, jika betul mereka beriman kepada Allah dan hari akhirat. Dan suami-suami mereka berhak mengambil kembali (rujuk akan) isteri-isteri itu dalam masa idah mereka jika suami-suami bertujuan hendak berdamai. Dan isteri-isteri itu mempunyai hak yang sama seperti kewajipan yang ditanggung oleh mereka (terhadap suami) dengan cara yang sepatutnya (dan tidak dilarang oleh syarak); dalam pada itu orang-orang lelaki (suami-suami itu) mempunyai satu darjat kelebihan atas orang-orang perempuan (isterinya). Dan (ingatlah), Allah Maha Kuasa, lagi Maha Bijaksana."
+                },
+                {
+                    "id": 1091212,
+                    "resource_id": 161,
+                    "text": "তালাকপ্রাপ্তা নারীরা তিন মাসিক পর্যন্ত প্রতীক্ষা করবে এবং তাদের পক্ষে জায়িয নয় সে বস্তু গোপন করা যা তাদের পেটে আল্লাহ সৃজন করেছেন, যদি তারা আল্লাহ ও পরকালের প্রতি বিশ্বাস রাখে। তাদের স্বামীরা তাদেরকে উক্ত সময়ের মধ্যে পুনঃ গ্রহণে অধিক হকদার, যদি তারা আপোস-নিস্পত্তি করতে চায় এবং পুরুষদের উপর নারীদেরও হাক্ব আছে, যেমন নিয়ম অনুযায়ী পুরুষদের নারীদের উপরও হাক্ব আছে, অবশ্য নারীদের উপর পুরুষদের বিশেষ মর্যাদা আছে এবং আল্লাহ মহাপরাক্রান্ত, প্রজ্ঞাশীল।"
+                }
+            ]
+        },
+        {
+            "id": 236,
+            "verse_number": 229,
+            "verse_key": "2:229",
+            "hizb_number": 4,
+            "rub_el_hizb_number": 14,
+            "ruku_number": 30,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلطَّلَـٰقُ مَرَّتَانِ ۖ فَإِمْسَاكٌۢ بِمَعْرُوفٍ أَوْ تَسْرِيحٌۢ بِإِحْسَـٰنٍ ۗ وَلَا يَحِلُّ لَكُمْ أَن تَأْخُذُوا۟ مِمَّآ ءَاتَيْتُمُوهُنَّ شَيْـًٔا إِلَّآ أَن يَخَافَآ أَلَّا يُقِيمَا حُدُودَ ٱللَّهِ ۖ فَإِنْ خِفْتُمْ أَلَّا يُقِيمَا حُدُودَ ٱللَّهِ فَلَا جُنَاحَ عَلَيْهِمَا فِيمَا ٱفْتَدَتْ بِهِۦ ۗ تِلْكَ حُدُودُ ٱللَّهِ فَلَا تَعْتَدُوهَا ۚ وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَأُو۟لَـٰٓئِكَ هُمُ ٱلظَّـٰلِمُونَ",
+            "page_number": 36,
+            "juz_number": 2,
+            "translations": [
+                {
+                    "id": 97642,
+                    "resource_id": 20,
+                    "text": "Divorce is twice. Then [after that], either keep [her] in an acceptable manner or release [her] with good treatment. And it is not lawful for you to take anything of what you have given them unless both fear that they will not be able to keep [within] the limits of Allāh.<sup foot_note=196017>1</sup> But if you fear that they will not keep [within] the limits of Allāh, then there is no blame upon either of them concerning that by which she ransoms herself. These are the limits of Allāh, so do not transgress them. And whoever transgresses the limits of Allāh - it is those who are the wrongdoers [i.e., the unjust]."
+                },
+                {
+                    "id": 215538,
+                    "resource_id": 39,
+                    "text": "Talak (yang boleh dirujuk kembali itu hanya) dua kali. Sesudah itu bolehlah ia (rujuk dan) memegang terus (isterinya itu) dengan cara yang sepatutnya atau melepaskan (menceraikannya) dengan cara yang baik dan tidaklah halal bagi kamu mengambil balik sesuatu dari apa yang telah kamu berikan kepada mereka (isteri-isteri yang diceraikan itu) kecuali jika keduanya (suami isteri takut tidak dapat menegakkan aturan-aturan hukum Allah. Oleh itu kalau kamu khuatir bahawa kedua-duanya tidak dapat menegakkan aturan-aturan hukum Allah, maka tidaklah mereka berdosa - mengenai bayaran (tebus talak) yang diberikan oleh isteri untuk menebus dirinya (dan mengenai pengambilan suami akan bayaran itu). Itulah aturan-aturan hukum Allah maka janganlah kamu melanggarnya; dan sesiapa yang melanggar aturan-aturan hukum Allah, maka mereka itulah orang-orang yang zalim."
+                },
+                {
+                    "id": 1091213,
+                    "resource_id": 161,
+                    "text": "তালাক দুই দফা, অতঃপর হয় ভালভাবে পুনঃ গ্রহণ কিংবা সদ্ব্যবহার সহকারে বিদায় দান এবং তোমাদের পক্ষে তাদেরকে দেয়া মালের কিছুই ফিরিয়ে নেয়া জায়িয হবে না, কিন্তু যদি তারা উভয়ে আশঙ্কা করে যে তারা আল্লাহর নির্ধারিত সীমারেখা রক্ষা করে চলতে পারবে না (তাহলে অন্য ব্যবস্থা)। অতঃপর যদি তোমরা (উভয় পক্ষের শালিসগণ) আশঙ্কা কর যে উভয়পক্ষ আল্লাহর আইনসমূহ ঠিক রাখতে পারবে না, তাহলে উভয়ের প্রতি কোন গুনাহ নেই যদি কোন কিছুর বিনিময়ে স্ত্রী নিজেকে মুক্ত করতে চায়। এগুলো আল্লাহর আইন, কাজেই তোমরা এগুলোকে লঙ্ঘন করো না, আর যারা আল্লাহর আইনসমূহ লঙ্ঘন করবে, তারাই যালিম।"
+                }
+            ]
+        },
+        {
+            "id": 237,
+            "verse_number": 230,
+            "verse_key": "2:230",
+            "hizb_number": 4,
+            "rub_el_hizb_number": 14,
+            "ruku_number": 30,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "فَإِن طَلَّقَهَا فَلَا تَحِلُّ لَهُۥ مِنۢ بَعْدُ حَتَّىٰ تَنكِحَ زَوْجًا غَيْرَهُۥ ۗ فَإِن طَلَّقَهَا فَلَا جُنَاحَ عَلَيْهِمَآ أَن يَتَرَاجَعَآ إِن ظَنَّآ أَن يُقِيمَا حُدُودَ ٱللَّهِ ۗ وَتِلْكَ حُدُودُ ٱللَّهِ يُبَيِّنُهَا لِقَوْمٍ يَعْلَمُونَ",
+            "page_number": 36,
+            "juz_number": 2,
+            "translations": [
+                {
+                    "id": 97673,
+                    "resource_id": 20,
+                    "text": "And if he has divorced her [for the third time], then she is not lawful to him afterward until [after] she marries a husband other than him.<sup foot_note=196018>1</sup> And if he [i.e., the latter husband] divorces her [or dies], there is no blame upon them [i.e., the woman and her former husband] for returning to each other if they think that they can keep [within] the limits of Allāh. These are the limits of Allāh, which He makes clear to a people who know [i.e.,understand]."
+                },
+                {
+                    "id": 215542,
+                    "resource_id": 39,
+                    "text": "Sesudah (diceraikan dua kali), itu jika diceraikan pula (bagi kali yang ketiga) maka perempuan itu tidak halal lagi baginya sesudah itu, sehingga ia berkahwin dengan suami yang lain. Setelah itu kalau ia diceraikan (oleh suami baharu itu dan habis idahnya), maka mereka berdua (suami lama dan bekas isterinya) tidaklah berdosa untuk kembali (maskahwin semula), jika mereka kuat menyangka akan dapat menegakkan aturan-aturan hukum Allah dan itulah aturan-aturan hukum Allah, diterangkannya kepada kaum yang (mahu) mengetahui dan memahaminya."
+                },
+                {
+                    "id": 1091214,
+                    "resource_id": 161,
+                    "text": "অতঃপর যদি সে তাকে (চূড়ান্ত) তালাক দেয়, তবে এরপর সেই পুরুষের পক্ষে সেই স্ত্রী (বিবাহ) হালাল হবে না, যে পর্যন্ত না সে অন্য কাউকে স্বামী হিসেবে গ্রহণ করে। অতঃপর যদি সে তাকে তালাক দেয়, তবে উভয়ের পুনরায় মিলিত হওয়াতে গুনাহ নেই, যদি উভয়ের আস্থা জন্মে যে উভয়ে আল্লাহর আইনসমূহ ঠিক রাখতে পারবে। এসব আল্লাহর (আইন) সীমাসমূহ, এগুলোকে সেই লোকদের জন্য তিনি বর্ণনা করেন যারা জ্ঞানী।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 6,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 6
+    }
+}

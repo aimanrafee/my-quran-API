@@ -1,0 +1,491 @@
+{
+    "verses": [
+        {
+            "id": 3760,
+            "verse_number": 55,
+            "verse_key": "36:55",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 177,
+            "ruku_number": 386,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ أَصْحَـٰبَ ٱلْجَنَّةِ ٱلْيَوْمَ فِى شُغُلٍ فَـٰكِهُونَ",
+            "page_number": 444,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99115,
+                    "resource_id": 20,
+                    "text": "Indeed the companions of Paradise, that Day, will be amused in [joyful] occupation -"
+                },
+                {
+                    "id": 216970,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya penduduk Syurga pada hari itu, berada dalam keadaan sibuk leka menikmati kesenangan;"
+                },
+                {
+                    "id": 1094737,
+                    "resource_id": 161,
+                    "text": "সে দিন জান্নাতীরা আনন্দে মশগুল হয়ে থাকবে।"
+                }
+            ]
+        },
+        {
+            "id": 3761,
+            "verse_number": 56,
+            "verse_key": "36:56",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 177,
+            "ruku_number": 386,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "هُمْ وَأَزْوَٰجُهُمْ فِى ظِلَـٰلٍ عَلَى ٱلْأَرَآئِكِ مُتَّكِـُٔونَ",
+            "page_number": 444,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99116,
+                    "resource_id": 20,
+                    "text": "They and their spouses - in shade, reclining on adorned couches."
+                },
+                {
+                    "id": 216971,
+                    "resource_id": 39,
+                    "text": "Mereka dengan pasangan-pasangan mereka bersukaria di tempat yang teduh, sambil duduk berbaring di atas pelamin;"
+                },
+                {
+                    "id": 1094738,
+                    "resource_id": 161,
+                    "text": "তারা আর তাদের স্ত্রীরা সুশীতল ছায়ায়, উঁচু উঁচু আসনে হেলান দিয়ে বসবে।"
+                }
+            ]
+        },
+        {
+            "id": 3762,
+            "verse_number": 57,
+            "verse_key": "36:57",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 177,
+            "ruku_number": 386,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "لَهُمْ فِيهَا فَـٰكِهَةٌ وَلَهُم مَّا يَدَّعُونَ",
+            "page_number": 444,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99117,
+                    "resource_id": 20,
+                    "text": "For them therein is fruit, and for them is whatever they request [or wish]"
+                },
+                {
+                    "id": 216972,
+                    "resource_id": 39,
+                    "text": "Mereka beroleh dalam Syurga itu pelbagai jenis buah-buahan, dan mereka beroleh apa sahaja yang mereka kehendaki;"
+                },
+                {
+                    "id": 1094739,
+                    "resource_id": 161,
+                    "text": "তাদের জন্য সেখানে থাকবে ফলমূল আর তাদের জন্য থাকবে তারা যা কিছু পেতে চাইবে।"
+                }
+            ]
+        },
+        {
+            "id": 3763,
+            "verse_number": 58,
+            "verse_key": "36:58",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 177,
+            "ruku_number": 386,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "سَلَـٰمٌ قَوْلًا مِّن رَّبٍّ رَّحِيمٍ",
+            "page_number": 444,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99118,
+                    "resource_id": 20,
+                    "text": "[And] \"Peace,\" a word from a Merciful Lord."
+                },
+                {
+                    "id": 216973,
+                    "resource_id": 39,
+                    "text": "(Mereka juga beroleh) ucapan salam sejahtera dari Tuhan Yang Maha Mengasihani."
+                },
+                {
+                    "id": 1094740,
+                    "resource_id": 161,
+                    "text": "দয়াময় প্রতিপালকের পক্ষ থেকে তাদেরকে ‘সালাম’ বলে সম্ভাষণ করা হবে।"
+                }
+            ]
+        },
+        {
+            "id": 3764,
+            "verse_number": 59,
+            "verse_key": "36:59",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 177,
+            "ruku_number": 386,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱمْتَـٰزُوا۟ ٱلْيَوْمَ أَيُّهَا ٱلْمُجْرِمُونَ",
+            "page_number": 444,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99119,
+                    "resource_id": 20,
+                    "text": "[Then He will say], \"But stand apart today, you criminals.<sup foot_note=197169>1</sup>"
+                },
+                {
+                    "id": 216974,
+                    "resource_id": 39,
+                    "text": "Dan (sebaliknya dikatakan kepada orang-orang yang kafir): \"Berpisahlah kamu pada hari ini, hai orang-orang yang berdosa, (dari bercampur gaul dengan orang-orang yang beriman)."
+                },
+                {
+                    "id": 1094741,
+                    "resource_id": 161,
+                    "text": "(সে দিন বলা হবে) ‘হে অপরাধীরা! আজ তোমরা আলাদা হয়ে যাও।’"
+                }
+            ]
+        },
+        {
+            "id": 3765,
+            "verse_number": 60,
+            "verse_key": "36:60",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 178,
+            "ruku_number": 386,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "۞ أَلَمْ أَعْهَدْ إِلَيْكُمْ يَـٰبَنِىٓ ءَادَمَ أَن لَّا تَعْبُدُوا۟ ٱلشَّيْطَـٰنَ ۖ إِنَّهُۥ لَكُمْ عَدُوٌّ مُّبِينٌ",
+            "page_number": 444,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99122,
+                    "resource_id": 20,
+                    "text": "Did I not enjoin upon you, O children of Adam, that you not worship Satan - [for] indeed, he is to you a clear enemy -"
+                },
+                {
+                    "id": 216977,
+                    "resource_id": 39,
+                    "text": "\"Bukankah Aku telah perintahkan kamu wahai anak-anak Adam, supaya kamu jangan menyembah Syaitan? Sesungguhnya ia musuh yang nyata terhadap kamu!"
+                },
+                {
+                    "id": 1094742,
+                    "resource_id": 161,
+                    "text": "‘হে আদাম সন্তান! আমি কি তোমাদেরকে নির্দেশ দেইনি যে, তোমরা শয়ত্বানের ‘ইবাদাত করো না, কারণ সে তোমাদের প্রকাশ্য দুশমন?"
+                }
+            ]
+        },
+        {
+            "id": 3766,
+            "verse_number": 61,
+            "verse_key": "36:61",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 178,
+            "ruku_number": 386,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَنِ ٱعْبُدُونِى ۚ هَـٰذَا صِرَٰطٌ مُّسْتَقِيمٌ",
+            "page_number": 444,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99123,
+                    "resource_id": 20,
+                    "text": "And that you worship [only] Me? This is a straight path."
+                },
+                {
+                    "id": 216978,
+                    "resource_id": 39,
+                    "text": "\"Dan (Aku perintahkan): hendaklah kamu menyembahKu; inilah jalan yang lurus."
+                },
+                {
+                    "id": 1094743,
+                    "resource_id": 161,
+                    "text": "আর আমারই ‘ইবাদাত কর, এটাই সরল সঠিক পথ।"
+                }
+            ]
+        },
+        {
+            "id": 3767,
+            "verse_number": 62,
+            "verse_key": "36:62",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 178,
+            "ruku_number": 386,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَقَدْ أَضَلَّ مِنكُمْ جِبِلًّا كَثِيرًا ۖ أَفَلَمْ تَكُونُوا۟ تَعْقِلُونَ",
+            "page_number": 444,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99124,
+                    "resource_id": 20,
+                    "text": "And he had already led astray from among you much of creation, so did you not use reason?"
+                },
+                {
+                    "id": 216979,
+                    "resource_id": 39,
+                    "text": "\"Dan sesungguhnya Syaitan itu telah menyesatkan golongan yang ramai di antara kamu; (setelah kamu mengetahui akibat mereka) maka tidakkah sepatutnya kamu berfikir dan insaf?"
+                },
+                {
+                    "id": 1094744,
+                    "resource_id": 161,
+                    "text": "(কিন্তু তোমাদেরকে সতর্ক করে দেয়া সত্ত্বেও) শয়ত্বান তোমাদের বহু দলকে বিভ্রান্ত করে দিয়েছে, তবুও কি তোমরা বুঝ না?"
+                }
+            ]
+        },
+        {
+            "id": 3768,
+            "verse_number": 63,
+            "verse_key": "36:63",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 178,
+            "ruku_number": 386,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "هَـٰذِهِۦ جَهَنَّمُ ٱلَّتِى كُنتُمْ تُوعَدُونَ",
+            "page_number": 444,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99125,
+                    "resource_id": 20,
+                    "text": "This is the Hellfire which you were promised."
+                },
+                {
+                    "id": 216980,
+                    "resource_id": 39,
+                    "text": "\"Yang kamu saksikan sekarang ialah neraka Jahannam, yang kamu selalu diancam memasukinya (kalau kamu tidak taatkan perintah Allah)."
+                },
+                {
+                    "id": 1094745,
+                    "resource_id": 161,
+                    "text": "এটা সেই জাহান্নাম যে বিষয়ে তোমাদেরকে ভয় দেখানো হয়েছিল।"
+                }
+            ]
+        },
+        {
+            "id": 3769,
+            "verse_number": 64,
+            "verse_key": "36:64",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 178,
+            "ruku_number": 386,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "ٱصْلَوْهَا ٱلْيَوْمَ بِمَا كُنتُمْ تَكْفُرُونَ",
+            "page_number": 444,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99126,
+                    "resource_id": 20,
+                    "text": "[Enter to] burn therein today for what you used to deny.\"<sup foot_note=197170>1</sup>"
+                },
+                {
+                    "id": 216981,
+                    "resource_id": 39,
+                    "text": "\"Rasalah kamu bakarannya pada hari ini, disebabkan perbuatan kufur yang kamu telah lakukan!\""
+                },
+                {
+                    "id": 1094746,
+                    "resource_id": 161,
+                    "text": "আজ তাতে প্রবেশ কর, কেননা তোমরা এটাকে অবিশ্বাস করেছিলে।’"
+                }
+            ]
+        },
+        {
+            "id": 3770,
+            "verse_number": 65,
+            "verse_key": "36:65",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 178,
+            "ruku_number": 386,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلْيَوْمَ نَخْتِمُ عَلَىٰٓ أَفْوَٰهِهِمْ وَتُكَلِّمُنَآ أَيْدِيهِمْ وَتَشْهَدُ أَرْجُلُهُم بِمَا كَانُوا۟ يَكْسِبُونَ",
+            "page_number": 444,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99127,
+                    "resource_id": 20,
+                    "text": "That Day, We will seal over their mouths, and their hands will speak to Us, and their feet will testify about what they used to earn."
+                },
+                {
+                    "id": 216982,
+                    "resource_id": 39,
+                    "text": "Pada waktu itu Kami meteraikan mulut mereka (sejurus); dan (memberi peluang kepada) tangan-tangan mereka memberitahu Kami (kesalahan masing-masing), dan kaki mereka pula menjadi saksi tentang apa yang mereka telah usahakan."
+                },
+                {
+                    "id": 1094747,
+                    "resource_id": 161,
+                    "text": "আজ আমি তাদের মুখে সীল মোহর লাগিয়ে দেব, তাদের হাত আমার সঙ্গে কথা বলবে, আর তারা যা করত সে সম্পর্কে তাদের পাগুলো সাক্ষ্য দেবে।"
+                }
+            ]
+        },
+        {
+            "id": 3771,
+            "verse_number": 66,
+            "verse_key": "36:66",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 178,
+            "ruku_number": 386,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَوْ نَشَآءُ لَطَمَسْنَا عَلَىٰٓ أَعْيُنِهِمْ فَٱسْتَبَقُوا۟ ٱلصِّرَٰطَ فَأَنَّىٰ يُبْصِرُونَ",
+            "page_number": 444,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99128,
+                    "resource_id": 20,
+                    "text": "And if We willed, We could have obliterated their eyes, and they would race to [find] the path, and how could they see?<sup foot_note=197171>1</sup>"
+                },
+                {
+                    "id": 216983,
+                    "resource_id": 39,
+                    "text": "(Matahati orang-orang yang menderhaka itu rosak) dan kalau Kami kehendaki, Kami berkuasa menghapuskan bentuk dan biji mata kepala mereka menjadi rata, sehingga masing-masing menerpa mencari-cari jalan (yang biasa mereka lalui). (Kiranya dijadikan demikian) maka bagaimanakah mereka dapat melihatnya?"
+                },
+                {
+                    "id": 1094748,
+                    "resource_id": 161,
+                    "text": "আমি ইচ্ছে করলে তাদের দৃষ্টিশক্তি বিলুপ্ত করে দিতাম। তখন তারা পথের দিকে দৌঁড়ে দেখতে চাইলে কীভাবে তারা দেখতে পেত?"
+                }
+            ]
+        },
+        {
+            "id": 3772,
+            "verse_number": 67,
+            "verse_key": "36:67",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 178,
+            "ruku_number": 386,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَوْ نَشَآءُ لَمَسَخْنَـٰهُمْ عَلَىٰ مَكَانَتِهِمْ فَمَا ٱسْتَطَـٰعُوا۟ مُضِيًّا وَلَا يَرْجِعُونَ",
+            "page_number": 444,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99129,
+                    "resource_id": 20,
+                    "text": "And if We willed, We could have deformed them, [paralyzing them] in their places so they would not be able to proceed, nor could they return.<sup foot_note=197172>1</sup>"
+                },
+                {
+                    "id": 216985,
+                    "resource_id": 39,
+                    "text": "(Kekuatan akal fikiran mereka juga tidak sihat) dan kalau kami kehendaki, kami berkuasa mangubahkan keadaan jasmani mereka (menjadi kaku beku) di tempat yang mereka berada padanya; maka dengan itu, mereka tidak dapat mara ke hadapan dan juga tidak dapat undur ke belakang."
+                },
+                {
+                    "id": 1094749,
+                    "resource_id": 161,
+                    "text": "আমি ইচ্ছে করলে তাদের নিজ নিজ জায়গাতেই তাদের আকৃতি পরিবর্তন করে দিতাম, তখন তারা না সামনের দিকে চলতে পারত, আর না পারত পেছনে ফিরে যেতে।"
+                }
+            ]
+        },
+        {
+            "id": 3773,
+            "verse_number": 68,
+            "verse_key": "36:68",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 178,
+            "ruku_number": 387,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَن نُّعَمِّرْهُ نُنَكِّسْهُ فِى ٱلْخَلْقِ ۖ أَفَلَا يَعْقِلُونَ",
+            "page_number": 444,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99130,
+                    "resource_id": 20,
+                    "text": "And he to whom We grant long life We reverse in creation;<sup foot_note=197173>1</sup> so will they not understand?"
+                },
+                {
+                    "id": 216986,
+                    "resource_id": 39,
+                    "text": "Dan (hendaklah diingat bahawa) sesiapa yang Kami panjangkan umurnya, Kami balikkan kembali kejadiannya (kepada keadaan serba lemah; hakikat ini memang jelas) maka mengapa mereka tidak mahu memikirkannya?"
+                },
+                {
+                    "id": 1094750,
+                    "resource_id": 161,
+                    "text": "আমি যাকে দীর্ঘ জীবন দেই, তাকে সৃষ্টির ক্ষেত্রে পূর্বের অবস্থায় ফিরিয়ে আনি। তবুও কি তারা বুঝে না?"
+                }
+            ]
+        },
+        {
+            "id": 3774,
+            "verse_number": 69,
+            "verse_key": "36:69",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 178,
+            "ruku_number": 387,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا عَلَّمْنَـٰهُ ٱلشِّعْرَ وَمَا يَنۢبَغِى لَهُۥٓ ۚ إِنْ هُوَ إِلَّا ذِكْرٌ وَقُرْءَانٌ مُّبِينٌ",
+            "page_number": 444,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99131,
+                    "resource_id": 20,
+                    "text": "And We did not give him [i.e., Prophet Muḥammad (ﷺ)] knowledge of poetry, nor is it befitting for him. It is not but a message and a clear Qur’ān"
+                },
+                {
+                    "id": 216987,
+                    "resource_id": 39,
+                    "text": "(Nabi Muhammad bukanlah penyair) dan Kami tidak mengajarkan syair kepadanya, dan kepandaian bersyair itu pula tidak sesuai baginya. Yang Kami wahyukan kepadanya itu tidak lain melainkan nasihat pengajaran dan Kitab Suci yang memberi penerangan;"
+                },
+                {
+                    "id": 1094751,
+                    "resource_id": 161,
+                    "text": "[কাফিররা রসূল (সা.)-কে উদ্দেশ্য করে বলে, লোকটা একটা কবি। কিন্তু) আমি রসূলকে কবিতা শিখাইনি, আর তা তার জন্য শোভনীয়ও নয়। তাতো এক উপদেশ ও স্পষ্ট কুরআন ব্যতীত অন্য কিছু নয়।"
+                }
+            ]
+        },
+        {
+            "id": 3775,
+            "verse_number": 70,
+            "verse_key": "36:70",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 178,
+            "ruku_number": 387,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "لِّيُنذِرَ مَن كَانَ حَيًّا وَيَحِقَّ ٱلْقَوْلُ عَلَى ٱلْكَـٰفِرِينَ",
+            "page_number": 444,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99134,
+                    "resource_id": 20,
+                    "text": "To warn whoever is alive<sup foot_note=197174>1</sup> and justify the word [i.e., decree] against the disbelievers."
+                },
+                {
+                    "id": 216999,
+                    "resource_id": 39,
+                    "text": "Supaya ia memberi peringatan kepada orang yang sedia hidup (hatinya), dan supaya nyata tetapnya hukuman (azab) terhadap orang-orang yang kufur ingkar."
+                },
+                {
+                    "id": 1094752,
+                    "resource_id": 161,
+                    "text": "যাতে সে (আত্মিকভাবে) জীবিতকে সতর্ক করতে পারে আর কাফিরদের বিরুদ্ধে অকাট্য দলীল হতে পারে।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 16,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 16
+    }
+}

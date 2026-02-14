@@ -1,0 +1,791 @@
+{
+    "verses": [
+        {
+            "id": 3865,
+            "verse_number": 77,
+            "verse_key": "37:77",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 179,
+            "ruku_number": 390,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَجَعَلْنَا ذُرِّيَّتَهُۥ هُمُ ٱلْبَاقِينَ",
+            "page_number": 449,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99319,
+                    "resource_id": 20,
+                    "text": "And We made his descendants those remaining [on the earth]"
+                },
+                {
+                    "id": 217156,
+                    "resource_id": 39,
+                    "text": "Dan Kami jadikan zuriat keturunannya sahaja orang-orang yang tinggal hidup (setelah Kami binasakan kaumnya yang ingkar)."
+                },
+                {
+                    "id": 1094842,
+                    "resource_id": 161,
+                    "text": "আর তার বংশধরদেরকেই আমি বংশানুক্রমে বিদ্যমান রাখলাম।"
+                }
+            ]
+        },
+        {
+            "id": 3866,
+            "verse_number": 78,
+            "verse_key": "37:78",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 179,
+            "ruku_number": 390,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَتَرَكْنَا عَلَيْهِ فِى ٱلْـَٔاخِرِينَ",
+            "page_number": 449,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 98625,
+                    "resource_id": 20,
+                    "text": "And left for him [favorable mention] among later generations:"
+                },
+                {
+                    "id": 217159,
+                    "resource_id": 39,
+                    "text": "Dan Kami kekalkan baginya (nama yang harum) dalam kalangan orang-orang yang datang kemudian:"
+                },
+                {
+                    "id": 1094843,
+                    "resource_id": 161,
+                    "text": "আর আমি তাকে পরবর্তীদের মাঝে স্মরণীয় করে রাখলাম।"
+                }
+            ]
+        },
+        {
+            "id": 3867,
+            "verse_number": 79,
+            "verse_key": "37:79",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 179,
+            "ruku_number": 390,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "سَلَـٰمٌ عَلَىٰ نُوحٍ فِى ٱلْعَـٰلَمِينَ",
+            "page_number": 449,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 98741,
+                    "resource_id": 20,
+                    "text": "\"Peace upon Noah among the worlds.\""
+                },
+                {
+                    "id": 217157,
+                    "resource_id": 39,
+                    "text": "\"Salam sejahtera kepada Nabi Nuh dalam kalangan penduduk seluruh alam ! \""
+                },
+                {
+                    "id": 1094844,
+                    "resource_id": 161,
+                    "text": "বিশ্বজগতে নূহের প্রতি সালাম/শান্তি বর্ষিত হোক।"
+                }
+            ]
+        },
+        {
+            "id": 3868,
+            "verse_number": 80,
+            "verse_key": "37:80",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 179,
+            "ruku_number": 390,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+            "page_number": 449,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 98668,
+                    "resource_id": 20,
+                    "text": "Indeed, We thus reward the doers of good."
+                },
+                {
+                    "id": 217160,
+                    "resource_id": 39,
+                    "text": "Demikianlah sebenarnya Kami membalas orang-orang yang berusaha mengerjakan amal-amal yang baik."
+                },
+                {
+                    "id": 1094845,
+                    "resource_id": 161,
+                    "text": "সৎকর্মশীলদেরকে আমি এভাবেই প্রতিদান দিয়ে থাকি।"
+                }
+            ]
+        },
+        {
+            "id": 3869,
+            "verse_number": 81,
+            "verse_key": "37:81",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 179,
+            "ruku_number": 390,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ",
+            "page_number": 449,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99322,
+                    "resource_id": 20,
+                    "text": "Indeed, he was of Our believing servants."
+                },
+                {
+                    "id": 217161,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Nabi Nuh itu dari hamba-hamba Kami yang beriman."
+                },
+                {
+                    "id": 1094846,
+                    "resource_id": 161,
+                    "text": "সে ছিল আমার মু’মিন বান্দাহদের একজন।"
+                }
+            ]
+        },
+        {
+            "id": 3870,
+            "verse_number": 82,
+            "verse_key": "37:82",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 179,
+            "ruku_number": 390,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "ثُمَّ أَغْرَقْنَا ٱلْـَٔاخَرِينَ",
+            "page_number": 449,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99323,
+                    "resource_id": 20,
+                    "text": "Then We drowned the others [i.e., disbelievers]."
+                },
+                {
+                    "id": 217162,
+                    "resource_id": 39,
+                    "text": "Kemudian Kami tenggelamkan golongan yang lain (yang mendustakannya)."
+                },
+                {
+                    "id": 1094847,
+                    "resource_id": 161,
+                    "text": "অতঃপর অন্যদের আমি ডুবিয়ে দিয়েছিলাম।"
+                }
+            ]
+        },
+        {
+            "id": 3871,
+            "verse_number": 83,
+            "verse_key": "37:83",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 390,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "۞ وَإِنَّ مِن شِيعَتِهِۦ لَإِبْرَٰهِيمَ",
+            "page_number": 449,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99324,
+                    "resource_id": 20,
+                    "text": "And indeed, among his kind was Abraham,"
+                },
+                {
+                    "id": 217163,
+                    "resource_id": 39,
+                    "text": "Dan sesungguhnya di antara orang-orang yang menegakkan (ajaran yang dibawa oleh) Nabi Nuh ialah Nabi Ibrahim."
+                },
+                {
+                    "id": 1094848,
+                    "resource_id": 161,
+                    "text": "অবশ্যই ইবরাহীম ছিল তারই দলের লোক।"
+                }
+            ]
+        },
+        {
+            "id": 3872,
+            "verse_number": 84,
+            "verse_key": "37:84",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 390,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "إِذْ جَآءَ رَبَّهُۥ بِقَلْبٍ سَلِيمٍ",
+            "page_number": 449,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99325,
+                    "resource_id": 20,
+                    "text": "When he came to his Lord with a sound heart"
+                },
+                {
+                    "id": 217183,
+                    "resource_id": 39,
+                    "text": "Ketika ia mematuhi perintah tuhannya dengan hati yang suci murni."
+                },
+                {
+                    "id": 1094849,
+                    "resource_id": 161,
+                    "text": "সে যখন তার প্রতিপালকের কাছে বিশুদ্ধ অন্তর নিয়ে হাজির হল,"
+                }
+            ]
+        },
+        {
+            "id": 3873,
+            "verse_number": 85,
+            "verse_key": "37:85",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 390,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَاذَا تَعْبُدُونَ",
+            "page_number": 449,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99326,
+                    "resource_id": 20,
+                    "text": "[And] when he said to his father and his people, \"What do you worship?"
+                },
+                {
+                    "id": 217166,
+                    "resource_id": 39,
+                    "text": "Ketika ia berkata kepada bapanya dan kaumnya: \" Apa yang kamu sembah?"
+                },
+                {
+                    "id": 1094850,
+                    "resource_id": 161,
+                    "text": "সে তখন তার পিতাকে ও তার জাতিকে বলল, ‘তোমরা কিসের ‘ইবাদাত কর?"
+                }
+            ]
+        },
+        {
+            "id": 3874,
+            "verse_number": 86,
+            "verse_key": "37:86",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 390,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "أَئِفْكًا ءَالِهَةً دُونَ ٱللَّهِ تُرِيدُونَ",
+            "page_number": 449,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99327,
+                    "resource_id": 20,
+                    "text": "Is it falsehood [as] gods other than Allāh you desire?"
+                },
+                {
+                    "id": 217167,
+                    "resource_id": 39,
+                    "text": "\"Patutkah kamu menyembah tuhan-tuhan yang lain dari Allah, kerana kamu memutar belitkan kebenaran semata-mata (bukan kerana benarnya)?"
+                },
+                {
+                    "id": 1094851,
+                    "resource_id": 161,
+                    "text": "তোমরা কি আল্লাহকে বাদ দিয়ে মিথ্যে মা’বুদ পেতে চাও?"
+                }
+            ]
+        },
+        {
+            "id": 3875,
+            "verse_number": 87,
+            "verse_key": "37:87",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 390,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فَمَا ظَنُّكُم بِرَبِّ ٱلْعَـٰلَمِينَ",
+            "page_number": 449,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99328,
+                    "resource_id": 20,
+                    "text": "Then what is your thought about the Lord of the worlds?\""
+                },
+                {
+                    "id": 217168,
+                    "resource_id": 39,
+                    "text": "\"Maka bagaimana fikiran kamu pula terhadap Allah Tuhan sekalian alam?\""
+                },
+                {
+                    "id": 1094852,
+                    "resource_id": 161,
+                    "text": "বিশ্ব জগতের প্রতিপালক সম্পর্কে তোমরা কী ধারণা পোষণ কর?"
+                }
+            ]
+        },
+        {
+            "id": 3876,
+            "verse_number": 88,
+            "verse_key": "37:88",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 390,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فَنَظَرَ نَظْرَةً فِى ٱلنُّجُومِ",
+            "page_number": 449,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99329,
+                    "resource_id": 20,
+                    "text": "And he cast a look at the stars."
+                },
+                {
+                    "id": 217171,
+                    "resource_id": 39,
+                    "text": "Kemudian ia memandang dengan satu renungan kepada bintang-bintang (yang bertaburan di langit),"
+                },
+                {
+                    "id": 1094853,
+                    "resource_id": 161,
+                    "text": "অতঃপর তারকারাজির দিকে সে একবার তাকাল (অর্থাৎ চিন্তে ভাবনা করল)"
+                }
+            ]
+        },
+        {
+            "id": 3877,
+            "verse_number": 89,
+            "verse_key": "37:89",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 390,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فَقَالَ إِنِّى سَقِيمٌ",
+            "page_number": 449,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99330,
+                    "resource_id": 20,
+                    "text": "And said, \"Indeed, I am [about to be] ill.\""
+                },
+                {
+                    "id": 217169,
+                    "resource_id": 39,
+                    "text": "Lalu berkata: \"Sesungguhnya aku merasa sakit (tak dapat turut berhari raya sama)\"."
+                },
+                {
+                    "id": 1094854,
+                    "resource_id": 161,
+                    "text": "তারপর বলল, ‘‘আমি অসুস্থ।’’"
+                }
+            ]
+        },
+        {
+            "id": 3878,
+            "verse_number": 90,
+            "verse_key": "37:90",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 390,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فَتَوَلَّوْا۟ عَنْهُ مُدْبِرِينَ",
+            "page_number": 449,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99333,
+                    "resource_id": 20,
+                    "text": "So they turned away from him, departing."
+                },
+                {
+                    "id": 217172,
+                    "resource_id": 39,
+                    "text": "Setelah (mendengar kata-katanya) itu, mereka berpaling meninggalkan dia."
+                },
+                {
+                    "id": 1094855,
+                    "resource_id": 161,
+                    "text": "অতঃপর তারা তাকে পেছনে রেখে চলে গেল।"
+                }
+            ]
+        },
+        {
+            "id": 3879,
+            "verse_number": 91,
+            "verse_key": "37:91",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 390,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فَرَاغَ إِلَىٰٓ ءَالِهَتِهِمْ فَقَالَ أَلَا تَأْكُلُونَ",
+            "page_number": 449,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99334,
+                    "resource_id": 20,
+                    "text": "Then he turned to their gods and said, \"Do you not eat?<sup foot_note=197188>1</sup>"
+                },
+                {
+                    "id": 214798,
+                    "resource_id": 39,
+                    "text": "Lalu ia pergi kepada berhala-berhala mereka secara bersembunyi, serta ia bertanya (kepada berhala-berhala itu, secara mengejek-ejek): \"Mengapa kamu tidak makan?"
+                },
+                {
+                    "id": 1094856,
+                    "resource_id": 161,
+                    "text": "তারপর সে চুপে চুপে তাদের উপাস্যদের কাছে ঢুকে পড়ল আর বলল, (আপনাদের সম্মুখে রাখা এত উপাদেয় খাবার) আপনারা খাচ্ছেন না কেন?"
+                }
+            ]
+        },
+        {
+            "id": 3880,
+            "verse_number": 92,
+            "verse_key": "37:92",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 390,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "مَا لَكُمْ لَا تَنطِقُونَ",
+            "page_number": 449,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99335,
+                    "resource_id": 20,
+                    "text": "What is [wrong] with you that you do not speak?\"."
+                },
+                {
+                    "id": 217178,
+                    "resource_id": 39,
+                    "text": "\"Mengapa kamu tidak menjawab?\""
+                },
+                {
+                    "id": 1094857,
+                    "resource_id": 161,
+                    "text": "কী হয়েছে আপনাদের, কথা বলছেন না কেন?"
+                }
+            ]
+        },
+        {
+            "id": 3881,
+            "verse_number": 93,
+            "verse_key": "37:93",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 390,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فَرَاغَ عَلَيْهِمْ ضَرْبًۢا بِٱلْيَمِينِ",
+            "page_number": 449,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99336,
+                    "resource_id": 20,
+                    "text": "And he turned upon them a blow with [his] right hand."
+                },
+                {
+                    "id": 217173,
+                    "resource_id": 39,
+                    "text": "Lalu ia memukul berhala-berhala itu dengan tangan kanannya (sehingga pecah berketul-ketul)."
+                },
+                {
+                    "id": 1094858,
+                    "resource_id": 161,
+                    "text": "অতঃপর সে তাদের উপর ঝাঁপিয়ে পড়ে সজোরে আঘাত করল।"
+                }
+            ]
+        },
+        {
+            "id": 3882,
+            "verse_number": 94,
+            "verse_key": "37:94",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 390,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فَأَقْبَلُوٓا۟ إِلَيْهِ يَزِفُّونَ",
+            "page_number": 449,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99337,
+                    "resource_id": 20,
+                    "text": "Then they [i.e., the people] came toward him, hastening."
+                },
+                {
+                    "id": 217174,
+                    "resource_id": 39,
+                    "text": "(Setelah kaumnya mengetahui hal itu) maka datanglah mereka beramai-ramai kepadanya."
+                },
+                {
+                    "id": 1094859,
+                    "resource_id": 161,
+                    "text": "তখন লোকেরা (ফিরে এসে) তার দিকে ছুটে আসল।"
+                }
+            ]
+        },
+        {
+            "id": 3883,
+            "verse_number": 95,
+            "verse_key": "37:95",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 390,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ أَتَعْبُدُونَ مَا تَنْحِتُونَ",
+            "page_number": 449,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99338,
+                    "resource_id": 20,
+                    "text": "He said, \"Do you worship that which you [yourselves] carve,"
+                },
+                {
+                    "id": 217175,
+                    "resource_id": 39,
+                    "text": "(Bagi menjawab bantahan mereka), ia berkata: \"Patutkah kamu menyembah benda-benda yang kamu pahat?"
+                },
+                {
+                    "id": 1094860,
+                    "resource_id": 161,
+                    "text": "সে বলল, ‘‘তোমরা (পাথর) খোদাই করে সেগুলো নিজেরা বানাও, সেগুলোরই আবার ‘ইবাদাত কর?"
+                }
+            ]
+        },
+        {
+            "id": 3884,
+            "verse_number": 96,
+            "verse_key": "37:96",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 390,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱللَّهُ خَلَقَكُمْ وَمَا تَعْمَلُونَ",
+            "page_number": 449,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99339,
+                    "resource_id": 20,
+                    "text": "While Allāh created you and that which you do?\""
+                },
+                {
+                    "id": 217176,
+                    "resource_id": 39,
+                    "text": "\"Padahal Allah yang mencipta kamu dan benda-benda yang kamu buat itu!\""
+                },
+                {
+                    "id": 1094861,
+                    "resource_id": 161,
+                    "text": "আল্লাহই সৃষ্টি করেছেন তোমাদেরকে আর তোমরা যা তৈরি কর সেগুলোকেও।"
+                }
+            ]
+        },
+        {
+            "id": 3885,
+            "verse_number": 97,
+            "verse_key": "37:97",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 390,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "قَالُوا۟ ٱبْنُوا۟ لَهُۥ بُنْيَـٰنًا فَأَلْقُوهُ فِى ٱلْجَحِيمِ",
+            "page_number": 449,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99340,
+                    "resource_id": 20,
+                    "text": "They said, \"Construct for him a structure [i.e., furnace] and throw him into the burning fire.\""
+                },
+                {
+                    "id": 217177,
+                    "resource_id": 39,
+                    "text": "(Setelah tak dapat berhujah lagi, ketua-ketua) mereka berkata: \"Binalah untuk Ibrahim sebuah tempat (untuk membakarnya), kemudian campakkan dia ke dalam api yang menjulang-julang itu\"."
+                },
+                {
+                    "id": 1094862,
+                    "resource_id": 161,
+                    "text": "তারা বলল, ‘তার জন্য একটা অগ্নিকুন্ড তৈরি কর, অতঃপর তাকে আগুনে নিক্ষেপ কর।’"
+                }
+            ]
+        },
+        {
+            "id": 3886,
+            "verse_number": 98,
+            "verse_key": "37:98",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 390,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فَأَرَادُوا۟ بِهِۦ كَيْدًا فَجَعَلْنَـٰهُمُ ٱلْأَسْفَلِينَ",
+            "page_number": 449,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99341,
+                    "resource_id": 20,
+                    "text": "And they intended for him a plan [i.e., harm], but We made them the most debased."
+                },
+                {
+                    "id": 217179,
+                    "resource_id": 39,
+                    "text": "Maka mereka (dengan perbuatan membakar Nabi Ibrahim itu) hendak melakukan angkara yang menyakitinya, lalu Kami jadikan mereka orang-orang yang terkebawah (yang tidak berjaya maksudnya)."
+                },
+                {
+                    "id": 1094863,
+                    "resource_id": 161,
+                    "text": "তারা তার বিরুদ্ধে একটা ষড়যন্ত্র করতে চেয়েছিল। কিন্তু আমি তাদেরকে এক্কেবারে হীন করে ছাড়লাম।"
+                }
+            ]
+        },
+        {
+            "id": 3887,
+            "verse_number": 99,
+            "verse_key": "37:99",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 390,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَقَالَ إِنِّى ذَاهِبٌ إِلَىٰ رَبِّى سَيَهْدِينِ",
+            "page_number": 449,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99342,
+                    "resource_id": 20,
+                    "text": "And [then] he said, \"Indeed, I will go to [where I am ordered by] my Lord; He will guide me."
+                },
+                {
+                    "id": 217181,
+                    "resource_id": 39,
+                    "text": "Dan Nabi Ibrahim pula berkata: \"Aku hendak (meninggalkan kamu) pergi kepada Tuhanku, Ia akan memimpinku (ke jalan yang benar)."
+                },
+                {
+                    "id": 1094864,
+                    "resource_id": 161,
+                    "text": "সে বলল, ‘আমি আমার প্রতিপালকের দিকে চললাম, তিনি আমাকে অবশ্যই সঠিক পথ দেখাবেন।"
+                }
+            ]
+        },
+        {
+            "id": 3888,
+            "verse_number": 100,
+            "verse_key": "37:100",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 390,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "رَبِّ هَبْ لِى مِنَ ٱلصَّـٰلِحِينَ",
+            "page_number": 449,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99157,
+                    "resource_id": 20,
+                    "text": "My Lord, grant me [a child] from among the righteous.\""
+                },
+                {
+                    "id": 217015,
+                    "resource_id": 39,
+                    "text": "\" Wahai Tuhanku! Kurniakanlah kepadaku anak yang terhitung dari orang-orang yang soleh!\""
+                },
+                {
+                    "id": 1094865,
+                    "resource_id": 161,
+                    "text": "হে আমার প্রতিপালক! তুমি আমাকে এক সৎকর্মশীল পুত্র সন্তান দান কর।"
+                }
+            ]
+        },
+        {
+            "id": 3889,
+            "verse_number": 101,
+            "verse_key": "37:101",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 390,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فَبَشَّرْنَـٰهُ بِغُلَـٰمٍ حَلِيمٍ",
+            "page_number": 449,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99158,
+                    "resource_id": 20,
+                    "text": "So We gave him good tidings of a forbearing boy."
+                },
+                {
+                    "id": 217013,
+                    "resource_id": 39,
+                    "text": "Lalu Kami berikan kepadanya berita yang mengembirakan, bahawa ia akan beroleh seorang anak yang penyabar."
+                },
+                {
+                    "id": 1094866,
+                    "resource_id": 161,
+                    "text": "অতঃপর আমি তাকে এক অতি ধৈর্যশীল পুত্রের সুসংবাদ দিলাম।"
+                }
+            ]
+        },
+        {
+            "id": 3890,
+            "verse_number": 102,
+            "verse_key": "37:102",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 180,
+            "ruku_number": 390,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَـٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَـٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّـٰبِرِينَ",
+            "page_number": 449,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99159,
+                    "resource_id": 20,
+                    "text": "And when he reached with him [the age of] exertion,<sup foot_note=197189>1</sup> he said, \"O my son, indeed I have seen in a dream that I [must] sacrifice you, so see what you think.\" He said, \"O my father, do as you are commanded. You will find me, if Allāh wills, of the steadfast.\""
+                },
+                {
+                    "id": 217014,
+                    "resource_id": 39,
+                    "text": "Maka ketika anaknya itu sampai (ke peringkat umur yang membolehkan dia) berusaha bersama-sama dengannya, Nabi Ibrahim berkata: \"Wahai anak kesayanganku! Sesungguhnya aku melihat dalam mimpi bahawa aku akan menyembelihmu; maka fikirkanlah apa pendapatmu?\". Anaknya menjawab: \"Wahai ayah, jalankanlah apa yang diperintahkan kepadamu; Insya Allah, ayah akan mendapati daku dari orang-orang yang sabar\"."
+                },
+                {
+                    "id": 1094867,
+                    "resource_id": 161,
+                    "text": "অতঃপর সে যখন তার পিতার সাথে চলাফিরা করার বয়সে পৌঁছল, তখন ইবরাহীম (আঃ) বলল, ‘বৎস! আমি স্বপ্নে দেখেছি যে, আমি তোমাকে যবেহ করছি, এখন বল, তোমার অভিমত কী? সে বলল, ‘হে পিতা! আপনাকে যা আদেশ করা হয়েছে আপনি তাই করুন, আল্লাহ চাইলে আপনি আমাকে ধৈর্যশীলই পাবেন।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 26,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 26
+    }
+}

@@ -1,0 +1,281 @@
+{
+    "verses": [
+        {
+            "id": 1493,
+            "verse_number": 20,
+            "verse_key": "11:20",
+            "hizb_number": 23,
+            "rub_el_hizb_number": 89,
+            "ruku_number": 184,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "أُو۟لَـٰٓئِكَ لَمْ يَكُونُوا۟ مُعْجِزِينَ فِى ٱلْأَرْضِ وَمَا كَانَ لَهُم مِّن دُونِ ٱللَّهِ مِنْ أَوْلِيَآءَ ۘ يُضَـٰعَفُ لَهُمُ ٱلْعَذَابُ ۚ مَا كَانُوا۟ يَسْتَطِيعُونَ ٱلسَّمْعَ وَمَا كَانُوا۟ يُبْصِرُونَ",
+            "page_number": 224,
+            "juz_number": 12,
+            "translations": [
+                {
+                    "id": 96389,
+                    "resource_id": 20,
+                    "text": "Those were not causing failure [to Allāh] on earth, nor did they have besides Allāh any protectors. For them the punishment will be multiplied. They were not able to hear, nor did they see.<sup foot_note=196476>1</sup>"
+                },
+                {
+                    "id": 214664,
+                    "resource_id": 39,
+                    "text": "Mereka itu tidak akan dapat melemahkan kekuasaan Allah daripada menimpakan mereka dengan azab di dunia, dan tidak ada pula bagi mereka, yang lain dari Allah, sesiapapun yang dapat menolong melepaskan mereka dari seksaNya. Azab untuk mereka akan digandakan (kerana mereka sangat bencikan jalan ugama Allah), sehingga mereka tidak tahan mendengarnya, dan tidak pula suka melihat tanda-tanda kebenarannya."
+                },
+                {
+                    "id": 1092470,
+                    "resource_id": 161,
+                    "text": "দুনিয়াতে তারা আল্লাহকে অক্ষম করে দিতে পারত না, আর আল্লাহ ছাড়া তাদের কোন সাহায্যকারীও ছিল না, তাদের শাস্তি দ্বিগুণ করা হবে। তারা না শুনতে পারত, আর না দেখতে পারত।"
+                }
+            ]
+        },
+        {
+            "id": 1494,
+            "verse_number": 21,
+            "verse_key": "11:21",
+            "hizb_number": 23,
+            "rub_el_hizb_number": 89,
+            "ruku_number": 184,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ",
+            "page_number": 224,
+            "juz_number": 12,
+            "translations": [
+                {
+                    "id": 96390,
+                    "resource_id": 20,
+                    "text": "Those are the ones who will have lost themselves, and lost from them is what they used to invent."
+                },
+                {
+                    "id": 220429,
+                    "resource_id": 39,
+                    "text": "Merekalah orang-orang yang merugikan diri sendiri, dan hilang lenyaplah dari mereka apa yang mereka ada-adakan."
+                },
+                {
+                    "id": 1092471,
+                    "resource_id": 161,
+                    "text": "এরা সেই লোক যারা নিজেদেরকে নিজেরাই ক্ষতিগ্রস্ত করেছে, আর তারা যা কিছু রচনা করেছিল তা তাদের কাছ থেকে উধাও হয়ে গেছে।"
+                }
+            ]
+        },
+        {
+            "id": 1495,
+            "verse_number": 22,
+            "verse_key": "11:22",
+            "hizb_number": 23,
+            "rub_el_hizb_number": 89,
+            "ruku_number": 184,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "لَا جَرَمَ أَنَّهُمْ فِى ٱلْـَٔاخِرَةِ هُمُ ٱلْأَخْسَرُونَ",
+            "page_number": 224,
+            "juz_number": 12,
+            "translations": [
+                {
+                    "id": 96392,
+                    "resource_id": 20,
+                    "text": "Assuredly, it is they in the Hereafter who will be the greatest losers."
+                },
+                {
+                    "id": 220345,
+                    "resource_id": 39,
+                    "text": "Tidak syak lagi, bahawa sesungguhnya merekalah yang paling rugi, pada hari akhirat kelak."
+                },
+                {
+                    "id": 1092472,
+                    "resource_id": 161,
+                    "text": "এতে কোন সন্দেহ নেই যে আখেরাতে এরাই সবচেয়ে ক্ষতিগ্রস্ত।"
+                }
+            ]
+        },
+        {
+            "id": 1496,
+            "verse_number": 23,
+            "verse_key": "11:23",
+            "hizb_number": 23,
+            "rub_el_hizb_number": 89,
+            "ruku_number": 184,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَأَخْبَتُوٓا۟ إِلَىٰ رَبِّهِمْ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْجَنَّةِ ۖ هُمْ فِيهَا خَـٰلِدُونَ",
+            "page_number": 224,
+            "juz_number": 12,
+            "translations": [
+                {
+                    "id": 96394,
+                    "resource_id": 20,
+                    "text": "Indeed, they who have believed and done righteous deeds and humbled themselves to their Lord - those are the companions of Paradise; they will abide eternally therein."
+                },
+                {
+                    "id": 220343,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya orang-orang yang beriman dan mengerjakan amal yang soleh, serta tunduk taat menunaikan ibadat kepada Tuhan mereka dengan khusyuk, mereka itulah ahli Syurga, mereka kekal di dalamnya."
+                },
+                {
+                    "id": 1092473,
+                    "resource_id": 161,
+                    "text": "নিশ্চয় যারা ঈমান আনে, সৎকর্ম করে আর তাদের রবেবর কাছে বিনীত, তারাই জান্নাতের অধিবাসী, তারা সেখানে স্থায়ী হবে।"
+                }
+            ]
+        },
+        {
+            "id": 1497,
+            "verse_number": 24,
+            "verse_key": "11:24",
+            "hizb_number": 23,
+            "rub_el_hizb_number": 90,
+            "ruku_number": 184,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "۞ مَثَلُ ٱلْفَرِيقَيْنِ كَٱلْأَعْمَىٰ وَٱلْأَصَمِّ وَٱلْبَصِيرِ وَٱلسَّمِيعِ ۚ هَلْ يَسْتَوِيَانِ مَثَلًا ۚ أَفَلَا تَذَكَّرُونَ",
+            "page_number": 224,
+            "juz_number": 12,
+            "translations": [
+                {
+                    "id": 96396,
+                    "resource_id": 20,
+                    "text": "The example of the two parties is like the blind and deaf, and the seeing and hearing. Are they equal in comparison? Then, will you not remember?"
+                },
+                {
+                    "id": 220340,
+                    "resource_id": 39,
+                    "text": "Bandingan dua golongan (yang kafir dan yang beriman) itu samalah seperti orang yang buta serta pekak, dengan orang yang celik serta mendengar; kedua-dua golongan itu tidaklah sama keadaannya. (Setelah kamu mengetahui yang demikian) maka tidakkah kamu mahu mengambil peringatan dan insaf?"
+                },
+                {
+                    "id": 1092474,
+                    "resource_id": 161,
+                    "text": "দু’শ্রেণীর লোকের দৃষ্টান্ত হল যেমন একজন হল অন্ধ ও বধির, অন্যজন চক্ষুষ্মান ও শ্রবণশীল, এ দু’জন কি তুলনায় সমান হতে পারে? এরপরও কি তোমরা শিক্ষা গ্রহণ করবে না।"
+                }
+            ]
+        },
+        {
+            "id": 1498,
+            "verse_number": 25,
+            "verse_key": "11:25",
+            "hizb_number": 23,
+            "rub_el_hizb_number": 90,
+            "ruku_number": 185,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ إِنِّى لَكُمْ نَذِيرٌ مُّبِينٌ",
+            "page_number": 224,
+            "juz_number": 12,
+            "translations": [
+                {
+                    "id": 96398,
+                    "resource_id": 20,
+                    "text": "And We had certainly sent Noah to his people, [saying], \"Indeed, I am to you a clear warner"
+                },
+                {
+                    "id": 220347,
+                    "resource_id": 39,
+                    "text": "Dan demi sesungguhnya! Kami telah utuskan Nabi Nuh lalu ia memberitahu kaumnya dengan berkata: \"Sesungguhnya aku ini seorang Rasul pemberi amaran yang nyata kepada kamu."
+                },
+                {
+                    "id": 1092475,
+                    "resource_id": 161,
+                    "text": "আমি নূহকে তার কাওমের কাছে পাঠিয়েছিলাম। (সে বলেছিল) আমি তোমাদের জন্য একজন স্পষ্ট সতর্ককারী,"
+                }
+            ]
+        },
+        {
+            "id": 1499,
+            "verse_number": 26,
+            "verse_key": "11:26",
+            "hizb_number": 23,
+            "rub_el_hizb_number": 90,
+            "ruku_number": 185,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "أَن لَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ ۖ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ أَلِيمٍ",
+            "page_number": 224,
+            "juz_number": 12,
+            "translations": [
+                {
+                    "id": 96399,
+                    "resource_id": 20,
+                    "text": "That you not worship except Allāh. Indeed, I fear for you the punishment of a painful day.\""
+                },
+                {
+                    "id": 220350,
+                    "resource_id": 39,
+                    "text": "\"Iaitu janganlah kamu menyembah melainkan Allah; sesungguhnya aku bimbang (jika kamu menyembah yang lainnya), kamu akan ditimpa azab yang tidak terperi sakitnya pada hari pembalasan\"."
+                },
+                {
+                    "id": 1092476,
+                    "resource_id": 161,
+                    "text": "যে, তোমরা আল্লাহ ছাড়া কারো ‘ইবাদাত করো না, অন্যথায় আমি আশঙ্কা করছি যে, তোমাদের উপর একদিন বেদনাদায়ক ‘আযাব আসবে।"
+                }
+            ]
+        },
+        {
+            "id": 1500,
+            "verse_number": 27,
+            "verse_key": "11:27",
+            "hizb_number": 23,
+            "rub_el_hizb_number": 90,
+            "ruku_number": 185,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "فَقَالَ ٱلْمَلَأُ ٱلَّذِينَ كَفَرُوا۟ مِن قَوْمِهِۦ مَا نَرَىٰكَ إِلَّا بَشَرًا مِّثْلَنَا وَمَا نَرَىٰكَ ٱتَّبَعَكَ إِلَّا ٱلَّذِينَ هُمْ أَرَاذِلُنَا بَادِىَ ٱلرَّأْىِ وَمَا نَرَىٰ لَكُمْ عَلَيْنَا مِن فَضْلٍۭ بَلْ نَظُنُّكُمْ كَـٰذِبِينَ",
+            "page_number": 224,
+            "juz_number": 12,
+            "translations": [
+                {
+                    "id": 96400,
+                    "resource_id": 20,
+                    "text": "So the eminent among those who disbelieved from his people said, \"We do not see you but as a man like ourselves, and we do not see you followed except by those who are the lowest of us [and] at first suggestion.<sup foot_note=196477>1</sup> And we do not see in you over us any merit; rather, we think you are liars.\""
+                },
+                {
+                    "id": 220353,
+                    "resource_id": 39,
+                    "text": "Maka berkatalah ketua-ketua yang kafir dari kaumnya: \"Kami tidak memandangmu (wahai Nuh) melainkan sebagai seorang manusia seperti kami; dan kami tidak nampak golongan yang mengikutmu melainkan orang-orang kami yang miskin hina, lagi berfikiran singkat; dan kami juga tidak memandang kamu (semua) mempunyai sebarang kelebihan yang mengatasi kami, bahkan kami menganggap kamu orang-orang pendusta\"."
+                },
+                {
+                    "id": 1092477,
+                    "resource_id": 161,
+                    "text": "জওয়াবে তার জাতির প্রধানগণ- যারা অবিশ্বাসী ছিল তারা বলল, ‘আমরা তোমাকে আমাদের মত মানুষ ছাড়া অন্য কিছু দেখছি না, আর প্রকাশ্যতঃ আমাদের হীন অধম লোকগুলো ছাড়া তোমার পথ অবলম্বন করতে দেখছি না, আমাদের উপর তোমার কোন প্রাধান্যও দেখছি না, বরং আমরা তোমাদেরক মিথ্যুক বলেই মনে করি।’"
+                }
+            ]
+        },
+        {
+            "id": 1501,
+            "verse_number": 28,
+            "verse_key": "11:28",
+            "hizb_number": 23,
+            "rub_el_hizb_number": 90,
+            "ruku_number": 185,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ يَـٰقَوْمِ أَرَءَيْتُمْ إِن كُنتُ عَلَىٰ بَيِّنَةٍ مِّن رَّبِّى وَءَاتَىٰنِى رَحْمَةً مِّنْ عِندِهِۦ فَعُمِّيَتْ عَلَيْكُمْ أَنُلْزِمُكُمُوهَا وَأَنتُمْ لَهَا كَـٰرِهُونَ",
+            "page_number": 224,
+            "juz_number": 12,
+            "translations": [
+                {
+                    "id": 96401,
+                    "resource_id": 20,
+                    "text": "He said, \"O my people, have you considered: if I should be upon clear evidence from my Lord while He has given me mercy from Himself but it has been made unapparent to you, should we force it upon you while you are averse to it?"
+                },
+                {
+                    "id": 220346,
+                    "resource_id": 39,
+                    "text": "Nabi Nuh berkata: \"Wahai kaumku! Jika keadaanku berdasarkan bukti yang nyata dari Tuhanku, serta Ia mengurniakan pangkat Nabi kepadaku dari sisiNya, kemudian bukti yang nyata itu menjadi kabur pada pandangan kamu (disebabkan keingkaran kamu yang telah sebati), maka adakah kamu nampak ada gunanya Kami memaksa kamu menerima bukti itu sedang kamu tidak suka kepadanya?"
+                },
+                {
+                    "id": 1092478,
+                    "resource_id": 161,
+                    "text": "সে বলল, ‘‘হে আমার সম্প্রদায়! তোমরা চিন্তা-ভাবনা করে দেখ, আমি যদি আমার প্রতিপালকের নিকট হতে প্রাপ্ত সুস্পষ্ট প্রমাণের উপর প্রতিষ্ঠিত থাকি আর তিনি তাঁর পক্ষ থেকে আমাকে অনুগ্রহ প্রদান করে থাকেন যা তোমাদের দৃষ্টি থেকে গোপনে রাখা হয়েছে, এমতাবস্থায় তা গ্রহণ করার ব্যাপারে আমি কি তোমাদেরকে বাধ্য করতে পারি যখন তোমরা তা অপছন্দ কর?"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 9,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 9
+    }
+}

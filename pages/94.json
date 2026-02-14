@@ -1,0 +1,221 @@
+{
+    "verses": [
+        {
+            "id": 588,
+            "verse_number": 95,
+            "verse_key": "4:95",
+            "hizb_number": 10,
+            "rub_el_hizb_number": 37,
+            "ruku_number": 74,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "لَّا يَسْتَوِى ٱلْقَـٰعِدُونَ مِنَ ٱلْمُؤْمِنِينَ غَيْرُ أُو۟لِى ٱلضَّرَرِ وَٱلْمُجَـٰهِدُونَ فِى سَبِيلِ ٱللَّهِ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ ۚ فَضَّلَ ٱللَّهُ ٱلْمُجَـٰهِدِينَ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ عَلَى ٱلْقَـٰعِدِينَ دَرَجَةً ۚ وَكُلًّا وَعَدَ ٱللَّهُ ٱلْحُسْنَىٰ ۚ وَفَضَّلَ ٱللَّهُ ٱلْمُجَـٰهِدِينَ عَلَى ٱلْقَـٰعِدِينَ أَجْرًا عَظِيمًا",
+            "page_number": 94,
+            "juz_number": 5,
+            "translations": [
+                {
+                    "id": 100194,
+                    "resource_id": 20,
+                    "text": "Not equal are those believers remaining [at home] - other than the disabled - and the mujāhideen, [who strive and fight] in the cause of Allāh with their wealth and their lives. Allāh has preferred the mujāhideen through their wealth and their lives over those who remain [behind], by degrees. And to all [i.e., both] Allāh has promised the best [reward]. But Allāh has preferred the mujāhideen over those who remain [behind] with a great reward -"
+                },
+                {
+                    "id": 218045,
+                    "resource_id": 39,
+                    "text": "Tidaklah sama keadaan orang-orang yang duduk (tidak turut berperang) dari kalangan orang-orang yang beriman - selain daripada orang-orang yang ada keuzuran - dengan orang-orang yang berjihad (berjuang) pada jalan Allah (untuk membela Islam) dengan harta dan jiwanya. Allah melebihkan orang-orang yang berjuang dengan harta benda dan jiwa mereka atas orang-orang yang tinggal duduk (tidak turut berperang kerana uzur) dengan kelebihan satu darjat. Dan tiap-tiap satu (dari dua golongan itu) Allah menjanjikan dengan balasan yang baik (Syurga), dan Allah melebihkan orang-orang yang berjuang atas orang-orang yang tinggal duduk (tidak turut berperang dan tidak ada sesuatu uzur) dengan pahala yang amat besar;"
+                },
+                {
+                    "id": 1091565,
+                    "resource_id": 161,
+                    "text": "অক্ষম নয় এমন বসে-থাকা মু’মিনরা আর জান-মাল দ্বারা আল্লাহর পথে জিহাদকারীগণ সমান নয়; নিজেদের ধন-প্রাণ দ্বারা জিহাদকারীদেরকে বসে-থাকা লোকেদের উপর আল্লাহ মর্যাদা দিয়েছেন। আল্লাহ সকলের জন্যই কল্যাণের ওয়াদা করেছেন এবং মুজাহিদদেরকে বসে-থাকা লোকেদের তুলনায় আল্লাহ মহাপুরস্কার দিয়ে মর্যাদা দান করেছেন।"
+                }
+            ]
+        },
+        {
+            "id": 589,
+            "verse_number": 96,
+            "verse_key": "4:96",
+            "hizb_number": 10,
+            "rub_el_hizb_number": 37,
+            "ruku_number": 74,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "دَرَجَـٰتٍ مِّنْهُ وَمَغْفِرَةً وَرَحْمَةً ۚ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا",
+            "page_number": 94,
+            "juz_number": 5,
+            "translations": [
+                {
+                    "id": 100196,
+                    "resource_id": 20,
+                    "text": "Degrees [of high position] from Him and forgiveness and mercy. And Allāh is ever Forgiving and Merciful."
+                },
+                {
+                    "id": 218047,
+                    "resource_id": 39,
+                    "text": "Iaitu beberapa darjat kelebihan daripadaNya, dan keampunan serta rahmat belas kasihan. Dan (ingatlah) adalah Allah Maha Pengampun, lagi Maha Mengasihani."
+                },
+                {
+                    "id": 1091566,
+                    "resource_id": 161,
+                    "text": "ওটা আল্লাহর নিকট হতে পদমর্যাদা, ক্ষমা ও দয়া; আল্লাহ বড়ই ক্ষমাশীল, পরম দয়াবান।"
+                }
+            ]
+        },
+        {
+            "id": 590,
+            "verse_number": 97,
+            "verse_key": "4:97",
+            "hizb_number": 10,
+            "rub_el_hizb_number": 37,
+            "ruku_number": 75,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ ٱلَّذِينَ تَوَفَّىٰهُمُ ٱلْمَلَـٰٓئِكَةُ ظَالِمِىٓ أَنفُسِهِمْ قَالُوا۟ فِيمَ كُنتُمْ ۖ قَالُوا۟ كُنَّا مُسْتَضْعَفِينَ فِى ٱلْأَرْضِ ۚ قَالُوٓا۟ أَلَمْ تَكُنْ أَرْضُ ٱللَّهِ وَٰسِعَةً فَتُهَاجِرُوا۟ فِيهَا ۚ فَأُو۟لَـٰٓئِكَ مَأْوَىٰهُمْ جَهَنَّمُ ۖ وَسَآءَتْ مَصِيرًا",
+            "page_number": 94,
+            "juz_number": 5,
+            "translations": [
+                {
+                    "id": 100197,
+                    "resource_id": 20,
+                    "text": "Indeed, those whom the angels take [in death] while wronging themselves<sup foot_note=196138>1</sup> - [the angels] will say, \"In what [condition] were you?\" They will say, \"We were oppressed in the land.\" They [the angels] will say, \"Was not the earth of Allāh spacious [enough] for you to emigrate therein?\" For those, their refuge is Hell - and evil it is as a destination."
+                },
+                {
+                    "id": 218122,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya orang-orang yang diambil nyawanya oleh malaikat semasa mereka sedang menganiaya diri sendiri (kerana enggan berhijrah untuk membela Islam dan rela ditindas oleh kaum kafir musyrik), mereka ditanya oleh malaikat dengan berkata: \"Apakah yang kamu telah lakukan mengenai ugama kamu?\" Mereka menjawab: \"Kami dahulu adalah orang-orang yang tertindas di bumi\". Malaikat bertanya lagi: \"Tidakkah bumi Allah itu luas, yang membolehkan kamu berhijrah dengan bebas padanya?\" Maka orang-orang yang sedemikian itu keadaannya, tempat akhir mereka ialah neraka jahanam, dan neraka jahanam itu adalah seburuk-buruk tempat kembali."
+                },
+                {
+                    "id": 1091567,
+                    "resource_id": 161,
+                    "text": "যারা নিজেদের আত্মার উপর যুলম করেছিল এমন লোকেদের প্রাণ হরণের সময় ফেরেশতারা তাদেরকে জিজ্ঞেস করে- ‘তোমরা কোন্ কাজে নিমজ্জিত ছিলে’? তারা বলে, ‘দুনিয়ায় আমরা দুর্বল ক্ষমতাহীন ছিলাম’, ফেরেশতারা বলে, ‘আল্লাহর যমীন কি প্রশস্ত ছিল না যাতে তোমরা হিজরাত করতে’? সুতরাং তাদের আবাসস্থল হবে জাহান্নাম এবং তা কতই না নিকৃষ্ট প্রত্যাবর্তন স্থান!"
+                }
+            ]
+        },
+        {
+            "id": 591,
+            "verse_number": 98,
+            "verse_key": "4:98",
+            "hizb_number": 10,
+            "rub_el_hizb_number": 37,
+            "ruku_number": 75,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "إِلَّا ٱلْمُسْتَضْعَفِينَ مِنَ ٱلرِّجَالِ وَٱلنِّسَآءِ وَٱلْوِلْدَٰنِ لَا يَسْتَطِيعُونَ حِيلَةً وَلَا يَهْتَدُونَ سَبِيلًا",
+            "page_number": 94,
+            "juz_number": 5,
+            "translations": [
+                {
+                    "id": 100199,
+                    "resource_id": 20,
+                    "text": "Except for the oppressed among men, women, and children who cannot devise a plan nor are they directed to a way<sup foot_note=196139>1</sup> -"
+                },
+                {
+                    "id": 218125,
+                    "resource_id": 39,
+                    "text": "Kecuali orang-orang yang lemah (lagi uzur) dari kaum lelaki dan perempuan serta kanak-kanak, yang tidak berdaya upaya mencari helah (untuk melepaskan diri) dan tidak pula mengetahui sesuatu jalan (untuk berhijrah)."
+                },
+                {
+                    "id": 1091568,
+                    "resource_id": 161,
+                    "text": "কিন্তু যে সকল সহায়হীন পুরুষ, নারী ও বালক যারা উপায় বের করতে পারে না আর তারা পথও পায় না,"
+                }
+            ]
+        },
+        {
+            "id": 592,
+            "verse_number": 99,
+            "verse_key": "4:99",
+            "hizb_number": 10,
+            "rub_el_hizb_number": 37,
+            "ruku_number": 75,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "فَأُو۟لَـٰٓئِكَ عَسَى ٱللَّهُ أَن يَعْفُوَ عَنْهُمْ ۚ وَكَانَ ٱللَّهُ عَفُوًّا غَفُورًا",
+            "page_number": 94,
+            "juz_number": 5,
+            "translations": [
+                {
+                    "id": 100201,
+                    "resource_id": 20,
+                    "text": "For those it is expected that Allāh will pardon them, and Allāh is ever Pardoning<sup foot_note=196140>1</sup> and Forgiving."
+                },
+                {
+                    "id": 218161,
+                    "resource_id": 39,
+                    "text": "Maka mereka (yang demikian sifatnya), mudah-mudahan Allah maafkan mereka. Dan (ingatlah), Allah Maha Pemaaf, lagi Maha Pengampun."
+                },
+                {
+                    "id": 1091569,
+                    "resource_id": 161,
+                    "text": "আশা আছে যে, আল্লাহ তাদেরকে ক্ষমা করবেন এবং আল্লাহ গুনাহ মোচনকারী, বড়ই ক্ষমাশীল।"
+                }
+            ]
+        },
+        {
+            "id": 593,
+            "verse_number": 100,
+            "verse_key": "4:100",
+            "hizb_number": 10,
+            "rub_el_hizb_number": 38,
+            "ruku_number": 75,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "۞ وَمَن يُهَاجِرْ فِى سَبِيلِ ٱللَّهِ يَجِدْ فِى ٱلْأَرْضِ مُرَٰغَمًا كَثِيرًا وَسَعَةً ۚ وَمَن يَخْرُجْ مِنۢ بَيْتِهِۦ مُهَاجِرًا إِلَى ٱللَّهِ وَرَسُولِهِۦ ثُمَّ يُدْرِكْهُ ٱلْمَوْتُ فَقَدْ وَقَعَ أَجْرُهُۥ عَلَى ٱللَّهِ ۗ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا",
+            "page_number": 94,
+            "juz_number": 5,
+            "translations": [
+                {
+                    "id": 99617,
+                    "resource_id": 20,
+                    "text": "And whoever emigrates for the cause of Allāh will find on the earth many [alternative] locations and abundance. And whoever leaves his home as an emigrant to Allāh and His Messenger and then death overtakes him - his reward has already become incumbent upon Allāh. And Allāh is ever Forgiving and Merciful."
+                },
+                {
+                    "id": 217470,
+                    "resource_id": 39,
+                    "text": "Dan sesiapa yang berhijrah pada jalan Allah (untuk membela dan menegakkan Islam), nescaya ia akan dapati di muka bumi ini tempat berhijrah yang banyak dan rezeki yang makmur; dan sesiapa yang keluar dari rumahnya dengan tujuan berhijrah kepada Allah dan RasulNya, kemudian ia mati (dalam perjalanan), maka sesungguhnya telah tetap pahala hijrahnya di sisi Allah. Dan (ingatlah) Allah Maha Pengampun, lagi Maha Mengasihani."
+                },
+                {
+                    "id": 1091570,
+                    "resource_id": 161,
+                    "text": "যে ব্যক্তি আল্লাহর পথে হিজরাত করবে, সে পৃথিবীতে বহু আশ্রয়স্থল এবং প্রাচুর্য প্রাপ্ত হবে; এবং যে ব্যক্তি নিজের গৃহ হতে আল্লাহ ও তাঁর রসূলের দিকে হিজরাত করে বের হয়, অতঃপর মৃত্যু তাকে পেয়ে বসে তার সাওয়াব আল্লাহর জিম্মায় সাব্যস্ত হয়ে গেছে এবং আল্লাহ অতি ক্ষমাশীল, পরম দয়ালু।"
+                }
+            ]
+        },
+        {
+            "id": 594,
+            "verse_number": 101,
+            "verse_key": "4:101",
+            "hizb_number": 10,
+            "rub_el_hizb_number": 38,
+            "ruku_number": 76,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا ضَرَبْتُمْ فِى ٱلْأَرْضِ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَقْصُرُوا۟ مِنَ ٱلصَّلَوٰةِ إِنْ خِفْتُمْ أَن يَفْتِنَكُمُ ٱلَّذِينَ كَفَرُوٓا۟ ۚ إِنَّ ٱلْكَـٰفِرِينَ كَانُوا۟ لَكُمْ عَدُوًّا مُّبِينًا",
+            "page_number": 94,
+            "juz_number": 5,
+            "translations": [
+                {
+                    "id": 99618,
+                    "resource_id": 20,
+                    "text": "And when you travel throughout the land, there is no blame upon you for shortening the prayer,<sup foot_note=196142>1</sup> [especially] if you fear that those who disbelieve may disrupt [or attack] you.<sup foot_note=196141>2</sup> Indeed, the disbelievers are ever to you a clear enemy."
+                },
+                {
+                    "id": 217471,
+                    "resource_id": 39,
+                    "text": "Dan apabila kamu musafir di muka bumi, maka kamu tidaklah berdosa \"mengqasarkan\" (memendekkan) sembahyang jika kamu takut diserang oleh orang-orang kafir. Sesungguhnya orang-orang kafir itu adalah musuh yang amat nyata bagi kamu."
+                },
+                {
+                    "id": 1091571,
+                    "resource_id": 161,
+                    "text": "যখন তোমরা দেশে-বিদেশে সফর কর, তখন নামায কসর করাতে তোমাদের কিছুমাত্র দোষ নেই, যদি তোমরা ভয় কর যে, কাফিরগণ তোমাদেরকে বিপদগ্রস্ত করবে। নিঃসন্দেহে কাফিরগণ তো তোমাদের প্রকাশ্য শত্রু।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 7,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 7
+    }
+}

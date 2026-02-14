@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 1726,
+            "verse_number": 19,
+            "verse_key": "13:19",
+            "hizb_number": 26,
+            "rub_el_hizb_number": 101,
+            "ruku_number": 207,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "۞ أَفَمَن يَعْلَمُ أَنَّمَآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ ٱلْحَقُّ كَمَنْ هُوَ أَعْمَىٰٓ ۚ إِنَّمَا يَتَذَكَّرُ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ",
+            "page_number": 252,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96620,
+                    "resource_id": 20,
+                    "text": "Then is he who knows that what has been revealed to you from your Lord is the truth like one who is blind? They will only be reminded who are people of understanding -"
+                },
+                {
+                    "id": 220581,
+                    "resource_id": 39,
+                    "text": "Maka adakah orang yang mengetahui bahawa Al-Quran yang diturunkan kepadamu dari Tuhanmu itu (wahai Muhammad) perkara yang benar, sama dengan orang yang buta matahatinya? Sesungguhnya orang-orang yang mahu memikirkan hal itu hanyalah orang-orang yang berakal sempurna."
+                },
+                {
+                    "id": 1092703,
+                    "resource_id": 161,
+                    "text": "যে ব্যক্তি জানে যে, তোমার প্রতিপালকের নিকট থেকে তোমার প্রতি যা অবতীর্ণ হয়েছে তা সত্য, সে কি ঐ ব্যক্তির সমান যে অন্ধ? বুদ্ধিমান লোকেরাই উপদেশ গ্রহণ করে থাকে"
+                }
+            ]
+        },
+        {
+            "id": 1727,
+            "verse_number": 20,
+            "verse_key": "13:20",
+            "hizb_number": 26,
+            "rub_el_hizb_number": 101,
+            "ruku_number": 207,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِينَ يُوفُونَ بِعَهْدِ ٱللَّهِ وَلَا يَنقُضُونَ ٱلْمِيثَـٰقَ",
+            "page_number": 252,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96622,
+                    "resource_id": 20,
+                    "text": "Those who fulfill the covenant of Allāh and do not break the contract,"
+                },
+                {
+                    "id": 220578,
+                    "resource_id": 39,
+                    "text": "Orang-orang yang menyempurnakan perjanjian Allah dan tidak merombak (mencabuli) perjanjian yang telah diperteguhkan itu; -"
+                },
+                {
+                    "id": 1092704,
+                    "resource_id": 161,
+                    "text": "যারা আল্লাহকে দেয়া তাদের ও‘য়াদা রক্ষা করে আর প্রতিশ্রুতি ভঙ্গ করে না।"
+                }
+            ]
+        },
+        {
+            "id": 1728,
+            "verse_number": 21,
+            "verse_key": "13:21",
+            "hizb_number": 26,
+            "rub_el_hizb_number": 101,
+            "ruku_number": 207,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّذِينَ يَصِلُونَ مَآ أَمَرَ ٱللَّهُ بِهِۦٓ أَن يُوصَلَ وَيَخْشَوْنَ رَبَّهُمْ وَيَخَافُونَ سُوٓءَ ٱلْحِسَابِ",
+            "page_number": 252,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96623,
+                    "resource_id": 20,
+                    "text": "And those who join that which Allāh has ordered to be joined<sup foot_note=196554>1</sup> and fear their Lord and are afraid of the evil of [their] account,"
+                },
+                {
+                    "id": 220576,
+                    "resource_id": 39,
+                    "text": "Dan orang-orang yang menghubungkan perkara-perkara yang disuruh oleh Allah supaya dihubungkan, dan yang menaruh bimbang akan kemurkaan Tuhan mereka, serta takut kepada kesukaran yang akan dihadapi semasa soaljawab dan hitungan amal (pada hari kiamat); -"
+                },
+                {
+                    "id": 1092705,
+                    "resource_id": 161,
+                    "text": "তারা সে সব সম্পর্ক সম্বন্ধ বহাল রাখে যা বহাল রাখার জন্য আল্লাহ নির্দেশ দিয়েছেন। তারা তাদের প্রতিপালককে ভয় করে এবং ভয়াবহ হিসাব নিকাশকে ভয় পায়।"
+                }
+            ]
+        },
+        {
+            "id": 1729,
+            "verse_number": 22,
+            "verse_key": "13:22",
+            "hizb_number": 26,
+            "rub_el_hizb_number": 101,
+            "ruku_number": 207,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّذِينَ صَبَرُوا۟ ٱبْتِغَآءَ وَجْهِ رَبِّهِمْ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَنفَقُوا۟ مِمَّا رَزَقْنَـٰهُمْ سِرًّا وَعَلَانِيَةً وَيَدْرَءُونَ بِٱلْحَسَنَةِ ٱلسَّيِّئَةَ أُو۟لَـٰٓئِكَ لَهُمْ عُقْبَى ٱلدَّارِ",
+            "page_number": 252,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96624,
+                    "resource_id": 20,
+                    "text": "And those who are patient, seeking the face [i.e., acceptance] of their Lord, and establish prayer and spend from what We have provided for them secretly and publicly and prevent evil with good - those will have the good consequence of [this] home<sup foot_note=196555>1</sup> -"
+                },
+                {
+                    "id": 220570,
+                    "resource_id": 39,
+                    "text": "Dan orang-orang yang sabar kerana mengharapkan keredaan Tuhan mereka semata-mata, dan mendirikan sembahyang, serta mendermakan dari apa yang Kami kurniakan kepada mereka, secara bersembunyi atau secara terbuka; dan mereka pula menolak kejahatan dengan cara yang baik; mereka itu semuanya adalah disediakan baginya balasan yang sebaik-baiknya pada hari akhirat; -"
+                },
+                {
+                    "id": 1092706,
+                    "resource_id": 161,
+                    "text": "তারা তাদের প্রতিপালকের চেহারা (সন্তুষ্টি) কামনায় ধৈর্য ধারণ করে, নামায প্রতিষ্ঠা করে, আর আমি তাদেরকে যে জীবিকা দিয়েছি তাত্থেকে গোপনে ও প্রকাশ্যে ব্যয় করে। তারা অন্যায়কে ন্যায় দ্বারা প্রতিরোধ করে। পরকালের ঘর প্রাপ্তি এদের জন্যই নির্দিষ্ট।"
+                }
+            ]
+        },
+        {
+            "id": 1730,
+            "verse_number": 23,
+            "verse_key": "13:23",
+            "hizb_number": 26,
+            "rub_el_hizb_number": 101,
+            "ruku_number": 207,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "جَنَّـٰتُ عَدْنٍ يَدْخُلُونَهَا وَمَن صَلَحَ مِنْ ءَابَآئِهِمْ وَأَزْوَٰجِهِمْ وَذُرِّيَّـٰتِهِمْ ۖ وَٱلْمَلَـٰٓئِكَةُ يَدْخُلُونَ عَلَيْهِم مِّن كُلِّ بَابٍ",
+            "page_number": 252,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96625,
+                    "resource_id": 20,
+                    "text": "Gardens of perpetual residence; they will enter them with whoever were righteous among their forefathers, their spouses and their descendants. And the angels will enter upon them from every gate, [saying],"
+                },
+                {
+                    "id": 220585,
+                    "resource_id": 39,
+                    "text": "Iaitu Syurga yang kekal yang mereka akan memasukinya bersama-sama orang-orang yang mengerjakan amal soleh dari ibu bapa mereka dan isteri-isteri mereka serta anak-anak mereka; sedang malaikat-malaikat pula akan masuk kepada mereka dari tiap-tiap pintu; -"
+                },
+                {
+                    "id": 1092707,
+                    "resource_id": 161,
+                    "text": "তা হল স্থায়ী জান্নাত, তাতে তারা প্রবেশ করবে। আর তাদের পিতৃ পুরুষ, স্বামী-স্ত্রী ও সন্তানাদির মধ্যে যারা সৎকর্ম করেছে তারাও। আর ফেরেশতারা সকল দরজা দিয়ে তাদের কাছে হাজির হয়ে সংবর্ধনা জানাবে (এই বলে যে)-"
+                }
+            ]
+        },
+        {
+            "id": 1731,
+            "verse_number": 24,
+            "verse_key": "13:24",
+            "hizb_number": 26,
+            "rub_el_hizb_number": 101,
+            "ruku_number": 207,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "سَلَـٰمٌ عَلَيْكُم بِمَا صَبَرْتُمْ ۚ فَنِعْمَ عُقْبَى ٱلدَّارِ",
+            "page_number": 252,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96626,
+                    "resource_id": 20,
+                    "text": "\"Peace [i.e., security] be upon you for what you patiently endured. And excellent is the final home.\""
+                },
+                {
+                    "id": 220584,
+                    "resource_id": 39,
+                    "text": "(Memberi hormat dengan berkata): \"Selamat sejahteralah kamu berpanjangan, disebabkan kesabaran kamu. Maka amatlah baiknya balasan amal kamu di dunia dahulu."
+                },
+                {
+                    "id": 1092708,
+                    "resource_id": 161,
+                    "text": "‘‘তোমাদের প্রতি শান্তি বর্ষিত হোক, কারণ তোমরা ধৈর্যধারণ করেছিলে। কতই না উত্তম পরকালের এই ঘর!’’"
+                }
+            ]
+        },
+        {
+            "id": 1732,
+            "verse_number": 25,
+            "verse_key": "13:25",
+            "hizb_number": 26,
+            "rub_el_hizb_number": 101,
+            "ruku_number": 207,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّذِينَ يَنقُضُونَ عَهْدَ ٱللَّهِ مِنۢ بَعْدِ مِيثَـٰقِهِۦ وَيَقْطَعُونَ مَآ أَمَرَ ٱللَّهُ بِهِۦٓ أَن يُوصَلَ وَيُفْسِدُونَ فِى ٱلْأَرْضِ ۙ أُو۟لَـٰٓئِكَ لَهُمُ ٱللَّعْنَةُ وَلَهُمْ سُوٓءُ ٱلدَّارِ",
+            "page_number": 252,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96627,
+                    "resource_id": 20,
+                    "text": "But those who break the covenant of Allāh after contracting it and sever that which Allāh has ordered to be joined and spread corruption on earth - for them is the curse, and they will have the worst home.<sup foot_note=196556>1</sup>"
+                },
+                {
+                    "id": 220587,
+                    "resource_id": 39,
+                    "text": "Dan (sebaliknya) orang-orang yang merombak (mencabuli) perjanjian Allah sesudah diperteguhkannya dan memutuskan perkara-perkara yang disuruh oleh Allah supaya dihubungkan, serta mereka pula membuat kerosakan dan bencana di muka bumi, - mereka itu beroleh laknat, dan mereka pula beroleh balasan hari akhirat yang seburuk-buruknya."
+                },
+                {
+                    "id": 1092709,
+                    "resource_id": 161,
+                    "text": "আর যারা আল্লাহর সাথে শক্ত ও‘য়াদা করার পর তা ভঙ্গ করে, আল্লাহ যা বহাল রাখার নির্দেশ দিয়েছেন তা ছিন্ন করে, আর যমীনে অশান্তি সৃষ্টি করে, তাদের প্রতি অভিশাপ, তাদের জন্য আছে অতিশয় মন্দ আবাসস্থল।"
+                }
+            ]
+        },
+        {
+            "id": 1733,
+            "verse_number": 26,
+            "verse_key": "13:26",
+            "hizb_number": 26,
+            "rub_el_hizb_number": 101,
+            "ruku_number": 207,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "ٱللَّهُ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ وَفَرِحُوا۟ بِٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَا فِى ٱلْـَٔاخِرَةِ إِلَّا مَتَـٰعٌ",
+            "page_number": 252,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96628,
+                    "resource_id": 20,
+                    "text": "Allāh extends provision for whom He wills and restricts [it]. And they rejoice in the worldly life, while the worldly life is not, compared to the Hereafter, except [brief] enjoyment."
+                },
+                {
+                    "id": 220589,
+                    "resource_id": 39,
+                    "text": "Allah memewahkan rezeki bagi sesiapa yang dikehendakiNya, dan Ia juga yang menyempitkannya. Dan mereka (yang ingkar): bergembira dengan kehidupan dunia, sedang kehidupan dunia itu tidak lain, hanyalah kesenangan yang kecil dan tidak, kekal berbanding dengan kesenangan hari akhirat."
+                },
+                {
+                    "id": 1092710,
+                    "resource_id": 161,
+                    "text": "আল্লাহ রিযক সম্প্রসারিত করেন যার জন্য ইচ্ছে করেন, আর যার জন্য চান সীমিত পরিমাণে দেন। তারা পার্থিব জীবনে আনন্দে মেতে আছে অথচ আখেরাতের তুলনায় দুনিয়ার জীবন অতি নগণ্য বস্তু।"
+                }
+            ]
+        },
+        {
+            "id": 1734,
+            "verse_number": 27,
+            "verse_key": "13:27",
+            "hizb_number": 26,
+            "rub_el_hizb_number": 101,
+            "ruku_number": 208,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَيَقُولُ ٱلَّذِينَ كَفَرُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ ءَايَةٌ مِّن رَّبِّهِۦ ۗ قُلْ إِنَّ ٱللَّهَ يُضِلُّ مَن يَشَآءُ وَيَهْدِىٓ إِلَيْهِ مَنْ أَنَابَ",
+            "page_number": 252,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96629,
+                    "resource_id": 20,
+                    "text": "And those who disbelieved say, \"Why has a sign not been sent down to him from his Lord?\" Say, [O Muḥammad], \"Indeed, Allāh leaves astray whom He wills and guides to Himself whoever turns back [to Him] -"
+                },
+                {
+                    "id": 220590,
+                    "resource_id": 39,
+                    "text": "Dan orang-orang yang kafir berkata: \"Mengapa tidak diturunkan kepada (Muhammad) satu mukjizat dari Tuhannya? \"Katakanlah (wahai Muhammad): \"Sesungguhnya Allah menyesatkan sesiapa yang dikehendakiNya (menurut undang-undang peraturanNya), dan memberi petunjuk ke jalan ugamanya, sesiapa yang rujuk kepadaNya, -"
+                },
+                {
+                    "id": 1092711,
+                    "resource_id": 161,
+                    "text": "সত্য প্রত্যাখ্যানকারীরা বলে, ‘তার কাছে তার প্রতিপালকের নিকট হতে কোন নিদর্শন অবতীর্ণ হয় না কেন?’ বল, ‘আল্লাহ যাকে ইচ্ছে গুমরাহ করেন, আর যে তাঁর অভিমুখী তাকে সত্য পথে পরিচালিত করেন।’"
+                }
+            ]
+        },
+        {
+            "id": 1735,
+            "verse_number": 28,
+            "verse_key": "13:28",
+            "hizb_number": 26,
+            "rub_el_hizb_number": 101,
+            "ruku_number": 208,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِينَ ءَامَنُوا۟ وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ ٱللَّهِ ۗ أَلَا بِذِكْرِ ٱللَّهِ تَطْمَئِنُّ ٱلْقُلُوبُ",
+            "page_number": 252,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96630,
+                    "resource_id": 20,
+                    "text": "Those who have believed and whose hearts are assured by the remembrance of Allāh. Unquestionably, by the remembrance of Allāh hearts are assured.\""
+                },
+                {
+                    "id": 220588,
+                    "resource_id": 39,
+                    "text": "\"(Iaitu) orang-orang yang beriman dan tenang tenteram hati mereka dengan zikrullah\". Ketahuilah dengan \"zikrullah\" itu, tenang tenteramlah hati manusia."
+                },
+                {
+                    "id": 1092712,
+                    "resource_id": 161,
+                    "text": "তারাই ঈমান আনে এবং আল্লাহর স্মরণে তাদের অন্তর প্রশান্তি লাভ করে। জেনে রেখ, আল্লাহর স্মরণের মাধ্যমেই দিলের সত্যিকারের প্রশান্তি লাভ করা যায়।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 10
+    }
+}

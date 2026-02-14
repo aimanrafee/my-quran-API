@@ -1,0 +1,131 @@
+{
+    "verses": [
+        {
+            "id": 6222,
+            "verse_number": 1,
+            "verse_key": "112:1",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 556,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+            "page_number": 604,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96391,
+                    "resource_id": 20,
+                    "text": "Say, \"He is Allāh, [who is] One,<sup foot_note=197829>1</sup>"
+                },
+                {
+                    "id": 220349,
+                    "resource_id": 39,
+                    "text": "Katakanlah (wahai Muhammad): \"(Tuhanku) ialah Allah Yang Maha Esa;"
+                },
+                {
+                    "id": 1097199,
+                    "resource_id": 161,
+                    "text": "বল, তিনি আল্লাহ, এক অদ্বিতীয়,"
+                }
+            ]
+        },
+        {
+            "id": 6223,
+            "verse_number": 2,
+            "verse_key": "112:2",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 556,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ٱللَّهُ ٱلصَّمَدُ",
+            "page_number": 604,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96393,
+                    "resource_id": 20,
+                    "text": "Allāh, the Eternal Refuge.<sup foot_note=197830>1</sup>"
+                },
+                {
+                    "id": 220348,
+                    "resource_id": 39,
+                    "text": "\"Allah Yang menjadi tumpuan sekalian makhluk untuk memohon sebarang hajat;"
+                },
+                {
+                    "id": 1097200,
+                    "resource_id": 161,
+                    "text": "আল্লাহ কোন কিছুর মুখাপেক্ষী নন, সবই তাঁর মুখাপেক্ষী,"
+                }
+            ]
+        },
+        {
+            "id": 6224,
+            "verse_number": 3,
+            "verse_key": "112:3",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 556,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+            "page_number": 604,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96395,
+                    "resource_id": 20,
+                    "text": "He neither begets nor is born,"
+                },
+                {
+                    "id": 214969,
+                    "resource_id": 39,
+                    "text": "\"Ia tiada beranak, dan Ia pula tidak diperanakkan;"
+                },
+                {
+                    "id": 1097201,
+                    "resource_id": 161,
+                    "text": "তিনি কাউকে জন্ম দেন না, আর তাঁকেও জন্ম দেয়া হয়নি।"
+                }
+            ]
+        },
+        {
+            "id": 6225,
+            "verse_number": 4,
+            "verse_key": "112:4",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 556,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+            "page_number": 604,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96397,
+                    "resource_id": 20,
+                    "text": "Nor is there to Him any equivalent.\""
+                },
+                {
+                    "id": 220427,
+                    "resource_id": 39,
+                    "text": "\"Dan tidak ada sesiapapun yang serupa denganNya\"."
+                },
+                {
+                    "id": 1097202,
+                    "resource_id": 161,
+                    "text": "তাঁর সমকক্ষ কেউ নয়।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 4
+    }
+}

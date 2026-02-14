@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 798,
+            "verse_number": 9,
+            "verse_key": "6:9",
+            "hizb_number": 13,
+            "rub_el_hizb_number": 51,
+            "ruku_number": 102,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَوْ جَعَلْنَـٰهُ مَلَكًا لَّجَعَلْنَـٰهُ رَجُلًا وَلَلَبَسْنَا عَلَيْهِم مَّا يَلْبِسُونَ",
+            "page_number": 129,
+            "juz_number": 7,
+            "translations": [
+                {
+                    "id": 101159,
+                    "resource_id": 20,
+                    "text": "And if We had made him [i.e., the messenger] an angel, We would have made him [appear as] a man, and We would have covered them with that in which they cover themselves [i.e., confusion and doubt]."
+                },
+                {
+                    "id": 219000,
+                    "resource_id": 39,
+                    "text": "Dan kalau (Rasul) itu Kami jadikan malaikat, tentulah Kami jadikan dia berupa seorang lelaki (supaya mereka dapat melihatnya), dan tentulah Kami (dengan yang demikian) menyebabkan mereka kesamaran sebagaimana mereka sengaja membuat-buat kesamaran (tentang kebenaran Nabi Muhammad s.a.w)."
+                },
+                {
+                    "id": 1091775,
+                    "resource_id": 161,
+                    "text": "আর আমি যদি তাকে ফেরেশতা করতাম তবে তাকে মানুষের আকৃতি বিশিষ্টই করতাম, আর তাদেরকে অবশ্যই গোলকধাঁধায় ফেলে দিতাম যেমন ধাঁধাঁয় তারা এখন পড়েছে।"
+                }
+            ]
+        },
+        {
+            "id": 799,
+            "verse_number": 10,
+            "verse_key": "6:10",
+            "hizb_number": 13,
+            "rub_el_hizb_number": 51,
+            "ruku_number": 102,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ فَحَاقَ بِٱلَّذِينَ سَخِرُوا۟ مِنْهُم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+            "page_number": 129,
+            "juz_number": 7,
+            "translations": [
+                {
+                    "id": 100846,
+                    "resource_id": 20,
+                    "text": "And already were messengers ridiculed before you, but those who mocked them were enveloped by that which they used to ridicule."
+                },
+                {
+                    "id": 218700,
+                    "resource_id": 39,
+                    "text": "Dan demi sesungguhnya! Telah diperolok-olok beberapa Rasul sebelummu, lalu orang-orang yang mengejek-ejek di antara mereka ditimpakan (balasan azab) bagi apa yang mereka telah perolok-olokkan itu."
+                },
+                {
+                    "id": 1091776,
+                    "resource_id": 161,
+                    "text": "তোমার পূর্বেও রসূলদেরকে ঠাট্টা-বিদ্রূপ করা হয়েছে, অতঃপর যা নিয়ে তারা ঠাট্টা-বিদ্রূপ করত তাই তাদেরকে পরিবেষ্টন করে ফেলল।"
+                }
+            ]
+        },
+        {
+            "id": 800,
+            "verse_number": 11,
+            "verse_key": "6:11",
+            "hizb_number": 13,
+            "rub_el_hizb_number": 51,
+            "ruku_number": 103,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "قُلْ سِيرُوا۟ فِى ٱلْأَرْضِ ثُمَّ ٱنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُكَذِّبِينَ",
+            "page_number": 129,
+            "juz_number": 7,
+            "translations": [
+                {
+                    "id": 100857,
+                    "resource_id": 20,
+                    "text": "Say, \"Travel through the land; then observe how was the end of the deniers.\""
+                },
+                {
+                    "id": 218711,
+                    "resource_id": 39,
+                    "text": "Katakanlah (wahai Muhammad): \"Mengembaralah kamu di muka bumi, kemudian perhatikanlah bagaimana akibat buruk (yang menimpa) orang-orang yang mendustakan (Rasul-rasul) itu.\""
+                },
+                {
+                    "id": 1091777,
+                    "resource_id": 161,
+                    "text": "বল, দুনিয়ায় পরিভ্রমণ কর, অতঃপর দেখ সত্য প্রত্যাখ্যানকারীদের পরিণাম কী দাঁড়িয়েছিল।"
+                }
+            ]
+        },
+        {
+            "id": 801,
+            "verse_number": 12,
+            "verse_key": "6:12",
+            "hizb_number": 13,
+            "rub_el_hizb_number": 51,
+            "ruku_number": 103,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "قُل لِّمَن مَّا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ قُل لِّلَّهِ ۚ كَتَبَ عَلَىٰ نَفْسِهِ ٱلرَّحْمَةَ ۚ لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَا رَيْبَ فِيهِ ۚ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ فَهُمْ لَا يُؤْمِنُونَ",
+            "page_number": 129,
+            "juz_number": 7,
+            "translations": [
+                {
+                    "id": 100876,
+                    "resource_id": 20,
+                    "text": "Say, \"To whom belongs whatever is in the heavens and earth?\" Say, \"To Allāh.\" He has decreed upon Himself mercy. He will surely assemble you for the Day of Resurrection, about which there is no doubt. Those who will lose themselves [that Day] do not believe."
+                },
+                {
+                    "id": 218728,
+                    "resource_id": 39,
+                    "text": "Bertanyalah (wahai muhammad): \"Hak milik siapakah segala yang ada di langit dan di bumi?\" Katakanlah: \"(Semuanya itu) adalah milik Allah. Ia telah menetapkan atas diriNya memberi rahmat. Demi sesungguhnya Ia akan menghimpunkan kamu pada hari kiamat yang tidak ada sebarang syak padanya\". Orang-orang yang merugikan diri sendiri (dangan mensia-siakan pengurniaan Allah), maka mereka (dengan sebab yang tersebut) tidak beriman."
+                },
+                {
+                    "id": 1091778,
+                    "resource_id": 161,
+                    "text": "বল, আসমানে আর যমীনে যা আছে তা কার? বল, আল্লাহরই। দয়া করা তিনি তাঁর জন্য কর্তব্য স্থির করে নিয়েছেন, তিনি কিয়ামাত দিবসে তোমাদের সবাইকে একত্রিত করবেন, এতে কোন সন্দেহ নেই। যারা নিজেরাই নিজেদের ক্ষতি করেছে তারা ঈমান আনবে না।"
+                }
+            ]
+        },
+        {
+            "id": 802,
+            "verse_number": 13,
+            "verse_key": "6:13",
+            "hizb_number": 13,
+            "rub_el_hizb_number": 52,
+            "ruku_number": 103,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "۞ وَلَهُۥ مَا سَكَنَ فِى ٱلَّيْلِ وَٱلنَّهَارِ ۚ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+            "page_number": 129,
+            "juz_number": 7,
+            "translations": [
+                {
+                    "id": 100888,
+                    "resource_id": 20,
+                    "text": "And to Him belongs that which reposes by night and by day, and He is the Hearing, the Knowing."
+                },
+                {
+                    "id": 218739,
+                    "resource_id": 39,
+                    "text": "Dan bagi Allah jualah apa yang ada pada waktu malam dan siang; dan Dia lah Yang Maha Mendengar, lagi Maha Mengetahui."
+                },
+                {
+                    "id": 1091779,
+                    "resource_id": 161,
+                    "text": "রাতে (অন্ধকারে) আর দিনে (আলোয়) যা বাস করে তা তাঁরই, তিনি হলেন সর্বশ্রোতা, সর্বজ্ঞ।"
+                }
+            ]
+        },
+        {
+            "id": 803,
+            "verse_number": 14,
+            "verse_key": "6:14",
+            "hizb_number": 13,
+            "rub_el_hizb_number": 52,
+            "ruku_number": 103,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "قُلْ أَغَيْرَ ٱللَّهِ أَتَّخِذُ وَلِيًّا فَاطِرِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَهُوَ يُطْعِمُ وَلَا يُطْعَمُ ۗ قُلْ إِنِّىٓ أُمِرْتُ أَنْ أَكُونَ أَوَّلَ مَنْ أَسْلَمَ ۖ وَلَا تَكُونَنَّ مِنَ ٱلْمُشْرِكِينَ",
+            "page_number": 129,
+            "juz_number": 7,
+            "translations": [
+                {
+                    "id": 100900,
+                    "resource_id": 20,
+                    "text": "Say, \"Is it other than Allāh I should take as a protector, Creator of the heavens and earth, while it is He who feeds and is not fed?\" Say, [O Muḥammad], \"Indeed, I have been commanded to be the first [among you] who submit [to Allāh] and [was commanded], 'Do not ever be of the polytheists.\""
+                },
+                {
+                    "id": 218751,
+                    "resource_id": 39,
+                    "text": "Katakanlah (wahai Muhammad): \"Patutkah aku mengambil (memilih) pelindung yang lain dari Allah yang menciptakan langit dan bumi, dan Ia pula yang memberi makan dan bukan Ia yang diberi makan?\" Katakanlah: \"Sesungguhnya aku diperintahkan supaya menjadi orang yang pertama sekali menyerah diri kepada Allah (Islam), dan (aku diperintahkan dengan firmanNya): `Jangan sekali-kali engkau menjadi dari golongan orang-orang musyrik itu. ' \""
+                },
+                {
+                    "id": 1091780,
+                    "resource_id": 161,
+                    "text": "বল, আমি কি আসমান যমীনের সৃষ্টিকর্তা আল্লাহকে বাদ দিয়ে অন্যকে অভিভাবক বানিয়ে নেব, অথচ তিনিই খাওয়ান, তাঁকে খাওয়ানো হয় না, বল আমাকে আদেশ করা হয়েছে আমি যেন আত্মসমর্পণকারীদের প্রথম হই, আর তুমি কিছুতেই মুশরিকদের মধ্যে শামিল হবে না।"
+                }
+            ]
+        },
+        {
+            "id": 804,
+            "verse_number": 15,
+            "verse_key": "6:15",
+            "hizb_number": 13,
+            "rub_el_hizb_number": 52,
+            "ruku_number": 103,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "قُلْ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍ",
+            "page_number": 129,
+            "juz_number": 7,
+            "translations": [
+                {
+                    "id": 100910,
+                    "resource_id": 20,
+                    "text": "Say, \"Indeed I fear, if I should disobey my Lord, the punishment of a tremendous Day.\""
+                },
+                {
+                    "id": 214893,
+                    "resource_id": 39,
+                    "text": "Katakanlah: \"Sesungguhnya aku takut jika aku derhaka kepada Tuhanku, (akan dikenakan) azab hari yang besar (hari kiamat)\"."
+                },
+                {
+                    "id": 1091781,
+                    "resource_id": 161,
+                    "text": "বল, যদি আমি আমার রবের অবাধ্য হই, তবে আমি বড় (ভয়াবহ) দিনের শাস্তির ভয় করি।"
+                }
+            ]
+        },
+        {
+            "id": 805,
+            "verse_number": 16,
+            "verse_key": "6:16",
+            "hizb_number": 13,
+            "rub_el_hizb_number": 52,
+            "ruku_number": 103,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "مَّن يُصْرَفْ عَنْهُ يَوْمَئِذٍ فَقَدْ رَحِمَهُۥ ۚ وَذَٰلِكَ ٱلْفَوْزُ ٱلْمُبِينُ",
+            "page_number": 129,
+            "juz_number": 7,
+            "translations": [
+                {
+                    "id": 100922,
+                    "resource_id": 20,
+                    "text": "He from whom it is averted that Day - [Allāh] has granted him mercy. And that is the clear attainment."
+                },
+                {
+                    "id": 214895,
+                    "resource_id": 39,
+                    "text": "Sesiapa yang dijauhkan azab daripadanya pada hari itu, maka sesugguhnya Allah telah memberi rahmat kepadanya; dan itulah kejayaan yang jelas nyata."
+                },
+                {
+                    "id": 1091782,
+                    "resource_id": 161,
+                    "text": "সে দিন যাকে (শাস্তি থেকে) রক্ষা করা হবে তাকে তো বড় অনুগ্রহ করা হবে। আর এটাই হবে সুস্পষ্ট সাফল্য।"
+                }
+            ]
+        },
+        {
+            "id": 806,
+            "verse_number": 17,
+            "verse_key": "6:17",
+            "hizb_number": 13,
+            "rub_el_hizb_number": 52,
+            "ruku_number": 103,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِن يَمْسَسْكَ ٱللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُۥٓ إِلَّا هُوَ ۖ وَإِن يَمْسَسْكَ بِخَيْرٍ فَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+            "page_number": 129,
+            "juz_number": 7,
+            "translations": [
+                {
+                    "id": 100931,
+                    "resource_id": 20,
+                    "text": "And if Allāh should touch you with adversity, there is no remover of it except Him. And if He touches you with good - then He is over all things competent."
+                },
+                {
+                    "id": 218783,
+                    "resource_id": 39,
+                    "text": "Dan jika Allah mengenakan (menimpakan) engkau dengan bahaya bencana, maka tidak ada sesiapa pun yang dapat menghapuskannya melainkan Dia sendiri; dan jika Ia mengenakan (melimpahkan) engkau dengan kebaikan, maka Ia adalah Maha Kuasa atas tiap-tiap sesuatu."
+                },
+                {
+                    "id": 1091783,
+                    "resource_id": 161,
+                    "text": "আল্লাহ তোমার কোন ক্ষতি করতে চাইলে তিনি ছাড়া কেউ তা সরাতে পারবে না। আর তিনি যদি তোমার কল্যাণ করতে চান, তবে তো সব কিছুই করার তাঁর ক্ষমতা রয়েছে।"
+                }
+            ]
+        },
+        {
+            "id": 807,
+            "verse_number": 18,
+            "verse_key": "6:18",
+            "hizb_number": 13,
+            "rub_el_hizb_number": 52,
+            "ruku_number": 103,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَهُوَ ٱلْقَاهِرُ فَوْقَ عِبَادِهِۦ ۚ وَهُوَ ٱلْحَكِيمُ ٱلْخَبِيرُ",
+            "page_number": 129,
+            "juz_number": 7,
+            "translations": [
+                {
+                    "id": 100933,
+                    "resource_id": 20,
+                    "text": "And He is the subjugator over His servants. And He is the Wise,<sup foot_note=196221>1</sup> the Aware.<sup foot_note=196220>2</sup>"
+                },
+                {
+                    "id": 218785,
+                    "resource_id": 39,
+                    "text": "Dan Dia lah yang Berkuasa atas sekalian hambaNya (dangan tadbir dan takdir); dan Dia lah Yang Maha Bijaksana serta Amat Mendalam PengetahuanNya."
+                },
+                {
+                    "id": 1091784,
+                    "resource_id": 161,
+                    "text": "তিনি তাঁর বান্দাদের উপর একচ্ছত্র নিয়ন্ত্রণকারী, তিনি হলেন প্রজ্ঞাময়, সর্ববিষয়ে ওয়াকিফহাল।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 10
+    }
+}

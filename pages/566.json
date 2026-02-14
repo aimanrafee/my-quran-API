@@ -1,0 +1,551 @@
+{
+    "verses": [
+        {
+            "id": 5314,
+            "verse_number": 43,
+            "verse_key": "68:43",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 226,
+            "ruku_number": 501,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "خَـٰشِعَةً أَبْصَـٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۖ وَقَدْ كَانُوا۟ يُدْعَوْنَ إِلَى ٱلسُّجُودِ وَهُمْ سَـٰلِمُونَ",
+            "page_number": 566,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101139,
+                    "resource_id": 20,
+                    "text": "Their eyes humbled, humiliation will cover them. And they used to be invited to prostration while they were sound.<sup foot_note=197595>1</sup>"
+                },
+                {
+                    "id": 218980,
+                    "resource_id": 39,
+                    "text": "Sambil pandangan mereka tunduk malu, serta mereka diliputi kehinaan; dan sesungguhnya mereka (di dunia) dahulu telahpun diseru supaya sujud (tetapi mereka enggan) sedang mereka dalam keadaan sihat."
+                },
+                {
+                    "id": 1096291,
+                    "resource_id": 161,
+                    "text": "তাদের দৃষ্টি হবে অবনত, অপমান লাঞ্ছনা তাদের উপর চেপে বসবে। (দুনিয়াতে) তারা যখন সুস্থ ও নিরাপদ ছিল তখনও তাদেরকে সেজদা করার জন্য ডাকা হত (কিন্তু তারা সেজদা করত না)"
+                }
+            ]
+        },
+        {
+            "id": 5315,
+            "verse_number": 44,
+            "verse_key": "68:44",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 226,
+            "ruku_number": 501,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَذَرْنِى وَمَن يُكَذِّبُ بِهَـٰذَا ٱلْحَدِيثِ ۖ سَنَسْتَدْرِجُهُم مِّنْ حَيْثُ لَا يَعْلَمُونَ",
+            "page_number": 566,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101140,
+                    "resource_id": 20,
+                    "text": "So leave Me, [O Muḥammad], with [the matter of] whoever denies this statement [i.e., the Qur’ān]. We will progressively lead them [to punishment] from where they do not know.<sup foot_note=197596>1</sup>"
+                },
+                {
+                    "id": 218981,
+                    "resource_id": 39,
+                    "text": "Biarkanlah Aku sahaja (wahai Muhammad) dengan orang yang mendustakan keterangan Al-Quran ini, Kami akan menarik mereka sedikit demi sedikit (ke jurang kebinasaan), dari arah yang mereka tidak mengetahuinya."
+                },
+                {
+                    "id": 1096292,
+                    "resource_id": 161,
+                    "text": "কাজেই ছেড়ে দাও আমাকে আর তাদেরকে যারা এ বাণীকে অস্বীকার করেছে। আমি তাদেরকে ক্রমে ক্রমে আস্তে আস্তে এমনভাবে ধরে টান দিব যে, তারা একটু টেরও পাবে না।"
+                }
+            ]
+        },
+        {
+            "id": 5316,
+            "verse_number": 45,
+            "verse_key": "68:45",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 226,
+            "ruku_number": 501,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأُمْلِى لَهُمْ ۚ إِنَّ كَيْدِى مَتِينٌ",
+            "page_number": 566,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101141,
+                    "resource_id": 20,
+                    "text": "And I will give them time. Indeed, My plan is firm."
+                },
+                {
+                    "id": 218982,
+                    "resource_id": 39,
+                    "text": "Dan Aku akan melanjutkan tempoh untuk mereka; sesungguhnya rancangan sulitKu (terhadap golongan yang kufur ingkar itu), amatlah kuat kukuh."
+                },
+                {
+                    "id": 1096293,
+                    "resource_id": 161,
+                    "text": "আমি তাদেরকে (লম্বা) সময় দেই, আমার কৌশল বড়ই মজবুত।"
+                }
+            ]
+        },
+        {
+            "id": 5317,
+            "verse_number": 46,
+            "verse_key": "68:46",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 226,
+            "ruku_number": 501,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَمْ تَسْـَٔلُهُمْ أَجْرًا فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ",
+            "page_number": 566,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101142,
+                    "resource_id": 20,
+                    "text": "Or do you ask of them a payment, so they are by debt burdened down?"
+                },
+                {
+                    "id": 218983,
+                    "resource_id": 39,
+                    "text": "Pernahkah engkau (wahai Muhammad) meminta sebarang bayaran kepada mereka (mengenai ajaran Islam yang engkau sampaikan), lalu mereka merasa berat menanggung bayaran itu (sehingga menjauhkan diri daripada menyahut seruanmu)?"
+                },
+                {
+                    "id": 1096294,
+                    "resource_id": 161,
+                    "text": "তুমি কি তাদের কাছে কোন পারিশ্রমিক চাচ্ছ যে, দেনার দায়ভার বহন করা তাদের জন্য কঠিন হয়ে পড়েছে?"
+                }
+            ]
+        },
+        {
+            "id": 5318,
+            "verse_number": 47,
+            "verse_key": "68:47",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 226,
+            "ruku_number": 501,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَمْ عِندَهُمُ ٱلْغَيْبُ فَهُمْ يَكْتُبُونَ",
+            "page_number": 566,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101143,
+                    "resource_id": 20,
+                    "text": "Or have they [knowledge of] the unseen, so they write [it] down?"
+                },
+                {
+                    "id": 218984,
+                    "resource_id": 39,
+                    "text": "Atau adakah di sisi mereka (Lauh Mahfuz yang mengandungi) perkara-perkara yang ghaib lalu mereka menyalin (daripadanya untuk menentang ajaran dan peringatanmu)?"
+                },
+                {
+                    "id": 1096295,
+                    "resource_id": 161,
+                    "text": "নাকি তাদের কাছে গায়বের খবর আছে যা তা তারা লিখে রাখে।"
+                }
+            ]
+        },
+        {
+            "id": 5319,
+            "verse_number": 48,
+            "verse_key": "68:48",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 226,
+            "ruku_number": 501,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ",
+            "page_number": 566,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101144,
+                    "resource_id": 20,
+                    "text": "Then be patient for the decision of your Lord, [O Muḥammad], and be not like the companion of the fish [i.e., Jonah] when he called out while he was distressed."
+                },
+                {
+                    "id": 218985,
+                    "resource_id": 39,
+                    "text": "Maka bersabarlah (wahai Muhammad) menerima hukum Tuhanmu (memberi tempoh kepada mereka), dan janganlah engkau bersikap seperti orang yang telah ditelan oleh ikan. (Ingatlah kisahnya) ketika ia berdoa merayu dengan keadaan sesak sebak terkurung dalam perut ikan."
+                },
+                {
+                    "id": 1096296,
+                    "resource_id": 161,
+                    "text": "কাজেই তুমি তোমার প্রতিপালকের হুকুমের জন্য ধৈর্য ধরে অপেক্ষা কর, আর মাছওয়ালা [ইউনুস (আঃ)] এর মত (অধৈর্য) হয়ো না। স্মরণ কর যখন সে (তার প্রতিপালককে ডাক দিয়েছিল চিন্তায় দুঃখে আচ্ছন্ন হয়ে।"
+                }
+            ]
+        },
+        {
+            "id": 5320,
+            "verse_number": 49,
+            "verse_key": "68:49",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 226,
+            "ruku_number": 501,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "لَّوْلَآ أَن تَدَٰرَكَهُۥ نِعْمَةٌ مِّن رَّبِّهِۦ لَنُبِذَ بِٱلْعَرَآءِ وَهُوَ مَذْمُومٌ",
+            "page_number": 566,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101145,
+                    "resource_id": 20,
+                    "text": "If not that a favor [i.e., mercy] from his Lord overtook him, he would have been thrown onto the naked shore while he was censured.<sup foot_note=197597>1</sup>"
+                },
+                {
+                    "id": 218991,
+                    "resource_id": 39,
+                    "text": "Kalaulah ia tidak didatangi nikmat pertolongan dari Tuhannya, nescaya tercampaklah ia ke tanah yang tandus (di tepi pantai) dalam keadaan ia ditempelak (kerana salah silapnya)."
+                },
+                {
+                    "id": 1096297,
+                    "resource_id": 161,
+                    "text": "তার প্রতিপালকের অনুগ্রহ যদি তার কাছে না পৌঁছত, তাহলে সে লাঞ্ছিত অবস্থায় ধুঁধুঁ বালুকাময় তীরে নিক্ষিপ্ত হত।"
+                }
+            ]
+        },
+        {
+            "id": 5321,
+            "verse_number": 50,
+            "verse_key": "68:50",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 226,
+            "ruku_number": 501,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَٱجْتَبَـٰهُ رَبُّهُۥ فَجَعَلَهُۥ مِنَ ٱلصَّـٰلِحِينَ",
+            "page_number": 566,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101148,
+                    "resource_id": 20,
+                    "text": "And his Lord chose him and made him of the righteous."
+                },
+                {
+                    "id": 218989,
+                    "resource_id": 39,
+                    "text": "Selepas itu Tuhannya memilihnya, serta menjadikan dia dari orang-orang yang soleh."
+                },
+                {
+                    "id": 1096298,
+                    "resource_id": 161,
+                    "text": "এভাবে তার প্রতিপালক তাকে বেছে নিলেন আর তাকে সৎকর্মশীলদের অন্তর্ভুক্ত করলেন।"
+                }
+            ]
+        },
+        {
+            "id": 5322,
+            "verse_number": 51,
+            "verse_key": "68:51",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 226,
+            "ruku_number": 501,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِن يَكَادُ ٱلَّذِينَ كَفَرُوا۟ لَيُزْلِقُونَكَ بِأَبْصَـٰرِهِمْ لَمَّا سَمِعُوا۟ ٱلذِّكْرَ وَيَقُولُونَ إِنَّهُۥ لَمَجْنُونٌ",
+            "page_number": 566,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101149,
+                    "resource_id": 20,
+                    "text": "And indeed, those who disbelieve would almost make you slip with their eyes [i.e., looks] when they hear the message, and they say, \"Indeed, he is mad.\""
+                },
+                {
+                    "id": 218990,
+                    "resource_id": 39,
+                    "text": "Dan sesungguhnya orang-orang yang kafir itu, hampir-hampir menggelincir dan menjatuhkanmu dengan pandangan mereka (yang penuh dengan permusuhan dan kebencian), semasa mereka mendengar Al-Quran sambil berkata: \"Sebenarnya (Muhammad) itu, sungguh-sungguh orang gila\"."
+                },
+                {
+                    "id": 1096299,
+                    "resource_id": 161,
+                    "text": "কাফিররা যখন কুরআন শুনে তখন তারা যেন তাদের দৃষ্টি দিয়ে তোমাকে আছড়ে ফেলবে। আর তারা বলে, ‘‘সে তো অবশ্যই পাগল।’’"
+                }
+            ]
+        },
+        {
+            "id": 5323,
+            "verse_number": 52,
+            "verse_key": "68:52",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 226,
+            "ruku_number": 501,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا هُوَ إِلَّا ذِكْرٌ لِّلْعَـٰلَمِينَ",
+            "page_number": 566,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101150,
+                    "resource_id": 20,
+                    "text": "But it is not except a reminder to the worlds."
+                },
+                {
+                    "id": 218995,
+                    "resource_id": 39,
+                    "text": "Padahal Al-Quran itu tidak lain hanyalah peringatan bagi umat manusia seluruhnya."
+                },
+                {
+                    "id": 1096300,
+                    "resource_id": 161,
+                    "text": "অথচ এ কুরআন বিশ্বজগতের জন্য উপদেশ ছাড়া অন্য কিছুই নয়।"
+                }
+            ]
+        },
+        {
+            "id": 5324,
+            "verse_number": 1,
+            "verse_key": "69:1",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 502,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " ٱلْحَآقَّةُ",
+            "page_number": 566,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101162,
+                    "resource_id": 20,
+                    "text": "The Inevitable Reality -"
+                },
+                {
+                    "id": 219055,
+                    "resource_id": 39,
+                    "text": "Saat yang tetap berlaku itu -"
+                },
+                {
+                    "id": 1096301,
+                    "resource_id": 161,
+                    "text": "নিশ্চিত সংঘটিতব্য বিষয়,"
+                }
+            ]
+        },
+        {
+            "id": 5325,
+            "verse_number": 2,
+            "verse_key": "69:2",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 502,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "مَا ٱلْحَآقَّةُ",
+            "page_number": 566,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101174,
+                    "resource_id": 20,
+                    "text": "What is the Inevitable Reality?"
+                },
+                {
+                    "id": 219059,
+                    "resource_id": 39,
+                    "text": "Apakah dia sifat dan keadaan saat yang tetap berlaku itu?"
+                },
+                {
+                    "id": 1096302,
+                    "resource_id": 161,
+                    "text": "কী সেই নিশ্চিত সংঘটিতব্য বিষয়?"
+                }
+            ]
+        },
+        {
+            "id": 5326,
+            "verse_number": 3,
+            "verse_key": "69:3",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 502,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا ٱلْحَآقَّةُ",
+            "page_number": 566,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 100777,
+                    "resource_id": 20,
+                    "text": "And what can make you know what is the Inevitable Reality?"
+                },
+                {
+                    "id": 219033,
+                    "resource_id": 39,
+                    "text": "Dan apa jalannya engkau dapat mengetahui tentang sifat dan keadaan saat yang tetap berlaku itu? (Saat itu ialah hari kiamat)."
+                },
+                {
+                    "id": 1096303,
+                    "resource_id": 161,
+                    "text": "আর তুমি কি জান কী সেই নিশ্চিত সংঘটিতব্য বিষয়?"
+                }
+            ]
+        },
+        {
+            "id": 5327,
+            "verse_number": 4,
+            "verse_key": "69:4",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 502,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "كَذَّبَتْ ثَمُودُ وَعَادٌۢ بِٱلْقَارِعَةِ",
+            "page_number": 566,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101194,
+                    "resource_id": 20,
+                    "text": "Thamūd and ʿAad denied the Striking Calamity [i.e., the Resurrection]."
+                },
+                {
+                    "id": 218888,
+                    "resource_id": 39,
+                    "text": "Kaum Thamud dan Aad telah mendustakan hari (kiamat) yang menggempar dan mengharukan itu."
+                },
+                {
+                    "id": 1096304,
+                    "resource_id": 161,
+                    "text": "‘আদ ও সামূদ জাতি সেই আকস্মিকভাবে সংঘটিতব্য মহাবিপদকে মিথ্যে বলেছিল।"
+                }
+            ]
+        },
+        {
+            "id": 5328,
+            "verse_number": 5,
+            "verse_key": "69:5",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 502,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+            "page_number": 566,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101206,
+                    "resource_id": 20,
+                    "text": "So as for Thamūd, they were destroyed by the overpowering [blast]."
+                },
+                {
+                    "id": 214907,
+                    "resource_id": 39,
+                    "text": "Maka (masing-masing menerima azab dunianya) - adapun Thamud (kaum Nabi Soleh), maka mereka telah dibinasakan dengan (petir) yang melampau dahsyatnya."
+                },
+                {
+                    "id": 1096305,
+                    "resource_id": 161,
+                    "text": "অতঃপর সামূদ জাতিকে ধ্বংস করা হয়েছিল এক প্রলয়ংকর বিপর্যয় দিয়ে।"
+                }
+            ]
+        },
+        {
+            "id": 5329,
+            "verse_number": 6,
+            "verse_key": "69:6",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 502,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَمَّا عَادٌ فَأُهْلِكُوا۟ بِرِيحٍ صَرْصَرٍ عَاتِيَةٍ",
+            "page_number": 566,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101211,
+                    "resource_id": 20,
+                    "text": "And as for ʿAad, they were destroyed by a screaming,<sup foot_note=197598>1</sup> violent wind"
+                },
+                {
+                    "id": 219051,
+                    "resource_id": 39,
+                    "text": "Adapun Aad (kaum Nabi Hud), maka mereka telah dibinasakan dengan angin ribut yang kencang, yang melampau kencangnya, -"
+                },
+                {
+                    "id": 1096306,
+                    "resource_id": 161,
+                    "text": "আর ‘আদকে ধ্বংস করা হয়েছিল এক প্রচন্ড ঝড়ো হাওয়া দিয়ে।"
+                }
+            ]
+        },
+        {
+            "id": 5330,
+            "verse_number": 7,
+            "verse_key": "69:7",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 502,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍ وَثَمَـٰنِيَةَ أَيَّامٍ حُسُومًا فَتَرَى ٱلْقَوْمَ فِيهَا صَرْعَىٰ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ خَاوِيَةٍ",
+            "page_number": 566,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101213,
+                    "resource_id": 20,
+                    "text": "Which He [i.e., Allāh] imposed upon them for seven nights and eight days in succession, so you would see the people therein fallen as if they were hollow trunks of palm trees."
+                },
+                {
+                    "id": 219061,
+                    "resource_id": 39,
+                    "text": "Yang diarahkannya menyerang mereka tujuh malam lapan hari terus-menerus; (kalaulah engkau menyaksikannya) maka engkau akan melihat kaum itu bergelimpangan mati, seolah-olah mereka: batang-batang pohon kurma yang (tumbang dan) lompang."
+                },
+                {
+                    "id": 1096307,
+                    "resource_id": 161,
+                    "text": "যা তাদের উপর প্রবাহিত হয়েছিল সাত রাত আট দিন বিরামহীনভাবে, তুমি দেখতে তারা পড়ে আছে ইতস্তত বিক্ষিপ্ত, যেন তারা পুরাতন শুকনো খেজুর গাছের কান্ড।"
+                }
+            ]
+        },
+        {
+            "id": 5331,
+            "verse_number": 8,
+            "verse_key": "69:8",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 502,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَهَلْ تَرَىٰ لَهُم مِّنۢ بَاقِيَةٍ",
+            "page_number": 566,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101215,
+                    "resource_id": 20,
+                    "text": "Then do you see of them any remains?"
+                },
+                {
+                    "id": 219065,
+                    "resource_id": 39,
+                    "text": "Dengan yang demikian, dapatkah engkau melihat lagi sisa-sisa mereka (yang masih hidup)?"
+                },
+                {
+                    "id": 1096308,
+                    "resource_id": 161,
+                    "text": "তুমি তাদের কাউকে রক্ষা পেয়ে বেঁচে থাকতে দেখছ কি?"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 18,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 18
+    }
+}

@@ -1,0 +1,401 @@
+{
+    "verses": [
+        {
+            "id": 2302,
+            "verse_number": 52,
+            "verse_key": "19:52",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 123,
+            "ruku_number": 267,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَنَـٰدَيْنَـٰهُ مِن جَانِبِ ٱلطُّورِ ٱلْأَيْمَنِ وَقَرَّبْنَـٰهُ نَجِيًّا",
+            "page_number": 309,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97204,
+                    "resource_id": 20,
+                    "text": "And We called him from the side of the mount<sup foot_note=196729>1</sup> at [his] right and brought him near, confiding [to him]."
+                },
+                {
+                    "id": 215074,
+                    "resource_id": 39,
+                    "text": "Dan Kami telah menyerunya dari arah sebelah kanan Gunung Tursina, dan Kami dampingkan dia dengan diberi penghormatan berkata dengan Kami."
+                },
+                {
+                    "id": 1093279,
+                    "resource_id": 161,
+                    "text": "আমি তাকে ডাক দিয়েছিলাম তূর পাহাড়ের ডান পার্শ্ব থেকে আর গোপনে কথাবার্তা বলার জন্য তাকে নিকটবর্তী করেছিলাম।"
+                }
+            ]
+        },
+        {
+            "id": 2303,
+            "verse_number": 53,
+            "verse_key": "19:53",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 123,
+            "ruku_number": 267,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَوَهَبْنَا لَهُۥ مِن رَّحْمَتِنَآ أَخَاهُ هَـٰرُونَ نَبِيًّا",
+            "page_number": 309,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97205,
+                    "resource_id": 20,
+                    "text": "And We gave him out of Our mercy his brother Aaron as a prophet."
+                },
+                {
+                    "id": 215075,
+                    "resource_id": 39,
+                    "text": "Dan Kami kurniakan kepadanya dari rahmat Kami, saudaranya: Harun, yang juga berpangkat Nabi."
+                },
+                {
+                    "id": 1093280,
+                    "resource_id": 161,
+                    "text": "আর আমি স্বীয় অনুগ্রহে তাকে দান করেছিলাম তার ভাই হারূনকে, সেও ছিল একজন নবী।"
+                }
+            ]
+        },
+        {
+            "id": 2304,
+            "verse_number": 54,
+            "verse_key": "19:54",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 123,
+            "ruku_number": 267,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ إِسْمَـٰعِيلَ ۚ إِنَّهُۥ كَانَ صَادِقَ ٱلْوَعْدِ وَكَانَ رَسُولًا نَّبِيًّا",
+            "page_number": 309,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97206,
+                    "resource_id": 20,
+                    "text": "And mention in the Book, Ishmael. Indeed, he was true to his promise, and he was a messenger and a prophet."
+                },
+                {
+                    "id": 215076,
+                    "resource_id": 39,
+                    "text": "Dan bacakanlah (wahai Muhammad) di dalam Kitab (Al-Quran) ini perihal Nabi Ismail; sesungguhnya ia adalah benar menepati janji dan adalah ia seorang Rasul, lagi berpangkat Nabi."
+                },
+                {
+                    "id": 1093281,
+                    "resource_id": 161,
+                    "text": "এ কিতাবে উল্লেখিত ইসমাঈলের কথা স্মরণ কর, সে ছিল ওয়া‘দা রক্ষায় (দৃঢ়) সত্যবাদী, আর ছিল একজন রসূল ও নবী।"
+                }
+            ]
+        },
+        {
+            "id": 2305,
+            "verse_number": 55,
+            "verse_key": "19:55",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 123,
+            "ruku_number": 267,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَكَانَ يَأْمُرُ أَهْلَهُۥ بِٱلصَّلَوٰةِ وَٱلزَّكَوٰةِ وَكَانَ عِندَ رَبِّهِۦ مَرْضِيًّا",
+            "page_number": 309,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97207,
+                    "resource_id": 20,
+                    "text": "And he used to enjoin on his people prayer and zakāh and was to his Lord pleasing [i.e., accepted by Him]."
+                },
+                {
+                    "id": 215077,
+                    "resource_id": 39,
+                    "text": "Dan adalah ia menyuruh keluarganya mengerjakan sembahyang dan memberi zakat, dan ia pula adalah seorang yang diredhai di sisi Tuhannya!"
+                },
+                {
+                    "id": 1093282,
+                    "resource_id": 161,
+                    "text": "সে তার পরিবারবর্গকে নামায ও যাকাতের হুকুম দিত আর সে ছিল তার প্রতিপালকের নিকট সন্তুষ্টির পাত্র।"
+                }
+            ]
+        },
+        {
+            "id": 2306,
+            "verse_number": 56,
+            "verse_key": "19:56",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 123,
+            "ruku_number": 267,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ إِدْرِيسَ ۚ إِنَّهُۥ كَانَ صِدِّيقًا نَّبِيًّا",
+            "page_number": 309,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97208,
+                    "resource_id": 20,
+                    "text": "And mention in the Book, Idrees. Indeed, he was a man of truth and a prophet."
+                },
+                {
+                    "id": 215078,
+                    "resource_id": 39,
+                    "text": "Dan bacakanlah (wahai Muhammad) di dalam Kitab (Al-Quran) ini perihal Nabi Idris; sesungguhnya adalah ia amat benar (tutur katanya dan imannya), serta ia seorang Nabi."
+                },
+                {
+                    "id": 1093283,
+                    "resource_id": 161,
+                    "text": "এ কিতাবে উল্লেখিত ইদরীসের কথা স্মরণ কর, সে ছিল সত্যনিষ্ঠ, একজন নবী।"
+                }
+            ]
+        },
+        {
+            "id": 2307,
+            "verse_number": 57,
+            "verse_key": "19:57",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 123,
+            "ruku_number": 267,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+            "page_number": 309,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97209,
+                    "resource_id": 20,
+                    "text": "And We raised him to a high station."
+                },
+                {
+                    "id": 214975,
+                    "resource_id": 39,
+                    "text": "Dan Kami telah mengangkatnya ke tempat yang tinggi darjatnya."
+                },
+                {
+                    "id": 1093284,
+                    "resource_id": 161,
+                    "text": "আমি তাকে উচ্চ মর্যাদায় উন্নীত করেছিলাম।"
+                }
+            ]
+        },
+        {
+            "id": 2308,
+            "verse_number": 58,
+            "verse_key": "19:58",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 123,
+            "ruku_number": 267,
+            "manzil_number": 4,
+            "sajdah_number": 5,
+            "text_uthmani": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّـۧنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍ وَمِن ذُرِّيَّةِ إِبْرَٰهِيمَ وَإِسْرَٰٓءِيلَ وَمِمَّنْ هَدَيْنَا وَٱجْتَبَيْنَآ ۚ إِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَـٰتُ ٱلرَّحْمَـٰنِ خَرُّوا۟ سُجَّدًا وَبُكِيًّا ۩",
+            "page_number": 309,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97210,
+                    "resource_id": 20,
+                    "text": "Those were the ones upon whom Allāh bestowed favor from among the prophets of the descendants of Adam and of those We carried [in the ship] with Noah, and of the descendants of Abraham and Israel [i.e., Jacob], and of those whom We guided and chose. When the verses of the Most Merciful were recited to them, they fell in prostration and weeping."
+                },
+                {
+                    "id": 215079,
+                    "resource_id": 39,
+                    "text": "Mereka itulah sebahagian dari Nabi-nabi yang telah dikurniakan Allah nikmat yang melimpah-limpah kepada mereka dari keturunan Nabi Adam, dan dari keturunan orang-orang yang Kami bawa (dalam bahtera) bersama-sama Nabi Nuh, dan dari keturunan Nabi Ibrahim, dan (dari keturunan) Israil- dan mereka itu adalah dari orang-orang yang Kami beri hidayah petunjuk dan Kami pilih. Apabila dibacakan kepada mereka ayat-ayat (Allah) Ar-Rahman, mereka segera sujud serta menangis."
+                },
+                {
+                    "id": 1093285,
+                    "resource_id": 161,
+                    "text": "এরাই হল তারা আদাম বংশের নবীগণের মধ্য হতে, আর নূহের সঙ্গে যাদেরকে (নৌকায়) আরোহণ করিয়েছিলাম তাদের মধ্য হতে, আর ইবরাহীম ও ইসরাঈলের বংশধরদের মধ্য হতে যাদেরকে আমি অনুগ্রহ করেছিলাম, এরা তাদেরই মধ্য হতে, যাদেরকে আমি পথনির্দেশ দিয়েছিলাম আর বেছে নিয়েছিলাম, এদের নিকট দয়াময়ের আয়াত আবৃত্তি করা হলে তারা সাজদায় অবনত হয়ে কান্নাভরে লুটিয়ে পড়ত। [সাজদাহ]"
+                }
+            ]
+        },
+        {
+            "id": 2309,
+            "verse_number": 59,
+            "verse_key": "19:59",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 124,
+            "ruku_number": 267,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "۞ فَخَلَفَ مِنۢ بَعْدِهِمْ خَلْفٌ أَضَاعُوا۟ ٱلصَّلَوٰةَ وَٱتَّبَعُوا۟ ٱلشَّهَوَٰتِ ۖ فَسَوْفَ يَلْقَوْنَ غَيًّا",
+            "page_number": 309,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97211,
+                    "resource_id": 20,
+                    "text": "But there came after them successors [i.e., later generations] who neglected prayer and pursued desires; so they are going to meet evil<sup foot_note=196730>1</sup> -"
+                },
+                {
+                    "id": 215087,
+                    "resource_id": 39,
+                    "text": "Kemudian mereka digantikan oleh keturunan-keturunan yang mencuaikan sembahyang serta menurut hawa nafsu (dengan melakukan maksiat); maka mereka akan menghadapi azab (dalam neraka),"
+                },
+                {
+                    "id": 1093286,
+                    "resource_id": 161,
+                    "text": "অতঃপর তাদের পর এল অপদার্থ পরবর্তীরা, তারা নামায হারালো, আর লালসার বশবর্তী হল। তারা অচিরেই ধ্বংসের সম্মুখীন হবে।"
+                }
+            ]
+        },
+        {
+            "id": 2310,
+            "verse_number": 60,
+            "verse_key": "19:60",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 124,
+            "ruku_number": 267,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "إِلَّا مَن تَابَ وَءَامَنَ وَعَمِلَ صَـٰلِحًا فَأُو۟لَـٰٓئِكَ يَدْخُلُونَ ٱلْجَنَّةَ وَلَا يُظْلَمُونَ شَيْـًٔا",
+            "page_number": 309,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97213,
+                    "resource_id": 20,
+                    "text": "Except those who repent, believe and do righteousness; for those will enter Paradise and will not be wronged at all."
+                },
+                {
+                    "id": 215082,
+                    "resource_id": 39,
+                    "text": "Kecuali orang-orang yang bertaubat dan beriman serta beramal soleh, maka mereka itu akan masuk Syurga, dan mereka pula tidak dikurangkan pahala sedikitpun, -"
+                },
+                {
+                    "id": 1093287,
+                    "resource_id": 161,
+                    "text": "তারা বাদে যারা তাওবাহ করবে, ঈমান আনবে আর সৎ কাজ করবে। ফলে এরাই জান্নাতে প্রবেশ করবে, এদের প্রতি এতটুকু যুলম করা হবে না।"
+                }
+            ]
+        },
+        {
+            "id": 2311,
+            "verse_number": 61,
+            "verse_key": "19:61",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 124,
+            "ruku_number": 267,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "جَنَّـٰتِ عَدْنٍ ٱلَّتِى وَعَدَ ٱلرَّحْمَـٰنُ عِبَادَهُۥ بِٱلْغَيْبِ ۚ إِنَّهُۥ كَانَ وَعْدُهُۥ مَأْتِيًّا",
+            "page_number": 309,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97214,
+                    "resource_id": 20,
+                    "text": "[Therein are] gardens of perpetual residence which the Most Merciful has promised His servants in the unseen. Indeed, His promise has ever been eminent.<sup foot_note=196731>1</sup>"
+                },
+                {
+                    "id": 215083,
+                    "resource_id": 39,
+                    "text": "(Iaitu) Syurga \" Adn \" yang telah dijanjikan oleh (Allah) Ar-Rahman kepada hamba-hambaNya disebabkan kepercayaan mereka akan perkara-perkara yang ghaib; sesungguhnya Tuhan itu, janjiNya tetap berlaku."
+                },
+                {
+                    "id": 1093288,
+                    "resource_id": 161,
+                    "text": "স্থায়ী জান্নাত, দয়াময় তাঁর বান্দাহ্কে যে অদৃশ্য বিষয়ের প্রতিশ্রুতি দিয়েছেন, তাঁর প্রতিশ্রুতি অবশ্যই পূর্ণ হবে।"
+                }
+            ]
+        },
+        {
+            "id": 2312,
+            "verse_number": 62,
+            "verse_key": "19:62",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 124,
+            "ruku_number": 267,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "لَّا يَسْمَعُونَ فِيهَا لَغْوًا إِلَّا سَلَـٰمًا ۖ وَلَهُمْ رِزْقُهُمْ فِيهَا بُكْرَةً وَعَشِيًّا",
+            "page_number": 309,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97215,
+                    "resource_id": 20,
+                    "text": "They will not hear therein any ill speech - only [greetings of] peace - and they will have their provision therein, morning and afternoon."
+                },
+                {
+                    "id": 215084,
+                    "resource_id": 39,
+                    "text": "Mereka tidak akan mendengar di dalamnya perkataan yang sia-sia tetapi mereka sentiasa mendengar perkataan yang baik-baik; dan makan minum untuk mereka disediakan di dalamnya, pagi dan petang (sepanjang masa)."
+                },
+                {
+                    "id": 1093289,
+                    "resource_id": 161,
+                    "text": "সেখানে তারা শান্তির সম্ভাষণ ছাড়া কোন অপবাক্য শুনবে না। আর সকাল-সন্ধ্যা সেখানে তাদের জন্য থাকবে জীবন ধারণের উপকরণ।"
+                }
+            ]
+        },
+        {
+            "id": 2313,
+            "verse_number": 63,
+            "verse_key": "19:63",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 124,
+            "ruku_number": 267,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "تِلْكَ ٱلْجَنَّةُ ٱلَّتِى نُورِثُ مِنْ عِبَادِنَا مَن كَانَ تَقِيًّا",
+            "page_number": 309,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97216,
+                    "resource_id": 20,
+                    "text": "That is Paradise, which We give as inheritance to those of Our servants who were fearing of Allāh."
+                },
+                {
+                    "id": 215085,
+                    "resource_id": 39,
+                    "text": "Itulah taman Syurga yang Kami akan berikan sebagai warisan pusaka kepada orang-orang. yang bertaqwa dari hamba-hamba Kami."
+                },
+                {
+                    "id": 1093290,
+                    "resource_id": 161,
+                    "text": "এই হল সেই জান্নাত আমি যার উত্তরাধিকারী করব আমার বান্দাহদের মধ্যে মুত্তাকীদেরকে।"
+                }
+            ]
+        },
+        {
+            "id": 2314,
+            "verse_number": 64,
+            "verse_key": "19:64",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 124,
+            "ruku_number": 267,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا نَتَنَزَّلُ إِلَّا بِأَمْرِ رَبِّكَ ۖ لَهُۥ مَا بَيْنَ أَيْدِينَا وَمَا خَلْفَنَا وَمَا بَيْنَ ذَٰلِكَ ۚ وَمَا كَانَ رَبُّكَ نَسِيًّا",
+            "page_number": 309,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97217,
+                    "resource_id": 20,
+                    "text": "[Gabriel said],<sup foot_note=196732>1</sup> \"And we [angels] descend not except by the order of your Lord. To Him belongs that before us and that behind us and what is in between. And never is your Lord forgetful -"
+                },
+                {
+                    "id": 215086,
+                    "resource_id": 39,
+                    "text": "Dan (berkatalah malaikat): \"Kami tidak turun dari semasa ke semasa melainkan dengan perintah Tuhanmu (wahai Muhammad); Dia lah jua yang menguasai serta mentadbirkan apa yang di hadapan kita dan apa yang di belakang kita serta apa yang di antara itu; dan tiadalah Tuhanmu itu lupa, -"
+                },
+                {
+                    "id": 1093291,
+                    "resource_id": 161,
+                    "text": "(ফেরেশতাগণ বলে) ‘আমরা আপনার প্রতিপালকের হুকুম ছাড়া অবতরণ করি না, যা আমাদের সামনে আছে, আর যা আমাদের পেছনে আছে আর এ দু’য়ের মাঝে যা আছে তা তাঁরই, আপনার প্রতিপালক কক্ষনো ভুলে যান না।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 13,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 13
+    }
+}

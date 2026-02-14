@@ -1,0 +1,251 @@
+{
+    "verses": [
+        {
+            "id": 1761,
+            "verse_number": 11,
+            "verse_key": "14:11",
+            "hizb_number": 26,
+            "rub_el_hizb_number": 103,
+            "ruku_number": 212,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَتْ لَهُمْ رُسُلُهُمْ إِن نَّحْنُ إِلَّا بَشَرٌ مِّثْلُكُمْ وَلَـٰكِنَّ ٱللَّهَ يَمُنُّ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦ ۖ وَمَا كَانَ لَنَآ أَن نَّأْتِيَكُم بِسُلْطَـٰنٍ إِلَّا بِإِذْنِ ٱللَّهِ ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
+            "page_number": 257,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96656,
+                    "resource_id": 20,
+                    "text": "Their messengers said to them, \"We are only men like you, but Allāh confers favor upon whom He wills of His servants. It has never been for us to bring you evidence except by permission of Allāh. And upon Allāh let the believers rely."
+                },
+                {
+                    "id": 220619,
+                    "resource_id": 39,
+                    "text": "Rasul-rasul mereka berkata kepada mereka: \"Kami ini tidak lain hanyalah manusia seperti kamu juga, tetapi Allah melimpahkan kurniaNya kepada sesiapa yang dikehendakiNya dari hamba-hambaNya; dan kami tiadalah berkuasa membawa kepada kamu sebarang bukti (mukjizat) melainkan dengan izin Allah. Dan dengan yang demikian maka kepada Allah jualah hendaknya orang-orang yang beriman berserah diri."
+                },
+                {
+                    "id": 1092738,
+                    "resource_id": 161,
+                    "text": "তাদের রসূলগণ তাদেরকে বলেছিল, ‘যদিও আমরা তোমাদের মতই মানুষ ব্যতীত নই, কিন্তু আল্লাহ তাঁর বান্দাহদের মধ্যে যার উপর ইচ্ছে অনুগ্রহ করেন। আল্লাহর হুকুম ছাড়া তোমাদের কাছে কোন প্রমাণ উপস্থিত করা আমাদের কাজ নয়। মু’মিনদের উচিত আল্লাহরই উপর ভরসা করা।"
+                }
+            ]
+        },
+        {
+            "id": 1762,
+            "verse_number": 12,
+            "verse_key": "14:12",
+            "hizb_number": 26,
+            "rub_el_hizb_number": 103,
+            "ruku_number": 212,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا لَنَآ أَلَّا نَتَوَكَّلَ عَلَى ٱللَّهِ وَقَدْ هَدَىٰنَا سُبُلَنَا ۚ وَلَنَصْبِرَنَّ عَلَىٰ مَآ ءَاذَيْتُمُونَا ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُتَوَكِّلُونَ",
+            "page_number": 257,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96657,
+                    "resource_id": 20,
+                    "text": "And why should we not rely upon Allāh while He has guided us to our [good] ways. And we will surely be patient against whatever harm you should cause us. And upon Allāh let those who would rely [indeed] rely.\""
+                },
+                {
+                    "id": 220611,
+                    "resource_id": 39,
+                    "text": "\"Dan mengapa pula kami tidak berserah diri kepada Allah padahal Ia telah menunjukkan jalan untuk tiap-tiap seorang dari kami menjalaninya? Dan demi sesungguhnya, kami akan bersabar terhadap segala perbuatan kamu menyakiti kami. Dan dengan yang demikian, maka kepada Allah jualah hendaknya berserah diri orang-orang yang mahu berserah\"."
+                },
+                {
+                    "id": 1092739,
+                    "resource_id": 161,
+                    "text": "আমরা আল্লাহর উপর ভরসা করব না কেন, তিনিই তো আমাদেরকে পথ দেখিয়েছেন, তোমরা আমাদেরকে যে ক্লেশই দাওনা কেন, আমরা তাতে অবশ্য অবশ্যই ধৈর্য ধারণ করব, আর ভরসাকারীদের আল্লাহরই উপর ভরসা করা উচিত।"
+                }
+            ]
+        },
+        {
+            "id": 1763,
+            "verse_number": 13,
+            "verse_key": "14:13",
+            "hizb_number": 26,
+            "rub_el_hizb_number": 103,
+            "ruku_number": 213,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِرُسُلِهِمْ لَنُخْرِجَنَّكُم مِّنْ أَرْضِنَآ أَوْ لَتَعُودُنَّ فِى مِلَّتِنَا ۖ فَأَوْحَىٰٓ إِلَيْهِمْ رَبُّهُمْ لَنُهْلِكَنَّ ٱلظَّـٰلِمِينَ",
+            "page_number": 257,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96658,
+                    "resource_id": 20,
+                    "text": "And those who disbelieved said to their messengers, \"We will surely drive you out of our land, or you must return to our religion.\" So their Lord inspired to them, \"We will surely destroy the wrongdoers."
+                },
+                {
+                    "id": 220259,
+                    "resource_id": 39,
+                    "text": "Dan berkatalah pula orang-orang yang kafir itu kepada Rasul-rasul mereka: \"Demi sesungguhnya, kami akan mengeluarkan kamu dari negeri kami atau kamu menjadi seugama dengan kami\". Lalu Tuhan wahyukan, kepada Rasul-rasulNya: \"Demi sesungguhnya! Kami akan membinasakan orang-orang yang zalim."
+                },
+                {
+                    "id": 1092740,
+                    "resource_id": 161,
+                    "text": "কাফিরগণ তাদের রসূলদের বলেছিল, ‘আমরা তোমাদেরকে আমাদের দেশ থেকে অবশ্য অবশ্যই বের করে দেব, অন্যথায় তোমাদেরকে অবশ্য অবশ্যই আমাদের ধর্মমতে ফিরে আসতে হবে।’ এমতাবস্থায় রসূলদের প্রতি তাদের প্রতিপালক এ মর্মে ওয়াহী করলেন যে, ‘আমি যালিমদেরকে অবশ্য অবশ্যই ধ্বংস করব।"
+                }
+            ]
+        },
+        {
+            "id": 1764,
+            "verse_number": 14,
+            "verse_key": "14:14",
+            "hizb_number": 26,
+            "rub_el_hizb_number": 103,
+            "ruku_number": 213,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَنُسْكِنَنَّكُمُ ٱلْأَرْضَ مِنۢ بَعْدِهِمْ ۚ ذَٰلِكَ لِمَنْ خَافَ مَقَامِى وَخَافَ وَعِيدِ",
+            "page_number": 257,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96659,
+                    "resource_id": 20,
+                    "text": "And We will surely cause you to dwell in the land after them. That is for he who fears My position<sup foot_note=196568>1</sup> and fears My threat.\""
+                },
+                {
+                    "id": 220631,
+                    "resource_id": 39,
+                    "text": "\"Dan demi sesungguhnya! kami akan tempatkan kamu di negeri itu sesudah binasanya kaum yang zalim itu; balasan baik yang demikian, adalah bagi orang-orang yang takut akan sikap keadilanKu (menghitung amalnya), dan takut akan janji-janji azabKu\"."
+                },
+                {
+                    "id": 1092741,
+                    "resource_id": 161,
+                    "text": "আর তাদের পরে তোমাদেরকে অবশ্য অবশ্যই যমীনে পুনর্বাসিত করব। এ (শুভ) সংবাদ তাদের জন্য যারা আমার সামনে এসে দাঁড়ানোর ব্যাপারে ভয় রাখে আর আমার শাস্তির ভয় দেখানোতে শংকিত হয়।’"
+                }
+            ]
+        },
+        {
+            "id": 1765,
+            "verse_number": 15,
+            "verse_key": "14:15",
+            "hizb_number": 26,
+            "rub_el_hizb_number": 103,
+            "ruku_number": 213,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱسْتَفْتَحُوا۟ وَخَابَ كُلُّ جَبَّارٍ عَنِيدٍ",
+            "page_number": 257,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96660,
+                    "resource_id": 20,
+                    "text": "And they requested decision [i.e., victory from Allāh], and disappointed, [therefore], was every obstinate tyrant."
+                },
+                {
+                    "id": 220258,
+                    "resource_id": 39,
+                    "text": "Dan (Rasul-rasul serta umatnya yang beriman) memohon pertolongan (kepada Allah, untuk mendapat kemenangan); dan terkecewalah tiap-tiap orang yang sombong takbur, lagi bersikap degil (dalam keingkarannya)."
+                },
+                {
+                    "id": 1092742,
+                    "resource_id": 161,
+                    "text": "তারা (অর্থাৎ কাফিররা) চূড়ান্ত বিজয়ের ফায়সালা কামনা করেছিল, কিন্তু (আল্লাহ ও তাঁর রসূলদের বিরোধিতা করার কারণে) প্রত্যেক উদ্ধত সীমালঙ্ঘনকারী ব্যর্থ হয়ে গেল।"
+                }
+            ]
+        },
+        {
+            "id": 1766,
+            "verse_number": 16,
+            "verse_key": "14:16",
+            "hizb_number": 26,
+            "rub_el_hizb_number": 103,
+            "ruku_number": 213,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "مِّن وَرَآئِهِۦ جَهَنَّمُ وَيُسْقَىٰ مِن مَّآءٍ صَدِيدٍ",
+            "page_number": 257,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96661,
+                    "resource_id": 20,
+                    "text": "Before him<sup foot_note=196570>1</sup> is Hell, and he will be given a drink of purulent water.<sup foot_note=196569>2</sup>"
+                },
+                {
+                    "id": 220630,
+                    "resource_id": 39,
+                    "text": "Di belakangnya disediakan neraka Jahannam, dan ia akan diberi minum dari air danur (yang keluar dari tubuh ahli neraka)."
+                },
+                {
+                    "id": 1092743,
+                    "resource_id": 161,
+                    "text": "এদের জন্য পরবর্তীতে আছে জাহান্নাম, আর এদেরকে পান করানো হবে গলিত পুঁজ।"
+                }
+            ]
+        },
+        {
+            "id": 1767,
+            "verse_number": 17,
+            "verse_key": "14:17",
+            "hizb_number": 26,
+            "rub_el_hizb_number": 103,
+            "ruku_number": 213,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "يَتَجَرَّعُهُۥ وَلَا يَكَادُ يُسِيغُهُۥ وَيَأْتِيهِ ٱلْمَوْتُ مِن كُلِّ مَكَانٍ وَمَا هُوَ بِمَيِّتٍ ۖ وَمِن وَرَآئِهِۦ عَذَابٌ غَلِيظٌ",
+            "page_number": 257,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96662,
+                    "resource_id": 20,
+                    "text": "He will gulp it but will hardly [be able to] swallow it. And death will come to him from everywhere, but he is not to die. And before him is a massive punishment."
+                },
+                {
+                    "id": 220634,
+                    "resource_id": 39,
+                    "text": "Ia meminumnya dengan terpaksa dan hampir-hampir tidak dapat diterima oleh tekaknya (kerana busuknya), dan ia didatangi (penderitaan) maut dari segala arah, sedang ia tidak pula mati (supaya terlepas dari azab seksa itu); dan selain dari itu, ada lagi azab seksa yang lebih berat."
+                },
+                {
+                    "id": 1092744,
+                    "resource_id": 161,
+                    "text": "সে তা খুব কষ্ট করে গিলতে চেষ্টা করবে, আর খুব কমই গিলতে পারবে। মৃত্যু যন্ত্রণা তার কাছে চতুর্দিক থেকে আসবে কিন্তু সে মরবে না, এরপর তার জন্য থাকবে এক কঠিন ‘আযাব।"
+                }
+            ]
+        },
+        {
+            "id": 1768,
+            "verse_number": 18,
+            "verse_key": "14:18",
+            "hizb_number": 26,
+            "rub_el_hizb_number": 103,
+            "ruku_number": 213,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "مَّثَلُ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ ۖ أَعْمَـٰلُهُمْ كَرَمَادٍ ٱشْتَدَّتْ بِهِ ٱلرِّيحُ فِى يَوْمٍ عَاصِفٍ ۖ لَّا يَقْدِرُونَ مِمَّا كَسَبُوا۟ عَلَىٰ شَىْءٍ ۚ ذَٰلِكَ هُوَ ٱلضَّلَـٰلُ ٱلْبَعِيدُ",
+            "page_number": 257,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96663,
+                    "resource_id": 20,
+                    "text": "The example of those who disbelieve in their Lord is [that] their deeds are like ashes which the wind blows forcefully on a stormy day; they are unable [to keep] from what they earned a [single] thing. That is what is extreme error."
+                },
+                {
+                    "id": 220633,
+                    "resource_id": 39,
+                    "text": "Bandingan (segala kebaikan amal dan usaha) orang-orang yang kufur ingkar terhadap Tuhannya ialah seperti abu yang diterbangkan angin pada hari ribut yang kencang; mereka tidak memperoleh sesuatu faedah pun dari apa yang mereka telah usahakan itu. Sia-sianya amalan itu ialah kesan kesesatan yang jauh dari dasar kebenaran."
+                },
+                {
+                    "id": 1092745,
+                    "resource_id": 161,
+                    "text": "যারা তাদের প্রতিপালককে অস্বীকার করে তাদের ‘আমালের দৃষ্টান্ত হল সেই ছাইয়ের মত যা ঝড়ের দিনে বাতাস প্রচন্ড বেগে উড়িয়ে নিয়ে যায়। নিজেদের উপার্জনের কিছুই তারা কাজে লাগাতে পারে না। এটাই ঘোর গুমরাহী।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 8,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 8
+    }
+}

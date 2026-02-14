@@ -1,0 +1,431 @@
+{
+    "verses": [
+        {
+            "id": 6208,
+            "verse_number": 1,
+            "verse_key": "109:1",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 553,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " قُلْ يَـٰٓأَيُّهَا ٱلْكَـٰفِرُونَ",
+            "page_number": 603,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96327,
+                    "resource_id": 20,
+                    "text": "Say, \"O disbelievers,"
+                },
+                {
+                    "id": 214655,
+                    "resource_id": 39,
+                    "text": "Katakanlah (wahai Muhammad): \"Hai orang-orang kafir!"
+                },
+                {
+                    "id": 1097185,
+                    "resource_id": 161,
+                    "text": "বল, ‘হে কাফিররা!’"
+                }
+            ]
+        },
+        {
+            "id": 6209,
+            "verse_number": 2,
+            "verse_key": "109:2",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 553,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "لَآ أَعْبُدُ مَا تَعْبُدُونَ",
+            "page_number": 603,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96329,
+                    "resource_id": 20,
+                    "text": "I do not worship what you worship."
+                },
+                {
+                    "id": 220293,
+                    "resource_id": 39,
+                    "text": "\"Aku tidak akan menyembah apa yang kamu sembah."
+                },
+                {
+                    "id": 1097186,
+                    "resource_id": 161,
+                    "text": "তোমরা যার ‘ইবাদাত কর, আমি তার ‘ইবাদাত করি না,"
+                }
+            ]
+        },
+        {
+            "id": 6210,
+            "verse_number": 3,
+            "verse_key": "109:3",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 553,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+            "page_number": 603,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96333,
+                    "resource_id": 20,
+                    "text": "Nor are you worshippers of what I worship."
+                },
+                {
+                    "id": 220294,
+                    "resource_id": 39,
+                    "text": "\"Dan kamu tidak mahu menyembah (Allah) yang aku sembah."
+                },
+                {
+                    "id": 1097187,
+                    "resource_id": 161,
+                    "text": "আর আমি যার ‘ইবাদাত করি তোমরা তার ‘ইবাদাতকারী নও,"
+                }
+            ]
+        },
+        {
+            "id": 6211,
+            "verse_number": 4,
+            "verse_key": "109:4",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 553,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَآ أَنَا۠ عَابِدٌ مَّا عَبَدتُّمْ",
+            "page_number": 603,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96335,
+                    "resource_id": 20,
+                    "text": "Nor will I be a worshipper of what you worship."
+                },
+                {
+                    "id": 220406,
+                    "resource_id": 39,
+                    "text": "\"Dan aku tidak akan beribadat secara kamu beribadat."
+                },
+                {
+                    "id": 1097188,
+                    "resource_id": 161,
+                    "text": "আর আমি তার ‘ইবাদাতকারী নই তোমরা যার ‘ইবাদাত করে থাক,"
+                }
+            ]
+        },
+        {
+            "id": 6212,
+            "verse_number": 5,
+            "verse_key": "109:5",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 553,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+            "page_number": 603,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96337,
+                    "resource_id": 20,
+                    "text": "Nor will you be worshippers of what I worship."
+                },
+                {
+                    "id": 220297,
+                    "resource_id": 39,
+                    "text": "\"Dan kamu pula tidak mahu beribadat secara aku beribadat."
+                },
+                {
+                    "id": 1097189,
+                    "resource_id": 161,
+                    "text": "আর আমি যার ‘ইবাদাত করি তোমরা তার ‘ইবাদাতকারী নও,"
+                }
+            ]
+        },
+        {
+            "id": 6213,
+            "verse_number": 6,
+            "verse_key": "109:6",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 553,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
+            "page_number": 603,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96339,
+                    "resource_id": 20,
+                    "text": "For you is your religion, and for me is my religion.\""
+                },
+                {
+                    "id": 220534,
+                    "resource_id": 39,
+                    "text": "\"Bagi kamu ugama kamu, dan bagiku ugamaku\"."
+                },
+                {
+                    "id": 1097190,
+                    "resource_id": 161,
+                    "text": "তোমাদের পথ ও পন্থা তোমাদের জন্য (সে পথে চলার পরিণতি তোমাদেরকেই ভোগ করতে হবে) আর আমার জন্য আমার পথ (যে সত্য পথে চলার জন্য আল্লাহ আমাকে নির্দেশ দিয়েছেন, এ পথ ছেড়ে আমি অন্য কোন পথ গ্রহণ করতে মোটেই প্রস্তুত নই)।"
+                }
+            ]
+        },
+        {
+            "id": 6214,
+            "verse_number": 1,
+            "verse_key": "110:1",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 554,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ",
+            "page_number": 603,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96344,
+                    "resource_id": 20,
+                    "text": "When the victory of Allāh has come and the conquest,<sup foot_note=197825>1</sup>"
+                },
+                {
+                    "id": 220302,
+                    "resource_id": 39,
+                    "text": "Apabila datang pertolongan Allah dan kemenangan (semasa engkau wahai Muhammad berjaya menguasai negeri Makkah), -"
+                },
+                {
+                    "id": 1097191,
+                    "resource_id": 161,
+                    "text": "যখন আসবে আল্লাহর সাহায্য ও (ইসলামের চূড়ান্ত) বিজয়,"
+                }
+            ]
+        },
+        {
+            "id": 6215,
+            "verse_number": 2,
+            "verse_key": "110:2",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 554,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًا",
+            "page_number": 603,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96345,
+                    "resource_id": 20,
+                    "text": "And you see the people entering into the religion of Allāh in multitudes,"
+                },
+                {
+                    "id": 220271,
+                    "resource_id": 39,
+                    "text": "Dan engkau melihat manusia masuk dalam ugama Allah beramai-ramai, -"
+                },
+                {
+                    "id": 1097192,
+                    "resource_id": 161,
+                    "text": "আর তুমি মানুষদের দেখবে দলে দলে আল্লাহর দীনে প্রবেশ করতে,"
+                }
+            ]
+        },
+        {
+            "id": 6216,
+            "verse_number": 3,
+            "verse_key": "110:3",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 554,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا",
+            "page_number": 603,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96346,
+                    "resource_id": 20,
+                    "text": "Then exalt [Him] with praise of your Lord and ask forgiveness of Him. Indeed, He is ever Accepting of Repentance.<sup foot_note=197826>1</sup>"
+                },
+                {
+                    "id": 220299,
+                    "resource_id": 39,
+                    "text": "Maka ucapkanlah tasbih dengan memuji Tuhanmu dan mintalah ampun kepadaNya, sesungguhnya Dia amat menerima taubat."
+                },
+                {
+                    "id": 1097193,
+                    "resource_id": 161,
+                    "text": "তখন তুমি (শুকরিয়া আদায়ের উদ্দেশ্যে) তোমার প্রতিপালকের প্রশংসা সহকারে তাঁর পবিত্রতা ও মহিমা ঘোষণা করবে আর তাঁর কাছে ক্ষমা প্রার্থনা করবে। তিনি বড়ই তাওবা কবূলকারী।"
+                }
+            ]
+        },
+        {
+            "id": 6217,
+            "verse_number": 1,
+            "verse_key": "111:1",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 555,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ",
+            "page_number": 603,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96360,
+                    "resource_id": 20,
+                    "text": "May the hands of Abū Lahab be ruined, and ruined is he.<sup foot_note=197827>1</sup>"
+                },
+                {
+                    "id": 220314,
+                    "resource_id": 39,
+                    "text": "Binasalah kedua-dua tangan Abu lahab, dan binasalah ia bersama!"
+                },
+                {
+                    "id": 1097194,
+                    "resource_id": 161,
+                    "text": "আবূ লাহাবের হাত দু‘টো ধ্বংস হোক, ধ্বংস হোক সে নিজে,"
+                }
+            ]
+        },
+        {
+            "id": 6218,
+            "verse_number": 2,
+            "verse_key": "111:2",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 555,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+            "page_number": 603,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96372,
+                    "resource_id": 20,
+                    "text": "His wealth will not avail him or that which he gained."
+                },
+                {
+                    "id": 220324,
+                    "resource_id": 39,
+                    "text": "Hartanya dan segala yang diusahakannya, tidak dapat menolongnya."
+                },
+                {
+                    "id": 1097195,
+                    "resource_id": 161,
+                    "text": "তার ধন-সম্পদ আর সে যা অর্জন করেছে তা তার কোন কাজে আসল না,"
+                }
+            ]
+        },
+        {
+            "id": 6219,
+            "verse_number": 3,
+            "verse_key": "111:3",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 555,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+            "page_number": 603,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96378,
+                    "resource_id": 20,
+                    "text": "He will [enter to] burn in a Fire of [blazing] flame"
+                },
+                {
+                    "id": 220439,
+                    "resource_id": 39,
+                    "text": "Ia akan menderita bakaran api neraka yang marak menjulang."
+                },
+                {
+                    "id": 1097196,
+                    "resource_id": 161,
+                    "text": "অচিরে সে প্রবেশ করবে লেলিহান শিখাযুক্ত আগুনে,"
+                }
+            ]
+        },
+        {
+            "id": 6220,
+            "verse_number": 4,
+            "verse_key": "111:4",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 555,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ",
+            "page_number": 603,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96381,
+                    "resource_id": 20,
+                    "text": "And his wife [as well] - the carrier of firewood.<sup foot_note=197828>1</sup>"
+                },
+                {
+                    "id": 220319,
+                    "resource_id": 39,
+                    "text": "Dan juga isterinya, seorang perempuan pemunggah kayu api. -"
+                },
+                {
+                    "id": 1097197,
+                    "resource_id": 161,
+                    "text": "আর তার স্ত্রীও- যে কাঠবহনকারিণী (যে কাঁটার সাহায্যে নবী-কে কষ্ট দিত এবং একজনের কথা অন্যজনকে ব’লে পারস্পরিক বিবাদের আগুন জ্বালাত)।"
+                }
+            ]
+        },
+        {
+            "id": 6221,
+            "verse_number": 5,
+            "verse_key": "111:5",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 555,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فِى جِيدِهَا حَبْلٌ مِّن مَّسَدٍۭ",
+            "page_number": 603,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96383,
+                    "resource_id": 20,
+                    "text": "Around her neck is a rope of [twisted] fiber."
+                },
+                {
+                    "id": 220334,
+                    "resource_id": 39,
+                    "text": "Di lehernya sejenis tali, dari tali-tali yang dipintal."
+                },
+                {
+                    "id": 1097198,
+                    "resource_id": 161,
+                    "text": "আর (দুনিয়াতে তার বহনকৃত কাঠ-খড়ির পরিবর্তে জাহান্নামে) তার গলায় শক্ত পাকানো রশি বাঁধা থাকবে।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 14,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 14
+    }
+}

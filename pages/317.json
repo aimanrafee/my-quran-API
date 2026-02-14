@@ -1,0 +1,341 @@
+{
+    "verses": [
+        {
+            "id": 2425,
+            "verse_number": 77,
+            "verse_key": "20:77",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 126,
+            "ruku_number": 273,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًا فِى ٱلْبَحْرِ يَبَسًا لَّا تَخَـٰفُ دَرَكًا وَلَا تَخْشَىٰ",
+            "page_number": 317,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97362,
+                    "resource_id": 20,
+                    "text": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\""
+                },
+                {
+                    "id": 215235,
+                    "resource_id": 39,
+                    "text": "Dan demi sesungguhnya! Kami telah wahyukan kepada Nabi Musa: \"Hendaklah engkau membawa hamba-hambaKu (kaummu) keluar memgembara pada waktu malam, kemudian pukulah air laut dengan tongkatmu, untuk mengadakan jalan yang kering bagi mereka di laut itu; janganlah engkau menaruh bimbang daripada ditangkap oleh musuh, dan jangan pula engkau takut tenggelam\"."
+                },
+                {
+                    "id": 1093402,
+                    "resource_id": 161,
+                    "text": "আমি মূসাকে ওয়াহী করলাম যে, আমার বান্দাহদেরকে নিয়ে রাতের বেলা যাত্রা কর আর তাদের জন্য সমুদ্রের ভিতর একটা শুকনো পথ বানিয়ে নাও। আর পেছন থেকে (ফেরাউন) ধরে ফেলবে এ ভয় করো না, আর (অন্য কোন) আশঙ্কাও করো না।"
+                }
+            ]
+        },
+        {
+            "id": 2426,
+            "verse_number": 78,
+            "verse_key": "20:78",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 126,
+            "ruku_number": 273,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+            "page_number": 317,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97363,
+                    "resource_id": 20,
+                    "text": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them,<sup foot_note=196755>1</sup>"
+                },
+                {
+                    "id": 215240,
+                    "resource_id": 39,
+                    "text": "Maka Firaun pun mengejar mereka bersama-sama dengan tenteranya, lalu ia dan orang-orangnya diliputi oleh air laut yang menenggelamkan mereka semuanya dengan cara yang sedahsyat-dahsyatnya."
+                },
+                {
+                    "id": 1093403,
+                    "resource_id": 161,
+                    "text": "অতঃপর ফেরাউন তার সৈন্যসামন্ত নিয়ে তাদের পিছু নিল, অতঃপর সমুদ্র তাদের উপর চড়াও হল আর তাদেরকে ডুবিয়ে দিল।"
+                }
+            ]
+        },
+        {
+            "id": 2427,
+            "verse_number": 79,
+            "verse_key": "20:79",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 126,
+            "ruku_number": 273,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَضَلَّ فِرْعَوْنُ قَوْمَهُۥ وَمَا هَدَىٰ",
+            "page_number": 317,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97364,
+                    "resource_id": 20,
+                    "text": "And Pharaoh led his people astray and did not guide [them]."
+                },
+                {
+                    "id": 215237,
+                    "resource_id": 39,
+                    "text": "Dan dengan itu Firaun telah menjerumuskan kaumnya ke tempat kebinasaan, dan tidaklah ia membawa mereka ke jalan yang benar."
+                },
+                {
+                    "id": 1093404,
+                    "resource_id": 161,
+                    "text": "ফেরাউন তার জাতিকে বিপথগামী করেছিল এবং তাদেরকে সঠিক পথ দেখায়নি।"
+                }
+            ]
+        },
+        {
+            "id": 2428,
+            "verse_number": 80,
+            "verse_key": "20:80",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 126,
+            "ruku_number": 273,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "يَـٰبَنِىٓ إِسْرَٰٓءِيلَ قَدْ أَنجَيْنَـٰكُم مِّنْ عَدُوِّكُمْ وَوَٰعَدْنَـٰكُمْ جَانِبَ ٱلطُّورِ ٱلْأَيْمَنَ وَنَزَّلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ",
+            "page_number": 317,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97366,
+                    "resource_id": 20,
+                    "text": "O Children of Israel, We delivered you from your enemy, and We made an appointment with you<sup foot_note=196756>1</sup> at the right side of the mount, and We sent down to you manna and quails,"
+                },
+                {
+                    "id": 215239,
+                    "resource_id": 39,
+                    "text": "Wahai Bani lsrail! Sesungguhnya Kami telah selamatkan kamu dari musuh kamu, dan Kami telah janjikan kamu (dengan memberi wahyu kepada Nabi Musa) di sebelah kanan Gunung Tursina itu, dan kami turunkan kepada kamu \"Mann\" dan \"Salwa\","
+                },
+                {
+                    "id": 1093405,
+                    "resource_id": 161,
+                    "text": "হে বানী ইসরাঈল! আমি তোমাদেরকে তোমাদের শত্রুর কবল থেকে উদ্ধার করেছিলাম আর আমি তোমাদেরকে তূর পাহাড়ের ডানপাশে প্রতিশ্রুতি দিয়েছিলাম (তাওরাত দানের জন্য) আর তোমাদের কাছে পাঠিয়েছিলাম মান্না ও সালওয়া।"
+                }
+            ]
+        },
+        {
+            "id": 2429,
+            "verse_number": 81,
+            "verse_key": "20:81",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 126,
+            "ruku_number": 273,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "كُلُوا۟ مِن طَيِّبَـٰتِ مَا رَزَقْنَـٰكُمْ وَلَا تَطْغَوْا۟ فِيهِ فَيَحِلَّ عَلَيْكُمْ غَضَبِى ۖ وَمَن يَحْلِلْ عَلَيْهِ غَضَبِى فَقَدْ هَوَىٰ",
+            "page_number": 317,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97367,
+                    "resource_id": 20,
+                    "text": "[Saying], \"Eat from the good things with which We have provided you and do not transgress [or oppress others] therein, lest My anger should descend upon you. And he upon whom My anger descends has certainly fallen [i.e., perished].\""
+                },
+                {
+                    "id": 215241,
+                    "resource_id": 39,
+                    "text": "Serta Kami katakan: Makanlah dari benda-benda yang baik yang Kami kurniakan kepada kamu, dan janganlah kamu melampaui batas padanya, kerana dengan yang demikian kamu akan ditimpa kemurkaanKu; dan sesiapa yang ditimpa kemurkaanKu, maka sesungguhnya binasalah ia."
+                },
+                {
+                    "id": 1093406,
+                    "resource_id": 161,
+                    "text": "তোমাদেরকে যে রিযক দিয়েছি তাত্থেকে উত্তমগুলো আহার কর, আর এতে বাড়াবাড়ি করো না, করলে তোমাদের উপর আমার ‘আযাব সাব্যস্ত হয়ে যাবে। আর আমার ‘আযাব যার উপর সাব্যস্ত হয় সে তো ধ্বংসই হয়ে যায়।"
+                }
+            ]
+        },
+        {
+            "id": 2430,
+            "verse_number": 82,
+            "verse_key": "20:82",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 126,
+            "ruku_number": 273,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِنِّى لَغَفَّارٌ لِّمَن تَابَ وَءَامَنَ وَعَمِلَ صَـٰلِحًا ثُمَّ ٱهْتَدَىٰ",
+            "page_number": 317,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97368,
+                    "resource_id": 20,
+                    "text": "But indeed, I am the Perpetual Forgiver of whoever repents and believes and does righteousness and then continues in guidance."
+                },
+                {
+                    "id": 215242,
+                    "resource_id": 39,
+                    "text": "Dan sesungguhnya Aku yang amat memberi ampun kepada orang-orang yang bertaubat serta beriman dan beramal soleh, kemudian ia tetap teguh menurut petunjuk yang diberikan kepadanya."
+                },
+                {
+                    "id": 1093407,
+                    "resource_id": 161,
+                    "text": "আর যে তাওবাহ করে, ঈমান আনে ও সৎকাজ করে আর সৎপথে অটল থাকে, আমি তার জন্য অবশ্যই অতি ক্ষমাশীল।"
+                }
+            ]
+        },
+        {
+            "id": 2431,
+            "verse_number": 83,
+            "verse_key": "20:83",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 127,
+            "ruku_number": 273,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "۞ وَمَآ أَعْجَلَكَ عَن قَوْمِكَ يَـٰمُوسَىٰ",
+            "page_number": 317,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97369,
+                    "resource_id": 20,
+                    "text": "[Allāh said], \"And what made you hasten from your people, O Moses?\""
+                },
+                {
+                    "id": 215246,
+                    "resource_id": 39,
+                    "text": "Dan apakah yang menyebabkan engkau segera datang ke mari lebih dahulu dari kaum engkau wahai Musa?."
+                },
+                {
+                    "id": 1093408,
+                    "resource_id": 161,
+                    "text": "‘হে মূসা! তোমার সম্প্রদায়কে পেছনে ফেলে (তূর পাহাড়ে আসতে) তুমি জলদি করলে কেন?’"
+                }
+            ]
+        },
+        {
+            "id": 2432,
+            "verse_number": 84,
+            "verse_key": "20:84",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 127,
+            "ruku_number": 273,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ هُمْ أُو۟لَآءِ عَلَىٰٓ أَثَرِى وَعَجِلْتُ إِلَيْكَ رَبِّ لِتَرْضَىٰ",
+            "page_number": 317,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97370,
+                    "resource_id": 20,
+                    "text": "He said, \"They are close upon my tracks, and I hastened to You, my Lord, that You be pleased.\""
+                },
+                {
+                    "id": 215243,
+                    "resource_id": 39,
+                    "text": "Nabi Musa menjawab: \"Mereka itu ada mengiringi daku tidak jauh dari sini; dan aku segera datang kepadaMu, wahai Tuhanku, supaya Engkau reda akan daku\"."
+                },
+                {
+                    "id": 1093409,
+                    "resource_id": 161,
+                    "text": "মূসা বলল, ‘এই তো তারা আমার পদচিহ্ন ধরে আসছে, আমি আপনার কাছে জলদি এলাম, হে আমার প্রতিপালক! যাতে আপনি সন্তুষ্ট হন।’"
+                }
+            ]
+        },
+        {
+            "id": 2433,
+            "verse_number": 85,
+            "verse_key": "20:85",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 127,
+            "ruku_number": 273,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+            "page_number": 317,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97371,
+                    "resource_id": 20,
+                    "text": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī<sup foot_note=196757>1</sup> has led them astray.\""
+                },
+                {
+                    "id": 215244,
+                    "resource_id": 39,
+                    "text": "(Setelah selesainya urusan itu) maka Allah berfirman kepada Nabi Musa: \"Sesungguhnya Kami telah mengenakan kaummu satu fitnah ujian sepeninggalanmu, dan mereka telah disesatkan oleh Samiri\""
+                },
+                {
+                    "id": 1093410,
+                    "resource_id": 161,
+                    "text": "তিনি বললেন, ‘তোমার অনুপস্থিতিতে আমি তোমার সম্প্রদায়কে পরীক্ষা করেছি আর সামিরী তাদেরকে গুমরাহ্ করেছে।"
+                }
+            ]
+        },
+        {
+            "id": 2434,
+            "verse_number": 86,
+            "verse_key": "20:86",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 127,
+            "ruku_number": 273,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَرَجَعَ مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَـٰنَ أَسِفًا ۚ قَالَ يَـٰقَوْمِ أَلَمْ يَعِدْكُمْ رَبُّكُمْ وَعْدًا حَسَنًا ۚ أَفَطَالَ عَلَيْكُمُ ٱلْعَهْدُ أَمْ أَرَدتُّمْ أَن يَحِلَّ عَلَيْكُمْ غَضَبٌ مِّن رَّبِّكُمْ فَأَخْلَفْتُم مَّوْعِدِى",
+            "page_number": 317,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97372,
+                    "resource_id": 20,
+                    "text": "So Moses returned to his people, angry and grieved.<sup foot_note=196759>1</sup> He said, \"O my people, did your Lord not make you a good promise?<sup foot_note=196758>2</sup> Then, was the time [of its fulfillment] too long for you, or did you wish that wrath from your Lord descend upon you, so you broke your promise [of obedience] to me?\""
+                },
+                {
+                    "id": 215245,
+                    "resource_id": 39,
+                    "text": "Maka kembalilah Nabi Musa kepada kaumnya dengan perasaan marah dan dukacita; ia berkata: \"Wahai kaumku! Bukankah Tuhan kamu telah menjanjikan kamu dengan satu perjanjian yang baik? Patutkah kamu merasa panjang masa pemergianku menerima apa yang dijanjikan itu? Atau kamu sengaja menghendaki supaya kamu ditimpa kemurkaan dari Tuhan kamu, lalu kamu menyalahi perjanjian kamu denganku?\""
+                },
+                {
+                    "id": 1093411,
+                    "resource_id": 161,
+                    "text": "তখন মূসা রাগে-দুঃখে তার জাতির কাছে ফিরে গেল। সে বলল, ‘হে আমার জাতি! তোমাদের প্রতিপালক কি তোমাদের সঙ্গে ও‘য়াদা করেননি, এক উত্তম ওয়া‘দা। ওয়া‘দা (পূরণের সময় আসতে) কি তোমাদের নিকট সুদীর্ঘ মনে হয়েছে, নাকি তোমরা চেয়েছ যে, তোমাদের প্রতি তোমাদের প্রতিপালকের শাস্তি নেমে আসুক, যে কারণে তোমরা আমার কাছে দেয়া তোমাদের ওয়া‘দা ভঙ্গ করলে?’"
+                }
+            ]
+        },
+        {
+            "id": 2435,
+            "verse_number": 87,
+            "verse_key": "20:87",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 127,
+            "ruku_number": 273,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالُوا۟ مَآ أَخْلَفْنَا مَوْعِدَكَ بِمَلْكِنَا وَلَـٰكِنَّا حُمِّلْنَآ أَوْزَارًا مِّن زِينَةِ ٱلْقَوْمِ فَقَذَفْنَـٰهَا فَكَذَٰلِكَ أَلْقَى ٱلسَّامِرِىُّ",
+            "page_number": 317,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97373,
+                    "resource_id": 20,
+                    "text": "They said, \"We did not break our promise to you by our will, but we were made to carry burdens from the ornaments of the people [of Pharaoh], so we threw them [into the fire], and thus did the Sāmirī throw.\""
+                },
+                {
+                    "id": 215247,
+                    "resource_id": 39,
+                    "text": "Mereka menjawab: \"Kami tidak menyalahi janji kami kepadamu itu dengan kuasa dan ikhtiar kami, tetapi kami telah dibebankan membawa barang-barang perhiasan orang-orang (Mesir) itu, supaya kami mencampakkannya ke dalam api lalu kami melakukan yang demikian, maka demikianlah juga \"Samiri\" mencampakkan apa yang dibawanya."
+                },
+                {
+                    "id": 1093412,
+                    "resource_id": 161,
+                    "text": "তারা বলল, ‘আমাদের সাধ্য থাকা পর্যন্ত আমরা তোমার প্রতি দেয়া আমাদের ওয়া‘দা ভঙ্গ করিনি, কিন্তু আমাদের উপর লোকেদের অলঙ্কারের বোঝা চাপিয়ে দেয়া হয়েছিল, আর আমরা তা নিক্ষেপ করেছিলাম (আগুনে), এমনিভাবে সামিরীও নিক্ষেপ করেছিল।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 11,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 11
+    }
+}

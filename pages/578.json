@@ -1,0 +1,791 @@
+{
+    "verses": [
+        {
+            "id": 5571,
+            "verse_number": 20,
+            "verse_key": "75:20",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 231,
+            "ruku_number": 514,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "كَلَّا بَلْ تُحِبُّونَ ٱلْعَاجِلَةَ",
+            "page_number": 578,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101560,
+                    "resource_id": 20,
+                    "text": "No! But you [i.e., mankind] love the immediate"
+                },
+                {
+                    "id": 219578,
+                    "resource_id": 39,
+                    "text": "Sedarlah wahai orang-orang yang lalai. (Sebenarnya kamu tidak ingatkan kesudahan kamu) bahkan kamu sentiasa mencintai (Kesenangan dan kemewahan dunia) yang cepat habisnya."
+                },
+                {
+                    "id": 1096548,
+                    "resource_id": 161,
+                    "text": "(আবার পূর্বের প্রসঙ্গে ফিরে গিয়ে আল্লাহ বলছেন) না, প্রকৃতপক্ষে তোমরা ইহজীবনকেই ভালবাস,"
+                }
+            ]
+        },
+        {
+            "id": 5572,
+            "verse_number": 21,
+            "verse_key": "75:21",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 231,
+            "ruku_number": 514,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَتَذَرُونَ ٱلْـَٔاخِرَةَ",
+            "page_number": 578,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101561,
+                    "resource_id": 20,
+                    "text": "And leave [i.e., neglect] the Hereafter."
+                },
+                {
+                    "id": 219581,
+                    "resource_id": 39,
+                    "text": "Dan kamu tidak menghiraukan (bekalan untuk) hari akhirat (yang kekal abadi kehidupannya)."
+                },
+                {
+                    "id": 1096549,
+                    "resource_id": 161,
+                    "text": "আর আখিরাতকে উপেক্ষা কর।"
+                }
+            ]
+        },
+        {
+            "id": 5573,
+            "verse_number": 22,
+            "verse_key": "75:22",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 231,
+            "ruku_number": 514,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وُجُوهٌ يَوْمَئِذٍ نَّاضِرَةٌ",
+            "page_number": 578,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101562,
+                    "resource_id": 20,
+                    "text": "[Some] faces, that Day, will be radiant,"
+                },
+                {
+                    "id": 219399,
+                    "resource_id": 39,
+                    "text": "Pada hari akhirat itu, muka (orang-orang yang beriman) berseri-seri;"
+                },
+                {
+                    "id": 1096550,
+                    "resource_id": 161,
+                    "text": "কতক মুখ সেদিন উজ্জ্বল হবে।"
+                }
+            ]
+        },
+        {
+            "id": 5574,
+            "verse_number": 23,
+            "verse_key": "75:23",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 231,
+            "ruku_number": 514,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِلَىٰ رَبِّهَا نَاظِرَةٌ",
+            "page_number": 578,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101563,
+                    "resource_id": 20,
+                    "text": "Looking at their Lord.<sup foot_note=197660>1</sup>"
+                },
+                {
+                    "id": 219403,
+                    "resource_id": 39,
+                    "text": "Melihat kepada Tuhannya."
+                },
+                {
+                    "id": 1096551,
+                    "resource_id": 161,
+                    "text": "তারা তাদের প্রতিপালকের দিকে তাকিয়ে থাকবে।"
+                }
+            ]
+        },
+        {
+            "id": 5575,
+            "verse_number": 24,
+            "verse_key": "75:24",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 231,
+            "ruku_number": 514,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَوُجُوهٌ يَوْمَئِذٍۭ بَاسِرَةٌ",
+            "page_number": 578,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101564,
+                    "resource_id": 20,
+                    "text": "And [some] faces, that Day, will be contorted,"
+                },
+                {
+                    "id": 219400,
+                    "resource_id": 39,
+                    "text": "Dan pada hari itu, muka (orang-orang kafir) muram hodoh,"
+                },
+                {
+                    "id": 1096552,
+                    "resource_id": 161,
+                    "text": "কতক মুখ সেদিন বিবর্ণ হবে।"
+                }
+            ]
+        },
+        {
+            "id": 5576,
+            "verse_number": 25,
+            "verse_key": "75:25",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 231,
+            "ruku_number": 514,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "تَظُنُّ أَن يُفْعَلَ بِهَا فَاقِرَةٌ",
+            "page_number": 578,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101565,
+                    "resource_id": 20,
+                    "text": "Expecting that there will be done to them [something] backbreaking."
+                },
+                {
+                    "id": 219401,
+                    "resource_id": 39,
+                    "text": "Sambil percaya dengan yakin bahawa mereka akan ditimpa malapetaka (azab seksa) yang membinasakan."
+                },
+                {
+                    "id": 1096553,
+                    "resource_id": 161,
+                    "text": "তারা ধারণা করবে যে, তাদের সঙ্গে কোমর-ভাঙ্গা আচরণ করা হবে।"
+                }
+            ]
+        },
+        {
+            "id": 5577,
+            "verse_number": 26,
+            "verse_key": "75:26",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 231,
+            "ruku_number": 514,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "كَلَّآ إِذَا بَلَغَتِ ٱلتَّرَاقِىَ",
+            "page_number": 578,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101566,
+                    "resource_id": 20,
+                    "text": "No! When it [i.e., the soul] has reached the collar bones<sup foot_note=197661>1</sup>"
+                },
+                {
+                    "id": 219402,
+                    "resource_id": 39,
+                    "text": "Sedarlah (janganlah mengutamakan dunia dan melupakan akhirat. Ingatlah akan hal orang yang hendak mati) apabila rohnya sampai ke pangkal kerongkong,"
+                },
+                {
+                    "id": 1096554,
+                    "resource_id": 161,
+                    "text": "(তোমরা যে ভাবছ ক্বিয়ামত হবে না সেটা) কক্ষনো নয়, প্রাণ যখন কণ্ঠে এসে পৌঁছবে,"
+                }
+            ]
+        },
+        {
+            "id": 5578,
+            "verse_number": 27,
+            "verse_key": "75:27",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 231,
+            "ruku_number": 514,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَقِيلَ مَنْ ۜ رَاقٍ",
+            "page_number": 578,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101567,
+                    "resource_id": 20,
+                    "text": "And it is said, \"Who will cure [him]?\""
+                },
+                {
+                    "id": 219404,
+                    "resource_id": 39,
+                    "text": "Dan (orang-orang yang hadir di sisinya heboh) berkata: \"Siapakah yang dapat menawar jampi (dan mengubatnya)?\""
+                },
+                {
+                    "id": 1096555,
+                    "resource_id": 161,
+                    "text": "তখন বলা হবে, (তাকে বাঁচানোর জন্য) ঝাড়ফুঁক দেয়ার কেউ আছে কি?"
+                }
+            ]
+        },
+        {
+            "id": 5579,
+            "verse_number": 28,
+            "verse_key": "75:28",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 231,
+            "ruku_number": 514,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَظَنَّ أَنَّهُ ٱلْفِرَاقُ",
+            "page_number": 578,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101568,
+                    "resource_id": 20,
+                    "text": "And he [i.e., the dying one] is certain that it is the [time of] separation"
+                },
+                {
+                    "id": 219484,
+                    "resource_id": 39,
+                    "text": "Dan ia sendiri yakin, bahawa sesungguhnya saat itu saat perpisahan;"
+                },
+                {
+                    "id": 1096556,
+                    "resource_id": 161,
+                    "text": "সে (অর্থাৎ মুমূর্ষু ব্যক্তি) মনে করবে যে, (দুনিয়া হতে) বিদায়ের ক্ষণ এসে গেছে।"
+                }
+            ]
+        },
+        {
+            "id": 5580,
+            "verse_number": 29,
+            "verse_key": "75:29",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 231,
+            "ruku_number": 514,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلْتَفَّتِ ٱلسَّاقُ بِٱلسَّاقِ",
+            "page_number": 578,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101569,
+                    "resource_id": 20,
+                    "text": "And the leg is wound about the leg,<sup foot_note=197662>1</sup>"
+                },
+                {
+                    "id": 219407,
+                    "resource_id": 39,
+                    "text": "Serta kedahsyatan bertindih-tindih;"
+                },
+                {
+                    "id": 1096557,
+                    "resource_id": 161,
+                    "text": "আর জড়িয়ে যাবে এক পায়ের নলা আরেক পায়ের নলার সাথে।"
+                }
+            ]
+        },
+        {
+            "id": 5581,
+            "verse_number": 30,
+            "verse_key": "75:30",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 231,
+            "ruku_number": 514,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ ٱلْمَسَاقُ",
+            "page_number": 578,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101572,
+                    "resource_id": 20,
+                    "text": "To your Lord, that Day, will be the procession.<sup foot_note=197663>1</sup>"
+                },
+                {
+                    "id": 214913,
+                    "resource_id": 39,
+                    "text": "(Maka) kepada Tuhanmu lah - pada waktu itu - engkau dibawa (untuk menerima balasan)."
+                },
+                {
+                    "id": 1096558,
+                    "resource_id": 161,
+                    "text": "সেদিন (সব কিছুর) যাত্রা হবে তোমার প্রতিপালকের পানে।"
+                }
+            ]
+        },
+        {
+            "id": 5582,
+            "verse_number": 31,
+            "verse_key": "75:31",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 231,
+            "ruku_number": 515,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَلَا صَدَّقَ وَلَا صَلَّىٰ",
+            "page_number": 578,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101573,
+                    "resource_id": 20,
+                    "text": "And he [i.e., the disbeliever] had not believed, nor had he prayed."
+                },
+                {
+                    "id": 219531,
+                    "resource_id": 39,
+                    "text": "(Oleh sebab orang yang kufur ingkar tidak percayakan hari akhirat) maka ia tidak mengakui kebenaran (yang diwajibkan meyakininya) dan ia tidak mengerjakan sembahyang (yang difardhukan mengerjakannya)!"
+                },
+                {
+                    "id": 1096559,
+                    "resource_id": 161,
+                    "text": "কিন্তু না, সে বিশ্বাসও করেনি, নামাযও আদায় করেনি।"
+                }
+            ]
+        },
+        {
+            "id": 5583,
+            "verse_number": 32,
+            "verse_key": "75:32",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 231,
+            "ruku_number": 515,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَـٰكِن كَذَّبَ وَتَوَلَّىٰ",
+            "page_number": 578,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101574,
+                    "resource_id": 20,
+                    "text": "But [instead], he denied and turned away."
+                },
+                {
+                    "id": 219567,
+                    "resource_id": 39,
+                    "text": "Akan tetapi ia mendustakan, dan berpaling ingkar!"
+                },
+                {
+                    "id": 1096560,
+                    "resource_id": 161,
+                    "text": "বরং সে প্রত্যাখ্যান করেছিল আর মুখ ফিরিয়ে নিয়েছিল।"
+                }
+            ]
+        },
+        {
+            "id": 5584,
+            "verse_number": 33,
+            "verse_key": "75:33",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 231,
+            "ruku_number": 515,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ثُمَّ ذَهَبَ إِلَىٰٓ أَهْلِهِۦ يَتَمَطَّىٰٓ",
+            "page_number": 578,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101575,
+                    "resource_id": 20,
+                    "text": "And then he went to his people, swaggering [in pride]."
+                },
+                {
+                    "id": 219569,
+                    "resource_id": 39,
+                    "text": "Kemudian ia pergi kepada keluarganya dengan berlagak sombong megah."
+                },
+                {
+                    "id": 1096561,
+                    "resource_id": 161,
+                    "text": "অতঃপর সে অতি দম্ভভরে তার পরিবারবর্গের কাছে ফিরে গিয়েছিল।"
+                }
+            ]
+        },
+        {
+            "id": 5585,
+            "verse_number": 34,
+            "verse_key": "75:34",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 231,
+            "ruku_number": 515,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَوْلَىٰ لَكَ فَأَوْلَىٰ",
+            "page_number": 578,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101576,
+                    "resource_id": 20,
+                    "text": "Woe to you, and woe!"
+                },
+                {
+                    "id": 219412,
+                    "resource_id": 39,
+                    "text": "(Wahai orang yang kufur ingkar!) sudahlah dekat kepadamu kebinasaanmu, sudahlah dekat!"
+                },
+                {
+                    "id": 1096562,
+                    "resource_id": 161,
+                    "text": "দুর্ভোগ তোমার জন্য, দুর্ভোগ,"
+                }
+            ]
+        },
+        {
+            "id": 5586,
+            "verse_number": 35,
+            "verse_key": "75:35",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 231,
+            "ruku_number": 515,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ثُمَّ أَوْلَىٰ لَكَ فَأَوْلَىٰٓ",
+            "page_number": 578,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101577,
+                    "resource_id": 20,
+                    "text": "Then woe to you, and woe!"
+                },
+                {
+                    "id": 219414,
+                    "resource_id": 39,
+                    "text": "Kemudian api nerakalah lebih layak bagimu, lebih layak."
+                },
+                {
+                    "id": 1096563,
+                    "resource_id": 161,
+                    "text": "অতঃপর তোমার জন্য দুর্ভোগের উপর দুর্ভোগ।"
+                }
+            ]
+        },
+        {
+            "id": 5587,
+            "verse_number": 36,
+            "verse_key": "75:36",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 231,
+            "ruku_number": 515,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَيَحْسَبُ ٱلْإِنسَـٰنُ أَن يُتْرَكَ سُدًى",
+            "page_number": 578,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101578,
+                    "resource_id": 20,
+                    "text": "Does man think that he will be left neglected?<sup foot_note=197664>1</sup>"
+                },
+                {
+                    "id": 219413,
+                    "resource_id": 39,
+                    "text": "Patutkah manusia menyangka, bahawa ia akan ditinggalkan terbiar (dengan tidak diberikan tanggungjawab dan tidak dihidupkan menerima balasan)?"
+                },
+                {
+                    "id": 1096564,
+                    "resource_id": 161,
+                    "text": "মানুষ কি মনে করে নিয়েছে যে তাকে এমনি ছেড়ে দেয়া হবে। (তাকে পুনর্জীবিত করাও হবে না, আর বিচারের জন্য হাজির করাও হবে না)?"
+                }
+            ]
+        },
+        {
+            "id": 5588,
+            "verse_number": 37,
+            "verse_key": "75:37",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 231,
+            "ruku_number": 515,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَلَمْ يَكُ نُطْفَةً مِّن مَّنِىٍّ يُمْنَىٰ",
+            "page_number": 578,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101579,
+                    "resource_id": 20,
+                    "text": "Had he not been a sperm from semen emitted?"
+                },
+                {
+                    "id": 219416,
+                    "resource_id": 39,
+                    "text": "Bukankah ia berasal dari air mani yang dipancarkan (ke dalam rahim)?"
+                },
+                {
+                    "id": 1096565,
+                    "resource_id": 161,
+                    "text": "(তার মৃত্যুর পর আল্লাহ পুনরায় তাকে জীবিত করতে পারবেন না সে এটা কী ভাবে ধারণা করছে?) সে কি (মায়ের গর্ভে) নিক্ষিপ্ত শুক্রবিন্দু ছিল না?"
+                }
+            ]
+        },
+        {
+            "id": 5589,
+            "verse_number": 38,
+            "verse_key": "75:38",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 231,
+            "ruku_number": 515,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوَّىٰ",
+            "page_number": 578,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101580,
+                    "resource_id": 20,
+                    "text": "Then he was a clinging clot, and [Allāh] created [his form] and proportioned [him]"
+                },
+                {
+                    "id": 219415,
+                    "resource_id": 39,
+                    "text": "Kemudian air mani itu menjadi sebuku darah beku, sesudah itu Tuhan menciptakannya, dan menyempurnakan kejadiannya (sebagai manusia)?"
+                },
+                {
+                    "id": 1096566,
+                    "resource_id": 161,
+                    "text": "তারপর সে হল রক্তপিন্ড, অতঃপর আল্লাহ তাকে সৃষ্টি করলেন ও সুবিন্যস্ত করলেন।"
+                }
+            ]
+        },
+        {
+            "id": 5590,
+            "verse_number": 39,
+            "verse_key": "75:39",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 231,
+            "ruku_number": 515,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَجَعَلَ مِنْهُ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ",
+            "page_number": 578,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101581,
+                    "resource_id": 20,
+                    "text": "And made of him two mates, the male and the female."
+                },
+                {
+                    "id": 219418,
+                    "resource_id": 39,
+                    "text": "Lalu Tuhan menjadikan daripadanya dua jenis - lelaki dan perempuan."
+                },
+                {
+                    "id": 1096567,
+                    "resource_id": 161,
+                    "text": "অতঃপর তা থেকে তিনি সৃষ্টি করলেন জুড়ি- পুরুষ ও নারী।"
+                }
+            ]
+        },
+        {
+            "id": 5591,
+            "verse_number": 40,
+            "verse_key": "75:40",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 231,
+            "ruku_number": 515,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَلَيْسَ ذَٰلِكَ بِقَـٰدِرٍ عَلَىٰٓ أَن يُحْـِۧىَ ٱلْمَوْتَىٰ",
+            "page_number": 578,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101584,
+                    "resource_id": 20,
+                    "text": "Is not that [Creator] Able to give life to the dead?"
+                },
+                {
+                    "id": 219420,
+                    "resource_id": 39,
+                    "text": "Adakah (Tuhan yang menjadikan semuanya) itu - tidak berkuasa menghidupkan orang-orang yang mati? (Tentulah berkuasa)!"
+                },
+                {
+                    "id": 1096568,
+                    "resource_id": 161,
+                    "text": "এহেন স্রষ্টা কি মৃতকে আবার জীবিত করতে সক্ষম নন?"
+                }
+            ]
+        },
+        {
+            "id": 5592,
+            "verse_number": 1,
+            "verse_key": "76:1",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 231,
+            "ruku_number": 516,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " هَلْ أَتَىٰ عَلَى ٱلْإِنسَـٰنِ حِينٌ مِّنَ ٱلدَّهْرِ لَمْ يَكُن شَيْـًٔا مَّذْكُورًا",
+            "page_number": 578,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101601,
+                    "resource_id": 20,
+                    "text": "Has there [not] come upon man a period of time when he was not a thing [even] mentioned?"
+                },
+                {
+                    "id": 219431,
+                    "resource_id": 39,
+                    "text": "Bukankah telah berlalu kepada manusia satu ketika dari masa (yang beredar), sedang ia (masih belum wujud lagi, dan) tidak menjadi sesuatu benda yang disebut-sebut, (maka mengapa kaum musyrik itu mengingkari hari akhirat)?"
+                },
+                {
+                    "id": 1096569,
+                    "resource_id": 161,
+                    "text": "মহাকালের মধ্য হতে মানুষের উপর কি এমন একটা সময় অতিবাহিত হয়নি যখন সে উল্লেখ করার যোগ্য কোন বস্তুই ছিল না?"
+                }
+            ]
+        },
+        {
+            "id": 5593,
+            "verse_number": 2,
+            "verse_key": "76:2",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 231,
+            "ruku_number": 516,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّا خَلَقْنَا ٱلْإِنسَـٰنَ مِن نُّطْفَةٍ أَمْشَاجٍ نَّبْتَلِيهِ فَجَعَلْنَـٰهُ سَمِيعًۢا بَصِيرًا",
+            "page_number": 578,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101613,
+                    "resource_id": 20,
+                    "text": "Indeed, We created man from a sperm-drop mixture<sup foot_note=197665>1</sup> that We may try him; and We made him hearing and seeing."
+                },
+                {
+                    "id": 219443,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Kami telah aturkan cara mencipta manusia bermulanya dari air mani yang bercampur (dari pati benih lelaki dan perempuan), serta Kami tetap mengujinya (dengan kewajipan-kewajipan); oleh itu maka Kami jadikan dia berkeadaan mendengar dan melihat."
+                },
+                {
+                    "id": 1096570,
+                    "resource_id": 161,
+                    "text": "আমি মানুষকে সৃষ্টি করেছি সংমিশ্রিত শুক্রবিন্দু থেকে তাকে পরীক্ষা করার জন্য, এজন্য তাকে করেছি শ্রবণশক্তি ও দৃষ্টিশক্তির অধিকারী।"
+                }
+            ]
+        },
+        {
+            "id": 5594,
+            "verse_number": 3,
+            "verse_key": "76:3",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 231,
+            "ruku_number": 516,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّا هَدَيْنَـٰهُ ٱلسَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا",
+            "page_number": 578,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101625,
+                    "resource_id": 20,
+                    "text": "Indeed, We guided him to the way, be he grateful or be he ungrateful."
+                },
+                {
+                    "id": 219457,
+                    "resource_id": 39,
+                    "text": "Kerana keadaan itu tidak mencukupi, maka) sesungguhnya Kami telah menunjukkan kepadanya (melalui akal dan Rasul) akan jalan-jalan (yang benar dan yang salah; maka terserahlah kepadanya) sama ada ia bersyukur (dengan beriman dan taat), ataupun ia berlaku kufur (dengan mengingkari kebenaran atau menderhaka)."
+                },
+                {
+                    "id": 1096571,
+                    "resource_id": 161,
+                    "text": "আমি তাকে পথ দেখিয়ে দিয়েছি, হয় সে কৃতজ্ঞ হবে, না হয় সে অকৃতজ্ঞ হবে।"
+                }
+            ]
+        },
+        {
+            "id": 5595,
+            "verse_number": 4,
+            "verse_key": "76:4",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 231,
+            "ruku_number": 516,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّآ أَعْتَدْنَا لِلْكَـٰفِرِينَ سَلَـٰسِلَا۟ وَأَغْلَـٰلًا وَسَعِيرًا",
+            "page_number": 578,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101629,
+                    "resource_id": 20,
+                    "text": "Indeed, We have prepared for the disbelievers chains and shackles and a blaze."
+                },
+                {
+                    "id": 219459,
+                    "resource_id": 39,
+                    "text": "(Dalam pada itu), sesungguhnya Kami telah menyediakan bagi sesiapa yang berlaku kufur (atau menderhaka): beberapa rantai dan belenggu serta neraka yang menjulang-julang."
+                },
+                {
+                    "id": 1096572,
+                    "resource_id": 161,
+                    "text": "আমি (অকৃতজ্ঞ) কাফিরদের জন্য প্রস্তুত করে রেখেছি শেকল, বেড়ি আর জ্বলন্ত আগুন।"
+                }
+            ]
+        },
+        {
+            "id": 5596,
+            "verse_number": 5,
+            "verse_key": "76:5",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 231,
+            "ruku_number": 516,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ ٱلْأَبْرَارَ يَشْرَبُونَ مِن كَأْسٍ كَانَ مِزَاجُهَا كَافُورًا",
+            "page_number": 578,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101631,
+                    "resource_id": 20,
+                    "text": "Indeed, the righteous will drink from a cup [of wine] whose mixture is of Kāfūr,<sup foot_note=197666>1</sup>"
+                },
+                {
+                    "id": 219461,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya orang-orang yang berbakti (dengan taat dan kebajikan), akan meminum dari piala: sejenis minuman yang bercampur dengan \"Kafur\", -"
+                },
+                {
+                    "id": 1096573,
+                    "resource_id": 161,
+                    "text": "(অপরদিকে) নেককার লোকেরা এমন পানপাত্র থেকে পান করবে যাতে কর্পুরের সংমিশ্রণ থাকবে।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 26,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 26
+    }
+}

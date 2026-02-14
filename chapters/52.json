@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 4736,
+            "verse_number": 1,
+            "verse_key": "52:1",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 209,
+            "ruku_number": 460,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " وَٱلطُّورِ",
+            "page_number": 523,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100344,
+                    "resource_id": 20,
+                    "text": "By the mount"
+                },
+                {
+                    "id": 218306,
+                    "resource_id": 39,
+                    "text": "Demi Gunung Tursina;"
+                },
+                {
+                    "id": 1095713,
+                    "resource_id": 161,
+                    "text": "শপথ তূর (পর্বত) এর,"
+                }
+            ]
+        },
+        {
+            "id": 4737,
+            "verse_number": 2,
+            "verse_key": "52:2",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 209,
+            "ruku_number": 460,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَكِتَـٰبٍ مَّسْطُورٍ",
+            "page_number": 523,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100356,
+                    "resource_id": 20,
+                    "text": "And [by] a Book inscribed<sup foot_note=197428>1</sup>"
+                },
+                {
+                    "id": 218181,
+                    "resource_id": 39,
+                    "text": "Dan demi Kitab yang tertulis dengan rapi -"
+                },
+                {
+                    "id": 1095714,
+                    "resource_id": 161,
+                    "text": "শপথ কিতাবের যা লিখিত"
+                }
+            ]
+        },
+        {
+            "id": 4738,
+            "verse_number": 3,
+            "verse_key": "52:3",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 209,
+            "ruku_number": 460,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فِى رَقٍّ مَّنشُورٍ",
+            "page_number": 523,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100368,
+                    "resource_id": 20,
+                    "text": "In parchment spread open"
+                },
+                {
+                    "id": 220617,
+                    "resource_id": 39,
+                    "text": "Pada lembaran surat yang terbuka;"
+                },
+                {
+                    "id": 1095715,
+                    "resource_id": 161,
+                    "text": "খোলা পৃষ্ঠায়,"
+                }
+            ]
+        },
+        {
+            "id": 4739,
+            "verse_number": 4,
+            "verse_key": "52:4",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 209,
+            "ruku_number": 460,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلْبَيْتِ ٱلْمَعْمُورِ",
+            "page_number": 523,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100380,
+                    "resource_id": 20,
+                    "text": "And [by] the frequented House<sup foot_note=197429>1</sup>"
+                },
+                {
+                    "id": 218213,
+                    "resource_id": 39,
+                    "text": "Dan demi \"Al-Baitul Makmur\";"
+                },
+                {
+                    "id": 1095716,
+                    "resource_id": 161,
+                    "text": "শপথ বেশি বেশি আবাদকৃত ঘরের,"
+                }
+            ]
+        },
+        {
+            "id": 4740,
+            "verse_number": 5,
+            "verse_key": "52:5",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 209,
+            "ruku_number": 460,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلسَّقْفِ ٱلْمَرْفُوعِ",
+            "page_number": 523,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100392,
+                    "resource_id": 20,
+                    "text": "And [by] the ceiling [i.e., heaven] raised high"
+                },
+                {
+                    "id": 218217,
+                    "resource_id": 39,
+                    "text": "Dan demi bumbung yang tinggi;"
+                },
+                {
+                    "id": 1095717,
+                    "resource_id": 161,
+                    "text": "শপথ সুউচ্চ ছাদের,"
+                }
+            ]
+        },
+        {
+            "id": 4741,
+            "verse_number": 6,
+            "verse_key": "52:6",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 209,
+            "ruku_number": 460,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلْبَحْرِ ٱلْمَسْجُورِ",
+            "page_number": 523,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100394,
+                    "resource_id": 20,
+                    "text": "And [by] the sea set on fire,<sup foot_note=197430>1</sup>"
+                },
+                {
+                    "id": 218219,
+                    "resource_id": 39,
+                    "text": "Dan demi laut yang penuh tepu (dengan kepanasan); -"
+                },
+                {
+                    "id": 1095718,
+                    "resource_id": 161,
+                    "text": "শপথ তরঙ্গায়িত সমুদ্রের,"
+                }
+            ]
+        },
+        {
+            "id": 4742,
+            "verse_number": 7,
+            "verse_key": "52:7",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 209,
+            "ruku_number": 460,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ عَذَابَ رَبِّكَ لَوَٰقِعٌ",
+            "page_number": 523,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100396,
+                    "resource_id": 20,
+                    "text": "Indeed, the punishment of your Lord will occur."
+                },
+                {
+                    "id": 218221,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya azab Tuhanmu tetap berlaku; -"
+                },
+                {
+                    "id": 1095719,
+                    "resource_id": 161,
+                    "text": "তোমার প্রতিপালকের ‘আযাব অবশ্যই সংঘটিত হবে।"
+                }
+            ]
+        },
+        {
+            "id": 4743,
+            "verse_number": 8,
+            "verse_key": "52:8",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 209,
+            "ruku_number": 460,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "مَّا لَهُۥ مِن دَافِعٍ",
+            "page_number": 523,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100337,
+                    "resource_id": 20,
+                    "text": "Of it there is no preventer."
+                },
+                {
+                    "id": 218223,
+                    "resource_id": 39,
+                    "text": "Tidak ada sesiapapun yang dapat menolaknya; -"
+                },
+                {
+                    "id": 1095720,
+                    "resource_id": 161,
+                    "text": "তার প্রতিরোধকারী কেউ নেই।"
+                }
+            ]
+        },
+        {
+            "id": 4744,
+            "verse_number": 9,
+            "verse_key": "52:9",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 209,
+            "ruku_number": 460,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "يَوْمَ تَمُورُ ٱلسَّمَآءُ مَوْرًا",
+            "page_number": 523,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 96051,
+                    "resource_id": 20,
+                    "text": "On the Day the heaven will sway with circular motion"
+                },
+                {
+                    "id": 218225,
+                    "resource_id": 39,
+                    "text": "Pada hari langit (dan segala isinya) bergegar dengan sekuat-kuatnya."
+                },
+                {
+                    "id": 1095721,
+                    "resource_id": 161,
+                    "text": "যেদিন আকাশ প্রচন্ডভাবে কাঁপবে,"
+                }
+            ]
+        },
+        {
+            "id": 4745,
+            "verse_number": 10,
+            "verse_key": "52:10",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 209,
+            "ruku_number": 460,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَتَسِيرُ ٱلْجِبَالُ سَيْرًا",
+            "page_number": 523,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100345,
+                    "resource_id": 20,
+                    "text": "And the mountains will pass on, departing<sup foot_note=197431>1</sup> -"
+                },
+                {
+                    "id": 218233,
+                    "resource_id": 39,
+                    "text": "Dan gunung-ganang bergerak dari tempatnya dengan cara yang luar biasa."
+                },
+                {
+                    "id": 1095722,
+                    "resource_id": 161,
+                    "text": "আর পর্বত হবে দ্রুত চলমান,"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 5,
+        "total_records": 49
+    }
+}

@@ -1,0 +1,281 @@
+{
+    "verses": [
+        {
+            "id": 4575,
+            "verse_number": 30,
+            "verse_key": "47:30",
+            "hizb_number": 51,
+            "rub_el_hizb_number": 203,
+            "ruku_number": 447,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَوْ نَشَآءُ لَأَرَيْنَـٰكَهُمْ فَلَعَرَفْتَهُم بِسِيمَـٰهُمْ ۚ وَلَتَعْرِفَنَّهُمْ فِى لَحْنِ ٱلْقَوْلِ ۚ وَٱللَّهُ يَعْلَمُ أَعْمَـٰلَكُمْ",
+            "page_number": 510,
+            "juz_number": 26,
+            "translations": [
+                {
+                    "id": 100110,
+                    "resource_id": 20,
+                    "text": "And if We willed, We could show them to you, and you would know them by their mark; but you will surely know them by the tone of [their] speech. And Allāh knows your deeds."
+                },
+                {
+                    "id": 217959,
+                    "resource_id": 39,
+                    "text": "Dan sekiranya Kami kehendaki, tentulah Kami akan memperkenalkan mereka kepadamu (wahai Muhammad), lalu engkau tetap mengenalinya dengan tanda-tanda (yang menjadi sifat) mereka; dan demi sesungguhnya, engkau akan mengenali mereka dari gaya dan tutur katanya. Dan (ingatlah kamu masing-masing), Allah mengetahui segala yang kamu lakukan."
+                },
+                {
+                    "id": 1095552,
+                    "resource_id": 161,
+                    "text": "আমি যদি ইচ্ছে করতাম তাহলে আমি তোমায় ওদেরকে দেখিয়ে দিতাম। তুমি তাদের মুখ দেখে অবশ্যই চিনতে পারবে আর তাদের কথাবার্তার ধরন দেখে তুমি তাদেরকে অবশ্যই অবশ্যই চিনতে পারবে। আল্লাহ তোমাদের ‘আমাল সম্পর্কে ভালভাবেই জানেন।"
+                }
+            ]
+        },
+        {
+            "id": 4576,
+            "verse_number": 31,
+            "verse_key": "47:31",
+            "hizb_number": 51,
+            "rub_el_hizb_number": 203,
+            "ruku_number": 447,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَنَبْلُوَنَّكُمْ حَتَّىٰ نَعْلَمَ ٱلْمُجَـٰهِدِينَ مِنكُمْ وَٱلصَّـٰبِرِينَ وَنَبْلُوَا۟ أَخْبَارَكُمْ",
+            "page_number": 510,
+            "juz_number": 26,
+            "translations": [
+                {
+                    "id": 100111,
+                    "resource_id": 20,
+                    "text": "And We will surely test you until We make evident those who strive among you [for the cause of Allāh] and the patient, and We will test your affairs."
+                },
+                {
+                    "id": 217960,
+                    "resource_id": 39,
+                    "text": "Dan demi sesungguhnya! Kami tetap menguji kamu (wahai orang-orang yang mengaku beriman) sehingga ternyata pengetahuan Kami tentang adanya orang-orang yang berjuang dari kalangan kamu dan orang-orang yang sabar (dalam menjalankan perintah Kami); dan (sehingga) Kami dapat mengesahkan (benar atau tidaknya) berita-berita tentang keadaan kamu."
+                },
+                {
+                    "id": 1095553,
+                    "resource_id": 161,
+                    "text": "আমি তোমাদেরকে অবশ্য অবশ্যই পরীক্ষা করব যতক্ষণ না আমি জেনে নিতে পারি তোমাদের মধ্যে মুজাহিদ আর ধৈর্যশীলদেরকে, আর তোমাদের অবস্থা যাচাই করতে পারি।"
+                }
+            ]
+        },
+        {
+            "id": 4577,
+            "verse_number": 32,
+            "verse_key": "47:32",
+            "hizb_number": 51,
+            "rub_el_hizb_number": 203,
+            "ruku_number": 447,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ وَشَآقُّوا۟ ٱلرَّسُولَ مِنۢ بَعْدِ مَا تَبَيَّنَ لَهُمُ ٱلْهُدَىٰ لَن يَضُرُّوا۟ ٱللَّهَ شَيْـًٔا وَسَيُحْبِطُ أَعْمَـٰلَهُمْ",
+            "page_number": 510,
+            "juz_number": 26,
+            "translations": [
+                {
+                    "id": 100112,
+                    "resource_id": 20,
+                    "text": "Indeed, those who disbelieved and averted [people] from the path of Allāh and opposed the Messenger after guidance had become clear to them - never will they harm Allāh at all, and He will render worthless their deeds."
+                },
+                {
+                    "id": 217961,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya orang-orang yang kafir dan menghalangi (dirinya dan orang lain) dari jalan Allah, serta mereka memusuhi Rasul Allah setelah ternyata kepada mereka kebenaran petunjuk (yang dibawanya), mereka tidak sekali-kali akan dapat mendatangkan mudarat kepada Allah sedikitpun, dan (sebaliknya) Allah akan menghampakan perbuatan dan amal-amal mereka."
+                },
+                {
+                    "id": 1095554,
+                    "resource_id": 161,
+                    "text": "যারা কুফুরী করে আর আল্লাহর পথে চলতে বাধা সৃষ্টি করে, আর তাদের নিকট সত্য পথ স্পষ্ট হয়ে যাওয়ার পরও রসূলের বিরোধিতা করে, তারা আল্লাহর কোনই ক্ষতি করতে পারবে না। আল্লাহ তাদের যাবতীয় ‘আমাল নষ্ট করে দিবেন।"
+                }
+            ]
+        },
+        {
+            "id": 4578,
+            "verse_number": 33,
+            "verse_key": "47:33",
+            "hizb_number": 51,
+            "rub_el_hizb_number": 204,
+            "ruku_number": 447,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "۞ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ وَلَا تُبْطِلُوٓا۟ أَعْمَـٰلَكُمْ",
+            "page_number": 510,
+            "juz_number": 26,
+            "translations": [
+                {
+                    "id": 100113,
+                    "resource_id": 20,
+                    "text": "O you who have believed, obey Allāh and obey the Messenger and do not invalidate your deeds."
+                },
+                {
+                    "id": 214846,
+                    "resource_id": 39,
+                    "text": "Wahai orang-orang yang beriman! Taatlah kamu kepada Allah dan taatlah kepada Rasul Allah, dan janganlah kamu batalkan amal-amal kamu!"
+                },
+                {
+                    "id": 1095555,
+                    "resource_id": 161,
+                    "text": "হে ঈমানদারগণ! তোমরা আল্লাহর আনুগত্য কর আর রসূলের আনুগত্য কর আর তোমাদের ‘আমালগুলোকে নষ্ট করে দিও না।"
+                }
+            ]
+        },
+        {
+            "id": 4579,
+            "verse_number": 34,
+            "verse_key": "47:34",
+            "hizb_number": 51,
+            "rub_el_hizb_number": 204,
+            "ruku_number": 447,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ ثُمَّ مَاتُوا۟ وَهُمْ كُفَّارٌ فَلَن يَغْفِرَ ٱللَّهُ لَهُمْ",
+            "page_number": 510,
+            "juz_number": 26,
+            "translations": [
+                {
+                    "id": 100114,
+                    "resource_id": 20,
+                    "text": "Indeed, those who disbelieved and averted [people] from the path of Allāh and then died while they were disbelievers - never will Allāh forgive them."
+                },
+                {
+                    "id": 217962,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya orang-orang yang kafir dan menghalangi (dirinya dan orang lain) dari jalan Allah, kemudian mereka mati dengan keadaan kafirnya, maka Allah tidak sekali-kali akan mengampunkan mereka."
+                },
+                {
+                    "id": 1095556,
+                    "resource_id": 161,
+                    "text": "যারা কুফরী করে আর (মানুষকে) আল্লাহর পথে চলতে বাধা দেয় আর এভাবে কাফির অবস্থাতেই মৃত্যুবরণ করে, আল্লাহ তাদেরকে কক্ষনো ক্ষমা করবেন না।"
+                }
+            ]
+        },
+        {
+            "id": 4580,
+            "verse_number": 35,
+            "verse_key": "47:35",
+            "hizb_number": 51,
+            "rub_el_hizb_number": 204,
+            "ruku_number": 447,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فَلَا تَهِنُوا۟ وَتَدْعُوٓا۟ إِلَى ٱلسَّلْمِ وَأَنتُمُ ٱلْأَعْلَوْنَ وَٱللَّهُ مَعَكُمْ وَلَن يَتِرَكُمْ أَعْمَـٰلَكُمْ",
+            "page_number": 510,
+            "juz_number": 26,
+            "translations": [
+                {
+                    "id": 100115,
+                    "resource_id": 20,
+                    "text": "So do not weaken and call for peace while you are superior; and Allāh is with you and will never deprive you of [the reward of] your deeds."
+                },
+                {
+                    "id": 217963,
+                    "resource_id": 39,
+                    "text": "(Apabila kamu telah mengetahui bahawa orang-orang kafir itu dihampakan amalnya dan diseksa oleh Allah) maka janganlah kamu (wahai orang-orang yang beriman) merasa lemah dan mengajak (musuh yang menceroboh) untuk berdamai, padahal kamulah orang-orang yang tertinggi keadaannya, lagi pula Allah bersama-sama kamu (untuk membela kamu mencapai kemenangan), dan Ia tidak sekali-kali akan mengurangi (pahala) amal-amal kamu."
+                },
+                {
+                    "id": 1095557,
+                    "resource_id": 161,
+                    "text": "কাজেই তোমরা সাহস-হারা হয়ে যেও না আর সন্ধির আবেদন করে বসো না, প্রবল তো তোমরাই। আল্লাহ তোমাদের সঙ্গে আছেন, তিনি তোমাদের ‘আমাল কক্ষনো বিনষ্ট করবেন না।"
+                }
+            ]
+        },
+        {
+            "id": 4581,
+            "verse_number": 36,
+            "verse_key": "47:36",
+            "hizb_number": 51,
+            "rub_el_hizb_number": 204,
+            "ruku_number": 447,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّمَا ٱلْحَيَوٰةُ ٱلدُّنْيَا لَعِبٌ وَلَهْوٌ ۚ وَإِن تُؤْمِنُوا۟ وَتَتَّقُوا۟ يُؤْتِكُمْ أُجُورَكُمْ وَلَا يَسْـَٔلْكُمْ أَمْوَٰلَكُمْ",
+            "page_number": 510,
+            "juz_number": 26,
+            "translations": [
+                {
+                    "id": 100116,
+                    "resource_id": 20,
+                    "text": "[This] worldly life is only amusement and diversion. And if you believe and fear Allāh, He will give you your rewards and not ask you for your properties."
+                },
+                {
+                    "id": 217964,
+                    "resource_id": 39,
+                    "text": "(Ingatlah) bahawa kehidupan dunia (yang tidak berdasarkan iman dan taqwa) hanyalah ibarat permainan dan hiburan; dan jika kamu beriman serta bertaqwa, Allah akan memberikan kamu pahala amal kamu, dan Ia tidak meminta kepada kamu harta benda kamu (melainkan untuk memberikan kamu barang yang lebih baik daripadanya)."
+                },
+                {
+                    "id": 1095558,
+                    "resource_id": 161,
+                    "text": "দুনিয়ার এ জীবন তো খেলা আর তামাশা মাত্র। তোমরা যদি ঈমান আন, আর আল্লাহকে ভয় করে চল, তিনি তোমাদেরকে তোমাদের প্রতিফল দিবেন (আর এর বিপরীতে) তিনি তোমাদের কাছে তোমাদের মাল ধন চাইবেন না।"
+                }
+            ]
+        },
+        {
+            "id": 4582,
+            "verse_number": 37,
+            "verse_key": "47:37",
+            "hizb_number": 51,
+            "rub_el_hizb_number": 204,
+            "ruku_number": 447,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "إِن يَسْـَٔلْكُمُوهَا فَيُحْفِكُمْ تَبْخَلُوا۟ وَيُخْرِجْ أَضْغَـٰنَكُمْ",
+            "page_number": 510,
+            "juz_number": 26,
+            "translations": [
+                {
+                    "id": 100117,
+                    "resource_id": 20,
+                    "text": "If He should ask you for them and press you, you would withhold, and He would expose your hatred [i.e., unwillingness]."
+                },
+                {
+                    "id": 217965,
+                    "resource_id": 39,
+                    "text": "(Tabiat kamu wahai manusia) jika Tuhan meminta kepada kamu harta benda kamu serta mendesak kamu memberikanNya, nescaya kamu akan berlaku bakhil kedekut, dan kebakhilan itu akan melahirkan kemarahan dan kebencian kamu."
+                },
+                {
+                    "id": 1095559,
+                    "resource_id": 161,
+                    "text": "তিনি যদি তোমাদের কাছে তা চাইতেন আর সেজন্য চাপ দিতেন তাহলে তোমরা কৃপণতা করতে আর তাতে তিনি তোমাদের বিদ্বেষভাব প্রকাশ করে দিতেন।"
+                }
+            ]
+        },
+        {
+            "id": 4583,
+            "verse_number": 38,
+            "verse_key": "47:38",
+            "hizb_number": 51,
+            "rub_el_hizb_number": 204,
+            "ruku_number": 447,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "هَـٰٓأَنتُمْ هَـٰٓؤُلَآءِ تُدْعَوْنَ لِتُنفِقُوا۟ فِى سَبِيلِ ٱللَّهِ فَمِنكُم مَّن يَبْخَلُ ۖ وَمَن يَبْخَلْ فَإِنَّمَا يَبْخَلُ عَن نَّفْسِهِۦ ۚ وَٱللَّهُ ٱلْغَنِىُّ وَأَنتُمُ ٱلْفُقَرَآءُ ۚ وَإِن تَتَوَلَّوْا۟ يَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ ثُمَّ لَا يَكُونُوٓا۟ أَمْثَـٰلَكُم",
+            "page_number": 510,
+            "juz_number": 26,
+            "translations": [
+                {
+                    "id": 100118,
+                    "resource_id": 20,
+                    "text": "Here you are - those invited to spend in the cause of Allāh - but among you are those who withhold [out of greed]. And whoever withholds only withholds [benefit] from himself; and Allāh is the Free of need, while you are the needy. And if you turn away [i.e., refuse], He will replace you with another people; then they will not be the likes of you."
+                },
+                {
+                    "id": 217966,
+                    "resource_id": 39,
+                    "text": "(Ingatlah), kamu ini adalah orang-orang yang bertabiat demikian - kamu diseru supaya menderma dan membelanjakan sedikit dari harta benda kamu pada jalan Allah, maka ada di antara kamu yang berlaku bakhil, padahal sesiapa yang berlaku bakhil maka sesungguhnya ia hanyalah berlaku bakhil kepada dirinya sendiri. Dan (ingatlah) Allah Maha kaya (tidak berhajat kepada sesuatupun), sedang kamu semua orang-orang miskin (yang sentiasa berhajat kepadaNya dalam segala hal). Dan jika kamu berpaling (daripada beriman, bertaqwa dan berderma) Ia akan menggantikan kamu dengan kaum yang lain; setelah itu mereka tidak akan berkeadaan seperti kamu."
+                },
+                {
+                    "id": 1095560,
+                    "resource_id": 161,
+                    "text": "দেখ, তোমরা তো তারাই, তোমাদেরকে আল্লাহর পথে ব্যয় করার জন্য ডাক দেয়া হচ্ছে, তখন তোমাদের কিছু লোক কৃপণতা করছে। যে কৃপণতা করে, সে কৃপণতা করে কেবল নিজের আত্মার সাথে। আল্লাহ তো অভাবহীন আর তোমরাই অভাবী। তোমরা যদি মুখ ফিরিয়ে নাও তাহলে তিনি তোমাদের পরিবর্তে অন্য জাতিকে নিয়ে আসবেন, তখন তারা তোমাদের মত হবে না।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 9,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 9
+    }
+}

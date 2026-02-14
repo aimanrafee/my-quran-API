@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 5994,
+            "verse_number": 1,
+            "verse_key": "89:1",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 237,
+            "ruku_number": 533,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " وَٱلْفَجْرِ",
+            "page_number": 593,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102118,
+                    "resource_id": 20,
+                    "text": "By the dawn"
+                },
+                {
+                    "id": 215017,
+                    "resource_id": 39,
+                    "text": "Demi waktu fajar;"
+                },
+                {
+                    "id": 1096971,
+                    "resource_id": 161,
+                    "text": "ঊষার শপথ,"
+                }
+            ]
+        },
+        {
+            "id": 5995,
+            "verse_number": 2,
+            "verse_key": "89:2",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 237,
+            "ruku_number": 533,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَيَالٍ عَشْرٍ",
+            "page_number": 593,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101995,
+                    "resource_id": 20,
+                    "text": "And [by] ten nights<sup foot_note=197754>1</sup>"
+                },
+                {
+                    "id": 219940,
+                    "resource_id": 39,
+                    "text": "Dan malam yang sepuluh (yang mempunyai kelebihan di sisi Allah);"
+                },
+                {
+                    "id": 1096972,
+                    "resource_id": 161,
+                    "text": "(জিলহাজ্জ মাসের প্রথম) দশ রাতের শপথ,"
+                }
+            ]
+        },
+        {
+            "id": 5996,
+            "verse_number": 3,
+            "verse_key": "89:3",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 237,
+            "ruku_number": 533,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلشَّفْعِ وَٱلْوَتْرِ",
+            "page_number": 593,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102134,
+                    "resource_id": 20,
+                    "text": "And [by] the even [number] and the odd"
+                },
+                {
+                    "id": 219955,
+                    "resource_id": 39,
+                    "text": "Dan bilangan yang genap serta yang ganjil;"
+                },
+                {
+                    "id": 1096973,
+                    "resource_id": 161,
+                    "text": "জোড় ও বেজোড়ের শপথ,"
+                }
+            ]
+        },
+        {
+            "id": 5997,
+            "verse_number": 4,
+            "verse_key": "89:4",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 237,
+            "ruku_number": 533,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّيْلِ إِذَا يَسْرِ",
+            "page_number": 593,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102136,
+                    "resource_id": 20,
+                    "text": "And [by] the night when it passes,"
+                },
+                {
+                    "id": 219953,
+                    "resource_id": 39,
+                    "text": "Dan malam, apabila ia berlalu; -"
+                },
+                {
+                    "id": 1096974,
+                    "resource_id": 161,
+                    "text": "আর রাতের শপথ যখন তা গত হতে থাকে,"
+                }
+            ]
+        },
+        {
+            "id": 5998,
+            "verse_number": 5,
+            "verse_key": "89:5",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 237,
+            "ruku_number": 533,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "هَلْ فِى ذَٰلِكَ قَسَمٌ لِّذِى حِجْرٍ",
+            "page_number": 593,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102137,
+                    "resource_id": 20,
+                    "text": "Is there [not] in [all] that an oath [sufficient] for one of perception?<sup foot_note=197755>1</sup>"
+                },
+                {
+                    "id": 219954,
+                    "resource_id": 39,
+                    "text": "Bukankah yang demikian itu mengandungi sumpah (yang diakui kebenarannya) oleh orang yang berakal sempurna?"
+                },
+                {
+                    "id": 1096975,
+                    "resource_id": 161,
+                    "text": "অবশ্যই এতে জ্ঞানী ব্যক্তির জন্য শপথ আছে।"
+                }
+            ]
+        },
+        {
+            "id": 5999,
+            "verse_number": 6,
+            "verse_key": "89:6",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 237,
+            "ruku_number": 533,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ",
+            "page_number": 593,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102138,
+                    "resource_id": 20,
+                    "text": "Have you not considered how your Lord dealt with ʿAad -"
+                },
+                {
+                    "id": 219956,
+                    "resource_id": 39,
+                    "text": "(Kami tetap akan membinasakan orang-orang yang menentangmu wahai Muhammad), tidakkah engkau perhatikan, bagaimana Tuhanmu telah melakukan terhadap kaum Aad (yang kufur derhaka)"
+                },
+                {
+                    "id": 1096976,
+                    "resource_id": 161,
+                    "text": "তুমি কি দেখনি তোমার প্রতিপালক ‘আদ জাতির সঙ্গে কী ব্যবহার করেছিলেন?"
+                }
+            ]
+        },
+        {
+            "id": 6000,
+            "verse_number": 7,
+            "verse_key": "89:7",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 237,
+            "ruku_number": 533,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+            "page_number": 593,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102139,
+                    "resource_id": 20,
+                    "text": "[With] Iram<sup foot_note=197757>1</sup> - who had lofty pillars,<sup foot_note=197756>2</sup>"
+                },
+                {
+                    "id": 219957,
+                    "resource_id": 39,
+                    "text": "Iaitu penduduk \"Iram\" yang mempunyai bangunan-bangunan yang tinggi tiangnya, (sesuai dengan penduduknya)"
+                },
+                {
+                    "id": 1096977,
+                    "resource_id": 161,
+                    "text": "উচ্চ স্তম্ভ নির্মাণকারী ইরাম গোত্রের প্রতি?"
+                }
+            ]
+        },
+        {
+            "id": 6001,
+            "verse_number": 8,
+            "verse_key": "89:8",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 237,
+            "ruku_number": 533,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّتِى لَمْ يُخْلَقْ مِثْلُهَا فِى ٱلْبِلَـٰدِ",
+            "page_number": 593,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102140,
+                    "resource_id": 20,
+                    "text": "The likes of whom had never been created in the land?"
+                },
+                {
+                    "id": 219958,
+                    "resource_id": 39,
+                    "text": "Yang belum pernah diciptakan sepertinya (tentang besar dan kukuhnya) di segala negeri (pada zamannya)?"
+                },
+                {
+                    "id": 1096978,
+                    "resource_id": 161,
+                    "text": "যার সমতুল্য অন্য কোন দেশে নির্মিত হয়নি।"
+                }
+            ]
+        },
+        {
+            "id": 6002,
+            "verse_number": 9,
+            "verse_key": "89:9",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 237,
+            "ruku_number": 533,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَثَمُودَ ٱلَّذِينَ جَابُوا۟ ٱلصَّخْرَ بِٱلْوَادِ",
+            "page_number": 593,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102141,
+                    "resource_id": 20,
+                    "text": "And [with] Thamūd, who carved out the rocks in the valley?"
+                },
+                {
+                    "id": 219959,
+                    "resource_id": 39,
+                    "text": "Dan (terhadap) kaum Thamud yang memahat batu-batu besar di lembah (Wadil-Qura iaitu tempat tinggalnya)?"
+                },
+                {
+                    "id": 1096979,
+                    "resource_id": 161,
+                    "text": "এবং সামূদের প্রতি যারা উপত্যকায় পাথর কেটে গৃহ নির্মাণ করেছিল?"
+                }
+            ]
+        },
+        {
+            "id": 6003,
+            "verse_number": 10,
+            "verse_key": "89:10",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 237,
+            "ruku_number": 533,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَفِرْعَوْنَ ذِى ٱلْأَوْتَادِ",
+            "page_number": 593,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102119,
+                    "resource_id": 20,
+                    "text": "And [with] Pharaoh, owner of the stakes?<sup foot_note=197758>1</sup>"
+                },
+                {
+                    "id": 219936,
+                    "resource_id": 39,
+                    "text": "Dan (terhadap) Firaun yang menguasai bangunan-bangunan yang handal kukuh?"
+                },
+                {
+                    "id": 1096980,
+                    "resource_id": 161,
+                    "text": "এবং (সেনা ছাউনী স্থাপনের কাজে ব্যবহৃত) কীলক-এর অধিপতি ফেরাউনের প্রতি?"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 3,
+        "total_records": 30
+    }
+}

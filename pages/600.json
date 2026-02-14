@@ -1,0 +1,641 @@
+{
+    "verses": [
+        {
+            "id": 6156,
+            "verse_number": 10,
+            "verse_key": "100:10",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 544,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَحُصِّلَ مَا فِى ٱلصُّدُورِ",
+            "page_number": 600,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96165,
+                    "resource_id": 20,
+                    "text": "And that within the breasts is obtained,<sup foot_note=197802>1</sup>"
+                },
+                {
+                    "id": 214998,
+                    "resource_id": 39,
+                    "text": "Dan dikumpul serta didedahkan segala yang terpendam dalam dada?"
+                },
+                {
+                    "id": 1097133,
+                    "resource_id": 161,
+                    "text": "আর অন্তরে যা (কিছু লুকানো) আছে তা প্রকাশ করা হবে,"
+                }
+            ]
+        },
+        {
+            "id": 6157,
+            "verse_number": 11,
+            "verse_key": "100:11",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 544,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌۢ",
+            "page_number": 600,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96166,
+                    "resource_id": 20,
+                    "text": "Indeed, their Lord with them, that Day, is [fully] Aware.<sup foot_note=197803>1</sup>"
+                },
+                {
+                    "id": 214862,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Tuhan mereka Maha Mengetahui dengan mendalam tentang (balasan yang diberikanNya kepada) mereka - pada hari itu."
+                },
+                {
+                    "id": 1097134,
+                    "resource_id": 161,
+                    "text": "নিঃসন্দেহে তাদের প্রতিপালক সেদিন তাদের সম্পর্কে পুরোপুরি অবহিত থাকবেন।"
+                }
+            ]
+        },
+        {
+            "id": 6158,
+            "verse_number": 1,
+            "verse_key": "101:1",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 545,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " ٱلْقَارِعَةُ",
+            "page_number": 600,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96188,
+                    "resource_id": 20,
+                    "text": "The Striking Calamity -"
+                },
+                {
+                    "id": 214644,
+                    "resource_id": 39,
+                    "text": "Hari yang menggemparkan,"
+                },
+                {
+                    "id": 1097135,
+                    "resource_id": 161,
+                    "text": "মহা বিপদ"
+                }
+            ]
+        },
+        {
+            "id": 6159,
+            "verse_number": 2,
+            "verse_key": "101:2",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 545,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "مَا ٱلْقَارِعَةُ",
+            "page_number": 600,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96193,
+                    "resource_id": 20,
+                    "text": "What is the Striking Calamity?"
+                },
+                {
+                    "id": 220438,
+                    "resource_id": 39,
+                    "text": "Apa dia hari yang menggemparkan itu?"
+                },
+                {
+                    "id": 1097136,
+                    "resource_id": 161,
+                    "text": "কী সেই মহা বিপদ?"
+                }
+            ]
+        },
+        {
+            "id": 6160,
+            "verse_number": 3,
+            "verse_key": "101:3",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 545,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ",
+            "page_number": 600,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96195,
+                    "resource_id": 20,
+                    "text": "And what can make you know what is the Striking Calamity?"
+                },
+                {
+                    "id": 216623,
+                    "resource_id": 39,
+                    "text": "Dan apa jalannya engkau dapat mengetahui kedahsyatan hari yang menggemparkan itu? -"
+                },
+                {
+                    "id": 1097137,
+                    "resource_id": 161,
+                    "text": "মহা বিপদ সম্পর্কে তুমি কী জান?"
+                }
+            ]
+        },
+        {
+            "id": 6161,
+            "verse_number": 4,
+            "verse_key": "101:4",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 545,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+            "page_number": 600,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96197,
+                    "resource_id": 20,
+                    "text": "It is the Day when people will be like moths, dispersed,<sup foot_note=197804>1</sup>"
+                },
+                {
+                    "id": 216765,
+                    "resource_id": 39,
+                    "text": "(Hari itu ialah: hari kiamat), hari manusia menjadi seperti kelkatu yang terbang berkeliaran,"
+                },
+                {
+                    "id": 1097138,
+                    "resource_id": 161,
+                    "text": "সে দিন মানুষ হবে বিক্ষিপ্ত পতঙ্গের মত"
+                }
+            ]
+        },
+        {
+            "id": 6162,
+            "verse_number": 5,
+            "verse_key": "101:5",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 545,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+            "page_number": 600,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96199,
+                    "resource_id": 20,
+                    "text": "And the mountains will be like wool, fluffed up.<sup foot_note=197805>1</sup>"
+                },
+                {
+                    "id": 216775,
+                    "resource_id": 39,
+                    "text": "Dan gunung-ganang menjadi seperti bulu yang dibusar berterbangan."
+                },
+                {
+                    "id": 1097139,
+                    "resource_id": 161,
+                    "text": "আর পর্বতগুলো হবে ধুনা রঙ্গিন পশমের মত।"
+                }
+            ]
+        },
+        {
+            "id": 6163,
+            "verse_number": 6,
+            "verse_key": "101:6",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 545,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
+            "page_number": 600,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96201,
+                    "resource_id": 20,
+                    "text": "Then as for one whose scales are heavy [with good deeds],"
+                },
+                {
+                    "id": 216766,
+                    "resource_id": 39,
+                    "text": "Setelah berlaku demikian, maka (manusia akan diberikan tempatnya menurut amal masing-masing); adapun orang yang berat timbangan amal baiknya, -"
+                },
+                {
+                    "id": 1097140,
+                    "resource_id": 161,
+                    "text": "অতঃপর যার (সৎ কর্মের) পাল্লা ভারি হবে।"
+                }
+            ]
+        },
+        {
+            "id": 6164,
+            "verse_number": 7,
+            "verse_key": "101:7",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 545,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ",
+            "page_number": 600,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96203,
+                    "resource_id": 20,
+                    "text": "He will be in a pleasant life."
+                },
+                {
+                    "id": 220432,
+                    "resource_id": 39,
+                    "text": "Maka ia berada dalam kehidupan yang senang lenang."
+                },
+                {
+                    "id": 1097141,
+                    "resource_id": 161,
+                    "text": "সে সুখী জীবন যাপন করবে।"
+                }
+            ]
+        },
+        {
+            "id": 6165,
+            "verse_number": 8,
+            "verse_key": "101:8",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 545,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+            "page_number": 600,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96205,
+                    "resource_id": 20,
+                    "text": "But as for one whose scales are light,"
+                },
+                {
+                    "id": 216338,
+                    "resource_id": 39,
+                    "text": "Sebaliknya orang yang ringan timbangan amal baiknya, -"
+                },
+                {
+                    "id": 1097142,
+                    "resource_id": 161,
+                    "text": "আর যার (সৎকর্মের) পাল্লা হালকা হবে,"
+                }
+            ]
+        },
+        {
+            "id": 6166,
+            "verse_number": 9,
+            "verse_key": "101:9",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 545,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَأُمُّهُۥ هَاوِيَةٌ",
+            "page_number": 600,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96207,
+                    "resource_id": 20,
+                    "text": "His refuge<sup foot_note=197806>1</sup> will be an abyss.<sup foot_note=197807>2</sup>"
+                },
+                {
+                    "id": 217585,
+                    "resource_id": 39,
+                    "text": "Maka tempat kembalinya ialah \"Haawiyah\""
+                },
+                {
+                    "id": 1097143,
+                    "resource_id": 161,
+                    "text": "(জাহান্নামের) অতলস্পর্শী গর্তই হবে তার বাসস্থান।"
+                }
+            ]
+        },
+        {
+            "id": 6167,
+            "verse_number": 10,
+            "verse_key": "101:10",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 545,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
+            "page_number": 600,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96189,
+                    "resource_id": 20,
+                    "text": "And what can make you know what that is?"
+                },
+                {
+                    "id": 215661,
+                    "resource_id": 39,
+                    "text": "Dan apa jalannya engkau dapat mengetahui, apa dia \"Haawiyah\" itu?"
+                },
+                {
+                    "id": 1097144,
+                    "resource_id": 161,
+                    "text": "তুমি কি জান তা কী?"
+                }
+            ]
+        },
+        {
+            "id": 6168,
+            "verse_number": 11,
+            "verse_key": "101:11",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 545,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "نَارٌ حَامِيَةٌۢ",
+            "page_number": 600,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96190,
+                    "resource_id": 20,
+                    "text": "It is a Fire, intensely hot."
+                },
+                {
+                    "id": 215670,
+                    "resource_id": 39,
+                    "text": "(Haawiyah itu ialah): api yang panas membakar."
+                },
+                {
+                    "id": 1097145,
+                    "resource_id": 161,
+                    "text": "জ্বলন্ত আগুন।"
+                }
+            ]
+        },
+        {
+            "id": 6169,
+            "verse_number": 1,
+            "verse_key": "102:1",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 546,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " أَلْهَىٰكُمُ ٱلتَّكَاثُرُ",
+            "page_number": 600,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96211,
+                    "resource_id": 20,
+                    "text": "Competition in [worldly] increase diverts you"
+                },
+                {
+                    "id": 217970,
+                    "resource_id": 39,
+                    "text": "Kamu telah dilalaikan (daripada mengerjakan amal bakti) oleh perbuatan berlumba-lumba untuk mendapat dengan sebanyak-banyaknya (harta benda, anak-pinak pangkat dan pengaruh), -"
+                },
+                {
+                    "id": 1097146,
+                    "resource_id": 161,
+                    "text": "অধিক (পার্থিব) সুখ সম্ভোগ লাভের মোহ তোমাদেরকে (অধিক গুরুত্বপূর্ণ বিষয় হতে) ভুলিয়ে রেখেছে।"
+                }
+            ]
+        },
+        {
+            "id": 6170,
+            "verse_number": 2,
+            "verse_key": "102:2",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 546,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ",
+            "page_number": 600,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96213,
+                    "resource_id": 20,
+                    "text": "Until you visit the graveyards.<sup foot_note=197808>1</sup>"
+                },
+                {
+                    "id": 214965,
+                    "resource_id": 39,
+                    "text": "Sehingga kamu masuk kubur."
+                },
+                {
+                    "id": 1097147,
+                    "resource_id": 161,
+                    "text": "এমনকি (এ অবস্থাতেই) তোমরা কবরে এসে পড়।"
+                }
+            ]
+        },
+        {
+            "id": 6171,
+            "verse_number": 3,
+            "verse_key": "102:3",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 546,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "كَلَّا سَوْفَ تَعْلَمُونَ",
+            "page_number": 600,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96215,
+                    "resource_id": 20,
+                    "text": "No! You are going to know."
+                },
+                {
+                    "id": 218314,
+                    "resource_id": 39,
+                    "text": "Jangan sekali-kali (bersikap demikian)! Kamu akan mengetahui kelak (akibatnya yang buruk semasa hendak mati)!"
+                },
+                {
+                    "id": 1097148,
+                    "resource_id": 161,
+                    "text": "(তোমরা যে ভুল ধারণায় ডুবে আছো তা) মোটেই ঠিক নয়, শীঘ্রই তোমরা জানতে পারবে,"
+                }
+            ]
+        },
+        {
+            "id": 6172,
+            "verse_number": 4,
+            "verse_key": "102:4",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 546,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+            "page_number": 600,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96217,
+                    "resource_id": 20,
+                    "text": "Then, no! You are going to know."
+                },
+                {
+                    "id": 214708,
+                    "resource_id": 39,
+                    "text": "Sekali lagi (diingatkan): jangan sekali-kali (kamu bersikap demikian)! Kamu akan mengetahui kelak akibatnya yang buruk pada hari kiamat)!"
+                },
+                {
+                    "id": 1097149,
+                    "resource_id": 161,
+                    "text": "আবার বলি, মোটেই ঠিক নয়, শীঘ্রই তোমরা জানতে পারবে।"
+                }
+            ]
+        },
+        {
+            "id": 6173,
+            "verse_number": 5,
+            "verse_key": "102:5",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 546,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ",
+            "page_number": 600,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96219,
+                    "resource_id": 20,
+                    "text": "No! If you only knew with knowledge of certainty...<sup foot_note=197809>1</sup>"
+                },
+                {
+                    "id": 219323,
+                    "resource_id": 39,
+                    "text": "Demi sesungguhnya! Kalaulah kamu mengetahui - (apa yang kamu akan hadapi) - dengan pengetahuan yang yakin, (tentulah kamu akan mengerjakan perkara-perkara yang menjadi bekalan kamu untuk hari akhirat)."
+                },
+                {
+                    "id": 1097150,
+                    "resource_id": 161,
+                    "text": "কক্ষনো না, তোমরা যদি নিশ্চিত জ্ঞানের ভিত্তিতে জানতে! (তাহলে সাবধান হয়ে যেতে)"
+                }
+            ]
+        },
+        {
+            "id": 6174,
+            "verse_number": 6,
+            "verse_key": "102:6",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 546,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "لَتَرَوُنَّ ٱلْجَحِيمَ",
+            "page_number": 600,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96221,
+                    "resource_id": 20,
+                    "text": "You will surely see the Hellfire."
+                },
+                {
+                    "id": 214648,
+                    "resource_id": 39,
+                    "text": "(Ingatlah) demi sesungguhnya! - Kamu akan melihat neraka yang marak menjulang."
+                },
+                {
+                    "id": 1097151,
+                    "resource_id": 161,
+                    "text": "তোমরা অবশ্য অবশ্যই জাহান্নাম দেখতে পাবে,"
+                }
+            ]
+        },
+        {
+            "id": 6175,
+            "verse_number": 7,
+            "verse_key": "102:7",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 546,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ",
+            "page_number": 600,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96223,
+                    "resource_id": 20,
+                    "text": "Then you will surely see it with the eye of certainty.<sup foot_note=197810>1</sup>"
+                },
+                {
+                    "id": 220847,
+                    "resource_id": 39,
+                    "text": "Selepas itu - demi sesungguhnya! - kamu (wahai orang-orang yang derhaka) akan melihatnya dengan penglihatan yang yakin (semasa kamu dilemparkan ke dalamnya)!"
+                },
+                {
+                    "id": 1097152,
+                    "resource_id": 161,
+                    "text": "আবার বলি, তোমরা তা অবশ্য অবশ্যই দিব্য দৃষ্টিতে দেখতে পাবে,"
+                }
+            ]
+        },
+        {
+            "id": 6176,
+            "verse_number": 8,
+            "verse_key": "102:8",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 546,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ",
+            "page_number": 600,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96225,
+                    "resource_id": 20,
+                    "text": "Then you will surely be asked that Day about pleasure.<sup foot_note=197811>1</sup>"
+                },
+                {
+                    "id": 220022,
+                    "resource_id": 39,
+                    "text": "Selain dari itu, sesungguhnya kamu akan ditanya pada hari itu, tentang segala nikmat (yang kamu telah menikmatinya)!"
+                },
+                {
+                    "id": 1097153,
+                    "resource_id": 161,
+                    "text": "তারপর তোমাদেরকে অবশ্য অবশ্যই (যা কিছু দেয়া হয়েছে এমন সব) নি‘মাত সম্পর্কে সেদিন জিজ্ঞেস করা হবে।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 25,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 25
+    }
+}

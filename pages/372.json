@@ -1,0 +1,761 @@
+{
+    "verses": [
+        {
+            "id": 3044,
+            "verse_number": 112,
+            "verse_key": "26:112",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 149,
+            "ruku_number": 321,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ وَمَا عِلْمِى بِمَا كَانُوا۟ يَعْمَلُونَ",
+            "page_number": 372,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98103,
+                    "resource_id": 20,
+                    "text": "He said, \"And what is my knowledge of what they used to do?"
+                },
+                {
+                    "id": 215956,
+                    "resource_id": 39,
+                    "text": "Nabi Nuh berkata: \"Dan apalah ada kaitannya pengetahuanku dengan (pangkat dan) pekerjaan mereka?"
+                },
+                {
+                    "id": 1094021,
+                    "resource_id": 161,
+                    "text": "নূহ বলল- ‘তারা কী করত সেটা আমার জানা নেই।"
+                }
+            ]
+        },
+        {
+            "id": 3045,
+            "verse_number": 113,
+            "verse_key": "26:113",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 149,
+            "ruku_number": 321,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "إِنْ حِسَابُهُمْ إِلَّا عَلَىٰ رَبِّى ۖ لَوْ تَشْعُرُونَ",
+            "page_number": 372,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98104,
+                    "resource_id": 20,
+                    "text": "Their account is only upon my Lord, if you [could] perceive."
+                },
+                {
+                    "id": 215955,
+                    "resource_id": 39,
+                    "text": "\"Sebenarnya hitungan amal mereka hanya terserah kepada Tuhanku; kalaulah kamu menyedari dan memahaminya (kamu tidak berkata demikian)."
+                },
+                {
+                    "id": 1094022,
+                    "resource_id": 161,
+                    "text": "তাদের হিসাব নেয়া তো আমার প্রতিপালকের কাজ, যদি তোমরা বুঝতে!"
+                }
+            ]
+        },
+        {
+            "id": 3046,
+            "verse_number": 114,
+            "verse_key": "26:114",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 149,
+            "ruku_number": 321,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَآ أَنَا۠ بِطَارِدِ ٱلْمُؤْمِنِينَ",
+            "page_number": 372,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98105,
+                    "resource_id": 20,
+                    "text": "And I am not one to drive away the believers."
+                },
+                {
+                    "id": 215958,
+                    "resource_id": 39,
+                    "text": "\"Dan aku tidak akan menghalau orang-orang yang beriman (daripada bercampur-gaul denganku)."
+                },
+                {
+                    "id": 1094023,
+                    "resource_id": 161,
+                    "text": "মু’মিনদেরকে তাড়িয়ে দেয়া আমার কাজ নয়।"
+                }
+            ]
+        },
+        {
+            "id": 3047,
+            "verse_number": 115,
+            "verse_key": "26:115",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 149,
+            "ruku_number": 321,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "إِنْ أَنَا۠ إِلَّا نَذِيرٌ مُّبِينٌ",
+            "page_number": 372,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98106,
+                    "resource_id": 20,
+                    "text": "I am only a clear warner.\""
+                },
+                {
+                    "id": 215957,
+                    "resource_id": 39,
+                    "text": "\"Aku ini hanyalah seorang Rasul pemberi amaran yang jelas nyata (kepada semua - tidak kira hina mulia)\"."
+                },
+                {
+                    "id": 1094024,
+                    "resource_id": 161,
+                    "text": "আমি তো শুধু একজন সুস্পষ্ট সতর্ককারী।’"
+                }
+            ]
+        },
+        {
+            "id": 3048,
+            "verse_number": 116,
+            "verse_key": "26:116",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 149,
+            "ruku_number": 321,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "قَالُوا۟ لَئِن لَّمْ تَنتَهِ يَـٰنُوحُ لَتَكُونَنَّ مِنَ ٱلْمَرْجُومِينَ",
+            "page_number": 372,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98107,
+                    "resource_id": 20,
+                    "text": "They said, \"If you do not desist, O Noah, you will surely be of those who are stoned.\""
+                },
+                {
+                    "id": 215959,
+                    "resource_id": 39,
+                    "text": "Mereka (mengugut dengan) berkata: \"Jika engkau tidak mahu berhenti (daripada menyiarkan ugamamu itu) wahai Nuh, sudah tentu engkau akan menjadi dari orang-orang yang direjam!\""
+                },
+                {
+                    "id": 1094025,
+                    "resource_id": 161,
+                    "text": "তারা বলল- ‘হে নূহ! তুমি যদি বিরত না হও, তাহলে তুমি নিশ্চিতই প্রস্তরাঘাতে নিহত হবে।’"
+                }
+            ]
+        },
+        {
+            "id": 3049,
+            "verse_number": 117,
+            "verse_key": "26:117",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 149,
+            "ruku_number": 321,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ رَبِّ إِنَّ قَوْمِى كَذَّبُونِ",
+            "page_number": 372,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98108,
+                    "resource_id": 20,
+                    "text": "He said, \"My Lord, indeed my people have denied me."
+                },
+                {
+                    "id": 215960,
+                    "resource_id": 39,
+                    "text": "Nabi Nuh berdoa dengan berkata: \"Wahai Tuhanku! Sesungguhnya kaumku telah mendustakan daku."
+                },
+                {
+                    "id": 1094026,
+                    "resource_id": 161,
+                    "text": "নূহ বলল- ‘হে আমার প্রতিপালক! আমার সম্প্রদায় আমাকে প্রত্যাখান করছে।"
+                }
+            ]
+        },
+        {
+            "id": 3050,
+            "verse_number": 118,
+            "verse_key": "26:118",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 149,
+            "ruku_number": 321,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "فَٱفْتَحْ بَيْنِى وَبَيْنَهُمْ فَتْحًا وَنَجِّنِى وَمَن مَّعِىَ مِنَ ٱلْمُؤْمِنِينَ",
+            "page_number": 372,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98109,
+                    "resource_id": 20,
+                    "text": "Then judge between me and them with decisive judgement and save me and those with me of the believers.\""
+                },
+                {
+                    "id": 215961,
+                    "resource_id": 39,
+                    "text": "\"Oleh itu, hukumkanlah antaraku dengan mereka, dengan hukuman tegas (yang menegakkan yang benar dan melenyapkan yang salah), serta selamatkanlah daku dan orang-orang yang beriman yang bersama-sama denganku\""
+                },
+                {
+                    "id": 1094027,
+                    "resource_id": 161,
+                    "text": "কাজেই তুমি আমার ও তাদের মধ্যে ফয়সালা ক’রে দাও, আর আমাকে ও আমার সঙ্গী মু’মিনদেরকে ক্ষমা কর।’"
+                }
+            ]
+        },
+        {
+            "id": 3051,
+            "verse_number": 119,
+            "verse_key": "26:119",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 149,
+            "ruku_number": 321,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "فَأَنجَيْنَـٰهُ وَمَن مَّعَهُۥ فِى ٱلْفُلْكِ ٱلْمَشْحُونِ",
+            "page_number": 372,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98110,
+                    "resource_id": 20,
+                    "text": "So We saved him and those with him in the laden ship."
+                },
+                {
+                    "id": 215962,
+                    "resource_id": 39,
+                    "text": "Maka Kami selamatkan dia dan orang-orang yang bersama-sama dengannya dalam bahtera yang penuh sarat (dengan berbagai makhluk)."
+                },
+                {
+                    "id": 1094028,
+                    "resource_id": 161,
+                    "text": "অতঃপর আমি তাকে ও তার সঙ্গে যারা ছিল তাদেরকে বোঝাই নৌযানে রক্ষা করলাম।"
+                }
+            ]
+        },
+        {
+            "id": 3052,
+            "verse_number": 120,
+            "verse_key": "26:120",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 149,
+            "ruku_number": 321,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "ثُمَّ أَغْرَقْنَا بَعْدُ ٱلْبَاقِينَ",
+            "page_number": 372,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98112,
+                    "resource_id": 20,
+                    "text": "Then We drowned thereafter the remaining ones."
+                },
+                {
+                    "id": 215964,
+                    "resource_id": 39,
+                    "text": "Kemudian daripada itu, Kami tenggelamkan golongan (kafir) yang tinggal (tidak turut bersama dalam bahtera)."
+                },
+                {
+                    "id": 1094029,
+                    "resource_id": 161,
+                    "text": "তারপর অবশিষ্ট সবাইকে ডুবিয়ে দিলাম।"
+                }
+            ]
+        },
+        {
+            "id": 3053,
+            "verse_number": 121,
+            "verse_key": "26:121",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 149,
+            "ruku_number": 321,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+            "page_number": 372,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98113,
+                    "resource_id": 20,
+                    "text": "Indeed in that is a sign, but most of them were not to be believers."
+                },
+                {
+                    "id": 215965,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya pada peristiwa yang demikian, terdapat satu tanda (yang membuktikan kekuasaan Allah); dan dalam pada itu, kebanyakan mereka tidak juga mahu beriman."
+                },
+                {
+                    "id": 1094030,
+                    "resource_id": 161,
+                    "text": "অবশ্যই এতে নিদর্শন আছে, কিন্তু তাদের অধিকাংশই বিশ্বাসী নয়।"
+                }
+            ]
+        },
+        {
+            "id": 3054,
+            "verse_number": 122,
+            "verse_key": "26:122",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 149,
+            "ruku_number": 321,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
+            "page_number": 372,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98114,
+                    "resource_id": 20,
+                    "text": "And indeed, your Lord - He is the Exalted in Might, the Merciful."
+                },
+                {
+                    "id": 215966,
+                    "resource_id": 39,
+                    "text": "Dan sesungguhnya Tuhanmu (wahai Muhammad), Dia lah sahaja Yang Maha Kuasa, lagi Maha Mengasihani."
+                },
+                {
+                    "id": 1094031,
+                    "resource_id": 161,
+                    "text": "তোমার প্রতিপালক, অবশ্যই তিনি প্রবল পরাক্রান্ত, পরম দয়ালু।"
+                }
+            ]
+        },
+        {
+            "id": 3055,
+            "verse_number": 123,
+            "verse_key": "26:123",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 149,
+            "ruku_number": 322,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "كَذَّبَتْ عَادٌ ٱلْمُرْسَلِينَ",
+            "page_number": 372,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98115,
+                    "resource_id": 20,
+                    "text": "ʿAad denied the messengers"
+                },
+                {
+                    "id": 215968,
+                    "resource_id": 39,
+                    "text": "(Demikian juga) kaum Aad telah mendustakan Rasul-rasul (yang diutus kepada mereka)."
+                },
+                {
+                    "id": 1094032,
+                    "resource_id": 161,
+                    "text": "‘আদ সম্প্রদায় রসূলগণকে মিথ্যে সাব্যস্ত করেছিল।"
+                }
+            ]
+        },
+        {
+            "id": 3056,
+            "verse_number": 124,
+            "verse_key": "26:124",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 149,
+            "ruku_number": 322,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "إِذْ قَالَ لَهُمْ أَخُوهُمْ هُودٌ أَلَا تَتَّقُونَ",
+            "page_number": 372,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98116,
+                    "resource_id": 20,
+                    "text": "When their brother Hūd said to them, \"Will you not fear Allāh?"
+                },
+                {
+                    "id": 215967,
+                    "resource_id": 39,
+                    "text": "Ketika saudara mereka - Nabi Hud, berkata kepada mereka: \"Hendaknya kamu mematuhi perintah Allah dan menjauhi laranganNya."
+                },
+                {
+                    "id": 1094033,
+                    "resource_id": 161,
+                    "text": "যখন তাদের ভাই হূদ তাদেরকে বলল- ‘তোমরা কি (আল্লাহকে) ভয় করবে না?"
+                }
+            ]
+        },
+        {
+            "id": 3057,
+            "verse_number": 125,
+            "verse_key": "26:125",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 149,
+            "ruku_number": 322,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌ",
+            "page_number": 372,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98117,
+                    "resource_id": 20,
+                    "text": "Indeed, I am to you a trustworthy messenger."
+                },
+                {
+                    "id": 215971,
+                    "resource_id": 39,
+                    "text": "\"Sesungguhnya aku ini seorang Rasul yang amanah, (yang diutus oleh Allah) kepada kamu."
+                },
+                {
+                    "id": 1094034,
+                    "resource_id": 161,
+                    "text": "আমি তোমাদের জন্য (প্রেরিত) এক বিশ্বস্ত রসুল।"
+                }
+            ]
+        },
+        {
+            "id": 3058,
+            "verse_number": 126,
+            "verse_key": "26:126",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 149,
+            "ruku_number": 322,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+            "page_number": 372,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98118,
+                    "resource_id": 20,
+                    "text": "So fear Allāh and obey me."
+                },
+                {
+                    "id": 215969,
+                    "resource_id": 39,
+                    "text": "\"Oleh itu, takutilah kamu akan (kemurkaan) Allah, dan taatlah kepadaku."
+                },
+                {
+                    "id": 1094035,
+                    "resource_id": 161,
+                    "text": "কাজেই তোমরা আল্লাহকে ভয় কর এবং আমাকে মান্য কর।"
+                }
+            ]
+        },
+        {
+            "id": 3059,
+            "verse_number": 127,
+            "verse_key": "26:127",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 149,
+            "ruku_number": 322,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِىَ إِلَّا عَلَىٰ رَبِّ ٱلْعَـٰلَمِينَ",
+            "page_number": 372,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98119,
+                    "resource_id": 20,
+                    "text": "And I do not ask you for it any payment. My payment is only from the Lord of the worlds."
+                },
+                {
+                    "id": 215970,
+                    "resource_id": 39,
+                    "text": "\"Dan aku tidak meminta kepada kamu sebarang upah mengenai apa yang aku sampaikan (dari Tuhanku); balasanku hanyalah terserah kepada Allah Tuhan sekalian alam."
+                },
+                {
+                    "id": 1094036,
+                    "resource_id": 161,
+                    "text": "আর এ জন্য আমি তোমাদের কাছে কোন প্রতিদান চাই না, আমার প্রতিদান আছে কেবল বিশ্বজগতের প্রতিপালকের নিকট।"
+                }
+            ]
+        },
+        {
+            "id": 3060,
+            "verse_number": 128,
+            "verse_key": "26:128",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 149,
+            "ruku_number": 322,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "أَتَبْنُونَ بِكُلِّ رِيعٍ ءَايَةً تَعْبَثُونَ",
+            "page_number": 372,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98120,
+                    "resource_id": 20,
+                    "text": "Do you construct on every elevation a sign,<sup foot_note=196959>1</sup> amusing yourselves,"
+                },
+                {
+                    "id": 215972,
+                    "resource_id": 39,
+                    "text": "\"Patutkah kamu mendirikan pada tiap-tiap tempat yang tinggi bangunan-bangunan yang tersergam, padahal kamu tidak membuatnya dengan sesuatu tujuan yang baik."
+                },
+                {
+                    "id": 1094037,
+                    "resource_id": 161,
+                    "text": "তোমরা কি প্রতিটি উচ্চস্থানে অনর্থক স্মৃতিস্তম্ভ নির্মাণ করছ?"
+                }
+            ]
+        },
+        {
+            "id": 3061,
+            "verse_number": 129,
+            "verse_key": "26:129",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 149,
+            "ruku_number": 322,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمْ تَخْلُدُونَ",
+            "page_number": 372,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98121,
+                    "resource_id": 20,
+                    "text": "And take for yourselves constructions [i.e., palaces and fortresses] that you might abide eternally?"
+                },
+                {
+                    "id": 215973,
+                    "resource_id": 39,
+                    "text": "\"Dan kamu pula bersusah payah mendirikan istana-istana dan benteng-benteng yang kukuh dengan harapan hendak kekal hidup selama-lamanya?"
+                },
+                {
+                    "id": 1094038,
+                    "resource_id": 161,
+                    "text": "আর বড় বড় প্রাসাদ নির্মাণ করছ. যেন তোমরা চিরদিন থাকবে?"
+                }
+            ]
+        },
+        {
+            "id": 3062,
+            "verse_number": 130,
+            "verse_key": "26:130",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 149,
+            "ruku_number": 322,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا بَطَشْتُم بَطَشْتُمْ جَبَّارِينَ",
+            "page_number": 372,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98123,
+                    "resource_id": 20,
+                    "text": "And when you strike, you strike as tyrants."
+                },
+                {
+                    "id": 215975,
+                    "resource_id": 39,
+                    "text": "\"Dan apabila kamu memukul atau menyeksa, kamu melakukan yang demikian dengan kejam bengis?"
+                },
+                {
+                    "id": 1094039,
+                    "resource_id": 161,
+                    "text": "আর যখন তোমরা (দুর্বল শ্রেণীর লোকদের উপর) আঘাত হান, তখন আঘাত হান নিষ্ঠুর মালিকের মত।"
+                }
+            ]
+        },
+        {
+            "id": 3063,
+            "verse_number": 131,
+            "verse_key": "26:131",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 149,
+            "ruku_number": 322,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+            "page_number": 372,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98124,
+                    "resource_id": 20,
+                    "text": "So fear Allāh and obey me."
+                },
+                {
+                    "id": 215977,
+                    "resource_id": 39,
+                    "text": "\"Oleh itu, takutilah kamu akan (kemurkaan) Allah dan taatlah kepadaku."
+                },
+                {
+                    "id": 1094040,
+                    "resource_id": 161,
+                    "text": "কাজেই তোমরা আল্লাহকে ভয় কর এবং আমাকে মান্য কর।"
+                }
+            ]
+        },
+        {
+            "id": 3064,
+            "verse_number": 132,
+            "verse_key": "26:132",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 149,
+            "ruku_number": 322,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱتَّقُوا۟ ٱلَّذِىٓ أَمَدَّكُم بِمَا تَعْلَمُونَ",
+            "page_number": 372,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98125,
+                    "resource_id": 20,
+                    "text": "And fear He who provided you with that which you know,"
+                },
+                {
+                    "id": 215976,
+                    "resource_id": 39,
+                    "text": "\"Dan berbaktilah kamu kepada Allah yang telah menolong kamu dengan pemberian nikmat-nikmatNya yang kamu sedia mengetahuinya."
+                },
+                {
+                    "id": 1094041,
+                    "resource_id": 161,
+                    "text": "ভয় কর তাঁকে যিনি তোমাদেরকে যাবতীয় বস্তু দান করেছেন যা তোমাদের জানা আছে।"
+                }
+            ]
+        },
+        {
+            "id": 3065,
+            "verse_number": 133,
+            "verse_key": "26:133",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 149,
+            "ruku_number": 322,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "أَمَدَّكُم بِأَنْعَـٰمٍ وَبَنِينَ",
+            "page_number": 372,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98126,
+                    "resource_id": 20,
+                    "text": "Provided you with grazing livestock and children"
+                },
+                {
+                    "id": 215981,
+                    "resource_id": 39,
+                    "text": "\"Diberinya kamu binatang-binatang ternak (yang biak) serta anak-pinak (yang ramai),"
+                },
+                {
+                    "id": 1094042,
+                    "resource_id": 161,
+                    "text": "যিনি তোমাদেরকে দান করেছেন গবাদি পশু ও সন্তান-সন্তুতি।"
+                }
+            ]
+        },
+        {
+            "id": 3066,
+            "verse_number": 134,
+            "verse_key": "26:134",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 149,
+            "ruku_number": 322,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَجَنَّـٰتٍ وَعُيُونٍ",
+            "page_number": 372,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98127,
+                    "resource_id": 20,
+                    "text": "And gardens and springs."
+                },
+                {
+                    "id": 215978,
+                    "resource_id": 39,
+                    "text": "\"Dan taman-taman (yang indah permai) serta matair-matair (yang mengalir)."
+                },
+                {
+                    "id": 1094043,
+                    "resource_id": 161,
+                    "text": "আর উদ্যানরাজি ও ঝর্ণাসমূহ।"
+                }
+            ]
+        },
+        {
+            "id": 3067,
+            "verse_number": 135,
+            "verse_key": "26:135",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 149,
+            "ruku_number": 322,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ",
+            "page_number": 372,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98128,
+                    "resource_id": 20,
+                    "text": "Indeed, I fear for you the punishment of a terrible day.\""
+                },
+                {
+                    "id": 215979,
+                    "resource_id": 39,
+                    "text": "\"Sesungguhnya aku takut, (bahawa) kamu akan ditimpa azab seksa hari yang besar (huru-haranya)\"."
+                },
+                {
+                    "id": 1094044,
+                    "resource_id": 161,
+                    "text": "আমি তোমাদের জন্য মহা দিবসের শাস্তির ভয় করছি।’"
+                }
+            ]
+        },
+        {
+            "id": 3068,
+            "verse_number": 136,
+            "verse_key": "26:136",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 149,
+            "ruku_number": 322,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "قَالُوا۟ سَوَآءٌ عَلَيْنَآ أَوَعَظْتَ أَمْ لَمْ تَكُن مِّنَ ٱلْوَٰعِظِينَ",
+            "page_number": 372,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98129,
+                    "resource_id": 20,
+                    "text": "They said, \"It is all the same to us whether you advise or are not of the advisors."
+                },
+                {
+                    "id": 215980,
+                    "resource_id": 39,
+                    "text": "Mereka menjawab: \"Sama sahaja bagi kami, sama ada engkau beri nasihat pengajaran, atau engkau tidak menjadi dari orang-orang yang memberi nasihat pengajaran."
+                },
+                {
+                    "id": 1094045,
+                    "resource_id": 161,
+                    "text": "তারা বলল- ‘তুমি নসীহত কর আর না কর, আমাদের জন্য দু’ই সমান।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 25,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 25
+    }
+}

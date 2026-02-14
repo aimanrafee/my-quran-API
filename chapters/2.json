@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 8,
+            "verse_number": 1,
+            "verse_key": "2:1",
+            "hizb_number": 1,
+            "rub_el_hizb_number": 1,
+            "ruku_number": 2,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": " الٓمٓ",
+            "page_number": 2,
+            "juz_number": 1,
+            "translations": [
+                {
+                    "id": 97387,
+                    "resource_id": 20,
+                    "text": "Alif, Lām, Meem.<sup foot_note=195935>1</sup>"
+                },
+                {
+                    "id": 214632,
+                    "resource_id": 39,
+                    "text": "Alif, Laam, Miim."
+                },
+                {
+                    "id": 1090985,
+                    "resource_id": 161,
+                    "text": "আলিফ, লাম, মীম।"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "verse_number": 2,
+            "verse_key": "2:2",
+            "hizb_number": 1,
+            "rub_el_hizb_number": 1,
+            "ruku_number": 2,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "ذَٰلِكَ ٱلْكِتَـٰبُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ",
+            "page_number": 2,
+            "juz_number": 1,
+            "translations": [
+                {
+                    "id": 97614,
+                    "resource_id": 20,
+                    "text": "This is the Book about which there is no doubt, a guidance for those conscious of Allāh<sup foot_note=195936>1</sup> -"
+                },
+                {
+                    "id": 215483,
+                    "resource_id": 39,
+                    "text": "Kitab Al-Quran ini, tidak ada sebarang syak padanya (tentang datangnya dari Allah dan tentang sempurnanya); ia pula menjadi petunjuk bagi orang-orang yang (hendak) bertaqwa;"
+                },
+                {
+                    "id": 1090986,
+                    "resource_id": 161,
+                    "text": "এটা ঐ (মহান) কিতাব যাতে কোন সন্দেহ নেই, মুত্তাকীদের জন্য পথ নির্দেশ।"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "verse_number": 3,
+            "verse_key": "2:3",
+            "hizb_number": 1,
+            "rub_el_hizb_number": 1,
+            "ruku_number": 2,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِينَ يُؤْمِنُونَ بِٱلْغَيْبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",
+            "page_number": 2,
+            "juz_number": 1,
+            "translations": [
+                {
+                    "id": 97797,
+                    "resource_id": 20,
+                    "text": "Who believe in the unseen, establish prayer,<sup foot_note=195938>1</sup> and spend out of what We<sup foot_note=195937>2</sup> have provided for them,"
+                },
+                {
+                    "id": 215860,
+                    "resource_id": 39,
+                    "text": "Iaitu orang-orang yang beriman kepada perkara-perkara yang ghaib, dan mendirikan (mengerjakan) sembahyang serta membelanjakan (mendermakan) sebahagian dari rezeki yang Kami berikan kepada mereka."
+                },
+                {
+                    "id": 1090987,
+                    "resource_id": 161,
+                    "text": "যারা গায়বের প্রতি ঈমান আনে, নামায কায়িম করে এবং আমি যে জীবনোপকরণ তাদেরকে দিয়েছি তা থেকে তারা ব্যয় করে।"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "verse_number": 4,
+            "verse_key": "2:4",
+            "hizb_number": 1,
+            "rub_el_hizb_number": 1,
+            "ruku_number": 2,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّذِينَ يُؤْمِنُونَ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ وَبِٱلْـَٔاخِرَةِ هُمْ يُوقِنُونَ",
+            "page_number": 2,
+            "juz_number": 1,
+            "translations": [
+                {
+                    "id": 97920,
+                    "resource_id": 20,
+                    "text": "And who believe in what has been revealed to you, [O Muḥammad], and what was revealed before you, and of the Hereafter they are certain [in faith]."
+                },
+                {
+                    "id": 215780,
+                    "resource_id": 39,
+                    "text": "Dan juga orang-orang yang beriman kepada Kitab \"Al-Quran\" yang diturunkan kepadamu (Wahai Muhammad), dan Kitab-kitab yang diturunkan dahulu daripadamu, serta mereka yakin akan (adanya) hari akhirat (dengan sepenuhnya)."
+                },
+                {
+                    "id": 1090988,
+                    "resource_id": 161,
+                    "text": "আর তোমার প্রতি যা নাযিল হয়েছে ও তোমার পূর্বে যা নাযিল হয়েছে তাতে তারা বিশ্বাস স্থাপন করে এবং পরকালের প্রতিও তারা নিশ্চিত বিশ্বাসী।"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "verse_number": 5,
+            "verse_key": "2:5",
+            "hizb_number": 1,
+            "rub_el_hizb_number": 1,
+            "ruku_number": 2,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "أُو۟لَـٰٓئِكَ عَلَىٰ هُدًى مِّن رَّبِّهِمْ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+            "page_number": 2,
+            "juz_number": 1,
+            "translations": [
+                {
+                    "id": 97997,
+                    "resource_id": 20,
+                    "text": "Those are upon [right] guidance from their Lord, and it is those who are the successful."
+                },
+                {
+                    "id": 216325,
+                    "resource_id": 39,
+                    "text": "Mereka itulah yang tetap mendapat petunjuk dari Tuhan mereka, dan merekalah orang-orang yang berjaya."
+                },
+                {
+                    "id": 1090989,
+                    "resource_id": 161,
+                    "text": "তারাই তাদের প্রতিপালকের হিদায়াতের উপর প্রতিষ্ঠিত আছে, আর তারাই সফলকাম।"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "verse_number": 6,
+            "verse_key": "2:6",
+            "hizb_number": 1,
+            "rub_el_hizb_number": 1,
+            "ruku_number": 2,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ سَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ",
+            "page_number": 3,
+            "juz_number": 1,
+            "translations": [
+                {
+                    "id": 98085,
+                    "resource_id": 20,
+                    "text": "Indeed, those who disbelieve<sup foot_note=195939>1</sup> - it is all the same for them whether you warn them or do not warn them - they will not believe."
+                },
+                {
+                    "id": 215941,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya orang-orang kafir (yang tidak akan beriman), sama sahaja kepada mereka: sama ada engkau beri amaran kepadanya atau engkau tidak beri amaran, mereka tidak akan beriman."
+                },
+                {
+                    "id": 1090990,
+                    "resource_id": 161,
+                    "text": "নিশ্চয় যারা কুফরী করেছে তাদেরকে তুমি ভয় দেখাও আর না দেখাও উভয়টাই তাদের জন্য সমান, তারা ঈমান আনবে না।"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "verse_number": 7,
+            "verse_key": "2:7",
+            "hizb_number": 1,
+            "rub_el_hizb_number": 1,
+            "ruku_number": 2,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "خَتَمَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ وَعَلَىٰ سَمْعِهِمْ ۖ وَعَلَىٰٓ أَبْصَـٰرِهِمْ غِشَـٰوَةٌ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+            "page_number": 3,
+            "juz_number": 1,
+            "translations": [
+                {
+                    "id": 98314,
+                    "resource_id": 20,
+                    "text": "Allāh has set a seal upon their hearts and upon their hearing, and over their vision is a veil.<sup foot_note=195940>1</sup> And for them is a great punishment."
+                },
+                {
+                    "id": 216170,
+                    "resource_id": 39,
+                    "text": "(Dengan sebab keingkaran mereka), Allah mematerikan atas hati mereka serta pendengaran mereka, dan pada penglihatan mereka ada penutupnya; dan bagi mereka pula disediakan azab seksa yang amat besar."
+                },
+                {
+                    "id": 1090991,
+                    "resource_id": 161,
+                    "text": "আল্লাহ তাদের অন্তর ও কানের উপর মোহর করে দিয়েছেন, আর তাদের চোখে আছে আবরণ আর তাদের জন্য আছে মহা শাস্তি।"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "verse_number": 8,
+            "verse_key": "2:8",
+            "hizb_number": 1,
+            "rub_el_hizb_number": 1,
+            "ruku_number": 3,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "وَمِنَ ٱلنَّاسِ مَن يَقُولُ ءَامَنَّا بِٱللَّهِ وَبِٱلْيَوْمِ ٱلْـَٔاخِرِ وَمَا هُم بِمُؤْمِنِينَ",
+            "page_number": 3,
+            "juz_number": 1,
+            "translations": [
+                {
+                    "id": 98420,
+                    "resource_id": 20,
+                    "text": "And of the people are some who say, \"We believe in Allāh and the Last Day,\" but they are not believers."
+                },
+                {
+                    "id": 216277,
+                    "resource_id": 39,
+                    "text": "Dan di antara manusia ada yang berkata: \"Kami telah beriman kepada Allah dan kepada hari akhirat\"; padahal mereka sebenarnya tidak beriman."
+                },
+                {
+                    "id": 1090992,
+                    "resource_id": 161,
+                    "text": "মানুষের মধ্যে এমন লোক আছে যারা বলে, ‘‘আমরা আল্লাহর প্রতি এবং আখেরাতের দিনের প্রতি ঈমান এনেছি’’ কিন্তু প্রকৃতপক্ষে তারা মু’মিন নয়।"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "verse_number": 9,
+            "verse_key": "2:9",
+            "hizb_number": 1,
+            "rub_el_hizb_number": 1,
+            "ruku_number": 3,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "يُخَـٰدِعُونَ ٱللَّهَ وَٱلَّذِينَ ءَامَنُوا۟ وَمَا يَخْدَعُونَ إِلَّآ أَنفُسَهُمْ وَمَا يَشْعُرُونَ",
+            "page_number": 3,
+            "juz_number": 1,
+            "translations": [
+                {
+                    "id": 98521,
+                    "resource_id": 20,
+                    "text": "They [think to] deceive Allāh and those who believe, but they deceive not except themselves and perceive [it] not."
+                },
+                {
+                    "id": 216387,
+                    "resource_id": 39,
+                    "text": "Mereka hendak memperdayakan Allah dan orang-orang yang beriman, padahal mereka hanya memperdaya dirinya sendiri, sedang mereka tidak menyedarinya."
+                },
+                {
+                    "id": 1090993,
+                    "resource_id": 161,
+                    "text": "তারা আল্লাহ ও মু’মিনদেরকে প্রতারিত করে, আসলে তারা নিজেদেরকে ছাড়া অন্য কাউকে প্রতারিত করে না, কিন্তু এটা তারা উপলব্ধি করতে পারে না।"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "verse_number": 10,
+            "verse_key": "2:10",
+            "hizb_number": 1,
+            "rub_el_hizb_number": 1,
+            "ruku_number": 3,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "فِى قُلُوبِهِم مَّرَضٌ فَزَادَهُمُ ٱللَّهُ مَرَضًا ۖ وَلَهُمْ عَذَابٌ أَلِيمٌۢ بِمَا كَانُوا۟ يَكْذِبُونَ",
+            "page_number": 3,
+            "juz_number": 1,
+            "translations": [
+                {
+                    "id": 97388,
+                    "resource_id": 20,
+                    "text": "In their hearts is disease, so Allāh has increased their disease;<sup foot_note=195941>1</sup> and for them is a painful punishment because they [habitually] used to lie."
+                },
+                {
+                    "id": 215260,
+                    "resource_id": 39,
+                    "text": "Dalam hati mereka (golongan yang munafik itu) terdapat penyakit (syak dan hasad dengki), maka Allah tambahkan lagi penyakit itu kepada mereka; dan mereka pula akan beroleh azab seksa yang tidak terperi sakitnya, dengan sebab mereka berdusta (dan mendustakan kebenaran)."
+                },
+                {
+                    "id": 1090994,
+                    "resource_id": 161,
+                    "text": "তাদের অন্তরে আছে ব্যাধি, অতঃপর আল্লাহ তাদের ব্যাধি বাড়িয়ে দিয়েছেন আর তাদের জন্য রয়েছে যন্ত্রণাদায়ক শাস্তি, কারণ তারা মিথ্যেবাদী।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 29,
+        "total_records": 286
+    }
+}

@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 4980,
+            "verse_number": 1,
+            "verse_key": "56:1",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " إِذَا وَقَعَتِ ٱلْوَاقِعَةُ",
+            "page_number": 534,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100621,
+                    "resource_id": 20,
+                    "text": "When the Occurrence occurs,"
+                },
+                {
+                    "id": 214871,
+                    "resource_id": 39,
+                    "text": "Apabila berlaku hari kiamat itu,"
+                },
+                {
+                    "id": 1095957,
+                    "resource_id": 161,
+                    "text": "যখন সেই অবশ্যম্ভাবী ঘটনাটি ঘটবে,"
+                }
+            ]
+        },
+        {
+            "id": 4981,
+            "verse_number": 2,
+            "verse_key": "56:2",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ",
+            "page_number": 534,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100628,
+                    "resource_id": 20,
+                    "text": "There is, at its occurrence, no denial."
+                },
+                {
+                    "id": 218472,
+                    "resource_id": 39,
+                    "text": "Tiada sesiapapun yang dapat mendustakan kejadiannya."
+                },
+                {
+                    "id": 1095958,
+                    "resource_id": 161,
+                    "text": "তখন তার সংঘটন অস্বীকার করার কেউ থাকবে না,"
+                }
+            ]
+        },
+        {
+            "id": 4982,
+            "verse_number": 3,
+            "verse_key": "56:3",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "خَافِضَةٌ رَّافِعَةٌ",
+            "page_number": 534,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100640,
+                    "resource_id": 20,
+                    "text": "It will bring down [some] and raise up [others].<sup foot_note=197482>1</sup>"
+                },
+                {
+                    "id": 218493,
+                    "resource_id": 39,
+                    "text": "Kejadian hari kiamat itu merendahkan (golongan yang ingkar), dan meninggikan (golongan yang taat)."
+                },
+                {
+                    "id": 1095959,
+                    "resource_id": 161,
+                    "text": "(অনেককে করা হবে) নীচু, (অনেককে করা হবে) উঁচু,"
+                }
+            ]
+        },
+        {
+            "id": 4983,
+            "verse_number": 4,
+            "verse_key": "56:4",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِذَا رُجَّتِ ٱلْأَرْضُ رَجًّا",
+            "page_number": 534,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100652,
+                    "resource_id": 20,
+                    "text": "When the earth is shaken with convulsion"
+                },
+                {
+                    "id": 218502,
+                    "resource_id": 39,
+                    "text": "(Ia berlaku) semasa bumi bergoncang dengan sebebar-benar goncangan."
+                },
+                {
+                    "id": 1095960,
+                    "resource_id": 161,
+                    "text": "যখন পৃথিবী প্রবল কম্পনে হবে প্রকম্পিত,"
+                }
+            ]
+        },
+        {
+            "id": 4984,
+            "verse_number": 5,
+            "verse_key": "56:5",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَبُسَّتِ ٱلْجِبَالُ بَسًّا",
+            "page_number": 534,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100664,
+                    "resource_id": 20,
+                    "text": "And the mountains are broken down, crumbling"
+                },
+                {
+                    "id": 218506,
+                    "resource_id": 39,
+                    "text": "Dan gunung-ganang dihancur leburkan dengan selebur-leburnya,"
+                },
+                {
+                    "id": 1095961,
+                    "resource_id": 161,
+                    "text": "আর পাহাড়গুলো হবে চূর্ণ বিচূর্ণ,"
+                }
+            ]
+        },
+        {
+            "id": 4985,
+            "verse_number": 6,
+            "verse_key": "56:6",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَكَانَتْ هَبَآءً مُّنۢبَثًّا",
+            "page_number": 534,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100676,
+                    "resource_id": 20,
+                    "text": "And become dust dispersing,"
+                },
+                {
+                    "id": 218521,
+                    "resource_id": 39,
+                    "text": "Lalu menjadilah ia debu yang bertebaran,"
+                },
+                {
+                    "id": 1095962,
+                    "resource_id": 161,
+                    "text": "তখন তা বিক্ষিপ্ত ধূলিকণায় পরিণত হবে।"
+                }
+            ]
+        },
+        {
+            "id": 4986,
+            "verse_number": 7,
+            "verse_key": "56:7",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَكُنتُمْ أَزْوَٰجًا ثَلَـٰثَةً",
+            "page_number": 534,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100688,
+                    "resource_id": 20,
+                    "text": "And you become [of] three kinds:"
+                },
+                {
+                    "id": 218536,
+                    "resource_id": 39,
+                    "text": "Dan kamu pula menjadi tiga puak (yang berlainan keadaannya);"
+                },
+                {
+                    "id": 1095963,
+                    "resource_id": 161,
+                    "text": "আর তোমরা হবে তিন অংশে বিভক্ত,"
+                }
+            ]
+        },
+        {
+            "id": 4987,
+            "verse_number": 8,
+            "verse_key": "56:8",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَأَصْحَـٰبُ ٱلْمَيْمَنَةِ مَآ أَصْحَـٰبُ ٱلْمَيْمَنَةِ",
+            "page_number": 534,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100700,
+                    "resource_id": 20,
+                    "text": "Then the companions of the right - what are the companions of the right?<sup foot_note=197483>1</sup>"
+                },
+                {
+                    "id": 218546,
+                    "resource_id": 39,
+                    "text": "Iaitu puak pihak kanan; alangkah bahagianya keadaan puak pihak kanan itu?"
+                },
+                {
+                    "id": 1095964,
+                    "resource_id": 161,
+                    "text": "তখন (হবে) ডান দিকের একটি দল; কত ভাগ্যবান ডান দিকের দল।"
+                }
+            ]
+        },
+        {
+            "id": 4988,
+            "verse_number": 9,
+            "verse_key": "56:9",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَصْحَـٰبُ ٱلْمَشْـَٔمَةِ مَآ أَصْحَـٰبُ ٱلْمَشْـَٔمَةِ",
+            "page_number": 534,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100712,
+                    "resource_id": 20,
+                    "text": "And the companions of the left - what are companions of the left?<sup foot_note=197484>1</sup>"
+                },
+                {
+                    "id": 218564,
+                    "resource_id": 39,
+                    "text": "Dan puak pihak kiri; - alangkah seksanya keadaan puak pihak kiri itu?"
+                },
+                {
+                    "id": 1095965,
+                    "resource_id": 161,
+                    "text": "আর বাম দিকের একটি দল; কত দুর্ভাগা বাম দিকের দলটি।"
+                }
+            ]
+        },
+        {
+            "id": 4989,
+            "verse_number": 10,
+            "verse_key": "56:10",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلسَّـٰبِقُونَ ٱلسَّـٰبِقُونَ",
+            "page_number": 534,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100622,
+                    "resource_id": 20,
+                    "text": "And the forerunners, the forerunners<sup foot_note=197485>1</sup> -"
+                },
+                {
+                    "id": 218566,
+                    "resource_id": 39,
+                    "text": "Dan (puak yang ketiga pula ialah) orang-orang yang telah mendahului (dalam mengerjakan kebaikan di dunia), - yang akan mendahului (mencapai balasan yang sebaik-baiknya di akhirat kelak);"
+                },
+                {
+                    "id": 1095966,
+                    "resource_id": 161,
+                    "text": "আর (ঈমানে) অগ্রবর্তীরা তো (পরকালেও) অগ্রবর্তী,"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 10,
+        "total_records": 96
+    }
+}

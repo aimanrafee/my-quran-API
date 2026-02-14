@@ -1,0 +1,251 @@
+{
+    "verses": [
+        {
+            "id": 434,
+            "verse_number": 141,
+            "verse_key": "3:141",
+            "hizb_number": 7,
+            "rub_el_hizb_number": 27,
+            "ruku_number": 55,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "وَلِيُمَحِّصَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَيَمْحَقَ ٱلْكَـٰفِرِينَ",
+            "page_number": 68,
+            "juz_number": 4,
+            "translations": [
+                {
+                    "id": 98739,
+                    "resource_id": 20,
+                    "text": "And that Allāh may purify the believers [through trials] and destroy the disbelievers."
+                },
+                {
+                    "id": 216603,
+                    "resource_id": 39,
+                    "text": "Dan juga supaya Allah membersihkan orang-orang yang beriman (dari dosa-dosa mereka) dan membinasakan orang-orang yang kafir."
+                },
+                {
+                    "id": 1091411,
+                    "resource_id": 161,
+                    "text": "এবং (এ জন্যেও) যেন আল্লাহ মু’মিনদেরকে সংশোধন করেন ও কাফিরদের নিশ্চিহ্ন করেন।"
+                }
+            ]
+        },
+        {
+            "id": 435,
+            "verse_number": 142,
+            "verse_key": "3:142",
+            "hizb_number": 7,
+            "rub_el_hizb_number": 27,
+            "ruku_number": 55,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "أَمْ حَسِبْتُمْ أَن تَدْخُلُوا۟ ٱلْجَنَّةَ وَلَمَّا يَعْلَمِ ٱللَّهُ ٱلَّذِينَ جَـٰهَدُوا۟ مِنكُمْ وَيَعْلَمَ ٱلصَّـٰبِرِينَ",
+            "page_number": 68,
+            "juz_number": 4,
+            "translations": [
+                {
+                    "id": 98740,
+                    "resource_id": 20,
+                    "text": "Or do you think that you will enter Paradise while Allāh has not yet made evident those of you who fight in His cause and made evident those who are steadfast?"
+                },
+                {
+                    "id": 216606,
+                    "resource_id": 39,
+                    "text": "Adakah kamu menyangka bahawa kamu akan masuk Syurga padahal belum lagi nyata kepada Allah (wujudnya) orang-orang yang berjihad (yang berjuang dengan bersungguh-sungguh) di antara kamu, dan (belum lagi) nyata (wujudnya) orang-orang yang sabar (tabah dan cekal hati dalam perjuangan)?"
+                },
+                {
+                    "id": 1091412,
+                    "resource_id": 161,
+                    "text": "তোমরা কি ভেবেছ যে, তোমরা জান্নাতে প্রবেশ করবে, অথচ আল্লাহ এখন পর্যন্তও পরখ করেননি তোমাদের মধ্যে কে জিহাদ করেছে আর কারা ধৈর্যশীল।"
+                }
+            ]
+        },
+        {
+            "id": 436,
+            "verse_number": 143,
+            "verse_key": "3:143",
+            "hizb_number": 7,
+            "rub_el_hizb_number": 27,
+            "ruku_number": 55,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَقَدْ كُنتُمْ تَمَنَّوْنَ ٱلْمَوْتَ مِن قَبْلِ أَن تَلْقَوْهُ فَقَدْ رَأَيْتُمُوهُ وَأَنتُمْ تَنظُرُونَ",
+            "page_number": 68,
+            "juz_number": 4,
+            "translations": [
+                {
+                    "id": 98742,
+                    "resource_id": 20,
+                    "text": "And you had certainly wished for death [i.e., martyrdom] before you encountered it, and you have [now] seen it [before you] while you were looking on."
+                },
+                {
+                    "id": 216607,
+                    "resource_id": 39,
+                    "text": "Dan sesungguhnya kamu telah mengharap-harapkan mati Syahid (dalam perang Sabil) sebelum kamu menghadapinya. Maka sesungguhnya kamu (sekarang) telahpun menyaksikannya dan kamu sedang melihatnya (dengan mata kepala sendiri)."
+                },
+                {
+                    "id": 1091413,
+                    "resource_id": 161,
+                    "text": "(শাহাদাতের) মৃত্যুর সাক্ষাৎ লাভের পূর্বে তোমরা তা কামনা করতে, এখন তো তোমরা তা দিব্যদৃষ্টিতে দেখলে।"
+                }
+            ]
+        },
+        {
+            "id": 437,
+            "verse_number": 144,
+            "verse_key": "3:144",
+            "hizb_number": 7,
+            "rub_el_hizb_number": 27,
+            "ruku_number": 56,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ ۚ أَفَإِي۟ن مَّاتَ أَوْ قُتِلَ ٱنقَلَبْتُمْ عَلَىٰٓ أَعْقَـٰبِكُمْ ۚ وَمَن يَنقَلِبْ عَلَىٰ عَقِبَيْهِ فَلَن يَضُرَّ ٱللَّهَ شَيْـًٔا ۗ وَسَيَجْزِى ٱللَّهُ ٱلشَّـٰكِرِينَ",
+            "page_number": 68,
+            "juz_number": 4,
+            "translations": [
+                {
+                    "id": 98744,
+                    "resource_id": 20,
+                    "text": "Muḥammad is not but a messenger. [Other] messengers have passed on before him. So if he was to die or be killed, would you turn back on your heels [to unbelief]? And he who turns back on his heels will never harm Allāh at all; but Allāh will reward the grateful."
+                },
+                {
+                    "id": 216608,
+                    "resource_id": 39,
+                    "text": "Dan Muhammad itu tidak lain hanyalah seorang Rasul yang sudahpun didahului oleh beberapa orang Rasul (yang telah mati atau terbunuh). Jika demikian, kalau ia pula mati atau terbunuh, (patutkah) kamu berbalik (berpaling tadah menjadi kafir)? Dan (ingatlah), sesiapa yang berbalik (menjadi kafir) maka ia tidak akan mendatangkan mudarat kepada Allah sedikitpun; dan (sebaliknya) Allah akan memberi balasan pahala kepada orang-orang yang bersyukur (akan nikmat Islam yang tidak ada bandingannya itu)."
+                },
+                {
+                    "id": 1091414,
+                    "resource_id": 161,
+                    "text": "মুহাম্মাদ হচ্ছে একজন রসূল মাত্র, তাঁর পূর্বে আরও অনেক রসূল গত হয়েছে; কাজেই যদি সে মারা যায় কিংবা নিহত হয়, তবে কি তোমরা উল্টাদিকে ঘুরে দাঁড়াবে? এবং যে ব্যক্তি উল্টাদিকে ফিরে দাঁড়ায় সে আল্লাহর কোনই ক্ষতি করতে পারবে না এবং আল্লাহ কৃতজ্ঞদেরকে অতিশীঘ্র বিনিময় প্রদান করবেন।"
+                }
+            ]
+        },
+        {
+            "id": 438,
+            "verse_number": 145,
+            "verse_key": "3:145",
+            "hizb_number": 7,
+            "rub_el_hizb_number": 27,
+            "ruku_number": 56,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا كَانَ لِنَفْسٍ أَن تَمُوتَ إِلَّا بِإِذْنِ ٱللَّهِ كِتَـٰبًا مُّؤَجَّلًا ۗ وَمَن يُرِدْ ثَوَابَ ٱلدُّنْيَا نُؤْتِهِۦ مِنْهَا وَمَن يُرِدْ ثَوَابَ ٱلْـَٔاخِرَةِ نُؤْتِهِۦ مِنْهَا ۚ وَسَنَجْزِى ٱلشَّـٰكِرِينَ",
+            "page_number": 68,
+            "juz_number": 4,
+            "translations": [
+                {
+                    "id": 98745,
+                    "resource_id": 20,
+                    "text": "And it is not [possible] for one to die except by permission of Allāh at a decree determined. And whoever desires the reward of this world - We will give him thereof; and whoever desires the reward of the Hereafter - We will give him thereof. And We will reward the grateful."
+                },
+                {
+                    "id": 216609,
+                    "resource_id": 39,
+                    "text": "Dan (tiap-tiap) makhluk yang bernyawa tidak akan mati melainkan dengan izin Allah, iaitu ketetapan (ajal) yang tertentu masanya (yang telah ditetapkan oleh Allah). Dan (dengan yang demikian) sesiapa yang menghendaki balasan dunia, kami berikan bahagiannya dari balasan dunia itu, dan sesiapa yang menghendaki balasan akhirat, kami berikan behagiannya dari balasan akhirat itu; dan Kami pula akan beri balasan pahala kepada orang-orang yang bersyukur."
+                },
+                {
+                    "id": 1091415,
+                    "resource_id": 161,
+                    "text": "কোন জীবই আল্লাহর অনুমতি ছাড়া মরতে পারে না, তার মেয়াদ নির্ধারিত। যে ব্যক্তি পার্থিব ফল চায়, আমি তাত্থেকে তাকে দেই, আর যে ব্যক্তি আখেরাতের ফল চায়, আমি তাকে তাত্থেকে দেই এবং কৃতজ্ঞদেরকে আমি শীঘ্রই বিনিময় প্রদান করব।"
+                }
+            ]
+        },
+        {
+            "id": 439,
+            "verse_number": 146,
+            "verse_key": "3:146",
+            "hizb_number": 7,
+            "rub_el_hizb_number": 27,
+            "ruku_number": 56,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "وَكَأَيِّن مِّن نَّبِىٍّ قَـٰتَلَ مَعَهُۥ رِبِّيُّونَ كَثِيرٌ فَمَا وَهَنُوا۟ لِمَآ أَصَابَهُمْ فِى سَبِيلِ ٱللَّهِ وَمَا ضَعُفُوا۟ وَمَا ٱسْتَكَانُوا۟ ۗ وَٱللَّهُ يُحِبُّ ٱلصَّـٰبِرِينَ",
+            "page_number": 68,
+            "juz_number": 4,
+            "translations": [
+                {
+                    "id": 98746,
+                    "resource_id": 20,
+                    "text": "And how many a prophet [fought in battle and] with him fought many religious scholars. But they never lost assurance due to what afflicted them in the cause of Allāh, nor did they weaken or submit. And Allāh loves the steadfast."
+                },
+                {
+                    "id": 216610,
+                    "resource_id": 39,
+                    "text": "Dan berapa banyak dari Nabi-nabi (dahulu) telah berperang dengan disertai oleh ramai orang-orang yang taat kepada Allah, maka mereka tidak merasa lemah semangat akan apa yang telah menimpa mereka pada jalan (ugama) Allah dan mereka juga tidak lemah tenaga dan tidak pula mahu tunduk (kepada musuh). Dan (ingatlah), Allah sentiasa mengasihi orang-orang yang sabar."
+                },
+                {
+                    "id": 1091416,
+                    "resource_id": 161,
+                    "text": "কত নাবী যুদ্ধ করেছে, তাদের সাথে ছিল বহু লোক, তখন তারা আল্লাহর পথে তাদের উপর সংঘটিত বিপদের জন্য হীনবল হয়নি, দুর্বল হয়নি, দুর্বল, অপারগ হয়নি, বস্তুতঃ আল্লাহ ধৈর্যশীলদেরকে ভালবাসেন।"
+                }
+            ]
+        },
+        {
+            "id": 440,
+            "verse_number": 147,
+            "verse_key": "3:147",
+            "hizb_number": 7,
+            "rub_el_hizb_number": 27,
+            "ruku_number": 56,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا كَانَ قَوْلَهُمْ إِلَّآ أَن قَالُوا۟ رَبَّنَا ٱغْفِرْ لَنَا ذُنُوبَنَا وَإِسْرَافَنَا فِىٓ أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا وَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَـٰفِرِينَ",
+            "page_number": 68,
+            "juz_number": 4,
+            "translations": [
+                {
+                    "id": 98747,
+                    "resource_id": 20,
+                    "text": "And their words were not but that they said, \"Our Lord, forgive us our sins and the excess [committed] in our affairs and plant firmly our feet and give us victory over the disbelieving people.\""
+                },
+                {
+                    "id": 216611,
+                    "resource_id": 39,
+                    "text": "Dan tidaklah ada yang mereka ucapkan (semasa berjuang), selain daripada berdoa dengan berkata: \"Wahai Tuhan kami! Ampunkanlah dosa-dosa kami dan perbuatan kami yang melampau dalam urusan kami, dan teguhkanlah tapak pendirian kami (dalam perjuangan); dan tolonglah kami mencapai kemenangan terhadap kaum yang kafir."
+                },
+                {
+                    "id": 1091417,
+                    "resource_id": 161,
+                    "text": "তাদের মুখ হতে কেবল এ কথাই বেরিয়েছিল- ‘হে আমাদের প্রতিপালক! আমাদের অপরাধগুলো এবং আমাদের কাজ-কর্মে বাড়াবাড়িগুলোকে তুমি ক্ষমা করে দাও, আমাদেরকে দৃঢ়পদ রেখ এবং কাফিরদলের উপর আমাদেরকে সাহায্য কর।’"
+                }
+            ]
+        },
+        {
+            "id": 441,
+            "verse_number": 148,
+            "verse_key": "3:148",
+            "hizb_number": 7,
+            "rub_el_hizb_number": 27,
+            "ruku_number": 56,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "فَـَٔاتَىٰهُمُ ٱللَّهُ ثَوَابَ ٱلدُّنْيَا وَحُسْنَ ثَوَابِ ٱلْـَٔاخِرَةِ ۗ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ",
+            "page_number": 68,
+            "juz_number": 4,
+            "translations": [
+                {
+                    "id": 98748,
+                    "resource_id": 20,
+                    "text": "So Allāh gave them the reward of this world and the good reward of the Hereafter. And Allāh loves the doers of good."
+                },
+                {
+                    "id": 216612,
+                    "resource_id": 39,
+                    "text": "Oleh itu, Allah memberikan mereka pahala dunia (kemenangan dan nama yang harum), dan pahala akhirat yang sebaik-baiknya (nikmat Syurga yang tidak ada bandingannya). Dan (ingatlah), Allah sentiasa mengasihi orang-orang yang berbuat kebaikan."
+                },
+                {
+                    "id": 1091418,
+                    "resource_id": 161,
+                    "text": "সুতরাং আল্লাহ তাদেরকে পার্থিব সুফল প্রদান করলেন আর পরকালীন উৎকৃষ্ট সুফল। আল্লাহ সৎকর্মশীলদেরকে ভালবাসেন।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 8,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 8
+    }
+}

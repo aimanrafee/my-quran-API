@@ -1,0 +1,251 @@
+{
+    "verses": [
+        {
+            "id": 6139,
+            "verse_number": 1,
+            "verse_key": "99:1",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 543,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+            "page_number": 599,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102380,
+                    "resource_id": 20,
+                    "text": "When the earth is shaken with its [final] earthquake"
+                },
+                {
+                    "id": 220201,
+                    "resource_id": 39,
+                    "text": "Apabila bumi digegarkan dengan gegaran yang sedahsyat-dahsyatnya,"
+                },
+                {
+                    "id": 1097116,
+                    "resource_id": 161,
+                    "text": "পৃথিবীকে যখন তার প্রচন্ড কম্পনে কাঁপিয়ে দেয়া হবে,"
+                }
+            ]
+        },
+        {
+            "id": 6140,
+            "verse_number": 2,
+            "verse_key": "99:2",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 543,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+            "page_number": 599,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102382,
+                    "resource_id": 20,
+                    "text": "And the earth discharges its burdens<sup foot_note=197793>1</sup>"
+                },
+                {
+                    "id": 214963,
+                    "resource_id": 39,
+                    "text": "Serta bumi itu mengeluarkan segala isinya,"
+                },
+                {
+                    "id": 1097117,
+                    "resource_id": 161,
+                    "text": "পৃথিবী তার (ভেতরের যাবতীয়) বোঝা বাইরে নিক্ষেপ করবে,"
+                }
+            ]
+        },
+        {
+            "id": 6141,
+            "verse_number": 3,
+            "verse_key": "99:3",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 543,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَقَالَ ٱلْإِنسَـٰنُ مَا لَهَا",
+            "page_number": 599,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102384,
+                    "resource_id": 20,
+                    "text": "And man says,<sup foot_note=197794>1</sup> \"What is [wrong] with it?\" -"
+                },
+                {
+                    "id": 220204,
+                    "resource_id": 39,
+                    "text": "Dan berkatalah manusia (dengan perasaan gerun); \"Apa yang sudah terjadi kepada bumi?\""
+                },
+                {
+                    "id": 1097118,
+                    "resource_id": 161,
+                    "text": "এবং মানুষ বলবে ‘এর কী হয়েছে?’"
+                }
+            ]
+        },
+        {
+            "id": 6142,
+            "verse_number": 4,
+            "verse_key": "99:4",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 543,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+            "page_number": 599,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102386,
+                    "resource_id": 20,
+                    "text": "That Day, it will report its news"
+                },
+                {
+                    "id": 220206,
+                    "resource_id": 39,
+                    "text": "Pada hari itu bumipun menceritakan khabar beritanya:"
+                },
+                {
+                    "id": 1097119,
+                    "resource_id": 161,
+                    "text": "সে দিন পৃথিবী তার (নিজের উপর সংঘটিত) বৃত্তান্ত বর্ণনা করবে,"
+                }
+            ]
+        },
+        {
+            "id": 6143,
+            "verse_number": 5,
+            "verse_key": "99:5",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 543,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+            "page_number": 599,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102388,
+                    "resource_id": 20,
+                    "text": "Because your Lord has inspired [i.e., commanded] it."
+                },
+                {
+                    "id": 220208,
+                    "resource_id": 39,
+                    "text": "Bahawa Tuhanmu telah memerintahnya (berlaku demikian)."
+                },
+                {
+                    "id": 1097120,
+                    "resource_id": 161,
+                    "text": "কারণ তোমার প্রতিপালক তাকে আদেশ করবেন,"
+                }
+            ]
+        },
+        {
+            "id": 6144,
+            "verse_number": 6,
+            "verse_key": "99:6",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 543,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَـٰلَهُمْ",
+            "page_number": 599,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102390,
+                    "resource_id": 20,
+                    "text": "That Day, the people will depart<sup foot_note=197795>1</sup> separated [into categories] to be shown [the result of] their deeds."
+                },
+                {
+                    "id": 220210,
+                    "resource_id": 39,
+                    "text": "Pada hari itu manusia akan keluar berselerak (dari kubur masing-masing) - untuk diperlihatkan kepada mereka (balasan) amal-amal mereka."
+                },
+                {
+                    "id": 1097121,
+                    "resource_id": 161,
+                    "text": "সেদিন মানুষ বের হবে ভিন্ন ভিন্ন দলে যাতে তাদেরকে তাদের কৃতকর্ম দেখানো যায়,"
+                }
+            ]
+        },
+        {
+            "id": 6145,
+            "verse_number": 7,
+            "verse_key": "99:7",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 543,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ",
+            "page_number": 599,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102392,
+                    "resource_id": 20,
+                    "text": "So whoever does an atom's weight<sup foot_note=197796>1</sup> of good will see it,"
+                },
+                {
+                    "id": 220212,
+                    "resource_id": 39,
+                    "text": "Maka sesiapa berbuat kebajikan seberat zarah, nescaya akan dilihatnya (dalam surat amalnya)!"
+                },
+                {
+                    "id": 1097122,
+                    "resource_id": 161,
+                    "text": "অতএব কেউ অণু পরিমাণও সৎ কাজ করলে সে তা দেখবে,"
+                }
+            ]
+        },
+        {
+            "id": 6146,
+            "verse_number": 8,
+            "verse_key": "99:8",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 543,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ",
+            "page_number": 599,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102394,
+                    "resource_id": 20,
+                    "text": "And whoever does an atom's weight of evil will see it."
+                },
+                {
+                    "id": 220214,
+                    "resource_id": 39,
+                    "text": "Dan sesiapa berbuat kejahatan seberat zarah, nescaya akan dilihatnya (dalam surat amalnya)!"
+                },
+                {
+                    "id": 1097123,
+                    "resource_id": 161,
+                    "text": "আর কেউ অণু পরিমাণও অসৎ কাজ করলে সেও তা দেখবে।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 8
+    }
+}

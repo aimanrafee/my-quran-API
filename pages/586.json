@@ -1,0 +1,881 @@
+{
+    "verses": [
+        {
+            "id": 5801,
+            "verse_number": 1,
+            "verse_key": "81:1",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " إِذَا ٱلشَّمْسُ كُوِّرَتْ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101848,
+                    "resource_id": 20,
+                    "text": "When the sun is wrapped up [in darkness]"
+                },
+                {
+                    "id": 219775,
+                    "resource_id": 39,
+                    "text": "Apabila matahari dilingkari cahayanya (dan hilang lenyap);"
+                },
+                {
+                    "id": 1096778,
+                    "resource_id": 161,
+                    "text": "যখন সূর্যকে গুটিয়ে নেয়া হবে"
+                }
+            ]
+        },
+        {
+            "id": 5802,
+            "verse_number": 2,
+            "verse_key": "81:2",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا ٱلنُّجُومُ ٱنكَدَرَتْ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101860,
+                    "resource_id": 20,
+                    "text": "And when the stars fall, dispersing,"
+                },
+                {
+                    "id": 219685,
+                    "resource_id": 39,
+                    "text": "Dan apabila bintang-bintang gugur berselerak;"
+                },
+                {
+                    "id": 1096779,
+                    "resource_id": 161,
+                    "text": "আর তারকাগুলো যখন তাদের উজ্জ্বলতা হারিয়ে খসে পড়বে।"
+                }
+            ]
+        },
+        {
+            "id": 5803,
+            "verse_number": 3,
+            "verse_key": "81:3",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا ٱلْجِبَالُ سُيِّرَتْ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101872,
+                    "resource_id": 20,
+                    "text": "And when the mountains are removed"
+                },
+                {
+                    "id": 219694,
+                    "resource_id": 39,
+                    "text": "Dan apabila gunung-ganang di terbangkan ke angkasa (setelah dihancurkan menjadi debu);"
+                },
+                {
+                    "id": 1096780,
+                    "resource_id": 161,
+                    "text": "পর্বতগুলোকে যখন চলমান করা হবে,"
+                }
+            ]
+        },
+        {
+            "id": 5804,
+            "verse_number": 4,
+            "verse_key": "81:4",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا ٱلْعِشَارُ عُطِّلَتْ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101873,
+                    "resource_id": 20,
+                    "text": "And when full-term she-camels<sup foot_note=197714>1</sup> are neglected"
+                },
+                {
+                    "id": 219696,
+                    "resource_id": 39,
+                    "text": "Dan apabila unta-unta yang bunting terbiar;"
+                },
+                {
+                    "id": 1096781,
+                    "resource_id": 161,
+                    "text": "যখন দশ মাসের গর্ভবতী উটনিগুলোকে অযত্নে পরিত্যাগ করা হবে,"
+                }
+            ]
+        },
+        {
+            "id": 5805,
+            "verse_number": 5,
+            "verse_key": "81:5",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا ٱلْوُحُوشُ حُشِرَتْ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101875,
+                    "resource_id": 20,
+                    "text": "And when the wild beasts are gathered"
+                },
+                {
+                    "id": 219698,
+                    "resource_id": 39,
+                    "text": "Dan apabila binatang-binatang liar dihimpunkan;"
+                },
+                {
+                    "id": 1096782,
+                    "resource_id": 161,
+                    "text": "যখন বনের জন্তু জানোয়ারকে (বন থেকে গুটিয়ে এনে লোকালয়ে) একত্রিত করা হবে,"
+                }
+            ]
+        },
+        {
+            "id": 5806,
+            "verse_number": 6,
+            "verse_key": "81:6",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا ٱلْبِحَارُ سُجِّرَتْ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101877,
+                    "resource_id": 20,
+                    "text": "And when the seas are filled with flame<sup foot_note=197715>1</sup>"
+                },
+                {
+                    "id": 219702,
+                    "resource_id": 39,
+                    "text": "Dan apabila lautan meluap-luap bercampur-baur;"
+                },
+                {
+                    "id": 1096783,
+                    "resource_id": 161,
+                    "text": "যখন সমুদ্রগুলোকে প্রজ্জ্বলিত করে উত্তাল করা হবে।"
+                }
+            ]
+        },
+        {
+            "id": 5807,
+            "verse_number": 7,
+            "verse_key": "81:7",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا ٱلنُّفُوسُ زُوِّجَتْ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101879,
+                    "resource_id": 20,
+                    "text": "And when the souls are paired<sup foot_note=197716>1</sup>"
+                },
+                {
+                    "id": 219706,
+                    "resource_id": 39,
+                    "text": "Dan apabila tiap-tiap diri disatukan dengan pasangannya;"
+                },
+                {
+                    "id": 1096784,
+                    "resource_id": 161,
+                    "text": "যখন দেহের সঙ্গে আত্মাগুলোকে আবার জুড়ে দেয়া হবে,"
+                }
+            ]
+        },
+        {
+            "id": 5808,
+            "verse_number": 8,
+            "verse_key": "81:8",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101881,
+                    "resource_id": 20,
+                    "text": "And when the girl [who was] buried alive is asked"
+                },
+                {
+                    "id": 219704,
+                    "resource_id": 39,
+                    "text": "Dan apabila anak perempuan yang ditanam hidup-hidup: ditanya, -"
+                },
+                {
+                    "id": 1096785,
+                    "resource_id": 161,
+                    "text": "যখন জীবন্ত পুঁতে-ফেলা কন্যা-শিশুকে জিজ্ঞেস করা হবে,"
+                }
+            ]
+        },
+        {
+            "id": 5809,
+            "verse_number": 9,
+            "verse_key": "81:9",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "بِأَىِّ ذَنۢبٍ قُتِلَتْ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101883,
+                    "resource_id": 20,
+                    "text": "For what sin she was killed"
+                },
+                {
+                    "id": 219708,
+                    "resource_id": 39,
+                    "text": "Dengan dosa apakah ia dibunuh?"
+                },
+                {
+                    "id": 1096786,
+                    "resource_id": 161,
+                    "text": "কোন্ অপরাধে তাকে হত্যা করা হয়েছে?"
+                }
+            ]
+        },
+        {
+            "id": 5810,
+            "verse_number": 10,
+            "verse_key": "81:10",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا ٱلصُّحُفُ نُشِرَتْ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101849,
+                    "resource_id": 20,
+                    "text": "And when the pages<sup foot_note=197717>1</sup> are spread [i.e., made public]"
+                },
+                {
+                    "id": 214628,
+                    "resource_id": 39,
+                    "text": "Dan apabila surat-surat amal dibentangkan;"
+                },
+                {
+                    "id": 1096787,
+                    "resource_id": 161,
+                    "text": "যখন ‘আমালনামাগুলো খুলে ধরা হবে,"
+                }
+            ]
+        },
+        {
+            "id": 5811,
+            "verse_number": 11,
+            "verse_key": "81:11",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا ٱلسَّمَآءُ كُشِطَتْ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101850,
+                    "resource_id": 20,
+                    "text": "And when the sky is stripped away"
+                },
+                {
+                    "id": 219700,
+                    "resource_id": 39,
+                    "text": "Dan apabila langit ditanggalkan dari tempatnya;"
+                },
+                {
+                    "id": 1096788,
+                    "resource_id": 161,
+                    "text": "যখন আসমানের পর্দা সরিয়ে ফেলা হবে।"
+                }
+            ]
+        },
+        {
+            "id": 5812,
+            "verse_number": 12,
+            "verse_key": "81:12",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا ٱلْجَحِيمُ سُعِّرَتْ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101851,
+                    "resource_id": 20,
+                    "text": "And when Hellfire is set ablaze"
+                },
+                {
+                    "id": 219681,
+                    "resource_id": 39,
+                    "text": "Dan apabila neraka dinyalakan menjulang;"
+                },
+                {
+                    "id": 1096789,
+                    "resource_id": 161,
+                    "text": "যখন জাহান্নামকে উসকে দেয়া হবে,"
+                }
+            ]
+        },
+        {
+            "id": 5813,
+            "verse_number": 13,
+            "verse_key": "81:13",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا ٱلْجَنَّةُ أُزْلِفَتْ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101852,
+                    "resource_id": 20,
+                    "text": "And when Paradise is brought near,"
+                },
+                {
+                    "id": 219673,
+                    "resource_id": 39,
+                    "text": "Dan apabila Syurga didekatkan;"
+                },
+                {
+                    "id": 1096790,
+                    "resource_id": 161,
+                    "text": "আর জান্নাতকে নিকটে আনা হবে,"
+                }
+            ]
+        },
+        {
+            "id": 5814,
+            "verse_number": 14,
+            "verse_key": "81:14",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "عَلِمَتْ نَفْسٌ مَّآ أَحْضَرَتْ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101853,
+                    "resource_id": 20,
+                    "text": "A soul will [then] know what it has brought [with it].<sup foot_note=197718>1</sup>"
+                },
+                {
+                    "id": 219674,
+                    "resource_id": 39,
+                    "text": "(Setelah semuanya itu berlaku), tiap-tiap orang akan mengetahui tentang amal yang telah dibawanya."
+                },
+                {
+                    "id": 1096791,
+                    "resource_id": 161,
+                    "text": "তখন প্রত্যেক ব্যক্তি জানতে পারবে সে কী (সঙ্গে) নিয়ে এসেছে।"
+                }
+            ]
+        },
+        {
+            "id": 5815,
+            "verse_number": 15,
+            "verse_key": "81:15",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَلَآ أُقْسِمُ بِٱلْخُنَّسِ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101854,
+                    "resource_id": 20,
+                    "text": "So I swear by the retreating stars -"
+                },
+                {
+                    "id": 219675,
+                    "resource_id": 39,
+                    "text": "Oleh itu, Aku bersumpah dengan bintang-bintang yang tenggelam timbul;"
+                },
+                {
+                    "id": 1096792,
+                    "resource_id": 161,
+                    "text": "আমি শপথ করছি (গ্রহের) যা পেছনে সরে যায়,"
+                }
+            ]
+        },
+        {
+            "id": 5816,
+            "verse_number": 16,
+            "verse_key": "81:16",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلْجَوَارِ ٱلْكُنَّسِ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101855,
+                    "resource_id": 20,
+                    "text": "Those that run [their courses] and disappear [i.e., set]"
+                },
+                {
+                    "id": 219676,
+                    "resource_id": 39,
+                    "text": "Yang beredar, juga yang tetap pada tempatnya;"
+                },
+                {
+                    "id": 1096793,
+                    "resource_id": 161,
+                    "text": "চলে ও লুকিয়ে যায়,"
+                }
+            ]
+        },
+        {
+            "id": 5817,
+            "verse_number": 17,
+            "verse_key": "81:17",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّيْلِ إِذَا عَسْعَسَ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101856,
+                    "resource_id": 20,
+                    "text": "And by the night as it closes in<sup foot_note=197719>1</sup>"
+                },
+                {
+                    "id": 219677,
+                    "resource_id": 39,
+                    "text": "Dan malam, apabila ia hampir habis,"
+                },
+                {
+                    "id": 1096794,
+                    "resource_id": 161,
+                    "text": "শপথ রাতের যখন তা বিদায় নেয়"
+                }
+            ]
+        },
+        {
+            "id": 5818,
+            "verse_number": 18,
+            "verse_key": "81:18",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلصُّبْحِ إِذَا تَنَفَّسَ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101857,
+                    "resource_id": 20,
+                    "text": "And by the dawn when it breathes [i.e., stirs]"
+                },
+                {
+                    "id": 219679,
+                    "resource_id": 39,
+                    "text": "Dan siang, apabila ia mulai terang;"
+                },
+                {
+                    "id": 1096795,
+                    "resource_id": 161,
+                    "text": "আর ঊষার যখন তা নিঃশ্বাস ফেলে অন্ধকারকে বের করে দেয়,"
+                }
+            ]
+        },
+        {
+            "id": 5819,
+            "verse_number": 19,
+            "verse_key": "81:19",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّهُۥ لَقَوْلُ رَسُولٍ كَرِيمٍ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101858,
+                    "resource_id": 20,
+                    "text": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel]"
+                },
+                {
+                    "id": 219678,
+                    "resource_id": 39,
+                    "text": "Sebenarnya Al-Quran itu, sungguh-sungguh Kalamullah (yang disampaikan oleh Jibril) Utusan yang mulia,"
+                },
+                {
+                    "id": 1096796,
+                    "resource_id": 161,
+                    "text": "এ কুরআন নিশ্চয়ই সম্মানিত রসূলের (অর্থাৎ জিবরাঈলের) আনীত বাণী।"
+                }
+            ]
+        },
+        {
+            "id": 5820,
+            "verse_number": 20,
+            "verse_key": "81:20",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ذِى قُوَّةٍ عِندَ ذِى ٱلْعَرْشِ مَكِينٍ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101861,
+                    "resource_id": 20,
+                    "text": "[Who is] possessed of power and with the Owner of the Throne, secure [in position],"
+                },
+                {
+                    "id": 219682,
+                    "resource_id": 39,
+                    "text": "Yang kuat gagah, lagi berkedudukan tinggi di sisi Allah yang mempunyai Arasy,"
+                },
+                {
+                    "id": 1096797,
+                    "resource_id": 161,
+                    "text": "যে শক্তিশালী, ‘আরশের মালিক (আল্লাহ)’র নিকট মর্যাদাশীল।"
+                }
+            ]
+        },
+        {
+            "id": 5821,
+            "verse_number": 21,
+            "verse_key": "81:21",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "مُّطَاعٍ ثَمَّ أَمِينٍ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101862,
+                    "resource_id": 20,
+                    "text": "Obeyed there [in the heavens] and trustworthy."
+                },
+                {
+                    "id": 219683,
+                    "resource_id": 39,
+                    "text": "Yang ditaati di sana (dalam kalangan malaikat), lagi dipercayai."
+                },
+                {
+                    "id": 1096798,
+                    "resource_id": 161,
+                    "text": "সেখানে মান্য ও বিশ্বস্ত।"
+                }
+            ]
+        },
+        {
+            "id": 5822,
+            "verse_number": 22,
+            "verse_key": "81:22",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا صَاحِبُكُم بِمَجْنُونٍ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101863,
+                    "resource_id": 20,
+                    "text": "And your companion [i.e., Prophet Muḥammad (ﷺ) ] is not [at all] mad.<sup foot_note=197720>1</sup>"
+                },
+                {
+                    "id": 219684,
+                    "resource_id": 39,
+                    "text": "Dan sebenarnya sahabat kamu (Nabi Muhammad) itu (wahai golongan yang menentang Islam), bukanlah ia seorang gila (seperti yang kamu tuduh);"
+                },
+                {
+                    "id": 1096799,
+                    "resource_id": 161,
+                    "text": "(ওহে মাক্কাবাসী!) তোমাদের সঙ্গী (মুহাম্মাদ) পাগল নয়।"
+                }
+            ]
+        },
+        {
+            "id": 5823,
+            "verse_number": 23,
+            "verse_key": "81:23",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَقَدْ رَءَاهُ بِٱلْأُفُقِ ٱلْمُبِينِ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101864,
+                    "resource_id": 20,
+                    "text": "And he has already seen him [i.e., Gabriel] in the clear horizon.<sup foot_note=197721>1</sup>"
+                },
+                {
+                    "id": 219686,
+                    "resource_id": 39,
+                    "text": "Dan (Nabi Muhammad yakin bahawa yang disampaikan kepadanya ialah wahyu dari Tuhan, kerana) demi sesungguhnya! Nabi Muhammad telah mengenal dan melihat Jibril di kaki langit yang nyata."
+                },
+                {
+                    "id": 1096800,
+                    "resource_id": 161,
+                    "text": "সে সেই বাণী বাহককে সুস্পষ্ট দিগন্তে দেখেছে,"
+                }
+            ]
+        },
+        {
+            "id": 5824,
+            "verse_number": 24,
+            "verse_key": "81:24",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا هُوَ عَلَى ٱلْغَيْبِ بِضَنِينٍ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101865,
+                    "resource_id": 20,
+                    "text": "And he [i.e., Muḥammad (ﷺ)] is not a withholder of [knowledge of] the unseen.<sup foot_note=197722>1</sup>"
+                },
+                {
+                    "id": 219687,
+                    "resource_id": 39,
+                    "text": "Dan bukanlah Nabi Muhammad seorang yang boleh dituduh dan disangka buruk, terhadap penyampaiannya mengenai perkara-perkara yang ghaib."
+                },
+                {
+                    "id": 1096801,
+                    "resource_id": 161,
+                    "text": "সে গায়বের (জ্ঞান মানুষের কাছে পৌঁছে দেয়ার) ব্যাপারে কৃপণতা করে না।"
+                }
+            ]
+        },
+        {
+            "id": 5825,
+            "verse_number": 25,
+            "verse_key": "81:25",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا هُوَ بِقَوْلِ شَيْطَـٰنٍ رَّجِيمٍ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101866,
+                    "resource_id": 20,
+                    "text": "And it [i.e., the Qur’ān] is not the word of a devil, expelled [from the heavens]."
+                },
+                {
+                    "id": 219688,
+                    "resource_id": 39,
+                    "text": "Dan sebenarnya Al-Quran itu bukanlah perkataan Syaitan yang kena rejam."
+                },
+                {
+                    "id": 1096802,
+                    "resource_id": 161,
+                    "text": "আর তা কোন অভিশপ্ত শয়ত্বানের বাণী নয়।"
+                }
+            ]
+        },
+        {
+            "id": 5826,
+            "verse_number": 26,
+            "verse_key": "81:26",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَأَيْنَ تَذْهَبُونَ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101867,
+                    "resource_id": 20,
+                    "text": "So where are you going?<sup foot_note=197723>1</sup>"
+                },
+                {
+                    "id": 219689,
+                    "resource_id": 39,
+                    "text": "(Dengan yang demikian) maka ke manakah kamu hendak pergi (kiranya kamu masih menyeleweng dari jalan Al-Quran)?"
+                },
+                {
+                    "id": 1096803,
+                    "resource_id": 161,
+                    "text": "কাজেই তোমরা (সত্যকে প্রত্যাখ্যান করে) কোথায় চলেছ?"
+                }
+            ]
+        },
+        {
+            "id": 5827,
+            "verse_number": 27,
+            "verse_key": "81:27",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَـٰلَمِينَ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101868,
+                    "resource_id": 20,
+                    "text": "It is not except a reminder to the worlds"
+                },
+                {
+                    "id": 219690,
+                    "resource_id": 39,
+                    "text": "Al-Quran itu tidak lain hanyalah peringatan bagi seluruh penduduk alam:"
+                },
+                {
+                    "id": 1096804,
+                    "resource_id": 161,
+                    "text": "এটা তো কেবল বিশ্ববাসীদের জন্য উপদেশ।"
+                }
+            ]
+        },
+        {
+            "id": 5828,
+            "verse_number": 28,
+            "verse_key": "81:28",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "لِمَن شَآءَ مِنكُمْ أَن يَسْتَقِيمَ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101869,
+                    "resource_id": 20,
+                    "text": "For whoever wills among you to take a right course."
+                },
+                {
+                    "id": 219692,
+                    "resource_id": 39,
+                    "text": "Iaitu bagi sesiapa dari kamu yang mahu tetap teguh di atas jalan (Islam) yang betul."
+                },
+                {
+                    "id": 1096805,
+                    "resource_id": 161,
+                    "text": "তার জন্য- যে তোমাদের মধ্যে সরল সঠিক পথে চলতে চায়।"
+                }
+            ]
+        },
+        {
+            "id": 5829,
+            "verse_number": 29,
+            "verse_key": "81:29",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا تَشَآءُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ رَبُّ ٱلْعَـٰلَمِينَ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101870,
+                    "resource_id": 20,
+                    "text": "And you do not will except that Allāh wills - Lord of the worlds."
+                },
+                {
+                    "id": 219691,
+                    "resource_id": 39,
+                    "text": "Dan kamu tidak dapat menentukan kemahuan kamu (mengenai sesuatupun), kecuali dengan cara yang diatur oleh Allah, Tuhan yang memelihara dan mentadbirkan seluruh alam."
+                },
+                {
+                    "id": 1096806,
+                    "resource_id": 161,
+                    "text": "তোমরা ইচ্ছে কর না যদি বিশ্বজগতের প্রতিপালক আল্লাহ ইচ্ছে না করেন।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 31,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 31
+    }
+}

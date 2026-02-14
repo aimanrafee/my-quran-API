@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 4415,
+            "verse_number": 1,
+            "verse_key": "44:1",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 198,
+            "ruku_number": 433,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": " حمٓ",
+            "page_number": 496,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99925,
+                    "resource_id": 20,
+                    "text": "Ḥā, Meem.<sup foot_note=197344>1</sup>"
+                },
+                {
+                    "id": 214843,
+                    "resource_id": 39,
+                    "text": "Haa, Miim."
+                },
+                {
+                    "id": 1095392,
+                    "resource_id": 161,
+                    "text": "হা-মীম।"
+                }
+            ]
+        },
+        {
+            "id": 4416,
+            "verse_number": 2,
+            "verse_key": "44:2",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 198,
+            "ruku_number": 433,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلْكِتَـٰبِ ٱلْمُبِينِ",
+            "page_number": 496,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99835,
+                    "resource_id": 20,
+                    "text": "By the clear Book,"
+                },
+                {
+                    "id": 217876,
+                    "resource_id": 39,
+                    "text": "Demi Al-Quran Kitab yang menerangkan kebenaran."
+                },
+                {
+                    "id": 1095393,
+                    "resource_id": 161,
+                    "text": "সুস্পষ্ট কিতাবের কসম!"
+                }
+            ]
+        },
+        {
+            "id": 4417,
+            "verse_number": 3,
+            "verse_key": "44:3",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 198,
+            "ruku_number": 433,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةٍ مُّبَـٰرَكَةٍ ۚ إِنَّا كُنَّا مُنذِرِينَ",
+            "page_number": 496,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99942,
+                    "resource_id": 20,
+                    "text": "Indeed, We sent it down during a blessed night.<sup foot_note=197345>1</sup> Indeed, We were to warn [mankind]."
+                },
+                {
+                    "id": 217649,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Kami telah menurunkan Al-Quran itu pada malam yang berkat; (Kami berbuat demikian) kerana sesungguhnya Kami sentiasa memberi peringatan dan amaran (jangan hamba-hamba Kami ditimpa azab)."
+                },
+                {
+                    "id": 1095394,
+                    "resource_id": 161,
+                    "text": "আমি একে অবতীর্ণ করেছি এক বরকতময় রাতে, (কেননা) আমি (মানুষকে) সতর্ককারী।"
+                }
+            ]
+        },
+        {
+            "id": 4418,
+            "verse_number": 4,
+            "verse_key": "44:4",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 198,
+            "ruku_number": 433,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فِيهَا يُفْرَقُ كُلُّ أَمْرٍ حَكِيمٍ",
+            "page_number": 496,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99954,
+                    "resource_id": 20,
+                    "text": "Therein [i.e., on that night] is made distinct<sup foot_note=197346>1</sup> every precise matter -"
+                },
+                {
+                    "id": 217792,
+                    "resource_id": 39,
+                    "text": "(Kami menurunkan Al-Quran pada malam yang tersebut, kerana) pada malam yang berkat itu, dijelaskan (kepada malaikat) tiap-tiap perkara yang mengandungi hikmat serta tetap berlaku, (tidak berubah atau bertukar)."
+                },
+                {
+                    "id": 1095395,
+                    "resource_id": 161,
+                    "text": "এ রাতে প্রতিটি প্রজ্ঞাপূর্ণ বিষয় স্থির করা হয়"
+                }
+            ]
+        },
+        {
+            "id": 4419,
+            "verse_number": 5,
+            "verse_key": "44:5",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 198,
+            "ruku_number": 433,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "أَمْرًا مِّنْ عِندِنَآ ۚ إِنَّا كُنَّا مُرْسِلِينَ",
+            "page_number": 496,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99966,
+                    "resource_id": 20,
+                    "text": "[Every] matter [proceeding] from Us. Indeed, We were to send [a messenger]"
+                },
+                {
+                    "id": 217804,
+                    "resource_id": 39,
+                    "text": "Iaitu perkara-perkara yang terbitnya dari hikmat kebijaksanaan Kami; sesungguhnya telah menjadi adat Kami mengutus Rasul."
+                },
+                {
+                    "id": 1095396,
+                    "resource_id": 161,
+                    "text": "আমার আদেশক্রমে, আমিই প্রেরণকারী,"
+                }
+            ]
+        },
+        {
+            "id": 4420,
+            "verse_number": 6,
+            "verse_key": "44:6",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 198,
+            "ruku_number": 433,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "رَحْمَةً مِّن رَّبِّكَ ۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+            "page_number": 496,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99978,
+                    "resource_id": 20,
+                    "text": "As mercy from your Lord. Indeed, He is the Hearing, the Knowing,"
+                },
+                {
+                    "id": 217816,
+                    "resource_id": 39,
+                    "text": "(Untuk menyampaikan) rahmat dari Tuhanmu (kepada umat manusia); sesungguhnya Allah Jualah Yang Maha Mendengar, lagi Maha Mengetahui (akan segala keadaan hamba-hambaNya)."
+                },
+                {
+                    "id": 1095397,
+                    "resource_id": 161,
+                    "text": "তোমার প্রতিপালকের অনুগ্রহ স্বরূপ তিনি সর্বশ্রোতা, সর্বজ্ঞ।"
+                }
+            ]
+        },
+        {
+            "id": 4421,
+            "verse_number": 7,
+            "verse_key": "44:7",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 198,
+            "ruku_number": 433,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "رَبِّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَآ ۖ إِن كُنتُم مُّوقِنِينَ",
+            "page_number": 496,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99980,
+                    "resource_id": 20,
+                    "text": "Lord of the heavens and the earth and that between them, if you would be certain."
+                },
+                {
+                    "id": 217817,
+                    "resource_id": 39,
+                    "text": "Tuhan (yang mencipta dan mentadbirkan keadaan) langit dan bumi serta segala yang ada di antara keduanya; kalau betul kamu orang-orang yang yakin (akan hakikat itu, maka terimalah sahaja apa yang diutuskan kepada kamu)."
+                },
+                {
+                    "id": 1095398,
+                    "resource_id": 161,
+                    "text": "আকাশ ও পৃথিবী এবং এ দু’য়ের মাঝে যা কিছু আছে সব কিছুর যিনি প্রতিপালক, (তাঁর মর্যাদা যে কত মহান এ কথা উপলব্ধি করে নাও) যদি তোমরা সত্যিকারই বিশ্বাসী হয়ে থাক।"
+                }
+            ]
+        },
+        {
+            "id": 4422,
+            "verse_number": 8,
+            "verse_key": "44:8",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 198,
+            "ruku_number": 433,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "لَآ إِلَـٰهَ إِلَّا هُوَ يُحْىِۦ وَيُمِيتُ ۖ رَبُّكُمْ وَرَبُّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ",
+            "page_number": 496,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99982,
+                    "resource_id": 20,
+                    "text": "There is no deity except Him; He gives life and causes death. [He is] your Lord and the Lord of your first forefathers."
+                },
+                {
+                    "id": 217822,
+                    "resource_id": 39,
+                    "text": "Tiada Tuhan yang berhak disembah melainkan Dia; Dia lah Yang menghidupkan dan Yang mematikan; (Dia lah jua) Tuhan kamu dan Tuhan datuk nenek kamu yang telah lalu."
+                },
+                {
+                    "id": 1095399,
+                    "resource_id": 161,
+                    "text": "তিনি ছাড়া সত্যিকারের কোন ইলাহ নেই, তিনিই জীবিত করেন ও মৃত্যু ঘটান। তিনিই তোমাদের প্রতিপালক এবং তোমাদের পূর্ববর্তী তোমাদের পিতৃপুরুষদেরও প্রতিপালক।"
+                }
+            ]
+        },
+        {
+            "id": 4423,
+            "verse_number": 9,
+            "verse_key": "44:9",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 198,
+            "ruku_number": 433,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "بَلْ هُمْ فِى شَكٍّ يَلْعَبُونَ",
+            "page_number": 496,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99984,
+                    "resource_id": 20,
+                    "text": "But they are in doubt, amusing themselves."
+                },
+                {
+                    "id": 217824,
+                    "resource_id": 39,
+                    "text": "(Mereka tidak meyakini kebenaran yang dijelaskan kepada mereka), bahkan mereka masih tenggelam dalam keraguan sambil bermain-main dengan perkara ugama."
+                },
+                {
+                    "id": 1095400,
+                    "resource_id": 161,
+                    "text": "কিন্তু তারা সংশয়ের মাঝে খেলায় মত্ত।"
+                }
+            ]
+        },
+        {
+            "id": 4424,
+            "verse_number": 10,
+            "verse_key": "44:10",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 198,
+            "ruku_number": 433,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فَٱرْتَقِبْ يَوْمَ تَأْتِى ٱلسَّمَآءُ بِدُخَانٍ مُّبِينٍ",
+            "page_number": 496,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99926,
+                    "resource_id": 20,
+                    "text": "Then watch for the Day when the sky will bring a visible smoke"
+                },
+                {
+                    "id": 217762,
+                    "resource_id": 39,
+                    "text": "Oleh itu tunggulah (wahai Muhammad) semasa langit membawa asap kemarau yang jelas nyata (yang menyebabkan kebuluran yang dahsyat),"
+                },
+                {
+                    "id": 1095401,
+                    "resource_id": 161,
+                    "text": "অতএব তুমি অপেক্ষা কর সে দিনের যেদিন আকাশ ধোঁয়ায় আচ্ছন্ন হবে যা সুস্পষ্ট (ভাবে দেখা যাবে)।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 6,
+        "total_records": 59
+    }
+}

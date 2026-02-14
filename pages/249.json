@@ -1,0 +1,161 @@
+{
+    "verses": [
+        {
+            "id": 1708,
+            "verse_number": 1,
+            "verse_key": "13:1",
+            "hizb_number": 25,
+            "rub_el_hizb_number": 99,
+            "ruku_number": 205,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": " الٓمٓر ۚ تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ ۗ وَٱلَّذِىٓ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ ٱلْحَقُّ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يُؤْمِنُونَ",
+            "page_number": 249,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96607,
+                    "resource_id": 20,
+                    "text": "Alif, Lām, Meem, Rā.<sup foot_note=196539>1</sup> These are the verses of the Book; and what has been revealed to you from your Lord is the truth, but most of the people do not believe."
+                },
+                {
+                    "id": 220564,
+                    "resource_id": 39,
+                    "text": "Alif, Laam, Miim, Raa'. Ini ialah ayat-ayat Kitab (Al-Quran); dan apa yang diturunkan kepadamu (wahai Muhammad) dari Tuhanmu adalah benar; tetapi kebanyakan manusia tidak (mahu) beriman."
+                },
+                {
+                    "id": 1092685,
+                    "resource_id": 161,
+                    "text": "আলিফ-লাম-মীম-র, এগুলো কিতাবের আয়াতসমূহ, আর তোমার প্রতিপালকের নিকট থেকে তোমার প্রতি যা অবতীর্ণ হয়েছে তা প্রকৃত সত্য, কিন্তু অধিকাংশ মানুষই ঈমান আনে না।"
+                }
+            ]
+        },
+        {
+            "id": 1709,
+            "verse_number": 2,
+            "verse_key": "13:2",
+            "hizb_number": 25,
+            "rub_el_hizb_number": 99,
+            "ruku_number": 205,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "ٱللَّهُ ٱلَّذِى رَفَعَ ٱلسَّمَـٰوَٰتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا ۖ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ ۖ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ ۖ كُلٌّ يَجْرِى لِأَجَلٍ مُّسَمًّى ۚ يُدَبِّرُ ٱلْأَمْرَ يُفَصِّلُ ٱلْـَٔايَـٰتِ لَعَلَّكُم بِلِقَآءِ رَبِّكُمْ تُوقِنُونَ",
+            "page_number": 249,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96621,
+                    "resource_id": 20,
+                    "text": "It is Allāh who erected the heavens without pillars that you [can] see; then He established Himself above the Throne<sup foot_note=196541>1</sup> and made subject<sup foot_note=196540>2</sup> the sun and the moon, each running [its course] for a specified term. He arranges [each] matter; He details the signs that you may, of the meeting with your Lord, be certain."
+                },
+                {
+                    "id": 220580,
+                    "resource_id": 39,
+                    "text": "Allah jualah yang menjadikan langit terangkat tinggi dengan tiada bertiang sebagaimana yang kamu melihatnya, kemudian Ia bersemayam di atas Arasy; dan Ia memudahkan matahari dan bulan (untuk faedah makhluk-makhlukNya) tiap-tiap satu dari keduanya beredar untuk suatu masa yang telah ditetapkan. Allah jualah yang mentadbirkan segala urusan; Ia menerangkan tanda-tanda kekuasaanNya satu-persatu, supaya kamu yakin kepada pertemuan Tuhan kamu (untuk menerima balasan)."
+                },
+                {
+                    "id": 1092686,
+                    "resource_id": 161,
+                    "text": "আল্লাহই স্তম্ভ ছাড়াই আকাশমন্ডলীকে ঊর্ধ্বে তুলে রেখেছেন, যা তোমরা দেখছ, অতঃপর তিনি আরশে সমুন্নত হয়েছেন তিনিই সূর্য ও চন্দ্রকে নিয়মের বন্ধনে বশীভূত রেখেছেন, প্রত্যেকেই নির্দিষ্ট সময়ের জন্য গতিশীল আছে। যাবতীয় বিষয় তিনিই নিয়ন্ত্রণ করেন, তিনি নিদর্শনসমূহ বিশদভাবে বর্ণনা করেন যাতে তোমরা তোমাদের প্রতিপালকের সঙ্গে সাক্ষাতের ব্যাপারে দৃঢ় বিশ্বাসী হতে পার।"
+                }
+            ]
+        },
+        {
+            "id": 1710,
+            "verse_number": 3,
+            "verse_key": "13:3",
+            "hizb_number": 25,
+            "rub_el_hizb_number": 99,
+            "ruku_number": 205,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَهُوَ ٱلَّذِى مَدَّ ٱلْأَرْضَ وَجَعَلَ فِيهَا رَوَٰسِىَ وَأَنْهَـٰرًا ۖ وَمِن كُلِّ ٱلثَّمَرَٰتِ جَعَلَ فِيهَا زَوْجَيْنِ ٱثْنَيْنِ ۖ يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ",
+            "page_number": 249,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96632,
+                    "resource_id": 20,
+                    "text": "And it is He who spread the earth and placed therein firmly set mountains and rivers; and from all of the fruits He made therein two mates; He causes the night to cover the day. Indeed in that are signs for a people who give thought."
+                },
+                {
+                    "id": 220582,
+                    "resource_id": 39,
+                    "text": "Dan Dia lah yang menjadikan bumi terbentang luas, dan menjadikan padanya gunung-ganang (terdiri kukuh) serta sungai-sungai (yang mengalir). Dan dari tiap-tiap jenis buah-buahan, Ia jadikan padanya pasangan: dua-dua. Ia juga melindungi siang dengan malam silih berganti. Sesungguhnya semuanya itu mengandungi tanda-tanda kekuasaan Allah bagi kaum yang (mahu) berfikir."
+                },
+                {
+                    "id": 1092687,
+                    "resource_id": 161,
+                    "text": "তিনিই যমীনকে বিছিয়ে দিয়েছেন আর তাতে পর্বত ও নদীনালা সংস্থাপিত করেছেন, আর তাতে সকল প্রকারের ফল জোড়ায় জোড়ায় সৃষ্টি করেছেন। তিনি দিবসের উপর রাতের আবরণ টেনে দেন। চিন্তাশীল সম্প্রদায়ের জন্য এতে অবশ্যই নিদর্শনাবলী রয়েছে।"
+                }
+            ]
+        },
+        {
+            "id": 1711,
+            "verse_number": 4,
+            "verse_key": "13:4",
+            "hizb_number": 25,
+            "rub_el_hizb_number": 99,
+            "ruku_number": 205,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَفِى ٱلْأَرْضِ قِطَعٌ مُّتَجَـٰوِرَٰتٌ وَجَنَّـٰتٌ مِّنْ أَعْنَـٰبٍ وَزَرْعٌ وَنَخِيلٌ صِنْوَانٌ وَغَيْرُ صِنْوَانٍ يُسْقَىٰ بِمَآءٍ وَٰحِدٍ وَنُفَضِّلُ بَعْضَهَا عَلَىٰ بَعْضٍ فِى ٱلْأُكُلِ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يَعْقِلُونَ",
+            "page_number": 249,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96643,
+                    "resource_id": 20,
+                    "text": "And within the land are neighboring plots and gardens of grapevines and crops and palm trees, [growing] several from a root or otherwise,<sup foot_note=196542>1</sup> watered with one water; but We make some of them exceed others in [quality of] fruit. Indeed in that are signs for a people who reason."
+                },
+                {
+                    "id": 220610,
+                    "resource_id": 39,
+                    "text": "Dan di bumi ada beberapa potong tanah yang berdekatan (tetapi berlainan keadaannya); dan padanya ada kebun-kebun anggur, dan jenis-jenis tanaman serta pohon-pohon tamar (kurma) yang berumpun dan yang tidak berumpun; semuanya disiram dengan air yang sama; dan Kami lebihkan buah setengahnya dari setengahnya yang lain (pada bentuk, rasa, dan baunya) Sesungguhnya yang demikian itu mengandungi tanda-tanda kekuasaan Allah bagi orang-orang yang (mahu) berfikir serta memahaminya."
+                },
+                {
+                    "id": 1092688,
+                    "resource_id": 161,
+                    "text": "যমীনে আছে বিভিন্ন ভূখন্ড যা পরস্পর সংলগ্ন, আছে আঙ্গুরের বাগান, শস্য ক্ষেত, খেজুর গাছ- একই মূল হতে উদ্গত আর একই মূল থেকে উদগত নয়- যদিও একই পানিতে সিক্ত। খাওয়ার স্বাদে এদের কতককে কতকের উপর শ্রেষ্ঠত্ব দিয়েছি। জ্ঞানী সম্প্রদায়ের জন্য এতে অবশ্যই নিদর্শনাবলী রয়েছে।"
+                }
+            ]
+        },
+        {
+            "id": 1712,
+            "verse_number": 5,
+            "verse_key": "13:5",
+            "hizb_number": 25,
+            "rub_el_hizb_number": 100,
+            "ruku_number": 205,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "۞ وَإِن تَعْجَبْ فَعَجَبٌ قَوْلُهُمْ أَءِذَا كُنَّا تُرَٰبًا أَءِنَّا لَفِى خَلْقٍ جَدِيدٍ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ ۖ وَأُو۟لَـٰٓئِكَ ٱلْأَغْلَـٰلُ فِىٓ أَعْنَاقِهِمْ ۖ وَأُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَـٰلِدُونَ",
+            "page_number": 249,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96648,
+                    "resource_id": 20,
+                    "text": "And if you are astonished,<sup foot_note=196544>1</sup> [O Muḥammad] - then astonishing is their saying, \"When we are dust, will we indeed be [brought] into a new creation?\" Those are the ones who have disbelieved in their Lord, and those will have shackles<sup foot_note=196543>2</sup> upon their necks, and those are the companions of the Fire; they will abide therein eternally."
+                },
+                {
+                    "id": 220615,
+                    "resource_id": 39,
+                    "text": "Dan jika engkau merasa hairan (wahai Muhammad), maka sungguh menghairankan perkataan mereka yang kafir itu (yang mengatakan): \"Adalah apabila kami telah menjadi tanah betulkah kami pula akan hidup semula dalam bentuk kejadian yang baharu?\" Mereka itulah orang-orang yang kufur ingkar kepada Tuhan mereka, dan merekalah yang dibelenggu dengan belenggu-belenggu pada leher mereka; dan merekalah juga ahli neraka, mereka kekal di dalamnya."
+                },
+                {
+                    "id": 1092689,
+                    "resource_id": 161,
+                    "text": "তুমি যদি বিস্ময়বোধ কর তবে বিস্ময়কর হল তাদের কথাঃ ‘আমরা যখন মাটিতে পরিণত হব তখন কি আমাদেরকে নতুনভাবে আবার সৃষ্টি করা হবে?’ তারা হল সেই লোক যারা তাদের প্রতিপালককে অস্বীকার করে, এদের গলায় আছে লোহার শিকল, আর এরা জাহান্নামের অধিবাসী, তাতে তারা চিরকাল থাকবে।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 5,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 5
+    }
+}

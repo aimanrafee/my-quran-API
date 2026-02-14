@@ -1,0 +1,791 @@
+{
+    "verses": [
+        {
+            "id": 5030,
+            "verse_number": 51,
+            "verse_key": "56:51",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 472,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ثُمَّ إِنَّكُمْ أَيُّهَا ٱلضَّآلُّونَ ٱلْمُكَذِّبُونَ",
+            "page_number": 536,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100666,
+                    "resource_id": 20,
+                    "text": "Then indeed you, O those astray [who are] deniers,"
+                },
+                {
+                    "id": 218507,
+                    "resource_id": 39,
+                    "text": "\"Kemudian, sesungguhnya kamu wahai orang-orang yang sesat yang mendustakan (kedatangan hari kiamat),"
+                },
+                {
+                    "id": 1096007,
+                    "resource_id": 161,
+                    "text": "তখন হে গুমরাহ (সত্য) প্রত্যাখ্যানকারীরা!"
+                }
+            ]
+        },
+        {
+            "id": 5031,
+            "verse_number": 52,
+            "verse_key": "56:52",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 472,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "لَـَٔاكِلُونَ مِن شَجَرٍ مِّن زَقُّومٍ",
+            "page_number": 536,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100667,
+                    "resource_id": 20,
+                    "text": "Will be eating from trees of zaqqūm"
+                },
+                {
+                    "id": 218508,
+                    "resource_id": 39,
+                    "text": "Tetap akan memakan (pada hari itu) dari sebatang pokok, iaitu pokok zaqqum,"
+                },
+                {
+                    "id": 1096008,
+                    "resource_id": 161,
+                    "text": "তোমরা অবশ্যই জাক্কুম গাছ থেকে আহার করবে,"
+                }
+            ]
+        },
+        {
+            "id": 5032,
+            "verse_number": 53,
+            "verse_key": "56:53",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 472,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَمَالِـُٔونَ مِنْهَا ٱلْبُطُونَ",
+            "page_number": 536,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100668,
+                    "resource_id": 20,
+                    "text": "And filling with it your bellies"
+                },
+                {
+                    "id": 218509,
+                    "resource_id": 39,
+                    "text": "\"Maka kamu akan memenuhi perut kamu dari pokok (yang pahit buahnya) itu,"
+                },
+                {
+                    "id": 1096009,
+                    "resource_id": 161,
+                    "text": "তা দিয়ে তোমরা তোমাদের পেট ভর্তি করবে,"
+                }
+            ]
+        },
+        {
+            "id": 5033,
+            "verse_number": 54,
+            "verse_key": "56:54",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 472,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَشَـٰرِبُونَ عَلَيْهِ مِنَ ٱلْحَمِيمِ",
+            "page_number": 536,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100669,
+                    "resource_id": 20,
+                    "text": "And drinking on top of it from scalding water."
+                },
+                {
+                    "id": 218510,
+                    "resource_id": 39,
+                    "text": "\"Selepas itu kamu akan meminum pula dari air panas yang menggelegak,"
+                },
+                {
+                    "id": 1096010,
+                    "resource_id": 161,
+                    "text": "আর তার উপর পান করবে ফুটন্ত পানি,"
+                }
+            ]
+        },
+        {
+            "id": 5034,
+            "verse_number": 55,
+            "verse_key": "56:55",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 472,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَشَـٰرِبُونَ شُرْبَ ٱلْهِيمِ",
+            "page_number": 536,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100670,
+                    "resource_id": 20,
+                    "text": "And will drink as the drinking of thirsty camels."
+                },
+                {
+                    "id": 218511,
+                    "resource_id": 39,
+                    "text": "\"Iaitu kamu akan minum seperti unta yang berpenyakit sentiasa dahaga dan tidak puas-puas\"."
+                },
+                {
+                    "id": 1096011,
+                    "resource_id": 161,
+                    "text": "আর তা পান করবে পিপাসা-কাতর উটের মত"
+                }
+            ]
+        },
+        {
+            "id": 5035,
+            "verse_number": 56,
+            "verse_key": "56:56",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 472,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "هَـٰذَا نُزُلُهُمْ يَوْمَ ٱلدِّينِ",
+            "page_number": 536,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100671,
+                    "resource_id": 20,
+                    "text": "That is their accommodation on the Day of Recompense."
+                },
+                {
+                    "id": 218512,
+                    "resource_id": 39,
+                    "text": "Inilah (jenis-jenis azab) yang disediakan untuk menyambut mereka pada hari Pembalasan itu."
+                },
+                {
+                    "id": 1096012,
+                    "resource_id": 161,
+                    "text": "প্রতিফল দেয়ার দিনে এই হবে তাদের আপ্যায়ন"
+                }
+            ]
+        },
+        {
+            "id": 5036,
+            "verse_number": 57,
+            "verse_key": "56:57",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 472,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "نَحْنُ خَلَقْنَـٰكُمْ فَلَوْلَا تُصَدِّقُونَ",
+            "page_number": 536,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100672,
+                    "resource_id": 20,
+                    "text": "We have created you, so why do you not believe?"
+                },
+                {
+                    "id": 218513,
+                    "resource_id": 39,
+                    "text": "Kamilah yang telah menciptakan kamu (dari tiada kepada ada - wahai golongan yang ingkar), maka ada baiknya kalau kamu percaya (akan kebangkitan kamu hidup semula pada hari kiamat)."
+                },
+                {
+                    "id": 1096013,
+                    "resource_id": 161,
+                    "text": "আমিই তো তোমাদেরকে সৃষ্টি করেছি, তাহলে তোমরা সত্যকে বিশ্বাস করবে না কেন?"
+                }
+            ]
+        },
+        {
+            "id": 5037,
+            "verse_number": 58,
+            "verse_key": "56:58",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 472,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَفَرَءَيْتُم مَّا تُمْنُونَ",
+            "page_number": 536,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100673,
+                    "resource_id": 20,
+                    "text": "Have you seen that which you emit?<sup foot_note=197487>1</sup>"
+                },
+                {
+                    "id": 214873,
+                    "resource_id": 39,
+                    "text": "(Mengapa kamu masih berdegil?) Tidakkah kamu memikirkan keadaan air mani yang kamu pancarkan (ke dalam rahim)?"
+                },
+                {
+                    "id": 1096014,
+                    "resource_id": 161,
+                    "text": "তোমরা কি ভেবে দেখেছ- তোমরা যে বীর্য নিক্ষেপ কর,"
+                }
+            ]
+        },
+        {
+            "id": 5038,
+            "verse_number": 59,
+            "verse_key": "56:59",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 472,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ءَأَنتُمْ تَخْلُقُونَهُۥٓ أَمْ نَحْنُ ٱلْخَـٰلِقُونَ",
+            "page_number": 536,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100674,
+                    "resource_id": 20,
+                    "text": "Is it you who creates it, or are We the Creator?"
+                },
+                {
+                    "id": 218519,
+                    "resource_id": 39,
+                    "text": "Adakah kamu yang menciptakannya atau Kami yang menciptakannya?"
+                },
+                {
+                    "id": 1096015,
+                    "resource_id": 161,
+                    "text": "তা কি তোমরা সৃষ্টি কর, না তার সৃষ্টিকর্তা আমিই।"
+                }
+            ]
+        },
+        {
+            "id": 5039,
+            "verse_number": 60,
+            "verse_key": "56:60",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 472,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "نَحْنُ قَدَّرْنَا بَيْنَكُمُ ٱلْمَوْتَ وَمَا نَحْنُ بِمَسْبُوقِينَ",
+            "page_number": 536,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100677,
+                    "resource_id": 20,
+                    "text": "We have decreed death among you, and We are not to be outdone"
+                },
+                {
+                    "id": 218520,
+                    "resource_id": 39,
+                    "text": "Kamilah yang menentukan (dan menetapkan masa) kematian (tiap-tiap seorang) di antara kamu, dan Kami tidak sekali-kali dapat dikalahkan atau dilemahkan;"
+                },
+                {
+                    "id": 1096016,
+                    "resource_id": 161,
+                    "text": "তোমাদের মধ্যে মৃত্যু আমিই নির্ধারণ করি, আর আমি কিছুমাত্র অক্ষম নই"
+                }
+            ]
+        },
+        {
+            "id": 5040,
+            "verse_number": 61,
+            "verse_key": "56:61",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 472,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "عَلَىٰٓ أَن نُّبَدِّلَ أَمْثَـٰلَكُمْ وَنُنشِئَكُمْ فِى مَا لَا تَعْلَمُونَ",
+            "page_number": 536,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100678,
+                    "resource_id": 20,
+                    "text": "In that We will change your likenesses and produce you in that [form] which you do not know.<sup foot_note=197488>1</sup>"
+                },
+                {
+                    "id": 218522,
+                    "resource_id": 39,
+                    "text": "(Bahkan Kami berkuasa) menggantikan (kamu dengan) orang-orang yang serupa kamu (tetapi tidak seperti bawaan kamu), dan berkuasa menciptakan kamu dalam bentuk kejadian yang kamu tidak mengetahuinya."
+                },
+                {
+                    "id": 1096017,
+                    "resource_id": 161,
+                    "text": "তোমাদের আকার আকৃতি পরিবর্তন করতে আর তোমাদেরকে (নতুনভাবে) এমন এক আকৃতিতে সৃষ্টি করতে যা তোমরা জান না।"
+                }
+            ]
+        },
+        {
+            "id": 5041,
+            "verse_number": 62,
+            "verse_key": "56:62",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 472,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَقَدْ عَلِمْتُمُ ٱلنَّشْأَةَ ٱلْأُولَىٰ فَلَوْلَا تَذَكَّرُونَ",
+            "page_number": 536,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100679,
+                    "resource_id": 20,
+                    "text": "And you have already known the first creation, so will you not remember?"
+                },
+                {
+                    "id": 218523,
+                    "resource_id": 39,
+                    "text": "Dan demi sesungguhnya, kamu telah sedia mengetahui tentang ciptaan diri kamu kali pertama, maka ada baiknya kalau kamu mengambil ingatan (bahawa Allah yang telah menciptakan kamu dari tiada kepada ada, berkuasa membangkitkan kamu hidup semula pada hari akhirat kelak)."
+                },
+                {
+                    "id": 1096018,
+                    "resource_id": 161,
+                    "text": "তোমরা তোমাদের প্রথম সৃষ্টি সম্বন্ধে অবশ্যই জান তাহলে (আল্লাহ যে তোমাদেরকে পুনরায় সৃষ্টি করতে সক্ষম এ কথা) তোমরা অনুধাবন কর না কেন?"
+                }
+            ]
+        },
+        {
+            "id": 5042,
+            "verse_number": 63,
+            "verse_key": "56:63",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 472,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَفَرَءَيْتُم مَّا تَحْرُثُونَ",
+            "page_number": 536,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100680,
+                    "resource_id": 20,
+                    "text": "And have you seen that [seed] which you sow?"
+                },
+                {
+                    "id": 218567,
+                    "resource_id": 39,
+                    "text": "Maka (mengapa kamu masih berdegil?) Tidakkah kamu melihat apa yang kamu tanam?"
+                },
+                {
+                    "id": 1096019,
+                    "resource_id": 161,
+                    "text": "তোমরা কি ভেবে দেখেছ তোমরা যে বীজ বপন কর সে সম্পর্কে?"
+                }
+            ]
+        },
+        {
+            "id": 5043,
+            "verse_number": 64,
+            "verse_key": "56:64",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 472,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ءَأَنتُمْ تَزْرَعُونَهُۥٓ أَمْ نَحْنُ ٱلزَّٰرِعُونَ",
+            "page_number": 536,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100681,
+                    "resource_id": 20,
+                    "text": "Is it you who makes it grow, or are We the grower?"
+                },
+                {
+                    "id": 218526,
+                    "resource_id": 39,
+                    "text": "Kamukah yang menumbuhkannya atau Kami yang menumbuhkannya?"
+                },
+                {
+                    "id": 1096020,
+                    "resource_id": 161,
+                    "text": "তোমরাই কি তা উৎপন্ন কর, না আমিই উৎপন্নকারী?"
+                }
+            ]
+        },
+        {
+            "id": 5044,
+            "verse_number": 65,
+            "verse_key": "56:65",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 472,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "لَوْ نَشَآءُ لَجَعَلْنَـٰهُ حُطَـٰمًا فَظَلْتُمْ تَفَكَّهُونَ",
+            "page_number": 536,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100682,
+                    "resource_id": 20,
+                    "text": "If We willed, We could make it [dry] debris, and you would remain in wonder,<sup foot_note=197489>1</sup>"
+                },
+                {
+                    "id": 218525,
+                    "resource_id": 39,
+                    "text": "Kalau Kami kehendaki, sudah tentu Kami akan jadikan tanaman itu kering hancur (sebelum ia berbuah), maka dengan itu tinggalah kamu dalam keadaan hairan dan menyesal,"
+                },
+                {
+                    "id": 1096021,
+                    "resource_id": 161,
+                    "text": "আমি ইচ্ছে করলে তাকে অবশ্যই খড়কুটা করে দিতে পারি, তখন তোমরা হয়ে যাবে বিস্ময়ে হতবাক।"
+                }
+            ]
+        },
+        {
+            "id": 5045,
+            "verse_number": 66,
+            "verse_key": "56:66",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 472,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّا لَمُغْرَمُونَ",
+            "page_number": 536,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100683,
+                    "resource_id": 20,
+                    "text": "[Saying], \"Indeed, we are [now] in debt;"
+                },
+                {
+                    "id": 218531,
+                    "resource_id": 39,
+                    "text": "(Sambil berkata): \"Sesungguhnya kami menanggung kerugian."
+                },
+                {
+                    "id": 1096022,
+                    "resource_id": 161,
+                    "text": "(আর বলবে যে) ‘আমরা তো দায়গ্রস্ত হয়ে পড়লাম,"
+                }
+            ]
+        },
+        {
+            "id": 5046,
+            "verse_number": 67,
+            "verse_key": "56:67",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 472,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "بَلْ نَحْنُ مَحْرُومُونَ",
+            "page_number": 536,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100684,
+                    "resource_id": 20,
+                    "text": "Rather, we have been deprived.\""
+                },
+                {
+                    "id": 218527,
+                    "resource_id": 39,
+                    "text": "\"Bahkan kami hampa (dari mendapat sebarang hasil) \""
+                },
+                {
+                    "id": 1096023,
+                    "resource_id": 161,
+                    "text": "বরং আমরা বঞ্চিত হয়ে গেলাম।"
+                }
+            ]
+        },
+        {
+            "id": 5047,
+            "verse_number": 68,
+            "verse_key": "56:68",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 472,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَفَرَءَيْتُمُ ٱلْمَآءَ ٱلَّذِى تَشْرَبُونَ",
+            "page_number": 536,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100685,
+                    "resource_id": 20,
+                    "text": "And have you seen the water that you drink?"
+                },
+                {
+                    "id": 218528,
+                    "resource_id": 39,
+                    "text": "Selain dari itu, tidakkah kamu melihat air yang kamu minum?"
+                },
+                {
+                    "id": 1096024,
+                    "resource_id": 161,
+                    "text": "তোমরা কি পানি সম্পর্কে চিন্তা করে দেখেছ যা তোমরা পান কর?"
+                }
+            ]
+        },
+        {
+            "id": 5048,
+            "verse_number": 69,
+            "verse_key": "56:69",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 472,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ءَأَنتُمْ أَنزَلْتُمُوهُ مِنَ ٱلْمُزْنِ أَمْ نَحْنُ ٱلْمُنزِلُونَ",
+            "page_number": 536,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100686,
+                    "resource_id": 20,
+                    "text": "Is it you who brought it down from the clouds, or is it We who bring it down?"
+                },
+                {
+                    "id": 218529,
+                    "resource_id": 39,
+                    "text": "Kamukah yang menurunkannya dari awan (sebagai hujan), atau Kami yang menurunkannya?"
+                },
+                {
+                    "id": 1096025,
+                    "resource_id": 161,
+                    "text": "তা কি তোমরাই মেঘ থেকে বর্ষণ কর, নাকি তার বষর্ণকারী আমিই?"
+                }
+            ]
+        },
+        {
+            "id": 5049,
+            "verse_number": 70,
+            "verse_key": "56:70",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 472,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "لَوْ نَشَآءُ جَعَلْنَـٰهُ أُجَاجًا فَلَوْلَا تَشْكُرُونَ",
+            "page_number": 536,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100689,
+                    "resource_id": 20,
+                    "text": "If We willed, We could make it bitter, so why are you not grateful?"
+                },
+                {
+                    "id": 218532,
+                    "resource_id": 39,
+                    "text": "Kalau Kami kehendaki, Kami akan jadikan dia masin, maka ada baiknya kalau kamu bersyukur."
+                },
+                {
+                    "id": 1096026,
+                    "resource_id": 161,
+                    "text": "আমি ইচ্ছে করলে তাকে লবণাক্ত করে দিতে পারি, তাহলে কেন তোমরা শোকর আদায় কর না?"
+                }
+            ]
+        },
+        {
+            "id": 5050,
+            "verse_number": 71,
+            "verse_key": "56:71",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 472,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَفَرَءَيْتُمُ ٱلنَّارَ ٱلَّتِى تُورُونَ",
+            "page_number": 536,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100690,
+                    "resource_id": 20,
+                    "text": "And have you seen the fire that you ignite?"
+                },
+                {
+                    "id": 218533,
+                    "resource_id": 39,
+                    "text": "Akhirnya, tidakkah kamu melihat api yang kamu nyalakan (dengan cara digesek)?"
+                },
+                {
+                    "id": 1096027,
+                    "resource_id": 161,
+                    "text": "তোমরা যে আগুন জ্বালাও সে সম্পর্কে কি তোমরা চিন্তা করে দেখেছ?"
+                }
+            ]
+        },
+        {
+            "id": 5051,
+            "verse_number": 72,
+            "verse_key": "56:72",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 472,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ءَأَنتُمْ أَنشَأْتُمْ شَجَرَتَهَآ أَمْ نَحْنُ ٱلْمُنشِـُٔونَ",
+            "page_number": 536,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100691,
+                    "resource_id": 20,
+                    "text": "Is it you who produced its tree, or are We the producer?"
+                },
+                {
+                    "id": 218534,
+                    "resource_id": 39,
+                    "text": "Kamukah yang menumbuhkan pokok kayunya, atau Kami yang menumbuhkannya?"
+                },
+                {
+                    "id": 1096028,
+                    "resource_id": 161,
+                    "text": "তার (জ্বালানোর) গাছ (অর্থাৎ কাঠ) কি তোমরাই বানিয়েছ, নাকি আমিই বানিয়েছি?"
+                }
+            ]
+        },
+        {
+            "id": 5052,
+            "verse_number": 73,
+            "verse_key": "56:73",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 472,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "نَحْنُ جَعَلْنَـٰهَا تَذْكِرَةً وَمَتَـٰعًا لِّلْمُقْوِينَ",
+            "page_number": 536,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100692,
+                    "resource_id": 20,
+                    "text": "We have made it a reminder<sup foot_note=197491>1</sup> and provision for the travelers,<sup foot_note=197490>2</sup>"
+                },
+                {
+                    "id": 218535,
+                    "resource_id": 39,
+                    "text": "Kami jadikan api (yang tercetus dari kayu basah) itu sebagai peringatan (bagi orang-orang yang lalaikan kebenaran hari akhirat) dan sebagai benda yang memberi kesenangan kepada orang-orang musafir."
+                },
+                {
+                    "id": 1096029,
+                    "resource_id": 161,
+                    "text": "আমি তাকে (অর্থাৎ আগুনকে) করেছি স্মারক (যা জাহান্নামের আগুনের কথা স্মরণ করিয়ে দেয়) আর মরুর অধিবাসীদের জন্য দরকারী ও আরামের বস্তু।"
+                }
+            ]
+        },
+        {
+            "id": 5053,
+            "verse_number": 74,
+            "verse_key": "56:74",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 472,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+            "page_number": 536,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100693,
+                    "resource_id": 20,
+                    "text": "So exalt the name of your Lord, the Most Great."
+                },
+                {
+                    "id": 218537,
+                    "resource_id": 39,
+                    "text": "Oleh yang demikian - (wahai orang yang lalai) - bertasbihlah dengan memuji nama Tuhanmu Yang Maha Besar (sebagai bersyukur akan nikmat-nikmatNya itu)."
+                },
+                {
+                    "id": 1096030,
+                    "resource_id": 161,
+                    "text": "কাজেই (হে নবী!) তুমি তোমার মহান প্রতিপালকের মহিমা ও গৌরব ঘোষণা কর।"
+                }
+            ]
+        },
+        {
+            "id": 5054,
+            "verse_number": 75,
+            "verse_key": "56:75",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 215,
+            "ruku_number": 473,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "۞ فَلَآ أُقْسِمُ بِمَوَٰقِعِ ٱلنُّجُومِ",
+            "page_number": 536,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100694,
+                    "resource_id": 20,
+                    "text": "Then I swear by the setting of the stars,<sup foot_note=197492>1</sup>"
+                },
+                {
+                    "id": 218538,
+                    "resource_id": 39,
+                    "text": "Maka Aku bersumpah: Demi tempat-tempat dan masa-masa turunnya bahagian-bahagian Al-Quran, -"
+                },
+                {
+                    "id": 1096031,
+                    "resource_id": 161,
+                    "text": "উপরন্তু আমি শপথ করছি তারকারাজির অস্তাচলের।"
+                }
+            ]
+        },
+        {
+            "id": 5055,
+            "verse_number": 76,
+            "verse_key": "56:76",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 215,
+            "ruku_number": 473,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِنَّهُۥ لَقَسَمٌ لَّوْ تَعْلَمُونَ عَظِيمٌ",
+            "page_number": 536,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100695,
+                    "resource_id": 20,
+                    "text": "And indeed, it is an oath - if you could know - [most] great."
+                },
+                {
+                    "id": 218540,
+                    "resource_id": 39,
+                    "text": "Dan sebenarnya sumpah itu adalah sumpah yang besar, kalaulah kamu mengetahuinya, -"
+                },
+                {
+                    "id": 1096032,
+                    "resource_id": 161,
+                    "text": "তা অবশ্যই অতি বড় শপথ যদি তোমরা জানতে!"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 26,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 26
+    }
+}

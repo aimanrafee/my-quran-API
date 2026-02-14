@@ -1,0 +1,161 @@
+{
+    "verses": [
+        {
+            "id": 277,
+            "verse_number": 270,
+            "verse_key": "2:270",
+            "hizb_number": 5,
+            "rub_el_hizb_number": 18,
+            "ruku_number": 38,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَآ أَنفَقْتُم مِّن نَّفَقَةٍ أَوْ نَذَرْتُم مِّن نَّذْرٍ فَإِنَّ ٱللَّهَ يَعْلَمُهُۥ ۗ وَمَا لِلظَّـٰلِمِينَ مِنْ أَنصَارٍ",
+            "page_number": 46,
+            "juz_number": 3,
+            "translations": [
+                {
+                    "id": 97764,
+                    "resource_id": 20,
+                    "text": "And whatever you spend of expenditures or make of vows - indeed, Allāh knows of it. And for the wrongdoers there are no helpers."
+                },
+                {
+                    "id": 215633,
+                    "resource_id": 39,
+                    "text": "Dan (ketahuilah), apa sahaja yang kamu belanjakan (dermakan) atau apa sahaja yang kamu nazarkan maka sesungguhnya Allah mengetahuiNya dan (ingatlah), orang-orang yang zalim itu tidak ada sesiapa pun yang dapat menolongnya."
+                },
+                {
+                    "id": 1091254,
+                    "resource_id": 161,
+                    "text": "তোমরা যে ব্যয়ই কর কিংবা যে কোন মানৎ কর, আল্লাহ নিশ্চয়ই তা জানেন কিন্তু যালিমদের জন্য কোন সাহায্যকারী নেই।"
+                }
+            ]
+        },
+        {
+            "id": 278,
+            "verse_number": 271,
+            "verse_key": "2:271",
+            "hizb_number": 5,
+            "rub_el_hizb_number": 18,
+            "ruku_number": 38,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "إِن تُبْدُوا۟ ٱلصَّدَقَـٰتِ فَنِعِمَّا هِىَ ۖ وَإِن تُخْفُوهَا وَتُؤْتُوهَا ٱلْفُقَرَآءَ فَهُوَ خَيْرٌ لَّكُمْ ۚ وَيُكَفِّرُ عَنكُم مِّن سَيِّـَٔاتِكُمْ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+            "page_number": 46,
+            "juz_number": 3,
+            "translations": [
+                {
+                    "id": 97766,
+                    "resource_id": 20,
+                    "text": "If you disclose your charitable expenditures, they are good; but if you conceal them and give them to the poor, it is better for you, and He will remove from you some of your misdeeds [thereby]. And Allāh, of what you do, is [fully] Aware."
+                },
+                {
+                    "id": 215632,
+                    "resource_id": 39,
+                    "text": "Kalau kamu zahirkan sedekah-sedekah itu (secara terang), maka yang demikian adalah baik (kerana menjadi contoh yang baik). Dan kalau pula kamu sembunyikan sedekah-sedekah itu serta kamu berikan kepada orang-orang fakir miskin, maka itu adalah baik bagi kamu; dan Allah akan menghapuskan dari kamu sebahagian dari kesalahan-kesalahan kamu. Dan (ingatlah), Allah Maha Mengetahui secara mendalam akan apa yang kamu lakukan."
+                },
+                {
+                    "id": 1091255,
+                    "resource_id": 161,
+                    "text": "যদি তোমরা প্রকাশ্যে দান কর তবে তাও উত্তম, আর যদি তোমরা তা গোপনে কর এবং তা অভাবগ্রস্তদেরকে দান কর, তবে তা তোমাদের জন্য আরো উত্তম, অধিকন্তু তিনি তোমাদের কিছু গুনাহ মোচন করে দেবেন, বস্তুতঃ যা কিছু তোমরা করছ, আল্লাহ তার খবর রাখেন।"
+                }
+            ]
+        },
+        {
+            "id": 279,
+            "verse_number": 272,
+            "verse_key": "2:272",
+            "hizb_number": 5,
+            "rub_el_hizb_number": 19,
+            "ruku_number": 38,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "۞ لَّيْسَ عَلَيْكَ هُدَىٰهُمْ وَلَـٰكِنَّ ٱللَّهَ يَهْدِى مَن يَشَآءُ ۗ وَمَا تُنفِقُوا۟ مِنْ خَيْرٍ فَلِأَنفُسِكُمْ ۚ وَمَا تُنفِقُونَ إِلَّا ٱبْتِغَآءَ وَجْهِ ٱللَّهِ ۚ وَمَا تُنفِقُوا۟ مِنْ خَيْرٍ يُوَفَّ إِلَيْكُمْ وَأَنتُمْ لَا تُظْلَمُونَ",
+            "page_number": 46,
+            "juz_number": 3,
+            "translations": [
+                {
+                    "id": 97768,
+                    "resource_id": 20,
+                    "text": "Not upon you, [O Muḥammad], is [responsibility for] their guidance, but Allāh guides whom He wills. And whatever good you [believers] spend is for yourselves, and you do not spend except seeking the face [i.e., approval] of Allāh. And whatever you spend of good<sup foot_note=196037>1</sup> - it will be fully repaid to you, and you will not be wronged."
+                },
+                {
+                    "id": 215635,
+                    "resource_id": 39,
+                    "text": "Tidaklah engkau diwajibkan (wahai Muhammad) menjadiKan mereka (yang kafir) mendapat petunjuk (kerana kewajipanmu hanya menyampaikan petunjuk), akan tetapi Allah jualah yang memberi petunjuk (dengan memberi taufik) kepada sesiapa yang dikehendakinya (menurut undang-undang peraturanNya). Dan apa jua harta yang halal yang kamu belanjakan (pada jalan Allah) maka (faedahnya dan pahalanya) adalah untuk diri kamu sendiri dan kamu pula tidaklah mendermakan sesuatu melainkan kerana menuntut keredaan Allah dan apa jua yang kamu dermakan dari harta yang halal, akan disempurnakan (balasan pahalanya) kepada kamu, dan (balasan baik) kamu (itu pula) tidak dikurangkan."
+                },
+                {
+                    "id": 1091256,
+                    "resource_id": 161,
+                    "text": "তাদেরকে ঠিক পথে নিয়ে আসা তোমার দায়িত্ব নয়, বরং আল্লাহ যাকে ইচ্ছে ঠিক পথে পরিচালিত করেন, বস্তুতঃ তোমরা যা কিছু ব্যয় কর, তা তোমাদের নিজেদের জন্যই এবং তোমরা তো শুধু আল্লাহর সন্তুষ্টির জন্যই ব্যয় করে থাক এবং যা কিছু তোমরা মাল হতে ব্যয় করবে, তোমাদেরকে তার ফল পুরোপুরি দেয়া হবে এবং তোমাদের প্রতি অন্যায় করা হবে না।"
+                }
+            ]
+        },
+        {
+            "id": 280,
+            "verse_number": 273,
+            "verse_key": "2:273",
+            "hizb_number": 5,
+            "rub_el_hizb_number": 19,
+            "ruku_number": 38,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "لِلْفُقَرَآءِ ٱلَّذِينَ أُحْصِرُوا۟ فِى سَبِيلِ ٱللَّهِ لَا يَسْتَطِيعُونَ ضَرْبًا فِى ٱلْأَرْضِ يَحْسَبُهُمُ ٱلْجَاهِلُ أَغْنِيَآءَ مِنَ ٱلتَّعَفُّفِ تَعْرِفُهُم بِسِيمَـٰهُمْ لَا يَسْـَٔلُونَ ٱلنَّاسَ إِلْحَافًا ۗ وَمَا تُنفِقُوا۟ مِنْ خَيْرٍ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌ",
+            "page_number": 46,
+            "juz_number": 3,
+            "translations": [
+                {
+                    "id": 97770,
+                    "resource_id": 20,
+                    "text": "[Charity is] for the poor who have been restricted for the cause of Allāh, unable to move about in the land. An ignorant [person] would think them self-sufficient because of their restraint, but you will know them by their [characteristic] sign. They do not ask people persistently [or at all]. And whatever you spend of good - indeed, Allāh is Knowing of it."
+                },
+                {
+                    "id": 215639,
+                    "resource_id": 39,
+                    "text": "Pemberian sedekah itu) ialah bagi orang-orang fakir miskin yang telah menentukan dirinya (dengan menjalankan khidmat atau berjuang) pada jalan Allah (membela Islam), yang tidak berupaya mengembara di muka bumi (untuk berniaga dan sebagainya); mereka itu disangka: orang kaya - oleh orang yang tidak mengetahui halnya, kerana mereka menahan diri daripada meminta-minta. Engkau kenal mereka dengan (melihat) sifat-sifat dan keadaan masing-masing, mereka tidak meminta kepada orang ramai dengan mendesak-desak. Dan (ketahuilah), apa jua yang kamu belanjakan dari harta yang halal maka sesungguhnya Allah sentiasa Mengetahuinya."
+                },
+                {
+                    "id": 1091257,
+                    "resource_id": 161,
+                    "text": "ওটা সেই অভাবগ্রস্তদের প্রাপ্য যারা আল্লাহর পথে আবদ্ধ আছে, দেশময় ঘুরে বেড়াতে পারে না, ভিক্ষাবৃত্তি অবলম্বী না হওয়ার কারণে অজ্ঞ লোকেরা তাদেরকে অভাবমুক্ত মনে করে, তাদের চেহারা দেখে তুমি তাদেরকে চিনতে পারবে। তারা লোকেদের কাছে নাছোড় হয়ে ভিক্ষা করে না এবং তোমাদের মাল হতে যা কিছু ব্যয় করবে, নিশ্চয়ই আল্লাহ সে সম্পর্কে সুপরিজ্ঞাত।"
+                }
+            ]
+        },
+        {
+            "id": 281,
+            "verse_number": 274,
+            "verse_key": "2:274",
+            "hizb_number": 5,
+            "rub_el_hizb_number": 19,
+            "ruku_number": 39,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُم بِٱلَّيْلِ وَٱلنَّهَارِ سِرًّا وَعَلَانِيَةً فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+            "page_number": 46,
+            "juz_number": 3,
+            "translations": [
+                {
+                    "id": 97772,
+                    "resource_id": 20,
+                    "text": "Those who spend their wealth [in Allāh's way] by night and by day, secretly and publicly - they will have their reward with their Lord. And no fear will there be concerning them, nor will they grieve."
+                },
+                {
+                    "id": 215640,
+                    "resource_id": 39,
+                    "text": "Orang-orang yang membelanjakan (mendermakan) hartanya pada waktu malam dan siang, dengan cara sulit atau terbuka, maka mereka beroleh pahala di sisi Tuhan mereka, dan tidak ada kebimbangan (dari berlakunya kejadian yang tidak baik) terhadap mereka, serta mereka pula tidak akan berdukacita."
+                },
+                {
+                    "id": 1091258,
+                    "resource_id": 161,
+                    "text": "যারা নিজেদের মাল রাতে ও দিনে, প্রকাশ্যে অপ্রকাশ্যে ব্যয় করে থাকে, তাদের জন্য সেই দানের সওয়াব তাদের প্রতিপালকের নিকট রয়েছে এবং তাদের কোন ভয় নেই, তারা চিন্তিতও হবে না।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 5,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 5
+    }
+}

@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 1751,
+            "verse_number": 1,
+            "verse_key": "14:1",
+            "hizb_number": 26,
+            "rub_el_hizb_number": 102,
+            "ruku_number": 211,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": " الٓر ۚ كِتَـٰبٌ أَنزَلْنَـٰهُ إِلَيْكَ لِتُخْرِجَ ٱلنَّاسَ مِنَ ٱلظُّلُمَـٰتِ إِلَى ٱلنُّورِ بِإِذْنِ رَبِّهِمْ إِلَىٰ صِرَٰطِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+            "page_number": 255,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96654,
+                    "resource_id": 20,
+                    "text": "Alif, Lām, Rā.<sup foot_note=196564>1</sup> [This is] a Book which We have revealed to you, [O Muḥammad], that you might bring mankind out of darknesses into the light by permission of their Lord - to the path of the Exalted in Might, the Praiseworthy -"
+                },
+                {
+                    "id": 220624,
+                    "resource_id": 39,
+                    "text": "Alif, Laam, Raa'. Ini ialah Kitab (Al-Quran) Kami turunkan dia kepadamu (wahai Muhammad), supaya engkau mengeluarkan umat manusia seluruhnya dari gelap-gelita kufur kepada cahaya iman - dengan izin Tuhan mereka - ke jalan Allah Yang Maha Kuasa lagi Maha Terpuji."
+                },
+                {
+                    "id": 1092728,
+                    "resource_id": 161,
+                    "text": "আলিফ-লাম-র, একটা কিতাব যা তোমার প্রতি অবতীর্ণ করেছি যাতে তুমি মানুষকে তাদের প্রতিপালকের নির্দেশে অন্ধকার থেকে নিয়ে আসতে পার আলোর দিকে- মহাপরাক্রমশালী প্রশংসিতের পথে।"
+                }
+            ]
+        },
+        {
+            "id": 1752,
+            "verse_number": 2,
+            "verse_key": "14:2",
+            "hizb_number": 26,
+            "rub_el_hizb_number": 102,
+            "ruku_number": 211,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "ٱللَّهِ ٱلَّذِى لَهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ وَوَيْلٌ لِّلْكَـٰفِرِينَ مِنْ عَذَابٍ شَدِيدٍ",
+            "page_number": 255,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96665,
+                    "resource_id": 20,
+                    "text": "Allāh, to whom belongs whatever is in the heavens and whatever is on the earth. And woe [i.e., destruction] to the disbelievers from a severe punishment -"
+                },
+                {
+                    "id": 220635,
+                    "resource_id": 39,
+                    "text": "Allah jua yang memiliki segala yang ada di langit serta yang ada di bumi; dan kecelakaan besar bagi orang-orang yang kufur ingkar (terhadap Al-Quran) dari azab yang amat berat (yang akan menimpa mereka kelak)."
+                },
+                {
+                    "id": 1092729,
+                    "resource_id": 161,
+                    "text": "আল্লাহ- আসমানসমূহে যা কিছু আছে আর পৃথিবীতে যা কিছু আছে, সবই তাঁর মালিকানাধীন। কিন্তু কাফিরদের জন্য আছে কঠিন শাস্তির দুর্ভোগ।"
+                }
+            ]
+        },
+        {
+            "id": 1753,
+            "verse_number": 3,
+            "verse_key": "14:3",
+            "hizb_number": 26,
+            "rub_el_hizb_number": 102,
+            "ruku_number": 211,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِينَ يَسْتَحِبُّونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا عَلَى ٱلْـَٔاخِرَةِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَيَبْغُونَهَا عِوَجًا ۚ أُو۟لَـٰٓئِكَ فِى ضَلَـٰلٍۭ بَعِيدٍ",
+            "page_number": 255,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96676,
+                    "resource_id": 20,
+                    "text": "The ones who prefer the worldly life over the Hereafter and avert [people] from the way of Allāh, seeking to make it [seem] deviant. Those are in extreme error."
+                },
+                {
+                    "id": 220652,
+                    "resource_id": 39,
+                    "text": "Orang-orang yang mengutamakan dunia lebih daripada akhirat, dan menghalangi manusia dari jalan ugama Allah, serta menghendaki jalan itu menjadi bengkok terpesong, mereka itulah orang-orang yang terjerumus ke dalam kesesatan yang jauh terpesongnya."
+                },
+                {
+                    "id": 1092730,
+                    "resource_id": 161,
+                    "text": "যারা আখেরাতের তুলনায় দুনিয়ার জিন্দিগীকে শ্রেয় জ্ঞান করে, যারা আল্লাহর পথ থেকে (লোকদেরকে) বিরত রাখে আর তাতে বক্রতা আনার আকাঙ্ক্ষা পোষণ করে। এরা গোমরাহীতে বহু দূরে চলে গেছে।"
+                }
+            ]
+        },
+        {
+            "id": 1754,
+            "verse_number": 4,
+            "verse_key": "14:4",
+            "hizb_number": 26,
+            "rub_el_hizb_number": 102,
+            "ruku_number": 211,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَآ أَرْسَلْنَا مِن رَّسُولٍ إِلَّا بِلِسَانِ قَوْمِهِۦ لِيُبَيِّنَ لَهُمْ ۖ فَيُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+            "page_number": 255,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96688,
+                    "resource_id": 20,
+                    "text": "And We did not send any messenger except [speaking] in the language of his people to state clearly for them, and Allāh sends astray [thereby] whom He wills<sup foot_note=196565>1</sup> and guides whom He wills. And He is the Exalted in Might, the Wise."
+                },
+                {
+                    "id": 220662,
+                    "resource_id": 39,
+                    "text": "Dan Kami tidak mengutuskan seseorang Rasul melainkan dengan bahasa kaumnya supaya ia menjelaskan (hukum-hukum Allah) kepada mereka. Maka Allah menyesatkan sesiapa yang dikehendakiNya (menurut undang-undang peraturanNya), juga memberi hidayah petunjuk kepada sesiapa yang dikehendakiNya (menurut undang-undang peraturanNya); dan Dia lah jua Yang Maha Kuasa, lagi Maha Bijaksana."
+                },
+                {
+                    "id": 1092731,
+                    "resource_id": 161,
+                    "text": "আমি কোন রসূলকেই তার জাতির ভাষা ছাড়া পাঠাইনি যাতে তাদের কাছে স্পষ্টভাবে (আমার নির্দেশগুলো) বর্ণনা করতে পারে। অতঃপর আল্লাহ যাকে ইচ্ছে পথহারা করেছেন, আর যাকে ইচ্ছে সঠিক পথ দেখিয়েছেন, তিনি বড়ই পরাক্রান্ত, বিজ্ঞানময়।"
+                }
+            ]
+        },
+        {
+            "id": 1755,
+            "verse_number": 5,
+            "verse_key": "14:5",
+            "hizb_number": 26,
+            "rub_el_hizb_number": 102,
+            "ruku_number": 211,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَآ أَنْ أَخْرِجْ قَوْمَكَ مِنَ ٱلظُّلُمَـٰتِ إِلَى ٱلنُّورِ وَذَكِّرْهُم بِأَيَّىٰمِ ٱللَّهِ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ",
+            "page_number": 255,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96699,
+                    "resource_id": 20,
+                    "text": "And We certainly sent Moses with Our signs, [saying], \"Bring out your people from darknesses into the light and remind them of the days<sup foot_note=196566>1</sup> of Allāh.\" Indeed in that are signs for everyone patient and grateful."
+                },
+                {
+                    "id": 220669,
+                    "resource_id": 39,
+                    "text": "Dan sesungguhnya Kami telah mengutuskan Nabi Musa (pada masa yang lalu) dengan membawa mukjizat-mukjizat Kami sambil Kami berfirman: \"Hendaklah engkau mengeluarkan kaummu dari gelap-gelita kufur kepada cahaya iman; dan ingatkanlah mereka dengan Hari-hari Allah. \"Sesungguhnya yang demikian itu, mengandungi tanda-tanda yang menunjukkan kekuasaan Allah bagi tiap-tiap seorang yang kuat bersabar, lagi kuat bersyukur."
+                },
+                {
+                    "id": 1092732,
+                    "resource_id": 161,
+                    "text": "আর অবশ্যই আমি মূসাকে আমার নিদর্শনসমূহ দিয়ে পাঠিয়েছিলাম আর বলেছিলাম, তোমার জাতিকে অন্ধকার থেকে আলোতে বের করে আন, আর তাদেরকে আল্লাহর হুকুমে ঘটিত অতীতের ঘটনাবলী দিয়ে উপদেশ দাও। এতে প্রত্যেক পরম সহিষ্ণু ও পরম কৃতজ্ঞ ব্যক্তির জন্য অবশ্যই নিদর্শনসমূহ রয়েছে।"
+                }
+            ]
+        },
+        {
+            "id": 1756,
+            "verse_number": 6,
+            "verse_key": "14:6",
+            "hizb_number": 26,
+            "rub_el_hizb_number": 102,
+            "ruku_number": 211,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ أَنجَىٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ وَيُذَبِّحُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ ۚ وَفِى ذَٰلِكُم بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ",
+            "page_number": 256,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96703,
+                    "resource_id": 20,
+                    "text": "And [recall, O Children of Israel], when Moses said to his people, \"Remember the favor of Allāh upon you when He saved you from the people of Pharaoh, who were afflicting you with the worst torment and were slaughtering your [newborn] sons and keeping your females alive. And in that was a great trial from your Lord."
+                },
+                {
+                    "id": 220679,
+                    "resource_id": 39,
+                    "text": "Dan (ingatlah) ketika Nabi Musa berkata kepada kaumnya: \"Kenanglah nikmat Allah kepada kamu, semasa Ia menyelamatkan kamu dari Firaun dan orang-orangnya yang sentiasa menyeksa kamu dengan berbagai seksa yang buruk dan mereka pula menyembelih anak-anak lelaki kamu dan membiarkan hidup anak-anak perempuan kamu; dan kejadian yang demikian itu mengandungi bala bencana dan cubaan yang besar dari Tuhan kamu\"."
+                },
+                {
+                    "id": 1092733,
+                    "resource_id": 161,
+                    "text": "স্মরণ কর, যখন মূসা তার সম্প্রদায়কে বলেছিল, ‘তোমরা তোমাদের প্রতি আল্লাহর নি‘মাতের কথা স্মরণ কর যখন তিনি তোমাদেরকে ফির‘আওনী গোষ্ঠী থেকে রক্ষা করেছিলেন যারা তোমাদেরকে জঘন্য রকমের শাস্তিতে পিষ্ট করছিল। তোমাদের পুত্রদেরকে তারা হত্যা করত আর তোমাদের নারীদেরকে জীবিত রাখত। এটা ছিল তোমাদের জন্য আল্লাহর পক্ষ হতে এক কঠিন পরীক্ষা।"
+                }
+            ]
+        },
+        {
+            "id": 1757,
+            "verse_number": 7,
+            "verse_key": "14:7",
+            "hizb_number": 26,
+            "rub_el_hizb_number": 102,
+            "ruku_number": 212,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذْ تَأَذَّنَ رَبُّكُمْ لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ ۖ وَلَئِن كَفَرْتُمْ إِنَّ عَذَابِى لَشَدِيدٌ",
+            "page_number": 256,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96704,
+                    "resource_id": 20,
+                    "text": "And [remember] when your Lord proclaimed, 'If you are grateful, I will surely increase you [in favor]; but if you deny, indeed, My punishment is severe.'\""
+                },
+                {
+                    "id": 220677,
+                    "resource_id": 39,
+                    "text": "Dan (ingatlah) ketika Tuhan kamu memberitahu: \"Demi sesungguhnya! Jika kamu bersyukur nescaya Aku akan tambahi nikmatKu kepada kamu, dan demi sesungguhnya, jika kamu kufur ingkar sesungguhnya azabKu amatlah keras\"."
+                },
+                {
+                    "id": 1092734,
+                    "resource_id": 161,
+                    "text": "স্মরণ কর, যখন তোমাদের প্রতিপালক ঘোষণা করেন, যদি তোমরা কৃতজ্ঞতা প্রকাশ কর তাহলে আমি অবশ্যই তোমাদের জন্য (আমার নি‘য়ামাত) বৃদ্ধি করে দেব, আর যদি তোমরা অকৃতজ্ঞ হও (তবে জেনে রেখ, অকৃতজ্ঞদের জন্য) আমার শাস্তি অবশ্যই কঠিন।"
+                }
+            ]
+        },
+        {
+            "id": 1758,
+            "verse_number": 8,
+            "verse_key": "14:8",
+            "hizb_number": 26,
+            "rub_el_hizb_number": 102,
+            "ruku_number": 212,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَقَالَ مُوسَىٰٓ إِن تَكْفُرُوٓا۟ أَنتُمْ وَمَن فِى ٱلْأَرْضِ جَمِيعًا فَإِنَّ ٱللَّهَ لَغَنِىٌّ حَمِيدٌ",
+            "page_number": 256,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96705,
+                    "resource_id": 20,
+                    "text": "And Moses said, \"If you should disbelieve, you and whoever is on the earth entirely - indeed, Allāh is Free of need and Praiseworthy.\""
+                },
+                {
+                    "id": 220683,
+                    "resource_id": 39,
+                    "text": "Dan Nabi Musa berkata: \"Kalau kamu dan sesiapa jua yang ada di muka bumi seluruhnya berlaku kufur ingkar, maka (hal yang demikian tidak merugikan Allah), kerana sesungguhnya Allah adalah Maha Kaya, lagi Maha Terpuji."
+                },
+                {
+                    "id": 1092735,
+                    "resource_id": 161,
+                    "text": "মূসা বলেছিল, তোমরা আর দুনিয়ার সকল লোক যদি অকৃতজ্ঞ হও (তাতে কিছুই যায় আসে না) কারণ আল্লাহ অমুখাপেক্ষী, প্রশংসিত।"
+                }
+            ]
+        },
+        {
+            "id": 1759,
+            "verse_number": 9,
+            "verse_key": "14:9",
+            "hizb_number": 26,
+            "rub_el_hizb_number": 102,
+            "ruku_number": 212,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "أَلَمْ يَأْتِكُمْ نَبَؤُا۟ ٱلَّذِينَ مِن قَبْلِكُمْ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ ۛ وَٱلَّذِينَ مِنۢ بَعْدِهِمْ ۛ لَا يَعْلَمُهُمْ إِلَّا ٱللَّهُ ۚ جَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَـٰتِ فَرَدُّوٓا۟ أَيْدِيَهُمْ فِىٓ أَفْوَٰهِهِمْ وَقَالُوٓا۟ إِنَّا كَفَرْنَا بِمَآ أُرْسِلْتُم بِهِۦ وَإِنَّا لَفِى شَكٍّ مِّمَّا تَدْعُونَنَآ إِلَيْهِ مُرِيبٍ",
+            "page_number": 256,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96706,
+                    "resource_id": 20,
+                    "text": "Has there not reached you the news of those before you - the people of Noah and ʿAad and Thamūd and those after them? No one knows them [i.e., their number] but Allāh. Their messengers brought them clear proofs, but they returned their hands to their mouths<sup foot_note=196567>1</sup> and said, \"Indeed, we disbelieve in that with which you have been sent, and indeed we are, about that to which you invite us, in disquieting doubt.\""
+                },
+                {
+                    "id": 220685,
+                    "resource_id": 39,
+                    "text": "(Mengapa kamu masih berdegil) bukankah telah datang kepada kamu khabar berita orang-orang yang terdahulu daripada kamu, iaitu kaum Nabi Nuh, dan Aad juga Thamud serta orang-orang yang kemudian daripada mereka ? Tiada sesiapapun yang mengetahui bilangan mereka melainkan Allah. Mereka telah didatangi oleh rasul-rasul mereka dengan membawa keterangan-keterangan yang nyata, lalu mereka meletakkan tangan mereka ke mulut mereka sambil berkata: \"Sesungguhnya kami kufur ingkarkan apa yang - mengikut dakwaan kamu - kamu diutus membawanya, dan sesungguhnya kami adalah dalam keadaan yang meragukan terhadap iman dan tauhid yang kamu ajak kami kepadanya\"."
+                },
+                {
+                    "id": 1092736,
+                    "resource_id": 161,
+                    "text": "তোমাদের পূর্বেকার লোকেদের খবর কি তোমাদের কাছে পৌঁছেনি? নূহ, ‘আদ আর সামূদ সম্প্রদায়ের, আর তাদের পরবর্তীদের; তাদের সম্পর্কে আল্লাহ ছাড়া কেউ জানে না। রসূলগণ তাদের কাছে স্পষ্ট নিদর্শনাসমূহ নিয়ে এসেছিল, তখন তারা নিজেদের মুখে হাত চেপে ধরল আর বলল, ‘যে জিনিস দিয়ে তোমাদেরকে পাঠানো হয়েছে তা আমরা অস্বীকার করি আর যে বিষয়ের প্রতি তোমরা আমাদেরকে আহবান জানাচ্ছ সে সম্পর্কে আমরা বিভ্রান্তিকর সন্দেহের মধ্যে রয়েছি।’"
+                }
+            ]
+        },
+        {
+            "id": 1760,
+            "verse_number": 10,
+            "verse_key": "14:10",
+            "hizb_number": 26,
+            "rub_el_hizb_number": 103,
+            "ruku_number": 212,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "۞ قَالَتْ رُسُلُهُمْ أَفِى ٱللَّهِ شَكٌّ فَاطِرِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ يَدْعُوكُمْ لِيَغْفِرَ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرَكُمْ إِلَىٰٓ أَجَلٍ مُّسَمًّى ۚ قَالُوٓا۟ إِنْ أَنتُمْ إِلَّا بَشَرٌ مِّثْلُنَا تُرِيدُونَ أَن تَصُدُّونَا عَمَّا كَانَ يَعْبُدُ ءَابَآؤُنَا فَأْتُونَا بِسُلْطَـٰنٍ مُّبِينٍ",
+            "page_number": 256,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96655,
+                    "resource_id": 20,
+                    "text": "Their messengers said, \"Can there be doubt about Allāh, Creator of the heavens and earth? He invites you that He may forgive you of your sins, and He delays you [i.e., your death] for a specified term.\" They said, \"You are not but men like us who wish to avert us from what our fathers were worshipping. So bring us a clear authority [i.e., evidence].\""
+                },
+                {
+                    "id": 220620,
+                    "resource_id": 39,
+                    "text": "Rasul-rasul mereka bertanya: \"Patutkah berlakunya sebarang keraguan tentang wujudnya Allah, yang menciptakan langit dan bumi? Ia menyeru kamu beriman kerana hendak membersih dan melepaskan kamu dari dosa-dosa kamu, dan memberi tempoh kepada kamu hingga ke suatu masa yang tertentu. Mereka menjawab: \"Kamu tidak lain hanyalah manusia seperti kami. Kamu bertujuan hendak menyekat kami daripada menyembah apa yang telah disembah oleh datuk nenek kami. Oleh itu, bawalah kepada kami satu bukti yang jelas nyata\"."
+                },
+                {
+                    "id": 1092737,
+                    "resource_id": 161,
+                    "text": "তাদের রসূলগণ বলেছিল, ‘আল্লাহ সম্পর্কে সন্দেহ? যিনি আসমানসমূহ ও যমীনের সৃষ্টিকর্তা, তিনি তোমাদেরকে ডাকছেন তোমাদের অপরাধ মার্জনা করার জন্য আর একটা নির্দিষ্ট সময় পর্যন্ত তোমাদেরকে অবকাশ দেয়ার জন্য।’ তারা বলল, ‘তুমি আমাদেরই মত মানুষ বৈ তো নও, আমাদের পূর্বপুরুষরা যার ‘ইবাদাত করত তাত্থেকে আমাদেরকে তুমি বাধা দিতে চাও, তাহলে তুমি (তোমার দাবীর স্বপক্ষে) আমাদের কাছে সুস্পষ্ট প্রমাণ উপস্থিত কর।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 6,
+        "total_records": 52
+    }
+}

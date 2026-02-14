@@ -1,0 +1,581 @@
+{
+    "verses": [
+        {
+            "id": 2327,
+            "verse_number": 77,
+            "verse_key": "19:77",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 124,
+            "ruku_number": 268,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "أَفَرَءَيْتَ ٱلَّذِى كَفَرَ بِـَٔايَـٰتِنَا وَقَالَ لَأُوتَيَنَّ مَالًا وَوَلَدًا",
+            "page_number": 311,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97231,
+                    "resource_id": 20,
+                    "text": "Then, have you seen he who disbelieved in Our verses and said, \"I will surely be given wealth and children [in the next life]\"?"
+                },
+                {
+                    "id": 215099,
+                    "resource_id": 39,
+                    "text": "Maka tidakkah engkau merasa hairan memikirkan (wahai Muhammad), akan orang yang kufur ingkar kepada ayat-ayat keterangan Kami serta ia berkata: \"Demi sesungguhnya aku akan diberikan harta kekayaan dan anak-pinak pada hari akhirat?\""
+                },
+                {
+                    "id": 1093304,
+                    "resource_id": 161,
+                    "text": "তুমি কি লক্ষ্য করেছ সে ব্যক্তিকে যে আমার নিদর্শনসমূহকে প্রত্যাখ্যান করেছে আর সে বলে, ‘আমাকে অবশ্য অবশ্যই সম্পদ আর সন্তানাদি দেয়া হবে।’"
+                }
+            ]
+        },
+        {
+            "id": 2328,
+            "verse_number": 78,
+            "verse_key": "19:78",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 124,
+            "ruku_number": 268,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "أَطَّلَعَ ٱلْغَيْبَ أَمِ ٱتَّخَذَ عِندَ ٱلرَّحْمَـٰنِ عَهْدًا",
+            "page_number": 311,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97232,
+                    "resource_id": 20,
+                    "text": "Has he looked into the unseen, or has he taken from the Most Merciful a promise?"
+                },
+                {
+                    "id": 215122,
+                    "resource_id": 39,
+                    "text": "Adakah ia telah mengetahui akan perkara yang ghaib, atau adakah ia telah membuat perjanjian dengan (Allah) Ar-Rahman mengenainya?"
+                },
+                {
+                    "id": 1093305,
+                    "resource_id": 161,
+                    "text": "সে কি অদৃশ্য বিষয় জেনে ফেলেছে, নাকি দয়াময়ের নিকট থেকে প্রতিশ্রুতি লাভ করেছে?"
+                }
+            ]
+        },
+        {
+            "id": 2329,
+            "verse_number": 79,
+            "verse_key": "19:79",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 124,
+            "ruku_number": 268,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "كَلَّا ۚ سَنَكْتُبُ مَا يَقُولُ وَنَمُدُّ لَهُۥ مِنَ ٱلْعَذَابِ مَدًّا",
+            "page_number": 311,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97233,
+                    "resource_id": 20,
+                    "text": "No! We will record what he says and extend [i.e., increase] for him from the punishment extensively."
+                },
+                {
+                    "id": 215101,
+                    "resource_id": 39,
+                    "text": "Tidak sekali-kali! Kami akan menulis apa yang dikatakannya, dan Kami akan tambahi baginya dari azab seksa, berganda-ganda."
+                },
+                {
+                    "id": 1093306,
+                    "resource_id": 161,
+                    "text": "কক্ষনো না, তারা যা বলে আমি তা লিখে রাখব আর আমি তার শাস্তি বাড়াতেই থাকব, বাড়াতেই থাকব।"
+                }
+            ]
+        },
+        {
+            "id": 2330,
+            "verse_number": 80,
+            "verse_key": "19:80",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 124,
+            "ruku_number": 268,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَنَرِثُهُۥ مَا يَقُولُ وَيَأْتِينَا فَرْدًا",
+            "page_number": 311,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97235,
+                    "resource_id": 20,
+                    "text": "And We will inherit him [in] what he mentions,<sup foot_note=196737>1</sup> and he will come to Us alone."
+                },
+                {
+                    "id": 215103,
+                    "resource_id": 39,
+                    "text": "Dan Kami akan warisi (harta benda dan anak-pinak) yang dikatakannya itu, dan ia akan datang kepada kami dengan seorang diri."
+                },
+                {
+                    "id": 1093307,
+                    "resource_id": 161,
+                    "text": "সে যে বিষয়ের কথা বলে (তার সম্পদ-সরঞ্জাম ও জনবলের গর্ব করে) তা থাকবে আমার অধিকারে আর সে আমার কাছে আসবে নিঃসঙ্গ, একাকী।"
+                }
+            ]
+        },
+        {
+            "id": 2331,
+            "verse_number": 81,
+            "verse_key": "19:81",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 124,
+            "ruku_number": 268,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ ءَالِهَةً لِّيَكُونُوا۟ لَهُمْ عِزًّا",
+            "page_number": 311,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97236,
+                    "resource_id": 20,
+                    "text": "And they have taken besides Allāh [false] deities that they would be for them [a source of] honor."
+                },
+                {
+                    "id": 215104,
+                    "resource_id": 39,
+                    "text": "Dan mereka yang kafir menyembah benda-benda yang lain dari Allah sebagai tuhan-tuhan, supaya benda-benda yang mereka sembah itu menjadi penolong-penolong yang memberi kemuliaan dan pengaruh kepada mereka."
+                },
+                {
+                    "id": 1093308,
+                    "resource_id": 161,
+                    "text": "তারা আল্লাহকে বাদ দিয়ে অন্যান্য ইলাহ গ্রহণ করেছে যাতে তারা (অর্থাৎ ঐ কল্পিত মা‘বুদগুলো) তাদের জন্য পৃষ্ঠপোষক হয়।"
+                }
+            ]
+        },
+        {
+            "id": 2332,
+            "verse_number": 82,
+            "verse_key": "19:82",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 124,
+            "ruku_number": 268,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "كَلَّا ۚ سَيَكْفُرُونَ بِعِبَادَتِهِمْ وَيَكُونُونَ عَلَيْهِمْ ضِدًّا",
+            "page_number": 311,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97237,
+                    "resource_id": 20,
+                    "text": "No! They [i.e., those \"gods\"] will deny their worship of them and will be against them opponents [on the Day of Judgement]."
+                },
+                {
+                    "id": 215105,
+                    "resource_id": 39,
+                    "text": "Tidak sekali-kali! Bahkan benda-benda yang mereka pertuhankan itu mengingkari perbuatan mereka menyembahnya, dan akan menjadi musuh yang membawa kehinaan kepada mereka."
+                },
+                {
+                    "id": 1093309,
+                    "resource_id": 161,
+                    "text": "কক্ষনো না, তারা তাদের ‘ইবাদাত অস্বীকার করবে আর তাদের বিরোধী হয়ে যাবে।"
+                }
+            ]
+        },
+        {
+            "id": 2333,
+            "verse_number": 83,
+            "verse_key": "19:83",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 124,
+            "ruku_number": 269,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "أَلَمْ تَرَ أَنَّآ أَرْسَلْنَا ٱلشَّيَـٰطِينَ عَلَى ٱلْكَـٰفِرِينَ تَؤُزُّهُمْ أَزًّا",
+            "page_number": 311,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97238,
+                    "resource_id": 20,
+                    "text": "Do you not see that We have sent the devils upon the disbelievers, inciting them [to evil] with [constant] incitement?"
+                },
+                {
+                    "id": 215106,
+                    "resource_id": 39,
+                    "text": "Tidakkah engkau mengetahui (Wahai Muhammad) bahawa Kami telah menghantarkan Syaitan-syaitan kepada orang-orang kafir, untuk menggalakkan mereka mengerjakan perbuatan kufur dan maksiat dengan bersungguh-sungguh?"
+                },
+                {
+                    "id": 1093310,
+                    "resource_id": 161,
+                    "text": "তুমি কি লক্ষ্য কর না যে, আমি কাফিরদের জন্য শয়ত্বানকে ছেড়ে রেখেছি তাদেরকে মন্দ কর্ম করতে প্ররোচিত করার জন্য।"
+                }
+            ]
+        },
+        {
+            "id": 2334,
+            "verse_number": 84,
+            "verse_key": "19:84",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 124,
+            "ruku_number": 269,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَلَا تَعْجَلْ عَلَيْهِمْ ۖ إِنَّمَا نَعُدُّ لَهُمْ عَدًّا",
+            "page_number": 311,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97239,
+                    "resource_id": 20,
+                    "text": "So be not impatient over them. We only count out [i.e., allow] to them a [limited] number.<sup foot_note=196738>1</sup>"
+                },
+                {
+                    "id": 215107,
+                    "resource_id": 39,
+                    "text": "Oleh itu, janganlah engkau segera marah terhadap mereka yang ingkar itu, kerana sesungguhnya kami hanya menghitung hari yang sedikit sahaja bilangannya untuk mereka."
+                },
+                {
+                    "id": 1093311,
+                    "resource_id": 161,
+                    "text": "কাজেই তাদের ব্যাপারে তাড়াহুড়ো করো না, আমি গুণে রাখছি তাদের জন্য নির্দিষ্ট (দিবসের) সংখ্যা।"
+                }
+            ]
+        },
+        {
+            "id": 2335,
+            "verse_number": 85,
+            "verse_key": "19:85",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 124,
+            "ruku_number": 269,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "يَوْمَ نَحْشُرُ ٱلْمُتَّقِينَ إِلَى ٱلرَّحْمَـٰنِ وَفْدًا",
+            "page_number": 311,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97240,
+                    "resource_id": 20,
+                    "text": "On the Day We will gather the righteous to the Most Merciful as a delegation"
+                },
+                {
+                    "id": 215108,
+                    "resource_id": 39,
+                    "text": "(Ingatlah) hari Kami himpunkan orang-orang yang bertaqwa untuk mengadap (Allah) Ar-Rahman, dengan berpasuk-pasukan."
+                },
+                {
+                    "id": 1093312,
+                    "resource_id": 161,
+                    "text": "যেদিন মুত্তাকীদেরকে দয়াময়ের নিকট একত্রিত করব সম্মানিত অতিথি হিসেবে।"
+                }
+            ]
+        },
+        {
+            "id": 2336,
+            "verse_number": 86,
+            "verse_key": "19:86",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 124,
+            "ruku_number": 269,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَنَسُوقُ ٱلْمُجْرِمِينَ إِلَىٰ جَهَنَّمَ وِرْدًا",
+            "page_number": 311,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97241,
+                    "resource_id": 20,
+                    "text": "And will drive the criminals to Hell in thirst"
+                },
+                {
+                    "id": 215109,
+                    "resource_id": 39,
+                    "text": "Dan Kami akan menghalau orang-orang yang bersalah ke neraka Jahannam, dalam keadaan dahaga."
+                },
+                {
+                    "id": 1093313,
+                    "resource_id": 161,
+                    "text": "আর আমি অপরাধীদেরকে জাহান্নামের দিকে তাড়িয়ে নিয়ে যাব (যেভাবে পিপাসার্ত গরু বাছুরকে পানির দিকে তাড়িয়ে নেয়া হয়)।"
+                }
+            ]
+        },
+        {
+            "id": 2337,
+            "verse_number": 87,
+            "verse_key": "19:87",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 124,
+            "ruku_number": 269,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "لَّا يَمْلِكُونَ ٱلشَّفَـٰعَةَ إِلَّا مَنِ ٱتَّخَذَ عِندَ ٱلرَّحْمَـٰنِ عَهْدًا",
+            "page_number": 311,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97242,
+                    "resource_id": 20,
+                    "text": "None will have [power of] intercession except he who had taken from the Most Merciful a covenant.<sup foot_note=196739>1</sup>"
+                },
+                {
+                    "id": 215110,
+                    "resource_id": 39,
+                    "text": "Mereka tidak berhak mendapat dan memberi syafaat, kecuali orang yang telah mengikat perjanjian (dengan iman dan amal yang soleh) di sisi Allah yang melimpah-limpah rahmatNya!."
+                },
+                {
+                    "id": 1093314,
+                    "resource_id": 161,
+                    "text": "দয়াময়ের নিকট যে প্রতিশ্রুতি লাভ করেছে সে ছাড়া অন্য কারো সুপারিশ করার অধিকার থাকবে না।"
+                }
+            ]
+        },
+        {
+            "id": 2338,
+            "verse_number": 88,
+            "verse_key": "19:88",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 124,
+            "ruku_number": 269,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَقَالُوا۟ ٱتَّخَذَ ٱلرَّحْمَـٰنُ وَلَدًا",
+            "page_number": 311,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97243,
+                    "resource_id": 20,
+                    "text": "And they say, \"The Most Merciful has taken [for Himself] a son.\""
+                },
+                {
+                    "id": 215111,
+                    "resource_id": 39,
+                    "text": "Dan mereka yang kafir berkata: \"(Allah) Ar-Rahman, mempunyai anak.\""
+                },
+                {
+                    "id": 1093315,
+                    "resource_id": 161,
+                    "text": "তারা বলে, ‘দয়াময় সন্তান গ্রহণ করেছেন।’"
+                }
+            ]
+        },
+        {
+            "id": 2339,
+            "verse_number": 89,
+            "verse_key": "19:89",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 124,
+            "ruku_number": 269,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "لَّقَدْ جِئْتُمْ شَيْـًٔا إِدًّا",
+            "page_number": 311,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97244,
+                    "resource_id": 20,
+                    "text": "You have done an atrocious thing."
+                },
+                {
+                    "id": 215113,
+                    "resource_id": 39,
+                    "text": "Demi sesungguhnya, kamu telah melakukan satu perkara yang besar salahnya!"
+                },
+                {
+                    "id": 1093316,
+                    "resource_id": 161,
+                    "text": "(এমন কথা ব’লে) তোমরা তো এক ভয়ানক বিষয়ের অবতারণা করেছ।"
+                }
+            ]
+        },
+        {
+            "id": 2340,
+            "verse_number": 90,
+            "verse_key": "19:90",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 124,
+            "ruku_number": 269,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "تَكَادُ ٱلسَّمَـٰوَٰتُ يَتَفَطَّرْنَ مِنْهُ وَتَنشَقُّ ٱلْأَرْضُ وَتَخِرُّ ٱلْجِبَالُ هَدًّا",
+            "page_number": 311,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97246,
+                    "resource_id": 20,
+                    "text": "The heavens almost rupture therefrom and the earth splits open and the mountains collapse in devastation"
+                },
+                {
+                    "id": 215114,
+                    "resource_id": 39,
+                    "text": "Langit nyaris-nyaris pecah disebabkan (anggapan mereka) yang demikian, dan bumi pula nyaris-nyaris terbelah, serta gunung-ganang pun nyaris-nyaris runtuh ranap, -"
+                },
+                {
+                    "id": 1093317,
+                    "resource_id": 161,
+                    "text": "যাতে আকাশ বিদীর্ণ হওয়ার, পৃথিবী খন্ড খন্ড হওয়ার আর পর্বতমালা চূর্ণ বিচূর্ণ হয়ে পতিত হওয়ার, উপক্রম হয়েছে।"
+                }
+            ]
+        },
+        {
+            "id": 2341,
+            "verse_number": 91,
+            "verse_key": "19:91",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 124,
+            "ruku_number": 269,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "أَن دَعَوْا۟ لِلرَّحْمَـٰنِ وَلَدًا",
+            "page_number": 311,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97247,
+                    "resource_id": 20,
+                    "text": "That they attribute to the Most Merciful a son."
+                },
+                {
+                    "id": 215115,
+                    "resource_id": 39,
+                    "text": "Kerana mereka mendakwa mengatakan: (Allah) Ar-Rahman mempunyai anak."
+                },
+                {
+                    "id": 1093318,
+                    "resource_id": 161,
+                    "text": "কারণ তারা দয়াময়ের প্রতি সন্তান আরোপ করে।"
+                }
+            ]
+        },
+        {
+            "id": 2342,
+            "verse_number": 92,
+            "verse_key": "19:92",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 124,
+            "ruku_number": 269,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا يَنۢبَغِى لِلرَّحْمَـٰنِ أَن يَتَّخِذَ وَلَدًا",
+            "page_number": 311,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97248,
+                    "resource_id": 20,
+                    "text": "And it is not appropriate for the Most Merciful that He should take a son."
+                },
+                {
+                    "id": 215117,
+                    "resource_id": 39,
+                    "text": "Padahal tiadalah layak bagi (Allah) Ar-Rahman, bahawa Ia mempunyai anak."
+                },
+                {
+                    "id": 1093319,
+                    "resource_id": 161,
+                    "text": "অথচ দয়াময়ের মহান মর্যাদার জন্য এটা শোভনীয় নয় যে, তিনি সন্তান গ্রহণ করবেন।"
+                }
+            ]
+        },
+        {
+            "id": 2343,
+            "verse_number": 93,
+            "verse_key": "19:93",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 124,
+            "ruku_number": 269,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "إِن كُلُّ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ إِلَّآ ءَاتِى ٱلرَّحْمَـٰنِ عَبْدًا",
+            "page_number": 311,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97249,
+                    "resource_id": 20,
+                    "text": "There is no one in the heavens and earth but that he comes to the Most Merciful as a servant."
+                },
+                {
+                    "id": 215116,
+                    "resource_id": 39,
+                    "text": "Tidak ada sesiapapun di langit dan di bumi melainkan ia akan datang kepada (Allah) Ar-Rahman, sebagai hamba."
+                },
+                {
+                    "id": 1093320,
+                    "resource_id": 161,
+                    "text": "আকাশ আর যমীনে এমন কেউ নেই যে, দয়াময়ের নিকট বান্দাহ হয়ে হাযির হবে না।"
+                }
+            ]
+        },
+        {
+            "id": 2344,
+            "verse_number": 94,
+            "verse_key": "19:94",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 124,
+            "ruku_number": 269,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "لَّقَدْ أَحْصَىٰهُمْ وَعَدَّهُمْ عَدًّا",
+            "page_number": 311,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97250,
+                    "resource_id": 20,
+                    "text": "He has enumerated them and counted them a [full] counting."
+                },
+                {
+                    "id": 215118,
+                    "resource_id": 39,
+                    "text": "Demi sesungguhnya! Allah telah mengira mereka (dengan pengetahuanNya) serta menghitung mereka satu persatu."
+                },
+                {
+                    "id": 1093321,
+                    "resource_id": 161,
+                    "text": "তিনি তাদেরকে পরিবেষ্টন করে রেখেছেন আর তাদেরকে বিশেষভাবে গুণে গুণে রেখেছেন।"
+                }
+            ]
+        },
+        {
+            "id": 2345,
+            "verse_number": 95,
+            "verse_key": "19:95",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 124,
+            "ruku_number": 269,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَكُلُّهُمْ ءَاتِيهِ يَوْمَ ٱلْقِيَـٰمَةِ فَرْدًا",
+            "page_number": 311,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97251,
+                    "resource_id": 20,
+                    "text": "And all of them are coming to Him on the Day of Resurrection alone."
+                },
+                {
+                    "id": 215119,
+                    "resource_id": 39,
+                    "text": "Dan mereka masing-masing akan datang mengadapNya pada hari kiamat dengan seorang diri."
+                },
+                {
+                    "id": 1093322,
+                    "resource_id": 161,
+                    "text": "কিয়ামাতের দিন তাদের সবাই তাঁর কাছে আসবে একাকী অবস্থায়।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 19,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 19
+    }
+}

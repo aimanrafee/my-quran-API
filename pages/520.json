@@ -1,0 +1,491 @@
+{
+    "verses": [
+        {
+            "id": 4666,
+            "verse_number": 36,
+            "verse_key": "50:36",
+            "hizb_number": 52,
+            "rub_el_hizb_number": 208,
+            "ruku_number": 456,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَكَمْ أَهْلَكْنَا قَبْلَهُم مِّن قَرْنٍ هُمْ أَشَدُّ مِنْهُم بَطْشًا فَنَقَّبُوا۟ فِى ٱلْبِلَـٰدِ هَلْ مِن مَّحِيصٍ",
+            "page_number": 520,
+            "juz_number": 26,
+            "translations": [
+                {
+                    "id": 100232,
+                    "resource_id": 20,
+                    "text": "And how many a generation before them did We destroy who were greater than them in [striking] power and had explored throughout the lands. Is there any place of escape?"
+                },
+                {
+                    "id": 218069,
+                    "resource_id": 39,
+                    "text": "Dan berapa banyak kaum-kaum (yang ingkar) yang terdahulu daripada orang-orang musyrik Makkah itu Kami telah binasakan. Kaum-kaum itu lebih kekuatannya (dan kehandalannya) daripada mereka, lalu kaum-kaum itu keluar mencari perlindungan di merata-rata negeri. (Meskipun demikian keadaannya) dapatkah (mereka) menyelamatkan diri?"
+                },
+                {
+                    "id": 1095643,
+                    "resource_id": 161,
+                    "text": "তাদের পূর্বে আমি কত জাতিকে ধ্বংস করে দিয়েছি যারা শক্তিতে ছিল তাদের চেয়ে প্রবল, যার ফলে তারা দুনিয়া চষে বেড়াত; তারা পালানোর কোন জায়গা পেয়েছিল কি?"
+                }
+            ]
+        },
+        {
+            "id": 4667,
+            "verse_number": 37,
+            "verse_key": "50:37",
+            "hizb_number": 52,
+            "rub_el_hizb_number": 208,
+            "ruku_number": 456,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ فِى ذَٰلِكَ لَذِكْرَىٰ لِمَن كَانَ لَهُۥ قَلْبٌ أَوْ أَلْقَى ٱلسَّمْعَ وَهُوَ شَهِيدٌ",
+            "page_number": 520,
+            "juz_number": 26,
+            "translations": [
+                {
+                    "id": 100233,
+                    "resource_id": 20,
+                    "text": "Indeed in that is a reminder for whoever has a heart or who listens while he is present [in mind]."
+                },
+                {
+                    "id": 218071,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya (keterangan-keterangan dan peristiwa-peristiwa) yang tersebut itu, tidak syak lagi mengandungi pengajaran bagi sesiapa yang mempunyai hati (yang sedar pada masa membacanya), atau yang menggunakan pendengarannya dengan bersungguh-sungguh (kepada pengajaran itu) dengan menumpukan hati dan fikiran kepadanya."
+                },
+                {
+                    "id": 1095644,
+                    "resource_id": 161,
+                    "text": "এতে অবশ্যই উপদেশ রয়েছে তার জন্য যার আছে (বোধশক্তিসম্পন্ন) অন্তর কিংবা যে খুব মন দিয়ে কথা শুনে।"
+                }
+            ]
+        },
+        {
+            "id": 4668,
+            "verse_number": 38,
+            "verse_key": "50:38",
+            "hizb_number": 52,
+            "rub_el_hizb_number": 208,
+            "ruku_number": 456,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَقَدْ خَلَقْنَا ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍ وَمَا مَسَّنَا مِن لُّغُوبٍ",
+            "page_number": 520,
+            "juz_number": 26,
+            "translations": [
+                {
+                    "id": 100234,
+                    "resource_id": 20,
+                    "text": "And We did certainly create the heavens and earth and what is between them in six days, and there touched Us no weariness."
+                },
+                {
+                    "id": 218072,
+                    "resource_id": 39,
+                    "text": "Dan demi sesungguhnya! Kami telah menciptakan langit dan bumi serta segala yang ada di antara keduanya dalam enam masa, dan Kami tidak mengalami sebarang susah payah."
+                },
+                {
+                    "id": 1095645,
+                    "resource_id": 161,
+                    "text": "আকাশ, যমীন আর এ দু’য়ের মাঝে যা আছে তা আমি ছ’ দিনে সৃষ্টি করেছি; ক্লান্তি আমাকে স্পর্শ করেনি। (আমি সকল মানুষকে বিচারের জন্য হাজির করবই)।"
+                }
+            ]
+        },
+        {
+            "id": 4669,
+            "verse_number": 39,
+            "verse_key": "50:39",
+            "hizb_number": 52,
+            "rub_el_hizb_number": 208,
+            "ruku_number": 456,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ ٱلشَّمْسِ وَقَبْلَ ٱلْغُرُوبِ",
+            "page_number": 520,
+            "juz_number": 26,
+            "translations": [
+                {
+                    "id": 100235,
+                    "resource_id": 20,
+                    "text": "So be patient, [O Muḥammad], over what they say and exalt [Allāh] with praise of your Lord before the rising of the sun and before its setting,"
+                },
+                {
+                    "id": 218074,
+                    "resource_id": 39,
+                    "text": "Oleh itu bersabarlah (wahai Muhammad) akan apa yang dikatakan oleh mereka (yang menentangmu itu), dan bertasbihlah sambil memuji Tuhanmu (terutama) sebelum terbit matahari dan sebelum matahari terbenam."
+                },
+                {
+                    "id": 1095646,
+                    "resource_id": 161,
+                    "text": "কাজেই তারা (মিথ্যা, উপহাসপূর্ণ ও অপমানজনক কথা) যা বলে তাতে তুমি ধৈর্য ধারণ কর আর সূর্যোদয়ের পূর্বে আর সূর্যাস্তের পূর্বে তোমার প্রতিপালকের মহিমা ও প্রশংসা ঘোষণা কর।"
+                }
+            ]
+        },
+        {
+            "id": 4670,
+            "verse_number": 40,
+            "verse_key": "50:40",
+            "hizb_number": 52,
+            "rub_el_hizb_number": 208,
+            "ruku_number": 456,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمِنَ ٱلَّيْلِ فَسَبِّحْهُ وَأَدْبَـٰرَ ٱلسُّجُودِ",
+            "page_number": 520,
+            "juz_number": 26,
+            "translations": [
+                {
+                    "id": 100237,
+                    "resource_id": 20,
+                    "text": "And [in part] of the night exalt Him and after prostration [i.e., prayer]."
+                },
+                {
+                    "id": 215001,
+                    "resource_id": 39,
+                    "text": "Serta bertasbihlah kepadaNya pada malam hari dan sesudah mengerjakan sembahyang."
+                },
+                {
+                    "id": 1095647,
+                    "resource_id": 161,
+                    "text": "আর তাঁর প্রশংসা ঘোষণা কর রাত্রির একাংশে আর নামাযের পরে।"
+                }
+            ]
+        },
+        {
+            "id": 4671,
+            "verse_number": 41,
+            "verse_key": "50:41",
+            "hizb_number": 52,
+            "rub_el_hizb_number": 208,
+            "ruku_number": 456,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱسْتَمِعْ يَوْمَ يُنَادِ ٱلْمُنَادِ مِن مَّكَانٍ قَرِيبٍ",
+            "page_number": 520,
+            "juz_number": 26,
+            "translations": [
+                {
+                    "id": 100238,
+                    "resource_id": 20,
+                    "text": "And listen on the Day when the Caller<sup foot_note=197412>1</sup> will call out from a place that is near -"
+                },
+                {
+                    "id": 218079,
+                    "resource_id": 39,
+                    "text": "Dan dengarlah (apa yang diterangkan kepadamu sekarang ini mengenai hari kiamat), hari (malaikat yang menjadi) penyeru, menyeru (makhluk-makhluk yang telah mati) dari tempat yang dekat yang dapat didengar oleh semuanya),"
+                },
+                {
+                    "id": 1095648,
+                    "resource_id": 161,
+                    "text": "আর শোন, যেদিন এক ঘোষণাকারী (প্রত্যেক ব্যক্তির) নিকটবর্তী স্থান থেকে ডাক দিবে,"
+                }
+            ]
+        },
+        {
+            "id": 4672,
+            "verse_number": 42,
+            "verse_key": "50:42",
+            "hizb_number": 52,
+            "rub_el_hizb_number": 208,
+            "ruku_number": 456,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "يَوْمَ يَسْمَعُونَ ٱلصَّيْحَةَ بِٱلْحَقِّ ۚ ذَٰلِكَ يَوْمُ ٱلْخُرُوجِ",
+            "page_number": 520,
+            "juz_number": 26,
+            "translations": [
+                {
+                    "id": 100239,
+                    "resource_id": 20,
+                    "text": "The Day they will hear the blast [of the Horn] in truth. That is the Day of Emergence [from the graves]."
+                },
+                {
+                    "id": 218075,
+                    "resource_id": 39,
+                    "text": "Iaitu hari mereka mendengar pekikan seruan yang menyatakan perkara yang benar; hari seruan itu ialah hari masing-masing keluar dari kubur."
+                },
+                {
+                    "id": 1095649,
+                    "resource_id": 161,
+                    "text": "যেদিন সমস্ত মানুষ প্রকৃতই শুনতে পাবে এক (ভয়ংকর) ধ্বনি। সেদিনটি হবে (ভূগর্ভ থেকে সকল আত্মার) বের হওয়ার দিন।"
+                }
+            ]
+        },
+        {
+            "id": 4673,
+            "verse_number": 43,
+            "verse_key": "50:43",
+            "hizb_number": 52,
+            "rub_el_hizb_number": 208,
+            "ruku_number": 456,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّا نَحْنُ نُحْىِۦ وَنُمِيتُ وَإِلَيْنَا ٱلْمَصِيرُ",
+            "page_number": 520,
+            "juz_number": 26,
+            "translations": [
+                {
+                    "id": 100240,
+                    "resource_id": 20,
+                    "text": "Indeed, it is We who give life and cause death, and to Us is the destination"
+                },
+                {
+                    "id": 218076,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Kami menghidupkan dan mematikan, dan kepada Kamilah sahaja tempat kembali (sekalian makhluk)."
+                },
+                {
+                    "id": 1095650,
+                    "resource_id": 161,
+                    "text": "আমিই জীবন দেই, আমিই মুত্যু দেই, আর আমার কাছেই (সব্বাইকে) ফিরে আসতে হবে।"
+                }
+            ]
+        },
+        {
+            "id": 4674,
+            "verse_number": 44,
+            "verse_key": "50:44",
+            "hizb_number": 52,
+            "rub_el_hizb_number": 208,
+            "ruku_number": 456,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "يَوْمَ تَشَقَّقُ ٱلْأَرْضُ عَنْهُمْ سِرَاعًا ۚ ذَٰلِكَ حَشْرٌ عَلَيْنَا يَسِيرٌ",
+            "page_number": 520,
+            "juz_number": 26,
+            "translations": [
+                {
+                    "id": 100241,
+                    "resource_id": 20,
+                    "text": "On the Day the earth breaks away from them [and they emerge] rapidly; that is a gathering easy for Us."
+                },
+                {
+                    "id": 218077,
+                    "resource_id": 39,
+                    "text": "Pada hari bumi terbelah-belah untuk mereka segera keluar (daripadanya). Perbuatan (menghidupkan dan) menghimpunkan mereka di Padang Mahsyar itu, mudah bagi Kami melaksanakannya."
+                },
+                {
+                    "id": 1095651,
+                    "resource_id": 161,
+                    "text": "যেদিন পৃথিবী দীর্ণ বিদীর্ণ হবে, আর মানুষ ছুটে যাবে (হাশরের পানে)। এই একত্রীকরণ আমার জন্য খুবই সহজ।"
+                }
+            ]
+        },
+        {
+            "id": 4675,
+            "verse_number": 45,
+            "verse_key": "50:45",
+            "hizb_number": 52,
+            "rub_el_hizb_number": 208,
+            "ruku_number": 456,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "نَّحْنُ أَعْلَمُ بِمَا يَقُولُونَ ۖ وَمَآ أَنتَ عَلَيْهِم بِجَبَّارٍ ۖ فَذَكِّرْ بِٱلْقُرْءَانِ مَن يَخَافُ وَعِيدِ",
+            "page_number": 520,
+            "juz_number": 26,
+            "translations": [
+                {
+                    "id": 100242,
+                    "resource_id": 20,
+                    "text": "We are most knowing of what they say, and you are not over them a tyrant.<sup foot_note=197413>1</sup> But remind by the Qur’ān whoever fears My threat."
+                },
+                {
+                    "id": 218078,
+                    "resource_id": 39,
+                    "text": "Kami lebih mengetahui apa yang mereka katakan (dari berbagai tuduhan terhadapmu wahai Muhammad), dan engkau bukanlah seorang yang berkuasa memaksa mereka (supaya masing-masing beriman). Oleh itu, berilah peringatan dengan Al-Quran ini kepada orang yang takutkan janji azabKu."
+                },
+                {
+                    "id": 1095652,
+                    "resource_id": 161,
+                    "text": "তারা (তোমার বিরুদ্ধে) যা বলে তা আমি ভাল করেই জানি, তুমি তাদের উপর জবরদস্তিকারী নও। কাজেই যে আমার শাস্তির ভয়প্রদর্শনকে ভয় করে, তাকে তুমি কুরআনের সাহায্যে উপদেশ দাও।"
+                }
+            ]
+        },
+        {
+            "id": 4676,
+            "verse_number": 1,
+            "verse_key": "51:1",
+            "hizb_number": 52,
+            "rub_el_hizb_number": 208,
+            "ruku_number": 457,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " وَٱلذَّٰرِيَـٰتِ ذَرْوًا",
+            "page_number": 520,
+            "juz_number": 26,
+            "translations": [
+                {
+                    "id": 100261,
+                    "resource_id": 20,
+                    "text": "By the [winds] scattering [dust], dispersing [it]"
+                },
+                {
+                    "id": 218101,
+                    "resource_id": 39,
+                    "text": "Demi angin yang menerbang dan menaburkan (debu, biji-bijian benih, dan lain-lainnya), dengan penerbangan dan penaburan yang sesungguh-sungguhnya, -"
+                },
+                {
+                    "id": 1095653,
+                    "resource_id": 161,
+                    "text": "শপথ সেই বাতাসের যা ধূলাবালি উড়ায়,"
+                }
+            ]
+        },
+        {
+            "id": 4677,
+            "verse_number": 2,
+            "verse_key": "51:2",
+            "hizb_number": 52,
+            "rub_el_hizb_number": 208,
+            "ruku_number": 457,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَٱلْحَـٰمِلَـٰتِ وِقْرًا",
+            "page_number": 520,
+            "juz_number": 26,
+            "translations": [
+                {
+                    "id": 100283,
+                    "resource_id": 20,
+                    "text": "And the [clouds] carrying a load [of water]"
+                },
+                {
+                    "id": 218227,
+                    "resource_id": 39,
+                    "text": "Dan awan yang membawa dan mengangkut muatannya (ke tempat yang dikehendaki), -"
+                },
+                {
+                    "id": 1095654,
+                    "resource_id": 161,
+                    "text": "আর যা উঠিয়ে নেয় আর বহন করে ভারী বোঝা,"
+                }
+            ]
+        },
+        {
+            "id": 4678,
+            "verse_number": 3,
+            "verse_key": "51:3",
+            "hizb_number": 52,
+            "rub_el_hizb_number": 208,
+            "ruku_number": 457,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَٱلْجَـٰرِيَـٰتِ يُسْرًا",
+            "page_number": 520,
+            "juz_number": 26,
+            "translations": [
+                {
+                    "id": 100292,
+                    "resource_id": 20,
+                    "text": "And the ships sailing with ease"
+                },
+                {
+                    "id": 214859,
+                    "resource_id": 39,
+                    "text": "Dan kapal-kapal yang belayar laju dengan kemudahan yang diberikan kepadanya, -"
+                },
+                {
+                    "id": 1095655,
+                    "resource_id": 161,
+                    "text": "আর যা ধীর ও শান্ত গতিতে বয়ে চলে"
+                }
+            ]
+        },
+        {
+            "id": 4679,
+            "verse_number": 4,
+            "verse_key": "51:4",
+            "hizb_number": 52,
+            "rub_el_hizb_number": 208,
+            "ruku_number": 457,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَٱلْمُقَسِّمَـٰتِ أَمْرًا",
+            "page_number": 520,
+            "juz_number": 26,
+            "translations": [
+                {
+                    "id": 100304,
+                    "resource_id": 20,
+                    "text": "And the [angels] apportioning [each] matter,"
+                },
+                {
+                    "id": 218145,
+                    "resource_id": 39,
+                    "text": "Dan malaikat-malaikat yang membahagi-bahagikan segala perkara yang mereka ditugaskan membahagikannya;"
+                },
+                {
+                    "id": 1095656,
+                    "resource_id": 161,
+                    "text": "আর যারা কর্ম বণ্টন করে,"
+                }
+            ]
+        },
+        {
+            "id": 4680,
+            "verse_number": 5,
+            "verse_key": "51:5",
+            "hizb_number": 52,
+            "rub_el_hizb_number": 208,
+            "ruku_number": 457,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّمَا تُوعَدُونَ لَصَادِقٌ",
+            "page_number": 520,
+            "juz_number": 26,
+            "translations": [
+                {
+                    "id": 100316,
+                    "resource_id": 20,
+                    "text": "Indeed, what you are promised is true."
+                },
+                {
+                    "id": 218149,
+                    "resource_id": 39,
+                    "text": "(Sumpah demi sumpah) bahawa sesungguhnya segala yang dijanjikan kepada kamu (mengenai hari akhirat) tetap benar;"
+                },
+                {
+                    "id": 1095657,
+                    "resource_id": 161,
+                    "text": "তোমাদেরকে যার ও‘য়াদা দেয়া হয়েছে তা অবশ্যই সত্য।"
+                }
+            ]
+        },
+        {
+            "id": 4681,
+            "verse_number": 6,
+            "verse_key": "51:6",
+            "hizb_number": 52,
+            "rub_el_hizb_number": 208,
+            "ruku_number": 457,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِنَّ ٱلدِّينَ لَوَٰقِعٌ",
+            "page_number": 520,
+            "juz_number": 26,
+            "translations": [
+                {
+                    "id": 100328,
+                    "resource_id": 20,
+                    "text": "And indeed, the recompense is to occur."
+                },
+                {
+                    "id": 218158,
+                    "resource_id": 39,
+                    "text": "Dan bahawa sesungguhnya balasan amal, tetap berlaku."
+                },
+                {
+                    "id": 1095658,
+                    "resource_id": 161,
+                    "text": "কর্মফল দিবস অবশ্যই আসবে।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 16,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 16
+    }
+}

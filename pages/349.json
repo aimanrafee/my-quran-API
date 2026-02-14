@@ -1,0 +1,431 @@
+{
+    "verses": [
+        {
+            "id": 2778,
+            "verse_number": 105,
+            "verse_key": "23:105",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 139,
+            "ruku_number": 300,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "أَلَمْ تَكُنْ ءَايَـٰتِى تُتْلَىٰ عَلَيْكُمْ فَكُنتُم بِهَا تُكَذِّبُونَ",
+            "page_number": 349,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97807,
+                    "resource_id": 20,
+                    "text": "[It will be said], \"Were not My verses recited to you and you used to deny them?\""
+                },
+                {
+                    "id": 215675,
+                    "resource_id": 39,
+                    "text": "(Sambil dikatakan kepada mereka): \"Bukankah ayat-ayatKu selalu dibacakan kepada kamu, lalu kamu terus-menerus mendustakannya?\""
+                },
+                {
+                    "id": 1093755,
+                    "resource_id": 161,
+                    "text": "(তাদেরকে বলা হবে) ‘তোমাদের নিকট কি আমার আয়াতগুলো আবৃত্তি করা হত না? তোমরা সেগুলোকে মিথ্যে জেনে প্রত্যাখ্যান করেছিলে।"
+                }
+            ]
+        },
+        {
+            "id": 2779,
+            "verse_number": 106,
+            "verse_key": "23:106",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 139,
+            "ruku_number": 300,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالُوا۟ رَبَّنَا غَلَبَتْ عَلَيْنَا شِقْوَتُنَا وَكُنَّا قَوْمًا ضَآلِّينَ",
+            "page_number": 349,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97808,
+                    "resource_id": 20,
+                    "text": "They will say, \"Our Lord, our wretchedness overcame us, and we were a people astray."
+                },
+                {
+                    "id": 215676,
+                    "resource_id": 39,
+                    "text": "Mereka menjawab: \"Wahai Tuhan kami, kami telah dikalahkan oleh sebab-sebab kecelakaan kami, dan dengan itu menjadilah kami kaum yang sesat."
+                },
+                {
+                    "id": 1093756,
+                    "resource_id": 161,
+                    "text": "তারা বলবে- ‘হে আমাদের প্রতিপালক! দুর্ভাগ্য আমাদেরকে পরাস্ত করেছিল, আর আমরা ছিলাম এক পথভ্রষ্ট জাতি।"
+                }
+            ]
+        },
+        {
+            "id": 2780,
+            "verse_number": 107,
+            "verse_key": "23:107",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 139,
+            "ruku_number": 300,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "رَبَّنَآ أَخْرِجْنَا مِنْهَا فَإِنْ عُدْنَا فَإِنَّا ظَـٰلِمُونَ",
+            "page_number": 349,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97809,
+                    "resource_id": 20,
+                    "text": "Our Lord, remove us from it, and if we were to return [to evil], we would indeed be wrongdoers.\""
+                },
+                {
+                    "id": 215677,
+                    "resource_id": 39,
+                    "text": "\"Wahai Tuhan kami, keluarkanlah kami dari neraka ini (serta kembalikanlah kami ke dunia); setelah itu kalau kami kembali lagi (mengerjakan kufur dan maksiat), maka sesungguhnya kami orang-orang yang zalim.\""
+                },
+                {
+                    "id": 1093757,
+                    "resource_id": 161,
+                    "text": "হে আমাদের প্রতিপালক! আমাদেরকে এত্থেকে বের করে নাও, আমরা যদি আবার কুফুরী করি তাহলে আমরা তো যালিম হিসেবে পরিগণিত হব।"
+                }
+            ]
+        },
+        {
+            "id": 2781,
+            "verse_number": 108,
+            "verse_key": "23:108",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 139,
+            "ruku_number": 300,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ ٱخْسَـُٔوا۟ فِيهَا وَلَا تُكَلِّمُونِ",
+            "page_number": 349,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97810,
+                    "resource_id": 20,
+                    "text": "He will say, \"Remain despised therein and do not speak to Me."
+                },
+                {
+                    "id": 215678,
+                    "resource_id": 39,
+                    "text": "(Allah) berfirman: \"Diamlah kamu dengan kehinaan di dalam neraka, dan janganlah kamu berkata-kata (memohon sesuatupun) kepadaKu!"
+                },
+                {
+                    "id": 1093758,
+                    "resource_id": 161,
+                    "text": "আল্লাহ বলবেন- ‘তোমরা ধিকৃত অবস্থায় এখানেই পড়ে থাক, আমার সঙ্গে কোন কথা বল না।’"
+                }
+            ]
+        },
+        {
+            "id": 2782,
+            "verse_number": 109,
+            "verse_key": "23:109",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 139,
+            "ruku_number": 300,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّهُۥ كَانَ فَرِيقٌ مِّنْ عِبَادِى يَقُولُونَ رَبَّنَآ ءَامَنَّا فَٱغْفِرْ لَنَا وَٱرْحَمْنَا وَأَنتَ خَيْرُ ٱلرَّٰحِمِينَ",
+            "page_number": 349,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97811,
+                    "resource_id": 20,
+                    "text": "Indeed, there was a party of My servants who said, 'Our Lord, we have believed, so forgive us and have mercy upon us, and You are the best of the merciful.'"
+                },
+                {
+                    "id": 215679,
+                    "resource_id": 39,
+                    "text": "\"Sesungguhnya ada sepuak diri hamba-hambaKu (di dunia dahulu) memohon kepadaKu dengan berkata: ` Wahai Tuhan kami, kami telah beriman; oleh itu ampunkanlah dosa kami serta berilah rahmat kepada kami, dan sememangnya Engkaulah jua sebaik-baik Pemberi rahmat '."
+                },
+                {
+                    "id": 1093759,
+                    "resource_id": 161,
+                    "text": "আমার বান্দাহদের একদল বলত- ‘হে আমাদের প্রতিপালক! আমরা ঈমান এনেছি, তুমি আমাদেরকে ক্ষমা কর, আমাদের প্রতি দয়া কর, তুমি তো সর্বশ্রেষ্ঠ দয়ালু।’"
+                }
+            ]
+        },
+        {
+            "id": 2783,
+            "verse_number": 110,
+            "verse_key": "23:110",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 139,
+            "ruku_number": 300,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَٱتَّخَذْتُمُوهُمْ سِخْرِيًّا حَتَّىٰٓ أَنسَوْكُمْ ذِكْرِى وَكُنتُم مِّنْهُمْ تَضْحَكُونَ",
+            "page_number": 349,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97813,
+                    "resource_id": 20,
+                    "text": "But you took them in mockery to the point that they made you forget My remembrance, and you used to laugh at them."
+                },
+                {
+                    "id": 215681,
+                    "resource_id": 39,
+                    "text": "\"Maka kamu jadikan mereka ejek-ejekan sehingga ejek-ejekan kamu kepada mereka menyebabkan kamu lupa mengingati balasanKu, dan kamu pula sentiasa tertawakan mereka."
+                },
+                {
+                    "id": 1093760,
+                    "resource_id": 161,
+                    "text": "কিন্তু তাদেরকে নিয়ে তোমরা হাসি তামাশা করতে এমনকি তা তোমাদেরকে আমার কথা ভুলিয়ে দিয়েছিল, তোমরা তাদেরকে নিয়ে হাসি-ঠাট্টাই করতে।"
+                }
+            ]
+        },
+        {
+            "id": 2784,
+            "verse_number": 111,
+            "verse_key": "23:111",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 139,
+            "ruku_number": 300,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "إِنِّى جَزَيْتُهُمُ ٱلْيَوْمَ بِمَا صَبَرُوٓا۟ أَنَّهُمْ هُمُ ٱلْفَآئِزُونَ",
+            "page_number": 349,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97814,
+                    "resource_id": 20,
+                    "text": "Indeed, I have rewarded them this Day for their patient endurance - that they are the attainers [of success].\""
+                },
+                {
+                    "id": 215682,
+                    "resource_id": 39,
+                    "text": "\"Sesungguhnya Aku membalas mereka pada hari ini (dengan sebaik-baik balasan) disebabkan kesabaran mereka; sesungguhnya mereka itulah orang-orang yang berjaya\"."
+                },
+                {
+                    "id": 1093761,
+                    "resource_id": 161,
+                    "text": "আজ আমি তাদেরকে পুরস্কৃত করলাম তাদের ধৈর্য ধারণের কারণে, আজ তারাই তো সফলকাম।"
+                }
+            ]
+        },
+        {
+            "id": 2785,
+            "verse_number": 112,
+            "verse_key": "23:112",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 139,
+            "ruku_number": 300,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَـٰلَ كَمْ لَبِثْتُمْ فِى ٱلْأَرْضِ عَدَدَ سِنِينَ",
+            "page_number": 349,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97815,
+                    "resource_id": 20,
+                    "text": "[Allāh] will say, \"How long did you remain on earth in number of years?\""
+                },
+                {
+                    "id": 215683,
+                    "resource_id": 39,
+                    "text": "Allah bertanya lagi (kepada mereka yang kafir itu): \"Berapa tahun lamanya kamu tinggal di bumi?\""
+                },
+                {
+                    "id": 1093762,
+                    "resource_id": 161,
+                    "text": "আল্লাহ বলবেন : ‘পৃথিবীতে কয় বছর তোমরা অবস্থান করেছিলে?’"
+                }
+            ]
+        },
+        {
+            "id": 2786,
+            "verse_number": 113,
+            "verse_key": "23:113",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 139,
+            "ruku_number": 300,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالُوا۟ لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍ فَسْـَٔلِ ٱلْعَآدِّينَ",
+            "page_number": 349,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97816,
+                    "resource_id": 20,
+                    "text": "They will say, \"We remained a day or part of a day; ask those who enumerate.\""
+                },
+                {
+                    "id": 215684,
+                    "resource_id": 39,
+                    "text": "Mereka menjawab: \"Kami tinggal (di dunia) selama sehari atau sebahagian dari sehari; maka bertanyalah kepada golongan (malaikat) yang menjaga urusan menghitung"
+                },
+                {
+                    "id": 1093763,
+                    "resource_id": 161,
+                    "text": "তারা বলবে : ‘আমরা একদিন বা এক দিনের কিছু অংশ অবস্থান করেছি। অতএব তুমি গণনাকারীদের জিজ্ঞেস কর।’"
+                }
+            ]
+        },
+        {
+            "id": 2787,
+            "verse_number": 114,
+            "verse_key": "23:114",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 139,
+            "ruku_number": 300,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَـٰلَ إِن لَّبِثْتُمْ إِلَّا قَلِيلًا ۖ لَّوْ أَنَّكُمْ كُنتُمْ تَعْلَمُونَ",
+            "page_number": 349,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97817,
+                    "resource_id": 20,
+                    "text": "He will say, \"You stayed not but a little - if only you had known."
+                },
+                {
+                    "id": 215685,
+                    "resource_id": 39,
+                    "text": "Allah berfirman: \"Kamu tidak tinggal (di dunia) melainkan sedikit masa sahaja, kalau kamu dahulu mengetahui hal ini (tentulah kamu bersiap sedia)."
+                },
+                {
+                    "id": 1093764,
+                    "resource_id": 161,
+                    "text": "তিনি বলবেন : ‘তোমরা অল্প সময়ই অবস্থান করেছিলে, তোমরা যদি জানতে!"
+                }
+            ]
+        },
+        {
+            "id": 2788,
+            "verse_number": 115,
+            "verse_key": "23:115",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 139,
+            "ruku_number": 300,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَـٰكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا لَا تُرْجَعُونَ",
+            "page_number": 349,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97818,
+                    "resource_id": 20,
+                    "text": "Then did you think that We created you uselessly and that to Us you would not be returned?\""
+                },
+                {
+                    "id": 215686,
+                    "resource_id": 39,
+                    "text": "\"Maka adakah patut kamu menyangka bahawa Kami hanya menciptakan kamu (dari tiada kepada ada) sahaja dengan tiada sebarang hikmat pada ciptaan itu? Dan kamu (menyangka pula) tidak akan dikembalikan kepada Kami?\""
+                },
+                {
+                    "id": 1093765,
+                    "resource_id": 161,
+                    "text": "তোমরা কি ভেবেছিলে যে, আমি তোমাদেরকে তামাশার বস্তু হিসেবে সৃষ্টি করেছি আর তোমাদেরকে আমার কাছে ফিরিয়ে আনা হবে না?"
+                }
+            ]
+        },
+        {
+            "id": 2789,
+            "verse_number": 116,
+            "verse_key": "23:116",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 139,
+            "ruku_number": 300,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَتَعَـٰلَى ٱللَّهُ ٱلْمَلِكُ ٱلْحَقُّ ۖ لَآ إِلَـٰهَ إِلَّا هُوَ رَبُّ ٱلْعَرْشِ ٱلْكَرِيمِ",
+            "page_number": 349,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97819,
+                    "resource_id": 20,
+                    "text": "So exalted is Allāh, the Sovereign,<sup foot_note=196877>1</sup> the Truth;<sup foot_note=196876>2</sup> there is no deity except Him, Lord of the Noble Throne."
+                },
+                {
+                    "id": 215687,
+                    "resource_id": 39,
+                    "text": "Maka (dengan yang demikian) Maha Tinggilah Allah Yang Menguasai seluruh alam, lagi Yang Tetap Benar; tiada Tuhan melainkan Dia, Tuhan yang mempunyai Arasy yang mulia."
+                },
+                {
+                    "id": 1093766,
+                    "resource_id": 161,
+                    "text": "সুউচ্চ মহান আল্লাহ যিনি প্রকৃত মালিক, তিনি ছাড়া সত্যিকারের কোন ইলাহ নেই, সম্মানিত আরশের অধিপতি।"
+                }
+            ]
+        },
+        {
+            "id": 2790,
+            "verse_number": 117,
+            "verse_key": "23:117",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 139,
+            "ruku_number": 300,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَن يَدْعُ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ لَا بُرْهَـٰنَ لَهُۥ بِهِۦ فَإِنَّمَا حِسَابُهُۥ عِندَ رَبِّهِۦٓ ۚ إِنَّهُۥ لَا يُفْلِحُ ٱلْكَـٰفِرُونَ",
+            "page_number": 349,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97820,
+                    "resource_id": 20,
+                    "text": "And whoever invokes besides Allāh another deity for which he has no proof - then his account is only with his Lord. Indeed, the disbelievers will not succeed."
+                },
+                {
+                    "id": 215688,
+                    "resource_id": 39,
+                    "text": "Dan sesiapa yang menyembah tuhan yang lain bersama-sama Allah, dengan tidak berdasarkan sebarang keterangan mengenainya, maka sesungguhnya hitungannya (dan balasan amalnya yang jahat itu) disediakan di sisi Tuhannya. Sesungguhnya orang-orang yang kafir tidak akan berjaya."
+                },
+                {
+                    "id": 1093767,
+                    "resource_id": 161,
+                    "text": "যে ব্যক্তি আল্লাহর সঙ্গে অন্য ইলাহকেও ডাকে, এ ব্যাপারে তার কাছে কোন দলীল প্রমাণ নেই, একমাত্র তার প্রতিপালকের কাছেই তার হিসাব হবে, কাফিরগণ অবশ্যই সফলকাম হবে না।"
+                }
+            ]
+        },
+        {
+            "id": 2791,
+            "verse_number": 118,
+            "verse_key": "23:118",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 139,
+            "ruku_number": 300,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَقُل رَّبِّ ٱغْفِرْ وَٱرْحَمْ وَأَنتَ خَيْرُ ٱلرَّٰحِمِينَ",
+            "page_number": 349,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97821,
+                    "resource_id": 20,
+                    "text": "And, [O Muḥammad], say, \"My Lord, forgive and have mercy, and You are the best of the merciful.\""
+                },
+                {
+                    "id": 215693,
+                    "resource_id": 39,
+                    "text": "Dan berdoalah (wahai Muhammad dengan berkata): \"Wahai Tuhanku, berikanlah ampun dan kurniakan rahmat, dan sememangnya Engkaulah sahaja sebaik-baik Pemberi rahmat!\""
+                },
+                {
+                    "id": 1093768,
+                    "resource_id": 161,
+                    "text": "কাজেই বল : ‘হে আমার প্রতিপালক! ক্ষমা কর ও রহম কর, তুমি রহমকারীদের মধ্যে সর্বশ্রেষ্ঠ।’"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 14,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 14
+    }
+}

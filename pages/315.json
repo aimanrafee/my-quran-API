@@ -1,0 +1,401 @@
+{
+    "verses": [
+        {
+            "id": 2400,
+            "verse_number": 52,
+            "verse_key": "20:52",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 271,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ عِلْمُهَا عِندَ رَبِّى فِى كِتَـٰبٍ ۖ لَّا يَضِلُّ رَبِّى وَلَا يَنسَى",
+            "page_number": 315,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97335,
+                    "resource_id": 20,
+                    "text": "[Moses] said, \"The knowledge thereof is with my Lord in a record. My Lord neither errs nor forgets.\""
+                },
+                {
+                    "id": 215207,
+                    "resource_id": 39,
+                    "text": "Nabi Musa menjawab: \"Pengetahuan mengenainya ada di sisi Tuhanku, tertulis di dalam sebuah Kitab; Tuhanku tidak pernah keliru dan Ia juga tidak pernah lupa\"."
+                },
+                {
+                    "id": 1093377,
+                    "resource_id": 161,
+                    "text": "মূসা বলল, ‘তার জ্ঞান আমার প্রতিপালকের কাছে (রক্ষিত) কিতাবে আছে, আমার প্রতিপালক ভুল করেন না, ভুলেও যান না।’"
+                }
+            ]
+        },
+        {
+            "id": 2401,
+            "verse_number": 53,
+            "verse_key": "20:53",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 271,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ مَهْدًا وَسَلَكَ لَكُمْ فِيهَا سُبُلًا وَأَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَخْرَجْنَا بِهِۦٓ أَزْوَٰجًا مِّن نَّبَاتٍ شَتَّىٰ",
+            "page_number": 315,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97336,
+                    "resource_id": 20,
+                    "text": "[It is He] who has made for you the earth as a bed [spread out] and inserted therein for you roadways and sent down from the sky, rain and produced thereby categories of various plants."
+                },
+                {
+                    "id": 215208,
+                    "resource_id": 39,
+                    "text": "(Dia lah Tuhan) yang telah menjadikan bumi bagi kamu sebagai hamparan, dan Ia telah mengadakan bagi kamu padanya jalan-jalan lalu-lalang; dan Ia juga telah menurunkan hujan dari langit. Maka Kami keluarkan dengannya berjenis-jenis tanaman dan buah-buahan yang berlainan keadaannya."
+                },
+                {
+                    "id": 1093378,
+                    "resource_id": 161,
+                    "text": "যিনি তোমাদের জন্য যমীনকে করেছেন বিছানা, আর তাতে তোমাদের জন্য ক’রে দিয়েছেন চলার পথ। আর আকাশ থেকে তিনি পানি বর্ষণ করেন আর তা দিয়ে আমি বিভিন্ন লতা-যুগল উদগত করি যার প্রত্যেকটি অন্যটি থেকে আলাদা।"
+                }
+            ]
+        },
+        {
+            "id": 2402,
+            "verse_number": 54,
+            "verse_key": "20:54",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 271,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "كُلُوا۟ وَٱرْعَوْا۟ أَنْعَـٰمَكُمْ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّأُو۟لِى ٱلنُّهَىٰ",
+            "page_number": 315,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97337,
+                    "resource_id": 20,
+                    "text": "Eat [therefrom] and pasture your livestock. Indeed in that are signs for those of intelligence."
+                },
+                {
+                    "id": 215214,
+                    "resource_id": 39,
+                    "text": "Makanlah kamu daripadanya dan berilah makan binatang-binatang ternak kamu; sesungguhnya semuanya itu mengandungi tanda-tanda yang membuktikan kemurahan Allah, bagi orang-orang yang berakal fikiran."
+                },
+                {
+                    "id": 1093379,
+                    "resource_id": 161,
+                    "text": "তোমরা খাও আর তোমাদের গবাদি পশু চরাও, এতে বিবেকবানদের জন্য বহু নিদর্শন আছে।"
+                }
+            ]
+        },
+        {
+            "id": 2403,
+            "verse_number": 55,
+            "verse_key": "20:55",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 126,
+            "ruku_number": 272,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "۞ مِنْهَا خَلَقْنَـٰكُمْ وَفِيهَا نُعِيدُكُمْ وَمِنْهَا نُخْرِجُكُمْ تَارَةً أُخْرَىٰ",
+            "page_number": 315,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97338,
+                    "resource_id": 20,
+                    "text": "From it [i.e., the earth] We created you, and into it We will return you, and from it We will extract you another time."
+                },
+                {
+                    "id": 215210,
+                    "resource_id": 39,
+                    "text": "Dari bumilah Kami ciptakan kamu, dan ke dalamnya Kami akan mengembalikan kamu, dan daripadanya pula Kami akan mengeluarkan kamu sekali lagi."
+                },
+                {
+                    "id": 1093380,
+                    "resource_id": 161,
+                    "text": "মাটি থেকে আমি তোমাদেরকে সৃষ্টি করেছি, তাতেই আমি তোমাদেরকে ফিরিয়ে নেব, আর তাত্থেকে তোমাদেরকে আবার বের করব।"
+                }
+            ]
+        },
+        {
+            "id": 2404,
+            "verse_number": 56,
+            "verse_key": "20:56",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 126,
+            "ruku_number": 272,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَقَدْ أَرَيْنَـٰهُ ءَايَـٰتِنَا كُلَّهَا فَكَذَّبَ وَأَبَىٰ",
+            "page_number": 315,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97339,
+                    "resource_id": 20,
+                    "text": "And We certainly showed him [i.e., Pharaoh] Our signs - all of them - but he denied and refused."
+                },
+                {
+                    "id": 215211,
+                    "resource_id": 39,
+                    "text": "Dan demi sesungguhnya! Kami telah tunjukkan kepada Firaun segala tanda-tanda yang membukti kekuasaan Kami; dalam pada itu ia mendustakannya dan enggan beriman."
+                },
+                {
+                    "id": 1093381,
+                    "resource_id": 161,
+                    "text": "আমি তাকে (অর্থাৎ ফেরাউনকে) আমার যাবতীয় নিদর্শন দেখিয়েছিলাম কিন্তু সে মিথ্যে মনে ক’রে প্রত্যাখ্যান করেছে ও অমান্য করেছে।"
+                }
+            ]
+        },
+        {
+            "id": 2405,
+            "verse_number": 57,
+            "verse_key": "20:57",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 126,
+            "ruku_number": 272,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ أَجِئْتَنَا لِتُخْرِجَنَا مِنْ أَرْضِنَا بِسِحْرِكَ يَـٰمُوسَىٰ",
+            "page_number": 315,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97340,
+                    "resource_id": 20,
+                    "text": "He said, \"Have you come to us to drive us out of our land with your magic, O Moses?"
+                },
+                {
+                    "id": 215212,
+                    "resource_id": 39,
+                    "text": "Firaun berkata: \"Patutkah engkau datang kepada kami untuk mengeluarkan kami dari negeri kami dengan sihirmu, hai Musa?"
+                },
+                {
+                    "id": 1093382,
+                    "resource_id": 161,
+                    "text": "সে বলল, ‘হে মূসা! তুমি কি তোমার যাদুর বলে আমাদেরকে আমাদের দেশ থেকে বের করে দেয়ার জন্য এসেছ?"
+                }
+            ]
+        },
+        {
+            "id": 2406,
+            "verse_number": 58,
+            "verse_key": "20:58",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 126,
+            "ruku_number": 272,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَلَنَأْتِيَنَّكَ بِسِحْرٍ مِّثْلِهِۦ فَٱجْعَلْ بَيْنَنَا وَبَيْنَكَ مَوْعِدًا لَّا نُخْلِفُهُۥ نَحْنُ وَلَآ أَنتَ مَكَانًا سُوًى",
+            "page_number": 315,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97341,
+                    "resource_id": 20,
+                    "text": "Then we will surely bring you magic like it, so make between us and you an appointment, which we will not fail to keep and neither will you, in a place assigned.\"<sup foot_note=196749>1</sup>"
+                },
+                {
+                    "id": 215213,
+                    "resource_id": 39,
+                    "text": "\"Kalau demikian, sesungguhnya kami juga akan bawakan kepadamu sihir yang seperti itu untuk melawanmu! Maka tentukanlah suatu tempoh pertemuan antara kami denganmu, yang kita bersama tidak akan memungkirinya, di suatu tempat yang sesuai bagi kedua belah pihak\"."
+                },
+                {
+                    "id": 1093383,
+                    "resource_id": 161,
+                    "text": "তাহলে আমরাও অবশ্য অবশ্যই তোমার কাছে অনুরূপ যাদু হাযির করব, কাজেই একটা মধ্যবর্তী স্থানে আমাদের ও তোমাদের মিলিত হওয়ার জন্য একটা নির্দিষ্ট সময় নির্ধারণ কর যার খেলাফ আমরাও করব না, আর তুমিও করবে না।’"
+                }
+            ]
+        },
+        {
+            "id": 2407,
+            "verse_number": 59,
+            "verse_key": "20:59",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 126,
+            "ruku_number": 272,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ مَوْعِدُكُمْ يَوْمُ ٱلزِّينَةِ وَأَن يُحْشَرَ ٱلنَّاسُ ضُحًى",
+            "page_number": 315,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97342,
+                    "resource_id": 20,
+                    "text": "[Moses] said, \"Your appointment is on the day of the festival when the people assemble at mid-morning.\"<sup foot_note=196750>1</sup>"
+                },
+                {
+                    "id": 215218,
+                    "resource_id": 39,
+                    "text": "Nabi Musa menjawab: \"Tempoh yang aku tetapkan untuk kamu itu ialah hari perayaan, dan hendaklah orang ramai berhimpun pada waktu dhuha\"."
+                },
+                {
+                    "id": 1093384,
+                    "resource_id": 161,
+                    "text": "মূসা বলল, ‘তোমাদের (সঙ্গে) ওয়া‘দার নির্ধারিত সময় হল উৎসবের দিন আর দুপুরের আগেই মানুষ যেন পৌঁছে যায়।’"
+                }
+            ]
+        },
+        {
+            "id": 2408,
+            "verse_number": 60,
+            "verse_key": "20:60",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 126,
+            "ruku_number": 272,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَتَوَلَّىٰ فِرْعَوْنُ فَجَمَعَ كَيْدَهُۥ ثُمَّ أَتَىٰ",
+            "page_number": 315,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97344,
+                    "resource_id": 20,
+                    "text": "So Pharaoh went away, put together his plan, and then came [to Moses]."
+                },
+                {
+                    "id": 215216,
+                    "resource_id": 39,
+                    "text": "Maka Firaun pun berangkat dari majlis itu. Ia mengumpulkan ahli-ahli sihir untuk menjalankan tipu-dayanya, kemudian ia datang ke tempat perlawanan."
+                },
+                {
+                    "id": 1093385,
+                    "resource_id": 161,
+                    "text": "তখন ফেরাউন উঠে গেল, অতঃপর তার কলা-কৌশল একত্র করল, তারপর ফিরে এল।"
+                }
+            ]
+        },
+        {
+            "id": 2409,
+            "verse_number": 61,
+            "verse_key": "20:61",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 126,
+            "ruku_number": 272,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ لَهُم مُّوسَىٰ وَيْلَكُمْ لَا تَفْتَرُوا۟ عَلَى ٱللَّهِ كَذِبًا فَيُسْحِتَكُم بِعَذَابٍ ۖ وَقَدْ خَابَ مَنِ ٱفْتَرَىٰ",
+            "page_number": 315,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97345,
+                    "resource_id": 20,
+                    "text": "Moses said to them [i.e., the magicians summoned by Pharaoh], \"Woe to you! Do not invent a lie against Allāh or He will exterminate you with a punishment; and he has failed who invents [such falsehood].\""
+                },
+                {
+                    "id": 215217,
+                    "resource_id": 39,
+                    "text": "Nabi Musa berkata kepada mereka: \"Celakalah kamu kelak! Janganlah kamu mendakwa secara dusta terhadap Allah, kerana dengan sebab itu Ia akan membinasakan kamu dengan azab seksa; dan sesungguhnya orang yang berdusta, tetap hampa dan kecewa\"."
+                },
+                {
+                    "id": 1093386,
+                    "resource_id": 161,
+                    "text": "মূসা তাদেরকে বলল, ‘হায় তোমাদের দুর্ভাগ্য! তোমরা আল্লাহর প্রতি মিথ্যে আরোপ করো না, করলে তিনি তোমাদেরকে ভয়ানক শাস্তি দ্বারা ধ্বংস করে দেবেন। যে মিথ্যে আরোপ করে সে-ই ব্যর্থ হয়।’"
+                }
+            ]
+        },
+        {
+            "id": 2410,
+            "verse_number": 62,
+            "verse_key": "20:62",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 126,
+            "ruku_number": 272,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَتَنَـٰزَعُوٓا۟ أَمْرَهُم بَيْنَهُمْ وَأَسَرُّوا۟ ٱلنَّجْوَىٰ",
+            "page_number": 315,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97346,
+                    "resource_id": 20,
+                    "text": "So they disputed over their affair among themselves and concealed their private conversation."
+                },
+                {
+                    "id": 215226,
+                    "resource_id": 39,
+                    "text": "Maka merekapun berbantahan dan berunding sesama sendiri mengenai perkara sihir mereka, dan mereka rahsiakan apa yang mereka rundingkan."
+                },
+                {
+                    "id": 1093387,
+                    "resource_id": 161,
+                    "text": "তখন তারা তাদের কাজ-কর্ম নিয়ে নিজেদের মধ্যে বাদানুবাদ করল আর তারা গোপনে পরামর্শ করল।"
+                }
+            ]
+        },
+        {
+            "id": 2411,
+            "verse_number": 63,
+            "verse_key": "20:63",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 126,
+            "ruku_number": 272,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالُوٓا۟ إِنْ هَـٰذَٰنِ لَسَـٰحِرَٰنِ يُرِيدَانِ أَن يُخْرِجَاكُم مِّنْ أَرْضِكُم بِسِحْرِهِمَا وَيَذْهَبَا بِطَرِيقَتِكُمُ ٱلْمُثْلَىٰ",
+            "page_number": 315,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97347,
+                    "resource_id": 20,
+                    "text": "They said, \"Indeed, these are two magicians who want to drive you out of your land with their magic and do away with your most exemplary way [i.e., religion or tradition]."
+                },
+                {
+                    "id": 215219,
+                    "resource_id": 39,
+                    "text": "Mereka berkata: \"Dua orang ini, sebenarnya dua ahli sihir yang bertujuan hendak mengeluarkan kamu dari negeri kamu dengan sihir mereka, dan hendak melenyapkan kepercayaan serta adat peraturan kamu yang utama."
+                },
+                {
+                    "id": 1093388,
+                    "resource_id": 161,
+                    "text": "তারা বলল, ‘এ দু’জন নিশ্চিতই যাদুকর, তারা তাদের যাদুর বলে তোমাদেরকে তোমাদের দেশ থেকে বের করে দিতে চায় আর তোমাদের উৎকৃষ্ট জীবন পদ্ধতি মুছে ফেলতে চায়।"
+                }
+            ]
+        },
+        {
+            "id": 2412,
+            "verse_number": 64,
+            "verse_key": "20:64",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 126,
+            "ruku_number": 272,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَأَجْمِعُوا۟ كَيْدَكُمْ ثُمَّ ٱئْتُوا۟ صَفًّا ۚ وَقَدْ أَفْلَحَ ٱلْيَوْمَ مَنِ ٱسْتَعْلَىٰ",
+            "page_number": 315,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97348,
+                    "resource_id": 20,
+                    "text": "So resolve upon your plan and then come [forward] in line. And he has succeeded today who overcomes.\""
+                },
+                {
+                    "id": 215220,
+                    "resource_id": 39,
+                    "text": "\"Oleh itu, satukanlah segala cara helah kamu, kemudian datanglah beramai-ramai dalam satu barisan untuk menentangnya; dan sesungguhnya beruntunglah orang yang menang pada hari ini\"."
+                },
+                {
+                    "id": 1093389,
+                    "resource_id": 161,
+                    "text": "কাজেই তোমরা তোমাদের কলা-কৌশল একত্রিত কর, অতঃপর সারিবদ্ধ হয়ে হাজির হয়ে যাও। আজ যে বিজয় লাভ করবে, সে-ই (বরাবর) সফল হবে।’"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 13,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 13
+    }
+}

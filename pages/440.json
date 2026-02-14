@@ -1,0 +1,401 @@
+{
+    "verses": [
+        {
+            "id": 3705,
+            "verse_number": 45,
+            "verse_key": "35:45",
+            "hizb_number": 44,
+            "rub_el_hizb_number": 176,
+            "ruku_number": 382,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَوْ يُؤَاخِذُ ٱللَّهُ ٱلنَّاسَ بِمَا كَسَبُوا۟ مَا تَرَكَ عَلَىٰ ظَهْرِهَا مِن دَآبَّةٍ وَلَـٰكِن يُؤَخِّرُهُمْ إِلَىٰٓ أَجَلٍ مُّسَمًّى ۖ فَإِذَا جَآءَ أَجَلُهُمْ فَإِنَّ ٱللَّهَ كَانَ بِعِبَادِهِۦ بَصِيرًۢا",
+            "page_number": 440,
+            "juz_number": 22,
+            "translations": [
+                {
+                    "id": 99049,
+                    "resource_id": 20,
+                    "text": "And if Allāh were to impose blame on the people for what they have earned, He would not leave upon it [i.e., the earth] any creature. But He defers them for a specified term. And when their time comes, then indeed Allāh has ever been, of His servants, Seeing."
+                },
+                {
+                    "id": 216919,
+                    "resource_id": 39,
+                    "text": "Dan kalaulah Allah mengirakan kesalahan manusia serta terus menyeksa mereka disebabkan amal-amal jahat yang mereka telah kerjakan, tentulah la tidak membiarkan tinggal di muka bumi sesuatu makhluk yang bergerak; akan tetapi (dia tidak bertindak dengan serta merta, bahkan) Ia memberi tempoh kepada mereka hingga ke suatu masa yang tertentu; kemudian apabila sampai tempoh mereka (maka Allah akan membalas masing-masing dengan adilnya), kerana sesungguhnya Allah sentiasa Melihat keadaan hamba-hambaNya."
+                },
+                {
+                    "id": 1094682,
+                    "resource_id": 161,
+                    "text": "আল্লাহ মানুষকে তার কৃতকর্মের জন্য পাকড়াও করতে চাইলে ভূপৃষ্ঠের একটি প্রাণীকেও রেহাই দিতেন না। কিন্তু তিনি তাদের জন্য একটা নির্ধারিত কাল পর্যন্ত সময় বিলম্বিত করেন। অতঃপর তাদের সে নির্ধারিত সময় যখন এসে যায়, (তখন আল্লাহর ফয়সালা কার্যকরী হতে এক মুহূর্তও বিলম্ব ঘটে না), কারণ আল্লাহ (প্রতিটি মুহূর্তে) তাঁর বান্দাহদের পর্যবেক্ষণকারী।"
+                }
+            ]
+        },
+        {
+            "id": 3706,
+            "verse_number": 1,
+            "verse_key": "36:1",
+            "hizb_number": 44,
+            "rub_el_hizb_number": 176,
+            "ruku_number": 383,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": " يسٓ",
+            "page_number": 440,
+            "juz_number": 22,
+            "translations": [
+                {
+                    "id": 99066,
+                    "resource_id": 20,
+                    "text": "Yā, Seen.<sup foot_note=197154>1</sup>"
+                },
+                {
+                    "id": 214993,
+                    "resource_id": 39,
+                    "text": "Yaa, Siin."
+                },
+                {
+                    "id": 1094683,
+                    "resource_id": 161,
+                    "text": "ইয়াসীন।"
+                }
+            ]
+        },
+        {
+            "id": 3707,
+            "verse_number": 2,
+            "verse_key": "36:2",
+            "hizb_number": 44,
+            "rub_el_hizb_number": 176,
+            "ruku_number": 383,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلْقُرْءَانِ ٱلْحَكِيمِ",
+            "page_number": 440,
+            "juz_number": 22,
+            "translations": [
+                {
+                    "id": 99078,
+                    "resource_id": 20,
+                    "text": "By the wise<sup foot_note=197155>1</sup> Qur’ān,"
+                },
+                {
+                    "id": 217363,
+                    "resource_id": 39,
+                    "text": "Demi Al-Quran yang mengandungi hikmat-hikmat dan kebenaran yang tetap kukuh,"
+                },
+                {
+                    "id": 1094684,
+                    "resource_id": 161,
+                    "text": "শপথ হিকমতপূর্ণ কুরআনের।"
+                }
+            ]
+        },
+        {
+            "id": 3708,
+            "verse_number": 3,
+            "verse_key": "36:3",
+            "hizb_number": 44,
+            "rub_el_hizb_number": 176,
+            "ruku_number": 383,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّكَ لَمِنَ ٱلْمُرْسَلِينَ",
+            "page_number": 440,
+            "juz_number": 22,
+            "translations": [
+                {
+                    "id": 99090,
+                    "resource_id": 20,
+                    "text": "Indeed you, [O Muḥammad], are from among the messengers,"
+                },
+                {
+                    "id": 216939,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya engkau (wahai Muhammad adalah seorang Rasul) dari Rasul-rasul yang telah diutus,"
+                },
+                {
+                    "id": 1094685,
+                    "resource_id": 161,
+                    "text": "তুমি অবশ্যই রসূলগণের অন্তর্ভুক্ত।"
+                }
+            ]
+        },
+        {
+            "id": 3709,
+            "verse_number": 4,
+            "verse_key": "36:4",
+            "hizb_number": 44,
+            "rub_el_hizb_number": 176,
+            "ruku_number": 383,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+            "page_number": 440,
+            "juz_number": 22,
+            "translations": [
+                {
+                    "id": 99102,
+                    "resource_id": 20,
+                    "text": "On a straight path."
+                },
+                {
+                    "id": 216959,
+                    "resource_id": 39,
+                    "text": "Yang tetap di atas jalan yang lurus (ugama Islam)."
+                },
+                {
+                    "id": 1094686,
+                    "resource_id": 161,
+                    "text": "তুমি সরল সঠিক পথে প্রতিষ্ঠিত।"
+                }
+            ]
+        },
+        {
+            "id": 3710,
+            "verse_number": 5,
+            "verse_key": "36:5",
+            "hizb_number": 44,
+            "rub_el_hizb_number": 176,
+            "ruku_number": 383,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "تَنزِيلَ ٱلْعَزِيزِ ٱلرَّحِيمِ",
+            "page_number": 440,
+            "juz_number": 22,
+            "translations": [
+                {
+                    "id": 99058,
+                    "resource_id": 20,
+                    "text": "[This is] a revelation of the Exalted in Might, the Merciful,"
+                },
+                {
+                    "id": 216965,
+                    "resource_id": 39,
+                    "text": "Al-Quran itu, diturunkan oleh Allah Yang Maha Kuasa, lagi Maha Mengasihani,"
+                },
+                {
+                    "id": 1094687,
+                    "resource_id": 161,
+                    "text": "(এ কুরআন) মহাপরাক্রমশালী পরম করুণাময় (আল্লাহ) হতে অবতীর্ণ।"
+                }
+            ]
+        },
+        {
+            "id": 3711,
+            "verse_number": 6,
+            "verse_key": "36:6",
+            "hizb_number": 44,
+            "rub_el_hizb_number": 176,
+            "ruku_number": 383,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "لِتُنذِرَ قَوْمًا مَّآ أُنذِرَ ءَابَآؤُهُمْ فَهُمْ غَـٰفِلُونَ",
+            "page_number": 440,
+            "juz_number": 22,
+            "translations": [
+                {
+                    "id": 99121,
+                    "resource_id": 20,
+                    "text": "That you may warn a people whose forefathers were not warned, so they are unaware."
+                },
+                {
+                    "id": 216984,
+                    "resource_id": 39,
+                    "text": "Supaya engkau memberi peringatan dan amaran kepada kaum yang datuk neneknya telah lama tidak diberikan peringatan dan amaran; sebab itulah mereka lalai."
+                },
+                {
+                    "id": 1094688,
+                    "resource_id": 161,
+                    "text": "যাতে তুমি সতর্ক করতে পার এমন এক সম্প্রদায়কে যাদের পিৃতপুরুষদেরকে সতর্ক করা হয়নি, কাজেই তারা (আল্লাহর নিদর্শন সম্পর্কে) উদাসীন।"
+                }
+            ]
+        },
+        {
+            "id": 3712,
+            "verse_number": 7,
+            "verse_key": "36:7",
+            "hizb_number": 44,
+            "rub_el_hizb_number": 176,
+            "ruku_number": 383,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "لَقَدْ حَقَّ ٱلْقَوْلُ عَلَىٰٓ أَكْثَرِهِمْ فَهُمْ لَا يُؤْمِنُونَ",
+            "page_number": 440,
+            "juz_number": 22,
+            "translations": [
+                {
+                    "id": 99133,
+                    "resource_id": 20,
+                    "text": "Already the word [i.e., decree] has come into effect upon most of them, so they do not believe."
+                },
+                {
+                    "id": 216991,
+                    "resource_id": 39,
+                    "text": "Demi sesungguhnya, telah tetap hukuman seksa atas kebanyakan mereka, kerana mereka tidak mahu beriman."
+                },
+                {
+                    "id": 1094689,
+                    "resource_id": 161,
+                    "text": "(জেনে বুঝে আল্লাহর অবাধ্য হওয়ার কারণে) তাদের অধিকাংশের উপর (তাদের অন্তঃকরণে সীল লাগিয়ে দেয়ার) বাণী অবধারিত হয়ে গেছে, কাজেই তারা ঈমান আনবে না।"
+                }
+            ]
+        },
+        {
+            "id": 3713,
+            "verse_number": 8,
+            "verse_key": "36:8",
+            "hizb_number": 44,
+            "rub_el_hizb_number": 176,
+            "ruku_number": 383,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّا جَعَلْنَا فِىٓ أَعْنَـٰقِهِمْ أَغْلَـٰلًا فَهِىَ إِلَى ٱلْأَذْقَانِ فَهُم مُّقْمَحُونَ",
+            "page_number": 440,
+            "juz_number": 22,
+            "translations": [
+                {
+                    "id": 99145,
+                    "resource_id": 20,
+                    "text": "Indeed, We have put shackles on their necks, and they are to their chins, so they are with heads [kept] aloft."
+                },
+                {
+                    "id": 217003,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Kami jadikan (kesombongan dan keengganan mereka tunduk kepada kebenaran sebagai) belenggu yang memberkas kedua tangan mereka ke batang leher mereka; (lebarnya belenggu itu) sampai (menongkatkan) dagu mereka lalu menjadilah mereka terdongak."
+                },
+                {
+                    "id": 1094690,
+                    "resource_id": 161,
+                    "text": "আমি তাদের গলদেশে (তাদের জিদ ও অহমিকার) বেড়ি পরিয়ে দিয়েছি আর তা থুতনি পর্যন্ত (গিয়ে ঠেকেছে), কাজেই তারা মাথা খাড়া করে রেখেছে।"
+                }
+            ]
+        },
+        {
+            "id": 3714,
+            "verse_number": 9,
+            "verse_key": "36:9",
+            "hizb_number": 44,
+            "rub_el_hizb_number": 176,
+            "ruku_number": 383,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَجَعَلْنَا مِنۢ بَيْنِ أَيْدِيهِمْ سَدًّا وَمِنْ خَلْفِهِمْ سَدًّا فَأَغْشَيْنَـٰهُمْ فَهُمْ لَا يُبْصِرُونَ",
+            "page_number": 440,
+            "juz_number": 22,
+            "translations": [
+                {
+                    "id": 99151,
+                    "resource_id": 20,
+                    "text": "And We have put before them a barrier and behind them a barrier and covered them, so they do not see."
+                },
+                {
+                    "id": 217008,
+                    "resource_id": 39,
+                    "text": "Dan Kami jadikan (sifat tamak dan gila mereka kepada harta benda dan pangkat itu sebagai) sekatan (yang menghalang mereka daripada memandang kepada keburukan dan kesingkatan masa dunia yang ada) di hadapan mereka, dan sekatan (yang menghalang mereka daripada memikirkan azab yang ada) di belakang mereka (pada hari kiamat). lalu Kami tutup pandangan mereka; maka dengan itu, mereka tidak dapat melihat (jalan yang benar)."
+                },
+                {
+                    "id": 1094691,
+                    "resource_id": 161,
+                    "text": "তাদের সামনে আমি একটা (বাধার) প্রাচীর দাঁড় করিয়ে দিয়েছি, আর পেছনে একটা প্রাচীর, উপরন্তু তাদেরকে ঢেকে দিয়েছি; কাজেই তারা দেখতে পায় না।"
+                }
+            ]
+        },
+        {
+            "id": 3715,
+            "verse_number": 10,
+            "verse_key": "36:10",
+            "hizb_number": 44,
+            "rub_el_hizb_number": 176,
+            "ruku_number": 383,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَسَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ",
+            "page_number": 440,
+            "juz_number": 22,
+            "translations": [
+                {
+                    "id": 99067,
+                    "resource_id": 20,
+                    "text": "And it is all the same for them whether you warn them or do not warn them - they will not believe."
+                },
+                {
+                    "id": 216930,
+                    "resource_id": 39,
+                    "text": "Dan (dengan sebab itu) sama sahaja kepada mereka, engkau beri amaran atau engkau tidak beri amaran kepadanya - mereka tidak akan beriman."
+                },
+                {
+                    "id": 1094692,
+                    "resource_id": 161,
+                    "text": "তুমি তাদেরকে সতর্ক কর আর না কর, তাদের কাছে দু’টোই সমান, তারা ঈমান আনবে না।"
+                }
+            ]
+        },
+        {
+            "id": 3716,
+            "verse_number": 11,
+            "verse_key": "36:11",
+            "hizb_number": 44,
+            "rub_el_hizb_number": 176,
+            "ruku_number": 383,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّمَا تُنذِرُ مَنِ ٱتَّبَعَ ٱلذِّكْرَ وَخَشِىَ ٱلرَّحْمَـٰنَ بِٱلْغَيْبِ ۖ فَبَشِّرْهُ بِمَغْفِرَةٍ وَأَجْرٍ كَرِيمٍ",
+            "page_number": 440,
+            "juz_number": 22,
+            "translations": [
+                {
+                    "id": 99068,
+                    "resource_id": 20,
+                    "text": "You can only warn one who follows the message and fears the Most Merciful unseen. So give him good tidings of forgiveness and noble reward."
+                },
+                {
+                    "id": 216932,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya peringatan dan amaran (yang berkesan dan mendatangkan faedah) hanyalah yang engkau berikan kepada orang yang sedia menurut ajaran Al-Quran serta ia takut (melanggar perintah Allah) Ar-Rahman semasa ia tidak dilihat orang dan semasa ia tidak melihat azab Tuhan. Oleh itu berilah kepadanya berita yang mengembirakan dengan keampunan dan pahala yang mulia."
+                },
+                {
+                    "id": 1094693,
+                    "resource_id": 161,
+                    "text": "তুমি তো সতর্ক কেবল তাকেই করতে পার যে লোক উপদেশ মেনে চলে আর দয়াময় (আল্লাহ)-কে না দেখেও ভয় করে। অতঃপর এদেরকে তুমি ক্ষমা ও সম্মানজনক পুরস্কারের সুসংবাদ দাও।"
+                }
+            ]
+        },
+        {
+            "id": 3717,
+            "verse_number": 12,
+            "verse_key": "36:12",
+            "hizb_number": 44,
+            "rub_el_hizb_number": 176,
+            "ruku_number": 383,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّا نَحْنُ نُحْىِ ٱلْمَوْتَىٰ وَنَكْتُبُ مَا قَدَّمُوا۟ وَءَاثَـٰرَهُمْ ۚ وَكُلَّ شَىْءٍ أَحْصَيْنَـٰهُ فِىٓ إِمَامٍ مُّبِينٍ",
+            "page_number": 440,
+            "juz_number": 22,
+            "translations": [
+                {
+                    "id": 99069,
+                    "resource_id": 20,
+                    "text": "Indeed, it is We who bring the dead to life and record what they have put forth and what they left behind, and all things We have enumerated in a clear register."
+                },
+                {
+                    "id": 216936,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Kami menghidupkan orang-orang yang mati, dan Kami tuliskan segala yang mereka telah kerjakan serta segala kesan perkataan dan perbuatan yang mereka tinggalkan. Dan (ingatlah) tiap-tiap sesuatu kami catitkan satu persatu dalam Kitab (ibu Suratan) yang jelas nyata."
+                },
+                {
+                    "id": 1094694,
+                    "resource_id": 161,
+                    "text": "আমিই মৃতকে জীবিত করি, আর লিখে রাখি যা তারা আগে পাঠিয়ে দেয় আর যা পেছনে ছেড়ে যায়। সব কিছুই আমি স্পষ্ট কিতাবে সংরক্ষিত করে রেখেছি।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 13,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 13
+    }
+}

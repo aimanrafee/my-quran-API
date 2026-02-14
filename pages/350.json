@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 2792,
+            "verse_number": 1,
+            "verse_key": "24:1",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 140,
+            "ruku_number": 301,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": " سُورَةٌ أَنزَلْنَـٰهَا وَفَرَضْنَـٰهَا وَأَنزَلْنَا فِيهَآ ءَايَـٰتٍۭ بَيِّنَـٰتٍ لَّعَلَّكُمْ تَذَكَّرُونَ",
+            "page_number": 350,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97923,
+                    "resource_id": 20,
+                    "text": "[This is] a sūrah which We have sent down and made [that within it] obligatory and revealed therein verses of clear evidence that you might remember."
+                },
+                {
+                    "id": 215784,
+                    "resource_id": 39,
+                    "text": "Ini ialah satu \"surah\" yang Kami turunkan, dan Kami wajibkan hukum-hukumnya, serta Kami turunkan padanya ayat-ayat keterangan yang nyata supaya kamu beringat (mengamalkannya)."
+                },
+                {
+                    "id": 1093769,
+                    "resource_id": 161,
+                    "text": "একটি সূরাহ যা আমি নাযিল করেছি আর তা ফরয করে দিয়েছি, আর তার ভেতরে আমি সুস্পষ্ট আয়াত নাযিল করেছি, যাতে তোমরা উপদেশ গ্রহণ কর।"
+                }
+            ]
+        },
+        {
+            "id": 2793,
+            "verse_number": 2,
+            "verse_key": "24:2",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 140,
+            "ruku_number": 301,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلزَّانِيَةُ وَٱلزَّانِى فَٱجْلِدُوا۟ كُلَّ وَٰحِدٍ مِّنْهُمَا مِا۟ئَةَ جَلْدَةٍ ۖ وَلَا تَأْخُذْكُم بِهِمَا رَأْفَةٌ فِى دِينِ ٱللَّهِ إِن كُنتُمْ تُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ۖ وَلْيَشْهَدْ عَذَابَهُمَا طَآئِفَةٌ مِّنَ ٱلْمُؤْمِنِينَ",
+            "page_number": 350,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97936,
+                    "resource_id": 20,
+                    "text": "The [unmarried] woman or [unmarried] man found guilty of sexual intercourse<sup foot_note=196880>1</sup> - lash each one of them with a hundred lashes,<sup foot_note=196879>2</sup> and do not be taken by pity for them in the religion [i.e., law] of Allāh,<sup foot_note=196878>3</sup> if you should believe in Allāh and the Last Day. And let a group of the believers witness their punishment."
+                },
+                {
+                    "id": 215793,
+                    "resource_id": 39,
+                    "text": "Perempuan yang berzina dan lelaki yang berzina, hendaklah kamu sebat tiap-tiap seorang dari keduanya seratus kali sebat; dan janganlah kamu dipengaruhi oleh perasaan belas kasihan terhadap keduanya dalam menjalankan hukum ugama Allah, jika benar kamu beriman kepada Allah dan hari akhirat; dan hendaklah disaksikan hukuman seksa yang dikenakan kepada mereka itu oleh sekumpulan dari orang-orang yang beriman."
+                },
+                {
+                    "id": 1093770,
+                    "resource_id": 161,
+                    "text": "ব্যভিচারিণী ও ব্যভিচারী তাদের প্রত্যেককে একশত করে বেত্রাঘাত কর। আল্লাহর আইন কার্যকর করার ব্যাপারে তাদের প্রতি দয়ামায়া তোমাদেরকে যেন প্রভাবিত না করে, যদি তোমরা আল্লাহ ও আখিরাত দিনের প্রতি বিশ্বাস স্থাপন করে থাক। একদল মু’মিন যেন তাদের শাস্তি প্রত্যক্ষ করে।"
+                }
+            ]
+        },
+        {
+            "id": 2794,
+            "verse_number": 3,
+            "verse_key": "24:3",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 140,
+            "ruku_number": 301,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلزَّانِى لَا يَنكِحُ إِلَّا زَانِيَةً أَوْ مُشْرِكَةً وَٱلزَّانِيَةُ لَا يَنكِحُهَآ إِلَّا زَانٍ أَوْ مُشْرِكٌ ۚ وَحُرِّمَ ذَٰلِكَ عَلَى ٱلْمُؤْمِنِينَ",
+            "page_number": 350,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97948,
+                    "resource_id": 20,
+                    "text": "The fornicator does not marry except a [female] fornicator or polytheist, and none marries her except a fornicator<sup foot_note=196881>1</sup> or a polytheist, and that [i.e., marriage to such persons] has been made unlawful to the believers."
+                },
+                {
+                    "id": 215805,
+                    "resource_id": 39,
+                    "text": "Lelaki yang berzina (lazimnya) tidak ingin berkahwin melainkan dengan perempuan yang berzina atau perempuan musyrik; dan perempuan yang berzina itu pula (lazimnya) tidak ingin berkahwin dengannya melainkan oleh lelaki yang berzina atau lelaki musyrik. Dan perkahwinan yang demikian itu terlarang kepada orang-orang yang beriman."
+                },
+                {
+                    "id": 1093771,
+                    "resource_id": 161,
+                    "text": "ব্যভিচারী বিয়ে করে না ব্যভিচারিণী বা মুশরিকা নারী ছাড়া। আর ব্যভিচারিণী- তাকে বিয়ে করে না ব্যভিচারী বা মুশরিক পুরুষ ছাড়া, মু’মিনদের জন্য এটা নিষিদ্ধ করা হয়েছে।"
+                }
+            ]
+        },
+        {
+            "id": 2795,
+            "verse_number": 4,
+            "verse_key": "24:4",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 140,
+            "ruku_number": 301,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّذِينَ يَرْمُونَ ٱلْمُحْصَنَـٰتِ ثُمَّ لَمْ يَأْتُوا۟ بِأَرْبَعَةِ شُهَدَآءَ فَٱجْلِدُوهُمْ ثَمَـٰنِينَ جَلْدَةً وَلَا تَقْبَلُوا۟ لَهُمْ شَهَـٰدَةً أَبَدًا ۚ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْفَـٰسِقُونَ",
+            "page_number": 350,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97960,
+                    "resource_id": 20,
+                    "text": "And those who accuse chaste women and then do not produce four witnesses - lash them with eighty lashes and do not accept from them testimony ever after. And those are the defiantly disobedient,"
+                },
+                {
+                    "id": 216322,
+                    "resource_id": 39,
+                    "text": "Dan orang-orang yang melemparkan tuduhan (zina) kepada perempuan yang terpelihara kehormatannya, kemudian mereka tidak membawakan empat orang saksi, maka sebatlah mereka delapan puluh kali sebat; dan janganlah kamu menerima persaksian mereka itu selama-lamanya; kerana mereka adalah orang-orang yang fasik; -"
+                },
+                {
+                    "id": 1093772,
+                    "resource_id": 161,
+                    "text": "যারা সতী সাধ্বী নারীর উপর অপবাদ দেয়, অতঃপর চারজন সাক্ষী উপস্থিত না করে, তাদেরকে আশিটি বেত্রাঘাত কর, আর তাদের সাক্ষ্য কক্ষনো গ্রহণ কর না, এরাই না-ফরমান।"
+                }
+            ]
+        },
+        {
+            "id": 2796,
+            "verse_number": 5,
+            "verse_key": "24:5",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 140,
+            "ruku_number": 301,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "إِلَّا ٱلَّذِينَ تَابُوا۟ مِنۢ بَعْدِ ذَٰلِكَ وَأَصْلَحُوا۟ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+            "page_number": 350,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97972,
+                    "resource_id": 20,
+                    "text": "Except for those who repent thereafter and reform, for indeed, Allāh is Forgiving and Merciful."
+                },
+                {
+                    "id": 215827,
+                    "resource_id": 39,
+                    "text": "Kecuali orang-orang yang bertaubat sesudah itu (dari kesalahannya yang tersebut) serta memperbaiki amalannya, maka sesungguhnya Allah Maha Pengampun, lagi Maha Mengasihani."
+                },
+                {
+                    "id": 1093773,
+                    "resource_id": 161,
+                    "text": "অবশ্য এরপর যদি তারা তাওবাহ করে ও সংশোধিত হয়, কেননা আল্লাহ বড়ই ক্ষমাশীল, অতি দয়ালু।"
+                }
+            ]
+        },
+        {
+            "id": 2797,
+            "verse_number": 6,
+            "verse_key": "24:6",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 140,
+            "ruku_number": 301,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّذِينَ يَرْمُونَ أَزْوَٰجَهُمْ وَلَمْ يَكُن لَّهُمْ شُهَدَآءُ إِلَّآ أَنفُسُهُمْ فَشَهَـٰدَةُ أَحَدِهِمْ أَرْبَعُ شَهَـٰدَٰتٍۭ بِٱللَّهِ ۙ إِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+            "page_number": 350,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97984,
+                    "resource_id": 20,
+                    "text": "And those who accuse their wives [of adultery] and have no witnesses except themselves - then the witness of one of them<sup foot_note=196882>1</sup> [shall be] four testimonies [swearing] by Allāh that indeed, he is of the truthful."
+                },
+                {
+                    "id": 215840,
+                    "resource_id": 39,
+                    "text": "Dan orang-orang yang menuduh isterinya berzina, sedang mereka tidak ada saksi-saksi (yang mengesahkan tuduhannya itu) hanya dirinya sendiri, maka persaksian (sah pada syarak) bagi seseorang yang menuduh itu hendaklah ia bersumpah dengan nama Allah, empat kali, bahawa sesungguhnya ia dari orang-orang yang benar; -"
+                },
+                {
+                    "id": 1093774,
+                    "resource_id": 161,
+                    "text": "আর যারা নিজেদের স্ত্রীদের উপর অপবাদ দেয়, কিন্তু নিজেদের ছাড়া তাদের অন্য কোন সাক্ষী না থাকে, এ রকম প্রত্যেক লোকের সাক্ষ্য এভাবে হবে যে, সে চারবার আল্লাহর নামে শপথ করে বলবে যে, সে অবশ্যই সত্যবাদী।"
+                }
+            ]
+        },
+        {
+            "id": 2798,
+            "verse_number": 7,
+            "verse_key": "24:7",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 140,
+            "ruku_number": 301,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلْخَـٰمِسَةُ أَنَّ لَعْنَتَ ٱللَّهِ عَلَيْهِ إِن كَانَ مِنَ ٱلْكَـٰذِبِينَ",
+            "page_number": 350,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97991,
+                    "resource_id": 20,
+                    "text": "And the fifth [oath will be] that the curse of Allāh be upon him if he should be of the liars."
+                },
+                {
+                    "id": 215846,
+                    "resource_id": 39,
+                    "text": "Dan sumpah yang kelima (hendaklah ia berkata): Bahawa laknat Allah akan menimpa dirinya jika ia dari orang-orang yang dusta."
+                },
+                {
+                    "id": 1093775,
+                    "resource_id": 161,
+                    "text": "আর পঞ্চমবারে বলবে যে, সে যদি মিথ্যেবাদী হয় তবে তার উপর আল্লাহর লা’নত পতিত হবে।"
+                }
+            ]
+        },
+        {
+            "id": 2799,
+            "verse_number": 8,
+            "verse_key": "24:8",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 140,
+            "ruku_number": 301,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَيَدْرَؤُا۟ عَنْهَا ٱلْعَذَابَ أَن تَشْهَدَ أَرْبَعَ شَهَـٰدَٰتٍۭ بِٱللَّهِ ۙ إِنَّهُۥ لَمِنَ ٱلْكَـٰذِبِينَ",
+            "page_number": 350,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97994,
+                    "resource_id": 20,
+                    "text": "But it will prevent punishment from her if she gives four testimonies [swearing] by Allāh that indeed, he is of the liars."
+                },
+                {
+                    "id": 215848,
+                    "resource_id": 39,
+                    "text": "Dan bagi menghindarkan hukuman seksa dari isteri (yang kena tuduh) itu hendaklah ia bersumpah dengan nama Allah, empat kali, bahawa suaminya (yang menuduh) itu sesungguhnya adalah dari orang-orang yang berdusta; -"
+                },
+                {
+                    "id": 1093776,
+                    "resource_id": 161,
+                    "text": "আর স্ত্রীর শাস্তি রহিত হবে যদি সে আল্লাহর নামে চারবার শপথ ক’রে বলে যে, সে (তার স্বামী) অবশ্যই মিথ্যেবাদী।"
+                }
+            ]
+        },
+        {
+            "id": 2800,
+            "verse_number": 9,
+            "verse_key": "24:9",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 140,
+            "ruku_number": 301,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلْخَـٰمِسَةَ أَنَّ غَضَبَ ٱللَّهِ عَلَيْهَآ إِن كَانَ مِنَ ٱلصَّـٰدِقِينَ",
+            "page_number": 350,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97996,
+                    "resource_id": 20,
+                    "text": "And the fifth [oath will be] that the wrath of Allāh be upon her if he was of the truthful."
+                },
+                {
+                    "id": 215850,
+                    "resource_id": 39,
+                    "text": "Dan sumpah yang kelima (hendaklah ia berkata); Bahawa kemurkaan Allah akan menimpa dirinya jika suaminya dari orang-orang yang benar."
+                },
+                {
+                    "id": 1093777,
+                    "resource_id": 161,
+                    "text": "এবং পঞ্চমবারে বলে যে, তার স্বামী সত্যবাদী হলে তার নিজের উপর আল্লাহর গযব পতিত হবে।"
+                }
+            ]
+        },
+        {
+            "id": 2801,
+            "verse_number": 10,
+            "verse_key": "24:10",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 140,
+            "ruku_number": 301,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ وَأَنَّ ٱللَّهَ تَوَّابٌ حَكِيمٌ",
+            "page_number": 350,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97924,
+                    "resource_id": 20,
+                    "text": "And if not for the favor of Allāh upon you and His mercy...<sup foot_note=196883>1</sup> and because Allāh is Accepting of Repentance and Wise."
+                },
+                {
+                    "id": 215785,
+                    "resource_id": 39,
+                    "text": "Dan kalaulah tidak kerana adanya limpah kurnia Allah dan rahmatNya kepada kamu, dan juga (kalaulah tidak kerana) bahawa Allah Maha Penerima taubat, lagi Maha Bijaksana, (tentulah kamu akan) akan mengalami kesusahan yang sukar diatasi)."
+                },
+                {
+                    "id": 1093778,
+                    "resource_id": 161,
+                    "text": "তোমাদের প্রতি আল্লাহর অনুগ্রহ ও দয়া না থাকলে (তোমরা ধ্বংস হয়ে যেতে), আল্লাহ তাওবাহ গ্রহণকারী, বড়ই হিকমতওয়ালা।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 10
+    }
+}

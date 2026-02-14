@@ -1,0 +1,251 @@
+{
+    "verses": [
+        {
+            "id": 900,
+            "verse_number": 111,
+            "verse_key": "6:111",
+            "hizb_number": 15,
+            "rub_el_hizb_number": 57,
+            "ruku_number": 115,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "۞ وَلَوْ أَنَّنَا نَزَّلْنَآ إِلَيْهِمُ ٱلْمَلَـٰٓئِكَةَ وَكَلَّمَهُمُ ٱلْمَوْتَىٰ وَحَشَرْنَا عَلَيْهِمْ كُلَّ شَىْءٍ قُبُلًا مَّا كَانُوا۟ لِيُؤْمِنُوٓا۟ إِلَّآ أَن يَشَآءَ ٱللَّهُ وَلَـٰكِنَّ أَكْثَرَهُمْ يَجْهَلُونَ",
+            "page_number": 142,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 100861,
+                    "resource_id": 20,
+                    "text": "And even if We had sent down to them the angels [with the message] and the dead spoke to them [of it] and We gathered together every [created] thing in front of them, they would not believe unless Allāh should will. But most of them, [of that], are ignorant."
+                },
+                {
+                    "id": 218716,
+                    "resource_id": 39,
+                    "text": "Dan jika Kami turunkan malaikat pun kepada mereka, dan orang-orang yang mati (hidup semula lalu) berkata-kata dengan mereka, dan kami himpunkan pula tiap-tiap sesuatu di hadapan mereka (untuk menjadi saksi tentang kebenaran Nabi Muhammad), nescaya mereka tidak juga akan beriman, kecuali jika dikehendaki Allah; tetapi kebanyakan mereka tidak mengetahui (hakikat yang sebenar)."
+                },
+                {
+                    "id": 1091877,
+                    "resource_id": 161,
+                    "text": "আমি যদি তাদের কাছে ফেরেশতা অবতীর্ণ করতাম আর মৃতরা তাদের সাথে কথা বলত আর আমি তাদের সামনে যাবতীয় বস্তু হাজির করে দিতাম তবুও আল্লাহর ইচ্ছে ব্যতীত তারা ঈমান আনত না, মূলতঃ তাদের অধিকাংশই অজ্ঞতাপূর্ণ কাজ করে।"
+                }
+            ]
+        },
+        {
+            "id": 901,
+            "verse_number": 112,
+            "verse_key": "6:112",
+            "hizb_number": 15,
+            "rub_el_hizb_number": 57,
+            "ruku_number": 115,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِىٍّ عَدُوًّا شَيَـٰطِينَ ٱلْإِنسِ وَٱلْجِنِّ يُوحِى بَعْضُهُمْ إِلَىٰ بَعْضٍ زُخْرُفَ ٱلْقَوْلِ غُرُورًا ۚ وَلَوْ شَآءَ رَبُّكَ مَا فَعَلُوهُ ۖ فَذَرْهُمْ وَمَا يَفْتَرُونَ",
+            "page_number": 142,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 100863,
+                    "resource_id": 20,
+                    "text": "And thus We have made for every prophet an enemy - devils from mankind and jinn, inspiring to one another decorative speech in delusion. But if your Lord had willed, they would not have done it, so leave them and that which they invent."
+                },
+                {
+                    "id": 218718,
+                    "resource_id": 39,
+                    "text": "Dan demikianlah Kami jadikan bagi tiap-tiap Nabi itu musuh dari Syaitan-syaitan manusia dan jin, setengahnya membisikkan kepada setengahnya yang lain kata-kata dusta yang indah-indah susunannya untuk memperdaya pendengarnya. Dan jika Tuhanmu menghendaki, tentulah mereka tidak melakukannya. Oleh itu, biarkanlah mereka dan apa yang mereka ada-adakan (dari perbuatan yang kufur dan dusta) itu."
+                },
+                {
+                    "id": 1091878,
+                    "resource_id": 161,
+                    "text": "এভাবে আমি প্রত্যেক নাবীর জন্য মানুষ আর জ্বীন শয়তানদের মধ্য হতে শত্রু বানিয়ে দিয়েছি, প্রতারণা করার উদ্দেশ্যে তারা একে অপরের কাছে চিত্তাকর্ষক কথাবার্তা বলে। তোমার প্রতিপালক ইচ্ছে করলে তারা তা করত না, কাজেই তাদেরকে আর তাদের মিথ্যে চর্চাকে উপেক্ষা করে চল।"
+                }
+            ]
+        },
+        {
+            "id": 902,
+            "verse_number": 113,
+            "verse_key": "6:113",
+            "hizb_number": 15,
+            "rub_el_hizb_number": 57,
+            "ruku_number": 115,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَلِتَصْغَىٰٓ إِلَيْهِ أَفْـِٔدَةُ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ وَلِيَرْضَوْهُ وَلِيَقْتَرِفُوا۟ مَا هُم مُّقْتَرِفُونَ",
+            "page_number": 142,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 100865,
+                    "resource_id": 20,
+                    "text": "And [it is] so the hearts of those who disbelieve in the Hereafter will incline toward it [i.e., deceptive speech] and that they will be satisfied with it and that they will commit that which they are committing."
+                },
+                {
+                    "id": 218720,
+                    "resource_id": 39,
+                    "text": "Dan juga supaya hati orang-orang yang tidak beriman kepada hari akhirat cenderung kepada bisikan itu, dan supaya disetujui oleh mereka, dan juga supaya mereka (terus) melakukan apa yang mereka lakukan itu."
+                },
+                {
+                    "id": 1091879,
+                    "resource_id": 161,
+                    "text": "তার দিকে (অর্থাৎ চিত্তাকর্ষক প্রতারণার দিকে) সে সব লোকের অন্তর আকৃষ্ট হতে দাও যারা আখেরাতের প্রতি ঈমান আনে না, আর তাতেই তাদেরকে সন্তুষ্ট থাকতে দাও আর যে পাপকাজ তারা করতে চায় তা তাদেরকে করতে দাও।"
+                }
+            ]
+        },
+        {
+            "id": 903,
+            "verse_number": 114,
+            "verse_key": "6:114",
+            "hizb_number": 15,
+            "rub_el_hizb_number": 57,
+            "ruku_number": 115,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "أَفَغَيْرَ ٱللَّهِ أَبْتَغِى حَكَمًا وَهُوَ ٱلَّذِىٓ أَنزَلَ إِلَيْكُمُ ٱلْكِتَـٰبَ مُفَصَّلًا ۚ وَٱلَّذِينَ ءَاتَيْنَـٰهُمُ ٱلْكِتَـٰبَ يَعْلَمُونَ أَنَّهُۥ مُنَزَّلٌ مِّن رَّبِّكَ بِٱلْحَقِّ ۖ فَلَا تَكُونَنَّ مِنَ ٱلْمُمْتَرِينَ",
+            "page_number": 142,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 100869,
+                    "resource_id": 20,
+                    "text": "[Say], \"Then is it other than Allāh I should seek as judge while it is He who has revealed to you the Book [i.e., the Qur’ān] explained in detail?\" And those to whom We [previously] gave the Scripture know that it is sent down from your Lord in truth, so never be among the doubters."
+                },
+                {
+                    "id": 218710,
+                    "resource_id": 39,
+                    "text": "(Katakanlah wahai Muhammad): \"Patutkah aku (terpedaya dengan kata-kata dusta Syaitan-syaitan itu sehingga aku) hendak mencari hakim selain dari Allah, padahal Dia lah yang menurunkan kepada kamu kitab Al-Quran yang jelas nyata kandungannya satu persatu (tentang yang benar dan yang salah)?\" Dan orang-orang yang Kami berikan kitab, mengetahui bahawa Al-Quran itu adalah diturunkan dari Tuhanmu dengan sebenar-benarnya. Oleh itu, jangan sekali-kali engkau menjadi (salah seorang) dari golongan yang ragu-ragu."
+                },
+                {
+                    "id": 1091880,
+                    "resource_id": 161,
+                    "text": "বল, আমি কি আল্লাহ ছাড়া অন্যকে বিচারক মানব, যখন তিনি সেই (সত্তা) যিনি তোমাদের নিকট কিতাব নাযিল করেছেন, যা বিশদভাবে বিবৃত। আমি যাদেরকে (পূর্বে) কিতাব দিয়েছিলাম তারা জানে যে, তা সত্যতা সহকারে তোমার প্রতিপালকের নিকট হতে অবতীর্ণ হয়েছে। কাজেই কিছুতেই তুমি সন্দেহ পোষণকারীদের মধ্যে শামিল হয়ো না।"
+                }
+            ]
+        },
+        {
+            "id": 904,
+            "verse_number": 115,
+            "verse_key": "6:115",
+            "hizb_number": 15,
+            "rub_el_hizb_number": 57,
+            "ruku_number": 115,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًا وَعَدْلًا ۚ لَّا مُبَدِّلَ لِكَلِمَـٰتِهِۦ ۚ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+            "page_number": 142,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 100871,
+                    "resource_id": 20,
+                    "text": "And the word of your Lord has been fulfilled in truth and in justice. None can alter His words, and He is the Hearing, the Knowing."
+                },
+                {
+                    "id": 218723,
+                    "resource_id": 39,
+                    "text": "Dan telah sempurnalah Kalimah Tuhanmu (Al-Quran, meliputi hukum-hukum dan janji-janjiNya) dengan benar dan adil; tiada sesiapa yang dapat mengubah sesuatupun dari Kalimah-kalimahNya; dan Dia lah yang sentiasa Mendengar, lagi sentiasa Mengetahui."
+                },
+                {
+                    "id": 1091881,
+                    "resource_id": 161,
+                    "text": "সত্যতা ও ইনসাফের দিক দিয়ে তোমার প্রতিপালকের বাণী পরিপূর্ণ। তাঁর বাণী পরিবর্তন করার কেউ নেই। আর তিনি হলেন সর্বশ্রোতা ও সর্বজ্ঞ।"
+                }
+            ]
+        },
+        {
+            "id": 905,
+            "verse_number": 116,
+            "verse_key": "6:116",
+            "hizb_number": 15,
+            "rub_el_hizb_number": 57,
+            "ruku_number": 115,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِن تُطِعْ أَكْثَرَ مَن فِى ٱلْأَرْضِ يُضِلُّوكَ عَن سَبِيلِ ٱللَّهِ ۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنْ هُمْ إِلَّا يَخْرُصُونَ",
+            "page_number": 142,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 100872,
+                    "resource_id": 20,
+                    "text": "And if you obey most of those upon the earth, they will mislead you from the way of Allāh. They follow not except assumption, and they are not but misjudging.<sup foot_note=196262>1</sup>"
+                },
+                {
+                    "id": 218724,
+                    "resource_id": 39,
+                    "text": "Dan jika engkau menurut kebanyakan orang yang ada di muka bumi, nescaya mereka akan menyesatkanmu dari jalan Allah; tiadalah yang mereka turut melainkan sangkaan semata-mata, dan mereka tidak lain hanyalah berdusta."
+                },
+                {
+                    "id": 1091882,
+                    "resource_id": 161,
+                    "text": "তুমি যদি পৃথিবীর অধিকাংশ লোকের অনুসরণ কর তাহলে তারা তোমাকে আল্লাহর পথ হতে বিচ্যুত করে ফেলবে, তারা তো কেবল আন্দাজ-অনুমানের অনুসরণ করে চলে, তারা মিথ্যাচার ছাড়া কিছু করে না।"
+                }
+            ]
+        },
+        {
+            "id": 906,
+            "verse_number": 117,
+            "verse_key": "6:117",
+            "hizb_number": 15,
+            "rub_el_hizb_number": 57,
+            "ruku_number": 115,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ رَبَّكَ هُوَ أَعْلَمُ مَن يَضِلُّ عَن سَبِيلِهِۦ ۖ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ",
+            "page_number": 142,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 100873,
+                    "resource_id": 20,
+                    "text": "Indeed, your Lord is most knowing of who strays from His way, and He is most knowing of the [rightly] guided."
+                },
+                {
+                    "id": 218725,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Tuhanmu, Dia lah yang lebih mengetahui akan sesiapa yang sesat dari jalannya, dan Dia lah yang lebih mengetahui akan orang-orang yang mendapat petunjuk."
+                },
+                {
+                    "id": 1091883,
+                    "resource_id": 161,
+                    "text": "তোমার রব্ব খুব ভাল করেই জানেন কে তাঁর পথ থেকে ভ্রষ্ট হয়ে গেছে আর তিনি হিদায়াতপ্রাপ্তদের সম্পর্কেও সর্বাধিক অবহিত।"
+                }
+            ]
+        },
+        {
+            "id": 907,
+            "verse_number": 118,
+            "verse_key": "6:118",
+            "hizb_number": 15,
+            "rub_el_hizb_number": 57,
+            "ruku_number": 115,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "فَكُلُوا۟ مِمَّا ذُكِرَ ٱسْمُ ٱللَّهِ عَلَيْهِ إِن كُنتُم بِـَٔايَـٰتِهِۦ مُؤْمِنِينَ",
+            "page_number": 142,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 100874,
+                    "resource_id": 20,
+                    "text": "So eat of that [meat] upon which the name of Allāh has been mentioned,<sup foot_note=196263>1</sup> if you are believers in His verses [i.e., revealed law]."
+                },
+                {
+                    "id": 218726,
+                    "resource_id": 39,
+                    "text": "Maka makanlah dari (sembelihan binatang-binatang halal) yang disebut nama Allah ketika menyembelihnya, jika betul kamu beriman kepada ayat-ayatNya."
+                },
+                {
+                    "id": 1091884,
+                    "resource_id": 161,
+                    "text": "কাজেই যে পশু যবেহ করার সময় আল্লাহর নাম নেয়া হয়েছে তা তোমরা খাও যদি তাঁর নিদর্শনাবলীতে তোমরা বিশ্বাসী হয়ে থাক।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 8,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 8
+    }
+}

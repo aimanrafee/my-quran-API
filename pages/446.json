@@ -1,0 +1,731 @@
+{
+    "verses": [
+        {
+            "id": 3789,
+            "verse_number": 1,
+            "verse_key": "37:1",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 178,
+            "ruku_number": 388,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": " وَٱلصَّـٰٓفَّـٰتِ صَفًّا",
+            "page_number": 446,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99155,
+                    "resource_id": 20,
+                    "text": "By those [angels] lined up in rows"
+                },
+                {
+                    "id": 214794,
+                    "resource_id": 39,
+                    "text": "Demi (hamba-hambaKu) yang berbaris dengan berderet-deret -"
+                },
+                {
+                    "id": 1094766,
+                    "resource_id": 161,
+                    "text": "শপথ তাদের যারা সারিবদ্ধভাবে দাঁড়ানো,"
+                }
+            ]
+        },
+        {
+            "id": 3790,
+            "verse_number": 2,
+            "verse_key": "37:2",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 178,
+            "ruku_number": 388,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فَٱلزَّٰجِرَٰتِ زَجْرًا",
+            "page_number": 446,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99252,
+                    "resource_id": 20,
+                    "text": "And those who drive [the clouds]"
+                },
+                {
+                    "id": 217104,
+                    "resource_id": 39,
+                    "text": "(Hamba-hambaKu) yang melarang (dari kejahatan) dengan sesungguh-sungguhnya -"
+                },
+                {
+                    "id": 1094767,
+                    "resource_id": 161,
+                    "text": "অতঃপর যারা ধমক দিয়ে তিরস্কার করে তাদের শপথ,"
+                }
+            ]
+        },
+        {
+            "id": 3791,
+            "verse_number": 3,
+            "verse_key": "37:3",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 178,
+            "ruku_number": 388,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فَٱلتَّـٰلِيَـٰتِ ذِكْرًا",
+            "page_number": 446,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99263,
+                    "resource_id": 20,
+                    "text": "And those who recite the message,<sup foot_note=197179>1</sup>"
+                },
+                {
+                    "id": 217124,
+                    "resource_id": 39,
+                    "text": "(Hamba-hambaKu) yang membaca kandungan Kitab Suci;"
+                },
+                {
+                    "id": 1094768,
+                    "resource_id": 161,
+                    "text": "আর যারা (আল্লাহর) যিকর আবৃত্তিতে লিপ্ত,"
+                }
+            ]
+        },
+        {
+            "id": 3792,
+            "verse_number": 4,
+            "verse_key": "37:4",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 178,
+            "ruku_number": 388,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ إِلَـٰهَكُمْ لَوَٰحِدٌ",
+            "page_number": 446,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99275,
+                    "resource_id": 20,
+                    "text": "Indeed, your God is One,"
+                },
+                {
+                    "id": 217121,
+                    "resource_id": 39,
+                    "text": "(Sumpah demi sumpah) sesungguhnya Tuhan kamu hanyalah Satu -"
+                },
+                {
+                    "id": 1094769,
+                    "resource_id": 161,
+                    "text": "তোমাদের প্রকৃত ইলাহ অবশ্য একজন।"
+                }
+            ]
+        },
+        {
+            "id": 3793,
+            "verse_number": 5,
+            "verse_key": "37:5",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 178,
+            "ruku_number": 388,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "رَّبُّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا وَرَبُّ ٱلْمَشَـٰرِقِ",
+            "page_number": 446,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99287,
+                    "resource_id": 20,
+                    "text": "Lord of the heavens and the earth and that between them and Lord of the sunrises.<sup foot_note=197180>1</sup>"
+                },
+                {
+                    "id": 217126,
+                    "resource_id": 39,
+                    "text": "Tuhan (yang mencipta serta mentadbirkan) langit dan bumi dan segala yang ada di antara keduanya, dan Tuhan (yang mengatur) tempat-tempat terbit matahari."
+                },
+                {
+                    "id": 1094770,
+                    "resource_id": 161,
+                    "text": "যিনি আসমান, যমীন আর এ দু’য়ের মাঝে যা আছে এবং সকল উদয় স্থলের মালিক।"
+                }
+            ]
+        },
+        {
+            "id": 3794,
+            "verse_number": 6,
+            "verse_key": "37:6",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 178,
+            "ruku_number": 388,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّا زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِزِينَةٍ ٱلْكَوَاكِبِ",
+            "page_number": 446,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99299,
+                    "resource_id": 20,
+                    "text": "Indeed, We have adorned the nearest heaven with an adornment of stars"
+                },
+                {
+                    "id": 217136,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Kami telah menghiasi langit yang dekat (pada penglihatan penduduk bumi) dengan hiasan bintang-bintang."
+                },
+                {
+                    "id": 1094771,
+                    "resource_id": 161,
+                    "text": "আমি নিকটবর্তী আসমানকে তারকারাজির সৌন্দর্য দ্বারা সুশোভিত করেছি,"
+                }
+            ]
+        },
+        {
+            "id": 3795,
+            "verse_number": 7,
+            "verse_key": "37:7",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 178,
+            "ruku_number": 388,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَحِفْظًا مِّن كُلِّ شَيْطَـٰنٍ مَّارِدٍ",
+            "page_number": 446,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99311,
+                    "resource_id": 20,
+                    "text": "And as protection against every rebellious devil"
+                },
+                {
+                    "id": 217150,
+                    "resource_id": 39,
+                    "text": "Dan (Kami pelihara urusan langit itu) dengan serapi-rapi kawalan dari (masuk campur) tiap-tiap Syaitan yang derhaka;"
+                },
+                {
+                    "id": 1094772,
+                    "resource_id": 161,
+                    "text": "আর (এটা করেছি) প্রত্যেক বিদ্রোহী শয়ত্বান থেকে সুরক্ষার ব্যবস্থা হিসেবে।"
+                }
+            ]
+        },
+        {
+            "id": 3796,
+            "verse_number": 8,
+            "verse_key": "37:8",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 178,
+            "ruku_number": 388,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "لَّا يَسَّمَّعُونَ إِلَى ٱلْمَلَإِ ٱلْأَعْلَىٰ وَيُقْذَفُونَ مِن كُلِّ جَانِبٍ",
+            "page_number": 446,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99321,
+                    "resource_id": 20,
+                    "text": "[So] they may not listen to the exalted assembly [of angels] and are pelted from every side,<sup foot_note=197181>1</sup>"
+                },
+                {
+                    "id": 217165,
+                    "resource_id": 39,
+                    "text": "(Dengan itu) mereka tidak dapat memasang telinga mendengar (percakapan malaikat) penduduk langit, dan mereka pula direjam (dengan api) dari segala arah dan penjuru,"
+                },
+                {
+                    "id": 1094773,
+                    "resource_id": 161,
+                    "text": "যার ফলে তারা উচ্চতর জগতের কিছু শুনতে পারে না, চতুর্দিক থেকে তাদের প্রতি নিক্ষেপ করা হয় (উল্কাপিন্ড)"
+                }
+            ]
+        },
+        {
+            "id": 3797,
+            "verse_number": 9,
+            "verse_key": "37:9",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 178,
+            "ruku_number": 388,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "دُحُورًا ۖ وَلَهُمْ عَذَابٌ وَاصِبٌ",
+            "page_number": 446,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99332,
+                    "resource_id": 20,
+                    "text": "Repelled; and for them is a constant punishment,"
+                },
+                {
+                    "id": 217180,
+                    "resource_id": 39,
+                    "text": "Untuk mengusir mereka; dan mereka pula beroleh azab seksa yang tidak putus-putus."
+                },
+                {
+                    "id": 1094774,
+                    "resource_id": 161,
+                    "text": "(তাদেরকে) তাড়ানোর জন্য। তাদের জন্য আছে বিরামহীন শাস্তি।"
+                }
+            ]
+        },
+        {
+            "id": 3798,
+            "verse_number": 10,
+            "verse_key": "37:10",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 178,
+            "ruku_number": 388,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "إِلَّا مَنْ خَطِفَ ٱلْخَطْفَةَ فَأَتْبَعَهُۥ شِهَابٌ ثَاقِبٌ",
+            "page_number": 446,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99156,
+                    "resource_id": 20,
+                    "text": "Except one who snatches [some words] by theft, but they are pursued by a burning flame, piercing [in brightness]."
+                },
+                {
+                    "id": 217012,
+                    "resource_id": 39,
+                    "text": "Kecuali sesiapa di antara Syaitan-syaitan itu yang curi mendengar mana-mana percakapan (malaikat), maka ia diburu dan diikuti (dengan rejaman) api yang menjulang lagi menembusi."
+                },
+                {
+                    "id": 1094775,
+                    "resource_id": 161,
+                    "text": "তবে কেউ ছোঁ মেরে কিছু শুনে ফেললে জ্বলন্ত উল্কাপিন্ড তার পিছু নেয়।"
+                }
+            ]
+        },
+        {
+            "id": 3799,
+            "verse_number": 11,
+            "verse_key": "37:11",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 178,
+            "ruku_number": 388,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فَٱسْتَفْتِهِمْ أَهُمْ أَشَدُّ خَلْقًا أَم مَّنْ خَلَقْنَآ ۚ إِنَّا خَلَقْنَـٰهُم مِّن طِينٍ لَّازِبٍۭ",
+            "page_number": 446,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99168,
+                    "resource_id": 20,
+                    "text": "Then inquire of them, [O Muḥammad], \"Are they a stronger [or more difficult] creation or those [others] We have created?\" Indeed, We created them [i.e., men] from sticky clay."
+                },
+                {
+                    "id": 217020,
+                    "resource_id": 39,
+                    "text": "(Setelah nyata kekuasaan Kami) maka bertanyalah (wahai Muhammad) kepada mereka (yang ingkarkan hidupnya semula orang-orang mati): Adakah diri mereka lebih sukar hendak diciptakan, atau makhluk-makhluk lain yang Kami telah ciptakan? Sesungguhnya Kami telah mencipta mereka dari tanah liat (yang senang diubah dan diciptakan semula)."
+                },
+                {
+                    "id": 1094776,
+                    "resource_id": 161,
+                    "text": "তাদেরকে জিজ্ঞেস কর- সৃষ্টির ক্ষেত্রে কি তারাই বেশি প্রবল, না আমি অন্য যা কিছু সৃষ্টি করেছি তা (বেশি প্রবল)? আমি তো তাদেরকে সৃষ্টি করেছি (অতি নগণ্য) মাটি থেকে।"
+                }
+            ]
+        },
+        {
+            "id": 3800,
+            "verse_number": 12,
+            "verse_key": "37:12",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 178,
+            "ruku_number": 388,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "بَلْ عَجِبْتَ وَيَسْخَرُونَ",
+            "page_number": 446,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99178,
+                    "resource_id": 20,
+                    "text": "But you wonder, while they mock,"
+                },
+                {
+                    "id": 217029,
+                    "resource_id": 39,
+                    "text": "(Pertanyaan itu tidak juga berfaedah kepada mereka) bahkan engkau merasa hairan (terhadap keingkaran mereka), dan sebaliknya mereka mengejek-ejek (peneranganmu)."
+                },
+                {
+                    "id": 1094777,
+                    "resource_id": 161,
+                    "text": "(আল্লাহর শক্তি-ক্ষমতা-মহিমা দেখে) তুমি কর বিস্ময়বোধ, আর তারা করে বিদ্রূপ।"
+                }
+            ]
+        },
+        {
+            "id": 3801,
+            "verse_number": 13,
+            "verse_key": "37:13",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 178,
+            "ruku_number": 388,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا ذُكِّرُوا۟ لَا يَذْكُرُونَ",
+            "page_number": 446,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99189,
+                    "resource_id": 20,
+                    "text": "And when they are reminded, they remember not."
+                },
+                {
+                    "id": 217039,
+                    "resource_id": 39,
+                    "text": "Dan apabila diperingatkan, mereka tetap tidak mahu menerima peringatan itu."
+                },
+                {
+                    "id": 1094778,
+                    "resource_id": 161,
+                    "text": "তাদেরকে উপদেশ দেয়া হলে তারা উপদেশ নেয় না।"
+                }
+            ]
+        },
+        {
+            "id": 3802,
+            "verse_number": 14,
+            "verse_key": "37:14",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 178,
+            "ruku_number": 388,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا رَأَوْا۟ ءَايَةً يَسْتَسْخِرُونَ",
+            "page_number": 446,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99200,
+                    "resource_id": 20,
+                    "text": "And when they see a sign, they ridicule."
+                },
+                {
+                    "id": 217048,
+                    "resource_id": 39,
+                    "text": "Dan apabila mereka melihat sesuatu tanda (yang membuktikan kekuasaan Kami dan kebenaranmu), mereka mencari-cari jalan memperolok-olokkannya, -"
+                },
+                {
+                    "id": 1094779,
+                    "resource_id": 161,
+                    "text": "তারা আল্লাহর কোন নিদর্শন দেখলে ঠাট্টা করে।"
+                }
+            ]
+        },
+        {
+            "id": 3803,
+            "verse_number": 15,
+            "verse_key": "37:15",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 178,
+            "ruku_number": 388,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَقَالُوٓا۟ إِنْ هَـٰذَآ إِلَّا سِحْرٌ مُّبِينٌ",
+            "page_number": 446,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99211,
+                    "resource_id": 20,
+                    "text": "And say, \"This is not but obvious magic."
+                },
+                {
+                    "id": 216218,
+                    "resource_id": 39,
+                    "text": "Serta mereka berkata: \"Ini tidak lain hanyalah sihir yang nyata."
+                },
+                {
+                    "id": 1094780,
+                    "resource_id": 161,
+                    "text": "আর তারা বলে- ‘এটা স্পষ্ট যাদু ছাড়া আর কিছুই না।’"
+                }
+            ]
+        },
+        {
+            "id": 3804,
+            "verse_number": 16,
+            "verse_key": "37:16",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 178,
+            "ruku_number": 388,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "أَءِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَـٰمًا أَءِنَّا لَمَبْعُوثُونَ",
+            "page_number": 446,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99222,
+                    "resource_id": 20,
+                    "text": "When we have died and become dust and bones, are we indeed to be resurrected?"
+                },
+                {
+                    "id": 216802,
+                    "resource_id": 39,
+                    "text": "\"Adakah sesudah kita mati serta menjadi tanah dan tulang, adakah kita akan dibangkitkan hidup semula?"
+                },
+                {
+                    "id": 1094781,
+                    "resource_id": 161,
+                    "text": "আমরা যখন মরব এবং মাটি ও হাড়ে পরিণত হব, তখনো কি আমাদেরকে আবার জীবিত করে উঠানো হবে?"
+                }
+            ]
+        },
+        {
+            "id": 3805,
+            "verse_number": 17,
+            "verse_key": "37:17",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 178,
+            "ruku_number": 388,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "أَوَءَابَآؤُنَا ٱلْأَوَّلُونَ",
+            "page_number": 446,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99233,
+                    "resource_id": 20,
+                    "text": "And our forefathers [as well]?\""
+                },
+                {
+                    "id": 217075,
+                    "resource_id": 39,
+                    "text": "\"Dan adakah juga datuk nenek kita yang telah lalu (akan dibangkitkan hidup semula)?\""
+                },
+                {
+                    "id": 1094782,
+                    "resource_id": 161,
+                    "text": "এবং আমাদের পূর্বপুরুষদেরকেও (উঠানো হবে)?’"
+                }
+            ]
+        },
+        {
+            "id": 3806,
+            "verse_number": 18,
+            "verse_key": "37:18",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 178,
+            "ruku_number": 388,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "قُلْ نَعَمْ وَأَنتُمْ دَٰخِرُونَ",
+            "page_number": 446,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99244,
+                    "resource_id": 20,
+                    "text": "Say, \"Yes, and you will be [rendered] contemptible.\""
+                },
+                {
+                    "id": 217088,
+                    "resource_id": 39,
+                    "text": "Jawablah (wahai Muhammad): \"Ya, benar !(Kamu semua akan dibangkitkan) dengan keadaan hina-dina \"."
+                },
+                {
+                    "id": 1094783,
+                    "resource_id": 161,
+                    "text": "তাদেরকে বল, ‘হাঁ, এবং তোমরা হবে লাঞ্ছিত।’"
+                }
+            ]
+        },
+        {
+            "id": 3807,
+            "verse_number": 19,
+            "verse_key": "37:19",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 178,
+            "ruku_number": 388,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فَإِنَّمَا هِىَ زَجْرَةٌ وَٰحِدَةٌ فَإِذَا هُمْ يَنظُرُونَ",
+            "page_number": 446,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99248,
+                    "resource_id": 20,
+                    "text": "It will be only one shout, and at once they will be observing."
+                },
+                {
+                    "id": 217090,
+                    "resource_id": 39,
+                    "text": "(Kebangkitan ini mudah) kerana sesungguhnya ia boleh berlaku hanyalah dengan suara sahaja, maka dengan serta mereka semuanya (bangkit) melihat (apa yang akan jadi)."
+                },
+                {
+                    "id": 1094784,
+                    "resource_id": 161,
+                    "text": "ওটা (হবে) মাত্র একটা প্রচন্ড শব্দ, আর তখনই তারা স্বচক্ষে (সব কিছু) দেখতে পাবে।"
+                }
+            ]
+        },
+        {
+            "id": 3808,
+            "verse_number": 20,
+            "verse_key": "37:20",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 178,
+            "ruku_number": 388,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَقَالُوا۟ يَـٰوَيْلَنَا هَـٰذَا يَوْمُ ٱلدِّينِ",
+            "page_number": 446,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 98472,
+                    "resource_id": 20,
+                    "text": "They will say, \"O woe to us! This is the Day of Recompense.\""
+                },
+                {
+                    "id": 217094,
+                    "resource_id": 39,
+                    "text": "Dan (pada saat itu) mereka berkata:\" Wahai celakanya kami, ini ialah hari balasan!\""
+                },
+                {
+                    "id": 1094785,
+                    "resource_id": 161,
+                    "text": "তারা আরো বলবে- ‘‘হায় আমাদের দুর্ভাগ্য! এটাই তো কর্মফলের দিন।’"
+                }
+            ]
+        },
+        {
+            "id": 3809,
+            "verse_number": 21,
+            "verse_key": "37:21",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 178,
+            "ruku_number": 388,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "هَـٰذَا يَوْمُ ٱلْفَصْلِ ٱلَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ",
+            "page_number": 446,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99253,
+                    "resource_id": 20,
+                    "text": "[They will be told], \"This is the Day of Judgement which you used to deny.\""
+                },
+                {
+                    "id": 217093,
+                    "resource_id": 39,
+                    "text": "(Lalu malaikat berkata kepada mereka): \" Ini ialah hari memutuskan hukum untuk memberi balasan yang dahulu kamu mendustakannya \"."
+                },
+                {
+                    "id": 1094786,
+                    "resource_id": 161,
+                    "text": "এটাই ফয়সালার দিন যাকে তোমরা মিথ্যে বলে অস্বীকার করতে।"
+                }
+            ]
+        },
+        {
+            "id": 3810,
+            "verse_number": 22,
+            "verse_key": "37:22",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 179,
+            "ruku_number": 389,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "۞ ٱحْشُرُوا۟ ٱلَّذِينَ ظَلَمُوا۟ وَأَزْوَٰجَهُمْ وَمَا كَانُوا۟ يَعْبُدُونَ",
+            "page_number": 446,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99254,
+                    "resource_id": 20,
+                    "text": "[The angels will be ordered], \"Gather those who committed wrong, their kinds,<sup foot_note=197182>1</sup> and what they used to worship"
+                },
+                {
+                    "id": 217095,
+                    "resource_id": 39,
+                    "text": "(Allah berfirman kepada malaikat):\" Himpunkanlah orang-orang yang zalim itu, dan orang-orang yang berkeadaan seperti mereka, serta benda-benda yang mereka sembah -"
+                },
+                {
+                    "id": 1094787,
+                    "resource_id": 161,
+                    "text": "(হুকুম দেয়া হবে) ‘একত্র কর যালিমদেরকে আর তাদের সঙ্গীদেরকে এবং তাদেরকেও, যাদের তারা ‘ইবাদাত করত"
+                }
+            ]
+        },
+        {
+            "id": 3811,
+            "verse_number": 23,
+            "verse_key": "37:23",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 179,
+            "ruku_number": 389,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "مِن دُونِ ٱللَّهِ فَٱهْدُوهُمْ إِلَىٰ صِرَٰطِ ٱلْجَحِيمِ",
+            "page_number": 446,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99255,
+                    "resource_id": 20,
+                    "text": "Other than Allāh, and guide them to the path of Hellfire"
+                },
+                {
+                    "id": 217096,
+                    "resource_id": 39,
+                    "text": "\"Yang lain dari Allah serta hadapkanlah mereka ke jalan yang membawa ke neraka."
+                },
+                {
+                    "id": 1094788,
+                    "resource_id": 161,
+                    "text": "আল্লাহর (‘ইবাদাতের) পরিবর্তে, আর তাদেরকে জাহান্নামের পথ দেখাও।"
+                }
+            ]
+        },
+        {
+            "id": 3812,
+            "verse_number": 24,
+            "verse_key": "37:24",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 179,
+            "ruku_number": 389,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَقِفُوهُمْ ۖ إِنَّهُم مَّسْـُٔولُونَ",
+            "page_number": 446,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99256,
+                    "resource_id": 20,
+                    "text": "And stop them; indeed, they are to be questioned.\""
+                },
+                {
+                    "id": 217099,
+                    "resource_id": 39,
+                    "text": "\"Dan hentikanlah mereka (menunggu), kerana sesungguhnya mereka akan disoal:"
+                },
+                {
+                    "id": 1094789,
+                    "resource_id": 161,
+                    "text": "অতঃপর ওদেরকে থামাও ওদেরকে তো প্রশ্ন করা হবে-"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 24,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 24
+    }
+}

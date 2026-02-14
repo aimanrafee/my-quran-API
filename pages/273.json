@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 1956,
+            "verse_number": 55,
+            "verse_key": "16:55",
+            "hizb_number": 28,
+            "rub_el_hizb_number": 109,
+            "ruku_number": 230,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "لِيَكْفُرُوا۟ بِمَآ ءَاتَيْنَـٰهُمْ ۚ فَتَمَتَّعُوا۟ ۖ فَسَوْفَ تَعْلَمُونَ",
+            "page_number": 273,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96881,
+                    "resource_id": 20,
+                    "text": "So they will deny what We have given them. Then enjoy yourselves, for you are going to know."
+                },
+                {
+                    "id": 220864,
+                    "resource_id": 39,
+                    "text": "(Mereka melakukan yang demikian) kerana mereka kufur, tidak bersyukur akan nikmat-nikmat yang kami berikan kepada mereka. Oleh itu, bersenang-senanglah kamu (dengan nikmat-nikmat itu bagi sementara di dunia), kemudian kamu akan mengetahui (balasan buruk yang akan menimpa kamu)."
+                },
+                {
+                    "id": 1092933,
+                    "resource_id": 161,
+                    "text": "আমি তাদেরকে যা দিয়েছি তাদের না-শোকরি করা জন্য। অতএব তোমরা ভোগ করে নাও, শীঘ্রই তোমরা জানতে পারবে।"
+                }
+            ]
+        },
+        {
+            "id": 1957,
+            "verse_number": 56,
+            "verse_key": "16:56",
+            "hizb_number": 28,
+            "rub_el_hizb_number": 109,
+            "ruku_number": 230,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَيَجْعَلُونَ لِمَا لَا يَعْلَمُونَ نَصِيبًا مِّمَّا رَزَقْنَـٰهُمْ ۗ تَٱللَّهِ لَتُسْـَٔلُنَّ عَمَّا كُنتُمْ تَفْتَرُونَ",
+            "page_number": 273,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96882,
+                    "resource_id": 20,
+                    "text": "And they assign to what they do not know<sup foot_note=196617>1</sup> [i.e., false deities] a portion of that which We have provided them. By Allāh, you will surely be questioned about what you used to invent."
+                },
+                {
+                    "id": 219188,
+                    "resource_id": 39,
+                    "text": "Dan mereka (yang musyrik itu) menentukan untuk keperluan benda-benda yang mereka tidak mengetahui hal keadaannya, sebahagian dari harta-benda yang kami kurniakan kepada mereka. Demi Allah! Sesungguhnya kamu akan ditanya kelak tentang apa yang kamu ada-adakan secara dusta itu."
+                },
+                {
+                    "id": 1092934,
+                    "resource_id": 161,
+                    "text": "আর আমি তাদেরকে যে রিযক দিয়েছি তার একাংশ তারা ঐ সবের জন্য নির্ধারিত করে যাদের সম্পর্কে তারা কিছুই জানে না। আল্লাহর শপথ! তোমাদের এই মিথ্যে উদ্ভাবন সম্পর্কে তোমাদেরকে অবশ্য অবশ্যই জিজ্ঞেস করা হবে"
+                }
+            ]
+        },
+        {
+            "id": 1958,
+            "verse_number": 57,
+            "verse_key": "16:57",
+            "hizb_number": 28,
+            "rub_el_hizb_number": 109,
+            "ruku_number": 230,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَيَجْعَلُونَ لِلَّهِ ٱلْبَنَـٰتِ سُبْحَـٰنَهُۥ ۙ وَلَهُم مَّا يَشْتَهُونَ",
+            "page_number": 273,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96883,
+                    "resource_id": 20,
+                    "text": "And they attribute to Allāh daughters<sup foot_note=196618>1</sup> - exalted is He - and for them is what they desire [i.e., sons]."
+                },
+                {
+                    "id": 220866,
+                    "resource_id": 39,
+                    "text": "Dan mereka mengatakan Allah mempunyai anak-anak perempuan. Maha Suci Ia. Sedang bagi mereka pula mereka sediakan apa yang mereka sukai (anak-anak lelaki)."
+                },
+                {
+                    "id": 1092935,
+                    "resource_id": 161,
+                    "text": "আর তারা কন্যা সন্তানগুলোকে আল্লাহর জন্য নির্ধারিত করে, তিনি (তাত্থেকে) পবিত্র মহান, আর তারা নিজেদের জন্য (নির্ধারিত করে) যা তাদের আকাঙ্ক্ষা হয়।"
+                }
+            ]
+        },
+        {
+            "id": 1959,
+            "verse_number": 58,
+            "verse_key": "16:58",
+            "hizb_number": 28,
+            "rub_el_hizb_number": 109,
+            "ruku_number": 230,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا بُشِّرَ أَحَدُهُم بِٱلْأُنثَىٰ ظَلَّ وَجْهُهُۥ مُسْوَدًّا وَهُوَ كَظِيمٌ",
+            "page_number": 273,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96884,
+                    "resource_id": 20,
+                    "text": "And when one of them is informed of [the birth of] a female, his face becomes dark, and he suppresses grief."
+                },
+                {
+                    "id": 220865,
+                    "resource_id": 39,
+                    "text": "Dan apabila dikhabarkan kepada seseorang dari mereka bahawa ia beroleh anak perempuan, muramlah mukanya sepanjang hari (kerana menanggung dukacita), sedang ia menahan perasaan marahnya dalam hati."
+                },
+                {
+                    "id": 1092936,
+                    "resource_id": 161,
+                    "text": "তাদের কাউকে যখন কন্যা সন্তানের সুসংবাদ দেয়া হয়, তখন তার মুখ কালো হয়ে যায় আর সে অন্তর্জ্বালায় পুড়তে থাকে।"
+                }
+            ]
+        },
+        {
+            "id": 1960,
+            "verse_number": 59,
+            "verse_key": "16:59",
+            "hizb_number": 28,
+            "rub_el_hizb_number": 109,
+            "ruku_number": 230,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "يَتَوَٰرَىٰ مِنَ ٱلْقَوْمِ مِن سُوٓءِ مَا بُشِّرَ بِهِۦٓ ۚ أَيُمْسِكُهُۥ عَلَىٰ هُونٍ أَمْ يَدُسُّهُۥ فِى ٱلتُّرَابِ ۗ أَلَا سَآءَ مَا يَحْكُمُونَ",
+            "page_number": 273,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96885,
+                    "resource_id": 20,
+                    "text": "He hides himself from the people because of the ill of which he has been informed. Should he keep it in humiliation or bury it in the ground? Unquestionably, evil is what they decide."
+                },
+                {
+                    "id": 220859,
+                    "resource_id": 39,
+                    "text": "Ia bersembunyi dari orang ramai kerana (merasa malu disebabkan) berita buruk yang disampaikan kepadanya (tentang ia beroleh anak perempuan; sambil ia berfikir): adakah ia akan memelihara anak itu dalam keadaan yang hina, atau ia akan menanamnya hidup-hidup dalam tanah? Ketahuilah! Sungguh jahat apa yang mereka hukumkan itu."
+                },
+                {
+                    "id": 1092937,
+                    "resource_id": 161,
+                    "text": "লজ্জায় সে মানুষ থেকে মুখ লুকায় খারাপ সংবাদ পাওয়ার কারণে। সে চিন্তা করে যে অপমান মাথায় করে তাকে রেখে দেবে, না তাকে মাটিতে পুঁতে ফেলবে। হায়, তারা যা সিদ্ধান্ত করে তা কতই না জঘন্য!"
+                }
+            ]
+        },
+        {
+            "id": 1961,
+            "verse_number": 60,
+            "verse_key": "16:60",
+            "hizb_number": 28,
+            "rub_el_hizb_number": 109,
+            "ruku_number": 230,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "لِلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ مَثَلُ ٱلسَّوْءِ ۖ وَلِلَّهِ ٱلْمَثَلُ ٱلْأَعْلَىٰ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+            "page_number": 273,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96888,
+                    "resource_id": 20,
+                    "text": "For those who do not believe in the Hereafter is the description [i.e., an attribute] of evil;<sup foot_note=196619>1</sup> and for Allāh is the highest attribute. And He is Exalted in Might, the Wise."
+                },
+                {
+                    "id": 220874,
+                    "resource_id": 39,
+                    "text": "Bagi mereka yang tidak beriman kepada hari akhirat itu, sifat yang buruk, dan bagi Allah jualah sifat yang tertinggi; dan Dia lah jua Yang Maha Kuasa, lagi Maha Bijaksana."
+                },
+                {
+                    "id": 1092938,
+                    "resource_id": 161,
+                    "text": "যারা আখেরাতে বিশ্বাস করে না, খারাপ উপমা তাদের জন্য। মহোত্তম উপমা সব আল্লাহর জন্য, তিনি হলেন প্রতাপান্বিত, প্রজ্ঞাময়।"
+                }
+            ]
+        },
+        {
+            "id": 1962,
+            "verse_number": 61,
+            "verse_key": "16:61",
+            "hizb_number": 28,
+            "rub_el_hizb_number": 109,
+            "ruku_number": 231,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَوْ يُؤَاخِذُ ٱللَّهُ ٱلنَّاسَ بِظُلْمِهِم مَّا تَرَكَ عَلَيْهَا مِن دَآبَّةٍ وَلَـٰكِن يُؤَخِّرُهُمْ إِلَىٰٓ أَجَلٍ مُّسَمًّى ۖ فَإِذَا جَآءَ أَجَلُهُمْ لَا يَسْتَـْٔخِرُونَ سَاعَةً ۖ وَلَا يَسْتَقْدِمُونَ",
+            "page_number": 273,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96889,
+                    "resource_id": 20,
+                    "text": "And if Allāh were to impose blame on the people for their wrongdoing, He would not have left upon it [i.e., the earth] any creature, but He defers them for a specified term. And when their term has come, they will not remain behind an hour, nor will they precede [it]."
+                },
+                {
+                    "id": 220868,
+                    "resource_id": 39,
+                    "text": "Dan kalaulah Allah menyeksa manusia disebabkan kezaliman mereka, tentulah Ia tidak membiarkan tinggal di muka bumi sesuatu makhluk yang bergerak; akan tetapi Ia memberi tempoh kepada mereka hingga ke suatu masa yang tertentu; kemudian apabila sampai tempoh mereka, tiadalah mereka akan dapat meminta dikemudiankan sesaatpun dan tidak pula mereka akan dapat meminta didahulukan."
+                },
+                {
+                    "id": 1092939,
+                    "resource_id": 161,
+                    "text": "আল্লাহ যদি মানুষকে তাদের সীমালঙ্ঘনের জন্য পাকড়াও করতেন, তাহলে যমীনের উপর কোন প্রাণীকেই তিনি রেহাই দিতেন না। কিন্তু তিনি একটা নির্দিষ্ট কাল পর্যন্ত তাদেরকে সময় দেন। তাদের সময় এসে গেলে এক মুহূর্তও অগ্র-পশ্চাৎ করা হয় না।"
+                }
+            ]
+        },
+        {
+            "id": 1963,
+            "verse_number": 62,
+            "verse_key": "16:62",
+            "hizb_number": 28,
+            "rub_el_hizb_number": 109,
+            "ruku_number": 231,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَيَجْعَلُونَ لِلَّهِ مَا يَكْرَهُونَ وَتَصِفُ أَلْسِنَتُهُمُ ٱلْكَذِبَ أَنَّ لَهُمُ ٱلْحُسْنَىٰ ۖ لَا جَرَمَ أَنَّ لَهُمُ ٱلنَّارَ وَأَنَّهُم مُّفْرَطُونَ",
+            "page_number": 273,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96890,
+                    "resource_id": 20,
+                    "text": "And they attribute to Allāh that which they dislike [i.e., daughters], and their tongues assert the lie that they will have the best [from Him]. Assuredly, they will have the Fire, and they will be [therein] neglected.<sup foot_note=196620>1</sup>"
+                },
+                {
+                    "id": 220867,
+                    "resource_id": 39,
+                    "text": "Dan mereka mengadakan bagi Allah apa yang mereka sendiri tidak menyukainya; dalam pada itu, lidah mereka memperkatakan perkara yang dusta, (kononnya) bahawa mereka akan beroleh kesudahan yang baik di sisi Allah. Tidak syak lagi, bahawa bagi merekalah api neraka, dan bahawa merekalah orang-orang yang disegerakan (masuknya ke dalam neraka)."
+                },
+                {
+                    "id": 1092940,
+                    "resource_id": 161,
+                    "text": "তারা আল্লাহর জন্য তা-ই নির্ধারণ করে যা (নিজেদের জন্য) অপছন্দ করে, আর তাদের জিহবা মিথ্যা বলে যে, কল্যাণ তাদেরই জন্য। কোন সন্দেহ নেই যে, তাদের জন্য আছে আগুন আর সর্বপ্রথম তাদেরকেই সেখানে জলদি পৌঁছে দেয়া হবে।"
+                }
+            ]
+        },
+        {
+            "id": 1964,
+            "verse_number": 63,
+            "verse_key": "16:63",
+            "hizb_number": 28,
+            "rub_el_hizb_number": 109,
+            "ruku_number": 231,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "تَٱللَّهِ لَقَدْ أَرْسَلْنَآ إِلَىٰٓ أُمَمٍ مِّن قَبْلِكَ فَزَيَّنَ لَهُمُ ٱلشَّيْطَـٰنُ أَعْمَـٰلَهُمْ فَهُوَ وَلِيُّهُمُ ٱلْيَوْمَ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+            "page_number": 273,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96891,
+                    "resource_id": 20,
+                    "text": "By Allāh, We did certainly send [messengers] to nations before you, but Satan made their deeds attractive to them. And he is their [i.e., the disbelievers] ally today [as well], and they will have a painful punishment."
+                },
+                {
+                    "id": 220873,
+                    "resource_id": 39,
+                    "text": "Demi Allah! Sesungguhnya kami juga telah mengutus Rasul-rasul kepada umat-umat yang terdahulu daripadamu (wahai Muhammad), lalu Syaitan memperelokkan pada pandangan mereka yang ingkar akan amal-amal mereka yang jahat itu; maka dia lah menjadi pemimpin mereka pada hari ini; dan mereka akan beroleh azab seksa yang tidak terperi sakitnya."
+                },
+                {
+                    "id": 1092941,
+                    "resource_id": 161,
+                    "text": "আল্লাহর কসম! তোমার পূর্বে আমি বহু জাতির কাছে রসূল পাঠিয়েছিলাম, কিন্তু শয়ত্বান তাদের কাছে তাদের কার্যকলাপকে শোভনীয় করে দিয়েছিল, আর আজ সে-ই তাদের অভিভাবক, তাদের জন্য রয়েছে ভয়াবহ শাস্তি।"
+                }
+            ]
+        },
+        {
+            "id": 1965,
+            "verse_number": 64,
+            "verse_key": "16:64",
+            "hizb_number": 28,
+            "rub_el_hizb_number": 109,
+            "ruku_number": 231,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَآ أَنزَلْنَا عَلَيْكَ ٱلْكِتَـٰبَ إِلَّا لِتُبَيِّنَ لَهُمُ ٱلَّذِى ٱخْتَلَفُوا۟ فِيهِ ۙ وَهُدًى وَرَحْمَةً لِّقَوْمٍ يُؤْمِنُونَ",
+            "page_number": 273,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96892,
+                    "resource_id": 20,
+                    "text": "And We have not revealed to you the Book, [O Muḥammad], except for you to make clear to them that wherein they have differed and as guidance and mercy for a people who believe."
+                },
+                {
+                    "id": 220876,
+                    "resource_id": 39,
+                    "text": "Dan tiadalah Kami menurunkan Al-Quran kepadamu (wahai Muhammad) melainkan supaya engkau menerangkan kepada mereka akan apa yang mereka berselisihan padanya; dan supaya menjadi petunjuk dan rahmat bagi orang-orang yang beriman."
+                },
+                {
+                    "id": 1092942,
+                    "resource_id": 161,
+                    "text": "আমি তোমার প্রতি কিতাব এজন্য নাযিল করেছি যাতে তুমি সে সকল বিষয় স্পষ্ট করে দিতে পার যে বিষয়ে তারা মতভেদ করেছিল, আর (এ কিতাব) বিশ্বাসী সম্প্রদায়ের জন্য পথপ্রদর্শক ও রহমাত স্বরূপ।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 10
+    }
+}

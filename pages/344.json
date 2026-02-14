@@ -1,0 +1,461 @@
+{
+    "verses": [
+        {
+            "id": 2701,
+            "verse_number": 28,
+            "verse_key": "23:28",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 296,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَإِذَا ٱسْتَوَيْتَ أَنتَ وَمَن مَّعَكَ عَلَى ٱلْفُلْكِ فَقُلِ ٱلْحَمْدُ لِلَّهِ ٱلَّذِى نَجَّىٰنَا مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+            "page_number": 344,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97836,
+                    "resource_id": 20,
+                    "text": "And when you have boarded the ship, you and those with you, then say, 'Praise to Allāh who has saved us from the wrongdoing people.'"
+                },
+                {
+                    "id": 215705,
+                    "resource_id": 39,
+                    "text": "\"Kemudian apabila engkau dan orang-orang yang bersamamu telah berada di atas bahtera itu maka hendaklah engkau (bersyukur kepada Allah dengan) berkata: ` Segala puji tertentu bagi Allah yang telah menyelamatkan kami daripada orang-orang yang zalim '."
+                },
+                {
+                    "id": 1093678,
+                    "resource_id": 161,
+                    "text": "যখন তুমি নৌযানে উঠে যাবে, তুমি আর তোমার সঙ্গীরা- তখন বলবে : ‘সকল প্রশংসা আল্লাহরই যিনি আমাদেরকে যালিম সম্প্রদায় থেকে উদ্ধার করেছেন।’"
+                }
+            ]
+        },
+        {
+            "id": 2702,
+            "verse_number": 29,
+            "verse_key": "23:29",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 296,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَقُل رَّبِّ أَنزِلْنِى مُنزَلًا مُّبَارَكًا وَأَنتَ خَيْرُ ٱلْمُنزِلِينَ",
+            "page_number": 344,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97837,
+                    "resource_id": 20,
+                    "text": "And say, 'My Lord, let me land at a blessed landing place, and You are the best to accommodate [us].'\""
+                },
+                {
+                    "id": 215706,
+                    "resource_id": 39,
+                    "text": "\"Dan berdoalah dengan berkata: ` Wahai Tuhanku, turunkanlah daku di tempat turun yang berkat, dan Engkau adalah sebaik-baik Pemberi tempat ' \""
+                },
+                {
+                    "id": 1093679,
+                    "resource_id": 161,
+                    "text": "আর বলো : হে আমার প্রতিপালক! আমাকে কল্যাণকরভাবে নামিয়ে দাও, নামানোতে তুমিই সর্বোত্তম।"
+                }
+            ]
+        },
+        {
+            "id": 2703,
+            "verse_number": 30,
+            "verse_key": "23:30",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 296,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ وَإِن كُنَّا لَمُبْتَلِينَ",
+            "page_number": 344,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97840,
+                    "resource_id": 20,
+                    "text": "Indeed in that are signs, and indeed, We are ever testing [Our servants]."
+                },
+                {
+                    "id": 215711,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya pada yang demikian itu terdapat tanda-tanda (yang mendatangkan iktibar); dan sesungguhnya Kami tetap menguji (hamba-hamba Kami)."
+                },
+                {
+                    "id": 1093680,
+                    "resource_id": 161,
+                    "text": "এতে অবশ্যই নিদর্শন রয়েছে (মানুষের বুঝার জন্য), আমি (মানুষকে) পরীক্ষা করি।"
+                }
+            ]
+        },
+        {
+            "id": 2704,
+            "verse_number": 31,
+            "verse_key": "23:31",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 296,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "ثُمَّ أَنشَأْنَا مِنۢ بَعْدِهِمْ قَرْنًا ءَاخَرِينَ",
+            "page_number": 344,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97841,
+                    "resource_id": 20,
+                    "text": "Then We produced after them a generation of others."
+                },
+                {
+                    "id": 215709,
+                    "resource_id": 39,
+                    "text": "Kemudian Kami ciptakan sesudah mereka, umat yang lain."
+                },
+                {
+                    "id": 1093681,
+                    "resource_id": 161,
+                    "text": "অতঃপর তাদের পর আরেক মানব বংশ (‘আদ সম্প্রদায়কে) সৃষ্টি করেছিলাম।"
+                }
+            ]
+        },
+        {
+            "id": 2705,
+            "verse_number": 32,
+            "verse_key": "23:32",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 296,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَأَرْسَلْنَا فِيهِمْ رَسُولًا مِّنْهُمْ أَنِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَـٰهٍ غَيْرُهُۥٓ ۖ أَفَلَا تَتَّقُونَ",
+            "page_number": 344,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97842,
+                    "resource_id": 20,
+                    "text": "And We sent among them a messenger<sup foot_note=196859>1</sup> from themselves, [saying], \"Worship Allāh; you have no deity other than Him; then will you not fear Him?\""
+                },
+                {
+                    "id": 215710,
+                    "resource_id": 39,
+                    "text": "Lalu Kami mengutus kepada mereka seorang Rasul dari kalangan mereka (dengan berfirman melalui Rasul itu): \"Sembahlah kamu akan Allah, (sebenarnya) tidak ada Tuhan bagi kamu selain daripadaNya. Oleh itu tidakkah kamu mahu bertaqwa kepadaNya?\""
+                },
+                {
+                    "id": 1093682,
+                    "resource_id": 161,
+                    "text": "আর তাদের মাঝে তাদেরই একজনকে রসূল করে পাঠিয়েছিলাম এই বলে যে, তোমরা আল্লাহর ‘ইবাদাত কর, তিনি ছাড়া তোমাদের কোন ইলাহ নেই, তবুও কি তোমরা (তাঁকে) ভয় করবে না?"
+                }
+            ]
+        },
+        {
+            "id": 2706,
+            "verse_number": 33,
+            "verse_key": "23:33",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 297,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَقَالَ ٱلْمَلَأُ مِن قَوْمِهِ ٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِلِقَآءِ ٱلْـَٔاخِرَةِ وَأَتْرَفْنَـٰهُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا مَا هَـٰذَآ إِلَّا بَشَرٌ مِّثْلُكُمْ يَأْكُلُ مِمَّا تَأْكُلُونَ مِنْهُ وَيَشْرَبُ مِمَّا تَشْرَبُونَ",
+            "page_number": 344,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97843,
+                    "resource_id": 20,
+                    "text": "And the eminent among his people who disbelieved and denied the meeting of the Hereafter while We had given them luxury in the worldly life said, \"This is not but a man like yourselves. He eats of that from which you eat and drinks of what you drink."
+                },
+                {
+                    "id": 215712,
+                    "resource_id": 39,
+                    "text": "Dan (bagi menolak seruan itu), ketua-ketua dari kaumnya yang kafir serta mendustakan pertemuan hari akhirat, dan yang Kami mewahkan mereka dalam kehidupan dunia, berkata (sesama sendiri) \"Orang ini hanyalah seorang manusia seperti kamu, ia makan dari apa yang kamu makan, dan meminum dari apa yang kamu minum."
+                },
+                {
+                    "id": 1093683,
+                    "resource_id": 161,
+                    "text": "কিন্তু তার সম্প্রদায়ের প্রধানগণ- যারা কুফুরী করেছিল, আর আখিরাতের সাক্ষাৎকে মিথ্যা বলে প্রত্যাখ্যান করেছিল, যাদেরকে আমি পার্থিব জীবনে সুখ স্বাচ্ছন্দ্য দিয়েছিলাম- বলেছিল : ‘সে তো তোমাদের মত মানুষ ছাড়া কিছু নয়। তোমরা যা খাও, সেও তাই খায়, তোমরা যা পান কর, সেও তাই পান করে।"
+                }
+            ]
+        },
+        {
+            "id": 2707,
+            "verse_number": 34,
+            "verse_key": "23:34",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 297,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَئِنْ أَطَعْتُم بَشَرًا مِّثْلَكُمْ إِنَّكُمْ إِذًا لَّخَـٰسِرُونَ",
+            "page_number": 344,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97844,
+                    "resource_id": 20,
+                    "text": "And if you should obey a man like yourselves, indeed, you would then be losers."
+                },
+                {
+                    "id": 215713,
+                    "resource_id": 39,
+                    "text": "\"Dan demi sesungguhnya, jika kamu taati manusia yang seperti kamu, tentulah kamu dengan membuat demikian, menjadi orang-orang yang rugi."
+                },
+                {
+                    "id": 1093684,
+                    "resource_id": 161,
+                    "text": "তোমরা যদি তোমাদের মতই একজন মানুষের আনুগত্য কর, তাহলে তোমরা অবশ্যই ক্ষতিগ্রস্ত হবে।"
+                }
+            ]
+        },
+        {
+            "id": 2708,
+            "verse_number": 35,
+            "verse_key": "23:35",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 297,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "أَيَعِدُكُمْ أَنَّكُمْ إِذَا مِتُّمْ وَكُنتُمْ تُرَابًا وَعِظَـٰمًا أَنَّكُم مُّخْرَجُونَ",
+            "page_number": 344,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97845,
+                    "resource_id": 20,
+                    "text": "Does he promise you that when you have died and become dust and bones that you will be brought forth [once more]?"
+                },
+                {
+                    "id": 215719,
+                    "resource_id": 39,
+                    "text": "\"Patutkah ia menjanjikan kamu, bahawa sesungguhnya apabila kamu mati dan menjadi tanah dan tulang, kamu akan dikeluarkan (dari kubur hidup semula)?"
+                },
+                {
+                    "id": 1093685,
+                    "resource_id": 161,
+                    "text": "সে কি তোমাদের সঙ্গে এই ওয়া‘দা করে যে, যখন তোমরা মরে যাবে আর মাটি ও হাড্ডিতে পরিণত হবে তখন তোমাদেরকে আবার জীবিত করা হবে।"
+                }
+            ]
+        },
+        {
+            "id": 2709,
+            "verse_number": 36,
+            "verse_key": "23:36",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 138,
+            "ruku_number": 297,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "۞ هَيْهَاتَ هَيْهَاتَ لِمَا تُوعَدُونَ",
+            "page_number": 344,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97846,
+                    "resource_id": 20,
+                    "text": "How far, how far, is that which you are promised.<sup foot_note=196860>1</sup>"
+                },
+                {
+                    "id": 215714,
+                    "resource_id": 39,
+                    "text": "\"Jauh, amatlah jauh (dari kebenaran) apa yang dijanjikan kepada kamu itu!"
+                },
+                {
+                    "id": 1093686,
+                    "resource_id": 161,
+                    "text": "দূরে ওটা, বহু দূরে যার ওয়া‘দা তোমাদেরকে দেয়া হচ্ছে।"
+                }
+            ]
+        },
+        {
+            "id": 2710,
+            "verse_number": 37,
+            "verse_key": "23:37",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 138,
+            "ruku_number": 297,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "إِنْ هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا نَحْنُ بِمَبْعُوثِينَ",
+            "page_number": 344,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97847,
+                    "resource_id": 20,
+                    "text": "It [i.e., life] is not but our worldly life - we die and live, but we will not be resurrected."
+                },
+                {
+                    "id": 215715,
+                    "resource_id": 39,
+                    "text": "\"Tiadalah hidup yang lain selain dari hidup kita di dunia ini. Kita mati dan kita hidup (silih berganti) dan tiadalah kita akan dibangkitkan hidup semula."
+                },
+                {
+                    "id": 1093687,
+                    "resource_id": 161,
+                    "text": "আমাদের এ দুনিয়ার জীবন ছাড়া কিছুই নেই, এখানেই আমরা মরি বাঁচি, আমাদেরকে কক্ষনো আবার উঠানো হবে না।"
+                }
+            ]
+        },
+        {
+            "id": 2711,
+            "verse_number": 38,
+            "verse_key": "23:38",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 138,
+            "ruku_number": 297,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "إِنْ هُوَ إِلَّا رَجُلٌ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا وَمَا نَحْنُ لَهُۥ بِمُؤْمِنِينَ",
+            "page_number": 344,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97848,
+                    "resource_id": 20,
+                    "text": "He is not but a man who has invented a lie about Allāh, and we will not believe him.\""
+                },
+                {
+                    "id": 215716,
+                    "resource_id": 39,
+                    "text": "\"Tiadalah dia (Nabi Hud) itu selain dari seorang lelaki yang mengada-adakan perkara dusta terhadap Allah, dan kami tidak akan beriman kepadanya\"."
+                },
+                {
+                    "id": 1093688,
+                    "resource_id": 161,
+                    "text": "সে তো এমন এক ব্যক্তি যে আল্লাহ সম্পর্কে মিথ্যে বানিয়ে নিয়েছে। আমরা তাকে বিশ্বাস করি না।’"
+                }
+            ]
+        },
+        {
+            "id": 2712,
+            "verse_number": 39,
+            "verse_key": "23:39",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 138,
+            "ruku_number": 297,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ رَبِّ ٱنصُرْنِى بِمَا كَذَّبُونِ",
+            "page_number": 344,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97849,
+                    "resource_id": 20,
+                    "text": "He said, \"My Lord, support me because they have denied me.\""
+                },
+                {
+                    "id": 215717,
+                    "resource_id": 39,
+                    "text": "Nabi Hud berdoa dengan berkata: \"Wahai TuhanKu, belalah daku, kerana mereka telah mendustakan seruanku\"."
+                },
+                {
+                    "id": 1093689,
+                    "resource_id": 161,
+                    "text": "(নবী) বলল : ‘হে আমার প্রতিপালক! তারা আমাকে মিথ্যেবাদী বলে দোষারোপ করছে- এ ব্যাপারে তুমি আমাকে সাহায্য কর।’"
+                }
+            ]
+        },
+        {
+            "id": 2713,
+            "verse_number": 40,
+            "verse_key": "23:40",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 138,
+            "ruku_number": 297,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ عَمَّا قَلِيلٍ لَّيُصْبِحُنَّ نَـٰدِمِينَ",
+            "page_number": 344,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97852,
+                    "resource_id": 20,
+                    "text": "[Allāh] said, \"After a little, they will surely become regretful.\""
+                },
+                {
+                    "id": 215720,
+                    "resource_id": 39,
+                    "text": "Allah berfirman: \"Dalam sedikit masa lagi mereka akan menjadi orang-orang yang menyesal\"."
+                },
+                {
+                    "id": 1093690,
+                    "resource_id": 161,
+                    "text": "আল্লাহ বললেন, ‘অল্প সময়ের মধ্যেই তারা অনুতপ্ত হবে।’"
+                }
+            ]
+        },
+        {
+            "id": 2714,
+            "verse_number": 41,
+            "verse_key": "23:41",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 138,
+            "ruku_number": 297,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَأَخَذَتْهُمُ ٱلصَّيْحَةُ بِٱلْحَقِّ فَجَعَلْنَـٰهُمْ غُثَآءً ۚ فَبُعْدًا لِّلْقَوْمِ ٱلظَّـٰلِمِينَ",
+            "page_number": 344,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97853,
+                    "resource_id": 20,
+                    "text": "So the shriek<sup foot_note=196862>1</sup> seized them in truth,<sup foot_note=196861>2</sup> and We made them as [plant] stubble. Then away with the wrongdoing people."
+                },
+                {
+                    "id": 215721,
+                    "resource_id": 39,
+                    "text": "Akhirnya mereka dibinasakan oleh letusan suara yang menggempakan bumi, dengan benar lagi adil, lalu Kami jadikan mereka sebagai sampah sarap (yang dihanyutkan oleh banjir). Maka kebinasaanlah kesudahannya bagi kaum yang zalim itu."
+                },
+                {
+                    "id": 1093691,
+                    "resource_id": 161,
+                    "text": "অতঃপর সত্যি সত্যিই এক ভয়ঙ্কর শব্দ তাদেরকে আঘাত করল আর তাদেরকে ভাগাড়ে পরিণত করলাম, কাজেই ধ্বংস হোক পাপী সম্প্রদায়।"
+                }
+            ]
+        },
+        {
+            "id": 2715,
+            "verse_number": 42,
+            "verse_key": "23:42",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 138,
+            "ruku_number": 297,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "ثُمَّ أَنشَأْنَا مِنۢ بَعْدِهِمْ قُرُونًا ءَاخَرِينَ",
+            "page_number": 344,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97854,
+                    "resource_id": 20,
+                    "text": "Then We produced after them other generations."
+                },
+                {
+                    "id": 215725,
+                    "resource_id": 39,
+                    "text": "Kemudian Kami ciptakan, sesudah mereka, umat-umat yang lain."
+                },
+                {
+                    "id": 1093692,
+                    "resource_id": 161,
+                    "text": "অতঃপর তাদের পরে আমি বহু জাতি সৃষ্টি করেছিলাম।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 15,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 15
+    }
+}

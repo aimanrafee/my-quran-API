@@ -1,0 +1,401 @@
+{
+    "verses": [
+        {
+            "id": 4373,
+            "verse_number": 48,
+            "verse_key": "43:48",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 197,
+            "ruku_number": 430,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا نُرِيهِم مِّنْ ءَايَةٍ إِلَّا هِىَ أَكْبَرُ مِنْ أُخْتِهَا ۖ وَأَخَذْنَـٰهُم بِٱلْعَذَابِ لَعَلَّهُمْ يَرْجِعُونَ",
+            "page_number": 493,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99871,
+                    "resource_id": 20,
+                    "text": "And We showed them not a sign except that it was greater than its sister, and We seized them with affliction that perhaps they might return [to faith]."
+                },
+                {
+                    "id": 217709,
+                    "resource_id": 39,
+                    "text": "Dan tidaklah Kami memperlihatkan kepada mereka sesuatu tanda kebenaran Nabi Musa melainkan tanda itu adalah lebih terang dari yang terdahulu daripadanya; Dan Kami timpakan mereka dengan berbagai azab (bala bencana), supaya mereka kembali (bertaubat)."
+                },
+                {
+                    "id": 1095350,
+                    "resource_id": 161,
+                    "text": "আমি তাদেরকে যে নিদর্শনই দেখাতাম তা হত পূর্ববর্তী নিদর্শন থেকে বড়। আমি তাদেরকে শাস্তি দ্বারা পাকড়াও করলাম যাতে তারা (আমার পথে) ফিরে আসে।"
+                }
+            ]
+        },
+        {
+            "id": 4374,
+            "verse_number": 49,
+            "verse_key": "43:49",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 197,
+            "ruku_number": 430,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَقَالُوا۟ يَـٰٓأَيُّهَ ٱلسَّاحِرُ ٱدْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِندَكَ إِنَّنَا لَمُهْتَدُونَ",
+            "page_number": 493,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99872,
+                    "resource_id": 20,
+                    "text": "And they said [to Moses], \"O magician, invoke for us your Lord by what He has promised you. Indeed, we will be guided.\""
+                },
+                {
+                    "id": 217711,
+                    "resource_id": 39,
+                    "text": "Dan (apabila bala bencana itu menimpa mereka), mereka merayu kepada Nabi Musa dengan berkata: \"Wahai orang yang bijak pandai, pohonkanlah kepada Tuhanmu keselamatan untuk kami dengan (kemuliaan) pangkat Nabi yang diberikan kepadamu; sesungguhnya kami (sesudah itu) akan patuh beriman\"."
+                },
+                {
+                    "id": 1095351,
+                    "resource_id": 161,
+                    "text": "(শাস্তিতে আক্রান্ত হয়ে) তারা বলেছিল- ওহে যাদুকর! তুমি আমাদের জন্য তোমার প্রতিপালকের কাছে তা চাও যার ও‘য়াদা তিনি তোমার কাছে করেছেন। আমরা অবশ্যই সৎপথে চলব।"
+                }
+            ]
+        },
+        {
+            "id": 4375,
+            "verse_number": 50,
+            "verse_key": "43:50",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 197,
+            "ruku_number": 430,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فَلَمَّا كَشَفْنَا عَنْهُمُ ٱلْعَذَابَ إِذَا هُمْ يَنكُثُونَ",
+            "page_number": 493,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99875,
+                    "resource_id": 20,
+                    "text": "But when We removed from them the affliction, at once they broke their word."
+                },
+                {
+                    "id": 217915,
+                    "resource_id": 39,
+                    "text": "Setelah Kami hapuskan azab itu daripada mereka, mereka terus mencabuli janjinya."
+                },
+                {
+                    "id": 1095352,
+                    "resource_id": 161,
+                    "text": "কিন্তু যখনই আমি তাদের থেকে শাস্তি সরিয়ে দিলাম, তখনই তারা অঙ্গীকার ভঙ্গ করে বসল।"
+                }
+            ]
+        },
+        {
+            "id": 4376,
+            "verse_number": 51,
+            "verse_key": "43:51",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 197,
+            "ruku_number": 430,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَنَادَىٰ فِرْعَوْنُ فِى قَوْمِهِۦ قَالَ يَـٰقَوْمِ أَلَيْسَ لِى مُلْكُ مِصْرَ وَهَـٰذِهِ ٱلْأَنْهَـٰرُ تَجْرِى مِن تَحْتِىٓ ۖ أَفَلَا تُبْصِرُونَ",
+            "page_number": 493,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99876,
+                    "resource_id": 20,
+                    "text": "And Pharaoh called out among his people; he said, \"O my people, does not the kingdom of Egypt belong to me, and these rivers flowing beneath me; then do you not see?"
+                },
+                {
+                    "id": 217714,
+                    "resource_id": 39,
+                    "text": "Dan Firaun pula menyeru (dengan mengisytiharkan) kepada kaumnya, katanya: \"Wahai kaumku! Bukankah kerajaan negeri Mesir ini - akulah yang menguasainya, dan sungai-sungai ini mengalir di bawah (istana) ku? Tidakkah kamu melihatnya?"
+                },
+                {
+                    "id": 1095353,
+                    "resource_id": 161,
+                    "text": "ফেরাউন তার সম্প্রদায়ের মাঝে ঘোষণা দিল। বলল- হে আমার সম্প্রদায়! মিসরের রাজত্ব কি আমার নয়? আর এ সব নদনদী আমার নীচ দিয়ে বয়ে যাচ্ছে, তোমরা কি তা দেখ না?"
+                }
+            ]
+        },
+        {
+            "id": 4377,
+            "verse_number": 52,
+            "verse_key": "43:52",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 197,
+            "ruku_number": 430,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "أَمْ أَنَا۠ خَيْرٌ مِّنْ هَـٰذَا ٱلَّذِى هُوَ مَهِينٌ وَلَا يَكَادُ يُبِينُ",
+            "page_number": 493,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99877,
+                    "resource_id": 20,
+                    "text": "Or am I [not] better than this one [i.e., Moses] who is insignificant and hardly makes himself clear?<sup foot_note=197329>1</sup>"
+                },
+                {
+                    "id": 217715,
+                    "resource_id": 39,
+                    "text": "\"Bahkan bukankah aku lebih baik daripada orang yang hina keadaannya ini, dan yang hampir-hampir tidak dapat menjelaskan perkataannya?"
+                },
+                {
+                    "id": 1095354,
+                    "resource_id": 161,
+                    "text": "আমি কি এ লোক থেকে শ্রেষ্ঠ নই যে নীচ, যে নিজের কথাটিও স্পষ্ট করে বলতে অক্ষম!"
+                }
+            ]
+        },
+        {
+            "id": 4378,
+            "verse_number": 53,
+            "verse_key": "43:53",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 197,
+            "ruku_number": 430,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فَلَوْلَآ أُلْقِىَ عَلَيْهِ أَسْوِرَةٌ مِّن ذَهَبٍ أَوْ جَآءَ مَعَهُ ٱلْمَلَـٰٓئِكَةُ مُقْتَرِنِينَ",
+            "page_number": 493,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99878,
+                    "resource_id": 20,
+                    "text": "Then why have there not been placed upon him bracelets of gold or come with him the angels in conjunction?\""
+                },
+                {
+                    "id": 217916,
+                    "resource_id": 39,
+                    "text": "\"(Kalau betul ia seorang Rasul) maka sepatutnya ia dipakaikan (oleh Tuhannya) gelang-gelang emas (yang menandakan ia seorang pemimpin), atau datang malaikat bersama-sama dengannya (sebagai saksi tentang kebenarannya)?\""
+                },
+                {
+                    "id": 1095355,
+                    "resource_id": 161,
+                    "text": "(সে যদি আল্লাহর রসূলই হয়ে থাকে) তাহলে তাঁকে কেন স্বর্ণ কঙ্কন দেয়া হল না? অথবা সারিবদ্ধভাবে ফেরেশতারা কেন তার সাথে আসল না?"
+                }
+            ]
+        },
+        {
+            "id": 4379,
+            "verse_number": 54,
+            "verse_key": "43:54",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 197,
+            "ruku_number": 430,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فَٱسْتَخَفَّ قَوْمَهُۥ فَأَطَاعُوهُ ۚ إِنَّهُمْ كَانُوا۟ قَوْمًا فَـٰسِقِينَ",
+            "page_number": 493,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99879,
+                    "resource_id": 20,
+                    "text": "So he bluffed his people, and they obeyed him. Indeed, they were [themselves] a people defiantly disobedient [of Allāh]."
+                },
+                {
+                    "id": 217917,
+                    "resource_id": 39,
+                    "text": "(Dengan yang demikian), maka Firaun memperbodohkan kaumnya, lalu mereka mematuhinya; sesungguhnya mereka itu adalah kaum yang fasik - derhaka."
+                },
+                {
+                    "id": 1095356,
+                    "resource_id": 161,
+                    "text": "এভাবে সে তার জাতির লোকেদের বোকা বানিয়ে দিল। ফলে তারা তার কথা মেনে নিল। তারা ছিল এক পাপাচারী সম্প্রদায়।"
+                }
+            ]
+        },
+        {
+            "id": 4380,
+            "verse_number": 55,
+            "verse_key": "43:55",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 197,
+            "ruku_number": 430,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فَلَمَّآ ءَاسَفُونَا ٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ أَجْمَعِينَ",
+            "page_number": 493,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99880,
+                    "resource_id": 20,
+                    "text": "And when they angered Us, We took retribution from them and drowned them all."
+                },
+                {
+                    "id": 217717,
+                    "resource_id": 39,
+                    "text": "Setelah mereka menyebabkan kemurkaan Kami (dengan perbuatan derhaka itu), Kami menyeksa mereka, iaitu menenggelamkan mereka semuanya di laut (sehingga binasa)."
+                },
+                {
+                    "id": 1095357,
+                    "resource_id": 161,
+                    "text": "তারা যখন আমাকে রাগান্বিত করল, তখন আমি তাদের উপর প্রতিশোধ নিলাম, অতঃপর সব্বাইকে ডুবিয়ে মারলাম।"
+                }
+            ]
+        },
+        {
+            "id": 4381,
+            "verse_number": 56,
+            "verse_key": "43:56",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 197,
+            "ruku_number": 430,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فَجَعَلْنَـٰهُمْ سَلَفًا وَمَثَلًا لِّلْـَٔاخِرِينَ",
+            "page_number": 493,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99881,
+                    "resource_id": 20,
+                    "text": "And We made them a precedent and an example for the later peoples."
+                },
+                {
+                    "id": 217691,
+                    "resource_id": 39,
+                    "text": "Maka kami jadikan mereka contoh dan pengajaran bagi orang-orang yang datang kemudian."
+                },
+                {
+                    "id": 1095358,
+                    "resource_id": 161,
+                    "text": "এভাবে আমি তাদেরকে করলাম অতীতের মানুষ আর পরবর্তীদের জন্য দৃষ্টান্ত।"
+                }
+            ]
+        },
+        {
+            "id": 4382,
+            "verse_number": 57,
+            "verse_key": "43:57",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 198,
+            "ruku_number": 431,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "۞ وَلَمَّا ضُرِبَ ٱبْنُ مَرْيَمَ مَثَلًا إِذَا قَوْمُكَ مِنْهُ يَصِدُّونَ",
+            "page_number": 493,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99882,
+                    "resource_id": 20,
+                    "text": "And when the son of Mary was presented as an example,<sup foot_note=197330>1</sup> immediately your people laughed aloud."
+                },
+                {
+                    "id": 217627,
+                    "resource_id": 39,
+                    "text": "Dan ketika (nabi Isa) anak Maryam dikemukakan sebagai satu misal perbandingan, (untuk membantahmu wahai Muhammad), tiba-tiba kaummu bersorak-sorak kesukaan terhadapnya (kerana menyangka bahawa mereka telah menang)."
+                },
+                {
+                    "id": 1095359,
+                    "resource_id": 161,
+                    "text": "যখন মারইয়াম-পুত্র ‘ঈসার দৃষ্টান্ত তুলে ধরা হয়, তখন তোমার জাতির লোকেরা হট্টগোল শুরু করে দেয়,"
+                }
+            ]
+        },
+        {
+            "id": 4383,
+            "verse_number": 58,
+            "verse_key": "43:58",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 198,
+            "ruku_number": 431,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَقَالُوٓا۟ ءَأَـٰلِهَتُنَا خَيْرٌ أَمْ هُوَ ۚ مَا ضَرَبُوهُ لَكَ إِلَّا جَدَلًۢا ۚ بَلْ هُمْ قَوْمٌ خَصِمُونَ",
+            "page_number": 493,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99883,
+                    "resource_id": 20,
+                    "text": "And they said, \"Are our gods better, or is he?\"<sup foot_note=197331>1</sup> They did not present it [i.e., the comparison] except for [mere] argument. But, [in fact], they are a people prone to dispute."
+                },
+                {
+                    "id": 217668,
+                    "resource_id": 39,
+                    "text": "Dan mereka berkata lagi: \"Manakah yang lebih baik, benda-benda yang kami sembah atau Isa?\" Dan (sebenarnya) mereka tidak mengemukakan perbandingan itu kepadamu (wahai Muhammad) melainkan kerana membantah semata-mata (bukan kerana mencari kebenaran); bahkan mereka itu adalah kaum yang suka sekali mengemukakan bantahan."
+                },
+                {
+                    "id": 1095360,
+                    "resource_id": 161,
+                    "text": "এবং বলে আমাদের উপাস্যরা উত্তম না ‘ঈসা? (কারণ খৃস্টানরা ‘ঈসাকে উপাস্য বানিয়েছে আর আমরা মক্কাবাসীরা উপাস্য বানিয়েছি অন্যদেরকে)। তারা শুধু বিতর্ক সৃষ্টির উদ্দেশ্যেই তোমার সামনে এ দৃষ্টান্ত পেশ করে। আসলে তারা হল এক ঝগড়াটে জাতি।"
+                }
+            ]
+        },
+        {
+            "id": 4384,
+            "verse_number": 59,
+            "verse_key": "43:59",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 198,
+            "ruku_number": 431,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَـٰهُ مَثَلًا لِّبَنِىٓ إِسْرَٰٓءِيلَ",
+            "page_number": 493,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99836,
+                    "resource_id": 20,
+                    "text": "He [i.e., Jesus] was not but a servant upon whom We bestowed favor, and We made him an example for the Children of Israel."
+                },
+                {
+                    "id": 217720,
+                    "resource_id": 39,
+                    "text": "Nabi Isa itu tidak lain hanyalah seorang hamba yang telah Kami kurniakan nikmat kepadanya (dengan pangkat Nabi), dan Kami jadikan dia satu contoh (kekuasaan kami yang menakjubkan) bagi kaum Bani Israil."
+                },
+                {
+                    "id": 1095361,
+                    "resource_id": 161,
+                    "text": "মারইয়াম-পুত্র তো শুধু একজন বান্দাহ যার প্রতি আমি অনুগ্রহ করেছিলাম আর বানী ইসরাঈলের জন্য আমি তাকে করেছিলাম (আমার কুদরাতের বিশেষ এক) নমুনা।"
+                }
+            ]
+        },
+        {
+            "id": 4385,
+            "verse_number": 60,
+            "verse_key": "43:60",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 198,
+            "ruku_number": 431,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَوْ نَشَآءُ لَجَعَلْنَا مِنكُم مَّلَـٰٓئِكَةً فِى ٱلْأَرْضِ يَخْلُفُونَ",
+            "page_number": 493,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99886,
+                    "resource_id": 20,
+                    "text": "And if We willed, We could have made [instead] of you angels succeeding [one another]<sup foot_note=197332>1</sup> on the earth."
+                },
+                {
+                    "id": 217721,
+                    "resource_id": 39,
+                    "text": "Dan kalaulah kami kehendaki, kami berkuasa melahirkan daripada kamu (wahai kaum lelaki): malaikat mengganti kamu (menjalankan urusan) di muka bumi."
+                },
+                {
+                    "id": 1095362,
+                    "resource_id": 161,
+                    "text": "আমি ইচ্ছে করলে তোমাদের মধ্য হতে ফেরেশতা পয়দা করতে পারি যারা পর পর উত্তরাধিকারী হবে।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 13,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 13
+    }
+}

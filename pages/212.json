@@ -1,0 +1,251 @@
+{
+    "verses": [
+        {
+            "id": 1390,
+            "verse_number": 26,
+            "verse_key": "10:26",
+            "hizb_number": 22,
+            "rub_el_hizb_number": 85,
+            "ruku_number": 174,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "۞ لِّلَّذِينَ أَحْسَنُوا۟ ٱلْحُسْنَىٰ وَزِيَادَةٌ ۖ وَلَا يَرْهَقُ وُجُوهَهُمْ قَتَرٌ وَلَا ذِلَّةٌ ۚ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْجَنَّةِ ۖ هُمْ فِيهَا خَـٰلِدُونَ",
+            "page_number": 212,
+            "juz_number": 11,
+            "translations": [
+                {
+                    "id": 96220,
+                    "resource_id": 20,
+                    "text": "For them who have done good is the best [reward] - and extra.<sup foot_note=196441>1</sup> No darkness will cover their faces, nor humiliation. Those are companions of Paradise; they will abide therein eternally."
+                },
+                {
+                    "id": 220848,
+                    "resource_id": 39,
+                    "text": "Untuk orang-orang yang berusaha menjadikan amalnya baik dikurniakan segala kebaikan serta satu tambahan yang mulia dan air muka mereka pula (berseri-seri) tidak diliputi oleh sebarang kesedihan dan kehinaan. Mereka itulah ahli Syurga, mereka kekal di dalamnya selama-lamanya."
+                },
+                {
+                    "id": 1092367,
+                    "resource_id": 161,
+                    "text": "যারা কল্যাণকর কাজ করে তাদের জন্য রয়েছে কল্যাণ এবং আরো অতিরিক্ত (পুরস্কার), কলংক ও লাঞ্ছনা তাদের মুখমন্ডলকে মলিন করবে না, তারাই হল জান্নাতের অধিবাসী, সেখানে তারা থাকবে চিরকাল।"
+                }
+            ]
+        },
+        {
+            "id": 1391,
+            "verse_number": 27,
+            "verse_key": "10:27",
+            "hizb_number": 22,
+            "rub_el_hizb_number": 85,
+            "ruku_number": 174,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّذِينَ كَسَبُوا۟ ٱلسَّيِّـَٔاتِ جَزَآءُ سَيِّئَةٍۭ بِمِثْلِهَا وَتَرْهَقُهُمْ ذِلَّةٌ ۖ مَّا لَهُم مِّنَ ٱللَّهِ مِنْ عَاصِمٍ ۖ كَأَنَّمَآ أُغْشِيَتْ وُجُوهُهُمْ قِطَعًا مِّنَ ٱلَّيْلِ مُظْلِمًا ۚ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَـٰلِدُونَ",
+            "page_number": 212,
+            "juz_number": 11,
+            "translations": [
+                {
+                    "id": 96222,
+                    "resource_id": 20,
+                    "text": "But they who have earned [blame for] evil doings - the recompense of an evil deed is its equivalent, and humiliation will cover them. They will have from Allāh no protector. It will be as if their faces are covered with pieces of the night - so dark [are they]. Those are the companions of the Fire; they will abide therein eternally."
+                },
+                {
+                    "id": 219322,
+                    "resource_id": 39,
+                    "text": "Dan untuk orang-orang yang melakukan kejahatan (syirik dan maksiat), balasan tiap-tiap satu kejahatan mereka ialah kejahatan yang sebanding dengannya serta akan ditimpakan kehinaan; tiadalah bagi mereka pelindung dari (seksa) Allah; muka mereka (hitam legam) seolah-olahnya ditutup dengan beberapa bahagian (yang gelap-gelita) dari malam yang gelap-gelita. Mereka itulah ahli neraka, mereka kekal di dalamnya."
+                },
+                {
+                    "id": 1092368,
+                    "resource_id": 161,
+                    "text": "পক্ষান্তরে যারা মন্দ কাজ করে, তারা তাদের মন্দ কাজের শাস্তি পাবে কাজের অনুপাতে এবং অপমান তাদেরকে আচ্ছাদিত করবে, আল্লাহর (শাস্তি) হতে কেউই তাদেরকে রক্ষা করতে পারবে না- যেন তাদের মুখমন্ডলকে আচ্ছাদিত করে দেয়া হয়েছে গাঢ় অন্ধকার রাত্রির টুকরো দিয়ে; তারা জাহান্নামের অধিবাসী, তারা তার মধ্যে চিরকাল থাকবে।"
+                }
+            ]
+        },
+        {
+            "id": 1392,
+            "verse_number": 28,
+            "verse_key": "10:28",
+            "hizb_number": 22,
+            "rub_el_hizb_number": 85,
+            "ruku_number": 174,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَيَوْمَ نَحْشُرُهُمْ جَمِيعًا ثُمَّ نَقُولُ لِلَّذِينَ أَشْرَكُوا۟ مَكَانَكُمْ أَنتُمْ وَشُرَكَآؤُكُمْ ۚ فَزَيَّلْنَا بَيْنَهُمْ ۖ وَقَالَ شُرَكَآؤُهُم مَّا كُنتُمْ إِيَّانَا تَعْبُدُونَ",
+            "page_number": 212,
+            "juz_number": 11,
+            "translations": [
+                {
+                    "id": 96224,
+                    "resource_id": 20,
+                    "text": "And [mention, O Muḥammad], the Day We will gather them all together - then We will say to those who associated others with Allāh, \"[Remain in] your place, you and your 'partners.'\"<sup foot_note=196444>1</sup> Then We will separate them,<sup foot_note=196443>2</sup> and their \"partners\" will say, \"You did not used to worship us,<sup foot_note=196442>3</sup>"
+                },
+                {
+                    "id": 219325,
+                    "resource_id": 39,
+                    "text": "Dan (ingatlah) masa Kami himpunkan mereka semua (pada hari kiamat), kemudian Kami berfirman kepada orang-orang musyrik: \"Tunggulah di tempat kamu semua, kamu dan makhluk-makhluk yang kamu jadikan sekutu\"; sesudah itu kami putuskan perhubungan baik di antara mereka. Dan berkatalah makhluk-makhluk yang mereka sembah itu (sebagai berlepas diri): \"Bukanlah kami - yang kamu puja dan taat (sebenarnya kamu hanya memuja dan mentaati hawa nafsu kamu sendiri)!"
+                },
+                {
+                    "id": 1092369,
+                    "resource_id": 161,
+                    "text": "সেদিন আমি তাদের সবাইকে একত্রিত করে যারা শিরক করেছিল তাদেরকে বলব, ‘‘তোমরা এবং তোমরা যাদেরকে শরীক করেছিলে তারা নিজ নিজ জায়গায় থাক।’’ আমি তাদেরকে পরস্পর থেকে পৃথক করে দেব আর তারা যাদেরকে শরীক করেছিল তারা বলবে, ‘তোমরা তো আমাদের ‘ইবাদাত করতে না।’"
+                }
+            ]
+        },
+        {
+            "id": 1393,
+            "verse_number": 29,
+            "verse_key": "10:29",
+            "hizb_number": 22,
+            "rub_el_hizb_number": 85,
+            "ruku_number": 174,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "فَكَفَىٰ بِٱللَّهِ شَهِيدًۢا بَيْنَنَا وَبَيْنَكُمْ إِن كُنَّا عَنْ عِبَادَتِكُمْ لَغَـٰفِلِينَ",
+            "page_number": 212,
+            "juz_number": 11,
+            "translations": [
+                {
+                    "id": 96226,
+                    "resource_id": 20,
+                    "text": "And sufficient is Allāh as a witness between us and you that we were of your worship unaware.\""
+                },
+                {
+                    "id": 219185,
+                    "resource_id": 39,
+                    "text": "\"(Allah mengetahui apa yang sebenarnya); oleh itu, cukuplah Allah sebagai saksi antara kami dengan kamu, bahawa sesungguhnya kami tidak menyedari pujaan atau penyembahan kamu (kepada kami)\"."
+                },
+                {
+                    "id": 1092370,
+                    "resource_id": 161,
+                    "text": "এখন আল্লাহই আমাদের আর তোমাদের মাঝে সাক্ষী হিসেবে যথেষ্ট, আমরা তোমাদের ‘ইবাদাতের ব্যাপারে সম্পূর্ণ বেখবর ছিলাম।’"
+                }
+            ]
+        },
+        {
+            "id": 1394,
+            "verse_number": 30,
+            "verse_key": "10:30",
+            "hizb_number": 22,
+            "rub_el_hizb_number": 85,
+            "ruku_number": 174,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "هُنَالِكَ تَبْلُوا۟ كُلُّ نَفْسٍ مَّآ أَسْلَفَتْ ۚ وَرُدُّوٓا۟ إِلَى ٱللَّهِ مَوْلَىٰهُمُ ٱلْحَقِّ ۖ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ",
+            "page_number": 212,
+            "juz_number": 11,
+            "translations": [
+                {
+                    "id": 96228,
+                    "resource_id": 20,
+                    "text": "There, [on that Day], every soul will be put to trial for what it did previously, and they will be returned to Allāh, their master, the Truth, and lost from them is whatever they used to invent."
+                },
+                {
+                    "id": 220836,
+                    "resource_id": 39,
+                    "text": "Pada masa itu tiap-tiap diri dapatlah mengetahui (dan merasai) akan apa yang telah dikerjakan dan mereka dikembalikan kepada Allah Tuhan mereka yang sebenar-benarnya (yang akan membalas dengan adilnya); dan (dengan itu) hilang lenyaplah dari mereka apa yang mereka ada-adakan."
+                },
+                {
+                    "id": 1092371,
+                    "resource_id": 161,
+                    "text": "সেখানে প্রতিটি আত্মা তার পূর্বকৃত কাজ (এর ফলাফল) দেখতে পাবে। তাদেরকে তাদের প্রকৃত অভিভাবক আল্লাহর নিকট ফিরিয়ে আনা হবে, আর তাদের রচিত সকল মিথ্যা তাদের থেকে বিলীন হয়ে যাবে।"
+                }
+            ]
+        },
+        {
+            "id": 1395,
+            "verse_number": 31,
+            "verse_key": "10:31",
+            "hizb_number": 22,
+            "rub_el_hizb_number": 85,
+            "ruku_number": 175,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "قُلْ مَن يَرْزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ أَمَّن يَمْلِكُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَمَن يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَيُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ وَمَن يُدَبِّرُ ٱلْأَمْرَ ۚ فَسَيَقُولُونَ ٱللَّهُ ۚ فَقُلْ أَفَلَا تَتَّقُونَ",
+            "page_number": 212,
+            "juz_number": 11,
+            "translations": [
+                {
+                    "id": 96229,
+                    "resource_id": 20,
+                    "text": "Say, \"Who provides for you from the heaven and the earth? Or who controls hearing and sight and who brings the living out of the dead and brings the dead out of the living and who arranges [every] matter?\" They will say, \"Allāh,\" so say, \"Then will you not fear Him?\""
+                },
+                {
+                    "id": 220092,
+                    "resource_id": 39,
+                    "text": "Bertanyalah kepada mereka (yang musyrik itu): \"Siapakah Yang memberi rezeki kepada kamu dari langit dan bumi? Atau siapakah yang menguasai pendengaran dan penglihatan? Dan siapakah yang mengeluarkan makhluk yang hidup dari benda yang mati, dan mengeluarkan benda yang mati dari makhluk yang hidup? Dan siapakah pula yang mentadbirkan urusan sekalian alam? \"(Dengan pertanyaan-pertanyaan itu) maka mereka (yang musyrik) tetap akan menjawab (mengakui) dengan berkata: \"Allah jualah yang menguasai segala-galanya! \"Oleh itu, katakanlah: \"(Jika kamu mengakui yang demikian), maka mengapa kamu tidak mahu bertaqwa?"
+                },
+                {
+                    "id": 1092372,
+                    "resource_id": 161,
+                    "text": "তাদের জিজ্ঞেস কর, ‘আকাশ আর যমীন হতে কে তাদের জীবিকার ব্যবস্থা করে? কিংবা শ্রবণশক্তি ও দর্শনশক্তি কার মালিকানাধীন? আর মৃত থেকে জীবিতকে কে বের করেন আর কে মৃতকে জীবিত থেকে বের করেন? যাবতীয় বিষয়ের শাসন ও নিয়ন্ত্রণ কার অধীনস্থ?’ তারা বলে উঠবে, ‘‘আল্লাহ’’। তাহলে তাদেরকে বল, ‘তবুও তোমরা তাক্বওয়াহ অবলম্বন করবে না?’"
+                }
+            ]
+        },
+        {
+            "id": 1396,
+            "verse_number": 32,
+            "verse_key": "10:32",
+            "hizb_number": 22,
+            "rub_el_hizb_number": 85,
+            "ruku_number": 175,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "فَذَٰلِكُمُ ٱللَّهُ رَبُّكُمُ ٱلْحَقُّ ۖ فَمَاذَا بَعْدَ ٱلْحَقِّ إِلَّا ٱلضَّلَـٰلُ ۖ فَأَنَّىٰ تُصْرَفُونَ",
+            "page_number": 212,
+            "juz_number": 11,
+            "translations": [
+                {
+                    "id": 96231,
+                    "resource_id": 20,
+                    "text": "For that is Allāh, your Lord, the Truth. And what can be beyond truth except error? So how are you averted?"
+                },
+                {
+                    "id": 220832,
+                    "resource_id": 39,
+                    "text": "Maka yang demikian (sifatNya dan kekuasaanNya) ialah Allah, Tuhan kamu yang sebenar-benarnya; sesudah nyatanya sesuatu yang betul dan benar, maka tidakkah yang lain daripada itu salah dan karut sahaja? Oleh itu, bagaimana kamu dapat dipesongkan dari kebenaran?"
+                },
+                {
+                    "id": 1092373,
+                    "resource_id": 161,
+                    "text": "তিনিই আল্লাহ, তোমাদের প্রকৃত প্রতিপালক। প্রকৃত সত্যের পর গুমারাহী ছাড়া আর কী থাকতে পারে? তোমাদেরকে কোনদিকে ঘুরানো হচ্ছে?"
+                }
+            ]
+        },
+        {
+            "id": 1397,
+            "verse_number": 33,
+            "verse_key": "10:33",
+            "hizb_number": 22,
+            "rub_el_hizb_number": 85,
+            "ruku_number": 175,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "كَذَٰلِكَ حَقَّتْ كَلِمَتُ رَبِّكَ عَلَى ٱلَّذِينَ فَسَقُوٓا۟ أَنَّهُمْ لَا يُؤْمِنُونَ",
+            "page_number": 212,
+            "juz_number": 11,
+            "translations": [
+                {
+                    "id": 96233,
+                    "resource_id": 20,
+                    "text": "Thus the word [i.e., decree] of your Lord has come into effect upon those who defiantly disobeyed - that they will not believe."
+                },
+                {
+                    "id": 220221,
+                    "resource_id": 39,
+                    "text": "(Sebagaimana benarnya ketuhanan itu bagi Allah sahaja) demikianlah benarnya kalimah ketetapan hukum Tuhanmu, terhadap orang-orang yang fasik kerana bahawasanya mereka tidak beriman."
+                },
+                {
+                    "id": 1092374,
+                    "resource_id": 161,
+                    "text": "এভাবে সত্য প্রত্যাখ্যানকারীদের ব্যাপারে তোমার প্রতিপালকের কথা সত্য সাব্যস্ত হয়েছে যে, তারা ঈমান আনবে না।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 8,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 8
+    }
+}

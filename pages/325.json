@@ -1,0 +1,281 @@
+{
+    "verses": [
+        {
+            "id": 2519,
+            "verse_number": 36,
+            "verse_key": "21:36",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 130,
+            "ruku_number": 280,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا رَءَاكَ ٱلَّذِينَ كَفَرُوٓا۟ إِن يَتَّخِذُونَكَ إِلَّا هُزُوًا أَهَـٰذَا ٱلَّذِى يَذْكُرُ ءَالِهَتَكُمْ وَهُم بِذِكْرِ ٱلرَّحْمَـٰنِ هُمْ كَـٰفِرُونَ",
+            "page_number": 325,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97472,
+                    "resource_id": 20,
+                    "text": "And when those who disbelieve see you, [O Muḥammad], they take you not except in ridicule, [saying], \"Is this the one who mentions [i.e., insults] your gods?\" And they are, at the mention of the Most Merciful, disbelievers."
+                },
+                {
+                    "id": 215348,
+                    "resource_id": 39,
+                    "text": "Dan apabila orang-orang kafir itu melihatmu, mereka hanyalah menjadikan perkara yang engkau sampaikan itu sebagai ejek-ejekan sahaja, sambil berkata sesama sendiri: \"Inikah dia orangnya yang mencaci tuhan-tuhan kamu?\" (Mereka berkata demikian) sedang mereka sendiri kufur ingkar kepada Al-Quran yang mengandungi peringatan Allah yang melimpah-limpah rahmatNya."
+                },
+                {
+                    "id": 1093496,
+                    "resource_id": 161,
+                    "text": "কাফিররা যখন তোমাকে দেখে, তখন তারা তোমাকে একমাত্র উপহাসের পাত্র হিসেবেই গণ্য করে। (আর তারা বলে) ‘এই কি সেই লোক যে তোমাদের দেবতাগুলোর ব্যাপারে কথা বলে? অথচ এই লোকগুলোই ‘রহমান’ (শব্দটির) উল্লেখকে অগ্রাহ্য করে।"
+                }
+            ]
+        },
+        {
+            "id": 2520,
+            "verse_number": 37,
+            "verse_key": "21:37",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 130,
+            "ruku_number": 280,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "خُلِقَ ٱلْإِنسَـٰنُ مِنْ عَجَلٍ ۚ سَأُو۟رِيكُمْ ءَايَـٰتِى فَلَا تَسْتَعْجِلُونِ",
+            "page_number": 325,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97474,
+                    "resource_id": 20,
+                    "text": "Man was created of haste [i.e., impatience]. I will show you My signs [i.e., vengeance], so do not impatiently urge Me."
+                },
+                {
+                    "id": 215357,
+                    "resource_id": 39,
+                    "text": "Jenis manusia dijadikan bertabiat terburu-buru dalam segala halya; Aku (Allah) akan perlihatkan kepada kamu tanda-tanda kekuasaanKu; maka janganlah kamu meminta disegerakan (kedatangannya)."
+                },
+                {
+                    "id": 1093497,
+                    "resource_id": 161,
+                    "text": "মানুষকে তাড়াহুড়াকারী করে সৃষ্টি করা হয়েছে। শীঘ্রই আমি তোমাদেরকে আমার নিদর্শনগুলো দেখাব (যে সব অলৌকিক ব্যাপার বদর ও অন্যান্য যুদ্ধে কাফিরদেরকে দেখানো হয়েছিল), কাজেই তোমরা আমাকে জলদি করতে বল না।"
+                }
+            ]
+        },
+        {
+            "id": 2521,
+            "verse_number": 38,
+            "verse_key": "21:38",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 130,
+            "ruku_number": 280,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَيَقُولُونَ مَتَىٰ هَـٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَـٰدِقِينَ",
+            "page_number": 325,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97476,
+                    "resource_id": 20,
+                    "text": "And they say, \"When is this promise, if you should be truthful?\""
+                },
+                {
+                    "id": 215350,
+                    "resource_id": 39,
+                    "text": "Dan (kerana tabiat terburu-burunya) mereka berkata: \"Bilakah berlakunya janji azab itu, jika betul kamu orang-orang yang berkata benar?\"."
+                },
+                {
+                    "id": 1093498,
+                    "resource_id": 161,
+                    "text": "আর তারা বলে ‘তোমরা যদি সত্যবাদী হও তাহলে (বল) প্রতিশ্রুতি কখন বাস্তবে পরিণত হবে?’"
+                }
+            ]
+        },
+        {
+            "id": 2522,
+            "verse_number": 39,
+            "verse_key": "21:39",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 130,
+            "ruku_number": 280,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "لَوْ يَعْلَمُ ٱلَّذِينَ كَفَرُوا۟ حِينَ لَا يَكُفُّونَ عَن وُجُوهِهِمُ ٱلنَّارَ وَلَا عَن ظُهُورِهِمْ وَلَا هُمْ يُنصَرُونَ",
+            "page_number": 325,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97478,
+                    "resource_id": 20,
+                    "text": "If those who disbelieved but knew the time when they will not avert the Fire from their faces or from their backs and they will not be aided...<sup foot_note=196794>1</sup>"
+                },
+                {
+                    "id": 215353,
+                    "resource_id": 39,
+                    "text": "Kalaulah orang-orang kafir itu mengetahui apa yang akan menimpa mereka ketika mereka tidak dapat menahan atau mengelakkan api neraka dari muka dan belakang mereka, dan mereka pula tidak diberi pertolongan, (tentulah mereka segera beriman, dan tidak berkata demikian)."
+                },
+                {
+                    "id": 1093499,
+                    "resource_id": 161,
+                    "text": "অবিশ্বাসীরা যদি (সে সময়ের কথা) জানত যখন তারা তাদের মুখ হতে অগ্নি প্রতিরোধ করতে পারবে না, আর তাদের পিঠ থেকেও না, আর তারা সাহায্যপ্রাপ্তও হবে না।"
+                }
+            ]
+        },
+        {
+            "id": 2523,
+            "verse_number": 40,
+            "verse_key": "21:40",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 130,
+            "ruku_number": 280,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "بَلْ تَأْتِيهِم بَغْتَةً فَتَبْهَتُهُمْ فَلَا يَسْتَطِيعُونَ رَدَّهَا وَلَا هُمْ يُنظَرُونَ",
+            "page_number": 325,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97482,
+                    "resource_id": 20,
+                    "text": "Rather, it will come to them unexpectedly and bewilder them, and they will not be able to repel it, nor will they be reprieved."
+                },
+                {
+                    "id": 215359,
+                    "resource_id": 39,
+                    "text": "(Mereka tidak diberitahu akan masa itu) bahkan (yang dijanjikan) itu akan datang kepada mereka secara mengejut, serta terus membingungkan mereka; maka mereka tidak akan terdaya menolaknya, dan tidak akan diberi tempoh bertaubat."
+                },
+                {
+                    "id": 1093500,
+                    "resource_id": 161,
+                    "text": "বরং তা তাদের উপর হঠাৎ এসে যাবে আর তা তাদেরকে হতবুদ্ধি করে দেবে। অতঃপর তারা তা রোধ করতে পারবে না, আর তাদেরকে অবকাশও দেয়া হবে না।"
+                }
+            ]
+        },
+        {
+            "id": 2524,
+            "verse_number": 41,
+            "verse_key": "21:41",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 130,
+            "ruku_number": 280,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ فَحَاقَ بِٱلَّذِينَ سَخِرُوا۟ مِنْهُم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+            "page_number": 325,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97484,
+                    "resource_id": 20,
+                    "text": "And already were messengers ridiculed before you, but those who mocked them were enveloped by what they used to ridicule."
+                },
+                {
+                    "id": 215363,
+                    "resource_id": 39,
+                    "text": "Dan demi sesungguhnya, telah diperolok-olokkan beberapa Rasul sebelummu, lalu orang-orang yang mengejek-ejek di antara mereka, ditimpakan balasan azab bagi apa yang mereka telah perolok-olokkan itu."
+                },
+                {
+                    "id": 1093501,
+                    "resource_id": 161,
+                    "text": "তোমার পূর্বেও রসূলদেরকে ঠাট্টা করা হয়েছে, অতঃপর যা দিয়ে তারা ঠাট্টা করত তা উল্টো ঠাট্টা-বিদ্রুপই তাদেরকে পরিবেষ্টন করে নিয়েছিল।"
+                }
+            ]
+        },
+        {
+            "id": 2525,
+            "verse_number": 42,
+            "verse_key": "21:42",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 130,
+            "ruku_number": 281,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قُلْ مَن يَكْلَؤُكُم بِٱلَّيْلِ وَٱلنَّهَارِ مِنَ ٱلرَّحْمَـٰنِ ۗ بَلْ هُمْ عَن ذِكْرِ رَبِّهِم مُّعْرِضُونَ",
+            "page_number": 325,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97486,
+                    "resource_id": 20,
+                    "text": "Say, \"Who can protect you at night or by day from the Most Merciful?\" But they are, from the remembrance of their Lord, turning away."
+                },
+                {
+                    "id": 215361,
+                    "resource_id": 39,
+                    "text": "Katakanlah (wahai Muhammad): \"Siapakah yang dapat menjaga keselamatan kamu pada malam dan siang daripada azab Tuhan yang bersifat Maha Pemurah?\" (Mereka tidak memikirkan yang demikian) bahkan mereka tetap berpaling ingkar dari pengajaran Tuhan mereka."
+                },
+                {
+                    "id": 1093502,
+                    "resource_id": 161,
+                    "text": "বল, ‘কে তোমাদেরকে রাতে আর দিনে রহমান (এর গযব) থেকে নিরাপদ রাখতে পারে? তবুও তারা তাদের প্রতিপালকের স্মরণ থেকে মুখ ফিরিয়ে নেয়।"
+                }
+            ]
+        },
+        {
+            "id": 2526,
+            "verse_number": 43,
+            "verse_key": "21:43",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 130,
+            "ruku_number": 281,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "أَمْ لَهُمْ ءَالِهَةٌ تَمْنَعُهُم مِّن دُونِنَا ۚ لَا يَسْتَطِيعُونَ نَصْرَ أَنفُسِهِمْ وَلَا هُم مِّنَّا يُصْحَبُونَ",
+            "page_number": 325,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97488,
+                    "resource_id": 20,
+                    "text": "Or do they have gods to defend them other than Us? They are unable [even] to help themselves, nor can they be protected from Us."
+                },
+                {
+                    "id": 215344,
+                    "resource_id": 39,
+                    "text": "Tidak ada bagi mereka tuhan-tuhan yang dapat melindungi mereka dari azab Kami. Mereka yang dipertuhankan itu tidak dapat menolong dirinya sendiri, dan tidak pula mereka dibantu dengan pertolongan dari pihak Kami."
+                },
+                {
+                    "id": 1093503,
+                    "resource_id": 161,
+                    "text": "তবে কি তাদের এমন দেবদেবী আছে যা তাদেরকে রক্ষা করবে আমার (প্রতিরক্ষা) ছাড়াই? তারা তো নিজেদেরকেই সাহায্য করতে পারে না, আর তারা আমার বিরুদ্ধে কোন প্রতিরক্ষাও পাবে না।"
+                }
+            ]
+        },
+        {
+            "id": 2527,
+            "verse_number": 44,
+            "verse_key": "21:44",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 130,
+            "ruku_number": 281,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "بَلْ مَتَّعْنَا هَـٰٓؤُلَآءِ وَءَابَآءَهُمْ حَتَّىٰ طَالَ عَلَيْهِمُ ٱلْعُمُرُ ۗ أَفَلَا يَرَوْنَ أَنَّا نَأْتِى ٱلْأَرْضَ نَنقُصُهَا مِنْ أَطْرَافِهَآ ۚ أَفَهُمُ ٱلْغَـٰلِبُونَ",
+            "page_number": 325,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97490,
+                    "resource_id": 20,
+                    "text": "But, [on the contrary], We have provided good things for these [disbelievers] and their fathers until life was prolonged for them. Then do they not see that We set upon the land, reducing it from its borders?<sup foot_note=196795>1</sup> Is it they who will overcome?"
+                },
+                {
+                    "id": 215367,
+                    "resource_id": 39,
+                    "text": "(Bukan benda-benda yang dipertuhankan itu yang memberi kesenangan kepada mereka) bahkan Kami biarkan mereka dan datuk-nenek mereka menikmati (kesenangan hidup) hingga berlanjutanlah umur mereka (dalam keadaan yang menyebabkan berlaku perkara yang tidak diingini mereka). Maka tidakkah mereka melihat bahawa kami datangi daerah bumi yang mereka kuasai dengan menguranginya sedikit demi sedikit dari sempadan-sempadannya? Jika demikian halnya, maka adakah mereka yang akan menang?"
+                },
+                {
+                    "id": 1093504,
+                    "resource_id": 161,
+                    "text": "বরং আমিই তাদেরকে আর তাদের পিতৃ-পুরুষদেরকে পার্থিব ভোগ্যবস্তু দিয়েছিলাম আর তাদেরকে আয়ুও দেয়া হয়েছিল দীর্ঘ; তারা কি দেখছে না যে, আমি তাদের দেশকে চারপাশের (তাদের নিয়ন্ত্রিত) সীমান্ত হতে সংকুচিত করে আনছি? এরপরও কি তারা বিজয়ী হবে?’"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 9,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 9
+    }
+}

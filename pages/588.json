@@ -1,0 +1,851 @@
+{
+    "verses": [
+        {
+            "id": 5855,
+            "verse_number": 7,
+            "verse_key": "83:7",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 527,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "كَلَّآ إِنَّ كِتَـٰبَ ٱلْفُجَّارِ لَفِى سِجِّينٍ",
+            "page_number": 588,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101957,
+                    "resource_id": 20,
+                    "text": "No! Indeed, the record of the wicked is in sijjeen."
+                },
+                {
+                    "id": 219831,
+                    "resource_id": 39,
+                    "text": "Tidak sepatutnya (mereka melakukan perbuatan yang salah itu dan melalaikan hari akhirat)! Sesungguhnya \"kitab suratan amal\" orang-orang yang berdosa itu (didaftarkan) dalam \"Sijjiin\"."
+                },
+                {
+                    "id": 1096832,
+                    "resource_id": 161,
+                    "text": "(তারা যে সব ধারণা করছে তা) কক্ষনো না, নিশ্চয়ই পাপীদের ‘আমালনামা সিজ্জীনে (সংরক্ষিত) আছে।"
+                }
+            ]
+        },
+        {
+            "id": 5856,
+            "verse_number": 8,
+            "verse_key": "83:8",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 527,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا سِجِّينٌ",
+            "page_number": 588,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101959,
+                    "resource_id": 20,
+                    "text": "And what can make you know what is sijjeen?"
+                },
+                {
+                    "id": 219783,
+                    "resource_id": 39,
+                    "text": "Dan apa jalannya engkau dapat mengetahui: apa dia \"Sijjiin\" itu,"
+                },
+                {
+                    "id": 1096833,
+                    "resource_id": 161,
+                    "text": "তুমি কি জান সিজ্জীন কী"
+                }
+            ]
+        },
+        {
+            "id": 5857,
+            "verse_number": 9,
+            "verse_key": "83:9",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 527,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "كِتَـٰبٌ مَّرْقُومٌ",
+            "page_number": 588,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101961,
+                    "resource_id": 20,
+                    "text": "It is [their destination<sup foot_note=197726>1</sup> recorded in] a register inscribed."
+                },
+                {
+                    "id": 219785,
+                    "resource_id": 39,
+                    "text": "Ialah (tempat simpanan) kitab catitan yang jelas nyata, (yang menghimpunkan amalan orang-orang yang berdosa)."
+                },
+                {
+                    "id": 1096834,
+                    "resource_id": 161,
+                    "text": "সীলমোহরকৃত কিতাব।"
+                }
+            ]
+        },
+        {
+            "id": 5858,
+            "verse_number": 10,
+            "verse_key": "83:10",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 527,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+            "page_number": 588,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101918,
+                    "resource_id": 20,
+                    "text": "Woe, that Day, to the deniers,"
+                },
+                {
+                    "id": 215005,
+                    "resource_id": 39,
+                    "text": "Kecelakaan besar, pada hari itu, bagi orang-orang yang mendustakan -"
+                },
+                {
+                    "id": 1096835,
+                    "resource_id": 161,
+                    "text": "সেদিন দুর্ভোগ হবে অস্বীকারকারীদের,"
+                }
+            ]
+        },
+        {
+            "id": 5859,
+            "verse_number": 11,
+            "verse_key": "83:11",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 527,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِينَ يُكَذِّبُونَ بِيَوْمِ ٱلدِّينِ",
+            "page_number": 588,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101919,
+                    "resource_id": 20,
+                    "text": "Who deny the Day of Recompense."
+                },
+                {
+                    "id": 219744,
+                    "resource_id": 39,
+                    "text": "Iaitu mereka yang mendustakan hari pembalasan."
+                },
+                {
+                    "id": 1096836,
+                    "resource_id": 161,
+                    "text": "যারা কর্মফল দিবসকে অস্বীকার করে।"
+                }
+            ]
+        },
+        {
+            "id": 5860,
+            "verse_number": 12,
+            "verse_key": "83:12",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 527,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا يُكَذِّبُ بِهِۦٓ إِلَّا كُلُّ مُعْتَدٍ أَثِيمٍ",
+            "page_number": 588,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101920,
+                    "resource_id": 20,
+                    "text": "And none deny it except every sinful transgressor."
+                },
+                {
+                    "id": 219745,
+                    "resource_id": 39,
+                    "text": "Dan tiada yang mendustakannya melainkan tiap-tiap orang yang melampaui batas (kebenaran), lagi amat derhaka!"
+                },
+                {
+                    "id": 1096837,
+                    "resource_id": 161,
+                    "text": "কেবল সীমালঙ্ঘনকারী, পাপাচারী ছাড়া কেউই তা অস্বীকার করে না।"
+                }
+            ]
+        },
+        {
+            "id": 5861,
+            "verse_number": 13,
+            "verse_key": "83:13",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 527,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِذَا تُتْلَىٰ عَلَيْهِ ءَايَـٰتُنَا قَالَ أَسَـٰطِيرُ ٱلْأَوَّلِينَ",
+            "page_number": 588,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101921,
+                    "resource_id": 20,
+                    "text": "When Our verses are recited to him, he says, \"Legends of the former peoples.\""
+                },
+                {
+                    "id": 219821,
+                    "resource_id": 39,
+                    "text": "(Sehingga) apabila ia dibacakan kepadanya ayat-ayat Kami, ia berkata:\" Ini ialah dongeng orang-orang dahulu kala!\""
+                },
+                {
+                    "id": 1096838,
+                    "resource_id": 161,
+                    "text": "তার সামনে যখন আমার আয়াত পড়ে শোনানো হয়, তখন সে বলে, ‘এ তো প্রাচীন কালের লোকেদের কাহিনী’’।"
+                }
+            ]
+        },
+        {
+            "id": 5862,
+            "verse_number": 14,
+            "verse_key": "83:14",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 527,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "كَلَّا ۖ بَلْ ۜ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُوا۟ يَكْسِبُونَ",
+            "page_number": 588,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101922,
+                    "resource_id": 20,
+                    "text": "No! Rather, the stain has covered their hearts of that which they were earning.<sup foot_note=197727>1</sup>"
+                },
+                {
+                    "id": 219824,
+                    "resource_id": 39,
+                    "text": "Sebenarnya! (Ayat-ayat Kami itu tidak ada cacatnya) bahkan mata hati mereka telah diselaputi kekotoran (dosa), dengan sebab (perbuatan kufur dan maksiat) yang mereka kerjakan."
+                },
+                {
+                    "id": 1096839,
+                    "resource_id": 161,
+                    "text": "কক্ষনো না, বরং তাদের কৃতকর্মই তাদের অন্তরে জং ধরিয়ে দিয়েছে।"
+                }
+            ]
+        },
+        {
+            "id": 5863,
+            "verse_number": 15,
+            "verse_key": "83:15",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 527,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "كَلَّآ إِنَّهُمْ عَن رَّبِّهِمْ يَوْمَئِذٍ لَّمَحْجُوبُونَ",
+            "page_number": 588,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101923,
+                    "resource_id": 20,
+                    "text": "No! Indeed, from their Lord, that Day, they will be partitioned.<sup foot_note=197728>1</sup>"
+                },
+                {
+                    "id": 219825,
+                    "resource_id": 39,
+                    "text": "Jangan lagi mereka berlaku demikian! (kalau tidak), mereka pada hari itu, tetap terdinding dari (rahmat) Tuhannya."
+                },
+                {
+                    "id": 1096840,
+                    "resource_id": 161,
+                    "text": "কক্ষনো না, তারা সেদিন তাদের প্রতিপালক থেকে পর্দার আড়ালে থাকবে।"
+                }
+            ]
+        },
+        {
+            "id": 5864,
+            "verse_number": 16,
+            "verse_key": "83:16",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 527,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+            "page_number": 588,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101924,
+                    "resource_id": 20,
+                    "text": "Then indeed, they will [enter and] burn in Hellfire."
+                },
+                {
+                    "id": 219826,
+                    "resource_id": 39,
+                    "text": "Kemudian, sesungguhnya mereka akan menderita bakaran neraka."
+                },
+                {
+                    "id": 1096841,
+                    "resource_id": 161,
+                    "text": "অতঃপর তারা অবশ্যই জাহান্নামে প্রবেশ করবে।"
+                }
+            ]
+        },
+        {
+            "id": 5865,
+            "verse_number": 17,
+            "verse_key": "83:17",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 527,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ثُمَّ يُقَالُ هَـٰذَا ٱلَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ",
+            "page_number": 588,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101925,
+                    "resource_id": 20,
+                    "text": "Then it will be said [to them], \"This is what you used to deny.\""
+                },
+                {
+                    "id": 219827,
+                    "resource_id": 39,
+                    "text": "Akhirnya dikatakan (kepada mereka): \"Inilah dia (azab seksa) yang kamu dustakan dahulu.\""
+                },
+                {
+                    "id": 1096842,
+                    "resource_id": 161,
+                    "text": "অতঃপর বলা হবে ‘এটাই তা যা তোমরা অস্বীকার করতে।’"
+                }
+            ]
+        },
+        {
+            "id": 5866,
+            "verse_number": 18,
+            "verse_key": "83:18",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 527,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "كَلَّآ إِنَّ كِتَـٰبَ ٱلْأَبْرَارِ لَفِى عِلِّيِّينَ",
+            "page_number": 588,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101926,
+                    "resource_id": 20,
+                    "text": "No! Indeed, the record of the righteous is in ʿilliyyūn."
+                },
+                {
+                    "id": 219751,
+                    "resource_id": 39,
+                    "text": "Ingatlah wahai manusia! Sesungguhnya \"kitab suratan amal\" orang-orang yang berbakti (dengan taat dan amal kebajikan), adalah (didaftarkan) dalam\" Illiyiin\"."
+                },
+                {
+                    "id": 1096843,
+                    "resource_id": 161,
+                    "text": "(ভাল-মন্দের বিচার হবে না, শাস্তি-পুরস্কার কিছুই হবে না তা) কক্ষনো না, নিশ্চয়ই সৎলোকদের ‘আমালমানা ‘ইল্লিয়ীনে (সংরক্ষিত) আছে।"
+                }
+            ]
+        },
+        {
+            "id": 5867,
+            "verse_number": 19,
+            "verse_key": "83:19",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 527,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا عِلِّيُّونَ",
+            "page_number": 588,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101927,
+                    "resource_id": 20,
+                    "text": "And what can make you know what is ʿilliyyūn?"
+                },
+                {
+                    "id": 219752,
+                    "resource_id": 39,
+                    "text": "Dan apa jalannya engkau dapat mengetahui, apa dia \"Illiyiin\" itu?"
+                },
+                {
+                    "id": 1096844,
+                    "resource_id": 161,
+                    "text": "তুমি কি জান ইল্লিয়ীন কী?"
+                }
+            ]
+        },
+        {
+            "id": 5868,
+            "verse_number": 20,
+            "verse_key": "83:20",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 527,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "كِتَـٰبٌ مَّرْقُومٌ",
+            "page_number": 588,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101931,
+                    "resource_id": 20,
+                    "text": "It is [their destination<sup foot_note=197729>1</sup> recorded in] a register inscribed"
+                },
+                {
+                    "id": 219755,
+                    "resource_id": 39,
+                    "text": "Ialah (tempat simpanan) kitab catitan yang jelas nyata,"
+                },
+                {
+                    "id": 1096845,
+                    "resource_id": 161,
+                    "text": "সীলমোহরকৃত কিতাব।"
+                }
+            ]
+        },
+        {
+            "id": 5869,
+            "verse_number": 21,
+            "verse_key": "83:21",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 527,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "يَشْهَدُهُ ٱلْمُقَرَّبُونَ",
+            "page_number": 588,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101932,
+                    "resource_id": 20,
+                    "text": "Which is witnessed by those brought near [to Allāh]."
+                },
+                {
+                    "id": 219757,
+                    "resource_id": 39,
+                    "text": "Yang disaksikan oleh sekumpulan malaikat, yang didampingkan Tuhan di sisinya."
+                },
+                {
+                    "id": 1096846,
+                    "resource_id": 161,
+                    "text": "আল্লাহর নৈকট্যপ্রাপ্ত (ফেরেশতারা) তার তত্ত্বাবধান করে।"
+                }
+            ]
+        },
+        {
+            "id": 5870,
+            "verse_number": 22,
+            "verse_key": "83:22",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 527,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ ٱلْأَبْرَارَ لَفِى نَعِيمٍ",
+            "page_number": 588,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101933,
+                    "resource_id": 20,
+                    "text": "Indeed, the righteous will be in pleasure"
+                },
+                {
+                    "id": 219756,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya orang-orang yang berbakti (dengan taat dan amal kebajikan), tetap berada di dalam Syurga yang penuh nikmat:"
+                },
+                {
+                    "id": 1096847,
+                    "resource_id": 161,
+                    "text": "পুণ্যবান লোকেরা থাকবে অফুরন্ত নি‘মাতের মাঝে।"
+                }
+            ]
+        },
+        {
+            "id": 5871,
+            "verse_number": 23,
+            "verse_key": "83:23",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 527,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "عَلَى ٱلْأَرَآئِكِ يَنظُرُونَ",
+            "page_number": 588,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101934,
+                    "resource_id": 20,
+                    "text": "On adorned couches, observing."
+                },
+                {
+                    "id": 219758,
+                    "resource_id": 39,
+                    "text": "Mereka berehat di atas pelamin-pelamin (yang berhias), sambil melihat (segala keindahan dan kemuliaan yang disediakan untuk mereka di situ)."
+                },
+                {
+                    "id": 1096848,
+                    "resource_id": 161,
+                    "text": "উচ্চ আসনে বসে তারা (চারদিকের সবকিছু) দেখতে থাকবে।"
+                }
+            ]
+        },
+        {
+            "id": 5872,
+            "verse_number": 24,
+            "verse_key": "83:24",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 527,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "تَعْرِفُ فِى وُجُوهِهِمْ نَضْرَةَ ٱلنَّعِيمِ",
+            "page_number": 588,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101935,
+                    "resource_id": 20,
+                    "text": "You will recognize in their faces the radiance of pleasure."
+                },
+                {
+                    "id": 219759,
+                    "resource_id": 39,
+                    "text": "Engkau dapat melihat pada muka mereka: cahaya nikmat yang mereka perolehi."
+                },
+                {
+                    "id": 1096849,
+                    "resource_id": 161,
+                    "text": "তুমি তাদের মুখে আরাম আয়েশের উজ্জ্বলতা দেখতে পাবে।"
+                }
+            ]
+        },
+        {
+            "id": 5873,
+            "verse_number": 25,
+            "verse_key": "83:25",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 527,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "يُسْقَوْنَ مِن رَّحِيقٍ مَّخْتُومٍ",
+            "page_number": 588,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101936,
+                    "resource_id": 20,
+                    "text": "They will be given to drink [pure] wine<sup foot_note=197730>1</sup> [which was] sealed."
+                },
+                {
+                    "id": 219761,
+                    "resource_id": 39,
+                    "text": "Mereka diberi minum dari satu minuman yang termeterai bekasnya,"
+                },
+                {
+                    "id": 1096850,
+                    "resource_id": 161,
+                    "text": "তাদেরকে পান করানো হবে সীল-আঁটা উৎকৃষ্ট পানীয়।"
+                }
+            ]
+        },
+        {
+            "id": 5874,
+            "verse_number": 26,
+            "verse_key": "83:26",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 527,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "خِتَـٰمُهُۥ مِسْكٌ ۚ وَفِى ذَٰلِكَ فَلْيَتَنَافَسِ ٱلْمُتَنَـٰفِسُونَ",
+            "page_number": 588,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101937,
+                    "resource_id": 20,
+                    "text": "The last of it<sup foot_note=197731>1</sup> is musk. So for this let the competitors compete."
+                },
+                {
+                    "id": 219760,
+                    "resource_id": 39,
+                    "text": "Meterainya kasturi; - dan untuk (memperolehi nikmat kesenangan) itu hendaknya berlumba-lumba mereka yang ingin merebut kelebihan dan kesenangan;"
+                },
+                {
+                    "id": 1096851,
+                    "resource_id": 161,
+                    "text": "তার সীল হবে মিশকের, প্রতিযোগীরা এ বিষয়েই প্রতিযোগিতা করুক।"
+                }
+            ]
+        },
+        {
+            "id": 5875,
+            "verse_number": 27,
+            "verse_key": "83:27",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 527,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمِزَاجُهُۥ مِن تَسْنِيمٍ",
+            "page_number": 588,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101938,
+                    "resource_id": 20,
+                    "text": "And its mixture is of Tasneem,<sup foot_note=197732>1</sup>"
+                },
+                {
+                    "id": 219765,
+                    "resource_id": 39,
+                    "text": "Dan campuran minuman itu adalah dari \"Tasnim\":"
+                },
+                {
+                    "id": 1096852,
+                    "resource_id": 161,
+                    "text": "তাতে মেশানো থাকবে ‘তাসনীম,"
+                }
+            ]
+        },
+        {
+            "id": 5876,
+            "verse_number": 28,
+            "verse_key": "83:28",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 527,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "عَيْنًا يَشْرَبُ بِهَا ٱلْمُقَرَّبُونَ",
+            "page_number": 588,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101939,
+                    "resource_id": 20,
+                    "text": "A spring from which those near [to Allāh] drink."
+                },
+                {
+                    "id": 219762,
+                    "resource_id": 39,
+                    "text": "laitu matair yang diminum daripadanya oleh orang-orang yang di dampingkan (Tuhan di sisiNya)."
+                },
+                {
+                    "id": 1096853,
+                    "resource_id": 161,
+                    "text": "ওটা একটা ঝর্ণা, যাত্থেকে (আল্লাহর) নৈকট্যপ্রাপ্তরা পান করবে।"
+                }
+            ]
+        },
+        {
+            "id": 5877,
+            "verse_number": 29,
+            "verse_key": "83:29",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 527,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ ٱلَّذِينَ أَجْرَمُوا۟ كَانُوا۟ مِنَ ٱلَّذِينَ ءَامَنُوا۟ يَضْحَكُونَ",
+            "page_number": 588,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101940,
+                    "resource_id": 20,
+                    "text": "Indeed, those who committed crimes used to laugh at those who believed."
+                },
+                {
+                    "id": 219763,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya orang-orang yang derhaka, mereka selalu tertawakan orang-orang yang beriman."
+                },
+                {
+                    "id": 1096854,
+                    "resource_id": 161,
+                    "text": "পাপাচারী লোকেরা (দুনিয়ায়) মু’মিনদেরকে ঠাট্টা-বিদ্রুপ করত।"
+                }
+            ]
+        },
+        {
+            "id": 5878,
+            "verse_number": 30,
+            "verse_key": "83:30",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 527,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا مَرُّوا۟ بِهِمْ يَتَغَامَزُونَ",
+            "page_number": 588,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101943,
+                    "resource_id": 20,
+                    "text": "And when they passed by them, they would exchange derisive glances."
+                },
+                {
+                    "id": 219766,
+                    "resource_id": 39,
+                    "text": "Dan apabila orang-orang yang beriman lalu dekat mereka, mereka mengerling dan memejam celikkan mata sesama sendiri (mencemuhnya)."
+                },
+                {
+                    "id": 1096855,
+                    "resource_id": 161,
+                    "text": "আর তারা যখন তাদের পাশ দিয়ে অতিক্রম করত তখন পরস্পরে চোখ টিপে ইশারা করত।"
+                }
+            ]
+        },
+        {
+            "id": 5879,
+            "verse_number": 31,
+            "verse_key": "83:31",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 527,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا ٱنقَلَبُوٓا۟ إِلَىٰٓ أَهْلِهِمُ ٱنقَلَبُوا۟ فَكِهِينَ",
+            "page_number": 588,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101944,
+                    "resource_id": 20,
+                    "text": "And when they returned to their people, they would return jesting."
+                },
+                {
+                    "id": 219769,
+                    "resource_id": 39,
+                    "text": "Dan apabila mereka kembali kepada kaum keluarganya, mereka kembali dengan riang gembira;"
+                },
+                {
+                    "id": 1096856,
+                    "resource_id": 161,
+                    "text": "আর তারা যখন তাদের আপন জনদের কাছে ফিরে আসত, তখন (মু’মিনদেরকে ঠাট্টা ক’রে আসার কারণে) ফিরত উৎফুল্ল হয়ে।"
+                }
+            ]
+        },
+        {
+            "id": 5880,
+            "verse_number": 32,
+            "verse_key": "83:32",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 527,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا رَأَوْهُمْ قَالُوٓا۟ إِنَّ هَـٰٓؤُلَآءِ لَضَآلُّونَ",
+            "page_number": 588,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101945,
+                    "resource_id": 20,
+                    "text": "And when they saw them, they would say, \"Indeed, those are truly lost.\""
+                },
+                {
+                    "id": 219768,
+                    "resource_id": 39,
+                    "text": "Dan apabila mereka melihat orang-orang yang beriman, mereka berkata: \"Sesungguhnya orang-orang itu adalah golongan yang sesat!\""
+                },
+                {
+                    "id": 1096857,
+                    "resource_id": 161,
+                    "text": "আর তারা যখন মু’মিনদেরকে দেখত তখন বলত, ‘এরা তো অবশ্যই গুমরাহ্।’"
+                }
+            ]
+        },
+        {
+            "id": 5881,
+            "verse_number": 33,
+            "verse_key": "83:33",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 527,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَآ أُرْسِلُوا۟ عَلَيْهِمْ حَـٰفِظِينَ",
+            "page_number": 588,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101946,
+                    "resource_id": 20,
+                    "text": "But they had not been sent as guardians over them."
+                },
+                {
+                    "id": 219772,
+                    "resource_id": 39,
+                    "text": "Pada hal mereka tidak diutus untuk menjaga sesat atau tidaknya orang-orang yang beriman itu!"
+                },
+                {
+                    "id": 1096858,
+                    "resource_id": 161,
+                    "text": "তাদেরকে তো মু’মিনদের হিফাযাতকারী হিসেবে পাঠানো হয়নি (মু’মিনদের কৃতকর্মের হিসাব মু’মিনরাই দিবে)।"
+                }
+            ]
+        },
+        {
+            "id": 5882,
+            "verse_number": 34,
+            "verse_key": "83:34",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 527,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَٱلْيَوْمَ ٱلَّذِينَ ءَامَنُوا۟ مِنَ ٱلْكُفَّارِ يَضْحَكُونَ",
+            "page_number": 588,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101947,
+                    "resource_id": 20,
+                    "text": "So Today<sup foot_note=197733>1</sup> those who believed are laughing at the disbelievers,"
+                },
+                {
+                    "id": 219770,
+                    "resource_id": 39,
+                    "text": "Maka pada hari ini, orang-orang yang beriman pula tertawakan orang yang kafir itu."
+                },
+                {
+                    "id": 1096859,
+                    "resource_id": 161,
+                    "text": "আজ (জান্নাত হতে) মু’মিনরা কাফিরদের (পরিণতির) উপর হাসছে,"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 29,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 29
+    }
+}

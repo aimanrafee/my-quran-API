@@ -1,0 +1,371 @@
+{
+    "verses": [
+        {
+            "id": 1944,
+            "verse_number": 43,
+            "verse_key": "16:43",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 108,
+            "ruku_number": 229,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَآ أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِىٓ إِلَيْهِمْ ۚ فَسْـَٔلُوٓا۟ أَهْلَ ٱلذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ",
+            "page_number": 272,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96868,
+                    "resource_id": 20,
+                    "text": "And We sent not before you except men to whom We revealed [Our message]. So ask the people of the message [i.e., former scriptures] if you do not know."
+                },
+                {
+                    "id": 220852,
+                    "resource_id": 39,
+                    "text": "Dan tidaklah Kami mengutus Rasul-rasul sebelummu (wahai Muhammad), melainkan dari kalangan orang-orang lelaki, yang Kami wahyukan kepada mereka. Oleh itu bertanyalah kamu (wahai golongan musyrik) kepada orang-orang yang berpengetahuan ugama jika kamu tidak mengetahui."
+                },
+                {
+                    "id": 1092921,
+                    "resource_id": 161,
+                    "text": "আমি তোমার পূর্বে পুরুষ মানুষ ব্যতীত পাঠাইনি যাদের কাছে আমি ওয়াহী করতাম। তোমরা যদি না জান তাহলে তোমরা আল্লাহর কিতাব সম্পর্কে যারা অবগত তাদেরকে জিজ্ঞেস কর"
+                }
+            ]
+        },
+        {
+            "id": 1945,
+            "verse_number": 44,
+            "verse_key": "16:44",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 108,
+            "ruku_number": 229,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "بِٱلْبَيِّنَـٰتِ وَٱلزُّبُرِ ۗ وَأَنزَلْنَآ إِلَيْكَ ٱلذِّكْرَ لِتُبَيِّنَ لِلنَّاسِ مَا نُزِّلَ إِلَيْهِمْ وَلَعَلَّهُمْ يَتَفَكَّرُونَ",
+            "page_number": 272,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96869,
+                    "resource_id": 20,
+                    "text": "[We sent them] with clear proofs and written ordinances. And We revealed to you the message [i.e., the Qur’ān] that you may make clear to the people what was sent down to them and that they might give thought."
+                },
+                {
+                    "id": 220851,
+                    "resource_id": 39,
+                    "text": "(Kami utuskan Rasul-rasul itu) membawa keterangan-keterangan yang jelas nyata (yang membuktikan kebenaran mereka) dan Kitab-kitab Suci (yang menjadi panduan); dan kami pula turunkan kepadamu (wahai Muhammad) Al-Quran yang memberi peringatan, supaya engkau menerangkan kepada umat manusia akan apa yang telah diturunkan kepada mereka, dan supaya mereka memikirkannya."
+                },
+                {
+                    "id": 1092922,
+                    "resource_id": 161,
+                    "text": "(অতীতের রসূলদেরকে পাঠিয়েছিলাম) স্পষ্ট প্রমাণাদি আর কিতাব দিয়ে; আর এখন তোমার প্রতি কুরআন অবতীর্ণ করছি মানুষকে স্পষ্টভাবে বুঝিয়ে দেয়ার জন্য যা তাদের প্রতি অবতীর্ণ করা হয়েছে আর যাতে তারা চিন্তা-ভাবনা করে।"
+                }
+            ]
+        },
+        {
+            "id": 1946,
+            "verse_number": 45,
+            "verse_key": "16:45",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 108,
+            "ruku_number": 229,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "أَفَأَمِنَ ٱلَّذِينَ مَكَرُوا۟ ٱلسَّيِّـَٔاتِ أَن يَخْسِفَ ٱللَّهُ بِهِمُ ٱلْأَرْضَ أَوْ يَأْتِيَهُمُ ٱلْعَذَابُ مِنْ حَيْثُ لَا يَشْعُرُونَ",
+            "page_number": 272,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96870,
+                    "resource_id": 20,
+                    "text": "Then, do those who have planned evil deeds feel secure that Allāh will not cause the earth to swallow them or that the punishment will not come upon them from where they do not perceive?"
+                },
+                {
+                    "id": 220854,
+                    "resource_id": 39,
+                    "text": "(Setelah diterangkan yang demikian) maka adakah orang-orang yang merancang dan melakukan kejahatan-kejahatan itu merasa aman daripada ditimbuskan oleh Allah akan mereka ke dalam bumi, atau mereka didatangi azab dari arah yang mereka tidak menyedarinya?"
+                },
+                {
+                    "id": 1092923,
+                    "resource_id": 161,
+                    "text": "যারা (ইসলামের বিরুদ্ধে) কূট-কৌশল করছে তারা কি নির্ভয় হয়ে গেছে যে, আল্লাহ তাদেরকে যমীনে ধ্বসিয়ে দিবেন না, অথবা তাদের কাছে শাস্তি এসে পড়বে না এমন দিক থেকে যা তারা এতটুকুও টের পাবে না"
+                }
+            ]
+        },
+        {
+            "id": 1947,
+            "verse_number": 46,
+            "verse_key": "16:46",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 108,
+            "ruku_number": 229,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "أَوْ يَأْخُذَهُمْ فِى تَقَلُّبِهِمْ فَمَا هُم بِمُعْجِزِينَ",
+            "page_number": 272,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96871,
+                    "resource_id": 20,
+                    "text": "Or that He would not seize them during their [usual] activity, and they could not cause failure [i.e., escape from Him]?"
+                },
+                {
+                    "id": 220853,
+                    "resource_id": 39,
+                    "text": "Atau Ia membinasakan mereka secara mengejut dalam masa mereka berulang alik melakukan kerja masing-masing? Kerana sebenarnya mereka tidak akan dapat melemahkan kuasa Allah."
+                },
+                {
+                    "id": 1092924,
+                    "resource_id": 161,
+                    "text": "কিংবা তাদের চলাফেরার ভিতরেই তিনি তাদেরকে পাকড়াও করবেন না, অতঃপর তারা তো তা ব্যর্থ করে দিতে পারবে না।"
+                }
+            ]
+        },
+        {
+            "id": 1948,
+            "verse_number": 47,
+            "verse_key": "16:47",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 108,
+            "ruku_number": 229,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "أَوْ يَأْخُذَهُمْ عَلَىٰ تَخَوُّفٍ فَإِنَّ رَبَّكُمْ لَرَءُوفٌ رَّحِيمٌ",
+            "page_number": 272,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96872,
+                    "resource_id": 20,
+                    "text": "Or that He would not seize them gradually [in a state of dread]?<sup foot_note=196615>1</sup> But indeed, your Lord is Kind and Merciful.<sup foot_note=196614>2</sup>"
+                },
+                {
+                    "id": 220857,
+                    "resource_id": 39,
+                    "text": "Atau Ia membinasakan mereka (dan harta benda mereka) sedikit demi sedikit? Kerana sesungguhnya Tuhan kamu Amat melimpah belas kasihan dan rahmatNya."
+                },
+                {
+                    "id": 1092925,
+                    "resource_id": 161,
+                    "text": "অথবা তিনি তাদেরকে পাকড়াও করবেন না যখন তারা আসন্ন মুসীবাতের চিন্তায় ভীত-সন্ত্রস্ত হয়ে থাকবে, (আসল কথা হল আল্লাহ মানুষকে খুবই অবকাশ দিয়ে থাকেন) কেননা তোমাদের প্রতিপালক অবশ্যই অতি দয়ার্দ্র, বড়ই দয়ালু।"
+                }
+            ]
+        },
+        {
+            "id": 1949,
+            "verse_number": 48,
+            "verse_key": "16:48",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 108,
+            "ruku_number": 229,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "أَوَلَمْ يَرَوْا۟ إِلَىٰ مَا خَلَقَ ٱللَّهُ مِن شَىْءٍ يَتَفَيَّؤُا۟ ظِلَـٰلُهُۥ عَنِ ٱلْيَمِينِ وَٱلشَّمَآئِلِ سُجَّدًا لِّلَّهِ وَهُمْ دَٰخِرُونَ",
+            "page_number": 272,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96873,
+                    "resource_id": 20,
+                    "text": "Have they not considered what things Allāh has created? Their shadows incline to the right and to the left, prostrating to Allāh, while they [i.e., those creations] are humble."
+                },
+                {
+                    "id": 220856,
+                    "resource_id": 39,
+                    "text": "Tidakkah mereka melihat dan memikirkan segala yang telah dijadikan oleh Allah, yang beredar (berpindah-randah) bayang-bayangnya ke kanan dan ke kiri (pada pagi dan petang), dengan keadaan tunduk menurut peraturan dan kehendak Allah, sedang mereka merendah diri?"
+                },
+                {
+                    "id": 1092926,
+                    "resource_id": 161,
+                    "text": "তারা কি আল্লাহর সৃষ্টি করা জিনিসের দিকে লক্ষ্য করে না, যার ছায়া আল্লাহর প্রতি সাজদার অবস্থায় ডানে-বামে পতিত হয়, আর তারা বিনয় প্রকাশ করে?"
+                }
+            ]
+        },
+        {
+            "id": 1950,
+            "verse_number": 49,
+            "verse_key": "16:49",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 108,
+            "ruku_number": 229,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَلِلَّهِ يَسْجُدُ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ مِن دَآبَّةٍ وَٱلْمَلَـٰٓئِكَةُ وَهُمْ لَا يَسْتَكْبِرُونَ",
+            "page_number": 272,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96874,
+                    "resource_id": 20,
+                    "text": "And to Allāh prostrates whatever is in the heavens and whatever is on the earth of creatures, and the angels [as well], and they are not arrogant."
+                },
+                {
+                    "id": 220855,
+                    "resource_id": 39,
+                    "text": "Dan bagi Allah jualah tunduk sujud apa yang ada di langit dan yang ada di bumi, dari makhluk-makhluk yang bergerak serta malaikat; sedang mereka (malaikat-malaikat itu) tidak berlaku sombong takbur (daripada beribadat dan sujud kepadaNya)."
+                },
+                {
+                    "id": 1092927,
+                    "resource_id": 161,
+                    "text": "আকাশসমূহ ও পৃথিবীতে যত জীব-জন্তু ফেরেশতারা, সমস্তই আল্লাহকে সাজদাহ করে; তারা অহঙ্কার করে না।"
+                }
+            ]
+        },
+        {
+            "id": 1951,
+            "verse_number": 50,
+            "verse_key": "16:50",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 108,
+            "ruku_number": 229,
+            "manzil_number": 3,
+            "sajdah_number": 3,
+            "text_uthmani": "يَخَافُونَ رَبَّهُم مِّن فَوْقِهِمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ ۩",
+            "page_number": 272,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96876,
+                    "resource_id": 20,
+                    "text": "They fear their Lord above them, and they do what they are commanded."
+                },
+                {
+                    "id": 220837,
+                    "resource_id": 39,
+                    "text": "Mereka takut kepada Tuhan mereka yang mengatasi mereka (dengan kekuasaanNya), serta mereka mengerjakan apa yang diperintahkan."
+                },
+                {
+                    "id": 1092928,
+                    "resource_id": 161,
+                    "text": "তারা তাদের উপরে আল্লাহকে ভয় করে আর তারা তা-ই করে যা তাদেরকে আদেশ দেয়া হয়। [সাজদাহ]"
+                }
+            ]
+        },
+        {
+            "id": 1952,
+            "verse_number": 51,
+            "verse_key": "16:51",
+            "hizb_number": 28,
+            "rub_el_hizb_number": 109,
+            "ruku_number": 230,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "۞ وَقَالَ ٱللَّهُ لَا تَتَّخِذُوٓا۟ إِلَـٰهَيْنِ ٱثْنَيْنِ ۖ إِنَّمَا هُوَ إِلَـٰهٌ وَٰحِدٌ ۖ فَإِيَّـٰىَ فَٱرْهَبُونِ",
+            "page_number": 272,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96877,
+                    "resource_id": 20,
+                    "text": "And Allāh has said, \"Do not take for yourselves two<sup foot_note=196616>1</sup> deities. He [i.e., Allāh] is but one God, so fear only Me.\""
+                },
+                {
+                    "id": 220861,
+                    "resource_id": 39,
+                    "text": "Dan Allah berfirman: \"Janganlah kamu bertuhankan dua tuhan, kerana sesungguhnya Tuhan itu hanyalah Tuhan yang satu; maka kepada Akulah sahaja hendaknya kamu gerun gementar."
+                },
+                {
+                    "id": 1092929,
+                    "resource_id": 161,
+                    "text": "আল্লাহ বললেন, ‘তোমরা দু’ ইলাহ গ্রহণ করো না, তিনি তো এক ইলাহ; কাজেই আমাকে- কেবল আমাকেই ভয় কর।’"
+                }
+            ]
+        },
+        {
+            "id": 1953,
+            "verse_number": 52,
+            "verse_key": "16:52",
+            "hizb_number": 28,
+            "rub_el_hizb_number": 109,
+            "ruku_number": 230,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلَهُ ٱلدِّينُ وَاصِبًا ۚ أَفَغَيْرَ ٱللَّهِ تَتَّقُونَ",
+            "page_number": 272,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96878,
+                    "resource_id": 20,
+                    "text": "And to Him belongs whatever is in the heavens and the earth, and to Him is [due] worship constantly. Then is it other than Allāh that you fear?"
+                },
+                {
+                    "id": 220863,
+                    "resource_id": 39,
+                    "text": "Dan bagiNyalah (hak milik) segala yang ada di langit dan di bumi; dan kepadaNya sahaja tertentu ibadat dan ketaatan selama-lamanya; (sesudah kamu mengetahui yang demikian) maka tidaklah patut kamu takut kepada yang lain dari Allah."
+                },
+                {
+                    "id": 1092930,
+                    "resource_id": 161,
+                    "text": "আকাশসমূহ আর যমীনে যা কিছু আছে তা তাঁরই, আর দ্বীন সদা-সর্বদা একান্তভাবে তাঁরই জন্য। তাহলে তোমরা কি আল্লাহ ছাড়া অন্য কাউকে ভয় করবে?"
+                }
+            ]
+        },
+        {
+            "id": 1954,
+            "verse_number": 53,
+            "verse_key": "16:53",
+            "hizb_number": 28,
+            "rub_el_hizb_number": 109,
+            "ruku_number": 230,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا بِكُم مِّن نِّعْمَةٍ فَمِنَ ٱللَّهِ ۖ ثُمَّ إِذَا مَسَّكُمُ ٱلضُّرُّ فَإِلَيْهِ تَجْـَٔرُونَ",
+            "page_number": 272,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96879,
+                    "resource_id": 20,
+                    "text": "And whatever you have of favor - it is from Allāh. Then when adversity touches you, to Him you cry for help."
+                },
+                {
+                    "id": 220862,
+                    "resource_id": 39,
+                    "text": "Dan apa-apa nikmat yang ada pada kamu maka adalah ia dari Allah; kemudian, apabila kamu ditimpa kesusahan maka kepadaNyalah kamu meraung meminta pertolongan."
+                },
+                {
+                    "id": 1092931,
+                    "resource_id": 161,
+                    "text": "যে নি‘মাতই তোমরা পেয়েছ তাতো আল্লাহর নিকট হতেই। আর যখন দুঃখ-কষ্ট তোমাদেরকে স্পর্শ করে, তখন তাঁর কাছেই তোমরা আকুল আবেদন জানাতে থাক।"
+                }
+            ]
+        },
+        {
+            "id": 1955,
+            "verse_number": 54,
+            "verse_key": "16:54",
+            "hizb_number": 28,
+            "rub_el_hizb_number": 109,
+            "ruku_number": 230,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "ثُمَّ إِذَا كَشَفَ ٱلضُّرَّ عَنكُمْ إِذَا فَرِيقٌ مِّنكُم بِرَبِّهِمْ يُشْرِكُونَ",
+            "page_number": 272,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96880,
+                    "resource_id": 20,
+                    "text": "Then when He removes the adversity from you, at once a party of you associates others with their Lord"
+                },
+                {
+                    "id": 220860,
+                    "resource_id": 39,
+                    "text": "Kemudian, apabila Ia menghapuskan kesusahan itu daripada kamu, tiba-tiba sepuak di antara kamu mempersekutukan (sesuatu yang lain) dengan Tuhan mereka."
+                },
+                {
+                    "id": 1092932,
+                    "resource_id": 161,
+                    "text": "অতঃপর যখন তিনি তোমাদের থেকে দুঃখ-কষ্ট দূর করে দেন, তখন তোমাদের একদল তাদের প্রতিপালকের সঙ্গে অন্যকে শরীক করে বসে"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 12,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 12
+    }
+}

@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 5910,
+            "verse_number": 1,
+            "verse_key": "85:1",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 236,
+            "ruku_number": 529,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " وَٱلسَّمَآءِ ذَاتِ ٱلْبُرُوجِ",
+            "page_number": 590,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102003,
+                    "resource_id": 20,
+                    "text": "By the sky containing great stars"
+                },
+                {
+                    "id": 219883,
+                    "resource_id": 39,
+                    "text": "Demi langit yang mempunyai tempat-tempat peredaran bintang-bintang;"
+                },
+                {
+                    "id": 1096887,
+                    "resource_id": 161,
+                    "text": "শপথ গ্রহ-নক্ষত্র শোভিত আকাশের"
+                }
+            ]
+        },
+        {
+            "id": 5911,
+            "verse_number": 2,
+            "verse_key": "85:2",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 236,
+            "ruku_number": 529,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلْيَوْمِ ٱلْمَوْعُودِ",
+            "page_number": 590,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102015,
+                    "resource_id": 20,
+                    "text": "And [by] the promised Day"
+                },
+                {
+                    "id": 215013,
+                    "resource_id": 39,
+                    "text": "Dan hari (pembalasan) yang dijanjikan;"
+                },
+                {
+                    "id": 1096888,
+                    "resource_id": 161,
+                    "text": "আর সেদিনের যার ও‘য়াদা করা হয়েছে,"
+                }
+            ]
+        },
+        {
+            "id": 5912,
+            "verse_number": 3,
+            "verse_key": "85:3",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 236,
+            "ruku_number": 529,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَشَاهِدٍ وَمَشْهُودٍ",
+            "page_number": 590,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102020,
+                    "resource_id": 20,
+                    "text": "And [by] the witness and what is witnessed,"
+                },
+                {
+                    "id": 219842,
+                    "resource_id": 39,
+                    "text": "Dan makhluk-makhluk yang hadir menyaksikan hari itu, serta segala keadaan yang disaksikan; -"
+                },
+                {
+                    "id": 1096889,
+                    "resource_id": 161,
+                    "text": "আর যে দেখে আর যা দেখা যায় তার শপথ"
+                }
+            ]
+        },
+        {
+            "id": 5913,
+            "verse_number": 4,
+            "verse_key": "85:4",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 236,
+            "ruku_number": 529,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "قُتِلَ أَصْحَـٰبُ ٱلْأُخْدُودِ",
+            "page_number": 590,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102022,
+                    "resource_id": 20,
+                    "text": "Destroyed [i.e., cursed] were the companions of the trench<sup foot_note=197740>1</sup>"
+                },
+                {
+                    "id": 219846,
+                    "resource_id": 39,
+                    "text": "Celakalah kaum yang menggali parit,"
+                },
+                {
+                    "id": 1096890,
+                    "resource_id": 161,
+                    "text": "ধ্বংস হয়েছে গর্ত ওয়ালারা"
+                }
+            ]
+        },
+        {
+            "id": 5914,
+            "verse_number": 5,
+            "verse_key": "85:5",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 236,
+            "ruku_number": 529,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلنَّارِ ذَاتِ ٱلْوَقُودِ",
+            "page_number": 590,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102024,
+                    "resource_id": 20,
+                    "text": "[Containing] the fire full of fuel,"
+                },
+                {
+                    "id": 219844,
+                    "resource_id": 39,
+                    "text": "(Parit) api yang penuh dengan bahan bakaran,"
+                },
+                {
+                    "id": 1096891,
+                    "resource_id": 161,
+                    "text": "(যে গর্তে) দাউ দাউ করে জ্বলা ইন্ধনের আগুন ছিল,"
+                }
+            ]
+        },
+        {
+            "id": 5915,
+            "verse_number": 6,
+            "verse_key": "85:6",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 236,
+            "ruku_number": 529,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِذْ هُمْ عَلَيْهَا قُعُودٌ",
+            "page_number": 590,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102026,
+                    "resource_id": 20,
+                    "text": "When they were sitting near it."
+                },
+                {
+                    "id": 219850,
+                    "resource_id": 39,
+                    "text": "(Mereka dilaknat) ketika mereka duduk di kelilingnya,"
+                },
+                {
+                    "id": 1096892,
+                    "resource_id": 161,
+                    "text": "যখন তারা গর্তের কিনারায় বসে ছিল"
+                }
+            ]
+        },
+        {
+            "id": 5916,
+            "verse_number": 7,
+            "verse_key": "85:7",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 236,
+            "ruku_number": 529,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِٱلْمُؤْمِنِينَ شُهُودٌ",
+            "page_number": 590,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102028,
+                    "resource_id": 20,
+                    "text": "And they, to what they were doing against the believers, were witnesses. <sup foot_note=197741>1</sup>"
+                },
+                {
+                    "id": 219848,
+                    "resource_id": 39,
+                    "text": "Sambil mereka melihat apa yang mereka lakukan kepada orang-orang yang beriman."
+                },
+                {
+                    "id": 1096893,
+                    "resource_id": 161,
+                    "text": "আর তারা মু’মিনদের সাথে যা করছিল তা দেখছিল"
+                }
+            ]
+        },
+        {
+            "id": 5917,
+            "verse_number": 8,
+            "verse_key": "85:8",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 236,
+            "ruku_number": 529,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+            "page_number": 590,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102030,
+                    "resource_id": 20,
+                    "text": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy,"
+                },
+                {
+                    "id": 219852,
+                    "resource_id": 39,
+                    "text": "Dan mereka tidak marah dan menyeksakan orang-orang yang beriman itu melainkan kerana orang-orang itu beriman kepada Allah Yang Maha Kuasa, lagi Maha Terpuji!"
+                },
+                {
+                    "id": 1096894,
+                    "resource_id": 161,
+                    "text": "তারা তাদেরকে নির্যাতন করেছিল একমাত্র এই কারণে যে, তারা মহাপরাক্রান্ত প্রসংসিত আল্লাহর প্রতি ঈমান এনেছিল।"
+                }
+            ]
+        },
+        {
+            "id": 5918,
+            "verse_number": 9,
+            "verse_key": "85:9",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 236,
+            "ruku_number": 529,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ",
+            "page_number": 590,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102032,
+                    "resource_id": 20,
+                    "text": "To whom belongs the dominion of the heavens and the earth. And Allāh, over all things, is Witness.<sup foot_note=197742>1</sup>"
+                },
+                {
+                    "id": 219853,
+                    "resource_id": 39,
+                    "text": "Tuhan yang menguasai segala alam langit dan bumi. Dan (ingatlah), Allah sentiasa menyaksikan tiap-tiap sesuatu."
+                },
+                {
+                    "id": 1096895,
+                    "resource_id": 161,
+                    "text": "আসমান ও যমীনের রাজ্বত্ব যাঁর, আর সেই আল্লাহ সব কিছুর প্রত্যক্ষদর্শী।"
+                }
+            ]
+        },
+        {
+            "id": 5919,
+            "verse_number": 10,
+            "verse_key": "85:10",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 236,
+            "ruku_number": 529,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ ٱلَّذِينَ فَتَنُوا۟ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ ثُمَّ لَمْ يَتُوبُوا۟ فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ ٱلْحَرِيقِ",
+            "page_number": 590,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102004,
+                    "resource_id": 20,
+                    "text": "Indeed, those who have tortured<sup foot_note=197743>1</sup> the believing men and believing women and then have not repented will have the punishment of Hell, and they will have the punishment of the Burning Fire."
+                },
+                {
+                    "id": 219894,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya orang-orang yang menimpakan bencana untuk memesongkan orang-orang lelaki yang beriman dan orang-orang perempuan yang beriman, kemudian mereka tidak bertaubat, maka mereka akan beroleh azab neraka Jahannam (kerana perbuatan buruk itu), dan mereka akan beroleh lagi azab api yang kuat membakar (kerana mereka tidak bertaubat)."
+                },
+                {
+                    "id": 1096896,
+                    "resource_id": 161,
+                    "text": "যারা মু’মিন পুরুষ ও নারীদের প্রতি যুলম পীড়ন চালায় অতঃপর তাওবাহ করে না, তাদের জন্য আছে জাহান্নামের শাস্তি, আর আছে আগুনে দগ্ধ হওয়ার যন্ত্রণা।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 3,
+        "total_records": 22
+    }
+}

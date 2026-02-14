@@ -1,0 +1,101 @@
+{
+    "verses": [
+        {
+            "id": 2850,
+            "verse_number": 59,
+            "verse_key": "24:59",
+            "hizb_number": 36,
+            "rub_el_hizb_number": 143,
+            "ruku_number": 308,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا بَلَغَ ٱلْأَطْفَـٰلُ مِنكُمُ ٱلْحُلُمَ فَلْيَسْتَـْٔذِنُوا۟ كَمَا ٱسْتَـْٔذَنَ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمْ ءَايَـٰتِهِۦ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
+            "page_number": 358,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97982,
+                    "resource_id": 20,
+                    "text": "And when the children among you reach puberty, let them ask permission [at all times] as those before them have done. Thus does Allāh make clear to you His verses; and Allāh is Knowing and Wise."
+                },
+                {
+                    "id": 215838,
+                    "resource_id": 39,
+                    "text": "Dan apabila kanak-kanak dari kalangan kamu telah baligh, maka hendaklah mereka meminta izin sama seperti cara orang-orang (yang telah cukup umur) yang tersebut dahulu, meminta izin. Demikianlah Allah menerangkan kepada kamu ayat-ayatNya (yang menjelaskan hukum-hukumNya) dan (ingatlah) Allah Maha Mengetahui, lagi Maha Bijaksana."
+                },
+                {
+                    "id": 1093827,
+                    "resource_id": 161,
+                    "text": "তোমাদের শিশুরা যখন বয়োঃপ্রাপ্ত হবে তখন তারা যেন তোমাদের নিকট আসতে অনুমতি নেয়, যেমন তাদের বয়োজ্যেষ্ঠরা অনুমতি নেয়। এভাবে আল্লাহ তাঁর নির্দেশ খুবই স্পষ্টভাবে বর্ণনা করেন, কারণ আল্লাহ সর্বজ্ঞ, বড়ই হিকমতওয়ালা।"
+                }
+            ]
+        },
+        {
+            "id": 2851,
+            "verse_number": 60,
+            "verse_key": "24:60",
+            "hizb_number": 36,
+            "rub_el_hizb_number": 143,
+            "ruku_number": 308,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلْقَوَٰعِدُ مِنَ ٱلنِّسَآءِ ٱلَّـٰتِى لَا يَرْجُونَ نِكَاحًا فَلَيْسَ عَلَيْهِنَّ جُنَاحٌ أَن يَضَعْنَ ثِيَابَهُنَّ غَيْرَ مُتَبَرِّجَـٰتٍۭ بِزِينَةٍ ۖ وَأَن يَسْتَعْفِفْنَ خَيْرٌ لَّهُنَّ ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
+            "page_number": 358,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97985,
+                    "resource_id": 20,
+                    "text": "And women of post-menstrual age who have no desire for marriage - there is no blame upon them for putting aside their outer garments [but] not displaying adornment. But to modestly refrain [from that] is better for them. And Allāh is Hearing and Knowing."
+                },
+                {
+                    "id": 215841,
+                    "resource_id": 39,
+                    "text": "Dan mana-mana perempuan tua yang telah putus kedatangan haid, yang tidak mempunyai harapan berkahwin lagi maka tidak ada salahnya mereka menanggalkan pakaian luarnya, dengan tidak bertujuan mendedahkan perhiasan mereka; dalam pada itu perbuatan mereka menjaga kehormatannya (dengan tidak menanggalkan pakaian luarnya itu adalah) lebih baik bagi mereka; dan (ingatlah) Allah Maha Mendengar, lagi Maha Mengetahui."
+                },
+                {
+                    "id": 1093828,
+                    "resource_id": 161,
+                    "text": "বয়স্কা নারীরা যারা বিয়ের আশা রাখে না, তাদের প্রতি কোন দোষ বর্তাবে না যদি তারা তাদের সৌন্দর্য প্রদর্শন না ক’রে তাদের (উপরি) পোশাক খুলে রাখে, তবে এথেকে যদি তারা বিরত থাকে তবে সেটাই তাদের জন্য উত্তম। আল্লাহ সব কিছু শোনেন, সব কিছু সম্পর্কে পূর্ণ অবগত।"
+                }
+            ]
+        },
+        {
+            "id": 2852,
+            "verse_number": 61,
+            "verse_key": "24:61",
+            "hizb_number": 36,
+            "rub_el_hizb_number": 143,
+            "ruku_number": 308,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "لَّيْسَ عَلَى ٱلْأَعْمَىٰ حَرَجٌ وَلَا عَلَى ٱلْأَعْرَجِ حَرَجٌ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌ وَلَا عَلَىٰٓ أَنفُسِكُمْ أَن تَأْكُلُوا۟ مِنۢ بُيُوتِكُمْ أَوْ بُيُوتِ ءَابَآئِكُمْ أَوْ بُيُوتِ أُمَّهَـٰتِكُمْ أَوْ بُيُوتِ إِخْوَٰنِكُمْ أَوْ بُيُوتِ أَخَوَٰتِكُمْ أَوْ بُيُوتِ أَعْمَـٰمِكُمْ أَوْ بُيُوتِ عَمَّـٰتِكُمْ أَوْ بُيُوتِ أَخْوَٰلِكُمْ أَوْ بُيُوتِ خَـٰلَـٰتِكُمْ أَوْ مَا مَلَكْتُم مَّفَاتِحَهُۥٓ أَوْ صَدِيقِكُمْ ۚ لَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَأْكُلُوا۟ جَمِيعًا أَوْ أَشْتَاتًا ۚ فَإِذَا دَخَلْتُم بُيُوتًا فَسَلِّمُوا۟ عَلَىٰٓ أَنفُسِكُمْ تَحِيَّةً مِّنْ عِندِ ٱللَّهِ مُبَـٰرَكَةً طَيِّبَةً ۚ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْـَٔايَـٰتِ لَعَلَّكُمْ تَعْقِلُونَ",
+            "page_number": 358,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97986,
+                    "resource_id": 20,
+                    "text": "There is not upon the blind [any] constraint nor upon the lame constraint nor upon the ill constraint nor upon yourselves when you eat from your [own] houses or the houses of your fathers or the houses of your mothers or the houses of your brothers or the houses of your sisters or the houses of your father's brothers or the houses of your father's sisters or the houses of your mother's brothers or the houses of your mother's sisters or [from houses] whose keys you possess or [from the house] of your friend. There is no blame upon you whether you eat together or separately. But when you enter houses, give greetings of peace<sup foot_note=196909>1</sup> upon each other - a greeting from Allāh, blessed and good. Thus does Allāh make clear to you the verses [of ordinance] that you may understand."
+                },
+                {
+                    "id": 215842,
+                    "resource_id": 39,
+                    "text": "Tidak ada salahnya bagi orang buta, dan tidak ada salahnya bagi orang tempang, dan tidak ada salahnya bagi orang sakit (jika masing-masing tidak menjalankan sesuatu perintah disebabkan keuzurannya menghendaki ia berlaku demikian), dan juga tidak ada salah bagi kamu (termasuk orang-orang yang tersebut turut sama) makan di rumah kamu sendiri, atau di rumah bapa kamu, atau di rumah ibu kamu, atau di rumah saudara kamu yang lelaki, atau di rumah saudara kamu yang perempuan, atau di rumah bapa saudara kamu (sebelah bapa), atau di rumah emak saudara kamu (sebelah bapa), atau di rumah bapa saudara kamu (sebelah ibu), atau di rumah emak saudara kamu (sebelah ibu), atau di rumah yang kamu kuasai kuncinya, atau di rumah sahabat kamu; tidak juga menjadi salah bagi kamu, makan bersama-sama atau berasing-asing. Maka apabila kamu masuk ke mana-mana rumah, hendaklah kamu memberi salam kepada (sesiapa yang seperti) kamu dengan memohon kepada Allah cara hidup yang berkat lagi baik. Demikianlah Allah menerangkan ayat-ayat (yang menjelaskan hukum-hukumNya), supaya kamu memahaminya."
+                },
+                {
+                    "id": 1093829,
+                    "resource_id": 161,
+                    "text": "অন্ধের জন্য দোষ নেই, খোঁড়ার জন্য দোষ নেই, পীড়িতের জন্য দোষ নেই আর তোমাদের জন্যও দোষ নেই খাদ্য গ্রহণ করতে তোমাদের গৃহে, কিংবা তোমাদের পিতৃগণের গৃহে, কিংবা তোমাদের মাতৃগণের গৃহে, কিংবা তোমাদের ভ্রাতাদের গৃহে, কিংবা তোমাদের বোনেদের গৃহে, কিংবা তোমাদের চাচাদের গৃহে, কিংবা তোমাদের ফুফুদের গৃহে, কিংবা তোমাদের মামাদের গৃহে, কিংবা তোমাদের খালাদের গৃহে, কিংবা ঐ সমস্ত গৃহে, যেগুলোর চাবি রয়েছে তোমাদের হাতে কিংবা তোমাদের বিশ্বস্ত বন্ধুদের গৃহে। তোমরা একত্রে আহার কর কিংবা আলাদা আলাদা তাতে তোমাদের উপর কোন দোষ নেই। যখন তোমরা গৃহে, প্রবেশ করবে তখন তোমরা স্বজনদেরকে সালাম জানাবে যা আল্লাহর দৃষ্টিতে বরকতময় পবিত্র সম্ভাষণ। এভাবে আল্লাহ তোমাদের জন্য নির্দেশসমূহ বিশদভাবে বর্ণনা করেন যাতে তোমরা বুঝতে পার।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 3,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 3
+    }
+}

@@ -1,0 +1,281 @@
+{
+    "verses": [
+        {
+            "id": 1398,
+            "verse_number": 34,
+            "verse_key": "10:34",
+            "hizb_number": 22,
+            "rub_el_hizb_number": 85,
+            "ruku_number": 175,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "قُلْ هَلْ مِن شُرَكَآئِكُم مَّن يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ ۚ قُلِ ٱللَّهُ يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ ۖ فَأَنَّىٰ تُؤْفَكُونَ",
+            "page_number": 213,
+            "juz_number": 11,
+            "translations": [
+                {
+                    "id": 96234,
+                    "resource_id": 20,
+                    "text": "Say, \"Are there of your 'partners' any who begins creation and then repeats it?\" Say, \"Allāh begins creation and then repeats it, so how are you deluded?\""
+                },
+                {
+                    "id": 220222,
+                    "resource_id": 39,
+                    "text": "Bertanyalah (kepada mereka wahai Muhammad): \"Adakah di antara makhluk-makhluk yang kamu sekutukan dengan Tuhan itu, sesiapa yang mula menciptakan sesuatu kejadian kemudian ia mengembalikan adanya semula (pada hari kiamat)? \"Katakanlah: Allah jualah yang mula menciptakan sekalian makhluk kemudian Ia mengembalikan adanya semula (untuk menerima balasan); oleh itu, mengapa kamu rela dipalingkan (kepada menyembah yang lain)?\""
+                },
+                {
+                    "id": 1092375,
+                    "resource_id": 161,
+                    "text": "বল ‘‘তোমরা যাদেরকে শরীক কর তাদের মধ্যে এমন কেউ আছে কি যে সৃষ্টির সূচনা করে এবং তার পুনরাবর্তনও ঘটাতে পারে?’’ বল ‘‘আল্লাহই সৃষ্টির সূচনা করেন এবং তার পুনরাবর্তন ঘটান।’’ তাহলে কীভাবে তোমরা বিচ্যুত হয়ে যাচ্ছ (সত্য পথ থেকে)?"
+                }
+            ]
+        },
+        {
+            "id": 1399,
+            "verse_number": 35,
+            "verse_key": "10:35",
+            "hizb_number": 22,
+            "rub_el_hizb_number": 85,
+            "ruku_number": 175,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "قُلْ هَلْ مِن شُرَكَآئِكُم مَّن يَهْدِىٓ إِلَى ٱلْحَقِّ ۚ قُلِ ٱللَّهُ يَهْدِى لِلْحَقِّ ۗ أَفَمَن يَهْدِىٓ إِلَى ٱلْحَقِّ أَحَقُّ أَن يُتَّبَعَ أَمَّن لَّا يَهِدِّىٓ إِلَّآ أَن يُهْدَىٰ ۖ فَمَا لَكُمْ كَيْفَ تَحْكُمُونَ",
+            "page_number": 213,
+            "juz_number": 11,
+            "translations": [
+                {
+                    "id": 96235,
+                    "resource_id": 20,
+                    "text": "Say, \"Are there of your 'partners' any who guides to the truth?\" Say, \"Allāh guides to the truth. So is He who guides to the truth more worthy to be followed or he who guides not unless he is guided? Then what is [wrong] with you - how do you judge?\""
+                },
+                {
+                    "id": 220217,
+                    "resource_id": 39,
+                    "text": "Bertanyalah (wahai Muhammad): \"Adakah di antara makhluk-makhluk: yang kamu sekutukan dengan Tuhan itu, sesiapa yang dengan memberi petunjuk kepada kebenaran? \"Katakanlah: \"Allah jualah yang memberi hidayah petunjuk kepada kebenaran; (kalau sudah demikian) maka adakah yang dapat memberi hidayah petunjuk kepada kebenaran itu, lebih berhak diturut, ataupun yang tidak dapat memberi sebarang petunjuk melainkan sesudah ia diberi hidayah petunjuk? Maka apakah alasan sikap kamu itu ? Bagaimana kamu sanggup mengambil keputusan (dengan perkara yang salah, yang tidak dapat diterima oleh akal)?\""
+                },
+                {
+                    "id": 1092376,
+                    "resource_id": 161,
+                    "text": "বল ‘‘তোমরা যাদেরকে শরীক কর তাদের কেউ কি সত্যের পথ দেখাতে পারে?’’ বল, ‘আল্লাহই সত্যের পথ দেখান।’ তবে যিনি সত্য পথে পরিচালিত করেন আনুগত্য লাভের তিনিই বেশি হাকদার, না কি সেই যাকে পথ না দেখালে পথ পায় না? তোমাদের হয়েছে কী? তোমরা কীভাবে সিদ্ধান্ত নিচ্ছ?"
+                }
+            ]
+        },
+        {
+            "id": 1400,
+            "verse_number": 36,
+            "verse_key": "10:36",
+            "hizb_number": 22,
+            "rub_el_hizb_number": 85,
+            "ruku_number": 175,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا يَتَّبِعُ أَكْثَرُهُمْ إِلَّا ظَنًّا ۚ إِنَّ ٱلظَّنَّ لَا يُغْنِى مِنَ ٱلْحَقِّ شَيْـًٔا ۚ إِنَّ ٱللَّهَ عَلِيمٌۢ بِمَا يَفْعَلُونَ",
+            "page_number": 213,
+            "juz_number": 11,
+            "translations": [
+                {
+                    "id": 96236,
+                    "resource_id": 20,
+                    "text": "And most of them follow not except assumption. Indeed, assumption avails not against the truth at all. Indeed, Allāh is Knowing of what they do."
+                },
+                {
+                    "id": 218893,
+                    "resource_id": 39,
+                    "text": "Dan kebanyakan mereka, tidak menurut melainkan sesuatu sangkaan sahaja, (padahal) sesungguhnya sangkaan itu tidak dapat memenuhi kehendak menentukan sesuatu dari kebenaran (iktiqad). Sesungguhnya Allah Maha Mengetahui akan apa yang mereka lakukan."
+                },
+                {
+                    "id": 1092377,
+                    "resource_id": 161,
+                    "text": "তাদের অধিকাংশই কেবল ধারণার অনুসরণ করে, সত্যের মুকাবালায় ধারণা কোন কাজে আসে না। তোমরা যা কর সে সম্পর্কে আল্লাহ সর্বাধিক অবগত।"
+                }
+            ]
+        },
+        {
+            "id": 1401,
+            "verse_number": 37,
+            "verse_key": "10:37",
+            "hizb_number": 22,
+            "rub_el_hizb_number": 85,
+            "ruku_number": 175,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا كَانَ هَـٰذَا ٱلْقُرْءَانُ أَن يُفْتَرَىٰ مِن دُونِ ٱللَّهِ وَلَـٰكِن تَصْدِيقَ ٱلَّذِى بَيْنَ يَدَيْهِ وَتَفْصِيلَ ٱلْكِتَـٰبِ لَا رَيْبَ فِيهِ مِن رَّبِّ ٱلْعَـٰلَمِينَ",
+            "page_number": 213,
+            "juz_number": 11,
+            "translations": [
+                {
+                    "id": 96237,
+                    "resource_id": 20,
+                    "text": "And it was not [possible] for this Qur’ān to be produced by other than Allāh, but [it is] a confirmation of what was before it and a detailed explanation of the [former] Scripture, about which there is no doubt,<sup foot_note=196445>1</sup> from the Lord of the worlds."
+                },
+                {
+                    "id": 220227,
+                    "resource_id": 39,
+                    "text": "Dan bukanlah Al-Quran ini sesuatu yang boleh diada-adakan oleh yang lain dari Allah; tetapi Al-Quran itu diturunkan oleh Allah untuk membenarkan Kitab-kitab yang diturunkan sebelumnya, dan untuk menjelaskan satu persatu hukum-hukum Syarak yang diwajibkan (atas kamu); tidak ada sebarang syak dan ragu-ragu pada Al-Quran itu tentang datangnya dari Allah, Tuhan yang mencipta dan mentadbirkan sekalian alam."
+                },
+                {
+                    "id": 1092378,
+                    "resource_id": 161,
+                    "text": "এ কুরআন আল্লাহ ছাড়া অন্য কারো রচিত নয়। উপরন্তু তা পূর্বে যা নাযিল হয়েছিল তার সমর্থক আর বিস্তারিত ব্যাখ্যাকৃত কিতাব, এতে কোন সন্দেহ নেই, জগৎসমূহের প্রতিপালকের নিকট হতে (নাযিলকৃত)।"
+                }
+            ]
+        },
+        {
+            "id": 1402,
+            "verse_number": 38,
+            "verse_key": "10:38",
+            "hizb_number": 22,
+            "rub_el_hizb_number": 85,
+            "ruku_number": 175,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ فَأْتُوا۟ بِسُورَةٍ مِّثْلِهِۦ وَٱدْعُوا۟ مَنِ ٱسْتَطَعْتُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَـٰدِقِينَ",
+            "page_number": 213,
+            "juz_number": 11,
+            "translations": [
+                {
+                    "id": 96238,
+                    "resource_id": 20,
+                    "text": "Or do they say [about the Prophet (ﷺ)], \"He invented it?\" Say, \"Then bring forth a sūrah like it and call upon [for assistance] whomever you can besides Allāh, if you should be truthful.\""
+                },
+                {
+                    "id": 220225,
+                    "resource_id": 39,
+                    "text": "(Orang-orang kafir tidak mengakui hakikat yang demikian itu) bahkan mereka mengatakan: \"Dia lah (Muhammad) yang mengada-adakan Al-Quran menurut rekaannya\". Katakanlah (wahai Muhammad): \"Kalau demikian, datangkanlah satu surah yang sebanding dengan Al-Quran itu, dan panggilah siapa sahaja yang kamu dapat memanggilnya, yang lain dari Allah (untuk membantu kamu), jika betul kamu orang-orang yang benar!\"."
+                },
+                {
+                    "id": 1092379,
+                    "resource_id": 161,
+                    "text": "তারা কি এ কথা বলে যে, সে [অর্থাৎ মুহাম্মাদ (সা.)] এটা রচনা করেছে? বল, তাহলে তোমরাও এর মত একটা সূরাহ (রচনা করে) নিয়ে এসো আর আল্লাহকে বাদ দিয়ে যাকে পার তাকে ডেকে নাও যদি তোমরা সত্যবাদী হয়ে থাক [যে মুহাম্মাদ (সাঃ)-ই তা রচনা করেছেন]।"
+                }
+            ]
+        },
+        {
+            "id": 1403,
+            "verse_number": 39,
+            "verse_key": "10:39",
+            "hizb_number": 22,
+            "rub_el_hizb_number": 85,
+            "ruku_number": 175,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "بَلْ كَذَّبُوا۟ بِمَا لَمْ يُحِيطُوا۟ بِعِلْمِهِۦ وَلَمَّا يَأْتِهِمْ تَأْوِيلُهُۥ ۚ كَذَٰلِكَ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ ۖ فَٱنظُرْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلظَّـٰلِمِينَ",
+            "page_number": 213,
+            "juz_number": 11,
+            "translations": [
+                {
+                    "id": 96239,
+                    "resource_id": 20,
+                    "text": "Rather, they have denied that which they encompass not in knowledge and whose interpretation has not yet come to them. Thus did those before them deny. Then observe how was the end of the wrongdoers."
+                },
+                {
+                    "id": 220419,
+                    "resource_id": 39,
+                    "text": "Bahkan mereka pula terburu-buru mendustakan Al-Quran yang fahaman mereka tidak dapat meliputi segala isi pengetahuannya, dan belum datang kepada mereka kenyataan yang menjelaskan kebenarannya. Demikianlah juga orang-orang sebelum mereka mendustakan (Kitab-kitab Allah yang diturunkan kepada mereka). Maka lihatlah bagaimana akibat orang-orang yang zalim itu (berakhir dengan berbagai bencana yang membinasakan mereka)."
+                },
+                {
+                    "id": 1092380,
+                    "resource_id": 161,
+                    "text": "বরং যে বিষয় তাদের জ্ঞানের সীমার মধ্যে আসে না, আর যার পরিণাম ফল এখনও উপস্থিত হয়নি তা তারা অস্বীকার করে। এভাবে তাদের পূর্ববর্তী লোকেরাও মিথ্যা মনে ক’রে অমান্য করেছিল। এখন দেখ, এই যালিমদের পরিণতি কী হয়েছে!"
+                }
+            ]
+        },
+        {
+            "id": 1404,
+            "verse_number": 40,
+            "verse_key": "10:40",
+            "hizb_number": 22,
+            "rub_el_hizb_number": 85,
+            "ruku_number": 175,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَمِنْهُم مَّن يُؤْمِنُ بِهِۦ وَمِنْهُم مَّن لَّا يُؤْمِنُ بِهِۦ ۚ وَرَبُّكَ أَعْلَمُ بِٱلْمُفْسِدِينَ",
+            "page_number": 213,
+            "juz_number": 11,
+            "translations": [
+                {
+                    "id": 96241,
+                    "resource_id": 20,
+                    "text": "And of them are those who believe in it, and of them are those who do not believe in it. And your Lord is most knowing of the corrupters."
+                },
+                {
+                    "id": 220802,
+                    "resource_id": 39,
+                    "text": "Dan di antara mereka ada yang beriman kepada Al-Quran, dan ada di antaranya yang tidak beriman langsung kepadanya; dan (ingatlah), Tuhanmu lebih mengetahui akan orang-orang yang melakukan kerosakan."
+                },
+                {
+                    "id": 1092381,
+                    "resource_id": 161,
+                    "text": "এদের কিছু লোক এতে বিশ্বাস করে আর কতক এতে বিশ্বাস করে না। তোমার প্রতিপালক এই ফাসাদ সৃষ্টিকারী লোকদের সম্পর্কে সবচেয়ে বেশি অবহিত।"
+                }
+            ]
+        },
+        {
+            "id": 1405,
+            "verse_number": 41,
+            "verse_key": "10:41",
+            "hizb_number": 22,
+            "rub_el_hizb_number": 85,
+            "ruku_number": 176,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِن كَذَّبُوكَ فَقُل لِّى عَمَلِى وَلَكُمْ عَمَلُكُمْ ۖ أَنتُم بَرِيٓـُٔونَ مِمَّآ أَعْمَلُ وَأَنَا۠ بَرِىٓءٌ مِّمَّا تَعْمَلُونَ",
+            "page_number": 213,
+            "juz_number": 11,
+            "translations": [
+                {
+                    "id": 96242,
+                    "resource_id": 20,
+                    "text": "And if they deny you, [O Muḥammad], then say, \"For me are my deeds, and for you are your deeds. You are disassociated from what I do, and I am disassociated from what you do.\""
+                },
+                {
+                    "id": 220228,
+                    "resource_id": 39,
+                    "text": "Dan jika mereka terus-menerus mendustakanmu (wahai Muhammad), maka katakanlah: \"Bagiku amalku, dan bagi kamu pula amal kamu. Kamu tidak bertanggungjawab akan apa yang aku kerjakan, dan aku juga tidak bertanggungjawab akan apa yang kamu kerjakan\"."
+                },
+                {
+                    "id": 1092382,
+                    "resource_id": 161,
+                    "text": "যদি তারা তোমাকে মিথ্যা জেনে অমান্য ক’রে তাহলে বল, ‘আমার কাজের জন্য আমি দায়ী, আর তোমাদের কাজের জন্য তোমরা দায়ী, আমি যা করি তার দায়-দায়িত্ব থেকে তোমরা মুক্ত, আর তোমরা যা কর তার দায়-দায়িত্ব থেকে আমি মুক্ত।’"
+                }
+            ]
+        },
+        {
+            "id": 1406,
+            "verse_number": 42,
+            "verse_key": "10:42",
+            "hizb_number": 22,
+            "rub_el_hizb_number": 85,
+            "ruku_number": 176,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَمِنْهُم مَّن يَسْتَمِعُونَ إِلَيْكَ ۚ أَفَأَنتَ تُسْمِعُ ٱلصُّمَّ وَلَوْ كَانُوا۟ لَا يَعْقِلُونَ",
+            "page_number": 213,
+            "juz_number": 11,
+            "translations": [
+                {
+                    "id": 96244,
+                    "resource_id": 20,
+                    "text": "And among them are those who listen to you. But can you cause the deaf to hear [i.e., benefit from this hearing], although they will not use reason?"
+                },
+                {
+                    "id": 220224,
+                    "resource_id": 39,
+                    "text": "Dan di antara mereka (yang ingkar) itu, ada yang datang mendengar ajaranmu (dengan tidak mendapat faedah sedikitpun sebagai orang pekak); maka engkau (wahai Muhammad) tidak berkuasa menjadikan orang-orang yang pekak itu mendengar, juga kalau mereka menjadi orang-orang yang tidak mahu memahami perkara yang didengarnya."
+                },
+                {
+                    "id": 1092383,
+                    "resource_id": 161,
+                    "text": "এদের মধ্যে কেউ কেউ তোমার কথা শুনার ভান করে। তাহলে তুমি কি বধিরকে শুনাবে, তারা না বুঝলেও?"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 9,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 9
+    }
+}

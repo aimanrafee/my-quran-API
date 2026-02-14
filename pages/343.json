@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 2691,
+            "verse_number": 18,
+            "verse_key": "23:18",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 295,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءًۢ بِقَدَرٍ فَأَسْكَنَّـٰهُ فِى ٱلْأَرْضِ ۖ وَإِنَّا عَلَىٰ ذَهَابٍۭ بِهِۦ لَقَـٰدِرُونَ",
+            "page_number": 343,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97787,
+                    "resource_id": 20,
+                    "text": "And We have sent down rain from the sky in a measured amount and settled it in the earth. And indeed, We are Able to take it away."
+                },
+                {
+                    "id": 215696,
+                    "resource_id": 39,
+                    "text": "Dan Kami turunkan hujan dari langit dengan sukatan yang tertentu, serta Kami tempatkan dia tersimpan di bumi; dan sesungguhnya Kami sudah tentu berkuasa melenyapkannya."
+                },
+                {
+                    "id": 1093668,
+                    "resource_id": 161,
+                    "text": "আমি আকাশ থেকে পরিমিত বৃষ্টি বর্ষণ করি, অতঃপর আমি তা যমীনে সংরক্ষণ করি আর আমি পানিকে সরিয়ে দিতে অবশ্যই সক্ষম।"
+                }
+            ]
+        },
+        {
+            "id": 2692,
+            "verse_number": 19,
+            "verse_key": "23:19",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 295,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَأَنشَأْنَا لَكُم بِهِۦ جَنَّـٰتٍ مِّن نَّخِيلٍ وَأَعْنَـٰبٍ لَّكُمْ فِيهَا فَوَٰكِهُ كَثِيرَةٌ وَمِنْهَا تَأْكُلُونَ",
+            "page_number": 343,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97788,
+                    "resource_id": 20,
+                    "text": "And We brought forth for you thereby gardens of palm trees and grapevines in which for you are abundant fruits and from which you eat."
+                },
+                {
+                    "id": 215697,
+                    "resource_id": 39,
+                    "text": "Kemudian, Kami tumbuhkan untuk kamu dengan air itu, kebun-kebun tamar (kurma) dan anggur. Kamu beroleh dalam kebun-kebun itu (berbagai jenis lagi) buah-buahan yang banyak, dan dari kebun-kebun itulah kamu beroleh rezeki penghidupan kamu."
+                },
+                {
+                    "id": 1093669,
+                    "resource_id": 161,
+                    "text": "অতঃপর আমি তা দিয়ে তোমাদের জন্য খেজুর ও আঙ্গুরের বাগান সৃষ্টি করি, ওতে তোমাদের জন্য আছে পর্যাপ্ত ফল, যাথেকে তোমরা খাও (আর সুখভোগ কর)।"
+                }
+            ]
+        },
+        {
+            "id": 2693,
+            "verse_number": 20,
+            "verse_key": "23:20",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 295,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَشَجَرَةً تَخْرُجُ مِن طُورِ سَيْنَآءَ تَنۢبُتُ بِٱلدُّهْنِ وَصِبْغٍ لِّلْـَٔاكِلِينَ",
+            "page_number": 343,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97828,
+                    "resource_id": 20,
+                    "text": "And [We brought forth] a tree issuing from Mount Sinai which produces oil and food [i.e., olives] for those who eat."
+                },
+                {
+                    "id": 215700,
+                    "resource_id": 39,
+                    "text": "Dan (Kami juga menumbuhkan untuk kamu) pokok yang asal tumbuhnya di kawasan Gunung Tursina, yang mengeluarkan minyak dan lauk bagi orang-orang yang makan."
+                },
+                {
+                    "id": 1093670,
+                    "resource_id": 161,
+                    "text": "আর (আমি সৃষ্টি করি) এক বৃক্ষ যা সিনাই পর্বতে জন্মে, যাথেকে তেল উৎপন্ন হয়, আর ভক্ষণকারীদের জন্য রসনা তৃপ্তিকর।"
+                }
+            ]
+        },
+        {
+            "id": 2694,
+            "verse_number": 21,
+            "verse_key": "23:21",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 295,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِنَّ لَكُمْ فِى ٱلْأَنْعَـٰمِ لَعِبْرَةً ۖ نُّسْقِيكُم مِّمَّا فِى بُطُونِهَا وَلَكُمْ فِيهَا مَنَـٰفِعُ كَثِيرَةٌ وَمِنْهَا تَأْكُلُونَ",
+            "page_number": 343,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97829,
+                    "resource_id": 20,
+                    "text": "And indeed, for you in livestock is a lesson. We give you drink from that which is in their bellies, and for you in them are numerous benefits, and from them you eat."
+                },
+                {
+                    "id": 215701,
+                    "resource_id": 39,
+                    "text": "Dan sesungguhnya pada binatang-binatang ternak itu kamu beroleh punca-punca yang menyedarkan (tentang kemurahan dan kebijaksanaan Allah penciptanya); Kami beri kamu minum dari susu yang ada dalam perutnya, dan kamu beroleh banyak faedah lagi padanya; dan daripadanya juga kamu beroleh rezeki penghidupan kamu."
+                },
+                {
+                    "id": 1093671,
+                    "resource_id": 161,
+                    "text": "আর গবাদি পশুর ভিতরে তোমাদের জন্য আছে অবশ্যই শিক্ষণীয় দৃষ্টান্ত। তাদের পেটে যা আছে তাত্থেকে আমি তোমাদেরকে পান করাই (দুধ) আর ওতে তোমাদের জন্য আছে বহুবিধ উপকার। তোমরা তাথেকে খাও (গোশত)।"
+                }
+            ]
+        },
+        {
+            "id": 2695,
+            "verse_number": 22,
+            "verse_key": "23:22",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 295,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَعَلَيْهَا وَعَلَى ٱلْفُلْكِ تُحْمَلُونَ",
+            "page_number": 343,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97830,
+                    "resource_id": 20,
+                    "text": "And upon them and on ships you are carried."
+                },
+                {
+                    "id": 215665,
+                    "resource_id": 39,
+                    "text": "Dan di atas binatang-binatang ternak itu, serta di atas kapal-kapal kamu diangkut."
+                },
+                {
+                    "id": 1093672,
+                    "resource_id": 161,
+                    "text": "আর ওতে আর নৌযানে তোমরা আরোহণ কর।"
+                }
+            ]
+        },
+        {
+            "id": 2696,
+            "verse_number": 23,
+            "verse_key": "23:23",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 296,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦ فَقَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَـٰهٍ غَيْرُهُۥٓ ۖ أَفَلَا تَتَّقُونَ",
+            "page_number": 343,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97831,
+                    "resource_id": 20,
+                    "text": "And We had certainly sent Noah to his people, and he said, \"O my people, worship Allāh; you have no deity other than Him; then will you not fear Him?\""
+                },
+                {
+                    "id": 215622,
+                    "resource_id": 39,
+                    "text": "Dan demi sesungguhnya, Kami telah mengutuskan Nabi Nuh kepada kaumnya lalu berkatalah ia: \"Wahai kaumku, sembahlah kamu akan Allah (sebenarnya) tidak ada Tuhan bagi kamu selain daripadaNya. Oleh itu, tidakkah kamu mahu bertaqwa kepadaNya?\"."
+                },
+                {
+                    "id": 1093673,
+                    "resource_id": 161,
+                    "text": "আমি নূহকে তাঁর সম্প্রদায়ের কাছে পাঠিয়েছিলাম। সে বলেছিল : ‘হে আমার জাতি! তোমরা আল্লাহর ‘ইবাদাত কর, তিনি ছাড়া তোমাদের কোন ইলাহ নেই, তোমরা কি (তাঁকে) ভয় করবে না?’"
+                }
+            ]
+        },
+        {
+            "id": 2697,
+            "verse_number": 24,
+            "verse_key": "23:24",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 296,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَقَالَ ٱلْمَلَؤُا۟ ٱلَّذِينَ كَفَرُوا۟ مِن قَوْمِهِۦ مَا هَـٰذَآ إِلَّا بَشَرٌ مِّثْلُكُمْ يُرِيدُ أَن يَتَفَضَّلَ عَلَيْكُمْ وَلَوْ شَآءَ ٱللَّهُ لَأَنزَلَ مَلَـٰٓئِكَةً مَّا سَمِعْنَا بِهَـٰذَا فِىٓ ءَابَآئِنَا ٱلْأَوَّلِينَ",
+            "page_number": 343,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97832,
+                    "resource_id": 20,
+                    "text": "But the eminent among those who disbelieved from his people said, \"This is not but a man like yourselves who wishes to take precedence over you; and if Allāh had willed [to send a messenger], He would have sent down angels. We have not heard of this among our forefathers."
+                },
+                {
+                    "id": 215666,
+                    "resource_id": 39,
+                    "text": "Maka ketua-ketua yang kafir dari kaumnya berkata (sesama sendiri)): \"Orang ini hanyalah seorang manusia seperti kamu, ia bertujuan hendak melebihkan dirinya daripada kamu. Dan kalaulah Allah berkehendak (mengutuskan seorang Rasul) tentulah Ia menurunkan malaikat menjadi RasulNya. Kami tidak pernah mendengar seruan seperti ini dalam kalangan datuk nenek kami yang telah lalu."
+                },
+                {
+                    "id": 1093674,
+                    "resource_id": 161,
+                    "text": "তার সম্প্রদায়ের প্রধানগণ যারা কুফুরী করেছিল- বলেছিল : ‘এতো তোমাদের মত মানুষ ছাড়া কিছুই না, সে তোমাদের উপর প্রাধান্য লাভ করতে চায়, আল্লাহ (কাউকে নবীরূপে পাঠানোর) ইচ্ছে করলে তো তিনি ফেরেশতা পাঠাতেন, আমরা আমাদের পূর্ব পুরুষদের সময়ে এ সব কথা তো শুনিনি।’"
+                }
+            ]
+        },
+        {
+            "id": 2698,
+            "verse_number": 25,
+            "verse_key": "23:25",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 296,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "إِنْ هُوَ إِلَّا رَجُلٌۢ بِهِۦ جِنَّةٌ فَتَرَبَّصُوا۟ بِهِۦ حَتَّىٰ حِينٍ",
+            "page_number": 343,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97833,
+                    "resource_id": 20,
+                    "text": "He is not but a man possessed with madness, so wait concerning him for a time.\""
+                },
+                {
+                    "id": 215667,
+                    "resource_id": 39,
+                    "text": "\"Ia tidak lain hanyalah seorang lelaki yang mengidap penyakit gila. Oleh itu tunggulah akan perubahan keadaannya hingga ke suatu masa\"."
+                },
+                {
+                    "id": 1093675,
+                    "resource_id": 161,
+                    "text": "এতো এমন লোক যাকে পাগলামিতে পেয়েছে, কাজেই তার ব্যাপারে তোমরা কিছু কাল অপেক্ষা কর।"
+                }
+            ]
+        },
+        {
+            "id": 2699,
+            "verse_number": 26,
+            "verse_key": "23:26",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 296,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ رَبِّ ٱنصُرْنِى بِمَا كَذَّبُونِ",
+            "page_number": 343,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97834,
+                    "resource_id": 20,
+                    "text": "[Noah] said, \"My Lord, support me because they have denied me.\""
+                },
+                {
+                    "id": 215704,
+                    "resource_id": 39,
+                    "text": "Nabi Nuh berdoa dengan berkata: \"Wahai Tuhanku tolonglah daku, kerana mereka mendustakan seruanku\"."
+                },
+                {
+                    "id": 1093676,
+                    "resource_id": 161,
+                    "text": "নূহ বলল : ‘হে আমার প্রতিপালক! তুমি আমাকে সাহায্য কর, কারণ তারা আমাকে মিথ্যেবাদী বলছে।’"
+                }
+            ]
+        },
+        {
+            "id": 2700,
+            "verse_number": 27,
+            "verse_key": "23:27",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 296,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَأَوْحَيْنَآ إِلَيْهِ أَنِ ٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَآءَ أَمْرُنَا وَفَارَ ٱلتَّنُّورُ ۙ فَٱسْلُكْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ ٱلْقَوْلُ مِنْهُمْ ۖ وَلَا تُخَـٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ ۖ إِنَّهُم مُّغْرَقُونَ",
+            "page_number": 343,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97835,
+                    "resource_id": 20,
+                    "text": "So We inspired to him, \"Construct the ship under Our observation and Our inspiration, and when Our command comes and the oven overflows,<sup foot_note=196858>1</sup> put into it [i.e., the ship] from each [creature] two mates and your family, except him for whom the decree [of destruction] has proceeded. And do not address Me concerning those who have wronged; indeed, they are to be drowned."
+                },
+                {
+                    "id": 215703,
+                    "resource_id": 39,
+                    "text": "Lalu Kami wahyukan kepadanya: \"Buatlah bahtera dengan pengawasan serta kawalan Kami, dan dengan panduan wahyu Kami (tentang cara membuatnya); kemudian apabila datang hukum Kami untuk membinasakan mereka, dan air memancut-mancut dari muka bumi (yang menandakan kedatangan taufan), maka masukkanlah ke dalam bahtera itu dua dari tiap-tiap jenis haiwan (jantan dan betina), dan bawalah ahlimu (dan pengikut-pengikutmu) kecuali orang yang telah ditetapkan hukuman azab atasnya di antara mereka (disebabkan kekufurannya); dan janganlah engkau merayu kepadaku untuk menolong kaum yang zalim itu, kerana sesungguhnya mereka akan ditenggelamkan dengan taufan sehingga mati lemas."
+                },
+                {
+                    "id": 1093677,
+                    "resource_id": 161,
+                    "text": "তখন আমি তার কাছে ওয়াহী পাঠালাম- আমার দৃষ্টির সম্মুখে আমার নির্দেশ অনুযায়ী নৌযান তৈরি কর, অতঃপর যখন আমার নির্দেশ আসবে আর উনুন (পানিতে) উথলে উঠবে, তখন নৌকায় তুলে নাও প্রত্যেক জীবের এক এক জোড়া আর তোমার পরিবারবর্গকে, তাদের মধ্যে যাদের বিপক্ষে পূর্বে সিদ্ধান্ত হয়ে গেছে তাদেরকে বাদ দিয়ে। আর অন্যায়কারীদের পক্ষে আমার নিকট আবেদন করো না, তারা (বানে) ডুববেই।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 10
+    }
+}

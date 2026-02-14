@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 4706,
+            "verse_number": 31,
+            "verse_key": "51:31",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 209,
+            "ruku_number": 458,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "۞ قَالَ فَمَا خَطْبُكُمْ أَيُّهَا ٱلْمُرْسَلُونَ",
+            "page_number": 522,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100294,
+                    "resource_id": 20,
+                    "text": "[Abraham] said, \"Then what is your business [here], O messengers?\""
+                },
+                {
+                    "id": 218300,
+                    "resource_id": 39,
+                    "text": "Nabi Ibrahim bertanya: \"(Selain dari itu) apa lagi tugas penting kamu wahai utusan Tuhan?\""
+                },
+                {
+                    "id": 1095683,
+                    "resource_id": 161,
+                    "text": "ইবরাহীম বলল- ‘ওহে আল্লাহর দূতগণ (ফেরেশতারা)! তোমাদের কাজ কী (এখন)?’"
+                }
+            ]
+        },
+        {
+            "id": 4707,
+            "verse_number": 32,
+            "verse_key": "51:32",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 209,
+            "ruku_number": 458,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "قَالُوٓا۟ إِنَّآ أُرْسِلْنَآ إِلَىٰ قَوْمٍ مُّجْرِمِينَ",
+            "page_number": 522,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100295,
+                    "resource_id": 20,
+                    "text": "They said, \"Indeed, we have been sent to a people of criminals<sup foot_note=197420>1</sup>"
+                },
+                {
+                    "id": 218303,
+                    "resource_id": 39,
+                    "text": "Mereka menjawab: \"Sesungguhnya Kami diutus kepada suatu kaum yang berdosa (untuk membinasakan mereka);"
+                },
+                {
+                    "id": 1095684,
+                    "resource_id": 161,
+                    "text": "তারা বলল- ‘আমাদেরকে এক অপরাধী জাতির কাছে পাঠানো হয়েছে'।"
+                }
+            ]
+        },
+        {
+            "id": 4708,
+            "verse_number": 33,
+            "verse_key": "51:33",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 209,
+            "ruku_number": 458,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "لِنُرْسِلَ عَلَيْهِمْ حِجَارَةً مِّن طِينٍ",
+            "page_number": 522,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100296,
+                    "resource_id": 20,
+                    "text": "To send down upon them stones of clay,"
+                },
+                {
+                    "id": 218304,
+                    "resource_id": 39,
+                    "text": "\"Supaya Kami menimpakan mereka dengan batu-batu dari tanah (yang dibakar),"
+                },
+                {
+                    "id": 1095685,
+                    "resource_id": 161,
+                    "text": "যেন তাদের উপর মাটির পাথর বর্ষণ করি"
+                }
+            ]
+        },
+        {
+            "id": 4709,
+            "verse_number": 34,
+            "verse_key": "51:34",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 209,
+            "ruku_number": 458,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "مُّسَوَّمَةً عِندَ رَبِّكَ لِلْمُسْرِفِينَ",
+            "page_number": 522,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100297,
+                    "resource_id": 20,
+                    "text": "Marked in the presence of your Lord for the transgressors.\""
+                },
+                {
+                    "id": 218132,
+                    "resource_id": 39,
+                    "text": "\"Batu-batu itu ditandakan di sisi Tuhanmu, untuk membinasakan orang-orang yang melampaui batas (dalam keingkarannya)\"."
+                },
+                {
+                    "id": 1095686,
+                    "resource_id": 161,
+                    "text": "যা তোমার প্রতিপালকের নিকট চিহ্নিত হয়ে আছে সীমালঙ্ঘনকারীদের জন্য।"
+                }
+            ]
+        },
+        {
+            "id": 4710,
+            "verse_number": 35,
+            "verse_key": "51:35",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 209,
+            "ruku_number": 458,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَأَخْرَجْنَا مَن كَانَ فِيهَا مِنَ ٱلْمُؤْمِنِينَ",
+            "page_number": 522,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100298,
+                    "resource_id": 20,
+                    "text": "So We brought out whoever was in them [i.e., the cities] of the believers."
+                },
+                {
+                    "id": 218129,
+                    "resource_id": 39,
+                    "text": "(Setelah sampai utusan Kami ke tempat itu), Kami (perintahkan mereka) mengeluarkan orang-orang yang beriman yang tinggal di situ."
+                },
+                {
+                    "id": 1095687,
+                    "resource_id": 161,
+                    "text": "সেখানে যারা মু’মিন ছিল আমি তাদেরকে বের করে এনেছিলাম,"
+                }
+            ]
+        },
+        {
+            "id": 4711,
+            "verse_number": 36,
+            "verse_key": "51:36",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 209,
+            "ruku_number": 458,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍ مِّنَ ٱلْمُسْلِمِينَ",
+            "page_number": 522,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100299,
+                    "resource_id": 20,
+                    "text": "And We found not within them other than a [single] house of Muslims.<sup foot_note=197421>1</sup>"
+                },
+                {
+                    "id": 218130,
+                    "resource_id": 39,
+                    "text": "(Sesudah dipereksa) maka (utusan) Kami tidak mendapati di situ melainkan sebuah rumah sahaja yang ada penduduknya dari orang-orang Islam (yang beriman kepada Nabi Lut)."
+                },
+                {
+                    "id": 1095688,
+                    "resource_id": 161,
+                    "text": "আমি সেখানে মুসলিমদের একটি পরিবার ছাড়া আর পাইনি।"
+                }
+            ]
+        },
+        {
+            "id": 4712,
+            "verse_number": 37,
+            "verse_key": "51:37",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 209,
+            "ruku_number": 458,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَتَرَكْنَا فِيهَآ ءَايَةً لِّلَّذِينَ يَخَافُونَ ٱلْعَذَابَ ٱلْأَلِيمَ",
+            "page_number": 522,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100300,
+                    "resource_id": 20,
+                    "text": "And We left therein a sign for those who fear the painful punishment."
+                },
+                {
+                    "id": 218131,
+                    "resource_id": 39,
+                    "text": "Dan Kami tinggalkan di negeri itu (timbunan batu-batu yang telah menghujani dan membinasakan mereka), sebagai tanda (yang mendatangkan keinsafan) bagi orang-orang yang sedia takut kepada azab seksa yang tidak terperi sakitnya."
+                },
+                {
+                    "id": 1095689,
+                    "resource_id": 161,
+                    "text": "আর তাদের জন্য সেখানে একটা নিদর্শন রেখে দিলাম যারা অত্যন্ত পীড়াদায়ক ‘আযাবের ভয় করে।"
+                }
+            ]
+        },
+        {
+            "id": 4713,
+            "verse_number": 38,
+            "verse_key": "51:38",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 209,
+            "ruku_number": 458,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَفِى مُوسَىٰٓ إِذْ أَرْسَلْنَـٰهُ إِلَىٰ فِرْعَوْنَ بِسُلْطَـٰنٍ مُّبِينٍ",
+            "page_number": 522,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100301,
+                    "resource_id": 20,
+                    "text": "And in Moses [was a sign], when We sent him to Pharaoh with clear authority.<sup foot_note=197422>1</sup>"
+                },
+                {
+                    "id": 218110,
+                    "resource_id": 39,
+                    "text": "Dan juga pada (kisah) Nabi Musa (terdapat dalil-dalil yang memberi keinsafan), - ketika kami mengutusnya kepada Firaun dengan membawa mukjizat yang nyata."
+                },
+                {
+                    "id": 1095690,
+                    "resource_id": 161,
+                    "text": "আর মূসার ঘটনাতেও (নিদর্শন আছে) যখন আমি তাকে স্পষ্ট প্রমাণসহ ফেরাউনের কাছে পাঠিয়েছিলাম,"
+                }
+            ]
+        },
+        {
+            "id": 4714,
+            "verse_number": 39,
+            "verse_key": "51:39",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 209,
+            "ruku_number": 458,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَتَوَلَّىٰ بِرُكْنِهِۦ وَقَالَ سَـٰحِرٌ أَوْ مَجْنُونٌ",
+            "page_number": 522,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100302,
+                    "resource_id": 20,
+                    "text": "But he turned away with his supporters and said, \"A magician or a madman.\""
+                },
+                {
+                    "id": 218133,
+                    "resource_id": 39,
+                    "text": "Maka Firaun berpaling ingkar dengan berdasarkan kekuasaannya sambil berkata: \"(Musa itu) adalah seorang ahli sihir, atau seorang gila!\""
+                },
+                {
+                    "id": 1095691,
+                    "resource_id": 161,
+                    "text": "তখন সে তার ক্ষমতার দাপটে মুখ ফিরিয়ে নিল আর বলল- ‘এ লোক একটা যাদুকর না হয় পাগল।’"
+                }
+            ]
+        },
+        {
+            "id": 4715,
+            "verse_number": 40,
+            "verse_key": "51:40",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 209,
+            "ruku_number": 458,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌ",
+            "page_number": 522,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100305,
+                    "resource_id": 20,
+                    "text": "So We took him and his soldiers and cast them into the sea, and he was blameworthy."
+                },
+                {
+                    "id": 217845,
+                    "resource_id": 39,
+                    "text": "Lalu Kami (adakan jalan) mengambil Firaun bersama-sama tenteranya, kemudian Kami humbankan mereka ke dalam laut, sedang ia berkeadaan tercela."
+                },
+                {
+                    "id": 1095692,
+                    "resource_id": 161,
+                    "text": "শেষে আমি তাকে আর তার সৈন্য সামন্তকে পাকড়াও করলাম আর তাদেরকে সমুদ্রে নিক্ষেপ করলাম। সে ছিল ধিকৃত নিন্দিত।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 40,
+        "total_records": 399
+    }
+}

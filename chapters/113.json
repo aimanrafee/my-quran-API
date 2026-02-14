@@ -1,0 +1,161 @@
+{
+    "verses": [
+        {
+            "id": 6226,
+            "verse_number": 1,
+            "verse_key": "113:1",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 557,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+            "page_number": 604,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96406,
+                    "resource_id": 20,
+                    "text": "Say, \"I seek refuge in the Lord of daybreak"
+                },
+                {
+                    "id": 220397,
+                    "resource_id": 39,
+                    "text": "Katakanlah (wahai Muhammad); \"Aku berlindung kepada (Allah) Tuhan yang menciptakan sekalian makhluk,"
+                },
+                {
+                    "id": 1097203,
+                    "resource_id": 161,
+                    "text": "বল, ‘আমি আশ্রয় চাচ্ছি সকাল বেলার রব-এর,"
+                }
+            ]
+        },
+        {
+            "id": 6227,
+            "verse_number": 2,
+            "verse_key": "113:2",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 557,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "مِن شَرِّ مَا خَلَقَ",
+            "page_number": 604,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96408,
+                    "resource_id": 20,
+                    "text": "From the evil of that which He created"
+                },
+                {
+                    "id": 220364,
+                    "resource_id": 39,
+                    "text": "\"Dari bencana makhluk-makhluk yang Ia ciptakan;"
+                },
+                {
+                    "id": 1097204,
+                    "resource_id": 161,
+                    "text": "তিনি যা সৃষ্টি করেছেন তার অনিষ্ট হতে,"
+                }
+            ]
+        },
+        {
+            "id": 6228,
+            "verse_number": 3,
+            "verse_key": "113:3",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 557,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+            "page_number": 604,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96410,
+                    "resource_id": 20,
+                    "text": "And from the evil of darkness when it settles"
+                },
+                {
+                    "id": 214659,
+                    "resource_id": 39,
+                    "text": "\"Dan dari bahaya gelap apabila ia masuk;"
+                },
+                {
+                    "id": 1097205,
+                    "resource_id": 161,
+                    "text": "আর অন্ধকার রাতের অনিষ্ট হতে যখন তা আচ্ছন্ন হয়ে যায়।"
+                }
+            ]
+        },
+        {
+            "id": 6229,
+            "verse_number": 4,
+            "verse_key": "113:4",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 557,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلْعُقَدِ",
+            "page_number": 604,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96412,
+                    "resource_id": 20,
+                    "text": "And from the evil of the blowers in knots<sup foot_note=197831>1</sup>"
+                },
+                {
+                    "id": 220366,
+                    "resource_id": 39,
+                    "text": "\"Dan dari kejahatan makhluk-makhluk yang menghembus-hembus pada simpulan-simpulan (dan ikatan-ikatan);"
+                },
+                {
+                    "id": 1097206,
+                    "resource_id": 161,
+                    "text": "এবং (জাদু করার উদ্দেশ্যে) গিরায় ফুৎকারকারিণীদের অনিষ্ট হতে,"
+                }
+            ]
+        },
+        {
+            "id": 6230,
+            "verse_number": 5,
+            "verse_key": "113:5",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 557,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+            "page_number": 604,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96414,
+                    "resource_id": 20,
+                    "text": "And from the evil of an envier when he envies.\""
+                },
+                {
+                    "id": 220396,
+                    "resource_id": 39,
+                    "text": "\"Dan dari kejahatan orang yang dengki apabila ia melakukan dengkinya\"."
+                },
+                {
+                    "id": 1097207,
+                    "resource_id": 161,
+                    "text": "এবং হিংসুকের অনিষ্ট হতে, যখন সে হিংসা করে।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 5
+    }
+}

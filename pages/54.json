@@ -1,0 +1,251 @@
+{
+    "verses": [
+        {
+            "id": 323,
+            "verse_number": 30,
+            "verse_key": "3:30",
+            "hizb_number": 6,
+            "rub_el_hizb_number": 21,
+            "ruku_number": 44,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا عَمِلَتْ مِنْ خَيْرٍ مُّحْضَرًا وَمَا عَمِلَتْ مِن سُوٓءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُۥٓ أَمَدًۢا بَعِيدًا ۗ وَيُحَذِّرُكُمُ ٱللَّهُ نَفْسَهُۥ ۗ وَٱللَّهُ رَءُوفٌۢ بِٱلْعِبَادِ",
+            "page_number": 54,
+            "juz_number": 3,
+            "translations": [
+                {
+                    "id": 98856,
+                    "resource_id": 20,
+                    "text": "The Day every soul will find what it has done of good present [before it] and what it has done of evil, it will wish that between itself and that [evil] was a great distance. And Allāh warns you of Himself, and Allāh is Kind to [His] servants.\""
+                },
+                {
+                    "id": 216710,
+                    "resource_id": 39,
+                    "text": "(Ingatlah) hari (kiamat yang padanya) tiap-tiap seorang akan mendapati apa sahaja kebaikan yang telah dikerjakannya, sedia (dibentangkan kepadanya dalam surat-surat amalnya); dan demikian juga apa sahaja kejahatan yang telah dikerjakannya. (ketika itu tiap-tiap orang yang bersalah) ingin kalau ada jarak yang jauh di antaranya dengan amalnya yang jahat itu. Dan Allah perintahkan supaya kamu beringat-ingat terhadap kekuasaan diriNya (menyeksa kamu). Dan (ingatlah juga), Allah Amat belas kasihan kepada hamba-hambaNya."
+                },
+                {
+                    "id": 1091300,
+                    "resource_id": 161,
+                    "text": "যে দিন প্রত্যেক আত্মা যা কিছু নেক ‘আমাল করেছে এবং যা কিছু বদ ‘আমাল করেছে তা বিদ্যমান পাবে; সেই আত্মা কামনা করবে যদি তার এবং ওর (অর্থাৎ তার মন্দ কর্মফলের) মধ্যে দুস্তর ব্যবধান হত। আল্লাহ তাঁর নিজের সম্পর্কে তোমাদেরকে সাবধান করছেন, বস্তুতঃ আল্লাহ বান্দাগণের প্রতি খুবই করুণাশীল।"
+                }
+            ]
+        },
+        {
+            "id": 324,
+            "verse_number": 31,
+            "verse_key": "3:31",
+            "hizb_number": 6,
+            "rub_el_hizb_number": 21,
+            "ruku_number": 45,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "قُلْ إِن كُنتُمْ تُحِبُّونَ ٱللَّهَ فَٱتَّبِعُونِى يُحْبِبْكُمُ ٱللَّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ ۗ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+            "page_number": 54,
+            "juz_number": 3,
+            "translations": [
+                {
+                    "id": 98857,
+                    "resource_id": 20,
+                    "text": "Say, [O Muḥammad], \"If you should love Allāh, then follow me, [so] Allāh will love you and forgive you your sins. And Allāh is Forgiving and Merciful.\""
+                },
+                {
+                    "id": 216747,
+                    "resource_id": 39,
+                    "text": "Katakanlah (wahai Muhammad): \"Jika benar kamu mengasihi Allah maka ikutilah daku, nescaya Allah mengasihi kamu serta mengampunkan dosa-dosa kamu. Dan (ingatlah), Allah Maha Pengampun, lagi Maha Mengasihani."
+                },
+                {
+                    "id": 1091301,
+                    "resource_id": 161,
+                    "text": "বলে দাও, ‘যদি তোমরা আল্লাহকে ভালবাস, তবে আমার অনুসরণ কর, আল্লাহ তোমাদেরকে ভালবাসবেন এবং তোমাদের গুনাহসকল ক্ষমা করবেন, বস্তুতঃ আল্লাহ অতি ক্ষমাশীল, পরম দয়ালু’।"
+                }
+            ]
+        },
+        {
+            "id": 325,
+            "verse_number": 32,
+            "verse_key": "3:32",
+            "hizb_number": 6,
+            "rub_el_hizb_number": 21,
+            "ruku_number": 45,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "قُلْ أَطِيعُوا۟ ٱللَّهَ وَٱلرَّسُولَ ۖ فَإِن تَوَلَّوْا۟ فَإِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْكَـٰفِرِينَ",
+            "page_number": 54,
+            "juz_number": 3,
+            "translations": [
+                {
+                    "id": 98869,
+                    "resource_id": 20,
+                    "text": "Say, \"Obey Allāh and the Messenger. But if you turn away - then indeed, Allāh does not like the disbelievers.\""
+                },
+                {
+                    "id": 216750,
+                    "resource_id": 39,
+                    "text": "Katakanlah (wahai Muhammad): \"Taatlah kamu kepada Allah dan RasulNya. Oleh itu, jika kamu berpaling (menderhaka), maka sesungguhnya Allah tidak suka kepada orang-orang yang kafir."
+                },
+                {
+                    "id": 1091302,
+                    "resource_id": 161,
+                    "text": "বল, ‘তোমরা আল্লাহর ও রসূলের আজ্ঞাবহ হও’। অতঃপর যদি তারা না মানে, তবে (জেনে রেখ) আল্লাহ কাফিরদেরকে ভালবাসেন না।"
+                }
+            ]
+        },
+        {
+            "id": 326,
+            "verse_number": 33,
+            "verse_key": "3:33",
+            "hizb_number": 6,
+            "rub_el_hizb_number": 22,
+            "ruku_number": 45,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "۞ إِنَّ ٱللَّهَ ٱصْطَفَىٰٓ ءَادَمَ وَنُوحًا وَءَالَ إِبْرَٰهِيمَ وَءَالَ عِمْرَٰنَ عَلَى ٱلْعَـٰلَمِينَ",
+            "page_number": 54,
+            "juz_number": 3,
+            "translations": [
+                {
+                    "id": 98881,
+                    "resource_id": 20,
+                    "text": "Indeed, Allāh chose Adam and Noah and the family of Abraham and the family of ʿImrān over the worlds -"
+                },
+                {
+                    "id": 216734,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Allah telah memilih Nabi Adam, dan Nabi Nuh, dan juga keluarga Nabi Ibrahim dan keluarga Imran, melebihi segala umat (yang ada pada zaman mereka masing-masing)."
+                },
+                {
+                    "id": 1091303,
+                    "resource_id": 161,
+                    "text": "নিশ্চয়ই আল্লাহ আদাম ও নূহকে এবং ইবরাহীমের ও ‘ইমরানের গোত্রকে বিশ্বজগতের উপর মনোনীত করেছেন।"
+                }
+            ]
+        },
+        {
+            "id": 327,
+            "verse_number": 34,
+            "verse_key": "3:34",
+            "hizb_number": 6,
+            "rub_el_hizb_number": 22,
+            "ruku_number": 45,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "ذُرِّيَّةًۢ بَعْضُهَا مِنۢ بَعْضٍ ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
+            "page_number": 54,
+            "juz_number": 3,
+            "translations": [
+                {
+                    "id": 98893,
+                    "resource_id": 20,
+                    "text": "Descendants, some of them from others. And Allāh is Hearing and Knowing."
+                },
+                {
+                    "id": 216758,
+                    "resource_id": 39,
+                    "text": "(Mereka kembang biak sebagai) satu keturunan (zuriat) yang setengahnya berasal dari setengahnya yang lain. Dan (ingatlah), Allah sentiasa Mendengar, lagi sentiasa Mengetahui."
+                },
+                {
+                    "id": 1091304,
+                    "resource_id": 161,
+                    "text": "এরা একে অন্যের বংশধর এবং আল্লাহ সর্বশ্রোতা ও সর্বজ্ঞ।"
+                }
+            ]
+        },
+        {
+            "id": 328,
+            "verse_number": 35,
+            "verse_key": "3:35",
+            "hizb_number": 6,
+            "rub_el_hizb_number": 22,
+            "ruku_number": 45,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+            "page_number": 54,
+            "juz_number": 3,
+            "translations": [
+                {
+                    "id": 98905,
+                    "resource_id": 20,
+                    "text": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\""
+                },
+                {
+                    "id": 216762,
+                    "resource_id": 39,
+                    "text": "(Ingatlah) ketika isteri Imran berkata:\" Tuhanku! Sesungguhnya aku nazarkan kepadaMu anak yang ada dalam kandunganku sebagai seorang yang bebas (dari segala urusan dunia untuk berkhidmat kepadaMu semata-mata), maka terimalah nazarku; sesungguhnya Engkaulah Yang Maha Mendengar, lagi Maha Mengetahui.\""
+                },
+                {
+                    "id": 1091305,
+                    "resource_id": 161,
+                    "text": "(স্মরণ কর) যখন ‘ইমরানের স্ত্রী আরয করেছিল, হে আমার প্রতিপালক! আমার উদরে যা আছে, তাকে আমি একান্ত তোমার উদ্দেশে উৎসর্গ করলাম, কাজেই আমার পক্ষ হতে তা গ্রহণ কর, নিশ্চয়ই তুমি সর্বশ্রোতা ও সর্বজ্ঞ।"
+                }
+            ]
+        },
+        {
+            "id": 329,
+            "verse_number": 36,
+            "verse_key": "3:36",
+            "hizb_number": 6,
+            "rub_el_hizb_number": 22,
+            "ruku_number": 45,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "فَلَمَّا وَضَعَتْهَا قَالَتْ رَبِّ إِنِّى وَضَعْتُهَآ أُنثَىٰ وَٱللَّهُ أَعْلَمُ بِمَا وَضَعَتْ وَلَيْسَ ٱلذَّكَرُ كَٱلْأُنثَىٰ ۖ وَإِنِّى سَمَّيْتُهَا مَرْيَمَ وَإِنِّىٓ أُعِيذُهَا بِكَ وَذُرِّيَّتَهَا مِنَ ٱلشَّيْطَـٰنِ ٱلرَّجِيمِ",
+            "page_number": 54,
+            "juz_number": 3,
+            "translations": [
+                {
+                    "id": 98917,
+                    "resource_id": 20,
+                    "text": "But when she delivered her, she said, \"My Lord, I have delivered a female.\" And Allāh was most knowing of what she delivered, and the male is not like the female. \"And I have named her Mary, and I seek refuge for her in You and [for] her descendants from Satan, the expelled [from the mercy of Allāh].\""
+                },
+                {
+                    "id": 216782,
+                    "resource_id": 39,
+                    "text": "Maka apabila ia melahirkannya, berkatalah ia: \"Wahai Tuhanku! Sesungguhnya aku telah melahirkan seorang anak perempuan (sedang yang aku harap-harapkan ialah anak lelaki), - dan Allah memang mengetahui akan apa yang dilahirkannya itu - dan memanglah tidak sama anak lelaki dengan anak perempuan; dan bahawasanya aku telah menamakannya Maryam, dan aku melindungi dia dengan peliharaanMu, demikian juga zuriat keturunannya, dari godaan syaitan yang kena rejam (yang dikutuk dan disingkirkan)\"."
+                },
+                {
+                    "id": 1091306,
+                    "resource_id": 161,
+                    "text": "অতঃপর যখন সে তাকে প্রসব করল, বলে উঠল, হে আমার প্রতিপালক! আমি কন্যা প্রসব করেছি এবং আল্লাহ ভাল করেই জানেন যা সে প্রসব করেছে; বস্তুতঃ পুত্র কন্যার মত নয় এবং আমি তার নাম রাখলাম মারইয়াম এবং আমি তাকে ও তার বংশধরকে বিতাড়িত শয়ত্বান হতে তোমার আশ্রয়ে ছেড়ে দিলাম।"
+                }
+            ]
+        },
+        {
+            "id": 330,
+            "verse_number": 37,
+            "verse_key": "3:37",
+            "hizb_number": 6,
+            "rub_el_hizb_number": 22,
+            "ruku_number": 45,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ وَأَنۢبَتَهَا نَبَاتًا حَسَنًا وَكَفَّلَهَا زَكَرِيَّا ۖ كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًا ۖ قَالَ يَـٰمَرْيَمُ أَنَّىٰ لَكِ هَـٰذَا ۖ قَالَتْ هُوَ مِنْ عِندِ ٱللَّهِ ۖ إِنَّ ٱللَّهَ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ",
+            "page_number": 54,
+            "juz_number": 3,
+            "translations": [
+                {
+                    "id": 98929,
+                    "resource_id": 20,
+                    "text": "So her Lord accepted her with good acceptance and caused her to grow in a good manner and put her in the care of Zechariah. Every time Zechariah entered upon her in the prayer chamber, he found with her provision. He said, \"O Mary, from where is this [coming] to you?\" She said, \"It is from Allāh. Indeed, Allāh provides for whom He wills without account.\""
+                },
+                {
+                    "id": 216817,
+                    "resource_id": 39,
+                    "text": "Maka ia (Maryam yang dinazarkan oleh ibunya) diterima oleh Tuhannya dengan penerimaan yang baik, dan dibesarkannya dengan didikan yang baik, serta diserahkannya untuk dipelihara oleh Nabi Zakaria. Tiap-tiap kali Nabi Zakaria masuk untuk menemui Maryam di Mihrab, ia dapati rezeki (buah-buahanan yang luar biasa) di sisinya. Nabi Zakaria bertanya:\" Wahai Maryam dari mana engkau dapati (buah-buahan) ini?\" Maryam menjawab; \"Ialah dari Allah, sesungguhnya Allah memberikan rezeki kepada sesiapa yang dikehendakiNya dengan tidak dikira\"."
+                },
+                {
+                    "id": 1091307,
+                    "resource_id": 161,
+                    "text": "তখন তার প্রতিপালক তাকে সন্তুষ্টি সহকারে গ্রহণ করলেন এবং তাকে উত্তমরূপে লালন পালন করলেন এবং যাকারিয়াকে তার তত্ত্বাবধায়ক করলেন। যখনই যাকারিয়া মারইয়ামের কক্ষে প্রবেশ করত, তার কাছে খাদ্য সামগ্রী দেখতে পেত; জিজ্ঞেস করত- হে মারইয়াম! ‘এসব কোত্থেকে তোমার কাছে আসে’? মারইয়াম বলত, ‘ওসব আল্লাহর নিকট হতে (আসে)’। নিশ্চয়ই আল্লাহ যাকে ইচ্ছে বেহিসাব রিযক দান করেন।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 8,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 8
+    }
+}

@@ -1,0 +1,821 @@
+{
+    "verses": [
+        {
+            "id": 4969,
+            "verse_number": 68,
+            "verse_key": "55:68",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 470,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فِيهِمَا فَـٰكِهَةٌ وَنَخْلٌ وَرُمَّانٌ",
+            "page_number": 534,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100601,
+                    "resource_id": 20,
+                    "text": "In both of them are fruit and palm trees and pomegranates."
+                },
+                {
+                    "id": 218438,
+                    "resource_id": 39,
+                    "text": "Pada keduanya juga terdapat buah-buahan, serta pohon-pohon kurma dan delima,"
+                },
+                {
+                    "id": 1095946,
+                    "resource_id": 161,
+                    "text": "তাতে আছে ফলমূল, আর খেজুর আর ডালিম,"
+                }
+            ]
+        },
+        {
+            "id": 4970,
+            "verse_number": 69,
+            "verse_key": "55:69",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 470,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "page_number": 534,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100602,
+                    "resource_id": 20,
+                    "text": "So which of the favors of your Lord would you deny?"
+                },
+                {
+                    "id": 218439,
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                },
+                {
+                    "id": 1095947,
+                    "resource_id": 161,
+                    "text": "অতএব (হে জ্বিন ও মানুষ!) তোমরা তোমাদের প্রতিপালকের কোন্ কোন্ নি‘মাতকে অস্বীকার করবে?"
+                }
+            ]
+        },
+        {
+            "id": 4971,
+            "verse_number": 70,
+            "verse_key": "55:70",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 470,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فِيهِنَّ خَيْرَٰتٌ حِسَانٌ",
+            "page_number": 534,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100605,
+                    "resource_id": 20,
+                    "text": "In them are good and beautiful women -"
+                },
+                {
+                    "id": 218443,
+                    "resource_id": 39,
+                    "text": "Dalam kedua-dua Syurga itu juga terdapat (teman-teman) yang baik akhlaknya, lagi cantik parasnya;"
+                },
+                {
+                    "id": 1095948,
+                    "resource_id": 161,
+                    "text": "তাতে আছে উত্তম স্বভাব চরিত্রের সুন্দরী (কুমারী)রা।"
+                }
+            ]
+        },
+        {
+            "id": 4972,
+            "verse_number": 71,
+            "verse_key": "55:71",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 470,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "page_number": 534,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100606,
+                    "resource_id": 20,
+                    "text": "So which of the favors of your Lord would you deny? -"
+                },
+                {
+                    "id": 218449,
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat tuhan kamu, yang kamu hendak dustakan?"
+                },
+                {
+                    "id": 1095949,
+                    "resource_id": 161,
+                    "text": "অতএব (হে জ্বিন ও মানুষ!) তোমরা তোমাদের প্রতিপালকের কোন্ কোন্ নি‘মাতকে অস্বীকার করবে?"
+                }
+            ]
+        },
+        {
+            "id": 4973,
+            "verse_number": 72,
+            "verse_key": "55:72",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 470,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "حُورٌ مَّقْصُورَٰتٌ فِى ٱلْخِيَامِ",
+            "page_number": 534,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100607,
+                    "resource_id": 20,
+                    "text": "Fair ones reserved in pavilions -"
+                },
+                {
+                    "id": 218444,
+                    "resource_id": 39,
+                    "text": "Ia itu bidadari-bidadari, yang hanya tinggal tetap di tempat tinggal masing-masing;"
+                },
+                {
+                    "id": 1095950,
+                    "resource_id": 161,
+                    "text": "(সুসজ্জিত) প্যাভিলিয়নে সুরক্ষিত থাকবে সুলোচনা সুন্দরীরা।"
+                }
+            ]
+        },
+        {
+            "id": 4974,
+            "verse_number": 73,
+            "verse_key": "55:73",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 470,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "page_number": 534,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100608,
+                    "resource_id": 20,
+                    "text": "So which of the favors of your Lord would you deny? -"
+                },
+                {
+                    "id": 218445,
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                },
+                {
+                    "id": 1095951,
+                    "resource_id": 161,
+                    "text": "অতএব (হে জ্বিন ও মানুষ!) তোমরা তোমাদের প্রতিপালকের কোন্ কোন্ নি‘মাতকে অস্বীকার করবে?"
+                }
+            ]
+        },
+        {
+            "id": 4975,
+            "verse_number": 74,
+            "verse_key": "55:74",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 470,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَا جَآنٌّ",
+            "page_number": 534,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100609,
+                    "resource_id": 20,
+                    "text": "Untouched before them by man or jinnī -"
+                },
+                {
+                    "id": 218446,
+                    "resource_id": 39,
+                    "text": "(Bidadari-bidadari itu) tidak pernah disentuh sebelum mereka oleh manusia dan tidak juga oleh jin;"
+                },
+                {
+                    "id": 1095952,
+                    "resource_id": 161,
+                    "text": "পূর্বে যাদেরকে স্পর্শ কোন মানুষেও করেনি, কোন জ্বিনেও করেনি।"
+                }
+            ]
+        },
+        {
+            "id": 4976,
+            "verse_number": 75,
+            "verse_key": "55:75",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 470,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "page_number": 534,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100610,
+                    "resource_id": 20,
+                    "text": "So which of the favors of your Lord would you deny? -"
+                },
+                {
+                    "id": 218447,
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                },
+                {
+                    "id": 1095953,
+                    "resource_id": 161,
+                    "text": "অতএব (হে জ্বিন ও মানুষ!) তোমরা তোমাদের প্রতিপালকের কোন্ কোন্ নি‘মাতকে অস্বীকার করবে?"
+                }
+            ]
+        },
+        {
+            "id": 4977,
+            "verse_number": 76,
+            "verse_key": "55:76",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 470,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "مُتَّكِـِٔينَ عَلَىٰ رَفْرَفٍ خُضْرٍ وَعَبْقَرِىٍّ حِسَانٍ",
+            "page_number": 534,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100611,
+                    "resource_id": 20,
+                    "text": "Reclining on green cushions and beautiful fine carpets."
+                },
+                {
+                    "id": 218450,
+                    "resource_id": 39,
+                    "text": "Penduduk Syurga itu (bersenang-senang di dalamnya dengan) berbaring di atas (bantal-bantal dan) cadar-cadar yang hijau warnanya serta permaidani-permaidani yang sangat indah."
+                },
+                {
+                    "id": 1095954,
+                    "resource_id": 161,
+                    "text": "তারা হেলান দিবে সবুজ তাকীয়াহ্ আর সুন্দর সুসজ্জিত গালিচার উপরে,"
+                }
+            ]
+        },
+        {
+            "id": 4978,
+            "verse_number": 77,
+            "verse_key": "55:77",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 470,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "page_number": 534,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100612,
+                    "resource_id": 20,
+                    "text": "So which of the favors of your Lord would you deny?"
+                },
+                {
+                    "id": 218454,
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                },
+                {
+                    "id": 1095955,
+                    "resource_id": 161,
+                    "text": "অতএব (হে জ্বিন ও মানুষ!) তোমরা তোমাদের প্রতিপালকের কোন্ কোন্ নি‘মাতকে অস্বীকার করবে?"
+                }
+            ]
+        },
+        {
+            "id": 4979,
+            "verse_number": 78,
+            "verse_key": "55:78",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 470,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "تَبَـٰرَكَ ٱسْمُ رَبِّكَ ذِى ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ",
+            "page_number": 534,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100613,
+                    "resource_id": 20,
+                    "text": "Blessed is the name of your Lord, Owner of Majesty and Honor."
+                },
+                {
+                    "id": 218452,
+                    "resource_id": 39,
+                    "text": "Maha Sucilah nama Tuhanmu yang mempunyai Kebesaran dan Kemuliaan."
+                },
+                {
+                    "id": 1095956,
+                    "resource_id": 161,
+                    "text": "মাহাত্ম্য ও সম্মানের অধিকারী তোমার প্রতিপালকের নাম বড়ই কল্যাণময়।"
+                }
+            ]
+        },
+        {
+            "id": 4980,
+            "verse_number": 1,
+            "verse_key": "56:1",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " إِذَا وَقَعَتِ ٱلْوَاقِعَةُ",
+            "page_number": 534,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100621,
+                    "resource_id": 20,
+                    "text": "When the Occurrence occurs,"
+                },
+                {
+                    "id": 214871,
+                    "resource_id": 39,
+                    "text": "Apabila berlaku hari kiamat itu,"
+                },
+                {
+                    "id": 1095957,
+                    "resource_id": 161,
+                    "text": "যখন সেই অবশ্যম্ভাবী ঘটনাটি ঘটবে,"
+                }
+            ]
+        },
+        {
+            "id": 4981,
+            "verse_number": 2,
+            "verse_key": "56:2",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ",
+            "page_number": 534,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100628,
+                    "resource_id": 20,
+                    "text": "There is, at its occurrence, no denial."
+                },
+                {
+                    "id": 218472,
+                    "resource_id": 39,
+                    "text": "Tiada sesiapapun yang dapat mendustakan kejadiannya."
+                },
+                {
+                    "id": 1095958,
+                    "resource_id": 161,
+                    "text": "তখন তার সংঘটন অস্বীকার করার কেউ থাকবে না,"
+                }
+            ]
+        },
+        {
+            "id": 4982,
+            "verse_number": 3,
+            "verse_key": "56:3",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "خَافِضَةٌ رَّافِعَةٌ",
+            "page_number": 534,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100640,
+                    "resource_id": 20,
+                    "text": "It will bring down [some] and raise up [others].<sup foot_note=197482>1</sup>"
+                },
+                {
+                    "id": 218493,
+                    "resource_id": 39,
+                    "text": "Kejadian hari kiamat itu merendahkan (golongan yang ingkar), dan meninggikan (golongan yang taat)."
+                },
+                {
+                    "id": 1095959,
+                    "resource_id": 161,
+                    "text": "(অনেককে করা হবে) নীচু, (অনেককে করা হবে) উঁচু,"
+                }
+            ]
+        },
+        {
+            "id": 4983,
+            "verse_number": 4,
+            "verse_key": "56:4",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِذَا رُجَّتِ ٱلْأَرْضُ رَجًّا",
+            "page_number": 534,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100652,
+                    "resource_id": 20,
+                    "text": "When the earth is shaken with convulsion"
+                },
+                {
+                    "id": 218502,
+                    "resource_id": 39,
+                    "text": "(Ia berlaku) semasa bumi bergoncang dengan sebebar-benar goncangan."
+                },
+                {
+                    "id": 1095960,
+                    "resource_id": 161,
+                    "text": "যখন পৃথিবী প্রবল কম্পনে হবে প্রকম্পিত,"
+                }
+            ]
+        },
+        {
+            "id": 4984,
+            "verse_number": 5,
+            "verse_key": "56:5",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَبُسَّتِ ٱلْجِبَالُ بَسًّا",
+            "page_number": 534,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100664,
+                    "resource_id": 20,
+                    "text": "And the mountains are broken down, crumbling"
+                },
+                {
+                    "id": 218506,
+                    "resource_id": 39,
+                    "text": "Dan gunung-ganang dihancur leburkan dengan selebur-leburnya,"
+                },
+                {
+                    "id": 1095961,
+                    "resource_id": 161,
+                    "text": "আর পাহাড়গুলো হবে চূর্ণ বিচূর্ণ,"
+                }
+            ]
+        },
+        {
+            "id": 4985,
+            "verse_number": 6,
+            "verse_key": "56:6",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَكَانَتْ هَبَآءً مُّنۢبَثًّا",
+            "page_number": 534,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100676,
+                    "resource_id": 20,
+                    "text": "And become dust dispersing,"
+                },
+                {
+                    "id": 218521,
+                    "resource_id": 39,
+                    "text": "Lalu menjadilah ia debu yang bertebaran,"
+                },
+                {
+                    "id": 1095962,
+                    "resource_id": 161,
+                    "text": "তখন তা বিক্ষিপ্ত ধূলিকণায় পরিণত হবে।"
+                }
+            ]
+        },
+        {
+            "id": 4986,
+            "verse_number": 7,
+            "verse_key": "56:7",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَكُنتُمْ أَزْوَٰجًا ثَلَـٰثَةً",
+            "page_number": 534,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100688,
+                    "resource_id": 20,
+                    "text": "And you become [of] three kinds:"
+                },
+                {
+                    "id": 218536,
+                    "resource_id": 39,
+                    "text": "Dan kamu pula menjadi tiga puak (yang berlainan keadaannya);"
+                },
+                {
+                    "id": 1095963,
+                    "resource_id": 161,
+                    "text": "আর তোমরা হবে তিন অংশে বিভক্ত,"
+                }
+            ]
+        },
+        {
+            "id": 4987,
+            "verse_number": 8,
+            "verse_key": "56:8",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَأَصْحَـٰبُ ٱلْمَيْمَنَةِ مَآ أَصْحَـٰبُ ٱلْمَيْمَنَةِ",
+            "page_number": 534,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100700,
+                    "resource_id": 20,
+                    "text": "Then the companions of the right - what are the companions of the right?<sup foot_note=197483>1</sup>"
+                },
+                {
+                    "id": 218546,
+                    "resource_id": 39,
+                    "text": "Iaitu puak pihak kanan; alangkah bahagianya keadaan puak pihak kanan itu?"
+                },
+                {
+                    "id": 1095964,
+                    "resource_id": 161,
+                    "text": "তখন (হবে) ডান দিকের একটি দল; কত ভাগ্যবান ডান দিকের দল।"
+                }
+            ]
+        },
+        {
+            "id": 4988,
+            "verse_number": 9,
+            "verse_key": "56:9",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَصْحَـٰبُ ٱلْمَشْـَٔمَةِ مَآ أَصْحَـٰبُ ٱلْمَشْـَٔمَةِ",
+            "page_number": 534,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100712,
+                    "resource_id": 20,
+                    "text": "And the companions of the left - what are companions of the left?<sup foot_note=197484>1</sup>"
+                },
+                {
+                    "id": 218564,
+                    "resource_id": 39,
+                    "text": "Dan puak pihak kiri; - alangkah seksanya keadaan puak pihak kiri itu?"
+                },
+                {
+                    "id": 1095965,
+                    "resource_id": 161,
+                    "text": "আর বাম দিকের একটি দল; কত দুর্ভাগা বাম দিকের দলটি।"
+                }
+            ]
+        },
+        {
+            "id": 4989,
+            "verse_number": 10,
+            "verse_key": "56:10",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلسَّـٰبِقُونَ ٱلسَّـٰبِقُونَ",
+            "page_number": 534,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100622,
+                    "resource_id": 20,
+                    "text": "And the forerunners, the forerunners<sup foot_note=197485>1</sup> -"
+                },
+                {
+                    "id": 218566,
+                    "resource_id": 39,
+                    "text": "Dan (puak yang ketiga pula ialah) orang-orang yang telah mendahului (dalam mengerjakan kebaikan di dunia), - yang akan mendahului (mencapai balasan yang sebaik-baiknya di akhirat kelak);"
+                },
+                {
+                    "id": 1095966,
+                    "resource_id": 161,
+                    "text": "আর (ঈমানে) অগ্রবর্তীরা তো (পরকালেও) অগ্রবর্তী,"
+                }
+            ]
+        },
+        {
+            "id": 4990,
+            "verse_number": 11,
+            "verse_key": "56:11",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أُو۟لَـٰٓئِكَ ٱلْمُقَرَّبُونَ",
+            "page_number": 534,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100623,
+                    "resource_id": 20,
+                    "text": "Those are the ones brought near [to Allāh]"
+                },
+                {
+                    "id": 218468,
+                    "resource_id": 39,
+                    "text": "Mereka itulah orang-orang yang didampingkan (di sisi Allah),"
+                },
+                {
+                    "id": 1095967,
+                    "resource_id": 161,
+                    "text": "তারাই (আল্লাহর) নৈকট্যপ্রাপ্ত"
+                }
+            ]
+        },
+        {
+            "id": 4991,
+            "verse_number": 12,
+            "verse_key": "56:12",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فِى جَنَّـٰتِ ٱلنَّعِيمِ",
+            "page_number": 534,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100624,
+                    "resource_id": 20,
+                    "text": "In the Gardens of Pleasure,"
+                },
+                {
+                    "id": 218462,
+                    "resource_id": 39,
+                    "text": "(Tinggal menetap) di dalam Syurga-syurga yang penuh nikmat."
+                },
+                {
+                    "id": 1095968,
+                    "resource_id": 161,
+                    "text": "(তারা থাকবে) নি‘মাতে পরিপূর্ণ জান্নাতে।"
+                }
+            ]
+        },
+        {
+            "id": 4992,
+            "verse_number": 13,
+            "verse_key": "56:13",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ثُلَّةٌ مِّنَ ٱلْأَوَّلِينَ",
+            "page_number": 534,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100625,
+                    "resource_id": 20,
+                    "text": "A [large] company of the former peoples"
+                },
+                {
+                    "id": 218463,
+                    "resource_id": 39,
+                    "text": "(Di antaranya) sekumpulan besar dari umat-umat manusia yang terdahulu;"
+                },
+                {
+                    "id": 1095969,
+                    "resource_id": 161,
+                    "text": "পূর্ববর্তীদের মধ্য হতে বহু সংখ্যক।"
+                }
+            ]
+        },
+        {
+            "id": 4993,
+            "verse_number": 14,
+            "verse_key": "56:14",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَقَلِيلٌ مِّنَ ٱلْـَٔاخِرِينَ",
+            "page_number": 534,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 97457,
+                    "resource_id": 20,
+                    "text": "And a few of the later peoples,"
+                },
+                {
+                    "id": 218464,
+                    "resource_id": 39,
+                    "text": "Dan sebilangan kecil dari orang-orang yang datang kemudian."
+                },
+                {
+                    "id": 1095970,
+                    "resource_id": 161,
+                    "text": "আর পরবর্তীদের মধ্য হতে কম সংখ্যক।"
+                }
+            ]
+        },
+        {
+            "id": 4994,
+            "verse_number": 15,
+            "verse_key": "56:15",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "عَلَىٰ سُرُرٍ مَّوْضُونَةٍ",
+            "page_number": 534,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 97538,
+                    "resource_id": 20,
+                    "text": "On thrones woven [with ornament],"
+                },
+                {
+                    "id": 218465,
+                    "resource_id": 39,
+                    "text": "(Mereka duduk di dalam Syurga itu) di atas takhta-takhta kebesaran yang bertatahkan permata;"
+                },
+                {
+                    "id": 1095971,
+                    "resource_id": 161,
+                    "text": "(তারা থাকবে) মণিমুক্তা খচিত আসনে,"
+                }
+            ]
+        },
+        {
+            "id": 4995,
+            "verse_number": 16,
+            "verse_key": "56:16",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "مُّتَّكِـِٔينَ عَلَيْهَا مُتَقَـٰبِلِينَ",
+            "page_number": 534,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 97643,
+                    "resource_id": 20,
+                    "text": "Reclining on them, facing each other."
+                },
+                {
+                    "id": 218466,
+                    "resource_id": 39,
+                    "text": "Sambil berbaring di atasnya dengan berhadap-hadapan."
+                },
+                {
+                    "id": 1095972,
+                    "resource_id": 161,
+                    "text": "তাতে তারা হেলান দিয়ে বসবে পরস্পর মুখোমুখী হয়ে।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 25,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 25
+    }
+}

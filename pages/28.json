@@ -1,0 +1,161 @@
+{
+    "verses": [
+        {
+            "id": 189,
+            "verse_number": 182,
+            "verse_key": "2:182",
+            "hizb_number": 3,
+            "rub_el_hizb_number": 11,
+            "ruku_number": 23,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "فَمَنْ خَافَ مِن مُّوصٍ جَنَفًا أَوْ إِثْمًا فَأَصْلَحَ بَيْنَهُمْ فَلَآ إِثْمَ عَلَيْهِ ۚ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+            "page_number": 28,
+            "juz_number": 2,
+            "translations": [
+                {
+                    "id": 97575,
+                    "resource_id": 20,
+                    "text": "But if one fears from the bequeather [some] error or sin and corrects that which is between them [i.e., the concerned parties], there is no sin upon him. Indeed, Allāh is Forgiving and Merciful."
+                },
+                {
+                    "id": 214715,
+                    "resource_id": 39,
+                    "text": "Tetapi sesiapa yang mengetahui bahawa orang yang berwasiat itu tidak adil atau melakukan dosa (dalam wasiatnya), lalu ia mendamaikan antara mereka (waris-waris, dengan membetulkan wasiat itu menurut aturan ugama), maka tidaklah ia berdosa. Sesungguhnya Allah Maha Pengampun, lagi Maha Mengasihani."
+                },
+                {
+                    "id": 1091166,
+                    "resource_id": 161,
+                    "text": "যে ব্যক্তি ওয়াসীয়াতকারীর পক্ষ হতে পক্ষপাতিত্বের ভয় করে কিংবা অন্যায়ের আশঙ্কা করে, অতঃপর সে যদি তাদের মধ্যে মিটমাট করে দেয়, তবে তার কোনই গুনাহ নেই, নিশ্চয় আল্লাহ বড়ই ক্ষমাশীল, পরম দয়ালু।"
+                }
+            ]
+        },
+        {
+            "id": 190,
+            "verse_number": 183,
+            "verse_key": "2:183",
+            "hizb_number": 3,
+            "rub_el_hizb_number": 11,
+            "ruku_number": 24,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُتِبَ عَلَيْكُمُ ٱلصِّيَامُ كَمَا كُتِبَ عَلَى ٱلَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ",
+            "page_number": 28,
+            "juz_number": 2,
+            "translations": [
+                {
+                    "id": 97577,
+                    "resource_id": 20,
+                    "text": "O you who have believed, decreed upon you is fasting as it was decreed upon those before you that you may become righteous -"
+                },
+                {
+                    "id": 215445,
+                    "resource_id": 39,
+                    "text": "Wahai orang-orang yang beriman! Kamu diwajibkan berpuasa sebagaimana diwajibkan atas orang-orang yang dahulu daripada kamu, supaya kamu bertaqwa."
+                },
+                {
+                    "id": 1091167,
+                    "resource_id": 161,
+                    "text": "হে ঈমানদারগণ! তোমাদের প্রতি রোযা ফরয করা হয়েছে, যেমন তোমাদের আগের লোকেদের প্রতি ফরয করা হয়েছিল, যাতে তোমরা মুত্তাকী হতে পার।"
+                }
+            ]
+        },
+        {
+            "id": 191,
+            "verse_number": 184,
+            "verse_key": "2:184",
+            "hizb_number": 3,
+            "rub_el_hizb_number": 11,
+            "ruku_number": 24,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "أَيَّامًا مَّعْدُودَٰتٍ ۚ فَمَن كَانَ مِنكُم مَّرِيضًا أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ ۚ وَعَلَى ٱلَّذِينَ يُطِيقُونَهُۥ فِدْيَةٌ طَعَامُ مِسْكِينٍ ۖ فَمَن تَطَوَّعَ خَيْرًا فَهُوَ خَيْرٌ لَّهُۥ ۚ وَأَن تَصُومُوا۟ خَيْرٌ لَّكُمْ ۖ إِن كُنتُمْ تَعْلَمُونَ",
+            "page_number": 28,
+            "juz_number": 2,
+            "translations": [
+                {
+                    "id": 97580,
+                    "resource_id": 20,
+                    "text": "[Fasting for] a limited number of days. So whoever among you is ill or on a journey [during them] - then an equal number of other days [are to be made up]. And upon those who are able [to fast, but with hardship] - a ransom [as substitute] of feeding a poor person [each day]. And whoever volunteers good [i.e., excess] - it is better for him. But to fast is best for you, if you only knew."
+                },
+                {
+                    "id": 215446,
+                    "resource_id": 39,
+                    "text": "(Puasa yang diwajibkan itu ialah beberapa hari yang tertentu; maka sesiapa di antara kamu yang sakit, atau dalam musafir, (bolehlah ia berbuka), kemudian wajiblah ia berpuasa sebanyak (hari yang dibuka) itu pada hari-hari yang lain; dan wajib atas orang-orang yang tidak terdaya berpuasa (kerana tua dan sebagainya) membayar fidyah iaitu memberi makan orang miskin. Maka sesiapa yang dengan sukarela memberikan (bayaran fidyah) lebih dari yang ditentukan itu, maka itu adalah suatu kebaikan baginya; dan (walaupun demikian) berpuasa itu lebih baik bagi kamu daripada memberi fidyah), kalau kamu mengetahui."
+                },
+                {
+                    "id": 1091168,
+                    "resource_id": 161,
+                    "text": "(রোযা) নির্দিষ্ট কয়েকটি দিনের জন্য, অতঃপর তোমাদের মধ্যে যে পীড়িত কিংবা মুসাফির সে অন্য সময় এ সংখ্যা পূরণ করে নেবে এবং শক্তিহীনদের উপর কর্তব্য হচ্ছে ফিদইয়া প্রদান করা, এটা একজন মিসকীনকে অন্নদান করা এবং যে ব্যক্তি নিজের খুশীতে সৎ কাজ করতে ইচ্ছুক, তার পক্ষে তা আরও উত্তম আর সে অবস্থায় রোযা পালন করাই তোমাদের পক্ষে উত্তম, যদি তোমরা বুঝ।"
+                }
+            ]
+        },
+        {
+            "id": 192,
+            "verse_number": 185,
+            "verse_key": "2:185",
+            "hizb_number": 3,
+            "rub_el_hizb_number": 11,
+            "ruku_number": 24,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "شَهْرُ رَمَضَانَ ٱلَّذِىٓ أُنزِلَ فِيهِ ٱلْقُرْءَانُ هُدًى لِّلنَّاسِ وَبَيِّنَـٰتٍ مِّنَ ٱلْهُدَىٰ وَٱلْفُرْقَانِ ۚ فَمَن شَهِدَ مِنكُمُ ٱلشَّهْرَ فَلْيَصُمْهُ ۖ وَمَن كَانَ مَرِيضًا أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ ۗ يُرِيدُ ٱللَّهُ بِكُمُ ٱلْيُسْرَ وَلَا يُرِيدُ بِكُمُ ٱلْعُسْرَ وَلِتُكْمِلُوا۟ ٱلْعِدَّةَ وَلِتُكَبِّرُوا۟ ٱللَّهَ عَلَىٰ مَا هَدَىٰكُمْ وَلَعَلَّكُمْ تَشْكُرُونَ",
+            "page_number": 28,
+            "juz_number": 2,
+            "translations": [
+                {
+                    "id": 97582,
+                    "resource_id": 20,
+                    "text": "The month of Ramaḍān [is that] in which was revealed the Qur’ān, a guidance for the people and clear proofs of guidance and criterion. So whoever sights [the crescent of] the month,<sup foot_note=195994>1</sup> let him fast it; and whoever is ill or on a journey - then an equal number of other days. Allāh intends for you ease and does not intend for you hardship and [wants] for you to complete the period and to glorify Allāh for that [to] which He has guided you; and perhaps you will be grateful."
+                },
+                {
+                    "id": 215450,
+                    "resource_id": 39,
+                    "text": "(Masa yang diwajibkan kamu berpuasa itu ialah) bulan Ramadan yang padanya diturunkan Al-Quran, menjadi petunjuk bagi sekalian manusia, dan menjadi keterangan-keterangan yang menjelaskan petunjuk dan (menjelaskan) perbezaan antara yang benar dengan yang salah. Oleh itu, sesiapa dari antara kamu yang menyaksikan anak bulan Ramadan (atau mengetahuinya), maka hendaklah ia berpuasa bulan itu; dan sesiapa yang sakit atau dalam musafir maka (bolehlah ia berbuka, Kemudian wajiblah ia berpuasa) sebanyak hari yang ditinggalkan itu pada hari-hari yang lain. (Dengan ketetapan yang demikian itu) Allah menghendaki kamu beroleh kemudahan, dan Ia tidak menghendaki kamu menanggung kesukaran. Dan juga supaya kamu cukupkan bilangan puasa (sebulan Ramadan), dan supaya kamu membesarkan Allah kerana mendapat petunjukNya, dan supaya kamu bersyukur."
+                },
+                {
+                    "id": 1091169,
+                    "resource_id": 161,
+                    "text": "রমাযান মাস- যার মধ্যে কুরআন নাযিল করা হয়েছে লোকেদের পথ প্রদর্শক এবং হিদায়াতের সুস্পষ্ট বর্ণনারূপে এবং সত্য-মিথ্যার পার্থক্যকারীরূপে, কাজেই তোমাদের মধ্যে যে ব্যক্তি এ মাস পাবে, সে যেন এ মাসে রোযা পালন করে আর যে পীড়িত কিংবা সফরে আছে, সে অন্য সময় এ সংখ্যা পূরণ করবে, আল্লাহ তোমাদের জন্য যা সহজ তা চান, যা কষ্টদায়ক তা চান না যেন তোমরা মেয়াদ পূর্ণ করতে পার, আর তোমাদেরকে সৎপথে পরিচালিত করার কারণে তোমরা আল্লাহর মাহাত্ম্য ঘোষণা কর, আর যাতে তোমরা কৃতজ্ঞতা প্রকাশ করতে পার।"
+                }
+            ]
+        },
+        {
+            "id": 193,
+            "verse_number": 186,
+            "verse_key": "2:186",
+            "hizb_number": 3,
+            "rub_el_hizb_number": 11,
+            "ruku_number": 24,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا سَأَلَكَ عِبَادِى عَنِّى فَإِنِّى قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ ٱلدَّاعِ إِذَا دَعَانِ ۖ فَلْيَسْتَجِيبُوا۟ لِى وَلْيُؤْمِنُوا۟ بِى لَعَلَّهُمْ يَرْشُدُونَ",
+            "page_number": 28,
+            "juz_number": 2,
+            "translations": [
+                {
+                    "id": 97584,
+                    "resource_id": 20,
+                    "text": "And when My servants ask you, [O Muḥammad], concerning Me - indeed I am near. I respond to the invocation of the supplicant when he calls upon Me. So let them respond to Me [by obedience] and believe in Me that they may be [rightly] guided."
+                },
+                {
+                    "id": 215452,
+                    "resource_id": 39,
+                    "text": "Dan apabila hamba-hambaKu bertanya kepadamu mengenai Aku maka (beritahu kepada mereka): sesungguhnya Aku (Allah) sentiasa hampir (kepada mereka); Aku perkenankan permohonan orang yang berdoa apabila ia berdoa kepadaKu. Maka hendaklah mereka menyahut seruanku (dengan mematuhi perintahKu), dan hendaklah mereka beriman kepadaKu supaya mereka menjadi baik serta betul."
+                },
+                {
+                    "id": 1091170,
+                    "resource_id": 161,
+                    "text": "যখন আমার বান্দাগণ আমার সম্পর্কে তোমার নিকট জিজ্ঞেস করে, আমি তো (তাদের) নিকটেই, আহবানকারী যখন আমাকে আহবান করে আমি তার আহবানে সাড়া দেই; সুতরাং তাদের উচিত আমার নির্দেশ মান্য করা এবং আমার প্রতি ঈমান আনা, যাতে তারা সরলপথ প্রাপ্ত হয়।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 5,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 5
+    }
+}

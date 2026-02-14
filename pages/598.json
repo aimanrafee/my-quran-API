@@ -1,0 +1,371 @@
+{
+    "verses": [
+        {
+            "id": 6126,
+            "verse_number": 1,
+            "verse_key": "97:1",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 541,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+            "page_number": 598,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102345,
+                    "resource_id": 20,
+                    "text": "Indeed, We sent it [i.e., the Qur’ān] down during the Night of Decree."
+                },
+                {
+                    "id": 215025,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Kami telah menurunkan (Al-Quran) ini pada Malam Lailatul-Qadar,"
+                },
+                {
+                    "id": 1097103,
+                    "resource_id": 161,
+                    "text": "আমি কুরআনকে কাদরের রাতে নাযিল করেছি,"
+                }
+            ]
+        },
+        {
+            "id": 6127,
+            "verse_number": 2,
+            "verse_key": "97:2",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 541,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
+            "page_number": 598,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102347,
+                    "resource_id": 20,
+                    "text": "And what can make you know what is the Night of Decree?"
+                },
+                {
+                    "id": 220166,
+                    "resource_id": 39,
+                    "text": "Dan apa jalannya engkau dapat mengetahui apa dia kebesaran Malam Lailatul-Qadar itu?"
+                },
+                {
+                    "id": 1097104,
+                    "resource_id": 161,
+                    "text": "তুমি কি জান ক্বাদরের রাত কী?"
+                }
+            ]
+        },
+        {
+            "id": 6128,
+            "verse_number": 3,
+            "verse_key": "97:3",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 541,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ",
+            "page_number": 598,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102349,
+                    "resource_id": 20,
+                    "text": "The Night of Decree is better than a thousand months."
+                },
+                {
+                    "id": 220168,
+                    "resource_id": 39,
+                    "text": "Malam Lailatul-Qadar lebih baik daripada seribu bulan."
+                },
+                {
+                    "id": 1097105,
+                    "resource_id": 161,
+                    "text": "ক্বাদরের রাত হাজার মাসের চেয়েও অধিক উত্তম,"
+                }
+            ]
+        },
+        {
+            "id": 6129,
+            "verse_number": 4,
+            "verse_key": "97:4",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 541,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "تَنَزَّلُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ",
+            "page_number": 598,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102351,
+                    "resource_id": 20,
+                    "text": "The angels and the Spirit [i.e., Gabriel] descend therein by permission of their Lord for every matter.<sup foot_note=197788>1</sup>"
+                },
+                {
+                    "id": 220170,
+                    "resource_id": 39,
+                    "text": "Pada Malam itu, turun malaikat dan Jibril dengan izin Tuhan mereka, kerana membawa segala perkara (yang ditakdirkan berlakunya pada tahun yang berikut);"
+                },
+                {
+                    "id": 1097106,
+                    "resource_id": 161,
+                    "text": "এ রাতে ফেরেশতা আর রূহ তাদের রব-এর অনুমতিক্রমে প্রত্যেক কাজে অবতীর্ণ হয়।"
+                }
+            ]
+        },
+        {
+            "id": 6130,
+            "verse_number": 5,
+            "verse_key": "97:5",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 541,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "سَلَـٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ",
+            "page_number": 598,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102353,
+                    "resource_id": 20,
+                    "text": "Peace it is<sup foot_note=197789>1</sup> until the emergence of dawn."
+                },
+                {
+                    "id": 220172,
+                    "resource_id": 39,
+                    "text": "Sejahteralah Malam (yang berkat) itu hingga terbit fajar!"
+                },
+                {
+                    "id": 1097107,
+                    "resource_id": 161,
+                    "text": "(এ রাতে বিরাজ করে) শান্তি আর শান্তি- ফজর উদয় হওয়া পর্যন্ত।"
+                }
+            ]
+        },
+        {
+            "id": 6131,
+            "verse_number": 1,
+            "verse_key": "98:1",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 542,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " لَمْ يَكُنِ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ وَٱلْمُشْرِكِينَ مُنفَكِّينَ حَتَّىٰ تَأْتِيَهُمُ ٱلْبَيِّنَةُ",
+            "page_number": 598,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102361,
+                    "resource_id": 20,
+                    "text": "Those who disbelieved among the People of the Scripture and the polytheists were not to be parted [from misbelief]<sup foot_note=197790>1</sup> until there came to them clear evidence"
+                },
+                {
+                    "id": 220181,
+                    "resource_id": 39,
+                    "text": "Orang-orang yang kafir dari Ahli Kitab (Yahudi dan Nasrani) serta orang-orang musyrik, tidak akan terlepas (dari kepercayaan dan amalan masing-masing) sehingga datang kepada mereka bukti yang jelas nyata, -"
+                },
+                {
+                    "id": 1097108,
+                    "resource_id": 161,
+                    "text": "কিতাবধারীদের মধ্যে যারা কাফির ছিল তারা আর মুশরিকরা (তাদের ভ্রান্ত মত ও পথ হতে) সরে আসত না যতক্ষণ না তাদের কাছে আসত সুস্পষ্ট প্রমাণ।"
+                }
+            ]
+        },
+        {
+            "id": 6132,
+            "verse_number": 2,
+            "verse_key": "98:2",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 542,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "رَسُولٌ مِّنَ ٱللَّهِ يَتْلُوا۟ صُحُفًا مُّطَهَّرَةً",
+            "page_number": 598,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102363,
+                    "resource_id": 20,
+                    "text": "A Messenger from Allāh, reciting purified<sup foot_note=197791>1</sup> scriptures"
+                },
+                {
+                    "id": 220184,
+                    "resource_id": 39,
+                    "text": "Iaitu seorang Rasul dari Allah yang membacakan (kepada mereka) Lembaran-lembaran Suci,"
+                },
+                {
+                    "id": 1097109,
+                    "resource_id": 161,
+                    "text": "(অর্থাৎ) আল্লাহর নিকট হতে একজন রসূল, যে পাঠ করে পবিত্র গ্রন্থ।"
+                }
+            ]
+        },
+        {
+            "id": 6133,
+            "verse_number": 3,
+            "verse_key": "98:3",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 542,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فِيهَا كُتُبٌ قَيِّمَةٌ",
+            "page_number": 598,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102365,
+                    "resource_id": 20,
+                    "text": "Within which are correct writings [i.e., rulings and laws]."
+                },
+                {
+                    "id": 220186,
+                    "resource_id": 39,
+                    "text": "Terkandung di dalamnya pelajaran-pelajaran dan hukum-hukum yang benar."
+                },
+                {
+                    "id": 1097110,
+                    "resource_id": 161,
+                    "text": "যাতে আছে সঠিক বিধান।"
+                }
+            ]
+        },
+        {
+            "id": 6134,
+            "verse_number": 4,
+            "verse_key": "98:4",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 542,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا تَفَرَّقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ إِلَّا مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَةُ",
+            "page_number": 598,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102367,
+                    "resource_id": 20,
+                    "text": "Nor did those who were given the Scripture become divided<sup foot_note=197792>1</sup> until after there had come to them clear evidence."
+                },
+                {
+                    "id": 220188,
+                    "resource_id": 39,
+                    "text": "Dan orang-orang (Yahudi dan Nasrani) yang diberi Kitab (Taurat dan Injil) itu, tidak berpecah-belah melainkan setelah datang kepada mereka bukti yang jelas nyata."
+                },
+                {
+                    "id": 1097111,
+                    "resource_id": 161,
+                    "text": "যাদেরকে কিতাব দেয়া হয়েছিল তাদের মাঝে বিচ্ছিন্নতা দেখা দিয়েছিল তাদের কাছে সুস্পষ্ট প্রমাণ আসার পর।"
+                }
+            ]
+        },
+        {
+            "id": 6135,
+            "verse_number": 5,
+            "verse_key": "98:5",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 542,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَآ أُمِرُوٓا۟ إِلَّا لِيَعْبُدُوا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُوا۟ ٱلصَّلَوٰةَ وَيُؤْتُوا۟ ٱلزَّكَوٰةَ ۚ وَذَٰلِكَ دِينُ ٱلْقَيِّمَةِ",
+            "page_number": 598,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102369,
+                    "resource_id": 20,
+                    "text": "And they were not commanded except to worship Allāh, [being] sincere to Him in religion, inclining to truth, and to establish prayer and to give zakāh. And that is the correct religion."
+                },
+                {
+                    "id": 220190,
+                    "resource_id": 39,
+                    "text": "Pada hal mereka tidak diperintahkan melainkan supaya menyembah Allah dengan mengikhlaskan ibadat kepadaNya, lagi tetap teguh di atas tauhid; dan supaya mereka mendirikan sembahyang serta memberi zakat. Dan yang demikian itulah Ugama yang benar."
+                },
+                {
+                    "id": 1097112,
+                    "resource_id": 161,
+                    "text": "তাদেরকে এ ছাড়া অন্য কোন হুকুমই দেয়া হয়নি যে, তারা আল্লাহর ‘ইবাদাত করবে খাঁটি মনে একনিষ্ঠভাবে তাঁর আনুগত্যের মাধ্যমে। আর তারা নামায প্রতিষ্ঠা করবে আর যাকাত দিবে। আর এটাই সঠিক সুদৃঢ় দ্বীন।"
+                }
+            ]
+        },
+        {
+            "id": 6136,
+            "verse_number": 6,
+            "verse_key": "98:6",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 542,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ وَٱلْمُشْرِكِينَ فِى نَارِ جَهَنَّمَ خَـٰلِدِينَ فِيهَآ ۚ أُو۟لَـٰٓئِكَ هُمْ شَرُّ ٱلْبَرِيَّةِ",
+            "page_number": 598,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102371,
+                    "resource_id": 20,
+                    "text": "Indeed, they who disbelieved among the People of the Scripture and the polytheists will be in the fire of Hell, abiding eternally therein. Those are the worst of creatures."
+                },
+                {
+                    "id": 220192,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya orang-orang yang kafir dari Ahli Kitab dan orang-orang musyrik itu akan ditempatkan di dalam neraka Jahannam, kekalah mereka di dalamnya. Mereka itulah sejahat-jahat makhluk."
+                },
+                {
+                    "id": 1097113,
+                    "resource_id": 161,
+                    "text": "কিতাবধারীদের মধ্যে যারা কুফুরী করে তারা আর মুশরিকরা জাহান্নামের আগুনে স্থায়ীভাবে থাকবে। এরাই সৃষ্টির অধম।"
+                }
+            ]
+        },
+        {
+            "id": 6137,
+            "verse_number": 7,
+            "verse_key": "98:7",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 542,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ أُو۟لَـٰٓئِكَ هُمْ خَيْرُ ٱلْبَرِيَّةِ",
+            "page_number": 598,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102373,
+                    "resource_id": 20,
+                    "text": "Indeed, they who have believed and done righteous deeds - those are the best of creatures."
+                },
+                {
+                    "id": 220194,
+                    "resource_id": 39,
+                    "text": "Seungguhnya orang-orang yang beriman dan beramal soleh, mereka itulah sebaik-baik makhluk."
+                },
+                {
+                    "id": 1097114,
+                    "resource_id": 161,
+                    "text": "যারা ঈমান আনে আর সৎ কাজ করে তারা সৃষ্টির উত্তম।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 17,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 17
+    }
+}

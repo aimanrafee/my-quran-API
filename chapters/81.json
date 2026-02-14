@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 5801,
+            "verse_number": 1,
+            "verse_key": "81:1",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " إِذَا ٱلشَّمْسُ كُوِّرَتْ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101848,
+                    "resource_id": 20,
+                    "text": "When the sun is wrapped up [in darkness]"
+                },
+                {
+                    "id": 219775,
+                    "resource_id": 39,
+                    "text": "Apabila matahari dilingkari cahayanya (dan hilang lenyap);"
+                },
+                {
+                    "id": 1096778,
+                    "resource_id": 161,
+                    "text": "যখন সূর্যকে গুটিয়ে নেয়া হবে"
+                }
+            ]
+        },
+        {
+            "id": 5802,
+            "verse_number": 2,
+            "verse_key": "81:2",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا ٱلنُّجُومُ ٱنكَدَرَتْ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101860,
+                    "resource_id": 20,
+                    "text": "And when the stars fall, dispersing,"
+                },
+                {
+                    "id": 219685,
+                    "resource_id": 39,
+                    "text": "Dan apabila bintang-bintang gugur berselerak;"
+                },
+                {
+                    "id": 1096779,
+                    "resource_id": 161,
+                    "text": "আর তারকাগুলো যখন তাদের উজ্জ্বলতা হারিয়ে খসে পড়বে।"
+                }
+            ]
+        },
+        {
+            "id": 5803,
+            "verse_number": 3,
+            "verse_key": "81:3",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا ٱلْجِبَالُ سُيِّرَتْ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101872,
+                    "resource_id": 20,
+                    "text": "And when the mountains are removed"
+                },
+                {
+                    "id": 219694,
+                    "resource_id": 39,
+                    "text": "Dan apabila gunung-ganang di terbangkan ke angkasa (setelah dihancurkan menjadi debu);"
+                },
+                {
+                    "id": 1096780,
+                    "resource_id": 161,
+                    "text": "পর্বতগুলোকে যখন চলমান করা হবে,"
+                }
+            ]
+        },
+        {
+            "id": 5804,
+            "verse_number": 4,
+            "verse_key": "81:4",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا ٱلْعِشَارُ عُطِّلَتْ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101873,
+                    "resource_id": 20,
+                    "text": "And when full-term she-camels<sup foot_note=197714>1</sup> are neglected"
+                },
+                {
+                    "id": 219696,
+                    "resource_id": 39,
+                    "text": "Dan apabila unta-unta yang bunting terbiar;"
+                },
+                {
+                    "id": 1096781,
+                    "resource_id": 161,
+                    "text": "যখন দশ মাসের গর্ভবতী উটনিগুলোকে অযত্নে পরিত্যাগ করা হবে,"
+                }
+            ]
+        },
+        {
+            "id": 5805,
+            "verse_number": 5,
+            "verse_key": "81:5",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا ٱلْوُحُوشُ حُشِرَتْ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101875,
+                    "resource_id": 20,
+                    "text": "And when the wild beasts are gathered"
+                },
+                {
+                    "id": 219698,
+                    "resource_id": 39,
+                    "text": "Dan apabila binatang-binatang liar dihimpunkan;"
+                },
+                {
+                    "id": 1096782,
+                    "resource_id": 161,
+                    "text": "যখন বনের জন্তু জানোয়ারকে (বন থেকে গুটিয়ে এনে লোকালয়ে) একত্রিত করা হবে,"
+                }
+            ]
+        },
+        {
+            "id": 5806,
+            "verse_number": 6,
+            "verse_key": "81:6",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا ٱلْبِحَارُ سُجِّرَتْ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101877,
+                    "resource_id": 20,
+                    "text": "And when the seas are filled with flame<sup foot_note=197715>1</sup>"
+                },
+                {
+                    "id": 219702,
+                    "resource_id": 39,
+                    "text": "Dan apabila lautan meluap-luap bercampur-baur;"
+                },
+                {
+                    "id": 1096783,
+                    "resource_id": 161,
+                    "text": "যখন সমুদ্রগুলোকে প্রজ্জ্বলিত করে উত্তাল করা হবে।"
+                }
+            ]
+        },
+        {
+            "id": 5807,
+            "verse_number": 7,
+            "verse_key": "81:7",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا ٱلنُّفُوسُ زُوِّجَتْ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101879,
+                    "resource_id": 20,
+                    "text": "And when the souls are paired<sup foot_note=197716>1</sup>"
+                },
+                {
+                    "id": 219706,
+                    "resource_id": 39,
+                    "text": "Dan apabila tiap-tiap diri disatukan dengan pasangannya;"
+                },
+                {
+                    "id": 1096784,
+                    "resource_id": 161,
+                    "text": "যখন দেহের সঙ্গে আত্মাগুলোকে আবার জুড়ে দেয়া হবে,"
+                }
+            ]
+        },
+        {
+            "id": 5808,
+            "verse_number": 8,
+            "verse_key": "81:8",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101881,
+                    "resource_id": 20,
+                    "text": "And when the girl [who was] buried alive is asked"
+                },
+                {
+                    "id": 219704,
+                    "resource_id": 39,
+                    "text": "Dan apabila anak perempuan yang ditanam hidup-hidup: ditanya, -"
+                },
+                {
+                    "id": 1096785,
+                    "resource_id": 161,
+                    "text": "যখন জীবন্ত পুঁতে-ফেলা কন্যা-শিশুকে জিজ্ঞেস করা হবে,"
+                }
+            ]
+        },
+        {
+            "id": 5809,
+            "verse_number": 9,
+            "verse_key": "81:9",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "بِأَىِّ ذَنۢبٍ قُتِلَتْ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101883,
+                    "resource_id": 20,
+                    "text": "For what sin she was killed"
+                },
+                {
+                    "id": 219708,
+                    "resource_id": 39,
+                    "text": "Dengan dosa apakah ia dibunuh?"
+                },
+                {
+                    "id": 1096786,
+                    "resource_id": 161,
+                    "text": "কোন্ অপরাধে তাকে হত্যা করা হয়েছে?"
+                }
+            ]
+        },
+        {
+            "id": 5810,
+            "verse_number": 10,
+            "verse_key": "81:10",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 525,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا ٱلصُّحُفُ نُشِرَتْ",
+            "page_number": 586,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101849,
+                    "resource_id": 20,
+                    "text": "And when the pages<sup foot_note=197717>1</sup> are spread [i.e., made public]"
+                },
+                {
+                    "id": 214628,
+                    "resource_id": 39,
+                    "text": "Dan apabila surat-surat amal dibentangkan;"
+                },
+                {
+                    "id": 1096787,
+                    "resource_id": 161,
+                    "text": "যখন ‘আমালনামাগুলো খুলে ধরা হবে,"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 3,
+        "total_records": 29
+    }
+}

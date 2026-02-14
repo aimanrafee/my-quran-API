@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 294,
+            "verse_number": 1,
+            "verse_key": "3:1",
+            "hizb_number": 5,
+            "rub_el_hizb_number": 20,
+            "ruku_number": 42,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": " الٓمٓ",
+            "page_number": 50,
+            "juz_number": 3,
+            "translations": [
+                {
+                    "id": 98662,
+                    "resource_id": 20,
+                    "text": "Alif, Lām, Meem.<sup foot_note=196040>1</sup>"
+                },
+                {
+                    "id": 214987,
+                    "resource_id": 39,
+                    "text": "Alif, Laam, Miim."
+                },
+                {
+                    "id": 1091271,
+                    "resource_id": 161,
+                    "text": "আলিফ-লাম-মীম।"
+                }
+            ]
+        },
+        {
+            "id": 295,
+            "verse_number": 2,
+            "verse_key": "3:2",
+            "hizb_number": 5,
+            "rub_el_hizb_number": 20,
+            "ruku_number": 42,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ",
+            "page_number": 50,
+            "juz_number": 3,
+            "translations": [
+                {
+                    "id": 98812,
+                    "resource_id": 20,
+                    "text": "Allāh - there is no deity except Him, the Ever-Living, the Self-Sustaining.<sup foot_note=196041>1</sup>"
+                },
+                {
+                    "id": 216680,
+                    "resource_id": 39,
+                    "text": "Allah tiada Tuhan (yang berhak disembah) melainkan Dia, Yang Tetap Hidup, Yang Kekal selama-lamanya mentadbirkan sekalian makhlukNya."
+                },
+                {
+                    "id": 1091272,
+                    "resource_id": 161,
+                    "text": "আল্লাহ, তিনি ছাড়া সত্যিকারের কোন ইলাহ নেই, তিনি চিরঞ্জীব সকলের রক্ষণাবেক্ষণকারী।"
+                }
+            ]
+        },
+        {
+            "id": 296,
+            "verse_number": 3,
+            "verse_key": "3:3",
+            "hizb_number": 5,
+            "rub_el_hizb_number": 20,
+            "ruku_number": 42,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "نَزَّلَ عَلَيْكَ ٱلْكِتَـٰبَ بِٱلْحَقِّ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ وَأَنزَلَ ٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ",
+            "page_number": 50,
+            "juz_number": 3,
+            "translations": [
+                {
+                    "id": 98855,
+                    "resource_id": 20,
+                    "text": "He has sent down upon you, [O Muḥammad], the Book in truth, confirming what was before it. And He revealed the Torah and the Gospel"
+                },
+                {
+                    "id": 216709,
+                    "resource_id": 39,
+                    "text": "Ia menurunkan kepadamu (wahai Muhammad) Kitab Suci (Al-Quran) dengan mengandungi kebenaran, yang mengesahkan isi Kitab-kitab Suci yang telah diturunkan dahulu daripadanya, dan Ia juga yang menurunkan Kitab-kitab Taurat dan Injil."
+                },
+                {
+                    "id": 1091273,
+                    "resource_id": 161,
+                    "text": "তিনি সত্য সহকারে তোমার উপর কিতাব অবতীর্ণ করেছেন, যা পূর্বতন কিতাবের সমর্থক এবং তিনি তাওরাত ও ইঞ্জীল অবতীর্ণ করেছেন ।"
+                }
+            ]
+        },
+        {
+            "id": 297,
+            "verse_number": 4,
+            "verse_key": "3:4",
+            "hizb_number": 5,
+            "rub_el_hizb_number": 20,
+            "ruku_number": 42,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "مِن قَبْلُ هُدًى لِّلنَّاسِ وَأَنزَلَ ٱلْفُرْقَانَ ۗ إِنَّ ٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِ ٱللَّهِ لَهُمْ عَذَابٌ شَدِيدٌ ۗ وَٱللَّهُ عَزِيزٌ ذُو ٱنتِقَامٍ",
+            "page_number": 50,
+            "juz_number": 3,
+            "translations": [
+                {
+                    "id": 98939,
+                    "resource_id": 20,
+                    "text": "Before, as guidance for the people. And He revealed the Criterion [i.e., the Qur’ān]. Indeed, those who disbelieve in the verses of Allāh will have a severe punishment, and Allāh is Exalted in Might, the Owner of Retribution.<sup foot_note=196042>1</sup>"
+                },
+                {
+                    "id": 216794,
+                    "resource_id": 39,
+                    "text": "Sebelum (Al-Quran diturunkan), menjadi petunjuk bagi umat manusia. Dan Ia juga yang menurunkan Al-Furqaan (yang membezakan antara yang benar dengan yang salah). Sesungguhnya orang-orang yang kufur ingkar akan ayat-ayat keterangan Allah itu, bagi mereka azab seksa yang amat berat. Dan (ingatlah), Allah Maha Kuasa, lagi berhak membalas dengan azab seksa (kepada golongan yang bersalah)."
+                },
+                {
+                    "id": 1091274,
+                    "resource_id": 161,
+                    "text": "ইতোপূর্বে মানবজাতির পথ প্রদর্শনের জন্য; আর তিনি সেই মানদন্ড নাযিল করেছেন যা হাক্ব ও বাতিলের পার্থক্য দেখিয়ে দেয়; নিশ্চয়ই যারা আল্লাহর আয়াতের সাথে কুফুরী করে, তাদের জন্য কঠিন শাস্তি রয়েছে। আল্লাহ মহাপরাক্রমশালী, দন্ডদাতা।"
+                }
+            ]
+        },
+        {
+            "id": 298,
+            "verse_number": 5,
+            "verse_key": "3:5",
+            "hizb_number": 5,
+            "rub_el_hizb_number": 20,
+            "ruku_number": 42,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ ٱللَّهَ لَا يَخْفَىٰ عَلَيْهِ شَىْءٌ فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ",
+            "page_number": 50,
+            "juz_number": 3,
+            "translations": [
+                {
+                    "id": 99006,
+                    "resource_id": 20,
+                    "text": "Indeed, from Allāh nothing is hidden in the earth nor in the heaven."
+                },
+                {
+                    "id": 216871,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Allah tidak tersembunyi kepadaNya sesuatu pun yang ada di bumi dan juga yang ada di langit."
+                },
+                {
+                    "id": 1091275,
+                    "resource_id": 161,
+                    "text": "নিশ্চয়ই ভূমন্ডলের ও নভোমন্ডলের কোন জিনিসই আল্লাহর নিকট গোপন থাকে না।"
+                }
+            ]
+        },
+        {
+            "id": 299,
+            "verse_number": 6,
+            "verse_key": "3:6",
+            "hizb_number": 5,
+            "rub_el_hizb_number": 20,
+            "ruku_number": 42,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "هُوَ ٱلَّذِى يُصَوِّرُكُمْ فِى ٱلْأَرْحَامِ كَيْفَ يَشَآءُ ۚ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+            "page_number": 50,
+            "juz_number": 3,
+            "translations": [
+                {
+                    "id": 99063,
+                    "resource_id": 20,
+                    "text": "It is He who forms you in the wombs however He wills. There is no deity except Him, the Exalted in Might, the Wise."
+                },
+                {
+                    "id": 216926,
+                    "resource_id": 39,
+                    "text": "Dia lah yang membentuk rupa kamu dalam rahim (ibu kamu) sebagaimana yang dikehendakiNya. Tiada Tuhan (yang berhak disembah) melainkan Dia, Yang Maha Kuasa, lagi Maha Bijaksana."
+                },
+                {
+                    "id": 1091276,
+                    "resource_id": 161,
+                    "text": "তিনিই তোমাদেরকে মায়ের পেটে যেভাবে ইচ্ছে আকৃতি দেন, তিনি ছাড়া সত্যিকারের কোন ইলাহ নেই, তিনি মহাশক্তিমান ও প্রজ্ঞাশীল।"
+                }
+            ]
+        },
+        {
+            "id": 300,
+            "verse_number": 7,
+            "verse_key": "3:7",
+            "hizb_number": 5,
+            "rub_el_hizb_number": 20,
+            "ruku_number": 42,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "هُوَ ٱلَّذِىٓ أَنزَلَ عَلَيْكَ ٱلْكِتَـٰبَ مِنْهُ ءَايَـٰتٌ مُّحْكَمَـٰتٌ هُنَّ أُمُّ ٱلْكِتَـٰبِ وَأُخَرُ مُتَشَـٰبِهَـٰتٌ ۖ فَأَمَّا ٱلَّذِينَ فِى قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَـٰبَهَ مِنْهُ ٱبْتِغَآءَ ٱلْفِتْنَةِ وَٱبْتِغَآءَ تَأْوِيلِهِۦ ۗ وَمَا يَعْلَمُ تَأْوِيلَهُۥٓ إِلَّا ٱللَّهُ ۗ وَٱلرَّٰسِخُونَ فِى ٱلْعِلْمِ يَقُولُونَ ءَامَنَّا بِهِۦ كُلٌّ مِّنْ عِندِ رَبِّنَا ۗ وَمَا يَذَّكَّرُ إِلَّآ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ",
+            "page_number": 50,
+            "juz_number": 3,
+            "translations": [
+                {
+                    "id": 99152,
+                    "resource_id": 20,
+                    "text": "It is He who has sent down to you, [O Muḥammad], the Book; in it are verses [that are] precise - they are the foundation of the Book - and others unspecific.<sup foot_note=196043>1</sup> As for those in whose hearts is deviation [from truth], they will follow that of it which is unspecific, seeking discord and seeking an interpretation [suitable to them]. And no one knows its [true] interpretation except Allāh. But those firm in knowledge say, \"We believe in it. All [of it] is from our Lord.\" And no one will be reminded except those of understanding."
+                },
+                {
+                    "id": 217010,
+                    "resource_id": 39,
+                    "text": "Dia lah yang menurunkan kepadamu (wahai Muhammad) Kitab Suci Al-Quran. Sebahagian besar dari Al-Quran itu ialah ayat-ayat \"Muhkamaat\" (yang tetap, tegas dan nyata maknanya serta jelas maksudnya); ayat-ayat Muhkamaat itu ialah ibu (atau pokok) isi Al-Quran. Dan yang lain lagi ialah ayat-ayat \"Mutasyaabihaat\" (yang samar-samar, tidak terang maksudnya). Oleh sebab itu (timbulah faham yang berlainan menurut kandungan hati masing-masing) - adapun orang-orang yang ada dalam hatinya kecenderungan ke arah kesesatan, maka mereka selalu menurut apa yang samar-samar dari Al-Quran untuk mencari fitnah dan mencari-cari Takwilnya (memutarkan maksudnya menurut yang disukainya). Padahal tidak ada yang mengetahui Takwilnya (tafsir maksudnya yang sebenar) melainkan Allah. Dan orang-orang yang tetap teguh serta mendalam pengetahuannya dalam ilmu-ilmu ugama, berkata:\" Kami beriman kepadanya, semuanya itu datangnya dari sisi Tuhan kami\" Dan tiadalah yang mengambil pelajaran dan peringatan melainkan orang-orang yang berfikiran."
+                },
+                {
+                    "id": 1091277,
+                    "resource_id": 161,
+                    "text": "তিনিই তোমার উপর এমন কিতাব নাযিল করেছেন, যার কতিপয় আয়াত মৌলিক-সুস্পষ্ট অর্থবোধক, এগুলো হল কিতাবের মূল আর অন্যগুলো পুরোপুরি স্পষ্ট নয়; কিন্তু যাদের অন্তরে বক্রতা আছে, তারা গোলযোগ সৃষ্টির উদ্দেশ্যে এবং ভুল ব্যাখ্যার উদ্দেশ্যে উক্ত আয়াতগুলোর অনুসরণ করে যেগুলো পুরোপুরি স্পষ্ট নয়। মূলত: এর মর্ম আল্লাহ ছাড়া কেউই জানে না। যারা জ্ঞানে সুগভীর তারা বলে যে, আমরা তার উপর ঈমান এনেছি, এ সবকিছুই আমাদের প্রতিপালকের নিকট হতে এসেছে, মূলতঃ জ্ঞানবান ব্যক্তিরা ছাড়া কেউই নসীহত গ্রহণ করে না।"
+                }
+            ]
+        },
+        {
+            "id": 301,
+            "verse_number": 8,
+            "verse_key": "3:8",
+            "hizb_number": 5,
+            "rub_el_hizb_number": 20,
+            "ruku_number": 42,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً ۚ إِنَّكَ أَنتَ ٱلْوَهَّابُ",
+            "page_number": 50,
+            "juz_number": 3,
+            "translations": [
+                {
+                    "id": 99343,
+                    "resource_id": 20,
+                    "text": "[Who say], \"Our Lord, let not our hearts deviate after You have guided us and grant us from Yourself mercy. Indeed, You are the Bestower.<sup foot_note=196044>1</sup>"
+                },
+                {
+                    "id": 217182,
+                    "resource_id": 39,
+                    "text": "(Mereka berdoa dengan berkata): \"Wahai Tuhan kami! Janganlah Engkau memesongkan hati kami sesudah Engkau beri petunjuk kepada kami, dan kurniakanlah kepada kami limpah rahmat dari sisiMu; sesungguhnya Engkau jualah Tuhan Yang melimpah-limpah pemberianNya."
+                },
+                {
+                    "id": 1091278,
+                    "resource_id": 161,
+                    "text": "হে আমাদের প্রতিপালক! সৎ পথ প্রদর্শনের পরে তুমি আমাদের অন্তরগুলোকে বক্র করে দিও না, আমাদেরকে তোমার নিকট হতে রহমত প্রদান কর, মূলতঃ তুমিই মহান দাতা।"
+                }
+            ]
+        },
+        {
+            "id": 302,
+            "verse_number": 9,
+            "verse_key": "3:9",
+            "hizb_number": 5,
+            "rub_el_hizb_number": 20,
+            "ruku_number": 42,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "رَبَّنَآ إِنَّكَ جَامِعُ ٱلنَّاسِ لِيَوْمٍ لَّا رَيْبَ فِيهِ ۚ إِنَّ ٱللَّهَ لَا يُخْلِفُ ٱلْمِيعَادَ",
+            "page_number": 50,
+            "juz_number": 3,
+            "translations": [
+                {
+                    "id": 99438,
+                    "resource_id": 20,
+                    "text": "Our Lord, surely You will gather the people for a Day about which there is no doubt. Indeed, Allāh does not fail in His promise.\""
+                },
+                {
+                    "id": 217281,
+                    "resource_id": 39,
+                    "text": "\"Wahai Tuhan kami! Sesungguhnya Engkaulah yang akan menghimpunkan sekalian manusia, untuk (menerima balasan pada) suatu hari (hari kiamat) yang tidak ada syak padanya\". Sesungguhnya Allah tidak memungkiri janjiNya."
+                },
+                {
+                    "id": 1091279,
+                    "resource_id": 161,
+                    "text": "হে আমাদের প্রতিপালক! নিশ্চয়ই তুমি সমুদয় মানুষকে একদিন সমবেত করবে, যাতে কোনও সন্দেহ নাই। নিশ্চয়ই আল্লাহ অঙ্গীকারের খেলাফ করেন না।"
+                }
+            ]
+        },
+        {
+            "id": 303,
+            "verse_number": 10,
+            "verse_key": "3:10",
+            "hizb_number": 5,
+            "rub_el_hizb_number": 20,
+            "ruku_number": 43,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ لَن تُغْنِىَ عَنْهُمْ أَمْوَٰلُهُمْ وَلَآ أَوْلَـٰدُهُم مِّنَ ٱللَّهِ شَيْـًٔا ۖ وَأُو۟لَـٰٓئِكَ هُمْ وَقُودُ ٱلنَّارِ",
+            "page_number": 51,
+            "juz_number": 3,
+            "translations": [
+                {
+                    "id": 98663,
+                    "resource_id": 20,
+                    "text": "Indeed, those who disbelieve - never will their wealth or their children avail them against Allāh at all. And it is they who are fuel for the Fire."
+                },
+                {
+                    "id": 216537,
+                    "resource_id": 39,
+                    "text": "Sebenarnya harta benda orang-orang kafir, dan juga anak-pinak mereka tidak sekali-kali akan menyelamatkan mereka dari (azab seksa) Allah sedikit juapun; dan mereka itulah bahan bakaran api neraka."
+                },
+                {
+                    "id": 1091280,
+                    "resource_id": 161,
+                    "text": "নিশ্চয়ই যারা কুফরী করে তাদের ধন-সম্পদ ও সন্তান-সন্ততি আল্লাহর সামনে কোন কাজে লাগবে না এবং তারাই আগুনের ইন্ধন।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 20,
+        "total_records": 200
+    }
+}

@@ -1,0 +1,431 @@
+{
+    "verses": [
+        {
+            "id": 2494,
+            "verse_number": 11,
+            "verse_key": "21:11",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 129,
+            "ruku_number": 279,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَكَمْ قَصَمْنَا مِن قَرْيَةٍ كَانَتْ ظَالِمَةً وَأَنشَأْنَا بَعْدَهَا قَوْمًا ءَاخَرِينَ",
+            "page_number": 323,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97414,
+                    "resource_id": 20,
+                    "text": "And how many a city which was unjust<sup foot_note=196785>1</sup> have We shattered and produced after it another people."
+                },
+                {
+                    "id": 215289,
+                    "resource_id": 39,
+                    "text": "Dan berapa banyak Kami telah pecah-belahkan dan binasakan penduduk negeri yang melakukan kezaliman, dan Kami telah menjadikan sesudah mereka, kaum yang lain sebagai gantinya."
+                },
+                {
+                    "id": 1093471,
+                    "resource_id": 161,
+                    "text": "কত জনপদ ছিল যেগুলোকে আমি পুরোপুরি ধ্বংস করে দিয়েছি যার অধিবাসীরা ছিল যালিম। তাদের পরে আমি অন্য জাতি সৃষ্টি করেছি।"
+                }
+            ]
+        },
+        {
+            "id": 2495,
+            "verse_number": 12,
+            "verse_key": "21:12",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 129,
+            "ruku_number": 279,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَلَمَّآ أَحَسُّوا۟ بَأْسَنَآ إِذَا هُم مِّنْهَا يَرْكُضُونَ",
+            "page_number": 323,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97419,
+                    "resource_id": 20,
+                    "text": "And when they [i.e., its inhabitants] perceived Our punishment, at once they fled from it."
+                },
+                {
+                    "id": 215265,
+                    "resource_id": 39,
+                    "text": "Maka ketika mereka merasai (kedatangan) azab Kami, mereka dengan serta-merta lari keluar dari negeri itu."
+                },
+                {
+                    "id": 1093472,
+                    "resource_id": 161,
+                    "text": "তারা যখন আমার শাস্তি (’র আগমন) অনুভব করল, তখন তারা তাত্থেকে পালিয়ে যেতে (চেষ্টা) করল।"
+                }
+            ]
+        },
+        {
+            "id": 2496,
+            "verse_number": 13,
+            "verse_key": "21:13",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 129,
+            "ruku_number": 279,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "لَا تَرْكُضُوا۟ وَٱرْجِعُوٓا۟ إِلَىٰ مَآ أُتْرِفْتُمْ فِيهِ وَمَسَـٰكِنِكُمْ لَعَلَّكُمْ تُسْـَٔلُونَ",
+            "page_number": 323,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97421,
+                    "resource_id": 20,
+                    "text": "[Some angels said], \"Do not flee but return to where you were given luxury and to your homes - perhaps you will be questioned.\"<sup foot_note=196786>1</sup>"
+                },
+                {
+                    "id": 215297,
+                    "resource_id": 39,
+                    "text": "(Lalu dikatakan kepada mereka): \"Janganlah kamu lari, dan sebaliknya kembalilah kepada kemewahan hidup yang telah diberikan kepada kamu, dan ke tempat-tempat tinggal kamu, supaya kamu dapat ditanya mengenai apa yang berlaku\"."
+                },
+                {
+                    "id": 1093473,
+                    "resource_id": 161,
+                    "text": "(ফেরেশতারা তাদেরকে ঠাট্টা করে বলেছিল) পালিয়ে যেয়ো না, ফিরে এসো তোমরা যে ভোগ-বিলাসে মত্ত ছিলে তার দিকে আর তোমাদের আবাসগুলোতে, যাতে তোমাদেরকে জিজ্ঞাসাবাদ করা যায় (‘আযাবের রূপটা কেমন দেখলে?)।"
+                }
+            ]
+        },
+        {
+            "id": 2497,
+            "verse_number": 14,
+            "verse_key": "21:14",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 129,
+            "ruku_number": 279,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالُوا۟ يَـٰوَيْلَنَآ إِنَّا كُنَّا ظَـٰلِمِينَ",
+            "page_number": 323,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97423,
+                    "resource_id": 20,
+                    "text": "They said, \"O woe to us! Indeed, we were wrongdoers.\""
+                },
+                {
+                    "id": 215457,
+                    "resource_id": 39,
+                    "text": "(Akhirnya) mereka berkata: \"Aduhai celakanya kami! Sesungguhnya kami adalah orang-orang yang berlaku zalim!\""
+                },
+                {
+                    "id": 1093474,
+                    "resource_id": 161,
+                    "text": "তারা বলল, ‘হায় আমাদের দুর্ভাগ্য! আমরা সত্যিই অন্যায়কারী ছিলাম।’"
+                }
+            ]
+        },
+        {
+            "id": 2498,
+            "verse_number": 15,
+            "verse_key": "21:15",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 129,
+            "ruku_number": 279,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَمَا زَالَت تِّلْكَ دَعْوَىٰهُمْ حَتَّىٰ جَعَلْنَـٰهُمْ حَصِيدًا خَـٰمِدِينَ",
+            "page_number": 323,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97425,
+                    "resource_id": 20,
+                    "text": "And that declaration of theirs did not cease until We made them [as] a harvest [mowed down], extinguished [like a fire]."
+                },
+                {
+                    "id": 215323,
+                    "resource_id": 39,
+                    "text": "Maka demikianlah seterusnya jeritan dan keluhan mereka, sehingga Kami jadikan mereka hancur lebur dan sunyi-sepi."
+                },
+                {
+                    "id": 1093475,
+                    "resource_id": 161,
+                    "text": "তাদের এ আর্তনাদ বন্ধ হয়নি যতক্ষণ না আমি তাদেরকে করেছিলাম কাটা শস্য ও নিভানো আগুনের মত।"
+                }
+            ]
+        },
+        {
+            "id": 2499,
+            "verse_number": 16,
+            "verse_key": "21:16",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 129,
+            "ruku_number": 279,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا خَلَقْنَا ٱلسَّمَآءَ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا لَـٰعِبِينَ",
+            "page_number": 323,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97427,
+                    "resource_id": 20,
+                    "text": "And We did not create the heaven and earth and that between them in play."
+                },
+                {
+                    "id": 215303,
+                    "resource_id": 39,
+                    "text": "Dan (ingatlah) tidaklah Kami menciptakan langit dan bumi serta segala yang ada di antaranya, secara main-main."
+                },
+                {
+                    "id": 1093476,
+                    "resource_id": 161,
+                    "text": "আসমান, যমীন আর এ দু’য়ের মধ্যে যা কিছু আছে তা আমি খেলতে খেলতে বানাইনি।"
+                }
+            ]
+        },
+        {
+            "id": 2500,
+            "verse_number": 17,
+            "verse_key": "21:17",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 129,
+            "ruku_number": 279,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "لَوْ أَرَدْنَآ أَن نَّتَّخِذَ لَهْوًا لَّٱتَّخَذْنَـٰهُ مِن لَّدُنَّآ إِن كُنَّا فَـٰعِلِينَ",
+            "page_number": 323,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97429,
+                    "resource_id": 20,
+                    "text": "Had We intended to take a diversion,<sup foot_note=196787>1</sup> We could have taken it from [what is] with Us - if [indeed] We were to do so."
+                },
+                {
+                    "id": 215301,
+                    "resource_id": 39,
+                    "text": "Sekiranya Kami hendak mengambil sesuatu untuk hiburan, tentulah Kami akan mengambilnya dari sisi Kami; Kami tidak melakukannya."
+                },
+                {
+                    "id": 1093477,
+                    "resource_id": 161,
+                    "text": "আমি যদি খেলাধূলার বস্তু বানাতে চাইতাম তাহলে আমার কাছে যা আছে তা নিয়েই তা করতাম, যদি আমাকে করতে হত!"
+                }
+            ]
+        },
+        {
+            "id": 2501,
+            "verse_number": 18,
+            "verse_key": "21:18",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 129,
+            "ruku_number": 279,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "بَلْ نَقْذِفُ بِٱلْحَقِّ عَلَى ٱلْبَـٰطِلِ فَيَدْمَغُهُۥ فَإِذَا هُوَ زَاهِقٌ ۚ وَلَكُمُ ٱلْوَيْلُ مِمَّا تَصِفُونَ",
+            "page_number": 323,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97431,
+                    "resource_id": 20,
+                    "text": "Rather, We dash the truth upon falsehood, and it destroys it,<sup foot_note=196789>1</sup> and thereupon it departs. And for you is destruction from that which you describe.<sup foot_note=196788>2</sup>"
+                },
+                {
+                    "id": 215304,
+                    "resource_id": 39,
+                    "text": "Bahkan Kami sentiasa mengarahkan yang benar menentang yang salah, lalu ia menghancurkannya, maka dengan serta-merta hilang lenyaplah dia. Dan (tetaplah) kecelakaan akan menimpa kamu disebabkan apa yang kamu sifatkan (terhadap Kami)."
+                },
+                {
+                    "id": 1093478,
+                    "resource_id": 161,
+                    "text": "বরং আমি সত্যকে মিথ্যের উপর নিক্ষেপ করি, অতঃপর তা মিথ্যের মস্তক চূর্ণ-বিচূর্ণ করে দেয়, তৎক্ষণাৎ মিথ্যে নিশ্চিহ্ন হয়ে যায়। তোমরা (আল্লাহ সম্পর্কে অযথা বহু মিথ্যে কথা বানিয়ে নিয়ে) যা বলছ এ কারণে তোমাদের জন্য দুর্ভোগ।"
+                }
+            ]
+        },
+        {
+            "id": 2502,
+            "verse_number": 19,
+            "verse_key": "21:19",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 129,
+            "ruku_number": 279,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَهُۥ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَمَنْ عِندَهُۥ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ وَلَا يَسْتَحْسِرُونَ",
+            "page_number": 323,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97433,
+                    "resource_id": 20,
+                    "text": "To Him belongs whoever is in the heavens and the earth. And those near Him [i.e., the angels] are not prevented by arrogance from His worship, nor do they tire."
+                },
+                {
+                    "id": 215306,
+                    "resource_id": 39,
+                    "text": "Dan (ingatlah) segala yang ada di langit dan di bumi adalah milik kepunyaan Allah jua; dan malaikat-malaikat yang ada di sisiNya tidak membesarkan diri dan tidak enggan daripada beribadat kepadaNya, dan tidak pula mereka merasa penat dan letih."
+                },
+                {
+                    "id": 1093479,
+                    "resource_id": 161,
+                    "text": "আসমান ও যমীনে যারা আছে তারা তাঁরই মালিকানাধীন, আর যারা তাঁর সন্নিকটে আছে তারা গর্বভরে তাঁর ‘ইবাদাত থেকে বিমুখ হয় না, আর তারা (কক্ষনো তাঁর ‘ইবাদাত করার ব্যাপারে) ক্লান্তিবোধ করে না।"
+                }
+            ]
+        },
+        {
+            "id": 2503,
+            "verse_number": 20,
+            "verse_key": "21:20",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 129,
+            "ruku_number": 279,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "يُسَبِّحُونَ ٱلَّيْلَ وَٱلنَّهَارَ لَا يَفْتُرُونَ",
+            "page_number": 323,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97437,
+                    "resource_id": 20,
+                    "text": "They exalt [Him] night and day [and] do not slacken."
+                },
+                {
+                    "id": 215317,
+                    "resource_id": 39,
+                    "text": "Mereka beribadat malam dan siang, dengan tidak berhenti-henti."
+                },
+                {
+                    "id": 1093480,
+                    "resource_id": 161,
+                    "text": "তারা রাত-দিন তাঁর পবিত্রতা ঘোষণা করতে থাকে, তারা কক্ষনো শিথিলতা করে না বা আগ্রহ হারায় না।"
+                }
+            ]
+        },
+        {
+            "id": 2504,
+            "verse_number": 21,
+            "verse_key": "21:21",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 129,
+            "ruku_number": 279,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "أَمِ ٱتَّخَذُوٓا۟ ءَالِهَةً مِّنَ ٱلْأَرْضِ هُمْ يُنشِرُونَ",
+            "page_number": 323,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97439,
+                    "resource_id": 20,
+                    "text": "Or have they [i.e., men] taken for themselves gods from the earth who resurrect [the dead]?"
+                },
+                {
+                    "id": 215311,
+                    "resource_id": 39,
+                    "text": "Adakah benda-benda dari bumi yang mereka jadikan tuhan-tuhan itu, dapat menghidupkan semula sesuatu yang mati?"
+                },
+                {
+                    "id": 1093481,
+                    "resource_id": 161,
+                    "text": "তারা (অর্থাৎ মুশরিকরা) মাটি থেকে (তৈরী) যে সব দেবতা গ্রহণ করেছে তারা কি (মৃতদেরকে) জীবিত করতে সক্ষম?"
+                }
+            ]
+        },
+        {
+            "id": 2505,
+            "verse_number": 22,
+            "verse_key": "21:22",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 129,
+            "ruku_number": 279,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "لَوْ كَانَ فِيهِمَآ ءَالِهَةٌ إِلَّا ٱللَّهُ لَفَسَدَتَا ۚ فَسُبْحَـٰنَ ٱللَّهِ رَبِّ ٱلْعَرْشِ عَمَّا يَصِفُونَ",
+            "page_number": 323,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97441,
+                    "resource_id": 20,
+                    "text": "Had there been within them [i.e., the heavens and earth] gods besides Allāh, they both would have been ruined. So exalted is Allāh, Lord of the Throne, above what they describe."
+                },
+                {
+                    "id": 215312,
+                    "resource_id": 39,
+                    "text": "Kalau ada di langit dan di bumi tuhan-tuhan yang lain dari Allah, nescaya rosaklah pentadbiran kedua-duanya. Maka (bertauhidlah kamu kepada Allah dengan menegaskan): Maha Suci Allah, Tuhan yang mempunyai Arasy, dari apa yang mereka sifatkan."
+                },
+                {
+                    "id": 1093482,
+                    "resource_id": 161,
+                    "text": "আসমান ও যমীনে যদি আল্লাহ ছাড়া আরো অনেক ইলাহ থাকত তবে (আসমান ও যমীন) উভয়ই ধ্বংস হয়ে যেত। কাজেই আরশের অধিপতি আল্লাহ মহান ও পবিত্র সে সব থেকে যা তারা তাঁর প্রতি আরোপ করে।"
+                }
+            ]
+        },
+        {
+            "id": 2506,
+            "verse_number": 23,
+            "verse_key": "21:23",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 129,
+            "ruku_number": 279,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "لَا يُسْـَٔلُ عَمَّا يَفْعَلُ وَهُمْ يُسْـَٔلُونَ",
+            "page_number": 323,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97443,
+                    "resource_id": 20,
+                    "text": "He is not questioned about what He does, but they will be questioned."
+                },
+                {
+                    "id": 215315,
+                    "resource_id": 39,
+                    "text": "Ia tidak boleh ditanya tentang apa yang Ia lakukan, sedang merekalah yang akan ditanya kelak."
+                },
+                {
+                    "id": 1093483,
+                    "resource_id": 161,
+                    "text": "তিনি যা করেন সে ব্যাপারে তিনি জিজ্ঞাসিত হবেন না, বরং তারা জিজ্ঞাসিত হবে (তাদের কাজের ব্যাপারে)।"
+                }
+            ]
+        },
+        {
+            "id": 2507,
+            "verse_number": 24,
+            "verse_key": "21:24",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 129,
+            "ruku_number": 279,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "أَمِ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ ءَالِهَةً ۖ قُلْ هَاتُوا۟ بُرْهَـٰنَكُمْ ۖ هَـٰذَا ذِكْرُ مَن مَّعِىَ وَذِكْرُ مَن قَبْلِى ۗ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ ٱلْحَقَّ ۖ فَهُم مُّعْرِضُونَ",
+            "page_number": 323,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97445,
+                    "resource_id": 20,
+                    "text": "Or have they taken gods besides Him? Say, [O Muḥammad], \"Produce your proof. This [Qur’ān] is the message for those with me and the message of those before me.\"<sup foot_note=196790>1</sup> But most of them do not know the truth, so they are turning away."
+                },
+                {
+                    "id": 215320,
+                    "resource_id": 39,
+                    "text": "Patutkah mereka menyembah tuhan-tuhan yang lain dari Allah? Katakanlah (wahai Muhammad): \"Bawalah keterangan dan bukti kamu; kandungan Al-Quran ini menjadi peringatan dan bukti tauhid umatku, juga peringatan dan bukti tauhid umat-umat yang dahulu daripadaku\". (Kaum musyrik tidak mempunyai sebarang keterangan) bahkan kebanyakan mereka tidak mengetahui mana yang benar dan mana yang salah, dengan sebab itulah maka mereka berpaling ingkar."
+                },
+                {
+                    "id": 1093484,
+                    "resource_id": 161,
+                    "text": "নাকি তারা তাঁকে বাদ দিয়ে অনেক ইলাহ গ্রহণ করেছে? বল, ‘তোমরা তোমাদের প্রমাণ এনে হাযির কর। (আল্লাহ ছাড়া কোন ইলাহ নেই) এটাই আমার সাথে যারা আছে তাদের কথা আর আমার পূর্বে যারা ছিল তাদেরও কথা, কিন্তু তাদের (অর্থাৎ সত্য প্রত্যাখ্যানকারীদের) অধিকাংশই প্রকৃত সত্য জানে না, যার জন্য তারা মুখ ফিরিয়ে নেয়।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 14,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 14
+    }
+}

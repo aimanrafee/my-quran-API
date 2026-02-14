@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 5759,
+            "verse_number": 1,
+            "verse_key": "80:1",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 524,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " عَبَسَ وَتَوَلَّىٰٓ",
+            "page_number": 585,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101803,
+                    "resource_id": 20,
+                    "text": "He [i.e., the Prophet (ﷺ) ] frowned and turned away"
+                },
+                {
+                    "id": 219670,
+                    "resource_id": 39,
+                    "text": "Ia memasamkan muka dan berpaling,"
+                },
+                {
+                    "id": 1096736,
+                    "resource_id": 161,
+                    "text": "(নবী) মুখ ভার করল আর মুখ ঘুরিয়ে নিল।"
+                }
+            ]
+        },
+        {
+            "id": 5760,
+            "verse_number": 2,
+            "verse_key": "80:2",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 524,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
+            "page_number": 585,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101814,
+                    "resource_id": 20,
+                    "text": "Because there came to him the blind man,<sup foot_note=197703>1</sup> [interrupting]."
+                },
+                {
+                    "id": 219635,
+                    "resource_id": 39,
+                    "text": "Kerana ia didatangi orang buta."
+                },
+                {
+                    "id": 1096737,
+                    "resource_id": 161,
+                    "text": "(কারণ সে যখন কুরায়শ সরদারদের সাথে আলোচনায় রত ছিল তখন) তার কাছে এক অন্ধ ব্যক্তি আসল।"
+                }
+            ]
+        },
+        {
+            "id": 5761,
+            "verse_number": 3,
+            "verse_key": "80:3",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 524,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا يُدْرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ",
+            "page_number": 585,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101825,
+                    "resource_id": 20,
+                    "text": "But what would make you perceive, [O Muḥammad], that perhaps he might be purified<sup foot_note=197704>1</sup>"
+                },
+                {
+                    "id": 220163,
+                    "resource_id": 39,
+                    "text": "Dan apa jalannya engkau dapat mengetahui (tujuannya, wahai Muhammad) ? Barangkali ia mahu membersihkan hatinya (dengan pelajaran ugama yang didapatinya daripadamu)! -"
+                },
+                {
+                    "id": 1096738,
+                    "resource_id": 161,
+                    "text": "(হে নবী!) তুমি কি জান, সে হয়ত পরিশুদ্ধ হত।"
+                }
+            ]
+        },
+        {
+            "id": 5762,
+            "verse_number": 4,
+            "verse_key": "80:4",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 524,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَوْ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكْرَىٰٓ",
+            "page_number": 585,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101836,
+                    "resource_id": 20,
+                    "text": "Or be reminded and the remembrance would benefit him?"
+                },
+                {
+                    "id": 219656,
+                    "resource_id": 39,
+                    "text": "Ataupun ia mahu mendapat peringatan, supaya peringatan itu memberi manfaat kepadanya."
+                },
+                {
+                    "id": 1096739,
+                    "resource_id": 161,
+                    "text": "কিংবা উপদেশ গ্রহণ করত, ফলে উপদেশ তার উপকারে লাগত।"
+                }
+            ]
+        },
+        {
+            "id": 5763,
+            "verse_number": 5,
+            "verse_key": "80:5",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 524,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَمَّا مَنِ ٱسْتَغْنَىٰ",
+            "page_number": 585,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101840,
+                    "resource_id": 20,
+                    "text": "As for he who thinks himself without need,<sup foot_note=197705>1</sup>"
+                },
+                {
+                    "id": 219661,
+                    "resource_id": 39,
+                    "text": "Adapun orang yang merasa keadaannya telah cukup, tidak berhajat lagi (kepada ajaran Al-Quran),"
+                },
+                {
+                    "id": 1096740,
+                    "resource_id": 161,
+                    "text": "পক্ষান্তরে যে পরোয়া করে না,"
+                }
+            ]
+        },
+        {
+            "id": 5764,
+            "verse_number": 6,
+            "verse_key": "80:6",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 524,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَأَنتَ لَهُۥ تَصَدَّىٰ",
+            "page_number": 585,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101841,
+                    "resource_id": 20,
+                    "text": "To him you give attention."
+                },
+                {
+                    "id": 219662,
+                    "resource_id": 39,
+                    "text": "Maka engkau bersungguh-sungguh melayaninya."
+                },
+                {
+                    "id": 1096741,
+                    "resource_id": 161,
+                    "text": "তার প্রতি তুমি মনোযোগ দিচ্ছ।"
+                }
+            ]
+        },
+        {
+            "id": 5765,
+            "verse_number": 7,
+            "verse_key": "80:7",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 524,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ",
+            "page_number": 585,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101842,
+                    "resource_id": 20,
+                    "text": "And not upon you [is any blame] if he will not be purified.<sup foot_note=197706>1</sup>"
+                },
+                {
+                    "id": 219664,
+                    "resource_id": 39,
+                    "text": "Padahal engkau tidak bersalah kalau ia tidak mahu membersihkan dirinya (dari keingkarannya)."
+                },
+                {
+                    "id": 1096742,
+                    "resource_id": 161,
+                    "text": "সে পরিশুদ্ধ না হলে তোমার উপর কোন দোষ নেই।"
+                }
+            ]
+        },
+        {
+            "id": 5766,
+            "verse_number": 8,
+            "verse_key": "80:8",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 524,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَمَّا مَن جَآءَكَ يَسْعَىٰ",
+            "page_number": 585,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101843,
+                    "resource_id": 20,
+                    "text": "But as for he who came to you striving [for knowledge]"
+                },
+                {
+                    "id": 219665,
+                    "resource_id": 39,
+                    "text": "Adapun orang yang segera datang kepadamu,"
+                },
+                {
+                    "id": 1096743,
+                    "resource_id": 161,
+                    "text": "পক্ষান্তরে যে লোক তোমার কাছে ছুটে আসল।"
+                }
+            ]
+        },
+        {
+            "id": 5767,
+            "verse_number": 9,
+            "verse_key": "80:9",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 524,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَهُوَ يَخْشَىٰ",
+            "page_number": 585,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101844,
+                    "resource_id": 20,
+                    "text": "While he fears [Allāh],"
+                },
+                {
+                    "id": 219666,
+                    "resource_id": 39,
+                    "text": "Dengan perasaan takutnya (melanggar perintah-perintah Allah), -"
+                },
+                {
+                    "id": 1096744,
+                    "resource_id": 161,
+                    "text": "আর সে ভয়ও করে,"
+                }
+            ]
+        },
+        {
+            "id": 5768,
+            "verse_number": 10,
+            "verse_key": "80:10",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 234,
+            "ruku_number": 524,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَأَنتَ عَنْهُ تَلَهَّىٰ",
+            "page_number": 585,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101804,
+                    "resource_id": 20,
+                    "text": "From him you are distracted."
+                },
+                {
+                    "id": 219668,
+                    "resource_id": 39,
+                    "text": "Maka engkau berlengah-lengah melayaninya."
+                },
+                {
+                    "id": 1096745,
+                    "resource_id": 161,
+                    "text": "তুমি তার প্রতি অমনোযোগী হলে।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 5,
+        "total_records": 42
+    }
+}

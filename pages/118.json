@@ -1,0 +1,221 @@
+{
+    "verses": [
+        {
+            "id": 727,
+            "verse_number": 58,
+            "verse_key": "5:58",
+            "hizb_number": 12,
+            "rub_el_hizb_number": 47,
+            "ruku_number": 94,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا نَادَيْتُمْ إِلَى ٱلصَّلَوٰةِ ٱتَّخَذُوهَا هُزُوًا وَلَعِبًا ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَّا يَعْقِلُونَ",
+            "page_number": 118,
+            "juz_number": 6,
+            "translations": [
+                {
+                    "id": 100614,
+                    "resource_id": 20,
+                    "text": "And when you call to prayer, they take it in ridicule and amusement. That is because they are a people who do not use reason."
+                },
+                {
+                    "id": 218453,
+                    "resource_id": 39,
+                    "text": "Dan apabila kamu menyeru (azan) untuk mengerjakan sembahyang, mereka menjadikan sembahyang itu sebagai ejek-ejekan dan permainan. Yang demikian itu ialah kerana mereka suatu kaum yang tidak berakal."
+                },
+                {
+                    "id": 1091704,
+                    "resource_id": 161,
+                    "text": "তোমরা যখন সলাতের জন্য আহবান জানাও তখন তারা সেটিকে তামাশা ও খেলার বস্তু হিসেবে গ্রহণ করে। এটা এজন্য যে, তারা হল নির্বোধ সম্প্রদায়।"
+                }
+            ]
+        },
+        {
+            "id": 728,
+            "verse_number": 59,
+            "verse_key": "5:59",
+            "hizb_number": 12,
+            "rub_el_hizb_number": 47,
+            "ruku_number": 94,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ هَلْ تَنقِمُونَ مِنَّآ إِلَّآ أَنْ ءَامَنَّا بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْنَا وَمَآ أُنزِلَ مِن قَبْلُ وَأَنَّ أَكْثَرَكُمْ فَـٰسِقُونَ",
+            "page_number": 118,
+            "juz_number": 6,
+            "translations": [
+                {
+                    "id": 100616,
+                    "resource_id": 20,
+                    "text": "Say, \"O People of the Scripture, do you resent us except [for the fact] that we have believed in Allāh and what was revealed to us and what was revealed before and because most of you are defiantly disobedient?\""
+                },
+                {
+                    "id": 218455,
+                    "resource_id": 39,
+                    "text": "Katakanlah (wahai Muhammad): \"Wahai Ahli Kitab! Kamu tidak mencela dan menyalahkan kami melainkan kerana kami beriman kepada Allah dan beriman kepada apa yang diturunkan kepada kami, serta beriman kepada apa yang diturunkan sebelum itu, dan kerana kebanyakan kamu sesungguhnya adalah orang orang yang fasik\"."
+                },
+                {
+                    "id": 1091705,
+                    "resource_id": 161,
+                    "text": "বল, ‘ওহে কিতাবধারী সম্প্রদায়! তোমরা এ ছাড়া অন্য কারণে আমাদের প্রতি রাগান্বিত নও যে, আমরা আল্লাহর প্রতি এবং আমাদের প্রতি আর আমাদের পূর্বে যা নাযিল হয়েছিল তার প্রতি ঈমান এনেছি, তোমাদের অধিকাংশই তো হচ্ছে ফাসিক।’"
+                }
+            ]
+        },
+        {
+            "id": 729,
+            "verse_number": 60,
+            "verse_key": "5:60",
+            "hizb_number": 12,
+            "rub_el_hizb_number": 47,
+            "ruku_number": 94,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "قُلْ هَلْ أُنَبِّئُكُم بِشَرٍّ مِّن ذَٰلِكَ مَثُوبَةً عِندَ ٱللَّهِ ۚ مَن لَّعَنَهُ ٱللَّهُ وَغَضِبَ عَلَيْهِ وَجَعَلَ مِنْهُمُ ٱلْقِرَدَةَ وَٱلْخَنَازِيرَ وَعَبَدَ ٱلطَّـٰغُوتَ ۚ أُو۟لَـٰٓئِكَ شَرٌّ مَّكَانًا وَأَضَلُّ عَن سَوَآءِ ٱلسَّبِيلِ",
+            "page_number": 118,
+            "juz_number": 6,
+            "translations": [
+                {
+                    "id": 100619,
+                    "resource_id": 20,
+                    "text": "Say, \"Shall I inform you of [what is] worse than that<sup foot_note=196197>1</sup> as penalty from Allāh? [It is that of] those whom Allāh has cursed and with whom He became angry and made of them apes and pigs and slaves of ṭāghūt.<sup foot_note=196196>2</sup> Those are worse in position and further astray from the sound way.\""
+                },
+                {
+                    "id": 218459,
+                    "resource_id": 39,
+                    "text": "Katakanlah: \"Mahukah, aku khabarkan kepada kamu tentang yang lebih buruk balasannya di sisi Allah daripada yang demikian itu? Ialah orang-orang yang dilaknat oleh Allah dan dimurkaiNya, dan orang-orang yang dijadikan di antara mereka sebagai kera dan babi, dan penyembah Taghut. Mereka inilah yang lebih buruk kedudukannya dan yang lebih sesat dari jalan yang betul\"."
+                },
+                {
+                    "id": 1091706,
+                    "resource_id": 161,
+                    "text": "বল, আমি তোমাদেরকে কি এর চেয়ে খারাপ কিছুর সংবাদ দেব যা আল্লাহর নিকট প্রতিদান হিসেবে আছে? (আর তা হল) যাকে আল্লাহ লা‘নাত করেছেন, যার উপর তিনি ক্রোধান্বিত হয়েছেন, যাদের কতককে তিনি বানর ও শুকরে পরিণত করেছেন আর যারা তাগুতের ‘ইবাদাত করেছে তারাই সবচেয়ে নিকৃষ্ট মানের লোক এবং সরল সত্য পথ হতে সবচেয়ে বিচ্যুত।"
+                }
+            ]
+        },
+        {
+            "id": 730,
+            "verse_number": 61,
+            "verse_key": "5:61",
+            "hizb_number": 12,
+            "rub_el_hizb_number": 47,
+            "ruku_number": 94,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا جَآءُوكُمْ قَالُوٓا۟ ءَامَنَّا وَقَد دَّخَلُوا۟ بِٱلْكُفْرِ وَهُمْ قَدْ خَرَجُوا۟ بِهِۦ ۚ وَٱللَّهُ أَعْلَمُ بِمَا كَانُوا۟ يَكْتُمُونَ",
+            "page_number": 118,
+            "juz_number": 6,
+            "translations": [
+                {
+                    "id": 100620,
+                    "resource_id": 20,
+                    "text": "And when they come to you, they say, \"We believe.\" But they have entered with disbelief [in their hearts], and they have certainly left with it. And Allāh is most knowing of what they were concealing."
+                },
+                {
+                    "id": 218460,
+                    "resource_id": 39,
+                    "text": "Dan apabila mereka (orang-orang Yahudi atau munafik itu) datang kepada kamu, mereka berkata: \"Kami telah beriman\". Padahal sesungguhnya mereka itu masuk menemui kamu dengan kekufurannya, dan sesungguhnya mereka keluar (dari sisi kamu) dengan kekufurannya juga; dan (hendaklah mereka ingat), Allah lebih mengetahui akan apa yang mereka sembunyikan."
+                },
+                {
+                    "id": 1091707,
+                    "resource_id": 161,
+                    "text": "যখন তারা তোমাদের কাছে আসে তখন বলে ‘‘আমরা ঈমান এনেছি’’। বাস্তবে তারা কুফরী নিয়েই প্রবেশ করে, কুফরী নিয়েই বেরিয়ে যায়, তারা যা লুকিয়ে রাখে আল্লাহ সে সম্পর্কে পূর্ণরূপে অবগত।"
+                }
+            ]
+        },
+        {
+            "id": 731,
+            "verse_number": 62,
+            "verse_key": "5:62",
+            "hizb_number": 12,
+            "rub_el_hizb_number": 47,
+            "ruku_number": 94,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَتَرَىٰ كَثِيرًا مِّنْهُمْ يُسَـٰرِعُونَ فِى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَأَكْلِهِمُ ٱلسُّحْتَ ۚ لَبِئْسَ مَا كَانُوا۟ يَعْمَلُونَ",
+            "page_number": 118,
+            "juz_number": 6,
+            "translations": [
+                {
+                    "id": 100627,
+                    "resource_id": 20,
+                    "text": "And you see many of them hastening into sin and aggression and the devouring of [what is] unlawful. How wretched is what they have been doing."
+                },
+                {
+                    "id": 218471,
+                    "resource_id": 39,
+                    "text": "Dan engkau lihat kebanyakan dari mereka berlumba-lumba pada melakukan dosa dan pencerobohan serta memakan yang haram. Demi sesungguhnya amatlah buruk apa yang mereka telah lakukan."
+                },
+                {
+                    "id": 1091708,
+                    "resource_id": 161,
+                    "text": "তাদের অনেককেই তুমি পাপ, শত্রুতা আর হারাম ভক্ষণের প্রতিযোগিতায় ব্যস্ত দেখতে পাবে। তারা যা করে তা কতই না নিকৃষ্ট!"
+                }
+            ]
+        },
+        {
+            "id": 732,
+            "verse_number": 63,
+            "verse_key": "5:63",
+            "hizb_number": 12,
+            "rub_el_hizb_number": 47,
+            "ruku_number": 94,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "لَوْلَا يَنْهَىٰهُمُ ٱلرَّبَّـٰنِيُّونَ وَٱلْأَحْبَارُ عَن قَوْلِهِمُ ٱلْإِثْمَ وَأَكْلِهِمُ ٱلسُّحْتَ ۚ لَبِئْسَ مَا كَانُوا۟ يَصْنَعُونَ",
+            "page_number": 118,
+            "juz_number": 6,
+            "translations": [
+                {
+                    "id": 100639,
+                    "resource_id": 20,
+                    "text": "Why do the rabbis and religious scholars not forbid them from saying what is sinful and devouring what is unlawful? How wretched is what they have been practicing."
+                },
+                {
+                    "id": 218481,
+                    "resource_id": 39,
+                    "text": "Alangkah baiknya kalau ketua-ketua ugama dan pendita-pendita mereka melarang mereka dari mengeluarkan perkataan-perkataan yang dusta dan dari memakan yang haram? Sesungguhnya amatlah buruk apa yang mereka telah kerjakan."
+                },
+                {
+                    "id": 1091709,
+                    "resource_id": 161,
+                    "text": "দরবেশ ও পুরোহিতগণ তাদেরকে পাপের কথা বলা হতে এবং হারাম ভক্ষণ থেকে নিষেধ করে না কেন? তারা যা করে তা কতই না নিকৃষ্ট!"
+                }
+            ]
+        },
+        {
+            "id": 733,
+            "verse_number": 64,
+            "verse_key": "5:64",
+            "hizb_number": 12,
+            "rub_el_hizb_number": 47,
+            "ruku_number": 94,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَقَالَتِ ٱلْيَهُودُ يَدُ ٱللَّهِ مَغْلُولَةٌ ۚ غُلَّتْ أَيْدِيهِمْ وَلُعِنُوا۟ بِمَا قَالُوا۟ ۘ بَلْ يَدَاهُ مَبْسُوطَتَانِ يُنفِقُ كَيْفَ يَشَآءُ ۚ وَلَيَزِيدَنَّ كَثِيرًا مِّنْهُم مَّآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ طُغْيَـٰنًا وَكُفْرًا ۚ وَأَلْقَيْنَا بَيْنَهُمُ ٱلْعَدَٰوَةَ وَٱلْبَغْضَآءَ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ ۚ كُلَّمَآ أَوْقَدُوا۟ نَارًا لِّلْحَرْبِ أَطْفَأَهَا ٱللَّهُ ۚ وَيَسْعَوْنَ فِى ٱلْأَرْضِ فَسَادًا ۚ وَٱللَّهُ لَا يُحِبُّ ٱلْمُفْسِدِينَ",
+            "page_number": 118,
+            "juz_number": 6,
+            "translations": [
+                {
+                    "id": 100651,
+                    "resource_id": 20,
+                    "text": "And the Jews say, \"The hand of Allāh is chained.\"<sup foot_note=196198>1</sup> Chained are their hands, and cursed are they for what they say. Rather, both His hands are extended; He spends however He wills. And that which has been revealed to you from your Lord will surely increase many of them in transgression and disbelief. And We have cast among them animosity and hatred until the Day of Resurrection. Every time they kindled the fire of war [against you], Allāh extinguished it. And they strive throughout the land [causing] corruption, and Allāh does not like corrupters."
+                },
+                {
+                    "id": 218492,
+                    "resource_id": 39,
+                    "text": "Dan orang-orang Yahudi itu berkata: \"Tangan Allah terbelenggu (bakhil - kikir)\", tangan merekalah yang terbelenggu dan mereka pula dilaknat dengan sebab apa yang mereka telah katakan itu, bahkan kedua tangan Allah sentiasa terbuka (nikmat dan kurniaNya luas melimpah-limpah). Ia belanjakan (limpahkan) sebagaimana yang Ia kehendaki; dan demi sesungguhnya, apa yang telah diturunkan kepadamu dari tuhanmu itu akan menjadikan kebanyakan dari mereka bertambah derhaka dan kufur; dan Kami tanamkan perasaan permusuhan dan kebencian di antara mereka hingga hari kiamat. Tiap-tiap kali mereka menyalakan api peperangan, Allah memadamkannya; dan mereka pula terus-menerus melakukan kerosakan di muka bumi, sedang Allah tidak suka kepada orang-orang yang melakukan kerosakan."
+                },
+                {
+                    "id": 1091710,
+                    "resource_id": 161,
+                    "text": "ইয়াহূদীরা বলে, আল্লাহর হাত আবদ্ধ, তাদের হাতই আবদ্ধ, তাদের (প্রলাপ) উক্তির কারণে তারা হয়েছে অভিশপ্ত, বরং আল্লাহর উভয় হাত প্রসারিত, যেভাবে ইচ্ছে করেন দান করেন, তোমার প্রতিপালকের নিকট হতে তোমার নিকট যা অবতীর্ণ হয়েছে তা তাদের অনেকের সীমালঙ্ঘন ও কুফরী অবশ্য অবশ্যই বাড়িয়ে দিবে, আর ক্বিয়ামাত অবধি আমি তাদের পরস্পরের মধ্যে শত্রুতা ও বিদ্বেষ সৃষ্টি করে দিয়েছি। যখনই তারা যুদ্ধের আগুন প্রজ্জ্বলিত করে, আল্লাহ তা নিভিয়ে দেন, আর তারা দুনিয়ায় ফাসাদ ছড়িয়ে বেড়ায়, আল্লাহ ফাসাদ সৃষ্টিকারীদের পছন্দ করেন না।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 7,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 7
+    }
+}

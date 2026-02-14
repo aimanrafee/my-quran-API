@@ -1,0 +1,281 @@
+{
+    "verses": [
+        {
+            "id": 3451,
+            "verse_number": 42,
+            "verse_key": "30:42",
+            "hizb_number": 41,
+            "rub_el_hizb_number": 163,
+            "ruku_number": 354,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "قُلْ سِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلَّذِينَ مِن قَبْلُ ۚ كَانَ أَكْثَرُهُم مُّشْرِكِينَ",
+            "page_number": 409,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98638,
+                    "resource_id": 20,
+                    "text": "Say, [O Muḥammad], \"Travel through the land and observe how was the end of those before. Most of them were associators [of others with Allāh]."
+                },
+                {
+                    "id": 216489,
+                    "resource_id": 39,
+                    "text": "Katakanlah: \"Mengembaralah kamu di muka bumi kemudian lihatlah bagaimana kesudahan orang-orang yang telah lalu (yang telah dibinasakan); kebanyakan mereka adalah orang-orang musyrik\"."
+                },
+                {
+                    "id": 1094428,
+                    "resource_id": 161,
+                    "text": "বল, পৃথিবীতে পরিভ্রমণ কর, অতঃপর দেখ আগে যারা ছিল তাদের পরিণাম কী হয়েছে। তাদের অধিকাংশই ছিল মুশরিক।"
+                }
+            ]
+        },
+        {
+            "id": 3452,
+            "verse_number": 43,
+            "verse_key": "30:43",
+            "hizb_number": 41,
+            "rub_el_hizb_number": 163,
+            "ruku_number": 354,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "فَأَقِمْ وَجْهَكَ لِلدِّينِ ٱلْقَيِّمِ مِن قَبْلِ أَن يَأْتِىَ يَوْمٌ لَّا مَرَدَّ لَهُۥ مِنَ ٱللَّهِ ۖ يَوْمَئِذٍ يَصَّدَّعُونَ",
+            "page_number": 409,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98639,
+                    "resource_id": 20,
+                    "text": "So direct your face [i.e., self] toward the correct religion before a Day comes from Allāh of which there is no repelling. That Day, they will be divided.<sup foot_note=197052>1</sup>"
+                },
+                {
+                    "id": 216491,
+                    "resource_id": 39,
+                    "text": "(Jika demikian keadaannya) maka hadapkanlah dirimu (wahai Muhammad) ke arah ugama yang betul, sebelum datangnya dari Allah: hari yang tak dapat ditolak; pada hari itu manusia akan berpecah (kepada dua golongan)."
+                },
+                {
+                    "id": 1094429,
+                    "resource_id": 161,
+                    "text": "কাজেই তুমি নিজেকে সত্য দ্বীনে প্রতিষ্ঠিত রাখ, আল্লাহর পক্ষ থেকে এমন দিন (ক্বিয়ামত দিবস) আসার পূর্বে যা কক্ষনো প্রত্যাহার করা হবে না। সেদিন মানুষ বিভক্ত হয়ে যাবে (দু’ভাগে)।"
+                }
+            ]
+        },
+        {
+            "id": 3453,
+            "verse_number": 44,
+            "verse_key": "30:44",
+            "hizb_number": 41,
+            "rub_el_hizb_number": 163,
+            "ruku_number": 354,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "مَن كَفَرَ فَعَلَيْهِ كُفْرُهُۥ ۖ وَمَنْ عَمِلَ صَـٰلِحًا فَلِأَنفُسِهِمْ يَمْهَدُونَ",
+            "page_number": 409,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98640,
+                    "resource_id": 20,
+                    "text": "Whoever disbelieves - upon him is [the consequence of] his disbelief. And whoever does righteousness - they are for themselves preparing,"
+                },
+                {
+                    "id": 216490,
+                    "resource_id": 39,
+                    "text": "Sesiapa yang kufur ingkar maka dia lah sahaja yang menanggung bencana kekufurannya itu, dan sesiapa yang beramal soleh (yang membuktikan imannya), maka merekalah orang-orang yang membuat persiapan untuk kesenangan diri mereka masing-masing;"
+                },
+                {
+                    "id": 1094430,
+                    "resource_id": 161,
+                    "text": "যে কুফুরী করে সেই তার কুফুরীর শাস্তি ভোগ করবে, আর যারা সৎকর্ম করে তারা নিজেদেরই সুখ সরঞ্জাম সংগ্রহ করছে।"
+                }
+            ]
+        },
+        {
+            "id": 3454,
+            "verse_number": 45,
+            "verse_key": "30:45",
+            "hizb_number": 41,
+            "rub_el_hizb_number": 163,
+            "ruku_number": 354,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "لِيَجْزِىَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ مِن فَضْلِهِۦٓ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلْكَـٰفِرِينَ",
+            "page_number": 409,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98641,
+                    "resource_id": 20,
+                    "text": "That He may reward those who have believed and done righteous deeds out of His bounty. Indeed, He does not like the disbelievers."
+                },
+                {
+                    "id": 216493,
+                    "resource_id": 39,
+                    "text": "Kerana Allah akan membalas orang-orang yang beriman dan beramal soleh dari limpah kurniaNya. Sesungguhnya Ia tidak suka kepada orang-orang yang kufur ingkar."
+                },
+                {
+                    "id": 1094431,
+                    "resource_id": 161,
+                    "text": "যাতে তিনি স্বীয় অনুগ্রহভান্ডার থেকে তাদেরকে পুরস্কৃত করতে পারেন যারা ঈমান আনে ও সৎ কাজ করে। তিনি কাফিরদেরকে ভালবাসেন না।"
+                }
+            ]
+        },
+        {
+            "id": 3455,
+            "verse_number": 46,
+            "verse_key": "30:46",
+            "hizb_number": 41,
+            "rub_el_hizb_number": 163,
+            "ruku_number": 354,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَمِنْ ءَايَـٰتِهِۦٓ أَن يُرْسِلَ ٱلرِّيَاحَ مُبَشِّرَٰتٍ وَلِيُذِيقَكُم مِّن رَّحْمَتِهِۦ وَلِتَجْرِىَ ٱلْفُلْكُ بِأَمْرِهِۦ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+            "page_number": 409,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98642,
+                    "resource_id": 20,
+                    "text": "And of His signs is that He sends the winds as bringers of good tidings and to let you taste His mercy [i.e., rain] and so the ships may sail at His command and so you may seek of His bounty, and perhaps you will be grateful."
+                },
+                {
+                    "id": 216492,
+                    "resource_id": 39,
+                    "text": "Dan di antara tanda-tanda yang membuktikan kekuasaanNya, bahawa Ia menghantarkan angin sebagai pembawa berita yang mengembirakan; dan untuk merasakan kamu sedikit dari rahmatNya, dan supaya kapal-kapal belayar laju dengan perintahNya, dan juga supaya kamu dapat mencari rezeki dari limpah kurniaNya; dan seterusnya supaya kamu bersyukur."
+                },
+                {
+                    "id": 1094432,
+                    "resource_id": 161,
+                    "text": "তাঁর নিদর্শনের মধ্যে হল এই যে, তিনি বায়ু প্রেরণ করেন সুসংবাদ দানের জন্য ও তোমাদেরকে তাঁর অনুগ্রহ আস্বাদন করানোর জন্য। তাঁর নির্দেশে নৌযান চলে যাতে তোমরা তাঁর অনুগ্রহ অনুসন্ধান করতে পার আর তাঁর প্রতি কৃতজ্ঞতা প্রকাশ করতে পার।"
+                }
+            ]
+        },
+        {
+            "id": 3456,
+            "verse_number": 47,
+            "verse_key": "30:47",
+            "hizb_number": 41,
+            "rub_el_hizb_number": 163,
+            "ruku_number": 354,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَقَدْ أَرْسَلْنَا مِن قَبْلِكَ رُسُلًا إِلَىٰ قَوْمِهِمْ فَجَآءُوهُم بِٱلْبَيِّنَـٰتِ فَٱنتَقَمْنَا مِنَ ٱلَّذِينَ أَجْرَمُوا۟ ۖ وَكَانَ حَقًّا عَلَيْنَا نَصْرُ ٱلْمُؤْمِنِينَ",
+            "page_number": 409,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98643,
+                    "resource_id": 20,
+                    "text": "And We have already sent messengers before you to their peoples, and they came to them with clear evidences; then We took retribution from those who committed crimes, and incumbent upon Us was support<sup foot_note=197053>1</sup> of the believers."
+                },
+                {
+                    "id": 216494,
+                    "resource_id": 39,
+                    "text": "Dan demi sesungguhnya, Kami telah mengutuskan sebelummu (wahai Muhammad) Rasul-rasul kepada kaum masing-masing, lalu mereka membawa kepada kaumnya keterangan-keterangan yang jelas nyata; kemudian Kami menyeksa orang-orang yang berlaku salah (mengingkarinya); dan sememangnya adalah menjadi tanggungjawab Kami menolong orang-orang yang beriman."
+                },
+                {
+                    "id": 1094433,
+                    "resource_id": 161,
+                    "text": "তোমার পূর্বে আমি রসূলগণকে পাঠিয়েছিলাম তাদের নিজ নিজ জাতির নিকট। তারা তাদের কাছে সুস্পষ্ট নিদর্শন নিয়ে এসেছিল। অতঃপর যারা অন্যায় করেছিল আমি তাদেরকে শাস্তি দিয়েছিলাম। মু’মিনদের সাহায্য করা আমার দায়িত্ব।"
+                }
+            ]
+        },
+        {
+            "id": 3457,
+            "verse_number": 48,
+            "verse_key": "30:48",
+            "hizb_number": 41,
+            "rub_el_hizb_number": 163,
+            "ruku_number": 354,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "ٱللَّهُ ٱلَّذِى يُرْسِلُ ٱلرِّيَـٰحَ فَتُثِيرُ سَحَابًا فَيَبْسُطُهُۥ فِى ٱلسَّمَآءِ كَيْفَ يَشَآءُ وَيَجْعَلُهُۥ كِسَفًا فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَـٰلِهِۦ ۖ فَإِذَآ أَصَابَ بِهِۦ مَن يَشَآءُ مِنْ عِبَادِهِۦٓ إِذَا هُمْ يَسْتَبْشِرُونَ",
+            "page_number": 409,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98644,
+                    "resource_id": 20,
+                    "text": "It is Allāh who sends the winds, and they stir the clouds and spread them in the sky however He wills, and He makes them fragments so you see the rain emerge from within them. And when He causes it to fall upon whom He wills of His servants, immediately they rejoice"
+                },
+                {
+                    "id": 216495,
+                    "resource_id": 39,
+                    "text": "Allah jualah yang menghantarkan angin, lalu angin itu menggerakkan awan; kemudian Allah menyebarkan awan itu di langit sebagaimana yang dikehendakiNya, dan menjadikannya berkelompok-kelompok; lalu engkau melihat hujan keluar dari celah-celahnya. Maka apabila Allah menurunkan hujan itu mengenai sesiapa yang dikehendakiNya dari hamba-hambanya, mereka serta merta bergembira;"
+                },
+                {
+                    "id": 1094434,
+                    "resource_id": 161,
+                    "text": "আল্লাহ যিনি বায়ু প্রেরণ করেন, অতঃপর তা মেঘমালার সঞ্চার করে, অতঃপর তিনি তা আকাশে ছড়িয়ে দেন যেভাবে ইচ্ছে করেন, অতঃপর তাকে খন্ড বিখন্ড করে দেন, তারপর তুমি দেখতে পাও তার মাঝ থেকে বৃষ্টি-ফোঁটা নির্গত হচ্ছে, অতঃপর তিনি তাঁর বান্দাহদের মধ্যে যাদের নিকট তিনি ইচ্ছে করেন তাদের কাছে যখন তা পৌঁছে দেন তখন তারা হয় আনন্দিত।"
+                }
+            ]
+        },
+        {
+            "id": 3458,
+            "verse_number": 49,
+            "verse_key": "30:49",
+            "hizb_number": 41,
+            "rub_el_hizb_number": 163,
+            "ruku_number": 354,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِن كَانُوا۟ مِن قَبْلِ أَن يُنَزَّلَ عَلَيْهِم مِّن قَبْلِهِۦ لَمُبْلِسِينَ",
+            "page_number": 409,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98645,
+                    "resource_id": 20,
+                    "text": "Although they were, before it was sent down upon them - before that, in despair."
+                },
+                {
+                    "id": 214773,
+                    "resource_id": 39,
+                    "text": "Dan sesungguhnya mereka dahulu, sebelum diturunkan hujan kepada mereka, adalah orang-orang yang telah berputus asa."
+                },
+                {
+                    "id": 1094435,
+                    "resource_id": 161,
+                    "text": "যদিও ইতোপূর্বে তাদের প্রতি বৃষ্টি বর্ষণের পূর্বে তারা ছিল চরমভাবে হতাশ।"
+                }
+            ]
+        },
+        {
+            "id": 3459,
+            "verse_number": 50,
+            "verse_key": "30:50",
+            "hizb_number": 41,
+            "rub_el_hizb_number": 163,
+            "ruku_number": 354,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "فَٱنظُرْ إِلَىٰٓ ءَاثَـٰرِ رَحْمَتِ ٱللَّهِ كَيْفَ يُحْىِ ٱلْأَرْضَ بَعْدَ مَوْتِهَآ ۚ إِنَّ ذَٰلِكَ لَمُحْىِ ٱلْمَوْتَىٰ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+            "page_number": 409,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98647,
+                    "resource_id": 20,
+                    "text": "So observe the effects of the mercy of Allāh - how He gives life to the earth after its lifelessness. Indeed, that [same one] will give life to the dead, and He is over all things competent."
+                },
+                {
+                    "id": 216497,
+                    "resource_id": 39,
+                    "text": "Maka lihatlah olehmu kepada kesan-kesan rahmat Allah, bagaimana Ia menghidupkan bumi sesudah matinya (dengan tanaman-tanaman yang menghijau subur). Sesungguhnya Allah yang demikian kekuasaanNya, sudah tentu berkuasa menghidupkan orang-orang yang telah mati. Dan (ingatlah) Ia maha Kuasa atas tiap-tiap sesuatu."
+                },
+                {
+                    "id": 1094436,
+                    "resource_id": 161,
+                    "text": "অতএব আল্লাহর রহমাতের ফল দেখে নাও, কীভাবে তিনি ভূমিকে তার মৃত্যুর পর জীবিত করেন। এভাবেই নিশ্চয় তিনি মৃতকে জীবিত করবেন, কেননা সব কিছুর উপর তিনি সর্বশক্তিমান।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 9,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 9
+    }
+}

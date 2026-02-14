@@ -1,0 +1,401 @@
+{
+    "verses": [
+        {
+            "id": 3733,
+            "verse_number": 28,
+            "verse_key": "36:28",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 177,
+            "ruku_number": 384,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "۞ وَمَآ أَنزَلْنَا عَلَىٰ قَوْمِهِۦ مِنۢ بَعْدِهِۦ مِن جُندٍ مِّنَ ٱلسَّمَآءِ وَمَا كُنَّا مُنزِلِينَ",
+            "page_number": 442,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99087,
+                    "resource_id": 20,
+                    "text": "And We did not send down upon his people after him any soldiers from the heaven, nor would We have done so."
+                },
+                {
+                    "id": 216937,
+                    "resource_id": 39,
+                    "text": "Dan Kami tidak menurunkan kepada kaumnya sesudah ia (mati) sebarang pasukan tentera dari langit (untuk membinasakan mereka), dan tidak perlu Kami menurunkannya."
+                },
+                {
+                    "id": 1094710,
+                    "resource_id": 161,
+                    "text": "আমি তার মৃত্যুর পর তার জাতির বিরুদ্ধে আসমান থেকে কোন সৈন্যবাহিনী পাঠাইনি, আর তা পাঠানোর আমার কোন দরকারও ছিল না।"
+                }
+            ]
+        },
+        {
+            "id": 3734,
+            "verse_number": 29,
+            "verse_key": "36:29",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 177,
+            "ruku_number": 384,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "إِن كَانَتْ إِلَّا صَيْحَةً وَٰحِدَةً فَإِذَا هُمْ خَـٰمِدُونَ",
+            "page_number": 442,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99088,
+                    "resource_id": 20,
+                    "text": "It was not but one shout,<sup foot_note=197158>1</sup> and immediately they were extinguished."
+                },
+                {
+                    "id": 216951,
+                    "resource_id": 39,
+                    "text": "(Kebinasaan mereka) hanyalah dilakukan dengan satu pekikan (yang dahsyat), maka dengan serta merta mereka semua sunyi-sepi tidak hidup lagi."
+                },
+                {
+                    "id": 1094711,
+                    "resource_id": 161,
+                    "text": "ওটা ছিল মাত্র একটা প্রচন্ড শব্দ, ফলে তারা সহসাই নিস্তব্ধ হয়ে গেল।"
+                }
+            ]
+        },
+        {
+            "id": 3735,
+            "verse_number": 30,
+            "verse_key": "36:30",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 177,
+            "ruku_number": 384,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "يَـٰحَسْرَةً عَلَى ٱلْعِبَادِ ۚ مَا يَأْتِيهِم مِّن رَّسُولٍ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+            "page_number": 442,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99091,
+                    "resource_id": 20,
+                    "text": "How regretful for the servants. There did not come to them any messenger except that they used to ridicule him."
+                },
+                {
+                    "id": 216940,
+                    "resource_id": 39,
+                    "text": "Sungguh besar perasaan sesal dan kecewa yang menimpa hamba-hamba (yang mengingkari kebenaran)! Tidak datang kepada mereka seorang Rasul melainkan mereka mengejek-ejek dan memperolok-olokkannya."
+                },
+                {
+                    "id": 1094712,
+                    "resource_id": 161,
+                    "text": "বান্দাহদের জন্য পরিতাপ! তাদের কাছে এমন কোন রসূলই আসেনি যাকে তারা ঠাট্টা-বিদ্রূপ করেনি।"
+                }
+            ]
+        },
+        {
+            "id": 3736,
+            "verse_number": 31,
+            "verse_key": "36:31",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 177,
+            "ruku_number": 384,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "أَلَمْ يَرَوْا۟ كَمْ أَهْلَكْنَا قَبْلَهُم مِّنَ ٱلْقُرُونِ أَنَّهُمْ إِلَيْهِمْ لَا يَرْجِعُونَ",
+            "page_number": 442,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99092,
+                    "resource_id": 20,
+                    "text": "Have they not considered how many generations We destroyed before them - that they to them<sup foot_note=197159>1</sup> will not return?"
+                },
+                {
+                    "id": 216941,
+                    "resource_id": 39,
+                    "text": "Tidakkah mereka mengetahui berapa banyak umat-umat yang telah Kami binasakan sebelum mereka? Umat-umat yang telah binasa itu tidak kembali lagi kepada mereka (bahkan kembali kepada Kami, untuk menerima balasan)."
+                },
+                {
+                    "id": 1094713,
+                    "resource_id": 161,
+                    "text": "তারা কি দেখে না যে, তাদের পূর্বে আমি কত মানবগোষ্ঠীকে ধ্বংস করে দিয়েছি? তারা তাদের কাছে ফিরে আসবে না।"
+                }
+            ]
+        },
+        {
+            "id": 3737,
+            "verse_number": 32,
+            "verse_key": "36:32",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 177,
+            "ruku_number": 384,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِن كُلٌّ لَّمَّا جَمِيعٌ لَّدَيْنَا مُحْضَرُونَ",
+            "page_number": 442,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99093,
+                    "resource_id": 20,
+                    "text": "And indeed, all of them will yet be brought present before Us."
+                },
+                {
+                    "id": 216942,
+                    "resource_id": 39,
+                    "text": "Dan tidak ada satu makhluk pun melainkan dihimpunkan ke tempat perbicaraan Kami, semuanya dibawa hadir (untuk menerima balasan)."
+                },
+                {
+                    "id": 1094714,
+                    "resource_id": 161,
+                    "text": "তাদের সব্বাইকে একত্রে আমার কাছে হাজির করা হবে।"
+                }
+            ]
+        },
+        {
+            "id": 3738,
+            "verse_number": 33,
+            "verse_key": "36:33",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 177,
+            "ruku_number": 385,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَءَايَةٌ لَّهُمُ ٱلْأَرْضُ ٱلْمَيْتَةُ أَحْيَيْنَـٰهَا وَأَخْرَجْنَا مِنْهَا حَبًّا فَمِنْهُ يَأْكُلُونَ",
+            "page_number": 442,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99094,
+                    "resource_id": 20,
+                    "text": "And a sign for them is the dead earth. We have brought it to life and brought forth from it grain, and from it they eat."
+                },
+                {
+                    "id": 216943,
+                    "resource_id": 39,
+                    "text": "Dan dalil yang terang untuk mereka (memahami kekuasaan dan kemurahan kami), ialah bumi yang mati; kami hidupkan dia serta kami keluarkan daripadanya biji-bijian, maka daripada biji-bijian itu mereka makan."
+                },
+                {
+                    "id": 1094715,
+                    "resource_id": 161,
+                    "text": "মৃত যমীন তাদের জন্য একটা নিদর্শন। তাকে আমি জীবিত করি আর তা থেকে আমি উৎপন্ন করি শস্য যা থেকে তারা খায়।"
+                }
+            ]
+        },
+        {
+            "id": 3739,
+            "verse_number": 34,
+            "verse_key": "36:34",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 177,
+            "ruku_number": 385,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَجَعَلْنَا فِيهَا جَنَّـٰتٍ مِّن نَّخِيلٍ وَأَعْنَـٰبٍ وَفَجَّرْنَا فِيهَا مِنَ ٱلْعُيُونِ",
+            "page_number": 442,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99095,
+                    "resource_id": 20,
+                    "text": "And We placed therein gardens of palm trees and grapevines and caused to burst forth therefrom some springs -"
+                },
+                {
+                    "id": 216944,
+                    "resource_id": 39,
+                    "text": "Dan kami jadikan di bumi itu kebun-kebun kurma dan anggur, dan kami pancarkan padanya beberapa matair,"
+                },
+                {
+                    "id": 1094716,
+                    "resource_id": 161,
+                    "text": "আর আমি তাতে খেজুর ও আঙ্গুরের বাগান তৈরি করি, আর তাতে প্রবাহিত করি ঝর্ণাধারা।"
+                }
+            ]
+        },
+        {
+            "id": 3740,
+            "verse_number": 35,
+            "verse_key": "36:35",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 177,
+            "ruku_number": 385,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "لِيَأْكُلُوا۟ مِن ثَمَرِهِۦ وَمَا عَمِلَتْهُ أَيْدِيهِمْ ۖ أَفَلَا يَشْكُرُونَ",
+            "page_number": 442,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99096,
+                    "resource_id": 20,
+                    "text": "That they may eat of His fruit.<sup foot_note=197161>1</sup> And their hands have not produced it,<sup foot_note=197160>2</sup> so will they not be grateful?"
+                },
+                {
+                    "id": 216945,
+                    "resource_id": 39,
+                    "text": "Supaya mereka makan dari buah-buahannya dan dari apa yang dikerjakan oleh tangan mereka; maka patutkah mereka tidak bersyukur?"
+                },
+                {
+                    "id": 1094717,
+                    "resource_id": 161,
+                    "text": "যাতে তারা তার ফল খেতে পারে- যা তারা তাদের হাত দিয়ে বানায়নি। তাহলে কেন তারা কৃতজ্ঞতা প্রকাশ করে না?"
+                }
+            ]
+        },
+        {
+            "id": 3741,
+            "verse_number": 36,
+            "verse_key": "36:36",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 177,
+            "ruku_number": 385,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "سُبْحَـٰنَ ٱلَّذِى خَلَقَ ٱلْأَزْوَٰجَ كُلَّهَا مِمَّا تُنۢبِتُ ٱلْأَرْضُ وَمِنْ أَنفُسِهِمْ وَمِمَّا لَا يَعْلَمُونَ",
+            "page_number": 442,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99097,
+                    "resource_id": 20,
+                    "text": "Exalted is He who created all pairs<sup foot_note=197162>1</sup> - from what the earth grows and from themselves and from that which they do not know."
+                },
+                {
+                    "id": 216946,
+                    "resource_id": 39,
+                    "text": "Maha Suci Tuhan yang telah menciptakan makhluk-makhluk semuanya berpasangan; sama ada dari yang ditumbuhkan oleh bumi, atau dari diri mereka, ataupun dari apa yang mereka tidak mengetahuinya."
+                },
+                {
+                    "id": 1094718,
+                    "resource_id": 161,
+                    "text": "পূত পবিত্র সেই সত্তা যিনি জোড়া সৃষ্টি করেছেন প্রত্যেকটির যা উৎপন্ন করে যমীন, আর তাদের নিজেদের ভিতরেও আর সে সবেও যা তারা জানে না।"
+                }
+            ]
+        },
+        {
+            "id": 3742,
+            "verse_number": 37,
+            "verse_key": "36:37",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 177,
+            "ruku_number": 385,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَءَايَةٌ لَّهُمُ ٱلَّيْلُ نَسْلَخُ مِنْهُ ٱلنَّهَارَ فَإِذَا هُم مُّظْلِمُونَ",
+            "page_number": 442,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99098,
+                    "resource_id": 20,
+                    "text": "And a sign for them is the night. We remove<sup foot_note=197163>1</sup> from it the [light of] day, so they are [left] in darkness."
+                },
+                {
+                    "id": 216947,
+                    "resource_id": 39,
+                    "text": "Dan lagi dalil yang terang untuk mereka (berfikir) ialah malam; Kami hilangkan siang daripadanya, maka dengan serta-merta mereka berada dalam gelap-gelita;"
+                },
+                {
+                    "id": 1094719,
+                    "resource_id": 161,
+                    "text": "তাদের জন্য একটি নিদর্শন হচ্ছে রাত, তাত্থেকে আমি দিনকে সরিয়ে নেই, ফলে তখনই তারা অন্ধকারে ডুবে যায়।"
+                }
+            ]
+        },
+        {
+            "id": 3743,
+            "verse_number": 38,
+            "verse_key": "36:38",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 177,
+            "ruku_number": 385,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلشَّمْسُ تَجْرِى لِمُسْتَقَرٍّ لَّهَا ۚ ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ",
+            "page_number": 442,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99099,
+                    "resource_id": 20,
+                    "text": "And the sun runs [on course] toward its stopping point. That is the determination of the Exalted in Might, the Knowing."
+                },
+                {
+                    "id": 216948,
+                    "resource_id": 39,
+                    "text": "Dan (sebahagian dari dalil yang tersebut ialah) matahari; ia kelihatan beredar ke tempat yang ditetapkan baginya; itu adalah takdir Tuhan yang Maha Kuasa, lagi Maha Mengetahui;"
+                },
+                {
+                    "id": 1094720,
+                    "resource_id": 161,
+                    "text": "আর সূর্য তার জন্যে নির্দিষ্ট ক’রে দেয়া জায়গায় গতিশীল, এটা মহা পরাক্রমশালী সর্বজ্ঞের সুনিরূপিত নির্ধারণ।"
+                }
+            ]
+        },
+        {
+            "id": 3744,
+            "verse_number": 39,
+            "verse_key": "36:39",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 177,
+            "ruku_number": 385,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلْقَمَرَ قَدَّرْنَـٰهُ مَنَازِلَ حَتَّىٰ عَادَ كَٱلْعُرْجُونِ ٱلْقَدِيمِ",
+            "page_number": 442,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99100,
+                    "resource_id": 20,
+                    "text": "And the moon - We have determined for it phases, until it returns [appearing] like the old date stalk."
+                },
+                {
+                    "id": 216949,
+                    "resource_id": 39,
+                    "text": "Dan bulan pula Kami takdirkan dia beredar melalui beberapa peringkat, sehingga di akhir peredarannya kelihatan kembalinya pula ke peringkat awalnya - (berbentuk melengkung) seperti tandan yang kering."
+                },
+                {
+                    "id": 1094721,
+                    "resource_id": 161,
+                    "text": "আর চাঁদ-তার জন্য আমি নির্দিষ্ট করেছি বিভিন্ন মান্যিল (যা সে অতিক্রম করে), এমনকি শেষ পর্যন্ত সেটি খেজুরের কাঁদির পুরানো শুকনো দন্ডের মত হয়ে ফিরে আসে।"
+                }
+            ]
+        },
+        {
+            "id": 3745,
+            "verse_number": 40,
+            "verse_key": "36:40",
+            "hizb_number": 45,
+            "rub_el_hizb_number": 177,
+            "ruku_number": 385,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "لَا ٱلشَّمْسُ يَنۢبَغِى لَهَآ أَن تُدْرِكَ ٱلْقَمَرَ وَلَا ٱلَّيْلُ سَابِقُ ٱلنَّهَارِ ۚ وَكُلٌّ فِى فَلَكٍ يَسْبَحُونَ",
+            "page_number": 442,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99103,
+                    "resource_id": 20,
+                    "text": "It is not allowable [i.e., possible] for the sun to reach the moon, nor does the night overtake the day, but each, in an orbit, is swimming."
+                },
+                {
+                    "id": 216953,
+                    "resource_id": 39,
+                    "text": "(Dengan ketentuan yang demikian), matahari tidak mudah baginya mengejar bulan, dan malam pula tidak dapat mendahului siang; kerana tiap-tiap satunya beredar terapung-apung di tempat edarannya masing-masing."
+                },
+                {
+                    "id": 1094722,
+                    "resource_id": 161,
+                    "text": "সূর্যের পক্ষে সম্ভব নয় চাঁদকে ধরে ফেলা, আর রাতের পক্ষে সম্ভব নয় দিনকে ছাড়িয়ে আগে বেড়ে যাওয়া, প্রত্যেকেই নিজ নিজ কক্ষ পথে সাঁতার কাটছে।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 13,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 13
+    }
+}

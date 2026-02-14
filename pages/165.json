@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 1075,
+            "verse_number": 121,
+            "verse_key": "7:121",
+            "hizb_number": 17,
+            "rub_el_hizb_number": 66,
+            "ruku_number": 135,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "قَالُوٓا۟ ءَامَنَّا بِرَبِّ ٱلْعَـٰلَمِينَ",
+            "page_number": 165,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 101301,
+                    "resource_id": 20,
+                    "text": "They said, \"We have believed in the Lord of the worlds,"
+                },
+                {
+                    "id": 219138,
+                    "resource_id": 39,
+                    "text": "Sambil berkata: \"Kami beriman kepada Tuhan sekalian alam."
+                },
+                {
+                    "id": 1092052,
+                    "resource_id": 161,
+                    "text": "তারা বলল, ‘আমরা বিশ্বজগতের প্রতিপালকের প্রতি ঈমান আনলাম।"
+                }
+            ]
+        },
+        {
+            "id": 1076,
+            "verse_number": 122,
+            "verse_key": "7:122",
+            "hizb_number": 17,
+            "rub_el_hizb_number": 66,
+            "ruku_number": 135,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "رَبِّ مُوسَىٰ وَهَـٰرُونَ",
+            "page_number": 165,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 101303,
+                    "resource_id": 20,
+                    "text": "The Lord of Moses and Aaron.\""
+                },
+                {
+                    "id": 219150,
+                    "resource_id": 39,
+                    "text": "\"(Iaitu) Tuhan bagi Nabi Musa dan Nabi Harun\"."
+                },
+                {
+                    "id": 1092053,
+                    "resource_id": 161,
+                    "text": "মূসা আর হারূনের প্রতিপালকের প্রতি।’"
+                }
+            ]
+        },
+        {
+            "id": 1077,
+            "verse_number": 123,
+            "verse_key": "7:123",
+            "hizb_number": 17,
+            "rub_el_hizb_number": 66,
+            "ruku_number": 135,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ فِرْعَوْنُ ءَامَنتُم بِهِۦ قَبْلَ أَنْ ءَاذَنَ لَكُمْ ۖ إِنَّ هَـٰذَا لَمَكْرٌ مَّكَرْتُمُوهُ فِى ٱلْمَدِينَةِ لِتُخْرِجُوا۟ مِنْهَآ أَهْلَهَا ۖ فَسَوْفَ تَعْلَمُونَ",
+            "page_number": 165,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 101305,
+                    "resource_id": 20,
+                    "text": "Said Pharaoh, \"You believed in him<sup foot_note=196318>1</sup> before I gave you permission. Indeed, this is a conspiracy which you conspired in the city to expel therefrom its people. But you are going to know."
+                },
+                {
+                    "id": 219152,
+                    "resource_id": 39,
+                    "text": "Firaun berkata: \"Patutkah kamu beriman kepadanya sebelum aku memberi izin kepada kamu? Sesungguhnya ini adalah perbuatan tipu daya yang kamu lakukan dalam bandar ini kerana kamu hendak mengeluarkan penduduknya dari padanya. Oleh itu, kamu akan mengetahui (akibatya)."
+                },
+                {
+                    "id": 1092054,
+                    "resource_id": 161,
+                    "text": "ফির‘আওন বলল, ‘আমি হুকুম দেয়ার আগেই তোমরা তার প্রতি ঈমান আনল? অবশ্যই এটা তোমাদের ষড়যন্ত্র যেটা নগরে বসে তোমরা পাকিয়েছ, এর বাসিন্দাদের বহিস্কৃত করার উদ্দেশে। এর পরিণাম শীঘ্রই টের পাবে।"
+                }
+            ]
+        },
+        {
+            "id": 1078,
+            "verse_number": 124,
+            "verse_key": "7:124",
+            "hizb_number": 17,
+            "rub_el_hizb_number": 66,
+            "ruku_number": 135,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "لَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَـٰفٍ ثُمَّ لَأُصَلِّبَنَّكُمْ أَجْمَعِينَ",
+            "page_number": 165,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 101307,
+                    "resource_id": 20,
+                    "text": "I will surely cut off your hands and your feet on opposite sides; then I will surely crucify you all.\""
+                },
+                {
+                    "id": 219155,
+                    "resource_id": 39,
+                    "text": "\"Demi sesungguhnya, aku akan memotong tangan dan kaki kamu dengan bersilang, kemudian aku akan memalang kamu semuanya\"."
+                },
+                {
+                    "id": 1092055,
+                    "resource_id": 161,
+                    "text": "তোমাদের হাত পা গুলোকে বিপরীত দিক থেকে অবশ্যই আমি কেটে দেব, তারপর তোমাদের সব্বাইকে শূলে চড়াব।"
+                }
+            ]
+        },
+        {
+            "id": 1079,
+            "verse_number": 125,
+            "verse_key": "7:125",
+            "hizb_number": 17,
+            "rub_el_hizb_number": 66,
+            "ruku_number": 135,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "قَالُوٓا۟ إِنَّآ إِلَىٰ رَبِّنَا مُنقَلِبُونَ",
+            "page_number": 165,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 101309,
+                    "resource_id": 20,
+                    "text": "They said, \"Indeed, to our Lord we will return."
+                },
+                {
+                    "id": 219158,
+                    "resource_id": 39,
+                    "text": "Mereka menjawab: \"Sesungguhnya kami (tidak gentar) kerana kepada Tuhan kamilah kembalinya kami (dan kepadaNyalah kami mengharapkan keampunan dan rahmatNya)."
+                },
+                {
+                    "id": 1092056,
+                    "resource_id": 161,
+                    "text": "তারা বলল, আমরা অবশ্যই আমাদের প্রতিপালকের দিকে প্রত্যাবর্তন করব।"
+                }
+            ]
+        },
+        {
+            "id": 1080,
+            "verse_number": 126,
+            "verse_key": "7:126",
+            "hizb_number": 17,
+            "rub_el_hizb_number": 66,
+            "ruku_number": 135,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا تَنقِمُ مِنَّآ إِلَّآ أَنْ ءَامَنَّا بِـَٔايَـٰتِ رَبِّنَا لَمَّا جَآءَتْنَا ۚ رَبَّنَآ أَفْرِغْ عَلَيْنَا صَبْرًا وَتَوَفَّنَا مُسْلِمِينَ",
+            "page_number": 165,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 101312,
+                    "resource_id": 20,
+                    "text": "And you do not resent us except because we believed in the signs of our Lord when they came to us. Our Lord, pour upon us patience<sup foot_note=196319>1</sup> and let us die as Muslims [in submission to You].\""
+                },
+                {
+                    "id": 219160,
+                    "resource_id": 39,
+                    "text": "\"Dan tidaklah engkau (hai Firaun) marah (dan bertindak menyeksa) kami melainkan kerana kami beriman kepada ayat-ayat Tuhan kami, ketika sampainya kepada kami\". (Mereka berdoa): \"Wahai Tuhan kami, limpahkanlah kesabaran kepada kami, dan matikanlah kami dalam keadaan Islam (berserah bulat-bulat kepadaMu)\"."
+                },
+                {
+                    "id": 1092057,
+                    "resource_id": 161,
+                    "text": "তুমি আমাদের উপর প্রতিশোধ নিচ্ছ শুধু এ কারণে যে, আমাদের কাছে যখন আমাদের প্রতিপালকের নিদর্শন এসেছে তখন আমরা তাতে বিশ্বাস স্থাপন করেছি। হে আমাদের প্রতিপালক! আমাদেরকে ধৈর্য ও দৃঢ়তা অবলম্বনের গুণে অভিষিক্ত কর আর মুসলমান হিসেবে আমাদের মৃত্যু দান কর।"
+                }
+            ]
+        },
+        {
+            "id": 1081,
+            "verse_number": 127,
+            "verse_key": "7:127",
+            "hizb_number": 17,
+            "rub_el_hizb_number": 66,
+            "ruku_number": 136,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَقَالَ ٱلْمَلَأُ مِن قَوْمِ فِرْعَوْنَ أَتَذَرُ مُوسَىٰ وَقَوْمَهُۥ لِيُفْسِدُوا۟ فِى ٱلْأَرْضِ وَيَذَرَكَ وَءَالِهَتَكَ ۚ قَالَ سَنُقَتِّلُ أَبْنَآءَهُمْ وَنَسْتَحْىِۦ نِسَآءَهُمْ وَإِنَّا فَوْقَهُمْ قَـٰهِرُونَ",
+            "page_number": 165,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 101315,
+                    "resource_id": 20,
+                    "text": "And the eminent among the people of Pharaoh said, \"Will you leave Moses and his people to cause corruption in the land and abandon you and your gods?\" [Pharaoh] said, \"We will kill their sons and keep their women alive; and indeed, we are subjugators over them.\""
+                },
+                {
+                    "id": 219162,
+                    "resource_id": 39,
+                    "text": "Dan berkatalah pula Ketua-ketua dari kaum Firaun: \"Adakah engkau (wahai Firaun) hendak membiarkan Musa dan kaumnya untuk melakukan kerosakan di bumi (Mesir) dan meninggalkanmu serta apa-apa yang dipuja olehmu?\" Firaun menjawab: \"Kita akan membunuh anak-anak lelaki mereka dan kita biarkan hidup anak-anak perempuan mereka, dan kita tetap menguasai (menundukkan) mereka\"."
+                },
+                {
+                    "id": 1092058,
+                    "resource_id": 161,
+                    "text": "ফির‘আওন গোষ্ঠীর সরদারগণ বলল, ‘আপনি কি মূসা আর তার জাতির লোকেদেরকে যমীনে বিপর্যয় সৃষ্টি করার জন্য ছেড়ে দেবেন আর দেবেন আপনাকে আর আপনার মা‘বূদদেরকে বর্জন করতে?’ সে বলল, ‘আমি তাদের পুত্র সন্তানদেরকে হত্যা করব আর তাদের নারীদেরকে জীবিত রাখব, আমরা তাদের উপর অপ্রতিরোধ্য।’"
+                }
+            ]
+        },
+        {
+            "id": 1082,
+            "verse_number": 128,
+            "verse_key": "7:128",
+            "hizb_number": 17,
+            "rub_el_hizb_number": 66,
+            "ruku_number": 136,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ مُوسَىٰ لِقَوْمِهِ ٱسْتَعِينُوا۟ بِٱللَّهِ وَٱصْبِرُوٓا۟ ۖ إِنَّ ٱلْأَرْضَ لِلَّهِ يُورِثُهَا مَن يَشَآءُ مِنْ عِبَادِهِۦ ۖ وَٱلْعَـٰقِبَةُ لِلْمُتَّقِينَ",
+            "page_number": 165,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 101317,
+                    "resource_id": 20,
+                    "text": "Said Moses to his people, \"Seek help through Allāh and be patient. Indeed, the earth belongs to Allāh. He causes to inherit it whom He wills of His servants. And the [best] outcome is for the righteous.\""
+                },
+                {
+                    "id": 219164,
+                    "resource_id": 39,
+                    "text": "(Pengikut-pengikut Nabi Musa merayu, lalu) Musa berkata kepada kaumnya: \"Mintalah pertolongan kepada Allah dan bersabarlah, sesungguhnya bumi ini kepunyaan Allah, diwariskannya kepada sesiapa yang dikehendakiNya dari hamba-hambaNya; dan kesudahan yang baik adalah bagi orang-orang yang bertaqwa\"."
+                },
+                {
+                    "id": 1092059,
+                    "resource_id": 161,
+                    "text": "মূসা তার সম্প্রদায়কে বলল, ‘তোমরা আল্লাহর সাহায্য কামনা কর আর ধৈর্য অবলম্বন কর, যমীনের মালিক হলেন আল্লাহ, তিনি তাঁর বান্দাহদের মধ্য হতে যাকে ইচ্ছে করবেন তার উত্তরাধিকারী বানাবেন, কল্যাণময় পরিণাম হচ্ছে মুত্তাকীদের জন্য।’"
+                }
+            ]
+        },
+        {
+            "id": 1083,
+            "verse_number": 129,
+            "verse_key": "7:129",
+            "hizb_number": 17,
+            "rub_el_hizb_number": 66,
+            "ruku_number": 136,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "قَالُوٓا۟ أُوذِينَا مِن قَبْلِ أَن تَأْتِيَنَا وَمِنۢ بَعْدِ مَا جِئْتَنَا ۚ قَالَ عَسَىٰ رَبُّكُمْ أَن يُهْلِكَ عَدُوَّكُمْ وَيَسْتَخْلِفَكُمْ فِى ٱلْأَرْضِ فَيَنظُرَ كَيْفَ تَعْمَلُونَ",
+            "page_number": 165,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 101319,
+                    "resource_id": 20,
+                    "text": "They said, \"We have been harmed before you came to us and after you have come to us.\" He said, \"Perhaps your Lord will destroy your enemy and grant you succession in the land and see how you will do.\""
+                },
+                {
+                    "id": 219166,
+                    "resource_id": 39,
+                    "text": "Mereka berkata: \"Kami telah dianiaya dan diperhambakan (oleh Firaun) sebelum engkau datang kepada kami dan sesudah engkau datang kepada kami\". Nabi Musa menjawab: \"Mudah-mudahan Tuhan kamu akan membinasakan musuh kamu dan menjadikan kamu khalifah di bumi, kemudian Ia akan memerhati bagaimana pula perbuatan kamu?\""
+                },
+                {
+                    "id": 1092060,
+                    "resource_id": 161,
+                    "text": "তারা বলল, ‘আমাদের নিকট তোমার আসার পূর্বেও আমাদেরকে জ্বালাতন করা হয়েছে আর তোমার আসার পরেও।’ সে বলল, ‘সত্বর তোমাদের প্রতিপালক তোমাদের দুশমনকে ধ্বংস করবেন আর তোমাদেরকে দেশে প্রতিনিধিত্ব দান করবেন, অতঃপর তিনি দেখবেন তোমরা কেমন ‘আমাল কর।’"
+                }
+            ]
+        },
+        {
+            "id": 1084,
+            "verse_number": 130,
+            "verse_key": "7:130",
+            "hizb_number": 17,
+            "rub_el_hizb_number": 66,
+            "ruku_number": 137,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَقَدْ أَخَذْنَآ ءَالَ فِرْعَوْنَ بِٱلسِّنِينَ وَنَقْصٍ مِّنَ ٱلثَّمَرَٰتِ لَعَلَّهُمْ يَذَّكَّرُونَ",
+            "page_number": 165,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 101322,
+                    "resource_id": 20,
+                    "text": "And We certainly seized<sup foot_note=196320>1</sup> the people of Pharaoh with years of famine and a deficiency in fruits that perhaps they would be reminded."
+                },
+                {
+                    "id": 219169,
+                    "resource_id": 39,
+                    "text": "Dan sesungguhnya Kami telah menimpakan Firaun dan kaumnya dengan musim kemarau dan kekurangan buah-buahan, supaya mereka insaf mengambil pelajaran."
+                },
+                {
+                    "id": 1092061,
+                    "resource_id": 161,
+                    "text": "আমি ফির‘আওনী গোষ্ঠীকে দুর্ভিক্ষ আর ফল-ফসলের ক্ষয়-ক্ষতি দিয়ে পাকড়াও করেছিলাম যাতে তারা উপদেশ গ্রহণ করে।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 10
+    }
+}

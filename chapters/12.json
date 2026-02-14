@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 1597,
+            "verse_number": 1,
+            "verse_key": "12:1",
+            "hizb_number": 24,
+            "rub_el_hizb_number": 94,
+            "ruku_number": 193,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": " الٓر ۚ تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ ٱلْمُبِينِ",
+            "page_number": 235,
+            "juz_number": 12,
+            "translations": [
+                {
+                    "id": 96494,
+                    "resource_id": 20,
+                    "text": "Alif, Lām, Rā.<sup foot_note=196500>1</sup> These are the verses of the clear Book."
+                },
+                {
+                    "id": 220450,
+                    "resource_id": 39,
+                    "text": "Alif, Laam, Raa'. Ini ialah ayat-ayat Kitab Al-Quran yang menyatakan kebenaran."
+                },
+                {
+                    "id": 1092574,
+                    "resource_id": 161,
+                    "text": "আলিফ, লাম-রা, এগুলো সুস্পষ্ট কিতাবের আয়াতসমূহ।"
+                }
+            ]
+        },
+        {
+            "id": 1598,
+            "verse_number": 2,
+            "verse_key": "12:2",
+            "hizb_number": 24,
+            "rub_el_hizb_number": 94,
+            "ruku_number": 193,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّآ أَنزَلْنَـٰهُ قُرْءَٰنًا عَرَبِيًّا لَّعَلَّكُمْ تَعْقِلُونَ",
+            "page_number": 235,
+            "juz_number": 12,
+            "translations": [
+                {
+                    "id": 96519,
+                    "resource_id": 20,
+                    "text": "Indeed, We have sent it down as an Arabic Qur’ān<sup foot_note=196501>1</sup> that you might understand."
+                },
+                {
+                    "id": 214665,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Kami menurunkan kitab itu sebagai Quran yang dibaca dengan bahasa Arab, supaya kamu (menggunakan akal untuk) memahaminya."
+                },
+                {
+                    "id": 1092575,
+                    "resource_id": 161,
+                    "text": "আমি তা অবতীর্ণ করেছি, আরবী ভাষার কুরআন, যাতে তোমরা ভালভাবে বুঝতে পার।"
+                }
+            ]
+        },
+        {
+            "id": 1599,
+            "verse_number": 3,
+            "verse_key": "12:3",
+            "hizb_number": 24,
+            "rub_el_hizb_number": 94,
+            "ruku_number": 193,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "نَحْنُ نَقُصُّ عَلَيْكَ أَحْسَنَ ٱلْقَصَصِ بِمَآ أَوْحَيْنَآ إِلَيْكَ هَـٰذَا ٱلْقُرْءَانَ وَإِن كُنتَ مِن قَبْلِهِۦ لَمِنَ ٱلْغَـٰفِلِينَ",
+            "page_number": 235,
+            "juz_number": 12,
+            "translations": [
+                {
+                    "id": 96530,
+                    "resource_id": 20,
+                    "text": "We relate to you, [O Muḥammad], the best of stories in what We have revealed to you of this Qur’ān although you were, before it, among the unaware."
+                },
+                {
+                    "id": 220487,
+                    "resource_id": 39,
+                    "text": "Kami ceritakan kepadamu (wahai Muhammad) seindah-indah kisah dengan jalan Kami wahyukan kepadamu Al-Quran ini, padahal sebenarnya engkau sebelum datangnya wahyu itu, adalah dari orang-orang yang tidak pernah menyedari akan halnya."
+                },
+                {
+                    "id": 1092576,
+                    "resource_id": 161,
+                    "text": "আমি তোমার কাছে সর্বোত্তম কাহিনী বর্ণনা করছি, এ কুরআন তোমার কাছে ওয়াহী যোগে পাঠিয়ে, যদিও এর পূর্বে তুমি না-জানা লোকদের মধ্যেই শামিল ছিলে।"
+                }
+            ]
+        },
+        {
+            "id": 1600,
+            "verse_number": 4,
+            "verse_key": "12:4",
+            "hizb_number": 24,
+            "rub_el_hizb_number": 94,
+            "ruku_number": 193,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ",
+            "page_number": 235,
+            "juz_number": 12,
+            "translations": [
+                {
+                    "id": 96541,
+                    "resource_id": 20,
+                    "text": "[Of these stories mention] when Joseph said to his father,<sup foot_note=196502>1</sup> \"O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.\""
+                },
+                {
+                    "id": 220498,
+                    "resource_id": 39,
+                    "text": "(Ingatlah peristiwa) ketika Nabi Yusuf berkata kepada bapanya: \"Wahai ayahku! Sesungguhnya aku mimpi melihat sebelas bintang dan matahari serta bulan; aku melihat mereka tunduk memberi hormat kepadaku\"."
+                },
+                {
+                    "id": 1092577,
+                    "resource_id": 161,
+                    "text": "স্মরণ কর, ইউসুফ যখন তার পিতাকে বলেছিল, ‘হে আব্বাজান! আমি (স্বপ্নে) দেখেছি এগারটি তারকা আর সূর্য ও চন্দ্র; দেখলাম তারা আমাকে সাজদাহ করছে।’"
+                }
+            ]
+        },
+        {
+            "id": 1601,
+            "verse_number": 5,
+            "verse_key": "12:5",
+            "hizb_number": 24,
+            "rub_el_hizb_number": 94,
+            "ruku_number": 193,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ يَـٰبُنَىَّ لَا تَقْصُصْ رُءْيَاكَ عَلَىٰٓ إِخْوَتِكَ فَيَكِيدُوا۟ لَكَ كَيْدًا ۖ إِنَّ ٱلشَّيْطَـٰنَ لِلْإِنسَـٰنِ عَدُوٌّ مُّبِينٌ",
+            "page_number": 236,
+            "juz_number": 12,
+            "translations": [
+                {
+                    "id": 96552,
+                    "resource_id": 20,
+                    "text": "He said, \"O my son, do not relate your vision to your brothers or they will contrive against you a plan. Indeed Satan, to man, is a manifest enemy."
+                },
+                {
+                    "id": 220495,
+                    "resource_id": 39,
+                    "text": "Bapanya berkata:\" Wahai anakku! Janganlah engkau ceritakan mimpimu kepada saudara-saudaramu, kerana aku khuatir mereka akan menjalankan sesuatu rancangan jahat terhadapmu. Sesungguhnya syaitan adalah musuh yang nyata bagi manusia."
+                },
+                {
+                    "id": 1092578,
+                    "resource_id": 161,
+                    "text": "তার পিতা বললেন, ‘হে আমার পুত্র! তোমার স্বপ্নের কথা তোমার ভাইদের কাছে বর্ণনা করো না। যদি কর তাহলে তারা তোমার বিরুদ্ধে চক্রান্ত করবে। শাইত্বান তো মানুষের প্রকাশ্য দুশমন।"
+                }
+            ]
+        },
+        {
+            "id": 1602,
+            "verse_number": 6,
+            "verse_key": "12:6",
+            "hizb_number": 24,
+            "rub_el_hizb_number": 94,
+            "ruku_number": 193,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَكَذَٰلِكَ يَجْتَبِيكَ رَبُّكَ وَيُعَلِّمُكَ مِن تَأْوِيلِ ٱلْأَحَادِيثِ وَيُتِمُّ نِعْمَتَهُۥ عَلَيْكَ وَعَلَىٰٓ ءَالِ يَعْقُوبَ كَمَآ أَتَمَّهَا عَلَىٰٓ أَبَوَيْكَ مِن قَبْلُ إِبْرَٰهِيمَ وَإِسْحَـٰقَ ۚ إِنَّ رَبَّكَ عَلِيمٌ حَكِيمٌ",
+            "page_number": 236,
+            "juz_number": 12,
+            "translations": [
+                {
+                    "id": 96563,
+                    "resource_id": 20,
+                    "text": "And thus will your Lord choose you and teach you the interpretation of narratives [i.e., events or dreams] and complete His favor upon you and upon the family of Jacob, as He completed it upon your fathers before, Abraham and Isaac. Indeed, your Lord is Knowing and Wise.\""
+                },
+                {
+                    "id": 220517,
+                    "resource_id": 39,
+                    "text": "Dan demikianlah caranya Tuhanmu memilihmu, dan akan mengajarmu takbir mimpi, serta akan menyempurnakan nikmatNya kepadamu dan kepada keluarga Yaakub: sebagaimana Ia telah menyempurnakannya kepada datuk nenekmu dahulu: Ibrahim dan Ishak. Sesungguhnya Tuhanmu Maha Mengetahui, lagi Maha Bijaksana\"."
+                },
+                {
+                    "id": 1092579,
+                    "resource_id": 161,
+                    "text": "(স্বপ্নে যেমন দেখেছ) এভাবে তোমার প্রতিপালক তোমাকে মনোনীত করবেন, তোমাকে স্বপ্নের ব্যাখ্যা শিক্ষা দিবেন এবং তিনি তাঁর অনুগ্রহ তোমার প্রতি আর ইয়া‘কূব পরিবারের প্রতি পূর্ণ করবেন যেভাবে তিনি তা পূর্বে তোমার পিতৃ-পুরুষ ইবরাহীম ও ইসহাকের প্রতি পূর্ণ করেছিলেন, নিশ্চয়ই তোমার রব্ব সর্বজ্ঞ, বড়ই প্রজ্ঞাবান।’"
+                }
+            ]
+        },
+        {
+            "id": 1603,
+            "verse_number": 7,
+            "verse_key": "12:7",
+            "hizb_number": 24,
+            "rub_el_hizb_number": 95,
+            "ruku_number": 194,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "۞ لَّقَدْ كَانَ فِى يُوسُفَ وَإِخْوَتِهِۦٓ ءَايَـٰتٌ لِّلسَّآئِلِينَ",
+            "page_number": 236,
+            "juz_number": 12,
+            "translations": [
+                {
+                    "id": 96574,
+                    "resource_id": 20,
+                    "text": "Certainly were there in Joseph and his brothers signs for those who ask, [such as]"
+                },
+                {
+                    "id": 220532,
+                    "resource_id": 39,
+                    "text": "Demi sesungguhnya! (Kisah) Nabi Yusuf dengan saudara-saudaranya itu mengandungi beberapa pengajaran bagi orang-orang yang bertanya (tentang hal mereka untuk mengambil iktibar)."
+                },
+                {
+                    "id": 1092580,
+                    "resource_id": 161,
+                    "text": "ইউসুফ আর তার ভাইদের ঘটনায় সত্য সন্ধানীদের জন্য অবশ্যই নিদর্শনাবলী আছে।"
+                }
+            ]
+        },
+        {
+            "id": 1604,
+            "verse_number": 8,
+            "verse_key": "12:8",
+            "hizb_number": 24,
+            "rub_el_hizb_number": 95,
+            "ruku_number": 194,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "إِذْ قَالُوا۟ لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰٓ أَبِينَا مِنَّا وَنَحْنُ عُصْبَةٌ إِنَّ أَبَانَا لَفِى ضَلَـٰلٍ مُّبِينٍ",
+            "page_number": 236,
+            "juz_number": 12,
+            "translations": [
+                {
+                    "id": 96584,
+                    "resource_id": 20,
+                    "text": "When they said, \"Joseph and his brother<sup foot_note=196503>1</sup> are more beloved to our father than we, while we are a clan. Indeed, our father is in clear error."
+                },
+                {
+                    "id": 220544,
+                    "resource_id": 39,
+                    "text": "(Kisah itu bermula) ketika saudara-saudara Yusuf berkata (sesama sendiri): \"Sesungguhnya Yusuf dan adiknya, lebih disayangi oleh bapa kita daripada kita, padahal kita ini satu kumpulan (yang ramai dan berguna). Sesungguhnya bapa kita adalah dalam keadaan tidak adil yang nyata.\""
+                },
+                {
+                    "id": 1092581,
+                    "resource_id": 161,
+                    "text": "স্মরণ কর, যখন তারা (বৈমাত্রেয় ভাইগণ) বলাবলি করছিল, ‘নিশ্চয়ই ইউসুফ আর তার (সহোদর) ভাই আমাদের পিতার কাছে আমাদের চেয়ে বেশি প্রিয়, অথচ আমরা পুরো একটা দল, আমাদের পিতা স্পষ্ট ভুলের মধ্যে আছেন।"
+                }
+            ]
+        },
+        {
+            "id": 1605,
+            "verse_number": 9,
+            "verse_key": "12:9",
+            "hizb_number": 24,
+            "rub_el_hizb_number": 95,
+            "ruku_number": 194,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "ٱقْتُلُوا۟ يُوسُفَ أَوِ ٱطْرَحُوهُ أَرْضًا يَخْلُ لَكُمْ وَجْهُ أَبِيكُمْ وَتَكُونُوا۟ مِنۢ بَعْدِهِۦ قَوْمًا صَـٰلِحِينَ",
+            "page_number": 236,
+            "juz_number": 12,
+            "translations": [
+                {
+                    "id": 96595,
+                    "resource_id": 20,
+                    "text": "Kill Joseph or cast him out to [another] land; the countenance [i.e., attention] of your father will [then] be only for you, and you will be after that a righteous people.\"<sup foot_note=196504>1</sup>"
+                },
+                {
+                    "id": 220552,
+                    "resource_id": 39,
+                    "text": "(Ramai di antara mereka berkata):\" Bunuhlah Yusuf atau buanglah dia ke suatu tempat yang jauh, supaya perhatian dan kasih sayang bapa kamu tertumpu kepada kamu semata-mata, dan supaya kamu sesudah itu menjadi orang-orang yang baik dan berguna\"."
+                },
+                {
+                    "id": 1092582,
+                    "resource_id": 161,
+                    "text": "তোমরা ইউসুফকে হত্যা করে ফেল কিংবা তাকে কোন ভূমিতে ফেলে আস, তাহলে তোমাদের পিতার দৃষ্টি তোমাদের প্রতিই নিবদ্ধ হবে, তার পর তোমরা (তাওবাহ করে) ভাল লোক হয়ে যাবে।"
+                }
+            ]
+        },
+        {
+            "id": 1606,
+            "verse_number": 10,
+            "verse_key": "12:10",
+            "hizb_number": 24,
+            "rub_el_hizb_number": 95,
+            "ruku_number": 194,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ قَآئِلٌ مِّنْهُمْ لَا تَقْتُلُوا۟ يُوسُفَ وَأَلْقُوهُ فِى غَيَـٰبَتِ ٱلْجُبِّ يَلْتَقِطْهُ بَعْضُ ٱلسَّيَّارَةِ إِن كُنتُمْ فَـٰعِلِينَ",
+            "page_number": 236,
+            "juz_number": 12,
+            "translations": [
+                {
+                    "id": 96495,
+                    "resource_id": 20,
+                    "text": "Said a speaker among them, \"Do not kill Joseph but throw him into the bottom of the well; some travelers will pick him up - if you would do [something].\""
+                },
+                {
+                    "id": 220449,
+                    "resource_id": 39,
+                    "text": "Salah seorang di antara mereka berkata: \"Janganlah kamu membunuh Yusuf, tetapi buanglah dia ke dalam pergi, supaya ia dipungut oleh sebahagian dari orang-orang musafir (yang lalu di situ), kalaulah kamu tetap hendak menjalankan rancangan kamu itu\"."
+                },
+                {
+                    "id": 1092583,
+                    "resource_id": 161,
+                    "text": "তাদের একজন বলল, তোমরা ইউসুফকে হত্যা করো না, তোমাদেরকে যদি কিছু করতেই হয় বরং তাকে কোন অন্ধ কূপে ফেলে দাও, কোন যাত্রীদল তাকে উঠিয়ে নিয়ে যাবে।’"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 12,
+        "total_records": 111
+    }
+}

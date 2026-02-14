@@ -1,0 +1,101 @@
+{
+    "verses": [
+        {
+            "id": 6214,
+            "verse_number": 1,
+            "verse_key": "110:1",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 554,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ",
+            "page_number": 603,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96344,
+                    "resource_id": 20,
+                    "text": "When the victory of Allāh has come and the conquest,<sup foot_note=197825>1</sup>"
+                },
+                {
+                    "id": 220302,
+                    "resource_id": 39,
+                    "text": "Apabila datang pertolongan Allah dan kemenangan (semasa engkau wahai Muhammad berjaya menguasai negeri Makkah), -"
+                },
+                {
+                    "id": 1097191,
+                    "resource_id": 161,
+                    "text": "যখন আসবে আল্লাহর সাহায্য ও (ইসলামের চূড়ান্ত) বিজয়,"
+                }
+            ]
+        },
+        {
+            "id": 6215,
+            "verse_number": 2,
+            "verse_key": "110:2",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 554,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًا",
+            "page_number": 603,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96345,
+                    "resource_id": 20,
+                    "text": "And you see the people entering into the religion of Allāh in multitudes,"
+                },
+                {
+                    "id": 220271,
+                    "resource_id": 39,
+                    "text": "Dan engkau melihat manusia masuk dalam ugama Allah beramai-ramai, -"
+                },
+                {
+                    "id": 1097192,
+                    "resource_id": 161,
+                    "text": "আর তুমি মানুষদের দেখবে দলে দলে আল্লাহর দীনে প্রবেশ করতে,"
+                }
+            ]
+        },
+        {
+            "id": 6216,
+            "verse_number": 3,
+            "verse_key": "110:3",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 554,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا",
+            "page_number": 603,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96346,
+                    "resource_id": 20,
+                    "text": "Then exalt [Him] with praise of your Lord and ask forgiveness of Him. Indeed, He is ever Accepting of Repentance.<sup foot_note=197826>1</sup>"
+                },
+                {
+                    "id": 220299,
+                    "resource_id": 39,
+                    "text": "Maka ucapkanlah tasbih dengan memuji Tuhanmu dan mintalah ampun kepadaNya, sesungguhnya Dia amat menerima taubat."
+                },
+                {
+                    "id": 1097193,
+                    "resource_id": 161,
+                    "text": "তখন তুমি (শুকরিয়া আদায়ের উদ্দেশ্যে) তোমার প্রতিপালকের প্রশংসা সহকারে তাঁর পবিত্রতা ও মহিমা ঘোষণা করবে আর তাঁর কাছে ক্ষমা প্রার্থনা করবে। তিনি বড়ই তাওবা কবূলকারী।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 3
+    }
+}

@@ -1,0 +1,251 @@
+{
+    "verses": [
+        {
+            "id": 134,
+            "verse_number": 127,
+            "verse_key": "2:127",
+            "hizb_number": 2,
+            "rub_el_hizb_number": 8,
+            "ruku_number": 16,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذْ يَرْفَعُ إِبْرَٰهِـۧمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَـٰعِيلُ رَبَّنَا تَقَبَّلْ مِنَّآ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+            "page_number": 20,
+            "juz_number": 1,
+            "translations": [
+                {
+                    "id": 97450,
+                    "resource_id": 20,
+                    "text": "And [mention] when Abraham was raising the foundations of the House and [with him] Ishmael, [saying], \"Our Lord, accept [this] from us. Indeed, You are the Hearing,<sup foot_note=195971>1</sup> the Knowing.<sup foot_note=195970>2</sup>"
+                },
+                {
+                    "id": 215324,
+                    "resource_id": 39,
+                    "text": "Dan (ingatlah) ketika Nabi Ibrahim bersama-sama Nabi Ismail meninggikan binaan asas-asas (tapak) Baitullah (Kaabah) itu, sambil keduanya berdoa dengan berkata: \"Wahai Tuhan kami! Terimalah daripada kami (amal kami); sesungguhnya Engkaulah yang Maha Mendengar, lagi Maha mengetahui;"
+                },
+                {
+                    "id": 1091111,
+                    "resource_id": 161,
+                    "text": "আর (স্মরণ কর) যখন ইব্রাহীম ও ইসমাঈল কাবাগৃহের ভিত্তি তুলছিল, তখন প্রার্থনা করল, ‘হে আমাদের প্রতিপালক! আমাদের পক্ষ থেকে কবুল কর, নিশ্চয়ই তুমি সর্বশ্রোতা ও সর্বজ্ঞাতা’।"
+                }
+            ]
+        },
+        {
+            "id": 135,
+            "verse_number": 128,
+            "verse_key": "2:128",
+            "hizb_number": 2,
+            "rub_el_hizb_number": 8,
+            "ruku_number": 16,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "رَبَّنَا وَٱجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِن ذُرِّيَّتِنَآ أُمَّةً مُّسْلِمَةً لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَآ ۖ إِنَّكَ أَنتَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+            "page_number": 20,
+            "juz_number": 1,
+            "translations": [
+                {
+                    "id": 97452,
+                    "resource_id": 20,
+                    "text": "Our Lord, and make us Muslims [in submission] to You and from our descendants a Muslim nation [in submission] to You. And show us our rites [of worship] and accept our repentance. Indeed, You are the Accepting of Repentance, the Merciful."
+                },
+                {
+                    "id": 215326,
+                    "resource_id": 39,
+                    "text": "\"Wahai Tuhan kami! Jadikanlah kami berdua: orang-orang Islam (yang berserah diri) kepadaMu, dan jadikanlah daripada keturunan kami: umat Islam (yang berserah diri) kepadamu, dan tunjukkanlah kepada kami syariat dan cara-cara ibadat kami, dan terimalah taubat kami; sesungguhnya Engkaulah Maha Penerima taubat, lagi Maha Mengasihani;"
+                },
+                {
+                    "id": 1091112,
+                    "resource_id": 161,
+                    "text": "হে আমাদের প্রতিপালক! ‘আমাদেরকে তোমার অনুগত কর, আমাদের খান্দানে একদল সৃষ্টি কর, যারা তোমার আজ্ঞাবহ হয় আর আমাদেরকে ইবাদাতের নিয়ম-কানুন শিক্ষা দাও এবং আমাদের অপরাধ ক্ষমা কর, নিশ্চয়ই তুমি অত্যন্ত ক্ষমাশীল, পরম দয়ালু’।"
+                }
+            ]
+        },
+        {
+            "id": 136,
+            "verse_number": 129,
+            "verse_key": "2:129",
+            "hizb_number": 2,
+            "rub_el_hizb_number": 8,
+            "ruku_number": 16,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "رَبَّنَا وَٱبْعَثْ فِيهِمْ رَسُولًا مِّنْهُمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَـٰتِكَ وَيُعَلِّمُهُمُ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَيُزَكِّيهِمْ ۚ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+            "page_number": 20,
+            "juz_number": 1,
+            "translations": [
+                {
+                    "id": 97454,
+                    "resource_id": 20,
+                    "text": "Our Lord, and send among them a messenger from themselves who will recite to them Your verses and teach them the Book and wisdom and purify them. Indeed, You are the Exalted in Might,<sup foot_note=195972>1</sup> the Wise.\""
+                },
+                {
+                    "id": 215330,
+                    "resource_id": 39,
+                    "text": "\"Wahai Tuhan Kami! Utuslah kepada mereka seorang Rasul dari kalangan mereka sendiri, yang akan membacakan kepada mereka ayat-ayat (firmanMu) dan mengajarkan mereka isi kandungan Kitab (Al-Quran) serta Hikmat kebijaksanaan dan membersihkan (hati dan jiwa) mereka (dari syirik dan maksiat). Sesungguhnya Engkaulah yang Maha Kuasa, lagi Maha Bijaksana\"."
+                },
+                {
+                    "id": 1091113,
+                    "resource_id": 161,
+                    "text": "‘হে আমাদের প্রতিপালক! এদের কাছে একজন রসূল এদের মধ্য হতে প্রেরণ কর, যে এদেরকে তোমার আয়াতগুলো পড়ে শুনাবে এবং এদেরকে কিতাব ও জ্ঞান-বিজ্ঞান শিক্ষা দেবে এবং এদেরকে বিশুদ্ধ করবে, নিশ্চয় তুমি ক্ষমতাশালী, প্রজ্ঞাময়।’"
+                }
+            ]
+        },
+        {
+            "id": 137,
+            "verse_number": 130,
+            "verse_key": "2:130",
+            "hizb_number": 2,
+            "rub_el_hizb_number": 8,
+            "ruku_number": 17,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَن يَرْغَبُ عَن مِّلَّةِ إِبْرَٰهِـۧمَ إِلَّا مَن سَفِهَ نَفْسَهُۥ ۚ وَلَقَدِ ٱصْطَفَيْنَـٰهُ فِى ٱلدُّنْيَا ۖ وَإِنَّهُۥ فِى ٱلْـَٔاخِرَةِ لَمِنَ ٱلصَّـٰلِحِينَ",
+            "page_number": 20,
+            "juz_number": 1,
+            "translations": [
+                {
+                    "id": 97459,
+                    "resource_id": 20,
+                    "text": "And who would be averse to the religion of Abraham except one who makes a fool of himself. And We had chosen him in this world, and indeed he, in the Hereafter, will be among the righteous."
+                },
+                {
+                    "id": 215334,
+                    "resource_id": 39,
+                    "text": "Tidak ada orang yang membenci ugama Nabi Ibrahim selain dari orang yang membodohkan dirinya sendiri, kerana sesungguhnya Kami telah memilih Ibrahim (menjadi nabi) di dunia ini; dan sesungguhnya ia pada hari akhirat kelak tetaplah dari orang-orang yang soleh yang (tertinggi martabatnya)."
+                },
+                {
+                    "id": 1091114,
+                    "resource_id": 161,
+                    "text": "সেই নির্বোধ ছাড়া অন্য এমন কে আছে যে মিল্লাতে ইব্রাহীম হতে ফিরে যাবে এবং নিশ্চয় আমি তাকে পছন্দ করেছি এবং আখেরাতেও সে নেককারদের অন্তর্গত হবে।"
+                }
+            ]
+        },
+        {
+            "id": 138,
+            "verse_number": 131,
+            "verse_key": "2:131",
+            "hizb_number": 2,
+            "rub_el_hizb_number": 8,
+            "ruku_number": 17,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "إِذْ قَالَ لَهُۥ رَبُّهُۥٓ أَسْلِمْ ۖ قَالَ أَسْلَمْتُ لِرَبِّ ٱلْعَـٰلَمِينَ",
+            "page_number": 20,
+            "juz_number": 1,
+            "translations": [
+                {
+                    "id": 97461,
+                    "resource_id": 20,
+                    "text": "When his Lord said to him, \"Submit,\" he said, \"I have submitted [in Islām]<sup foot_note=195973>1</sup> to the Lord of the worlds.\""
+                },
+                {
+                    "id": 215336,
+                    "resource_id": 39,
+                    "text": "(Ingatlah) ketika Tuhannya berfirman kepadanya: \"Serahkanlah diri (kepadaKu wahai Ibrahim)!\" Nabi Ibrahim menjawab: \"Aku serahkan diri (tunduk taat) kepada Tuhan Yang Memelihara dan mentadbirkan sekalian alam\"."
+                },
+                {
+                    "id": 1091115,
+                    "resource_id": 161,
+                    "text": "তার প্রতিপালক যখন তাকে বলেছিলেন, ‘তুমি আত্মসমর্পণ কর’, উত্তরে সে বলল, ‘আমি সারা জগতের প্রতিপালকের কাছে আত্মসমর্পণ করলাম’।"
+                }
+            ]
+        },
+        {
+            "id": 139,
+            "verse_number": 132,
+            "verse_key": "2:132",
+            "hizb_number": 2,
+            "rub_el_hizb_number": 8,
+            "ruku_number": 17,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "وَوَصَّىٰ بِهَآ إِبْرَٰهِـۧمُ بَنِيهِ وَيَعْقُوبُ يَـٰبَنِىَّ إِنَّ ٱللَّهَ ٱصْطَفَىٰ لَكُمُ ٱلدِّينَ فَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسْلِمُونَ",
+            "page_number": 20,
+            "juz_number": 1,
+            "translations": [
+                {
+                    "id": 97463,
+                    "resource_id": 20,
+                    "text": "And Abraham instructed his sons [to do the same] and [so did] Jacob, [saying], \"O my sons, indeed Allāh has chosen for you this religion, so do not die except while you are Muslims.\""
+                },
+                {
+                    "id": 215338,
+                    "resource_id": 39,
+                    "text": "Dan Nabi Ibrahim pun berwasiat dengan ugama itu kepada anak-anaknya, dan (demikian juga) Nabi Yaakub (berwasiat kepada anak-anaknya) katanya: \"Wahai anak-anakku! Sesungguhnya Allah telah memilih ugama (Islam) ini menjadi ikutan kamu, maka janganlah kamu mati melainkan kamu dalam keadaan Islam\"."
+                },
+                {
+                    "id": 1091116,
+                    "resource_id": 161,
+                    "text": "আর এ বিষয়ে ইবরাহীম ও ইয়া‘কূব স্বীয় পুত্রগণকে অন্তিম উপদেশ দান করে গেছে- ‘হে পুত্রগণ! আল্লাহ এ দ্বীনকে তোমাদের জন্য পছন্দ করেছেন; কাজেই তোমরা মুসলিম না হয়ে মৃত্যুবরণ করো না’।"
+                }
+            ]
+        },
+        {
+            "id": 140,
+            "verse_number": 133,
+            "verse_key": "2:133",
+            "hizb_number": 2,
+            "rub_el_hizb_number": 8,
+            "ruku_number": 17,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "أَمْ كُنتُمْ شُهَدَآءَ إِذْ حَضَرَ يَعْقُوبَ ٱلْمَوْتُ إِذْ قَالَ لِبَنِيهِ مَا تَعْبُدُونَ مِنۢ بَعْدِى قَالُوا۟ نَعْبُدُ إِلَـٰهَكَ وَإِلَـٰهَ ءَابَآئِكَ إِبْرَٰهِـۧمَ وَإِسْمَـٰعِيلَ وَإِسْحَـٰقَ إِلَـٰهًا وَٰحِدًا وَنَحْنُ لَهُۥ مُسْلِمُونَ",
+            "page_number": 20,
+            "juz_number": 1,
+            "translations": [
+                {
+                    "id": 97465,
+                    "resource_id": 20,
+                    "text": "Or were you witnesses when death approached Jacob, when he said to his sons, \"What will you worship after me?\" They said, \"We will worship your God and the God of your fathers, Abraham and Ishmael and Isaac - one God.<sup foot_note=195974>1</sup> And we are Muslims [in submission] to Him.\""
+                },
+                {
+                    "id": 215340,
+                    "resource_id": 39,
+                    "text": "(Demikianlah wasiat Nabi Yaakub, bukan sebagaimana yang kamu katakan itu wahai orang-orang Yahudi)! Kamu tiada hadir ketika Nabi Yaakub hampir mati, ketika ia berkata kepada anak-anaknya: \"Apakah yang kamu akan sembah sesudah aku mati?\" Mereka menjawab: \"Kami menyembah Tuhanmu dan Tuhan datuk nenekmu Ibrahim dan Ismail dan Ishak, iaitu Tuhan yang Maha Esa, dan kepadaNyalah sahaja kami berserah diri (dengan penuh iman)\"."
+                },
+                {
+                    "id": 1091117,
+                    "resource_id": 161,
+                    "text": "তোমরা কি সে সময় উপস্থিত ছিলে, যখন ইয়াকুবের মৃত্যু এসে পৌঁছেছিল? তখন সে তার পুত্রদেরকে জিজ্ঞেস করেছিল, ‘আমার পরে তোমরা কার উপাসনা করবে’? পুত্রগণ উত্তর দিয়েছিল, ‘আমরা আপনার এবং আপনার পূর্বপুরুষ ইবরাহীম, ইসমাঈল ও ইসহাকের উপাস্যের উপাসনা করব, যিনি অদ্বিতীয় উপাস্য এবং আমরা তাঁরই প্রতি আত্মসমর্পিত।"
+                }
+            ]
+        },
+        {
+            "id": 141,
+            "verse_number": 134,
+            "verse_key": "2:134",
+            "hizb_number": 2,
+            "rub_el_hizb_number": 8,
+            "ruku_number": 17,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "تِلْكَ أُمَّةٌ قَدْ خَلَتْ ۖ لَهَا مَا كَسَبَتْ وَلَكُم مَّا كَسَبْتُمْ ۖ وَلَا تُسْـَٔلُونَ عَمَّا كَانُوا۟ يَعْمَلُونَ",
+            "page_number": 20,
+            "juz_number": 1,
+            "translations": [
+                {
+                    "id": 97467,
+                    "resource_id": 20,
+                    "text": "That was a nation which has passed on. It will have [the consequence of] what it earned, and you will have what you have earned. And you will not be asked about what they used to do."
+                },
+                {
+                    "id": 215342,
+                    "resource_id": 39,
+                    "text": "Mereka itu adalah satu umat yang telah lalu sejarahnya; bagi mereka (balasan) apa yang mereka telah usahakan, dan bagi kamu pula (balasan) apa yang kamu usahakan; dan kamu tidak akan ditanya (atau dipertanggungjawabkan) tentang apa yang telah mereka lakukan."
+                },
+                {
+                    "id": 1091118,
+                    "resource_id": 161,
+                    "text": "এ লোকেরা গত হয়ে গেছে, তাদের জন্য তাদের কৃতকর্ম এবং তোমাদের জন্য তোমাদের কৃতকর্ম এবং তাদের কৃতকর্ম সম্বন্ধে তোমাদেরকে জিজ্ঞেস করা হবে না।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 8,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 8
+    }
+}

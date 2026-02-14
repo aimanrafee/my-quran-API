@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 3160,
+            "verse_number": 1,
+            "verse_key": "27:1",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 151,
+            "ruku_number": 327,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": " طسٓ ۚ تِلْكَ ءَايَـٰتُ ٱلْقُرْءَانِ وَكِتَابٍ مُّبِينٍ",
+            "page_number": 377,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98317,
+                    "resource_id": 20,
+                    "text": "Ṭā, Seen.<sup foot_note=196974>1</sup> These are the verses of the Qur’ān [i.e., recitation] and a clear Book"
+                },
+                {
+                    "id": 216177,
+                    "resource_id": 39,
+                    "text": "Taa, siin. Ini ialah ayat-ayat Al-Quran, juga Kitab yang jelas nyata (kandungannya dan kebenarannya),"
+                },
+                {
+                    "id": 1094137,
+                    "resource_id": 161,
+                    "text": "তা-সীন, এগুলো কুরআনের আয়াত ও সুস্পষ্ট কিতাবের;"
+                }
+            ]
+        },
+        {
+            "id": 3161,
+            "verse_number": 2,
+            "verse_key": "27:2",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 151,
+            "ruku_number": 327,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "هُدًى وَبُشْرَىٰ لِلْمُؤْمِنِينَ",
+            "page_number": 377,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98329,
+                    "resource_id": 20,
+                    "text": "As guidance and good tidings for the believers"
+                },
+                {
+                    "id": 216191,
+                    "resource_id": 39,
+                    "text": "Menjadi hidayah petunjuk dan berita gembira bagi orang-orang yang beriman,"
+                },
+                {
+                    "id": 1094138,
+                    "resource_id": 161,
+                    "text": "মু’মিনদের জন্য পথের দিশা ও সুসংবাদ"
+                }
+            ]
+        },
+        {
+            "id": 3162,
+            "verse_number": 3,
+            "verse_key": "27:3",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 151,
+            "ruku_number": 327,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَهُم بِٱلْـَٔاخِرَةِ هُمْ يُوقِنُونَ",
+            "page_number": 377,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98341,
+                    "resource_id": 20,
+                    "text": "Who establish prayer and give zakāh, and of the Hereafter they are certain [in faith]."
+                },
+                {
+                    "id": 216202,
+                    "resource_id": 39,
+                    "text": "Iaitu mereka yang tetap mendirikan sembahyang dan memberi zakat, sedang mereka pula percaya dengan yakin akan hari akhirat."
+                },
+                {
+                    "id": 1094139,
+                    "resource_id": 161,
+                    "text": "যারা নামায কায়েম করে, যাকাত আদায় করে আর তারা আখিরাতে বিশ্বাসী।"
+                }
+            ]
+        },
+        {
+            "id": 3163,
+            "verse_number": 4,
+            "verse_key": "27:4",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 151,
+            "ruku_number": 327,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ زَيَّنَّا لَهُمْ أَعْمَـٰلَهُمْ فَهُمْ يَعْمَهُونَ",
+            "page_number": 377,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98355,
+                    "resource_id": 20,
+                    "text": "Indeed, for those who do not believe in the Hereafter, We have made pleasing to them their deeds, so they wander blindly."
+                },
+                {
+                    "id": 216211,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya orang-orang yang tidak percaya kepada hari akhirat, Kami jadikan perbuatan-perbuatan buruk mereka kelihatan baik kepada mereka; oleh itu, tinggalah mereka meraba-raba dalam kesesatan."
+                },
+                {
+                    "id": 1094140,
+                    "resource_id": 161,
+                    "text": "যারা আখিরাতে বিশ্বাস করে না, তাদের (চোখে) তাদের কর্মকান্ডকে আমি সুশোভিত করেছি, কাজেই তারা উদভ্রান্ত হয়ে ঘুরে বেড়ায়,"
+                }
+            ]
+        },
+        {
+            "id": 3164,
+            "verse_number": 5,
+            "verse_key": "27:5",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 151,
+            "ruku_number": 327,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ لَهُمْ سُوٓءُ ٱلْعَذَابِ وَهُمْ فِى ٱلْـَٔاخِرَةِ هُمُ ٱلْأَخْسَرُونَ",
+            "page_number": 377,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98367,
+                    "resource_id": 20,
+                    "text": "Those are the ones for whom there will be the worst of punishment, and in the Hereafter they are the greatest losers."
+                },
+                {
+                    "id": 216225,
+                    "resource_id": 39,
+                    "text": "Merekalah orang-orang yang akan beroleh azab seksa yang buruk (di dunia) dan mereka pula pada hari akhirat adalah orang-orang yang palig rugi."
+                },
+                {
+                    "id": 1094141,
+                    "resource_id": 161,
+                    "text": "এরাই হল যাদের জন্য রয়েছে কঠিন শাস্তি আর এরাই আখিরাতে সবচেয়ে ক্ষতিগ্রস্ত।"
+                }
+            ]
+        },
+        {
+            "id": 3165,
+            "verse_number": 6,
+            "verse_key": "27:6",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 151,
+            "ruku_number": 327,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِنَّكَ لَتُلَقَّى ٱلْقُرْءَانَ مِن لَّدُنْ حَكِيمٍ عَلِيمٍ",
+            "page_number": 377,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98379,
+                    "resource_id": 20,
+                    "text": "And indeed, [O Muḥammad], you receive the Qur’ān from one Wise and Knowing."
+                },
+                {
+                    "id": 216236,
+                    "resource_id": 39,
+                    "text": "Dan sesungguhnya engkau (wahai Muhammad) diberikan menyambut dan menerima Al-Quran dari sisi Allah Yang Maha Bijaksana, lagi Maha Mengetahui."
+                },
+                {
+                    "id": 1094142,
+                    "resource_id": 161,
+                    "text": "নিশ্চয় তোমাকে কুরআন দেয়া হয়েছে মহাবিজ্ঞ সর্বজ্ঞের নিকট হতে।"
+                }
+            ]
+        },
+        {
+            "id": 3166,
+            "verse_number": 7,
+            "verse_key": "27:7",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 151,
+            "ruku_number": 327,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "إِذْ قَالَ مُوسَىٰ لِأَهْلِهِۦٓ إِنِّىٓ ءَانَسْتُ نَارًا سَـَٔاتِيكُم مِّنْهَا بِخَبَرٍ أَوْ ءَاتِيكُم بِشِهَابٍ قَبَسٍ لَّعَلَّكُمْ تَصْطَلُونَ",
+            "page_number": 377,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98391,
+                    "resource_id": 20,
+                    "text": "[Mention] when Moses said to his family, \"Indeed, I have perceived a fire. I will bring you from there information or will bring you a burning torch that you may warm yourselves.\""
+                },
+                {
+                    "id": 216248,
+                    "resource_id": 39,
+                    "text": "(Ingatkanlah peristiwa) ketika Nabi Musa berkata kepada isterinya: \"Sesungguhnya aku ada melihat api; aku akan bawakan berita dari situ kepada kamu, atau aku akan bawakan colok api daripadanya, supaya kamu dapat memanaskan diri."
+                },
+                {
+                    "id": 1094143,
+                    "resource_id": 161,
+                    "text": "স্মরণ কর যখন মূসা তার পরিবারবর্গকে বলেছিল- ‘আমি আগুন দেখেছি, কাজেই আমি শীঘ্রই সেখান থেকে তোমাদের জন্য খবর নিয়ে আসব কিংবা তোমাদের কাছে জ্বলন্ত আগুন নিয়ে আসব যাতে তোমরা আগুন পোহাতে পার।’"
+                }
+            ]
+        },
+        {
+            "id": 3167,
+            "verse_number": 8,
+            "verse_key": "27:8",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 151,
+            "ruku_number": 327,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "فَلَمَّا جَآءَهَا نُودِىَ أَنۢ بُورِكَ مَن فِى ٱلنَّارِ وَمَنْ حَوْلَهَا وَسُبْحَـٰنَ ٱللَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+            "page_number": 377,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98403,
+                    "resource_id": 20,
+                    "text": "But when he came to it, he was called, \"Blessed is whoever is at the fire and whoever is around it. And exalted is Allāh, Lord of the worlds."
+                },
+                {
+                    "id": 216261,
+                    "resource_id": 39,
+                    "text": "Maka apabila ia sampai ke tempat api itu, (kedengaran) ia diseru: \"Berkat yang melimpah-limpah kepada orang yang berada dekat api ini dan sesiapa yang ada (di daerah) sekelilingnya; dan Maha Sucilah Allah Tuhan sekalian alam."
+                },
+                {
+                    "id": 1094144,
+                    "resource_id": 161,
+                    "text": "অতঃপর সে যখন আগুনের কাছে আসল তখন আওয়াজ হল- ‘ধন্য, যারা আছে এই আলোর মধ্যে আর তার আশেপাশে, বিশ্বজাহানের প্রতিপালক পবিত্র, মহিমান্বিত।"
+                }
+            ]
+        },
+        {
+            "id": 3168,
+            "verse_number": 9,
+            "verse_key": "27:9",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 151,
+            "ruku_number": 327,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "يَـٰمُوسَىٰٓ إِنَّهُۥٓ أَنَا ٱللَّهُ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+            "page_number": 377,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98415,
+                    "resource_id": 20,
+                    "text": "O Moses, indeed it is I - Allāh, the Exalted in Might, the Wise.\""
+                },
+                {
+                    "id": 214757,
+                    "resource_id": 39,
+                    "text": "\"Wahai Musa, sesungguhnya Akulah Allah Yang Maha Kuasa, lagi Maha Bijaksana."
+                },
+                {
+                    "id": 1094145,
+                    "resource_id": 161,
+                    "text": "হে মূসা! আমি মহা পরাক্রান্ত প্রজ্ঞাময় আল্লাহ।"
+                }
+            ]
+        },
+        {
+            "id": 3169,
+            "verse_number": 10,
+            "verse_key": "27:10",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 151,
+            "ruku_number": 327,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَلْقِ عَصَاكَ ۚ فَلَمَّا رَءَاهَا تَهْتَزُّ كَأَنَّهَا جَآنٌّ وَلَّىٰ مُدْبِرًا وَلَمْ يُعَقِّبْ ۚ يَـٰمُوسَىٰ لَا تَخَفْ إِنِّى لَا يَخَافُ لَدَىَّ ٱلْمُرْسَلُونَ",
+            "page_number": 377,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98318,
+                    "resource_id": 20,
+                    "text": "And [he was told], \"Throw down your staff.\" But when he saw it writhing as if it were a snake, he turned in flight and did not return.<sup foot_note=196975>1</sup> [Allāh said], \"O Moses, fear not. Indeed, in My presence the messengers do not fear."
+                },
+                {
+                    "id": 216176,
+                    "resource_id": 39,
+                    "text": "Dan (sekarang) campakkanlah tongkatmu. Maka apabila ia melihat tongkatnya itu (menjadi seekor ular besar) bergerak cepat tangkas, seolah-olah seekor ular kecil, berpalinglah dia melarikan diri dan tidak menoleh lagi. (Lalu ia diseru): \" Wahai Musa, janganlah takut, sesungguhnya Rasul-rasul itu semasa mengadapku (menerima wahyu), tidak sepatutnya merasa takut,"
+                },
+                {
+                    "id": 1094146,
+                    "resource_id": 161,
+                    "text": "তুমি তোমার লাঠি নিক্ষেপ কর; অতঃপর যখন সে ওটাকে ছুটাছুটি করতে দেখল যেন ওটা একটা সাপ, তখন সে পেছনের দিকে ছুটতে লাগল এবং ফিরেও দেখল না। (তখন বলা হল) হে মূসা! তুমি ভয় করো না, নিশ্চয়ই আমার কাছে রসূলগণ ভয় পায় না।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 10,
+        "total_records": 93
+    }
+}

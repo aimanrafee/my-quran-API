@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 161,
+            "verse_number": 154,
+            "verse_key": "2:154",
+            "hizb_number": 3,
+            "rub_el_hizb_number": 9,
+            "ruku_number": 20,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَا تَقُولُوا۟ لِمَن يُقْتَلُ فِى سَبِيلِ ٱللَّهِ أَمْوَٰتٌۢ ۚ بَلْ أَحْيَآءٌ وَلَـٰكِن لَّا تَشْعُرُونَ",
+            "page_number": 24,
+            "juz_number": 2,
+            "translations": [
+                {
+                    "id": 97512,
+                    "resource_id": 20,
+                    "text": "And do not say about those who are killed in the way of Allāh, \"They are dead.\" Rather, they are alive, but you perceive [it] not."
+                },
+                {
+                    "id": 215385,
+                    "resource_id": 39,
+                    "text": "Dan janganlah kamu mengatakan (bahawa) sesiapa yang terbunuh dalam perjuangan membela Ugama Allah itu: orang-orang mati; bahkan mereka itu orang-orang yang hidup (dengan keadaan hidup yang istimewa), tetapi kamu tidak dapat menyedarinya."
+                },
+                {
+                    "id": 1091138,
+                    "resource_id": 161,
+                    "text": "আর আল্লাহর পথে নিহতদেরকে মৃত বলো না, বরং তারা জীবিত, কিন্তু তোমরা বুঝ না।"
+                }
+            ]
+        },
+        {
+            "id": 162,
+            "verse_number": 155,
+            "verse_key": "2:155",
+            "hizb_number": 3,
+            "rub_el_hizb_number": 9,
+            "ruku_number": 20,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَنَبْلُوَنَّكُم بِشَىْءٍ مِّنَ ٱلْخَوْفِ وَٱلْجُوعِ وَنَقْصٍ مِّنَ ٱلْأَمْوَٰلِ وَٱلْأَنفُسِ وَٱلثَّمَرَٰتِ ۗ وَبَشِّرِ ٱلصَّـٰبِرِينَ",
+            "page_number": 24,
+            "juz_number": 2,
+            "translations": [
+                {
+                    "id": 97514,
+                    "resource_id": 20,
+                    "text": "And We will surely test you with something of fear and hunger and a loss of wealth and lives and fruits, but give good tidings to the patient,"
+                },
+                {
+                    "id": 215387,
+                    "resource_id": 39,
+                    "text": "Demi sesungguhnya! Kami akan menguji kamu dengan sedikit perasaan takut (kepada musuh) dan (dengan merasai) kelaparan, dan (dengan berlakunya) kekurangan dari harta benda dan jiwa serta hasil tanaman. Dan berilah khabar gembira kepada orang-orang yang sabar:"
+                },
+                {
+                    "id": 1091139,
+                    "resource_id": 161,
+                    "text": "তোমাদেরকে ভয় ও ক্ষুধা এবং ধন-সম্পদ, জীবন ও ফল-ফসলের ক্ষয়-ক্ষতি (এসবের) কোনকিছুর দ্বারা নিশ্চয়ই পরীক্ষা করব, ধৈর্যশীলদেরকে সুসংবাদ প্রদান কর।"
+                }
+            ]
+        },
+        {
+            "id": 163,
+            "verse_number": 156,
+            "verse_key": "2:156",
+            "hizb_number": 3,
+            "rub_el_hizb_number": 9,
+            "ruku_number": 20,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِينَ إِذَآ أَصَـٰبَتْهُم مُّصِيبَةٌ قَالُوٓا۟ إِنَّا لِلَّهِ وَإِنَّآ إِلَيْهِ رَٰجِعُونَ",
+            "page_number": 24,
+            "juz_number": 2,
+            "translations": [
+                {
+                    "id": 97516,
+                    "resource_id": 20,
+                    "text": "Who, when disaster strikes them, say, \"Indeed we belong to Allāh, and indeed to Him we will return.\""
+                },
+                {
+                    "id": 215390,
+                    "resource_id": 39,
+                    "text": "(Iaitu) orang-orang yang apabila mereka ditimpa oleh sesuatu kesusahan, mereka berkata: \"Sesungguhnya kami adalah kepunyaan Allah dan kepada Allah jualah kami kembali.\""
+                },
+                {
+                    "id": 1091140,
+                    "resource_id": 161,
+                    "text": "নিশ্চয়ই যারা বিপদকালে বলে থাকে, ‘আমরা আল্লাহরই আর আমরা তাঁরই দিকে প্রত্যাবর্তনকারী’।"
+                }
+            ]
+        },
+        {
+            "id": 164,
+            "verse_number": 157,
+            "verse_key": "2:157",
+            "hizb_number": 3,
+            "rub_el_hizb_number": 9,
+            "ruku_number": 20,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "أُو۟لَـٰٓئِكَ عَلَيْهِمْ صَلَوَٰتٌ مِّن رَّبِّهِمْ وَرَحْمَةٌ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُهْتَدُونَ",
+            "page_number": 24,
+            "juz_number": 2,
+            "translations": [
+                {
+                    "id": 97518,
+                    "resource_id": 20,
+                    "text": "Those are the ones upon whom are blessings from their Lord and mercy. And it is those who are the [rightly] guided."
+                },
+                {
+                    "id": 215392,
+                    "resource_id": 39,
+                    "text": "Mereka itu ialah orang-orang yang dilimpahi dengan berbagai-bagai kebaikan dari Tuhan mereka serta rahmatNya; dan mereka itulah orang-orang yang dapat petunjuk hidayahNya."
+                },
+                {
+                    "id": 1091141,
+                    "resource_id": 161,
+                    "text": "এদের প্রতি রয়েছে তাদের প্রতিপালকের পক্ষ হতে অনুগ্রহ ও করুণা আর এরাই হিদায়াতপ্রাপ্ত।"
+                }
+            ]
+        },
+        {
+            "id": 165,
+            "verse_number": 158,
+            "verse_key": "2:158",
+            "hizb_number": 3,
+            "rub_el_hizb_number": 10,
+            "ruku_number": 20,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "۞ إِنَّ ٱلصَّفَا وَٱلْمَرْوَةَ مِن شَعَآئِرِ ٱللَّهِ ۖ فَمَنْ حَجَّ ٱلْبَيْتَ أَوِ ٱعْتَمَرَ فَلَا جُنَاحَ عَلَيْهِ أَن يَطَّوَّفَ بِهِمَا ۚ وَمَن تَطَوَّعَ خَيْرًا فَإِنَّ ٱللَّهَ شَاكِرٌ عَلِيمٌ",
+            "page_number": 24,
+            "juz_number": 2,
+            "translations": [
+                {
+                    "id": 97520,
+                    "resource_id": 20,
+                    "text": "Indeed, aṣ-Ṣafā and al-Marwah are among the symbols<sup foot_note=195985>1</sup> of Allāh. So whoever makes ḥajj [pilgrimage] to the House or performs ʿumrah - there is no blame upon him for walking between them.<sup foot_note=195984>2</sup> And whoever volunteers good - then indeed, Allāh is Appreciative<sup foot_note=195983>3</sup> and Knowing."
+                },
+                {
+                    "id": 215391,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya \"Safa\" dan \"Marwah\" itu ialah sebahagian daripada Syiar (lambang) ugama Allah; maka sesiapa yang menunaikan ibadat Haji ke Baitullah atau mengerjakan Umrah, maka tiadalah menjadi salah ia bersaie (berjalan dengan berulang-alik) di antara keduanya. Dan sesiapa yang bersukarela mengerjakan perkara kebajikan, maka sesungguhnya Allah memberi balasan pahala, lagi Maha Mengetahui."
+                },
+                {
+                    "id": 1091142,
+                    "resource_id": 161,
+                    "text": "নিশ্চয়ই ‘সাফা’ এবং ‘মারওয়া’ আল্লাহর নিদর্শনগুলোর অন্যতম। কাজেই যে ব্যক্তি কাবাগৃহের হাজ্জ অথবা ‘উমরাহ করবে, এ দু’টোর সাঈ করাতে তাদের কোনই গুনাহ নেই এবং যে ব্যক্তি স্বেচ্ছায় কোন সৎ কাজ করবে তাহলে নিশ্চয় আল্লাহ (তার ব্যাপারে) গুণগ্রাহী এবং সর্বজ্ঞ।"
+                }
+            ]
+        },
+        {
+            "id": 166,
+            "verse_number": 159,
+            "verse_key": "2:159",
+            "hizb_number": 3,
+            "rub_el_hizb_number": 10,
+            "ruku_number": 20,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ ٱلَّذِينَ يَكْتُمُونَ مَآ أَنزَلْنَا مِنَ ٱلْبَيِّنَـٰتِ وَٱلْهُدَىٰ مِنۢ بَعْدِ مَا بَيَّنَّـٰهُ لِلنَّاسِ فِى ٱلْكِتَـٰبِ ۙ أُو۟لَـٰٓئِكَ يَلْعَنُهُمُ ٱللَّهُ وَيَلْعَنُهُمُ ٱللَّـٰعِنُونَ",
+            "page_number": 24,
+            "juz_number": 2,
+            "translations": [
+                {
+                    "id": 97522,
+                    "resource_id": 20,
+                    "text": "Indeed, those who conceal what We sent down of clear proofs and guidance after We made it clear for the people in the Scripture - those are cursed by Allāh and cursed by those who curse,<sup foot_note=195986>1</sup>"
+                },
+                {
+                    "id": 215393,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya orang-orang yang menyembunyikan apa yang telah Kami turunkan dari keterangan-keterangan dan petunjuk hidayah, sesudah Kami menerangkannya kepada manusia di dalam Kitab Suci, mereka itu dilaknat oleh Allah dan dilaknat oleh sekalian makhluk."
+                },
+                {
+                    "id": 1091143,
+                    "resource_id": 161,
+                    "text": "নিশ্চয়ই যারা আমার অবতীর্ণ কোন দলীল এবং হিদায়াতকে লোকেদের জন্য আমি কিতাবের মধ্যে বর্ণনা করার পরেও গোপন করে, আল্লাহ তাদেরকে অভিসম্পাত করেন আর অভিসম্পাতকারীরাও তাদের প্রতি অভিসম্পাত করে থাকে।"
+                }
+            ]
+        },
+        {
+            "id": 167,
+            "verse_number": 160,
+            "verse_key": "2:160",
+            "hizb_number": 3,
+            "rub_el_hizb_number": 10,
+            "ruku_number": 20,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "إِلَّا ٱلَّذِينَ تَابُوا۟ وَأَصْلَحُوا۟ وَبَيَّنُوا۟ فَأُو۟لَـٰٓئِكَ أَتُوبُ عَلَيْهِمْ ۚ وَأَنَا ٱلتَّوَّابُ ٱلرَّحِيمُ",
+            "page_number": 24,
+            "juz_number": 2,
+            "translations": [
+                {
+                    "id": 97526,
+                    "resource_id": 20,
+                    "text": "Except for those who repent and correct themselves and make evident [what they concealed]. Those - I will accept their repentance, and I am the Accepting of Repentance,<sup foot_note=195987>1</sup> the Merciful."
+                },
+                {
+                    "id": 215397,
+                    "resource_id": 39,
+                    "text": "Kecuali orang-orang yang bertaubat, dan memperbaiki (amal buruk mereka) serta menerangkan (apa yang mereka sembunyikan); maka orang-orang itu, Aku terima taubat mereka, dan Akulah Yang Maha Penerima taubat, lagi Maha Mengasihani."
+                },
+                {
+                    "id": 1091144,
+                    "resource_id": 161,
+                    "text": "কিন্তু যারা তাওবাহ করে এবং সংশোধন করে নেয় এবং (সত্যকে) সুস্পষ্টভাবে বর্ণনা করে, তাদের তাওবাহ আমি কবুল করি, বস্তুতঃ আমি অত্যধিক তাওবাহ কবুলকারী, পরম দয়ালু।"
+                }
+            ]
+        },
+        {
+            "id": 168,
+            "verse_number": 161,
+            "verse_key": "2:161",
+            "hizb_number": 3,
+            "rub_el_hizb_number": 10,
+            "ruku_number": 20,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَمَاتُوا۟ وَهُمْ كُفَّارٌ أُو۟لَـٰٓئِكَ عَلَيْهِمْ لَعْنَةُ ٱللَّهِ وَٱلْمَلَـٰٓئِكَةِ وَٱلنَّاسِ أَجْمَعِينَ",
+            "page_number": 24,
+            "juz_number": 2,
+            "translations": [
+                {
+                    "id": 97528,
+                    "resource_id": 20,
+                    "text": "Indeed, those who disbelieve and die while they are disbelievers - upon them will be the curse of Allāh and of the angels and the people, all together,"
+                },
+                {
+                    "id": 215405,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya orang-orang yang kafir, dan mereka mati sedang mereka tetap dalam keadaan kafir, mereka itulah orang-orang yang ditimpa laknat Allah dan malaikat serta manusia sekaliannya."
+                },
+                {
+                    "id": 1091145,
+                    "resource_id": 161,
+                    "text": "নিশ্চয় যারা কাফির এবং কাফের অবস্থাতেই মারা যায়, এমন লোকেদের প্রতি আল্লাহর, ফেরেশতাদের এবং সকল মানুষের অভিসম্পাত।"
+                }
+            ]
+        },
+        {
+            "id": 169,
+            "verse_number": 162,
+            "verse_key": "2:162",
+            "hizb_number": 3,
+            "rub_el_hizb_number": 10,
+            "ruku_number": 20,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "خَـٰلِدِينَ فِيهَا ۖ لَا يُخَفَّفُ عَنْهُمُ ٱلْعَذَابُ وَلَا هُمْ يُنظَرُونَ",
+            "page_number": 24,
+            "juz_number": 2,
+            "translations": [
+                {
+                    "id": 97530,
+                    "resource_id": 20,
+                    "text": "Abiding eternally therein. The punishment will not be lightened for them, nor will they be reprieved."
+                },
+                {
+                    "id": 215400,
+                    "resource_id": 39,
+                    "text": "Mereka kekal di dalam laknat itu, tidak diringankan azab sengsara dari mereka dan mereka pula tidak diberikan tempoh atau perhatian."
+                },
+                {
+                    "id": 1091146,
+                    "resource_id": 161,
+                    "text": "তাতে তারা চিরকাল থাকবে, তাদের উপর ‘আযাব হালকা করা হবে না আর তাদেরকে বিরামও দেয়া হবে না।"
+                }
+            ]
+        },
+        {
+            "id": 170,
+            "verse_number": 163,
+            "verse_key": "2:163",
+            "hizb_number": 3,
+            "rub_el_hizb_number": 10,
+            "ruku_number": 20,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِلَـٰهُكُمْ إِلَـٰهٌ وَٰحِدٌ ۖ لَّآ إِلَـٰهَ إِلَّا هُوَ ٱلرَّحْمَـٰنُ ٱلرَّحِيمُ",
+            "page_number": 24,
+            "juz_number": 2,
+            "translations": [
+                {
+                    "id": 97532,
+                    "resource_id": 20,
+                    "text": "And your god is one God. There is no deity [worthy of worship] except Him, the Entirely Merciful, the Especially Merciful."
+                },
+                {
+                    "id": 215402,
+                    "resource_id": 39,
+                    "text": "Dan Tuhan kamu ialah Tuhan yang Maha Esa; tiada Tuhan (Yang berhak disembah) selain dari Allah, yang Maha Pemurah, lagi Maha Mengasihani."
+                },
+                {
+                    "id": 1091147,
+                    "resource_id": 161,
+                    "text": "তোমাদের উপাস্য হচ্ছেন এক আল্লাহ, তিনি ছাড়া সত্যিকারের কোন উপাস্য নেই। তিনি পরম করুনাময়, অতি দয়ালু।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 10
+    }
+}

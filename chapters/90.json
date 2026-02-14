@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 6024,
+            "verse_number": 1,
+            "verse_key": "90:1",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 534,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " لَآ أُقْسِمُ بِهَـٰذَا ٱلْبَلَدِ",
+            "page_number": 594,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102142,
+                    "resource_id": 20,
+                    "text": "I swear by this city [i.e., Makkah]"
+                },
+                {
+                    "id": 219960,
+                    "resource_id": 39,
+                    "text": "Aku bersumpah dengan negeri (Makkah) ini;"
+                },
+                {
+                    "id": 1097001,
+                    "resource_id": 161,
+                    "text": "(কাফিররা বলছে দুনিয়ার জীবনই সবকিছু) না, আমি এই (মক্কা) নগরের শপথ করছি (যে নগরে সকলেই নিরাপদ),"
+                }
+            ]
+        },
+        {
+            "id": 6025,
+            "verse_number": 2,
+            "verse_key": "90:2",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 534,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَنتَ حِلٌّۢ بِهَـٰذَا ٱلْبَلَدِ",
+            "page_number": 594,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102153,
+                    "resource_id": 20,
+                    "text": "And you, [O Muḥammad], are free of restriction in this city"
+                },
+                {
+                    "id": 219971,
+                    "resource_id": 39,
+                    "text": "Sedang engkau (wahai Muhammad) tinggal di negeri ini (sentiasa ditindas),"
+                },
+                {
+                    "id": 1097002,
+                    "resource_id": 161,
+                    "text": "আর তুমি এই নগরের হালালকারী।"
+                }
+            ]
+        },
+        {
+            "id": 6026,
+            "verse_number": 3,
+            "verse_key": "90:3",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 534,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَوَالِدٍ وَمَا وَلَدَ",
+            "page_number": 594,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102155,
+                    "resource_id": 20,
+                    "text": "And [by] the father<sup foot_note=197764>1</sup> and that which was born [of him],"
+                },
+                {
+                    "id": 219972,
+                    "resource_id": 39,
+                    "text": "Demi manusia yang melahirkan zuriat, dan zuriat yang dilahirkannya;"
+                },
+                {
+                    "id": 1097003,
+                    "resource_id": 161,
+                    "text": "শপথ জন্মদাতা (আদম)-এর আর যা সে জন্ম দিয়েছে (সেই সমস্ত মানুষের),"
+                }
+            ]
+        },
+        {
+            "id": 6027,
+            "verse_number": 4,
+            "verse_key": "90:4",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 534,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِى كَبَدٍ",
+            "page_number": 594,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102156,
+                    "resource_id": 20,
+                    "text": "We have certainly created man into hardship."
+                },
+                {
+                    "id": 219916,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Kami telah jadikan manusia sentiasa dalam keadaan menghadapi kesulitan dan kesukaran (jasmani dan rohaninya);"
+                },
+                {
+                    "id": 1097004,
+                    "resource_id": 161,
+                    "text": "আমি মানুষকে সৃষ্টি করেছি অত্যন্ত কষ্ট ও শ্রমের মাঝে, (দুনিয়ার প্রত্যেকটি মানুষ কোন না কোন কষ্টের মধ্যে পতিত আছে)।"
+                }
+            ]
+        },
+        {
+            "id": 6028,
+            "verse_number": 5,
+            "verse_key": "90:5",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 534,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ",
+            "page_number": 594,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102157,
+                    "resource_id": 20,
+                    "text": "Does he think that never will anyone overcome him?"
+                },
+                {
+                    "id": 219974,
+                    "resource_id": 39,
+                    "text": "Patutkah manusia yang demikian keadaannya (terpedaya dengan kekuasaan yang ada padanya dan) menyangka bahawa tidak ada sesiapapun yang dapat mengatasi kekuasaannya (dan menyeksakannya)?"
+                },
+                {
+                    "id": 1097005,
+                    "resource_id": 161,
+                    "text": "সে কি মনে করে যে তার উপর কেউ ক্ষমতাবান নেই?"
+                }
+            ]
+        },
+        {
+            "id": 6029,
+            "verse_number": 6,
+            "verse_key": "90:6",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 534,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "يَقُولُ أَهْلَكْتُ مَالًا لُّبَدًا",
+            "page_number": 594,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102158,
+                    "resource_id": 20,
+                    "text": "He says, \"I have spent wealth in abundance.\""
+                },
+                {
+                    "id": 219975,
+                    "resource_id": 39,
+                    "text": "Manusia yang demikian keadaannya (tidaklah patut ia bermegah-megah dengan kekayaannya dan) berkata: \"Aku telah habiskan harta benda yang banyak (dalam usaha menegakkan nama dan bangsa)."
+                },
+                {
+                    "id": 1097006,
+                    "resource_id": 161,
+                    "text": "সে (গর্বের সঙ্গে) বলে যে, আমি প্রচুর ধন-সম্পদ উড়িয়েছি।"
+                }
+            ]
+        },
+        {
+            "id": 6030,
+            "verse_number": 7,
+            "verse_key": "90:7",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 534,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَيَحْسَبُ أَن لَّمْ يَرَهُۥٓ أَحَدٌ",
+            "page_number": 594,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102159,
+                    "resource_id": 20,
+                    "text": "Does he think that no one has seen him?"
+                },
+                {
+                    "id": 219976,
+                    "resource_id": 39,
+                    "text": "Adakah ia menyangka bahawa tidak ada sesiapapun yang melihatnya (dan mengetahui tujuannya menghabiskan harta bendanya itu?"
+                },
+                {
+                    "id": 1097007,
+                    "resource_id": 161,
+                    "text": "সে কি মনে করে যে তাকে কেউ দেখেনি?"
+                }
+            ]
+        },
+        {
+            "id": 6031,
+            "verse_number": 8,
+            "verse_key": "90:8",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 534,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ",
+            "page_number": 594,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102160,
+                    "resource_id": 20,
+                    "text": "Have We not made for him two eyes?"
+                },
+                {
+                    "id": 219977,
+                    "resource_id": 39,
+                    "text": "(Mengapa manusia terpedaya dan bermegah-megah?) Tidakkah Kami telah menjadikan baginya: dua mata (untuk ia memerhatikan kekuasaan dan kekayaan Kami?) -"
+                },
+                {
+                    "id": 1097008,
+                    "resource_id": 161,
+                    "text": "আমি কি তাকে দু’টো চোখ দিইনি?"
+                }
+            ]
+        },
+        {
+            "id": 6032,
+            "verse_number": 9,
+            "verse_key": "90:9",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 534,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلِسَانًا وَشَفَتَيْنِ",
+            "page_number": 594,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102161,
+                    "resource_id": 20,
+                    "text": "And a tongue and two lips?"
+                },
+                {
+                    "id": 219978,
+                    "resource_id": 39,
+                    "text": "Dan lidah serta dua bibir (untuk ia menyempurnakan sebahagian besar dari hajat-hajatnya)?"
+                },
+                {
+                    "id": 1097009,
+                    "resource_id": 161,
+                    "text": "আর একটা জিহবা আর দু’টো ঠোঁট?"
+                }
+            ]
+        },
+        {
+            "id": 6033,
+            "verse_number": 10,
+            "verse_key": "90:10",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 534,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَهَدَيْنَـٰهُ ٱلنَّجْدَيْنِ",
+            "page_number": 594,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102143,
+                    "resource_id": 20,
+                    "text": "And have shown him the two ways?<sup foot_note=197765>1</sup>"
+                },
+                {
+                    "id": 219961,
+                    "resource_id": 39,
+                    "text": "Dan Kami telah menunjukkan kepadanya dua jalan, (jalan kebaikan untuk dijalaninya, dan jalan kejahatan untuk dijauhi)?"
+                },
+                {
+                    "id": 1097010,
+                    "resource_id": 161,
+                    "text": "আর আমি তাকে (পাপ ও পুণ্যের) দু’টো পথ দেখিয়েছি।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 2,
+        "total_records": 20
+    }
+}

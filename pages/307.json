@@ -1,0 +1,401 @@
+{
+    "verses": [
+        {
+            "id": 2276,
+            "verse_number": 26,
+            "verse_key": "19:26",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 123,
+            "ruku_number": 265,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَكُلِى وَٱشْرَبِى وَقَرِّى عَيْنًا ۖ فَإِمَّا تَرَيِنَّ مِنَ ٱلْبَشَرِ أَحَدًا فَقُولِىٓ إِنِّى نَذَرْتُ لِلرَّحْمَـٰنِ صَوْمًا فَلَنْ أُكَلِّمَ ٱلْيَوْمَ إِنسِيًّا",
+            "page_number": 307,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97175,
+                    "resource_id": 20,
+                    "text": "So eat and drink and be contented. And if you see from among humanity anyone, say, 'Indeed, I have vowed to the Most Merciful abstention, so I will not speak today to [any] man.'\""
+                },
+                {
+                    "id": 215044,
+                    "resource_id": 39,
+                    "text": "\"Maka makanlah dan minumlah serta bertenanglah hati dari segala yang merunsingkan. Kemudian kalau engkau melihat seseorang manusia, maka katakanlah: Sesungguhnya aku bernazar diam membisu kerana (Allah) Ar-Rahman; (setelah aku menyatakan yang demikian) maka aku tidak akan berkata-kata kepada sesiapapun dari kalangan manusia pada hari ini\"."
+                },
+                {
+                    "id": 1093253,
+                    "resource_id": 161,
+                    "text": "অতঃপর খাও, পান কর আর (তোমার) চোখ জুড়াও। যদি তুমি কোন লোককে দেখতে পাও তাহলে বলবে- আমি রহমান আল্লাহর জন্য সাওম পালনের মানৎ করেছি, কাজেই আমি কোন মানুষের সঙ্গে আজ কিছুতেই কথা বলব না।’"
+                }
+            ]
+        },
+        {
+            "id": 2277,
+            "verse_number": 27,
+            "verse_key": "19:27",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 123,
+            "ruku_number": 265,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَأَتَتْ بِهِۦ قَوْمَهَا تَحْمِلُهُۥ ۖ قَالُوا۟ يَـٰمَرْيَمُ لَقَدْ جِئْتِ شَيْـًٔا فَرِيًّا",
+            "page_number": 307,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97176,
+                    "resource_id": 20,
+                    "text": "Then she brought him to her people, carrying him. They said, \"O Mary, you have certainly done a thing unprecedented."
+                },
+                {
+                    "id": 215059,
+                    "resource_id": 39,
+                    "text": "Kemudian baliklah ia kepada kaumnya dengan mendokong anaknya mereka pun menempelaknya dengan berkata: Wahai Maryam! Sesungguhnya engkau telah melakukan suatu perkara yang besar salahnya!"
+                },
+                {
+                    "id": 1093254,
+                    "resource_id": 161,
+                    "text": "অতঃপর সে তার সন্তানকে বয়ে নিয়ে তার সম্প্রদায়ের কাছে আসল। তারা বলল, ‘হে মারইয়াম! তুমি তো এক অদ্ভুত জিনিস নিয়ে এসেছ!"
+                }
+            ]
+        },
+        {
+            "id": 2278,
+            "verse_number": 28,
+            "verse_key": "19:28",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 123,
+            "ruku_number": 265,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "يَـٰٓأُخْتَ هَـٰرُونَ مَا كَانَ أَبُوكِ ٱمْرَأَ سَوْءٍ وَمَا كَانَتْ أُمُّكِ بَغِيًّا",
+            "page_number": 307,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97177,
+                    "resource_id": 20,
+                    "text": "O sister [i.e., descendant] of Aaron, your father was not a man of evil, nor was your mother unchaste.\""
+                },
+                {
+                    "id": 215047,
+                    "resource_id": 39,
+                    "text": "\" Wahai saudara perempuan Harun, bapamu bukanlah seorang yang buruk akhlaknya, dan ibumu pula bukanlah seorang perempuan jahat!\""
+                },
+                {
+                    "id": 1093255,
+                    "resource_id": 161,
+                    "text": "ওহে হারূনের বোন! তোমার পিতা তো খারাপ লোক ছিল না, আর তোমার মাও ছিল না কোন অসতী নারী।’"
+                }
+            ]
+        },
+        {
+            "id": 2279,
+            "verse_number": 29,
+            "verse_key": "19:29",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 123,
+            "ruku_number": 265,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَأَشَارَتْ إِلَيْهِ ۖ قَالُوا۟ كَيْفَ نُكَلِّمُ مَن كَانَ فِى ٱلْمَهْدِ صَبِيًّا",
+            "page_number": 307,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97178,
+                    "resource_id": 20,
+                    "text": "So she pointed to him. They said, \"How can we speak to one who is in the cradle a child?\""
+                },
+                {
+                    "id": 215048,
+                    "resource_id": 39,
+                    "text": "Maka Maryam segera menunjuk kepada anaknya. Mereka berkata (dengan hairannya): \"Bagaimana kami boleh berkata-kata dengan seorang yang masih kanak-kanak dalam buaian?\""
+                },
+                {
+                    "id": 1093256,
+                    "resource_id": 161,
+                    "text": "তখন মারইয়াম তার ছেলের দিকে ইশারা করল। তারা বলল, ‘আমরা কোলের বাচ্চার সঙ্গে কীভাবে কথা বলব?’"
+                }
+            ]
+        },
+        {
+            "id": 2280,
+            "verse_number": 30,
+            "verse_key": "19:30",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 123,
+            "ruku_number": 265,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ إِنِّى عَبْدُ ٱللَّهِ ءَاتَىٰنِىَ ٱلْكِتَـٰبَ وَجَعَلَنِى نَبِيًّا",
+            "page_number": 307,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97180,
+                    "resource_id": 20,
+                    "text": "[Jesus] said, \"Indeed, I am the servant of Allāh. He has given me the Scripture and made me a prophet."
+                },
+                {
+                    "id": 215050,
+                    "resource_id": 39,
+                    "text": "Ia menjawab:\" Sesungguhnya aku ini hamba Allah; Ia telah memberikan kepadaku Kitab (Injil), dan Ia telah menjadikan daku seorang Nabi."
+                },
+                {
+                    "id": 1093257,
+                    "resource_id": 161,
+                    "text": "শিশুটি বলে উঠল, ‘আমি আল্লাহর বান্দাহ, তিনি আমাকে কিতাব দিয়েছেন, আর আমাকে নবী করেছেন।"
+                }
+            ]
+        },
+        {
+            "id": 2281,
+            "verse_number": 31,
+            "verse_key": "19:31",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 123,
+            "ruku_number": 265,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَجَعَلَنِى مُبَارَكًا أَيْنَ مَا كُنتُ وَأَوْصَـٰنِى بِٱلصَّلَوٰةِ وَٱلزَّكَوٰةِ مَا دُمْتُ حَيًّا",
+            "page_number": 307,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97181,
+                    "resource_id": 20,
+                    "text": "And He has made me blessed wherever I am and has enjoined upon me prayer and zakāh as long as I remain alive"
+                },
+                {
+                    "id": 215051,
+                    "resource_id": 39,
+                    "text": "Dan Ia menjadikan daku seorang yang berkat di mana sahaja aku berada, dan diperintahkan daku mengerjakan sembahyang dan memberi zakat selagi aku hidup."
+                },
+                {
+                    "id": 1093258,
+                    "resource_id": 161,
+                    "text": "আমি যেখানেই থাকি না কেন তিনি আমাকে বরকতময় করেছেন আর আমাকে নামায ও যাকাতের হুকুম দিয়েছেন- যতদিন আমি জীবিত থাকি।"
+                }
+            ]
+        },
+        {
+            "id": 2282,
+            "verse_number": 32,
+            "verse_key": "19:32",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 123,
+            "ruku_number": 265,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَبَرًّۢا بِوَٰلِدَتِى وَلَمْ يَجْعَلْنِى جَبَّارًا شَقِيًّا",
+            "page_number": 307,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97182,
+                    "resource_id": 20,
+                    "text": "And [made me] dutiful to my mother, and He has not made me a wretched tyrant."
+                },
+                {
+                    "id": 215052,
+                    "resource_id": 39,
+                    "text": "\" Serta (diperintahkan daku) taat dan berbuat baik kepada ibuku, dan Ia tidak menjadikan daku seorang yang sombong takbur atau derhaka."
+                },
+                {
+                    "id": 1093259,
+                    "resource_id": 161,
+                    "text": "আর (তিনি আমাকে করেছেন) আমার মাতার প্রতি সদয়, তিনি আমাকে দাম্ভিক হতভাগ্য করেননি।"
+                }
+            ]
+        },
+        {
+            "id": 2283,
+            "verse_number": 33,
+            "verse_key": "19:33",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 123,
+            "ruku_number": 265,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلسَّلَـٰمُ عَلَىَّ يَوْمَ وُلِدتُّ وَيَوْمَ أَمُوتُ وَيَوْمَ أُبْعَثُ حَيًّا",
+            "page_number": 307,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97183,
+                    "resource_id": 20,
+                    "text": "And peace is on me the day I was born and the day I will die and the day I am raised alive.\""
+                },
+                {
+                    "id": 215053,
+                    "resource_id": 39,
+                    "text": "Dan segala keselamatan serta kesejahteraan dilimpahkan kepadaku pada hari aku diperanakkan dan pada hari aku mati, serta pada hari aku dibangkitkan hidup semula (pada hari kiamat)\"."
+                },
+                {
+                    "id": 1093260,
+                    "resource_id": 161,
+                    "text": "আমার উপর আছে শান্তি যেদিন আমি জন্মেছি, যেদিন আমার মৃত্যু হবে আর আমি যেদিন জীবিত হয়ে উত্থিত হব।’"
+                }
+            ]
+        },
+        {
+            "id": 2284,
+            "verse_number": 34,
+            "verse_key": "19:34",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 123,
+            "ruku_number": 265,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "ذَٰلِكَ عِيسَى ٱبْنُ مَرْيَمَ ۚ قَوْلَ ٱلْحَقِّ ٱلَّذِى فِيهِ يَمْتَرُونَ",
+            "page_number": 307,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97184,
+                    "resource_id": 20,
+                    "text": "That is Jesus, the son of Mary - the word of truth about which they are in dispute."
+                },
+                {
+                    "id": 215054,
+                    "resource_id": 39,
+                    "text": "Yang demikian sifat-sifatnya itulah Isa Ibni Maryam. Keterangan yang tersebut ialah keterangan yang sebenar-benarnya, yang mereka ragu-ragu dan berselisihan padanya."
+                },
+                {
+                    "id": 1093261,
+                    "resource_id": 161,
+                    "text": "এই হচ্ছে মারইয়াম-পুত্র ঈসা, (এটাই) সত্য কথা যে বিষয়ে লোকেরা সন্দেহ পোষণ করে।"
+                }
+            ]
+        },
+        {
+            "id": 2285,
+            "verse_number": 35,
+            "verse_key": "19:35",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 123,
+            "ruku_number": 265,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "مَا كَانَ لِلَّهِ أَن يَتَّخِذَ مِن وَلَدٍ ۖ سُبْحَـٰنَهُۥٓ ۚ إِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ",
+            "page_number": 307,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97185,
+                    "resource_id": 20,
+                    "text": "It is not [befitting] for Allāh to take a son; exalted is He!<sup foot_note=196724>1</sup> When He decrees an affair, He only says to it, \"Be,\" and it is."
+                },
+                {
+                    "id": 215055,
+                    "resource_id": 39,
+                    "text": "Tiadalah layak bagi Allah mempunyai anak. Maha Sucilah Ia. Apabila menetapkan jadinya sesuatu perkara, maka hanyalah Ia berfirman kepadanya: \"Jadilah engkau\", lalu menjadilah ia."
+                },
+                {
+                    "id": 1093262,
+                    "resource_id": 161,
+                    "text": "সন্তান গ্রহণ করা আল্লাহর কাজ নয়, তিনি পবিত্র, মহান; যখন তিনি কিছু করার সিদ্ধান্ত করেন তখন তার জন্য শুধু বলেন, ‘হয়ে যাও’, আর তা হয়ে যায়।"
+                }
+            ]
+        },
+        {
+            "id": 2286,
+            "verse_number": 36,
+            "verse_key": "19:36",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 123,
+            "ruku_number": 265,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِنَّ ٱللَّهَ رَبِّى وَرَبُّكُمْ فَٱعْبُدُوهُ ۚ هَـٰذَا صِرَٰطٌ مُّسْتَقِيمٌ",
+            "page_number": 307,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97186,
+                    "resource_id": 20,
+                    "text": "[Jesus said], \"And indeed, Allāh is my Lord and your Lord, so worship Him. That is a straight path.\""
+                },
+                {
+                    "id": 215056,
+                    "resource_id": 39,
+                    "text": "Dan sesungguhnya Allah ialah Tuhanku dan Tuhan kamu maka sembahlah kamu akan Dia inilah jalan yang betul - lurus \"."
+                },
+                {
+                    "id": 1093263,
+                    "resource_id": 161,
+                    "text": "আল্লাহ্ই আমার ও তোমাদের প্রতিপালক, কাজেই তোমরা তাঁরই ‘ইবাদাত কর, এটাই সরল সুদৃঢ় পথ।"
+                }
+            ]
+        },
+        {
+            "id": 2287,
+            "verse_number": 37,
+            "verse_key": "19:37",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 123,
+            "ruku_number": 265,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَٱخْتَلَفَ ٱلْأَحْزَابُ مِنۢ بَيْنِهِمْ ۖ فَوَيْلٌ لِّلَّذِينَ كَفَرُوا۟ مِن مَّشْهَدِ يَوْمٍ عَظِيمٍ",
+            "page_number": 307,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97187,
+                    "resource_id": 20,
+                    "text": "Then the factions differed [concerning Jesus] from among them, so woe to those who disbelieved - from the scene of a tremendous Day."
+                },
+                {
+                    "id": 215057,
+                    "resource_id": 39,
+                    "text": "Kemudian, golongan-golongan (dari kaumnya) itu berselisihan sesama sendiri. Maka kecelakaanlah bagi orang-orang kafir (yang berselisihan) itu, dari apa yang disaksikan pada hari yang besar huru-haranya."
+                },
+                {
+                    "id": 1093264,
+                    "resource_id": 161,
+                    "text": "অতঃপর দলগুলো তাদের মধ্যে মতভেদ করল। কাজেই সেই ভয়াবহ দিনের উপস্থিতকালে কাফিরদের জন্য ধ্বংস অনিবার্য।"
+                }
+            ]
+        },
+        {
+            "id": 2288,
+            "verse_number": 38,
+            "verse_key": "19:38",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 123,
+            "ruku_number": 265,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "أَسْمِعْ بِهِمْ وَأَبْصِرْ يَوْمَ يَأْتُونَنَا ۖ لَـٰكِنِ ٱلظَّـٰلِمُونَ ٱلْيَوْمَ فِى ضَلَـٰلٍ مُّبِينٍ",
+            "page_number": 307,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97188,
+                    "resource_id": 20,
+                    "text": "How [clearly] they will hear and see the Day they come to Us, but the wrongdoers today are in clear error."
+                },
+                {
+                    "id": 215058,
+                    "resource_id": 39,
+                    "text": "Sungguh jelas pendengaran dan penglihatan mereka yang kafir itu semasa mereka datang mengadap Kami pada hari akhirat. Tetapi orang-orang yang zalim (dengan perbuatan kufur dan maksiat) pada masa di dunia ini, berada dalam kesesatan yang nyata"
+                },
+                {
+                    "id": 1093265,
+                    "resource_id": 161,
+                    "text": "যেদিন তারা আমার কাছে আসবে সেদিন কতই না স্পষ্টভাবে তারা শুনতে পাবে আর দেখতে পাবে। কিন্তু যালিমরা আজ স্পষ্ট গুমরাহীর মধ্যে পড়ে আছে।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 13,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 13
+    }
+}

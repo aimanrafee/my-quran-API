@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 1443,
+            "verse_number": 79,
+            "verse_key": "10:79",
+            "hizb_number": 22,
+            "rub_el_hizb_number": 87,
+            "ruku_number": 179,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَقَالَ فِرْعَوْنُ ٱئْتُونِى بِكُلِّ سَـٰحِرٍ عَلِيمٍ",
+            "page_number": 218,
+            "juz_number": 11,
+            "translations": [
+                {
+                    "id": 96309,
+                    "resource_id": 20,
+                    "text": "And Pharaoh said, \"Bring to me every learned magician.\""
+                },
+                {
+                    "id": 220279,
+                    "resource_id": 39,
+                    "text": "Dan berkatalah Firaun (kepada orang-orangnya): \"Bawalah kamu kepadaku segala ahli sihir yang mahir\"."
+                },
+                {
+                    "id": 1092420,
+                    "resource_id": 161,
+                    "text": "ফির‘আওন বলল, ‘‘সকল পারদর্শী যাদুকরদের আমার কাছে নিয়ে এসো’’।"
+                }
+            ]
+        },
+        {
+            "id": 1444,
+            "verse_number": 80,
+            "verse_key": "10:80",
+            "hizb_number": 22,
+            "rub_el_hizb_number": 87,
+            "ruku_number": 179,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "فَلَمَّا جَآءَ ٱلسَّحَرَةُ قَالَ لَهُم مُّوسَىٰٓ أَلْقُوا۟ مَآ أَنتُم مُّلْقُونَ",
+            "page_number": 218,
+            "juz_number": 11,
+            "translations": [
+                {
+                    "id": 96311,
+                    "resource_id": 20,
+                    "text": "So when the magicians came, Moses said to them, \"Throw down whatever you will throw.\""
+                },
+                {
+                    "id": 220596,
+                    "resource_id": 39,
+                    "text": "Setelah datang ahli-ahli sihir itu, Nabi Musa berkata kepada mereka:\" Campakkanlah kamu dahulu apa yang kamu hendak campakkan (diri benda-benda yang kamu jadikan sihir itu)!\""
+                },
+                {
+                    "id": 1092421,
+                    "resource_id": 161,
+                    "text": "যাদুকররা যখন এসে গেল, তখন মূসা তাদেরকে বলল, ‘‘নিক্ষেপ কর তোমরা যা নিক্ষেপ করবে’’।"
+                }
+            ]
+        },
+        {
+            "id": 1445,
+            "verse_number": 81,
+            "verse_key": "10:81",
+            "hizb_number": 22,
+            "rub_el_hizb_number": 87,
+            "ruku_number": 179,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "فَلَمَّآ أَلْقَوْا۟ قَالَ مُوسَىٰ مَا جِئْتُم بِهِ ٱلسِّحْرُ ۖ إِنَّ ٱللَّهَ سَيُبْطِلُهُۥٓ ۖ إِنَّ ٱللَّهَ لَا يُصْلِحُ عَمَلَ ٱلْمُفْسِدِينَ",
+            "page_number": 218,
+            "juz_number": 11,
+            "translations": [
+                {
+                    "id": 96312,
+                    "resource_id": 20,
+                    "text": "And when they had thrown, Moses said, \"What you have brought is [only] magic. Indeed, Allāh will expose its worthlessness. Indeed, Allāh does not amend the work of corrupters."
+                },
+                {
+                    "id": 220273,
+                    "resource_id": 39,
+                    "text": "Setelah mereka campakkan (benda-benda itu), Nabi Musa berkata:\" Apa yang kamu datangkan itu, itulah sihir; sesungguhnya Allah akan mendedahkan kepalsuannya (dengan mukjizat yang dikurniakanNya kepadaku); sesungguhnya Allah tidak akan menjayakan perbuatan orang-orang yang melakukan kerosakan."
+                },
+                {
+                    "id": 1092422,
+                    "resource_id": 161,
+                    "text": "তারা যখন নিক্ষেপ করল, তখন মূসা বলল, ‘‘তোমরা যা নিয়ে এসেছ তাতো যাদু, আল্লাহ এখনই তা ব্যর্থ করে দেবেন, আল্লাহ বিশৃঙ্খলাকারীদের কাজকে সংশোধন করেন না’’।"
+                }
+            ]
+        },
+        {
+            "id": 1446,
+            "verse_number": 82,
+            "verse_key": "10:82",
+            "hizb_number": 22,
+            "rub_el_hizb_number": 87,
+            "ruku_number": 179,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَيُحِقُّ ٱللَّهُ ٱلْحَقَّ بِكَلِمَـٰتِهِۦ وَلَوْ كَرِهَ ٱلْمُجْرِمُونَ",
+            "page_number": 218,
+            "juz_number": 11,
+            "translations": [
+                {
+                    "id": 96314,
+                    "resource_id": 20,
+                    "text": "And Allāh will establish the truth by His words, even if the criminals dislike it.\""
+                },
+                {
+                    "id": 220282,
+                    "resource_id": 39,
+                    "text": "\"Dan Allah juga sentiasa menetapkan perkara yang benar dengan kalimah-kalimah perintahNya, walaupun yang demikian dibenci oleh orang-orang yang melakukan dosa\"."
+                },
+                {
+                    "id": 1092423,
+                    "resource_id": 161,
+                    "text": "আল্লাহ তাঁর বাণীর সাহায্যে প্রকৃত সত্যকে প্রতিষ্ঠিত করবেনই, অপরাধীদের কাছে তা যতই অপ্রীতিকর হোক না কেন।"
+                }
+            ]
+        },
+        {
+            "id": 1447,
+            "verse_number": 83,
+            "verse_key": "10:83",
+            "hizb_number": 22,
+            "rub_el_hizb_number": 87,
+            "ruku_number": 180,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "فَمَآ ءَامَنَ لِمُوسَىٰٓ إِلَّا ذُرِّيَّةٌ مِّن قَوْمِهِۦ عَلَىٰ خَوْفٍ مِّن فِرْعَوْنَ وَمَلَإِي۟هِمْ أَن يَفْتِنَهُمْ ۚ وَإِنَّ فِرْعَوْنَ لَعَالٍ فِى ٱلْأَرْضِ وَإِنَّهُۥ لَمِنَ ٱلْمُسْرِفِينَ",
+            "page_number": 218,
+            "juz_number": 11,
+            "translations": [
+                {
+                    "id": 96316,
+                    "resource_id": 20,
+                    "text": "But no one believed Moses, except [some] offspring [i.e., youths] among his people, for fear of Pharaoh and his establishment that they would persecute them. And indeed, Pharaoh was haughty within the land, and indeed, he was of the transgressors."
+                },
+                {
+                    "id": 220579,
+                    "resource_id": 39,
+                    "text": "Maka tidaklah ada yang beriman kepada Nabi Musa melainkan sebilangan kecil dari keturunan kaumnya, itupun dengan keadaan takut kepada Firaun dan ketua-ketua kaum mereka menyeksa mereka; kerana sesungguhnya Firaun bermaharajalela di bumi, dan sebenarnya ia dari orang-orang yang melampaui batas."
+                },
+                {
+                    "id": 1092424,
+                    "resource_id": 161,
+                    "text": "মূসার উপর তার জাতির মধ্য হতে গুটিকয়েক লোক ব্যতীত কেউ ঈমান আনেনি ফির‘আওন ও তার প্রধানদের নির্যাতনের ভয়ে। বাস্তবিকই ফির‘আওন দুনিয়াতে খুবই উদ্ধত ছিল, আর সে ছিল অবশ্যই সীমালঙ্ঘনকারীদের অন্তর্ভুক্ত।"
+                }
+            ]
+        },
+        {
+            "id": 1448,
+            "verse_number": 84,
+            "verse_key": "10:84",
+            "hizb_number": 22,
+            "rub_el_hizb_number": 87,
+            "ruku_number": 180,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَقَالَ مُوسَىٰ يَـٰقَوْمِ إِن كُنتُمْ ءَامَنتُم بِٱللَّهِ فَعَلَيْهِ تَوَكَّلُوٓا۟ إِن كُنتُم مُّسْلِمِينَ",
+            "page_number": 218,
+            "juz_number": 11,
+            "translations": [
+                {
+                    "id": 96318,
+                    "resource_id": 20,
+                    "text": "And Moses said, \"O my people, if you have believed in Allāh, then rely upon Him, if you should be Muslims [i.e., submitting to Him].\""
+                },
+                {
+                    "id": 220285,
+                    "resource_id": 39,
+                    "text": "Dan Nabi Musa pula berkata (kepada kaumnya): \"Wahai kaumku! Kalau sungguh kamu beriman kepada Allah, maka hendaklah kamu berserah diri kepadaNya, jika betul kamu orang-orang Islam (yang berserah diri bulat-bulat kepada Allah)\"."
+                },
+                {
+                    "id": 1092425,
+                    "resource_id": 161,
+                    "text": "মূসা বলেছিল, ‘‘হে আমার জাতির লোকেরা! তোমরা যদি আল্লাহর প্রতি বিশ্বাস স্থাপন করে থাক তাহলে তোমরা তাঁরই উপর ভরসা কর যদি তোমরা আত্মসমর্পণকারী হও’’।"
+                }
+            ]
+        },
+        {
+            "id": 1449,
+            "verse_number": 85,
+            "verse_key": "10:85",
+            "hizb_number": 22,
+            "rub_el_hizb_number": 87,
+            "ruku_number": 180,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "فَقَالُوا۟ عَلَى ٱللَّهِ تَوَكَّلْنَا رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلْقَوْمِ ٱلظَّـٰلِمِينَ",
+            "page_number": 218,
+            "juz_number": 11,
+            "translations": [
+                {
+                    "id": 96319,
+                    "resource_id": 20,
+                    "text": "So they said, \"Upon Allāh do we rely. Our Lord, make us not [objects of] trial for the wrongdoing people"
+                },
+                {
+                    "id": 220561,
+                    "resource_id": 39,
+                    "text": "Lalu mereka berkata: \"Kepada Allah jualah kami berserah. Wahai Tuhan kami! Janganlah Engkau jadikan kami landasan fitnah kesengsaraan bagi kaum yang zalim ganas."
+                },
+                {
+                    "id": 1092426,
+                    "resource_id": 161,
+                    "text": "তখন তারা বলল, ‘‘আমরা আল্লাহর উপরই ভরসা করি, হে আমাদের প্রতিপালক! আমাদেরকে যালিম জাতির অত্যাচারের পাত্র করো না,"
+                }
+            ]
+        },
+        {
+            "id": 1450,
+            "verse_number": 86,
+            "verse_key": "10:86",
+            "hizb_number": 22,
+            "rub_el_hizb_number": 87,
+            "ruku_number": 180,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَنَجِّنَا بِرَحْمَتِكَ مِنَ ٱلْقَوْمِ ٱلْكَـٰفِرِينَ",
+            "page_number": 218,
+            "juz_number": 11,
+            "translations": [
+                {
+                    "id": 96320,
+                    "resource_id": 20,
+                    "text": "And save us by Your mercy from the disbelieving people.\""
+                },
+                {
+                    "id": 220284,
+                    "resource_id": 39,
+                    "text": "\" Dan selamatkanlah kami dengan rahmatMu dari angkara kaum yang kafir\"."
+                },
+                {
+                    "id": 1092427,
+                    "resource_id": 161,
+                    "text": "আর তোমার অনুগ্রহে আমাদেরকে কাফির সম্প্রদায় থেকে রক্ষা কর।’’"
+                }
+            ]
+        },
+        {
+            "id": 1451,
+            "verse_number": 87,
+            "verse_key": "10:87",
+            "hizb_number": 22,
+            "rub_el_hizb_number": 87,
+            "ruku_number": 180,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰ وَأَخِيهِ أَن تَبَوَّءَا لِقَوْمِكُمَا بِمِصْرَ بُيُوتًا وَٱجْعَلُوا۟ بُيُوتَكُمْ قِبْلَةً وَأَقِيمُوا۟ ٱلصَّلَوٰةَ ۗ وَبَشِّرِ ٱلْمُؤْمِنِينَ",
+            "page_number": 218,
+            "juz_number": 11,
+            "translations": [
+                {
+                    "id": 96321,
+                    "resource_id": 20,
+                    "text": "And We inspired to Moses and his brother, \"Settle your people in Egypt in houses and make your houses [facing the] qiblah<sup foot_note=196457>1</sup> and establish prayer and give good tidings to the believers.\""
+                },
+                {
+                    "id": 220286,
+                    "resource_id": 39,
+                    "text": "Dan (setelah itu), Kami wahyukan kepada Nabi Musa serta saudaranya (Nabi Harun): \"Hendaklah kamu berdua mendirikan rumah-rumah di Mesir untuk menempatkan kaum kamu, dan jadikanlah rumah-rumah kamu tempat sembahyang, serta dirikanlah sembahyang di dalamnya; dan sampaikanlah berita gembira kepada orang-orang yang beriman (bahawa mereka akan diselamatkan dari kezaliman Firaun dan kaumnya)\"."
+                },
+                {
+                    "id": 1092428,
+                    "resource_id": 161,
+                    "text": "আমি মূসা আর তার ভাইয়ের প্রতি ওয়াহী করলাম যে, ‘‘মিসরে তোমাদের সম্প্রদায়ের জন্য ঘর তৈরি কর আর তোমাদের ঘরগুলোকে ‘ইবাদাত গৃহ কর, আর নামায প্রতিষ্ঠা কর এবং মু’মিনদেরকে সুসংবাদ দাও’’।"
+                }
+            ]
+        },
+        {
+            "id": 1452,
+            "verse_number": 88,
+            "verse_key": "10:88",
+            "hizb_number": 22,
+            "rub_el_hizb_number": 87,
+            "ruku_number": 180,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَقَالَ مُوسَىٰ رَبَّنَآ إِنَّكَ ءَاتَيْتَ فِرْعَوْنَ وَمَلَأَهُۥ زِينَةً وَأَمْوَٰلًا فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا رَبَّنَا لِيُضِلُّوا۟ عَن سَبِيلِكَ ۖ رَبَّنَا ٱطْمِسْ عَلَىٰٓ أَمْوَٰلِهِمْ وَٱشْدُدْ عَلَىٰ قُلُوبِهِمْ فَلَا يُؤْمِنُوا۟ حَتَّىٰ يَرَوُا۟ ٱلْعَذَابَ ٱلْأَلِيمَ",
+            "page_number": 218,
+            "juz_number": 11,
+            "translations": [
+                {
+                    "id": 96322,
+                    "resource_id": 20,
+                    "text": "And Moses said, \"Our Lord, indeed You have given Pharaoh and his establishment splendor and wealth in the worldly life, our Lord, that they may lead [men] astray from Your way. Our Lord, obliterate their wealth and harden their hearts so that they will not believe until they see the painful punishment.\""
+                },
+                {
+                    "id": 220280,
+                    "resource_id": 39,
+                    "text": "Dan Nabi Musa pula (merayu dengan) berkata: \"Wahai Tuhan kami! Sesungguhnya Engkau telah memberikan kepada Firaun dan ketua-ketua kaumnya barang-barang perhiasan dan harta benda yang mewah dalam kehidupan dunia ini. Wahai Tuhan kami! (Kemewahan yang Engkau berikan kepada mereka) akibatnya menyesatkan mereka dari jalanMu (dengan sebab kekufuran mereka). Wahai Tuhan kami! Binasakanlah harta benda mereka dan meteraikanlah hati mereka (sehingga menjadi keras membatu), maka dengan itu mereka tidak akan dapat beriman sehingga mereka melihat azab yang tidak terperi sakitnya."
+                },
+                {
+                    "id": 1092429,
+                    "resource_id": 161,
+                    "text": "মূসা বলল, ‘‘হে আমার প্রতিপালক! তুমি ফির‘আওন আর তার প্রধানদেরকে এ পার্থিব জগতে চাকচিক্য আর ধন সম্পদ দান করেছ আর এর দ্বারা হে আমাদের রবব! তারা মানুষকে তোমার পথ থেকে বিচ্যুত করছে, হে আমার প্রতিপালক! তাদের সম্পদ ধ্বংস করে দাও, আর তাদের হৃদয়কে কঠিন করে দাও, যাতে তারা ভয়াবহ ‘আযাব দেখার পূর্ব পর্যন্ত ঈমান আনতে সক্ষম না হয় (যেহেতু তারা বার বার আল্লাহর নিদর্শন দেখেও সত্য দ্বীনের শত্রুতায় অটল হয়ে আছে)।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 10
+    }
+}

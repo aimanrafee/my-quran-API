@@ -1,0 +1,221 @@
+{
+    "verses": [
+        {
+            "id": 402,
+            "verse_number": 109,
+            "verse_key": "3:109",
+            "hizb_number": 7,
+            "rub_el_hizb_number": 25,
+            "ruku_number": 52,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "وَلِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ",
+            "page_number": 64,
+            "juz_number": 4,
+            "translations": [
+                {
+                    "id": 98675,
+                    "resource_id": 20,
+                    "text": "To Allāh belongs whatever is in the heavens and whatever is on the earth. And to Allāh will [all] matters be returned."
+                },
+                {
+                    "id": 216521,
+                    "resource_id": 39,
+                    "text": "Dan bagi Allah jualah hak milik segala yang ada di langit dan yang ada di bumi, dan kepada Allah jualah dikembalikan segala urusan."
+                },
+                {
+                    "id": 1091379,
+                    "resource_id": 161,
+                    "text": "যা কিছু আসমানে আছে আর যমীনে আছে সব আল্লাহরই এবং যাবতীয় বিষয়াদি আল্লাহর দিকেই ফিরে যাবে।"
+                }
+            ]
+        },
+        {
+            "id": 403,
+            "verse_number": 110,
+            "verse_key": "3:110",
+            "hizb_number": 7,
+            "rub_el_hizb_number": 25,
+            "ruku_number": 53,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "كُنتُمْ خَيْرَ أُمَّةٍ أُخْرِجَتْ لِلنَّاسِ تَأْمُرُونَ بِٱلْمَعْرُوفِ وَتَنْهَوْنَ عَنِ ٱلْمُنكَرِ وَتُؤْمِنُونَ بِٱللَّهِ ۗ وَلَوْ ءَامَنَ أَهْلُ ٱلْكِتَـٰبِ لَكَانَ خَيْرًا لَّهُم ۚ مِّنْهُمُ ٱلْمُؤْمِنُونَ وَأَكْثَرُهُمُ ٱلْفَـٰسِقُونَ",
+            "page_number": 64,
+            "juz_number": 4,
+            "translations": [
+                {
+                    "id": 98678,
+                    "resource_id": 20,
+                    "text": "You are the best nation produced [as an example] for mankind. You enjoin what is right and forbid what is wrong and believe in Allāh. If only the People of the Scripture had believed, it would have been better for them. Among them are believers, but most of them are defiantly disobedient."
+                },
+                {
+                    "id": 216524,
+                    "resource_id": 39,
+                    "text": "Kamu (wahai umat Muhammad) adalah sebaik-baik umat yang dilahirkan bagi (faedah) umat manusia, (kerana) kamu menyuruh berbuat segala perkara yang baik dan melarang daripada segala perkara yang salah (buruk dan keji), serta kamu pula beriman kepada Allah (dengan sebenar-benar iman). Dan kalaulah Ahli Kitab (Yahudi dan Nasrani) itu beriman (sebagaimana yang semestinya), tentulah (iman) itu menjadi baik bagi mereka. (Tetapi) di antara mereka ada yang beriman dan kebanyakan mereka: orang-orang yang fasik."
+                },
+                {
+                    "id": 1091380,
+                    "resource_id": 161,
+                    "text": "তোমরাই সর্বোত্তম উম্মাত, মানবজাতির (সর্বাত্মক কল্যাণের) জন্য তোমাদের আবির্ভুত করা হয়েছে, তোমরা সৎকাজের আদেশ দাও এবং অসৎ কাজ হতে নিষেধ কর ও আল্লাহর প্রতি ঈমান রক্ষা করে চল। যদি আহলে কিতাব ঈমান আনত, তাহলে নিশ্চয়ই তাদের জন্য ভাল হত, তাদের মধ্যে কেউ কেউ মু’মিন এবং তাদের অধিকাংশই ফাসেক।"
+                }
+            ]
+        },
+        {
+            "id": 404,
+            "verse_number": 111,
+            "verse_key": "3:111",
+            "hizb_number": 7,
+            "rub_el_hizb_number": 25,
+            "ruku_number": 53,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "لَن يَضُرُّوكُمْ إِلَّآ أَذًى ۖ وَإِن يُقَـٰتِلُوكُمْ يُوَلُّوكُمُ ٱلْأَدْبَارَ ثُمَّ لَا يُنصَرُونَ",
+            "page_number": 64,
+            "juz_number": 4,
+            "translations": [
+                {
+                    "id": 98680,
+                    "resource_id": 20,
+                    "text": "They will not harm you except for [some] annoyance. And if they fight you, they will show you their backs [i.e., retreat]; then they will not be aided."
+                },
+                {
+                    "id": 216526,
+                    "resource_id": 39,
+                    "text": "Mereka (kaum Yahudi dan Nasrani) tidak sekali-kali akan membahayakan kamu, kecuali menyakiti (perasaan kamu dengan ejekan dan tuduhan yang tidak berasas). Dan jika mereka memerangi kamu, mereka akan berpaling lari membelakangkan kamu (kalah dengan sehina-hinanya); sesudah itu mereka tidak akan mencapai kemenangan."
+                },
+                {
+                    "id": 1091381,
+                    "resource_id": 161,
+                    "text": "সামান্য কষ্ট দেয়া ব্যতীত তারা তোমাদের কোন ক্ষতি করতে পারবে না, আর যদি তোমাদের সাথে যুদ্ধে লিপ্ত হয়, তবে তোমাদেরকে পৃষ্ঠ প্রদর্শন করবে, অতঃপর তারা সাহায্যপ্রাপ্ত হবে না।"
+                }
+            ]
+        },
+        {
+            "id": 405,
+            "verse_number": 112,
+            "verse_key": "3:112",
+            "hizb_number": 7,
+            "rub_el_hizb_number": 25,
+            "ruku_number": 53,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "ضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ أَيْنَ مَا ثُقِفُوٓا۟ إِلَّا بِحَبْلٍ مِّنَ ٱللَّهِ وَحَبْلٍ مِّنَ ٱلنَّاسِ وَبَآءُو بِغَضَبٍ مِّنَ ٱللَّهِ وَضُرِبَتْ عَلَيْهِمُ ٱلْمَسْكَنَةُ ۚ ذَٰلِكَ بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّ ۚ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ",
+            "page_number": 64,
+            "juz_number": 4,
+            "translations": [
+                {
+                    "id": 98682,
+                    "resource_id": 20,
+                    "text": "They have been put under humiliation [by Allāh] wherever they are overtaken, except for a rope [i.e., covenant] from Allāh and a rope [i.e., treaty] from the people [i.e., the Muslims].<sup foot_note=196071>1</sup> And they have drawn upon themselves anger from Allāh and have been put under destitution. That is because they disbelieved in [i.e., rejected] the verses of Allāh and killed the prophets without right. That is because they disobeyed and [habitually] transgressed."
+                },
+                {
+                    "id": 216540,
+                    "resource_id": 39,
+                    "text": "Mereka ditimpakan kehinaan (dari segala jurusan) di mana sahaja mereka berada, kecuali dengan adanya sebab dari Allah dan adanya sebab dari manusia. Dan sudah sepatutnya mereka beroleh kemurkaan dari Allah, dan mereka ditimpakan kemiskinan (dari segala jurusan). Yang demikian itu, disebabkan mereka sentiasa kufur ingkar akan ayat-ayat Allah (perintah-perintahNya), dan mereka membunuh Nabi-nabi dengan tiada alasan yang benar. Semuanya itu disebabkan mereka derhaka dan mereka sentiasa mencerobohi (hukum-hukum Allah)."
+                },
+                {
+                    "id": 1091382,
+                    "resource_id": 161,
+                    "text": "আল্লাহর অনুকম্পা ও মানুষের আশ্রয় ছাড়া যেখানেই তারা অবস্থান করুক, সেখানেই তারা হয়েছে লাঞ্ছিত, তারা আল্লাহর গযবে পরিবেষ্টিত এবং তাদের উপর পতিত হয়েছে দারিদ্রের কশাঘাত। এটা এজন্য যে, তারা আল্লাহর নিদর্শনসমূহ প্রত্যাখ্যান করত এবং নাবীগণকে অন্যায়ভাবে হত্যা করত, এটা এজন্য যে, তারা অবাধ্যতা এবং সীমালঙ্ঘন করত।"
+                }
+            ]
+        },
+        {
+            "id": 406,
+            "verse_number": 113,
+            "verse_key": "3:113",
+            "hizb_number": 7,
+            "rub_el_hizb_number": 26,
+            "ruku_number": 53,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "۞ لَيْسُوا۟ سَوَآءً ۗ مِّنْ أَهْلِ ٱلْكِتَـٰبِ أُمَّةٌ قَآئِمَةٌ يَتْلُونَ ءَايَـٰتِ ٱللَّهِ ءَانَآءَ ٱلَّيْلِ وَهُمْ يَسْجُدُونَ",
+            "page_number": 64,
+            "juz_number": 4,
+            "translations": [
+                {
+                    "id": 98684,
+                    "resource_id": 20,
+                    "text": "They are not [all] the same; among the People of the Scripture is a community<sup foot_note=196072>1</sup> standing [in obedience], reciting the verses of Allāh during periods of the night and prostrating [in prayer]."
+                },
+                {
+                    "id": 216542,
+                    "resource_id": 39,
+                    "text": "Ahli-ahli Kitab itu tidaklah sama. Di antaranya ada golongan yang (telah memeluk Islam dan) tetap (berpegang kepada ugama Allah yang benar) mereka membaca ayat-ayat Allah (Al-Quran) pada waktu malam, semasa mereka sujud (mengerjakan sembahyang)."
+                },
+                {
+                    "id": 1091383,
+                    "resource_id": 161,
+                    "text": "তারা সবাই সমান নয়। আহলে কিতাবদের কত লোক এমনও আছে যারা দ্বীনের উপর প্রতিষ্ঠিত আছে, তারা রাত্রিকালে আল্লাহর আয়াতসমূহ পাঠ করে থাকে এবং তারা সাজদাহ করে থাকে।"
+                }
+            ]
+        },
+        {
+            "id": 407,
+            "verse_number": 114,
+            "verse_key": "3:114",
+            "hizb_number": 7,
+            "rub_el_hizb_number": 26,
+            "ruku_number": 53,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "يُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَيَأْمُرُونَ بِٱلْمَعْرُوفِ وَيَنْهَوْنَ عَنِ ٱلْمُنكَرِ وَيُسَـٰرِعُونَ فِى ٱلْخَيْرَٰتِ وَأُو۟لَـٰٓئِكَ مِنَ ٱلصَّـٰلِحِينَ",
+            "page_number": 64,
+            "juz_number": 4,
+            "translations": [
+                {
+                    "id": 98686,
+                    "resource_id": 20,
+                    "text": "They believe in Allāh and the Last Day, and they enjoin what is right and forbid what is wrong and hasten to good deeds. And those are among the righteous."
+                },
+                {
+                    "id": 216544,
+                    "resource_id": 39,
+                    "text": "Mereka beriman kepada Allah dan hari akhirat, dan menyuruh berbuat segala perkara yang baik, dan melarang daripada segala perkara yang salah (buruk dan keji), dan mereka pula segera segera pada mengerjakan berbagai-bagai kebajikan. Mereka (yang demikian sifatnya), adalah dari orang-orang yang soleh."
+                },
+                {
+                    "id": 1091384,
+                    "resource_id": 161,
+                    "text": "তারা আল্লাহর ও পরকালের প্রতি বিশ্বাস পোষণ করে, সৎকাজের আদেশ দেয় এবং অসৎকাজ হতে নিষেধ করে এবং কল্যাণকর কাজে তৎপর থাকে। বস্তুতঃ তারা পুণ্যবানদের মধ্যে গণ্য।"
+                }
+            ]
+        },
+        {
+            "id": 408,
+            "verse_number": 115,
+            "verse_key": "3:115",
+            "hizb_number": 7,
+            "rub_el_hizb_number": 26,
+            "ruku_number": 53,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا يَفْعَلُوا۟ مِنْ خَيْرٍ فَلَن يُكْفَرُوهُ ۗ وَٱللَّهُ عَلِيمٌۢ بِٱلْمُتَّقِينَ",
+            "page_number": 64,
+            "juz_number": 4,
+            "translations": [
+                {
+                    "id": 98688,
+                    "resource_id": 20,
+                    "text": "And whatever good they do - never will it be denied them. And Allāh is Knowing of the righteous."
+                },
+                {
+                    "id": 216546,
+                    "resource_id": 39,
+                    "text": "Dan apa sahaja kebajikan yang mereka kerjakan, maka mereka tidak sekali-kali akan diingkari (atau disekat dari mendapat pahalanya). Dan (ingatlah), Allah sentiasa mengetahui akan keadaan orang-orang yang bertaqwa."
+                },
+                {
+                    "id": 1091385,
+                    "resource_id": 161,
+                    "text": "তারা যা কিছু সৎকাজ করুক কোন কিছুই প্রত্যাখ্যান করা হবে না এবং আল্লাহ মুত্তাকীদের বিষয়ে বিশেষরূপে পরিজ্ঞাত।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 7,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 7
+    }
+}

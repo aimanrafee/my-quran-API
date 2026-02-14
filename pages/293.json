@@ -1,0 +1,341 @@
+{
+    "verses": [
+        {
+            "id": 2134,
+            "verse_number": 105,
+            "verse_key": "17:105",
+            "hizb_number": 30,
+            "rub_el_hizb_number": 117,
+            "ruku_number": 251,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَبِٱلْحَقِّ أَنزَلْنَـٰهُ وَبِٱلْحَقِّ نَزَلَ ۗ وَمَآ أَرْسَلْنَـٰكَ إِلَّا مُبَشِّرًا وَنَذِيرًا",
+            "page_number": 293,
+            "juz_number": 15,
+            "translations": [
+                {
+                    "id": 96940,
+                    "resource_id": 20,
+                    "text": "And with the truth We have sent it [i.e., the Qur’ān] down, and with the truth it has descended. And We have not sent you, [O Muḥammad], except as a bringer of good tidings and a warner."
+                },
+                {
+                    "id": 220908,
+                    "resource_id": 39,
+                    "text": "Dan dengan cara yang sungguh layak serta berhikmat Kami turunkan Al-Quran, dan dengan meliputi segala kebenaran ia diturunkan; dan tiadalah Kami mengutusmu (wahai Muhammad) melainkan sebagai pembawa berita gembira (bagi orang-orang yang beriman) dan pembawa amaran (kepada orang-orang yang ingkar)."
+                },
+                {
+                    "id": 1093111,
+                    "resource_id": 161,
+                    "text": "এ কুরআনকে আমি সত্যতা সহকারে নাযিল করেছি আর সত্যতা সহকারেই তা নাযিল হয়েছে। আমি তোমাকে শুধু সুসংবাদদাতা ও সতর্ককারী হিসেবে পাঠিয়েছি।"
+                }
+            ]
+        },
+        {
+            "id": 2135,
+            "verse_number": 106,
+            "verse_key": "17:106",
+            "hizb_number": 30,
+            "rub_el_hizb_number": 117,
+            "ruku_number": 251,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَقُرْءَانًا فَرَقْنَـٰهُ لِتَقْرَأَهُۥ عَلَى ٱلنَّاسِ عَلَىٰ مُكْثٍ وَنَزَّلْنَـٰهُ تَنزِيلًا",
+            "page_number": 293,
+            "juz_number": 15,
+            "translations": [
+                {
+                    "id": 96941,
+                    "resource_id": 20,
+                    "text": "And [it is] a Qur’ān which We have separated [by intervals] that you might recite it to the people over a prolonged period. And We have sent it down progressively."
+                },
+                {
+                    "id": 220916,
+                    "resource_id": 39,
+                    "text": "Dan Al-Quran itu Kami bahagi-bahagikan supaya engkau membacakannya kepada manusia dengan lambat tenang; dan Kami menurunkannya beransur-ansur."
+                },
+                {
+                    "id": 1093112,
+                    "resource_id": 161,
+                    "text": "আমি এ কুরআনকে ভাগে ভাগে বিভক্ত করেছি যাতে তুমি থেমে থেমে মানুষকে তা পাঠ করে শুনাতে পার, কাজেই আমি তা ক্রমশঃ নাযিল করেছি।"
+                }
+            ]
+        },
+        {
+            "id": 2136,
+            "verse_number": 107,
+            "verse_key": "17:107",
+            "hizb_number": 30,
+            "rub_el_hizb_number": 117,
+            "ruku_number": 251,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قُلْ ءَامِنُوا۟ بِهِۦٓ أَوْ لَا تُؤْمِنُوٓا۟ ۚ إِنَّ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ مِن قَبْلِهِۦٓ إِذَا يُتْلَىٰ عَلَيْهِمْ يَخِرُّونَ لِلْأَذْقَانِ سُجَّدًا",
+            "page_number": 293,
+            "juz_number": 15,
+            "translations": [
+                {
+                    "id": 96942,
+                    "resource_id": 20,
+                    "text": "Say, \"Believe in it or do not believe.\" Indeed, those who were given knowledge before it<sup foot_note=196690>1</sup> - when it is recited to them, they fall upon their faces in prostration,"
+                },
+                {
+                    "id": 220917,
+                    "resource_id": 39,
+                    "text": "Katakanlah (wahai Muhammad kepada orang-orang yang ingkar itu): \"Sama ada kamu beriman kepada Al-Quran atau kamu tiada beriman, (tidaklah menjadi hal); kerana sesungguhnya orang-orang yang diberi ilmu sebelum itu apabila dibacakan Al-Quran kepada mereka, mereka segera tunduk sujud (dalam keadaan hiba dan khusyuk);"
+                },
+                {
+                    "id": 1093113,
+                    "resource_id": 161,
+                    "text": "বল, ‘তোমরা কুরআনে বিশ্বাস কর কিংবা বিশ্বাস না কর, ইতোপূর্বে যাদেরকে জ্ঞান দেয়া হয়েছে তাদেরকে যখন কুরআন পাঠ করে শুনানো হয়, তখন তারা অধোমুখে সাজদাহয় লুটিয়ে পড়ে।’"
+                }
+            ]
+        },
+        {
+            "id": 2137,
+            "verse_number": 108,
+            "verse_key": "17:108",
+            "hizb_number": 30,
+            "rub_el_hizb_number": 117,
+            "ruku_number": 251,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَيَقُولُونَ سُبْحَـٰنَ رَبِّنَآ إِن كَانَ وَعْدُ رَبِّنَا لَمَفْعُولًا",
+            "page_number": 293,
+            "juz_number": 15,
+            "translations": [
+                {
+                    "id": 96943,
+                    "resource_id": 20,
+                    "text": "And they say, \"Exalted is our Lord! Indeed, the promise of our Lord has been fulfilled.\""
+                },
+                {
+                    "id": 220919,
+                    "resource_id": 39,
+                    "text": "Serta mereka menegaskan (dalam sujudnya): \"Maha Suci Tuhan kami! Sesungguhnya janji Tuhan kami tetap terlaksana. \""
+                },
+                {
+                    "id": 1093114,
+                    "resource_id": 161,
+                    "text": "আর তারা বলে, ‘আমাদের রব্ব মহান, পবিত্র; আমাদের রব্বের ও‘য়াদা অবশ্যই পূর্ণ হবে।"
+                }
+            ]
+        },
+        {
+            "id": 2138,
+            "verse_number": 109,
+            "verse_key": "17:109",
+            "hizb_number": 30,
+            "rub_el_hizb_number": 117,
+            "ruku_number": 251,
+            "manzil_number": 4,
+            "sajdah_number": 4,
+            "text_uthmani": "وَيَخِرُّونَ لِلْأَذْقَانِ يَبْكُونَ وَيَزِيدُهُمْ خُشُوعًا ۩",
+            "page_number": 293,
+            "juz_number": 15,
+            "translations": [
+                {
+                    "id": 96944,
+                    "resource_id": 20,
+                    "text": "And they fall upon their faces weeping, and it [i.e., the Qur’ān] increases them in humble submission."
+                },
+                {
+                    "id": 220918,
+                    "resource_id": 39,
+                    "text": "Dan mereka segera tunduk sujud itu sambil menangis, sedang Al-Quran menambahkan mereka khusyuk."
+                },
+                {
+                    "id": 1093115,
+                    "resource_id": 161,
+                    "text": "তারা কাঁদতে কাঁদতে অধোমুখে সাজদাহয় লুটিয়ে পড়ে আর তা তাদের বিনয় ও নম্রতা বাড়িয়ে দেয়।[সাজদাহ]"
+                }
+            ]
+        },
+        {
+            "id": 2139,
+            "verse_number": 110,
+            "verse_key": "17:110",
+            "hizb_number": 30,
+            "rub_el_hizb_number": 117,
+            "ruku_number": 251,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قُلِ ٱدْعُوا۟ ٱللَّهَ أَوِ ٱدْعُوا۟ ٱلرَّحْمَـٰنَ ۖ أَيًّا مَّا تَدْعُوا۟ فَلَهُ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ ۚ وَلَا تَجْهَرْ بِصَلَاتِكَ وَلَا تُخَافِتْ بِهَا وَٱبْتَغِ بَيْنَ ذَٰلِكَ سَبِيلًا",
+            "page_number": 293,
+            "juz_number": 15,
+            "translations": [
+                {
+                    "id": 96946,
+                    "resource_id": 20,
+                    "text": "Say, \"Call upon Allāh or call upon the Most Merciful [ar-Raḥmān]. Whichever [name] you call - to Him belong the best names.\" And do not recite [too] loudly in your prayer or [too] quietly but seek between that an [intermediate] way."
+                },
+                {
+                    "id": 220915,
+                    "resource_id": 39,
+                    "text": "Katakanlah (wahai Muhammad): \"Serulah nama \" Allah\" atau nama \"Ar-Rahman\", yang mana sahaja kamu serukan (dari kedua-dua nama itu adalah baik belaka); kerana Allah mempunyai banyak nama-nama yang baik serta mulia\". Dan janganlah engkau nyaringkan bacaan doa atau sembahyangmu, juga janganlah engkau perlahankannya, dan gunakanlah sahaja satu cara yang sederhana antara itu."
+                },
+                {
+                    "id": 1093116,
+                    "resource_id": 161,
+                    "text": "বল, ‘তোমরা আল্লাহ নামে ডাকো বা রহমান নামে ডাকো, যে নামেই তাঁকে ডাকো না কেন (সবই ভাল) কেননা সকল সুন্দর নামই তো তাঁর।’ তোমার সলাতে স্বর উচ্চ করো না, আর তা খুব নীচুও করো না, এ দু’য়ের মধ্যবর্তী পথ অবলম্বন কর।"
+                }
+            ]
+        },
+        {
+            "id": 2140,
+            "verse_number": 111,
+            "verse_key": "17:111",
+            "hizb_number": 30,
+            "rub_el_hizb_number": 117,
+            "ruku_number": 251,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَقُلِ ٱلْحَمْدُ لِلَّهِ ٱلَّذِى لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُۥ شَرِيكٌ فِى ٱلْمُلْكِ وَلَمْ يَكُن لَّهُۥ وَلِىٌّ مِّنَ ٱلذُّلِّ ۖ وَكَبِّرْهُ تَكْبِيرًۢا",
+            "page_number": 293,
+            "juz_number": 15,
+            "translations": [
+                {
+                    "id": 96947,
+                    "resource_id": 20,
+                    "text": "And say, \"Praise to Allāh, who has not taken a son and has had no partner in [His] dominion and has no [need of a] protector out of weakness; and glorify Him with [great] glorification.\""
+                },
+                {
+                    "id": 220921,
+                    "resource_id": 39,
+                    "text": "Dan katakanlah: \"Segala puji tertentu bagi Allah yang tiada mempunyai anak, dan tiada bagiNya sekutu dalam urusan kerajaanNya, dan tiada bagiNya penolong disebabkan sesuatu kelemahanNya; dan hendaklah engkau membesarkan serta memuliakanNya dengan bersungguh-sungguh!\""
+                },
+                {
+                    "id": 1093117,
+                    "resource_id": 161,
+                    "text": "বল, ‘সকল প্রশংসাই আল্লাহর যিনি সন্তান গ্রহণ করেন না, যাঁর শাসন-কর্তৃত্বে কোন অংশীদার নেই, দুর্দশাগ্রস্ত হওয়া থেকে বাঁচার জন্য যাঁর কোন অভিভাবকের প্রয়োজন হয় না। অতএব পূর্ণ শ্রেষ্ঠত্বে তাঁর শ্রেষ্ঠত্ব ঘোষণা কর।"
+                }
+            ]
+        },
+        {
+            "id": 2141,
+            "verse_number": 1,
+            "verse_key": "18:1",
+            "hizb_number": 30,
+            "rub_el_hizb_number": 117,
+            "ruku_number": 252,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": " ٱلْحَمْدُ لِلَّهِ ٱلَّذِىٓ أَنزَلَ عَلَىٰ عَبْدِهِ ٱلْكِتَـٰبَ وَلَمْ يَجْعَل لَّهُۥ عِوَجَا ۜ",
+            "page_number": 293,
+            "juz_number": 15,
+            "translations": [
+                {
+                    "id": 97045,
+                    "resource_id": 20,
+                    "text": "[All] praise is [due] to Allāh, who has sent down upon His Servant [Muḥammad (ﷺ)] the Book and has not made therein any deviance.<sup foot_note=196691>1</sup>"
+                },
+                {
+                    "id": 214847,
+                    "resource_id": 39,
+                    "text": "Segala puji terentu bagi Allah yang telah menurunkan kepada hambaNya (Muhammad), Kitab suci Al-Quran, dan tidak menjadikan padanya sesuatu yang bengkok (terpesong):"
+                },
+                {
+                    "id": 1093118,
+                    "resource_id": 161,
+                    "text": "সকল প্রশংসা আল্লাহর জন্য যিনি তাঁর বান্দাদের প্রতি কিতাব নাযিল করেছেন, আর তাতে কোন বক্রতার অবকাশ রাখেননি।"
+                }
+            ]
+        },
+        {
+            "id": 2142,
+            "verse_number": 2,
+            "verse_key": "18:2",
+            "hizb_number": 30,
+            "rub_el_hizb_number": 117,
+            "ruku_number": 252,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَيِّمًا لِّيُنذِرَ بَأْسًا شَدِيدًا مِّن لَّدُنْهُ وَيُبَشِّرَ ٱلْمُؤْمِنِينَ ٱلَّذِينَ يَعْمَلُونَ ٱلصَّـٰلِحَـٰتِ أَنَّ لَهُمْ أَجْرًا حَسَنًا",
+            "page_number": 293,
+            "juz_number": 15,
+            "translations": [
+                {
+                    "id": 97067,
+                    "resource_id": 20,
+                    "text": "[He has made it] straight, to warn of severe punishment from Him and to give good tidings to the believers who do righteous deeds that they will have a good reward [i.e., Paradise]."
+                },
+                {
+                    "id": 214854,
+                    "resource_id": 39,
+                    "text": "(Bahkan keadaannya) tetap benar lagi menjadi pengawas turunnya Al-Quran untuk memberi amaran (kepada orang-orang yang ingkar) dengan azab yang seberat-beratnya dari sisi Allah, dan memberi berita gembira kepada orang-orang yang beriman yang mengerjakan amal-amal soleh, bahawa mereka akan beroleh balasan yang baik."
+                },
+                {
+                    "id": 1093119,
+                    "resource_id": 161,
+                    "text": "(তিনি সেটাকে করেছেন) সত্য, স্পষ্ট ও অকাট্য তাঁর কঠিন শাস্তি সম্পর্কে সতর্ক করার জন্য। আর যারা সৎকাজ করে সেই মু’মিনদেরকে সুসংবাদ দেয়ার জন্য যে, তাদের জন্য আছে উত্তম প্রতিফল।"
+                }
+            ]
+        },
+        {
+            "id": 2143,
+            "verse_number": 3,
+            "verse_key": "18:3",
+            "hizb_number": 30,
+            "rub_el_hizb_number": 117,
+            "ruku_number": 252,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "مَّـٰكِثِينَ فِيهِ أَبَدًا",
+            "page_number": 293,
+            "juz_number": 15,
+            "translations": [
+                {
+                    "id": 97080,
+                    "resource_id": 20,
+                    "text": "In which they will remain forever"
+                },
+                {
+                    "id": 215268,
+                    "resource_id": 39,
+                    "text": "Mereka tinggal tetap dalam (balasan yang baik) itu selama-lamanya."
+                },
+                {
+                    "id": 1093120,
+                    "resource_id": 161,
+                    "text": "তাতে তারা চিরকাল থাকবে।"
+                }
+            ]
+        },
+        {
+            "id": 2144,
+            "verse_number": 4,
+            "verse_key": "18:4",
+            "hizb_number": 30,
+            "rub_el_hizb_number": 117,
+            "ruku_number": 252,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَيُنذِرَ ٱلَّذِينَ قَالُوا۟ ٱتَّخَذَ ٱللَّهُ وَلَدًا",
+            "page_number": 293,
+            "juz_number": 15,
+            "translations": [
+                {
+                    "id": 97091,
+                    "resource_id": 20,
+                    "text": "And to warn those who say, \"Allāh has taken a son\"."
+                },
+                {
+                    "id": 214898,
+                    "resource_id": 39,
+                    "text": "Dan juga Al-Quran itu memberi amaran kepada orang-orang yang berkata:\" Allah mempunyai anak\"."
+                },
+                {
+                    "id": 1093121,
+                    "resource_id": 161,
+                    "text": "আর তাদেরকে সতর্ক করার জন্য যারা বলে, ‘আল্লাহ পুত্র গ্রহণ করেছেন।’"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 11,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 11
+    }
+}

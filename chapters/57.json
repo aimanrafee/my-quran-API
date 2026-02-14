@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 5076,
+            "verse_number": 1,
+            "verse_key": "57:1",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 215,
+            "ruku_number": 474,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " سَبَّحَ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+            "page_number": 537,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100723,
+                    "resource_id": 20,
+                    "text": "Whatever is in the heavens and earth exalts Allāh,<sup foot_note=197495>1</sup> and He is the Exalted in Might, the Wise."
+                },
+                {
+                    "id": 214875,
+                    "resource_id": 39,
+                    "text": "Segala yang ada di langit dan di bumi tetap mengucap tasbih kepada Allah; dan Dia lah Yang Maha Kuasa, lagi Maha Bijaksana."
+                },
+                {
+                    "id": 1096053,
+                    "resource_id": 161,
+                    "text": "আসমান ও যমীনে যা কিছু আছে সবই আল্লাহর গৌরব ও মহিমা ঘোষণা করে, তিনি প্রবল পরাক্রান্ত, মহা প্রজ্ঞাবান।"
+                }
+            ]
+        },
+        {
+            "id": 5077,
+            "verse_number": 2,
+            "verse_key": "57:2",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 215,
+            "ruku_number": 474,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ يُحْىِۦ وَيُمِيتُ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+            "page_number": 537,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100735,
+                    "resource_id": 20,
+                    "text": "His is the dominion of the heavens and earth. He gives life and causes death, and He is over all things competent."
+                },
+                {
+                    "id": 218587,
+                    "resource_id": 39,
+                    "text": "Dia lah sahaja yang menguasai dan memiliki langit dan bumi; Ia menghidupkan dan mematikan; dan Ia Maha Kuasa atas tiap-tiap sesuatu."
+                },
+                {
+                    "id": 1096054,
+                    "resource_id": 161,
+                    "text": "আসমান ও যমীনের রাজত্ব তাঁরই, তিনিই জীবন দেন, আর তিনিই মৃত্যু দেন, তিনি সব কিছুর উপর ক্ষমতাবান।"
+                }
+            ]
+        },
+        {
+            "id": 5078,
+            "verse_number": 3,
+            "verse_key": "57:3",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 215,
+            "ruku_number": 474,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "هُوَ ٱلْأَوَّلُ وَٱلْـَٔاخِرُ وَٱلظَّـٰهِرُ وَٱلْبَاطِنُ ۖ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌ",
+            "page_number": 537,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100749,
+                    "resource_id": 20,
+                    "text": "He is the First<sup foot_note=197499>1</sup> and the Last,<sup foot_note=197498>2</sup> the Ascendant<sup foot_note=197497>3</sup> and the Intimate,<sup foot_note=197496>4</sup> and He is, of all things, Knowing."
+                },
+                {
+                    "id": 214877,
+                    "resource_id": 39,
+                    "text": "Dia lah Yang Awal dan Yang Akhir; dan Yang Zahir serta Yang Batin; dan Dia lah Yang Maha Mengetahui akan tiap-tiap sesuatu."
+                },
+                {
+                    "id": 1096055,
+                    "resource_id": 161,
+                    "text": "তিনিই প্রথম, তিনিই শেষ, তিনি প্রকাশিত আবার গুপ্ত, তিনি সকল বিষয় পূর্ণরূপে জ্ঞাত।"
+                }
+            ]
+        },
+        {
+            "id": 5079,
+            "verse_number": 4,
+            "verse_key": "57:4",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 215,
+            "ruku_number": 474,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "هُوَ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ ۚ يَعْلَمُ مَا يَلِجُ فِى ٱلْأَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنزِلُ مِنَ ٱلسَّمَآءِ وَمَا يَعْرُجُ فِيهَا ۖ وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+            "page_number": 538,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100751,
+                    "resource_id": 20,
+                    "text": "It is He who created the heavens and earth in six days and then established Himself above the Throne.<sup foot_note=197501>1</sup> He knows what penetrates into the earth and what emerges from it and what descends from the heaven and what ascends therein; and He is with you<sup foot_note=197500>2</sup> wherever you are. And Allāh, of what you do, is Seeing."
+                },
+                {
+                    "id": 218602,
+                    "resource_id": 39,
+                    "text": "Dia lah yang telah menciptakan langit dan bumi dalam enam masa, kemudian Ia bersemayam di atas Arasy; Ia mengetahui apa yang masuk ke bumi serta apa yang keluar daripadanya; dan apa yang diturunkan dari langit serta apa yang naik padanya. Dan Ia tetap bersama-sama kamu di mana sahaja kamu berada, dan Allah Maha Melihat akan apa yang kamu kerjakan."
+                },
+                {
+                    "id": 1096056,
+                    "resource_id": 161,
+                    "text": "তিনি আসমান ও যমীনকে ছয় দিনে সৃষ্টি করেছেন অতঃপর আরশে সমুন্নত হয়েছেন। তিনি জানেন যা যমীনে প্রবেশ করে, আর যা তাত্থেকে বের হয়, আর যা আকাশ থেকে অবতীর্ণ হয়, আর যা তাতে উঠে যায়, তোমরা যেখানেই থাক তিনি তোমাদের সঙ্গে আছেন, তোমরা যে কাজই কর না কেন, আল্লাহ তা দেখেন।"
+                }
+            ]
+        },
+        {
+            "id": 5080,
+            "verse_number": 5,
+            "verse_key": "57:5",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 215,
+            "ruku_number": 474,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "لَّهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ",
+            "page_number": 538,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100753,
+                    "resource_id": 20,
+                    "text": "His is the dominion of the heavens and earth. And to Allāh are returned [all] matters."
+                },
+                {
+                    "id": 218604,
+                    "resource_id": 39,
+                    "text": "Dia lah sahaja yang menguasai dan memiliki langit dan bumi; dan kepada Allah jualah dikembalikan segala urusan."
+                },
+                {
+                    "id": 1096057,
+                    "resource_id": 161,
+                    "text": "আসমান ও যমীনের রাজত্ব তাঁরই, যাবতীয় বিষয় তাঁরই দিকে ফিরে যায় (চূড়ান্ত ফয়সালার জন্য)।"
+                }
+            ]
+        },
+        {
+            "id": 5081,
+            "verse_number": 6,
+            "verse_key": "57:6",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 215,
+            "ruku_number": 474,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ ۚ وَهُوَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+            "page_number": 538,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100755,
+                    "resource_id": 20,
+                    "text": "He causes the night to enter the day and causes the day to enter the night, and He is Knowing of that within the breasts."
+                },
+                {
+                    "id": 218606,
+                    "resource_id": 39,
+                    "text": "Dia lah yang memasukkan waktu malam ke dalam waktu siang, dan memasukkan waktu siang ke dalam waktu malam (silih berganti); dan Dia lah yang Maha Mengetahui akan segala (isi hati) yang terkandung di dalam dada."
+                },
+                {
+                    "id": 1096058,
+                    "resource_id": 161,
+                    "text": "তিনিই রাতকে প্রবেশ করান দিনের ভিতর, আর দিনকে ঢুকিয়ে দেন রাতের ভিতর, অন্তরের গোপনতত্ত্ব সম্পর্কে তিনি পূর্ণরূপে অবগত।"
+                }
+            ]
+        },
+        {
+            "id": 5082,
+            "verse_number": 7,
+            "verse_key": "57:7",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 215,
+            "ruku_number": 474,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ءَامِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَأَنفِقُوا۟ مِمَّا جَعَلَكُم مُّسْتَخْلَفِينَ فِيهِ ۖ فَٱلَّذِينَ ءَامَنُوا۟ مِنكُمْ وَأَنفَقُوا۟ لَهُمْ أَجْرٌ كَبِيرٌ",
+            "page_number": 538,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100757,
+                    "resource_id": 20,
+                    "text": "Believe in Allāh and His Messenger and spend out of that in which He has made you successive inheritors. For those who have believed among you and spent,<sup foot_note=197502>1</sup> there will be a great reward."
+                },
+                {
+                    "id": 218610,
+                    "resource_id": 39,
+                    "text": "Berimanlah kamu kepada Allah dan RasulNya, dan belanjakanlah (pada jalan kebajikan) sebahagian dari harta benda (pemberian Allah) yang dijadikannya kamu menguasainya sebagai wakil. Maka orang-orang yang beriman di antara kamu serta mereka membelanjakan (sebahagian dari harta itu pada jalan Allah); mereka tetap beroleh pahala yang besar."
+                },
+                {
+                    "id": 1096059,
+                    "resource_id": 161,
+                    "text": "তোমরা আল্লাহ ও তাঁর রসূলের প্রতি ঈমান আনো, আর তিনি তোমাদেরকে যার উত্তরাধিকারী করেছেন তাত্থেকে (আল্লাহর পথে) ব্যয় কর । কারণ তোমাদের মধ্যে যারা ঈমান আনে আর ব্যয় করে, তাদের জন্য আছে বিরাট প্রতিফল।"
+                }
+            ]
+        },
+        {
+            "id": 5083,
+            "verse_number": 8,
+            "verse_key": "57:8",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 215,
+            "ruku_number": 474,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا لَكُمْ لَا تُؤْمِنُونَ بِٱللَّهِ ۙ وَٱلرَّسُولُ يَدْعُوكُمْ لِتُؤْمِنُوا۟ بِرَبِّكُمْ وَقَدْ أَخَذَ مِيثَـٰقَكُمْ إِن كُنتُم مُّؤْمِنِينَ",
+            "page_number": 538,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100759,
+                    "resource_id": 20,
+                    "text": "And why do you not believe in Allāh while the Messenger invites you to believe in your Lord and He has taken your covenant, if you should [truly] be believers?"
+                },
+                {
+                    "id": 218612,
+                    "resource_id": 39,
+                    "text": "Dan mengapa kamu tidak beriman kepada Allah? Sedang Rasulullah mengajak kamu untuk beriman kepada Tuhan kamu, dan Allah telah mengambil janji setia dari kamu (untuk beriman); jika kamu hendak beriman (maka telah jelaslah dalil-dalilnya)."
+                },
+                {
+                    "id": 1096060,
+                    "resource_id": 161,
+                    "text": "তোমাদের কী হল যে, তোমরা আল্লাহর প্রতি ঈমান আনবে না যখন রসূল তোমাদেরকে তোমাদের প্রতিপালকের উপর ঈমান আনার জন্য ডাকছে আর তিনি তোমাদের কাছ থেকে প্রতিশ্রুতি গ্রহণ করেছেন, যদি তোমরা বিশ্বাসী হয়েই থাক।"
+                }
+            ]
+        },
+        {
+            "id": 5084,
+            "verse_number": 9,
+            "verse_key": "57:9",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 215,
+            "ruku_number": 474,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "هُوَ ٱلَّذِى يُنَزِّلُ عَلَىٰ عَبْدِهِۦٓ ءَايَـٰتٍۭ بَيِّنَـٰتٍ لِّيُخْرِجَكُم مِّنَ ٱلظُّلُمَـٰتِ إِلَى ٱلنُّورِ ۚ وَإِنَّ ٱللَّهَ بِكُمْ لَرَءُوفٌ رَّحِيمٌ",
+            "page_number": 538,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100761,
+                    "resource_id": 20,
+                    "text": "It is He who sends down upon His Servant [Muḥammad (ﷺ)] verses of clear evidence that He may bring you out from darknesses into the light. And indeed, Allāh is to you Kind and Merciful."
+                },
+                {
+                    "id": 218614,
+                    "resource_id": 39,
+                    "text": "Dia lah yang menurunkan kepada hambaNya (Nabi Muhammad) keterangan-keterangan Al-Quran yang terang nyata, kerana Ia hendak mengeluarkan kamu dari gelap-gelita (kekufuran) kepada cahaya (iman) yang terang-benderang. Dan (ingatlah) sesungguhnya Allah Maha Belas, lagi Maha Mengasihani, terhadap kamu."
+                },
+                {
+                    "id": 1096061,
+                    "resource_id": 161,
+                    "text": "তিনিই তাঁর বান্দাহর উপর সুস্পষ্ট আয়াত অবতীর্ণ করেন তোমাদেরকে ঘোর অন্ধকার থেকে আলোতে আনার জন্য, আল্লাহ অবশ্যই তোমাদের প্রতি বড়ই করুণাশীল, অতি দয়ালু।"
+                }
+            ]
+        },
+        {
+            "id": 5085,
+            "verse_number": 10,
+            "verse_key": "57:10",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 215,
+            "ruku_number": 474,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا لَكُمْ أَلَّا تُنفِقُوا۟ فِى سَبِيلِ ٱللَّهِ وَلِلَّهِ مِيرَٰثُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ لَا يَسْتَوِى مِنكُم مَّنْ أَنفَقَ مِن قَبْلِ ٱلْفَتْحِ وَقَـٰتَلَ ۚ أُو۟لَـٰٓئِكَ أَعْظَمُ دَرَجَةً مِّنَ ٱلَّذِينَ أَنفَقُوا۟ مِنۢ بَعْدُ وَقَـٰتَلُوا۟ ۚ وَكُلًّا وَعَدَ ٱللَّهُ ٱلْحُسْنَىٰ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+            "page_number": 538,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100724,
+                    "resource_id": 20,
+                    "text": "And why do you not spend in the cause of Allāh while to Allāh belongs the heritage of the heavens and the earth? Not equal among you are those who spent before the conquest [of Makkah] and fought [and those who did so after it]. Those are greater in degree than they who spent afterwards and fought. But to all Allāh has promised the best [reward]. And Allāh, of what you do, is Aware."
+                },
+                {
+                    "id": 218569,
+                    "resource_id": 39,
+                    "text": "Dan mengapa kamu tidak membelanjakan harta benda kamu pada jalan Allah? - Padahal Allah jualah yang mewarisi langit dan bumi (serta segala isinya). Tidaklah sama di antara kamu, orang-orang yang membelanjakan hartanya serta turut berperang sebelum kemenangan (Nabi menguasai Makkah). Mereka itu lebih besar darjatnya daripada orang-orang yang membelanjakan hartanya serta turut berperang sesudah itu. Dan tiap-tiap satu puak dari keduanya, Allah janjikan (balasan) yang sebaik-baiknya. Dan (ingatlah), Allah Maha Mendalam PengetahuanNya akan apa yang kamu kerjakan."
+                },
+                {
+                    "id": 1096062,
+                    "resource_id": 161,
+                    "text": "তোমাদের হল কী যে তোমরা আল্লাহর পথে ব্যয় করবে না! আকাশ ও পৃথিবীর উত্তরাধিকার তো আল্লাহরই জন্য (কাজেই তাঁর পথে ব্যয় করলে তোমরা গরীব হয়ে যাবে এ আশঙ্কার কোন কারণ নেই)। তোমাদের মধ্যে যারা (মক্কা) বিজয়ের পূর্বে ব্যয় করেছে আর যুদ্ধ করেছে তারা সমান নয় (তাদের, যারা তা বিজয়ের পরে করেছে); তাদের মর্যাদা অনেক বড় তাদের তুলনায় যারা পরে ব্যয় করেছে ও যুদ্ধ করেছে। উভয়ের জন্যই আল্লাহ কল্যাণের ও‘য়াদা দিয়েছেন। তোমরা যা কিছু কর সে সম্পর্কে আল্লাহ পূর্ণভাবে অবগত।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 3,
+        "total_records": 29
+    }
+}

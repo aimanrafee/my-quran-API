@@ -1,0 +1,611 @@
+{
+    "verses": [
+        {
+            "id": 4454,
+            "verse_number": 40,
+            "verse_key": "44:40",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 199,
+            "ruku_number": 434,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ يَوْمَ ٱلْفَصْلِ مِيقَـٰتُهُمْ أَجْمَعِينَ",
+            "page_number": 498,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99955,
+                    "resource_id": 20,
+                    "text": "Indeed, the Day of Judgement is the appointed time for them all -"
+                },
+                {
+                    "id": 217802,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya hari pemutusan hukum untuk memberi balasan, ialah masa untuk mereka semua berhimpun, -"
+                },
+                {
+                    "id": 1095431,
+                    "resource_id": 161,
+                    "text": "ফয়সালার দিনটি তাদের সবারই নির্ধারিত সময় ।"
+                }
+            ]
+        },
+        {
+            "id": 4455,
+            "verse_number": 41,
+            "verse_key": "44:41",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 199,
+            "ruku_number": 434,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "يَوْمَ لَا يُغْنِى مَوْلًى عَن مَّوْلًى شَيْـًٔا وَلَا هُمْ يُنصَرُونَ",
+            "page_number": 498,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99956,
+                    "resource_id": 20,
+                    "text": "The Day when no relation<sup foot_note=197351>1</sup> will avail a relation at all, nor will they be helped -"
+                },
+                {
+                    "id": 217793,
+                    "resource_id": 39,
+                    "text": "Iaitu hari seseorang kerabat atau sahabat karib tidak dapat memberikan sebarang perlindungan kepada seseorang kerabat atau sahabat karibnya, dan mereka pula tidak akan diberikan pertolongan (untuk menghapuskan azab itu),"
+                },
+                {
+                    "id": 1095432,
+                    "resource_id": 161,
+                    "text": "যেদিন বন্ধু বন্ধুর কোন উপকারে আসবে না, আর তাদেরকে সাহায্যও করা হবে না।"
+                }
+            ]
+        },
+        {
+            "id": 4456,
+            "verse_number": 42,
+            "verse_key": "44:42",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 199,
+            "ruku_number": 434,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "إِلَّا مَن رَّحِمَ ٱللَّهُ ۚ إِنَّهُۥ هُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
+            "page_number": 498,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99957,
+                    "resource_id": 20,
+                    "text": "Except those [believers] on whom Allāh has mercy. Indeed, He is the Exalted in Might, the Merciful."
+                },
+                {
+                    "id": 217794,
+                    "resource_id": 39,
+                    "text": "Kecuali orang yang telah diberi rahmat oleh Allah; sesungguhnya Allah jualah yang Maha Kuasa, lagi Maha Mengasihani."
+                },
+                {
+                    "id": 1095433,
+                    "resource_id": 161,
+                    "text": "তবে আল্লাহ যার প্রতি রহমত করবেন তার কথা আলাদা। তিনি মহাপরাক্রান্ত, বড়ই দয়ালু।"
+                }
+            ]
+        },
+        {
+            "id": 4457,
+            "verse_number": 43,
+            "verse_key": "44:43",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 199,
+            "ruku_number": 435,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ شَجَرَتَ ٱلزَّقُّومِ",
+            "page_number": 498,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99958,
+                    "resource_id": 20,
+                    "text": "Indeed, the tree of zaqqūm"
+                },
+                {
+                    "id": 217795,
+                    "resource_id": 39,
+                    "text": "(Ingatlah), sesungguhnya pokok Zaqqum, -"
+                },
+                {
+                    "id": 1095434,
+                    "resource_id": 161,
+                    "text": "নিশ্চয়ই যাক্কুম গাছ (হবে)"
+                }
+            ]
+        },
+        {
+            "id": 4458,
+            "verse_number": 44,
+            "verse_key": "44:44",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 199,
+            "ruku_number": 435,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "طَعَامُ ٱلْأَثِيمِ",
+            "page_number": 498,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99959,
+                    "resource_id": 20,
+                    "text": "Is food for the sinful."
+                },
+                {
+                    "id": 217798,
+                    "resource_id": 39,
+                    "text": "(Buahnya) menjadi makanan bagi orang yang berdosa (dalam neraka)."
+                },
+                {
+                    "id": 1095435,
+                    "resource_id": 161,
+                    "text": "পাপীর খাদ্য"
+                }
+            ]
+        },
+        {
+            "id": 4459,
+            "verse_number": 45,
+            "verse_key": "44:45",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 199,
+            "ruku_number": 435,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "كَٱلْمُهْلِ يَغْلِى فِى ٱلْبُطُونِ",
+            "page_number": 498,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99960,
+                    "resource_id": 20,
+                    "text": "Like murky oil, it boils within bellies"
+                },
+                {
+                    "id": 217796,
+                    "resource_id": 39,
+                    "text": "(Makanan ini pula panas) seperti tembaga cair, mendidih dalam perut, -"
+                },
+                {
+                    "id": 1095436,
+                    "resource_id": 161,
+                    "text": "গলিত তামার মত পেটে ফুটতে থাকবে।"
+                }
+            ]
+        },
+        {
+            "id": 4460,
+            "verse_number": 46,
+            "verse_key": "44:46",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 199,
+            "ruku_number": 435,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "كَغَلْىِ ٱلْحَمِيمِ",
+            "page_number": 498,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99961,
+                    "resource_id": 20,
+                    "text": "Like the boiling of scalding water."
+                },
+                {
+                    "id": 214836,
+                    "resource_id": 39,
+                    "text": "Seperti mendidihnya air yang meluap-luap panasnya."
+                },
+                {
+                    "id": 1095437,
+                    "resource_id": 161,
+                    "text": "ফুটন্ত পানির মত,"
+                }
+            ]
+        },
+        {
+            "id": 4461,
+            "verse_number": 47,
+            "verse_key": "44:47",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 199,
+            "ruku_number": 435,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "خُذُوهُ فَٱعْتِلُوهُ إِلَىٰ سَوَآءِ ٱلْجَحِيمِ",
+            "page_number": 498,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99962,
+                    "resource_id": 20,
+                    "text": "[It will be commanded], \"Seize him and drag him into the midst of the Hellfire,"
+                },
+                {
+                    "id": 217797,
+                    "resource_id": 39,
+                    "text": "(Lalu diperintahkan kepada malaikat penjaga neraka): \"Renggutlah orang yang berdosa itu dan seretlah dia ke tengah-tengah neraka."
+                },
+                {
+                    "id": 1095438,
+                    "resource_id": 161,
+                    "text": "(বলা হবে) ওকে ধর, আর ওকে টেনে নিয়ে যাও জাহান্নামের আগুনের মাঝখানে।"
+                }
+            ]
+        },
+        {
+            "id": 4462,
+            "verse_number": 48,
+            "verse_key": "44:48",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 199,
+            "ruku_number": 435,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "ثُمَّ صُبُّوا۟ فَوْقَ رَأْسِهِۦ مِنْ عَذَابِ ٱلْحَمِيمِ",
+            "page_number": 498,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99963,
+                    "resource_id": 20,
+                    "text": "Then pour over his head from the torment of scalding water.\""
+                },
+                {
+                    "id": 217800,
+                    "resource_id": 39,
+                    "text": "\"Kemudian curahkanlah di atas kepalanya - azab seksa - dari air panas yang menggelegak\"."
+                },
+                {
+                    "id": 1095439,
+                    "resource_id": 161,
+                    "text": "অতঃপর তার মাথার উপর ফুটন্ত পানি ঢেলে ‘আযাব দাও।"
+                }
+            ]
+        },
+        {
+            "id": 4463,
+            "verse_number": 49,
+            "verse_key": "44:49",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 199,
+            "ruku_number": 435,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "ذُقْ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْكَرِيمُ",
+            "page_number": 498,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99964,
+                    "resource_id": 20,
+                    "text": "[It will be said], \"Taste! Indeed, you are the honored, the noble!<sup foot_note=197352>1</sup>"
+                },
+                {
+                    "id": 217799,
+                    "resource_id": 39,
+                    "text": "(Serta dikatakan kepadanya secara mengejek): \"Rasalah azab seksa, sebenarnya engkau adalah orang yang berpengaruh dan terhormat (dalam kalangan masyarakatmu)\""
+                },
+                {
+                    "id": 1095440,
+                    "resource_id": 161,
+                    "text": "(বলা হবে) গ্রহণ কর স্বাদ-তুমি তো ছিলে ক্ষমতাশালী, সম্মানী।"
+                }
+            ]
+        },
+        {
+            "id": 4464,
+            "verse_number": 50,
+            "verse_key": "44:50",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 199,
+            "ruku_number": 435,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ هَـٰذَا مَا كُنتُم بِهِۦ تَمْتَرُونَ",
+            "page_number": 498,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99967,
+                    "resource_id": 20,
+                    "text": "Indeed, this is what you used to dispute.\""
+                },
+                {
+                    "id": 217803,
+                    "resource_id": 39,
+                    "text": "(Kemudian dikatakan kepada ahli neraka umumnya): \"Sesungguhnya inilah dia (azab seksa) yang kamu dahulu ragu-ragu terhadapnya!\""
+                },
+                {
+                    "id": 1095441,
+                    "resource_id": 161,
+                    "text": "এ হল তাই যাতে তোমরা সন্দেহ করতে।"
+                }
+            ]
+        },
+        {
+            "id": 4465,
+            "verse_number": 51,
+            "verse_key": "44:51",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 199,
+            "ruku_number": 435,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ ٱلْمُتَّقِينَ فِى مَقَامٍ أَمِينٍ",
+            "page_number": 498,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99968,
+                    "resource_id": 20,
+                    "text": "Indeed, the righteous will be in a secure place:"
+                },
+                {
+                    "id": 217814,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya orang-orang yang bertaqwa (akan ditempatkan) di tempat tinggal yang aman sentosa. -"
+                },
+                {
+                    "id": 1095442,
+                    "resource_id": 161,
+                    "text": "নিশ্চয়ই মুত্তাকীরা থাকবে নিরাপদ স্থানে,"
+                }
+            ]
+        },
+        {
+            "id": 4466,
+            "verse_number": 52,
+            "verse_key": "44:52",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 199,
+            "ruku_number": 435,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فِى جَنَّـٰتٍ وَعُيُونٍ",
+            "page_number": 498,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99969,
+                    "resource_id": 20,
+                    "text": "Within gardens and springs,"
+                },
+                {
+                    "id": 217805,
+                    "resource_id": 39,
+                    "text": "Ia itu di dalam beberapa taman Syurga, dengan matair-matair terpancar padanya,"
+                },
+                {
+                    "id": 1095443,
+                    "resource_id": 161,
+                    "text": "বাগান আর ঝরণার মাঝে"
+                }
+            ]
+        },
+        {
+            "id": 4467,
+            "verse_number": 53,
+            "verse_key": "44:53",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 199,
+            "ruku_number": 435,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "يَلْبَسُونَ مِن سُندُسٍ وَإِسْتَبْرَقٍ مُّتَقَـٰبِلِينَ",
+            "page_number": 498,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99970,
+                    "resource_id": 20,
+                    "text": "Wearing [garments of] fine silk and brocade, facing each other."
+                },
+                {
+                    "id": 217806,
+                    "resource_id": 39,
+                    "text": "Mereka memakai pakaian dari kain sutera yang halus dan kain sutera tebal yang bersulam; (mereka duduk di tempat perhimpunan) sentiasa berhadap-hadapan (di atas pelamin masing-masing)."
+                },
+                {
+                    "id": 1095444,
+                    "resource_id": 161,
+                    "text": "তারা পরিধান করবে পাতলা ও পুরু রেশমী কাপড়, আর বসবে মুখোমুখী হয়ে।"
+                }
+            ]
+        },
+        {
+            "id": 4468,
+            "verse_number": 54,
+            "verse_key": "44:54",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 199,
+            "ruku_number": 435,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "كَذَٰلِكَ وَزَوَّجْنَـٰهُم بِحُورٍ عِينٍ",
+            "page_number": 498,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99971,
+                    "resource_id": 20,
+                    "text": "Thus. And We will marry them to fair women with large, [beautiful] eyes."
+                },
+                {
+                    "id": 217807,
+                    "resource_id": 39,
+                    "text": "Demikianlah keadaannya; dan Kami jadikan kawan teman mereka bidadari-bidadari yang putih melepak, lagi luas cantik matanya."
+                },
+                {
+                    "id": 1095445,
+                    "resource_id": 161,
+                    "text": "এ রকমই হবে, আর তাদের বিয়ে দিয়ে দেব ডাগর ডাগর সুন্দর উজ্জ্বল চোখওয়ালা কুমারীদের (হুরদের) সাথে।"
+                }
+            ]
+        },
+        {
+            "id": 4469,
+            "verse_number": 55,
+            "verse_key": "44:55",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 199,
+            "ruku_number": 435,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "يَدْعُونَ فِيهَا بِكُلِّ فَـٰكِهَةٍ ءَامِنِينَ",
+            "page_number": 498,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99972,
+                    "resource_id": 20,
+                    "text": "They will call therein for every [kind of] fruit - safe and secure."
+                },
+                {
+                    "id": 217808,
+                    "resource_id": 39,
+                    "text": "Mereka meminta - di dalam Syurga itu - tiap-tiap jenis buah-buahan (yang mereka ingini), dalam keadaan aman sentosa."
+                },
+                {
+                    "id": 1095446,
+                    "resource_id": 161,
+                    "text": "সেখানে তারা পূর্ণ শান্তি ও নিরাপত্তার সাথে নানান ফলমূল আনতে বলবে।"
+                }
+            ]
+        },
+        {
+            "id": 4470,
+            "verse_number": 56,
+            "verse_key": "44:56",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 199,
+            "ruku_number": 435,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "لَا يَذُوقُونَ فِيهَا ٱلْمَوْتَ إِلَّا ٱلْمَوْتَةَ ٱلْأُولَىٰ ۖ وَوَقَىٰهُمْ عَذَابَ ٱلْجَحِيمِ",
+            "page_number": 498,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99973,
+                    "resource_id": 20,
+                    "text": "They will not taste death therein except the first death, and He will have protected them from the punishment of Hellfire"
+                },
+                {
+                    "id": 217809,
+                    "resource_id": 39,
+                    "text": "Mereka tidak merasai kematian dalam Syurga itu selain daripada mati yang mereka rasai (di dunia) dahulu; dan Allah selamatkan mereka dari azab neraka;"
+                },
+                {
+                    "id": 1095447,
+                    "resource_id": 161,
+                    "text": "সেখানে তারা মৃত্যু আস্বাদন করবে না (সেই) প্রথম মৃত্যুর পর, আর তিনি তাদেরকে আগুনের শাস্তি থেকে রক্ষা করবেন"
+                }
+            ]
+        },
+        {
+            "id": 4471,
+            "verse_number": 57,
+            "verse_key": "44:57",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 199,
+            "ruku_number": 435,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فَضْلًا مِّن رَّبِّكَ ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+            "page_number": 498,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99974,
+                    "resource_id": 20,
+                    "text": "As bounty from your Lord. That is what is the great attainment."
+                },
+                {
+                    "id": 217810,
+                    "resource_id": 39,
+                    "text": "(Mereka diberikan semuanya itu) sebagai limpah kurnia dari Tuhanmu (wahai Muhammad); yang demikian itulah kemenangan yang besar."
+                },
+                {
+                    "id": 1095448,
+                    "resource_id": 161,
+                    "text": "তোমার প্রতিপালকের অনুগ্রহ স্বরূপ, এটাই হল মহা সাফল্য।"
+                }
+            ]
+        },
+        {
+            "id": 4472,
+            "verse_number": 58,
+            "verse_key": "44:58",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 199,
+            "ruku_number": 435,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فَإِنَّمَا يَسَّرْنَـٰهُ بِلِسَانِكَ لَعَلَّهُمْ يَتَذَكَّرُونَ",
+            "page_number": 498,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99975,
+                    "resource_id": 20,
+                    "text": "And indeed, We have eased it [i.e., the Qur’ān] in your tongue that they might be reminded."
+                },
+                {
+                    "id": 217811,
+                    "resource_id": 39,
+                    "text": "Maka sesungguhnya tujuan Kami memudahkan Al-Quran dengan bahasamu (wahai Muhammad), ialah supaya mereka (yang memahaminya) beringat dan insaf (untuk beriman dan mematuhinya)."
+                },
+                {
+                    "id": 1095449,
+                    "resource_id": 161,
+                    "text": "আমি তোমার ভাষায় কুরআনকে সহজ করে দিয়েছি যাতে তারা উপদেশ গ্রহণ করে।"
+                }
+            ]
+        },
+        {
+            "id": 4473,
+            "verse_number": 59,
+            "verse_key": "44:59",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 199,
+            "ruku_number": 435,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فَٱرْتَقِبْ إِنَّهُم مُّرْتَقِبُونَ",
+            "page_number": 498,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99976,
+                    "resource_id": 20,
+                    "text": "So watch, [O Muḥammad]; indeed, they are watching [for your end]."
+                },
+                {
+                    "id": 217812,
+                    "resource_id": 39,
+                    "text": "(Kiranya mereka tidak berbuat demikian) maka tunggulah (wahai Muhammad akan kesudahan mereka), sesungguhnya mereka juga menunggu (akan kesudahanmu)."
+                },
+                {
+                    "id": 1095450,
+                    "resource_id": 161,
+                    "text": "কাজেই তুমি অপেক্ষা কর (তাদের পরিণতি দেখার জন্য) তারাও অপেক্ষা করছে (তোমাদের পরিণতি দেখার জন্য)।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 20,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 20
+    }
+}

@@ -1,0 +1,191 @@
+{
+    "verses": [
+        {
+            "id": 1092,
+            "verse_number": 138,
+            "verse_key": "7:138",
+            "hizb_number": 17,
+            "rub_el_hizb_number": 66,
+            "ruku_number": 137,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَجَـٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتَوْا۟ عَلَىٰ قَوْمٍ يَعْكُفُونَ عَلَىٰٓ أَصْنَامٍ لَّهُمْ ۚ قَالُوا۟ يَـٰمُوسَى ٱجْعَل لَّنَآ إِلَـٰهًا كَمَا لَهُمْ ءَالِهَةٌ ۚ قَالَ إِنَّكُمْ قَوْمٌ تَجْهَلُونَ",
+            "page_number": 167,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 101330,
+                    "resource_id": 20,
+                    "text": "And We took the Children of Israel across the sea; then they came upon a people intent in devotion to [some] idols of theirs. They [the Children of Israel] said, \"O Moses, make for us a god just as they have gods.\" He said, \"Indeed, you are a people behaving ignorantly."
+                },
+                {
+                    "id": 219178,
+                    "resource_id": 39,
+                    "text": "Dan Kami bawakan Bani Israil ke sebarang Laut (Merah) itu lalu mereka sampai kepada suatu kaum yang sedang menyembah berhala-berhalanya. (Melihatkan yang demikian) mereka (Bani Israil) berkata: \"Wahai Musa buatlah untuk kami suatu tuhan (berhala) sebagaimana mereka mempunyai beberapa tuhan\". Nabi Musa menjawab: \"Sesungguhnya kamu ini adalah kaum yang jahil."
+                },
+                {
+                    "id": 1092069,
+                    "resource_id": 161,
+                    "text": "বানী ইসরাঈলকে আমি সমুদ্র পার করিয়ে দিলাম, অতঃপর তারা এমন এক জাতির নিকট এলো যারা ছিল প্রতিমা পূজারী। মূসার লোকজন বলল, হে মূসা! আমাদের জন্যও ‘কোন দেবতা বানিয়ে দাও যেমন তাদের দেবতা আছে। মূসা বলল, তোমরা হলে এমন এক সম্প্রদায় যারা মূর্খদের মতো আচরণ করে।’"
+                }
+            ]
+        },
+        {
+            "id": 1093,
+            "verse_number": 139,
+            "verse_key": "7:139",
+            "hizb_number": 17,
+            "rub_el_hizb_number": 66,
+            "ruku_number": 137,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ هَـٰٓؤُلَآءِ مُتَبَّرٌ مَّا هُمْ فِيهِ وَبَـٰطِلٌ مَّا كَانُوا۟ يَعْمَلُونَ",
+            "page_number": 167,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 101331,
+                    "resource_id": 20,
+                    "text": "Indeed, those [worshippers] - destroyed is that in which they are [engaged], and worthless is whatever they were doing.\""
+                },
+                {
+                    "id": 219179,
+                    "resource_id": 39,
+                    "text": "\"Sesungguhnya mereka (penyembah-penyembah berhala itu), akan dihancurkan apa yang mereka berada di dalamnya (dari perbuatan syirik), dan tetaplah salahnya apa yang mereka kerjakan itu\"."
+                },
+                {
+                    "id": 1092070,
+                    "resource_id": 161,
+                    "text": "এসব লোক যাতে মত্ত আছে তা ধ্বংস হয়ে যাবে আর তারা যে সব কাজ করছে তা সব বাতিল।"
+                }
+            ]
+        },
+        {
+            "id": 1094,
+            "verse_number": 140,
+            "verse_key": "7:140",
+            "hizb_number": 17,
+            "rub_el_hizb_number": 66,
+            "ruku_number": 137,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ أَغَيْرَ ٱللَّهِ أَبْغِيكُمْ إِلَـٰهًا وَهُوَ فَضَّلَكُمْ عَلَى ٱلْعَـٰلَمِينَ",
+            "page_number": 167,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 101334,
+                    "resource_id": 20,
+                    "text": "He said, \"Is it other than Allāh I should desire for you as a god<sup foot_note=196322>1</sup> while He has preferred you over the worlds?\""
+                },
+                {
+                    "id": 219182,
+                    "resource_id": 39,
+                    "text": "Nabi Musa berkata lagi: \"Patutkah aku mencari tuhan untuk kamu selain dari Allah, padahal Ia telah melebihkan kamu atas sekalian manusia (yang sezaman dengan kamu, dengan berbagai nikmat yang telah dikurniakanNya kepada kamu)?\""
+                },
+                {
+                    "id": 1092071,
+                    "resource_id": 161,
+                    "text": "সে বলল, ‘আমি কি আল্লাহ ছাড়া তোমাদের জন্য অন্য ইলাহ খুঁজব অথচ তিনি তোমাদেরকে বিশ্বজগতের উপর প্রাধান্য দিয়েছেন?’"
+                }
+            ]
+        },
+        {
+            "id": 1095,
+            "verse_number": 141,
+            "verse_key": "7:141",
+            "hizb_number": 17,
+            "rub_el_hizb_number": 66,
+            "ruku_number": 137,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذْ أَنجَيْنَـٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ ۖ يُقَتِّلُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ ۚ وَفِى ذَٰلِكُم بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ",
+            "page_number": 167,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 101335,
+                    "resource_id": 20,
+                    "text": "And [recall, O Children of Israel], when We saved you from the people of Pharaoh, [who were] afflicting you with the worst torment - killing your sons and keeping your women alive. And in that was a great trial from your Lord."
+                },
+                {
+                    "id": 219183,
+                    "resource_id": 39,
+                    "text": "Dan (Tuhan berfirman): Ingatlah ketika Kami selamatkan kamu dari Firaun dan kaumnya, yang menyeksa kamu dengan azab seksa yang seberat-berat dan seburuk-buruknya; mereka membunuh anak-anak lelaki kamu dan membiarkan hidup anak-anak perempuan kamu; dan (ingatlah bahawa) yang demikian itu mengandungi cubaan yang besar dari Tuhan kamu."
+                },
+                {
+                    "id": 1092072,
+                    "resource_id": 161,
+                    "text": "স্মরণ কর, আমি তোমাদেরকে ফির‘আওনী গোষ্ঠী থেকে রক্ষা করেছি যারা তোমাদেরকে কঠিন আযাবে ডুবিয়ে রেখেছিল, যারা তোমাদের ছেলে সন্তানগুলোকে হত্যা করছিল আর তোমাদের নারীদেরকে জীবিত রাখছিল, এতে তোমাদের জন্য ছিল তোমাদের রবেবর পক্ষ হতে এক কঠিন পরীক্ষা।"
+                }
+            ]
+        },
+        {
+            "id": 1096,
+            "verse_number": 142,
+            "verse_key": "7:142",
+            "hizb_number": 17,
+            "rub_el_hizb_number": 67,
+            "ruku_number": 138,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "۞ وَوَٰعَدْنَا مُوسَىٰ ثَلَـٰثِينَ لَيْلَةً وَأَتْمَمْنَـٰهَا بِعَشْرٍ فَتَمَّ مِيقَـٰتُ رَبِّهِۦٓ أَرْبَعِينَ لَيْلَةً ۚ وَقَالَ مُوسَىٰ لِأَخِيهِ هَـٰرُونَ ٱخْلُفْنِى فِى قَوْمِى وَأَصْلِحْ وَلَا تَتَّبِعْ سَبِيلَ ٱلْمُفْسِدِينَ",
+            "page_number": 167,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 101336,
+                    "resource_id": 20,
+                    "text": "And We made an appointment with Moses for thirty nights and perfected them by [the addition of] ten; so the term of his Lord was completed as forty nights. And Moses said to his brother Aaron, \"Take my place among my people, do right [by them],<sup foot_note=196323>1</sup> and do not follow the way of the corrupters.\""
+                },
+                {
+                    "id": 219184,
+                    "resource_id": 39,
+                    "text": "Dan kami telah janjikan masa kepada Nabi Musa (untuk memberikan Taurat) selama tiga puluh malam, serta Kami genapkan jumlahnya dengan sepuluh malam lagi, lalu sempurnalah waktu yang telah ditentukan oleh Tuhannya empat puluh malam. Dan berkatalah Nabi Musa kepada saudaranya Nabi Harun (semasa keluar menerima Taurat): \"Gantikanlah aku dalam (urusan memimpin) kaumku dan perbaikilah (keadaan mereka sepeninggalanku), dan janganlah engkau menurut jalan orang-orang yang melakukan kerosakan\"."
+                },
+                {
+                    "id": 1092073,
+                    "resource_id": 161,
+                    "text": "আমি মূসার জন্য (সিনাই পর্বতের উপর) ত্রিশ রাত্রি নির্ধারণ করলাম। অতঃপর আরো দশ (বাড়িয়ে) দিয়ে (সেই সময়) পূর্ণ করলাম। এভাবে তার প্রতিপালকের নির্ধারিত চল্লিশ রাত্রি পূর্ণ হল। মূসা তার ভাই হারূনকে বলল, ‘আমার অনুপস্থিতিতে আমার সম্প্রদায়ের জন্য তুমি আমার প্রতিনিধিত্ব কর, সংশোধন কর, বিপর্যয় সৃষ্টিকারীদের অনুসরণ করো না।’"
+                }
+            ]
+        },
+        {
+            "id": 1097,
+            "verse_number": 143,
+            "verse_key": "7:143",
+            "hizb_number": 17,
+            "rub_el_hizb_number": 67,
+            "ruku_number": 138,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَمَّا جَآءَ مُوسَىٰ لِمِيقَـٰتِنَا وَكَلَّمَهُۥ رَبُّهُۥ قَالَ رَبِّ أَرِنِىٓ أَنظُرْ إِلَيْكَ ۚ قَالَ لَن تَرَىٰنِى وَلَـٰكِنِ ٱنظُرْ إِلَى ٱلْجَبَلِ فَإِنِ ٱسْتَقَرَّ مَكَانَهُۥ فَسَوْفَ تَرَىٰنِى ۚ فَلَمَّا تَجَلَّىٰ رَبُّهُۥ لِلْجَبَلِ جَعَلَهُۥ دَكًّا وَخَرَّ مُوسَىٰ صَعِقًا ۚ فَلَمَّآ أَفَاقَ قَالَ سُبْحَـٰنَكَ تُبْتُ إِلَيْكَ وَأَنَا۠ أَوَّلُ ٱلْمُؤْمِنِينَ",
+            "page_number": 167,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 101337,
+                    "resource_id": 20,
+                    "text": "And when Moses arrived at Our appointed time and his Lord spoke to him, he said, \"My Lord, show me [Yourself] that I may look at You.\" [Allāh] said, \"You will not see Me,<sup foot_note=196326>1</sup> but look at the mountain; if it should remain in place, then you will see Me.\" But when his Lord appeared to the mountain, He rendered it level,<sup foot_note=196325>2</sup> and Moses fell unconscious. And when he awoke, he said, \"Exalted are You! I have repented to You, and I am the first [among my people] of the believers.\"<sup foot_note=196324>3</sup>"
+                },
+                {
+                    "id": 219187,
+                    "resource_id": 39,
+                    "text": "Dan ketika Nabi Musa datang pada waktu yang Kami telah tentukan itu, dan Tuhannya berkata-kata dengannya, maka Nabi Musa (merayu dengan) berkata: \"Wahai Tuhanku! Perlihatkanlah kepadaku (ZatMu Yang Maha Suci) supaya aku dapat melihatMu\". Allah berfirman: \"Engkau tidak sekali-kali akan sanggup melihatKu, tetapi pandanglah ke gunung itu, maka kalau ia tetap berada di tempatnya, nescaya engkau akan dapat melihatKu\", Setelah Tuhannya \"Tajalla\" (menzahirkan kebesaranNya) kepada gunung itu, (maka) \"TajalliNya\" menjadikan gunung itu hancur lebur dan Nabi Musa pun jatuh pengsan. Setelah ia sedar semula, berkatalah ia: \"Maha Suci Engkau (wahai Tuhanku), aku bertaubat kepadaMu, dan akulah orang yang awal pertama beriman (pada zamanku)"
+                },
+                {
+                    "id": 1092074,
+                    "resource_id": 161,
+                    "text": "মূসা যখন আমার নির্ধারিত সময়ে আসল, আর তার রব্ব তার সঙ্গে কথা বললেন, তখন সে বলল, ‘হে আমার প্রতিপালক! আমাকে দেখা দাও, আমি তোমাকে দেখব’। তিনি বললেন, ‘তুমি আমাকে কক্ষনো দেখতে পাবে না, বরং তুমি পাহাড়ের দিকে তাকাও, যদি তা নিজ স্থানে স্থির থাকতে পারে তাহলে তুমি আমাকে দেখতে পাবে।’ অতঃপর তার প্রতিপালক যখন পাহাড়ে নিজ জ্যোতি বিচ্ছুরিত করলেন, তখন তা পাহাড়কে চূর্ণ-বিচূর্ণ করে দিল আর মূসা চৈতন্য হারিয়ে পড়ে গেল। যখন চেতনা ফিরে পেল, তখন সে বলল, ‘পবিত্র তোমার সত্ত্বা, আমি অনুশোচনা ভরে তোমার পানেই ফিরে এলাম, আর আমি প্রথম ঈমান আনছি।’"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 6,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 6
+    }
+}

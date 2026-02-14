@@ -1,0 +1,401 @@
+{
+    "verses": [
+        {
+            "id": 4304,
+            "verse_number": 32,
+            "verse_key": "42:32",
+            "hizb_number": 49,
+            "rub_el_hizb_number": 195,
+            "ruku_number": 424,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَمِنْ ءَايَـٰتِهِ ٱلْجَوَارِ فِى ٱلْبَحْرِ كَٱلْأَعْلَـٰمِ",
+            "page_number": 487,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99789,
+                    "resource_id": 20,
+                    "text": "And of His signs are the ships in the sea, like mountains."
+                },
+                {
+                    "id": 214826,
+                    "resource_id": 39,
+                    "text": "Dan di antara tanda-tanda kekuasaanNya ialah kapal-kapal (yang besar tinggi) seperti gunung, belayar laju merempuh lautan."
+                },
+                {
+                    "id": 1095281,
+                    "resource_id": 161,
+                    "text": "তাঁর নিদর্শনসমূহের মধ্যে হল সমুদ্রে নির্বিঘ্নে চলমান জাহাজ- পাহাড়ের মত।"
+                }
+            ]
+        },
+        {
+            "id": 4305,
+            "verse_number": 33,
+            "verse_key": "42:33",
+            "hizb_number": 49,
+            "rub_el_hizb_number": 195,
+            "ruku_number": 424,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "إِن يَشَأْ يُسْكِنِ ٱلرِّيحَ فَيَظْلَلْنَ رَوَاكِدَ عَلَىٰ ظَهْرِهِۦٓ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ",
+            "page_number": 487,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99790,
+                    "resource_id": 20,
+                    "text": "If He willed, He could still the wind, and they would remain motionless on its surface. Indeed in that are signs for everyone patient and grateful."
+                },
+                {
+                    "id": 217642,
+                    "resource_id": 39,
+                    "text": "Jika Ia kehendaki, Ia menghentikan tiupan angin, maka tinggalah kapal-kapal itu terapung-apung di muka lautan. Sesungguhnya yang demikian mengandungi tanda-tanda (yang besar pengajarannya) bagi tiap-tiap seorang (mukmin) yang sentiasa bersikap sabar, lagi sentiasa bersyukur."
+                },
+                {
+                    "id": 1095282,
+                    "resource_id": 161,
+                    "text": "তিনি যদি ইচ্ছে করেন বাতাসকে থামিয়ে দিতে পারেন, তখন জাহাজগুলো সমুদ্র পৃষ্ঠে গতিহীন হয়ে পড়বে। এতে প্রত্যেক অতি ধৈর্যশীল শুকর আদায়কারীর জন্য অবশ্যই নিদর্শন রয়েছে।"
+                }
+            ]
+        },
+        {
+            "id": 4306,
+            "verse_number": 34,
+            "verse_key": "42:34",
+            "hizb_number": 49,
+            "rub_el_hizb_number": 195,
+            "ruku_number": 424,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "أَوْ يُوبِقْهُنَّ بِمَا كَسَبُوا۟ وَيَعْفُ عَن كَثِيرٍ",
+            "page_number": 487,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99791,
+                    "resource_id": 20,
+                    "text": "Or He could destroy them<sup foot_note=197312>1</sup> for what they earned; but He pardons much."
+                },
+                {
+                    "id": 217643,
+                    "resource_id": 39,
+                    "text": "Atau (jika Ia kehendaki) Ia binasakan kapal-kapal itu disebabkan dosa-dosa yang dilakukan oleh orang-orangnya, (lalu setengahnya dibiarkan mati lemas) dan (setengahnya diselamatkan dengan jalan) Ia memaafkan sebahagian besar dari dosa-dosa mereka."
+                },
+                {
+                    "id": 1095283,
+                    "resource_id": 161,
+                    "text": "কিংবা তিনি ওগুলোকে ধ্বংস করে দিতে পারেন তাদের উপার্জিত পাপের কারণে, আর প্রকৃতপক্ষে তিনি তো (তাদের) অনেক দোষ-ত্রুটিই ক্ষমা করে দেন।"
+                }
+            ]
+        },
+        {
+            "id": 4307,
+            "verse_number": 35,
+            "verse_key": "42:35",
+            "hizb_number": 49,
+            "rub_el_hizb_number": 195,
+            "ruku_number": 424,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَيَعْلَمَ ٱلَّذِينَ يُجَـٰدِلُونَ فِىٓ ءَايَـٰتِنَا مَا لَهُم مِّن مَّحِيصٍ",
+            "page_number": 487,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99792,
+                    "resource_id": 20,
+                    "text": "And [that is so] those who dispute concerning Our signs may know that for them there is no place of escape."
+                },
+                {
+                    "id": 217644,
+                    "resource_id": 39,
+                    "text": "(Berlakunya yang demikian supaya nyata kekuasaan Kami) dan supaya orang-orang yang membantah ayat-ayat keterangan Kami mengetahui, bahawa mereka tidak akan dapat jalan melepaskan diri (dari azab seksa)."
+                },
+                {
+                    "id": 1095284,
+                    "resource_id": 161,
+                    "text": "(আর ওগুলোকে ধ্বংস করা হয়) এজন্যও যে, আমার আয়াত নিয়ে যারা বিতর্ক করে তারা যেন জেনে নেয় যে, তাদের (আল্লাহর কাছ থেকে পালিয়ে অন্যত্র আশ্রয় নেয়ার জন্য) কোন আশ্রয়স্থল নেই।"
+                }
+            ]
+        },
+        {
+            "id": 4308,
+            "verse_number": 36,
+            "verse_key": "42:36",
+            "hizb_number": 49,
+            "rub_el_hizb_number": 195,
+            "ruku_number": 424,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فَمَآ أُوتِيتُم مِّن شَىْءٍ فَمَتَـٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَمَا عِندَ ٱللَّهِ خَيْرٌ وَأَبْقَىٰ لِلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+            "page_number": 487,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99793,
+                    "resource_id": 20,
+                    "text": "So whatever thing you have been given - it is but [for] enjoyment of the worldly life. But what is with Allāh is better and more lasting for those who have believed and upon their Lord rely"
+                },
+                {
+                    "id": 217645,
+                    "resource_id": 39,
+                    "text": "Oleh itu, apa jua yang diberikan kepada kamu, maka ia hanyalah nikmat kesenangan hidup di dunia ini sahaja, dan (sebaliknya) apa yang ada di sisi Allah (dari pahala hari akhirat) adalah lebih baik dan lebih kekal bagi orang-orang yang beriman dan yang berserah bulat-bulat kepada Tuhannya;"
+                },
+                {
+                    "id": 1095285,
+                    "resource_id": 161,
+                    "text": "(এখানে) তোমাদেরকে যা কিছু দেয়া হয়েছে তা অস্থায়ী দুনিয়ার জীবনের (সামান্য) ভোগ্যবস্তু মাত্র। আল্লাহর নিকট যা আছে তা উৎকৃষ্ট এবং স্থায়ী (আর তা হল) তাদের জন্য যারা ঈমান আনে এবং তাদের প্রতিপালকের উপর নির্ভর করে।"
+                }
+            ]
+        },
+        {
+            "id": 4309,
+            "verse_number": 37,
+            "verse_key": "42:37",
+            "hizb_number": 49,
+            "rub_el_hizb_number": 195,
+            "ruku_number": 424,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّذِينَ يَجْتَنِبُونَ كَبَـٰٓئِرَ ٱلْإِثْمِ وَٱلْفَوَٰحِشَ وَإِذَا مَا غَضِبُوا۟ هُمْ يَغْفِرُونَ",
+            "page_number": 487,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99794,
+                    "resource_id": 20,
+                    "text": "And those who avoid the major sins and immoralities, and when they are angry, they forgive,"
+                },
+                {
+                    "id": 217646,
+                    "resource_id": 39,
+                    "text": "Dan juga (lebih baik dan lebih kekal bagi) orang-orang yang menjauhi dosa-dosa besar serta perbuatan-perbuatan yang keji; dan apabila mereka marah (disebabkan perbuatan yang tidak patut terhadap mereka), mereka memaafkannya;"
+                },
+                {
+                    "id": 1095286,
+                    "resource_id": 161,
+                    "text": "যারা বড় বড় পাপ এবং অশ্লীল কার্যকলাপ হতে বেঁচে চলে এবং রাগান্বিত হয়েও ক্ষমা করে।"
+                }
+            ]
+        },
+        {
+            "id": 4310,
+            "verse_number": 38,
+            "verse_key": "42:38",
+            "hizb_number": 49,
+            "rub_el_hizb_number": 195,
+            "ruku_number": 424,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّذِينَ ٱسْتَجَابُوا۟ لِرَبِّهِمْ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَمْرُهُمْ شُورَىٰ بَيْنَهُمْ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",
+            "page_number": 487,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99795,
+                    "resource_id": 20,
+                    "text": "And those who have responded to their Lord and established prayer and whose affair is [determined by] consultation among themselves, and from what We have provided them, they spend,"
+                },
+                {
+                    "id": 217647,
+                    "resource_id": 39,
+                    "text": "Dan juga (lebih baik dan lebih kekal bagi) orang-orang yang menyahut dan menyambut perintah Tuhannya serta mendirikan sembahyang dengan sempurna; dan urusan mereka dijalankan secara bermesyuarat sesama mereka; dan mereka pula mendermakan sebahagian dari apa yang Kami beri kepadanya;"
+                },
+                {
+                    "id": 1095287,
+                    "resource_id": 161,
+                    "text": "যারা তাদের প্রতিপালকের (নির্দেশ পালনের মাধ্যমে তাঁর) প্রতি সাড়া দেয়, নিয়মিত নামায প্রতিষ্ঠা করে, পারস্পরিক পরামর্শের ভিত্তিতে নিজেদের কার্যাদি পরিচালনা করে। আর আমি তাদেরকে যে রিযক দিয়েছি তাত্থেকে ব্যয় করে।"
+                }
+            ]
+        },
+        {
+            "id": 4311,
+            "verse_number": 39,
+            "verse_key": "42:39",
+            "hizb_number": 49,
+            "rub_el_hizb_number": 195,
+            "ruku_number": 424,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّذِينَ إِذَآ أَصَابَهُمُ ٱلْبَغْىُ هُمْ يَنتَصِرُونَ",
+            "page_number": 487,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99796,
+                    "resource_id": 20,
+                    "text": "And those who, when tyranny strikes them, they retaliate [in a just manner].<sup foot_note=197313>1</sup>"
+                },
+                {
+                    "id": 217648,
+                    "resource_id": 39,
+                    "text": "Dan juga (lebih baik dan lebih kekal bagi) orang-orang yang apabila ditimpa sesuatu perbuatan secara zalim, mereka hanya bertindak membela diri (sepadan dan tidak melampaui batas)."
+                },
+                {
+                    "id": 1095288,
+                    "resource_id": 161,
+                    "text": "আর তাদের উপর অতিরিক্ত বাড়াবাড়ি করা হলে নিজেদের প্রতিরক্ষার ব্যবস্থা করে।"
+                }
+            ]
+        },
+        {
+            "id": 4312,
+            "verse_number": 40,
+            "verse_key": "42:40",
+            "hizb_number": 49,
+            "rub_el_hizb_number": 195,
+            "ruku_number": 424,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَجَزَٰٓؤُا۟ سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا ۖ فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُۥ عَلَى ٱللَّهِ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلظَّـٰلِمِينَ",
+            "page_number": 487,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99764,
+                    "resource_id": 20,
+                    "text": "And the retribution for an evil act is an evil one like it, but whoever pardons and makes reconciliation - his reward is [due] from Allāh. Indeed, He does not like wrongdoers."
+                },
+                {
+                    "id": 217653,
+                    "resource_id": 39,
+                    "text": "Dan (jika kamu hendak membalas maka) balasan sesuatu kejahatan ialah kejahatan yang bersamaan dengannya; dalam pada itu sesiapa yang memaafkan (kejahatan orang) dan berbuat baik (kepadanya), maka pahalanya tetap dijamin oleh Allah (dengan diberi balasan yang sebaik-baiknya). Sesungguhnya Allah tidak suka kepada orang-orang yang berlaku zalim."
+                },
+                {
+                    "id": 1095289,
+                    "resource_id": 161,
+                    "text": "অন্যায়ের প্রতিবিধান হল অনুরূপ অন্যায়। অতঃপর যে ক্ষমা করে এবং সমঝোতা করে, তার প্রতিদান দেয়া আল্লাহর যিম্মায়। সীমাঙ্ঘনকারীদেরকে আল্লাহ পছন্দ করেন না।"
+                }
+            ]
+        },
+        {
+            "id": 4313,
+            "verse_number": 41,
+            "verse_key": "42:41",
+            "hizb_number": 49,
+            "rub_el_hizb_number": 195,
+            "ruku_number": 424,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَمَنِ ٱنتَصَرَ بَعْدَ ظُلْمِهِۦ فَأُو۟لَـٰٓئِكَ مَا عَلَيْهِم مِّن سَبِيلٍ",
+            "page_number": 487,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99697,
+                    "resource_id": 20,
+                    "text": "And whoever retaliates after having been wronged - those have not upon them any cause [for blame]."
+                },
+                {
+                    "id": 217654,
+                    "resource_id": 39,
+                    "text": "Dan sesungguhnya orang yang bertindak membela diri setelah ia dizalimi, maka mereka yang demikian keadaannya, tidak ada sebarang jalan hendak menyalahkan mereka."
+                },
+                {
+                    "id": 1095290,
+                    "resource_id": 161,
+                    "text": "কেউ অত্যাচারিত হয়ে নিজের প্রতিরক্ষার ব্যবস্থা নিলে, তার বিরুদ্ধে কোন অভিযোগ নেই।"
+                }
+            ]
+        },
+        {
+            "id": 4314,
+            "verse_number": 42,
+            "verse_key": "42:42",
+            "hizb_number": 49,
+            "rub_el_hizb_number": 195,
+            "ruku_number": 424,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّمَا ٱلسَّبِيلُ عَلَى ٱلَّذِينَ يَظْلِمُونَ ٱلنَّاسَ وَيَبْغُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ ۚ أُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ أَلِيمٌ",
+            "page_number": 487,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99799,
+                    "resource_id": 20,
+                    "text": "The cause is only against the ones who wrong the people and tyrannize upon the earth without right. Those will have a painful punishment."
+                },
+                {
+                    "id": 217655,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya jalan (untuk menyalahkan) hanyalah terhadap orang-orang yang melakukan kezaliman kepada manusia dan bermaharajalela di muka bumi dengan tiada sebarang alasan yang benar. Mereka itulah orang-orang yang beroleh azab seksa yang tidak berperi sakitnya."
+                },
+                {
+                    "id": 1095291,
+                    "resource_id": 161,
+                    "text": "অভিযোগ তো তাদের বিরুদ্ধে যারা মানুষের প্রতি অত্যাচার করে, আর অন্যায়ভাবে যমীনে বিদ্রোহ সৃষ্টি করে; তাদের জন্য আছে যন্ত্রণাদায়ক শাস্তি।"
+                }
+            ]
+        },
+        {
+            "id": 4315,
+            "verse_number": 43,
+            "verse_key": "42:43",
+            "hizb_number": 49,
+            "rub_el_hizb_number": 195,
+            "ruku_number": 424,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَٰلِكَ لَمِنْ عَزْمِ ٱلْأُمُورِ",
+            "page_number": 487,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99800,
+                    "resource_id": 20,
+                    "text": "And whoever is patient and forgives - indeed, that is of the matters [worthy] of resolve.<sup foot_note=197314>1</sup>"
+                },
+                {
+                    "id": 217656,
+                    "resource_id": 39,
+                    "text": "Dalam pada itu (ingatlah), orang yang bersabar dan memaafkan (kesalahan orang terhadapnya), sesungguhnya yang demikian itu adalah dari perkara-perkara yang dikehendaki diambil berat (melakukannya)."
+                },
+                {
+                    "id": 1095292,
+                    "resource_id": 161,
+                    "text": "আর যে ব্যক্তি (অত্যাচারিত হওয়ার পরও) ধৈর্য ধারণ করে, আর (অত্যাচারীকে) ক্ষমা করে দেয়, তাহলে তা অবশ্যই দৃঢ় চিত্ততার কাজ।"
+                }
+            ]
+        },
+        {
+            "id": 4316,
+            "verse_number": 44,
+            "verse_key": "42:44",
+            "hizb_number": 49,
+            "rub_el_hizb_number": 195,
+            "ruku_number": 425,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِن وَلِىٍّ مِّنۢ بَعْدِهِۦ ۗ وَتَرَى ٱلظَّـٰلِمِينَ لَمَّا رَأَوُا۟ ٱلْعَذَابَ يَقُولُونَ هَلْ إِلَىٰ مَرَدٍّ مِّن سَبِيلٍ",
+            "page_number": 487,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99801,
+                    "resource_id": 20,
+                    "text": "And he whom Allāh sends astray - for him there is no protector beyond Him. And you will see the wrongdoers, when they see the punishment, saying, \"Is there for return [to the former world] any way?\""
+                },
+                {
+                    "id": 217664,
+                    "resource_id": 39,
+                    "text": "Dan sesiapa yang disesatkan oleh Allah, maka tidak ada baginya sesudah itu sesiapapun yang dapat menolongnya. Dan engkau akan melihat orang-orang yang zalim semasa mereka menyaksikan azab (pada hari kiamat) berkata: \"Adakah sebarang jalan untuk kami kembali ke dunia?\""
+                },
+                {
+                    "id": 1095293,
+                    "resource_id": 161,
+                    "text": "আল্লাহই যাকে পথভ্রষ্ট করেন, তার জন্য তিনি ছাড়া কোন অভিভাবক নেই। তুমি দেখবে, যখন যালিমরা ‘আযাব প্রত্যক্ষ করবে তখন বলবে- ফিরে যাওয়ার কোন পথ আছে কি?"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 13,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 13
+    }
+}

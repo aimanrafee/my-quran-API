@@ -1,0 +1,191 @@
+{
+    "verses": [
+        {
+            "id": 6208,
+            "verse_number": 1,
+            "verse_key": "109:1",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 553,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " قُلْ يَـٰٓأَيُّهَا ٱلْكَـٰفِرُونَ",
+            "page_number": 603,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96327,
+                    "resource_id": 20,
+                    "text": "Say, \"O disbelievers,"
+                },
+                {
+                    "id": 214655,
+                    "resource_id": 39,
+                    "text": "Katakanlah (wahai Muhammad): \"Hai orang-orang kafir!"
+                },
+                {
+                    "id": 1097185,
+                    "resource_id": 161,
+                    "text": "বল, ‘হে কাফিররা!’"
+                }
+            ]
+        },
+        {
+            "id": 6209,
+            "verse_number": 2,
+            "verse_key": "109:2",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 553,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "لَآ أَعْبُدُ مَا تَعْبُدُونَ",
+            "page_number": 603,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96329,
+                    "resource_id": 20,
+                    "text": "I do not worship what you worship."
+                },
+                {
+                    "id": 220293,
+                    "resource_id": 39,
+                    "text": "\"Aku tidak akan menyembah apa yang kamu sembah."
+                },
+                {
+                    "id": 1097186,
+                    "resource_id": 161,
+                    "text": "তোমরা যার ‘ইবাদাত কর, আমি তার ‘ইবাদাত করি না,"
+                }
+            ]
+        },
+        {
+            "id": 6210,
+            "verse_number": 3,
+            "verse_key": "109:3",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 553,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+            "page_number": 603,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96333,
+                    "resource_id": 20,
+                    "text": "Nor are you worshippers of what I worship."
+                },
+                {
+                    "id": 220294,
+                    "resource_id": 39,
+                    "text": "\"Dan kamu tidak mahu menyembah (Allah) yang aku sembah."
+                },
+                {
+                    "id": 1097187,
+                    "resource_id": 161,
+                    "text": "আর আমি যার ‘ইবাদাত করি তোমরা তার ‘ইবাদাতকারী নও,"
+                }
+            ]
+        },
+        {
+            "id": 6211,
+            "verse_number": 4,
+            "verse_key": "109:4",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 553,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَآ أَنَا۠ عَابِدٌ مَّا عَبَدتُّمْ",
+            "page_number": 603,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96335,
+                    "resource_id": 20,
+                    "text": "Nor will I be a worshipper of what you worship."
+                },
+                {
+                    "id": 220406,
+                    "resource_id": 39,
+                    "text": "\"Dan aku tidak akan beribadat secara kamu beribadat."
+                },
+                {
+                    "id": 1097188,
+                    "resource_id": 161,
+                    "text": "আর আমি তার ‘ইবাদাতকারী নই তোমরা যার ‘ইবাদাত করে থাক,"
+                }
+            ]
+        },
+        {
+            "id": 6212,
+            "verse_number": 5,
+            "verse_key": "109:5",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 553,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+            "page_number": 603,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96337,
+                    "resource_id": 20,
+                    "text": "Nor will you be worshippers of what I worship."
+                },
+                {
+                    "id": 220297,
+                    "resource_id": 39,
+                    "text": "\"Dan kamu pula tidak mahu beribadat secara aku beribadat."
+                },
+                {
+                    "id": 1097189,
+                    "resource_id": 161,
+                    "text": "আর আমি যার ‘ইবাদাত করি তোমরা তার ‘ইবাদাতকারী নও,"
+                }
+            ]
+        },
+        {
+            "id": 6213,
+            "verse_number": 6,
+            "verse_key": "109:6",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 553,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
+            "page_number": 603,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96339,
+                    "resource_id": 20,
+                    "text": "For you is your religion, and for me is my religion.\""
+                },
+                {
+                    "id": 220534,
+                    "resource_id": 39,
+                    "text": "\"Bagi kamu ugama kamu, dan bagiku ugamaku\"."
+                },
+                {
+                    "id": 1097190,
+                    "resource_id": 161,
+                    "text": "তোমাদের পথ ও পন্থা তোমাদের জন্য (সে পথে চলার পরিণতি তোমাদেরকেই ভোগ করতে হবে) আর আমার জন্য আমার পথ (যে সত্য পথে চলার জন্য আল্লাহ আমাকে নির্দেশ দিয়েছেন, এ পথ ছেড়ে আমি অন্য কোন পথ গ্রহণ করতে মোটেই প্রস্তুত নই)।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 6
+    }
+}

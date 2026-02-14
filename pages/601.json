@@ -1,0 +1,521 @@
+{
+    "verses": [
+        {
+            "id": 6177,
+            "verse_number": 1,
+            "verse_key": "103:1",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 547,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " وَٱلْعَصْرِ",
+            "page_number": 601,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96230,
+                    "resource_id": 20,
+                    "text": "By time,<sup foot_note=197812>1</sup>"
+                },
+                {
+                    "id": 220599,
+                    "resource_id": 39,
+                    "text": "Demi Masa!"
+                },
+                {
+                    "id": 1097154,
+                    "resource_id": 161,
+                    "text": "কালের শপথ"
+                }
+            ]
+        },
+        {
+            "id": 6178,
+            "verse_number": 2,
+            "verse_key": "103:2",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 547,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ ٱلْإِنسَـٰنَ لَفِى خُسْرٍ",
+            "page_number": 601,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96232,
+                    "resource_id": 20,
+                    "text": "Indeed, mankind is in loss,"
+                },
+                {
+                    "id": 220814,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya manusia itu dalam kerugian -"
+                },
+                {
+                    "id": 1097155,
+                    "resource_id": 161,
+                    "text": "মানুষ অবশ্যই ক্ষতির মধ্যে (ডুবে) আছে,"
+                }
+            ]
+        },
+        {
+            "id": 6179,
+            "verse_number": 3,
+            "verse_key": "103:3",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 547,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+            "page_number": 601,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96191,
+                    "resource_id": 20,
+                    "text": "Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience."
+                },
+                {
+                    "id": 220825,
+                    "resource_id": 39,
+                    "text": "Kecuali orang-orang yang beriman dan beramal soleh, dan mereka pula berpesan-pesan dengan kebenaran serta berpesan-pesan dengan sabar."
+                },
+                {
+                    "id": 1097156,
+                    "resource_id": 161,
+                    "text": "কিন্তু তারা নয় যারা ঈমান আনে ও সৎকর্ম করে এবং পরস্পরকে সত্যের উপদেশ দেয় এবং পরস্পরকে ধৈর্য ধারণের উপদেশ দেয়।"
+                }
+            ]
+        },
+        {
+            "id": 6180,
+            "verse_number": 1,
+            "verse_key": "104:1",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 548,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ",
+            "page_number": 601,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96243,
+                    "resource_id": 20,
+                    "text": "Woe to every scorner and mocker"
+                },
+                {
+                    "id": 214967,
+                    "resource_id": 39,
+                    "text": "Kecelakaan besar bagi tiap-tiap pencaci, pengeji,"
+                },
+                {
+                    "id": 1097157,
+                    "resource_id": 161,
+                    "text": "দুর্ভোগ এমন প্রত্যেক ব্যক্তির জন্য যে (সামনাসামনি) মানুষের নিন্দা করে আর (অসাক্ষাতে) দুর্নাম করে,"
+                }
+            ]
+        },
+        {
+            "id": 6181,
+            "verse_number": 2,
+            "verse_key": "104:2",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 548,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ",
+            "page_number": 601,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96245,
+                    "resource_id": 20,
+                    "text": "Who collects wealth and [continuously] counts it.<sup foot_note=197813>1</sup>"
+                },
+                {
+                    "id": 220673,
+                    "resource_id": 39,
+                    "text": "Yang mengumpulkan harta dan berulang-ulang menghitung kekayaannya;"
+                },
+                {
+                    "id": 1097158,
+                    "resource_id": 161,
+                    "text": "যে ধন-সম্পদ জমা করে আর বার বার গণনা করে,"
+                }
+            ]
+        },
+        {
+            "id": 6182,
+            "verse_number": 3,
+            "verse_key": "104:3",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 548,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ",
+            "page_number": 601,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96247,
+                    "resource_id": 20,
+                    "text": "He thinks that his wealth will make him immortal."
+                },
+                {
+                    "id": 220231,
+                    "resource_id": 39,
+                    "text": "Ia menyangka bahawa hartanya itu dapat mengekalkannya (dalam dunia ini)!"
+                },
+                {
+                    "id": 1097159,
+                    "resource_id": 161,
+                    "text": "সে মনে করে যে, তার ধন-সম্পদ চিরকাল তার সাথে থাকবে,"
+                }
+            ]
+        },
+        {
+            "id": 6183,
+            "verse_number": 4,
+            "verse_key": "104:4",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 548,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "كَلَّا ۖ لَيُنۢبَذَنَّ فِى ٱلْحُطَمَةِ",
+            "page_number": 601,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96249,
+                    "resource_id": 20,
+                    "text": "No! He will surely be thrown into the Crusher.<sup foot_note=197814>1</sup>"
+                },
+                {
+                    "id": 220232,
+                    "resource_id": 39,
+                    "text": "Tidak! Sesungguhnya dia akan dicampakkan ke dalam \"Al-Hutamah\"."
+                },
+                {
+                    "id": 1097160,
+                    "resource_id": 161,
+                    "text": "কক্ষনো না, তাকে অবশ্যই চূর্ণ-বিচূর্ণকারীর মধ্যে নিক্ষেপ করা হবে,"
+                }
+            ]
+        },
+        {
+            "id": 6184,
+            "verse_number": 5,
+            "verse_key": "104:5",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 548,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا ٱلْحُطَمَةُ",
+            "page_number": 601,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96251,
+                    "resource_id": 20,
+                    "text": "And what can make you know what is the Crusher?"
+                },
+                {
+                    "id": 220661,
+                    "resource_id": 39,
+                    "text": "Dan apa jalannya engkau dapat mengetahui, apa dia \"Al-Hutamah\" itu?"
+                },
+                {
+                    "id": 1097161,
+                    "resource_id": 161,
+                    "text": "তুমি কি জান চূর্ণ-বিচূর্ণকারী কী?"
+                }
+            ]
+        },
+        {
+            "id": 6185,
+            "verse_number": 6,
+            "verse_key": "104:6",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 548,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "نَارُ ٱللَّهِ ٱلْمُوقَدَةُ",
+            "page_number": 601,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96253,
+                    "resource_id": 20,
+                    "text": "It is the fire of Allāh, [eternally] fueled,"
+                },
+                {
+                    "id": 220237,
+                    "resource_id": 39,
+                    "text": "(Al-Hutamah) ialah api Allah yang dinyalakan (dengan perintahNya), -"
+                },
+                {
+                    "id": 1097162,
+                    "resource_id": 161,
+                    "text": "তা আল্লাহর প্রজ্জ্বলিত আগুন,"
+                }
+            ]
+        },
+        {
+            "id": 6186,
+            "verse_number": 7,
+            "verse_key": "104:7",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 548,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّتِى تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ",
+            "page_number": 601,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96255,
+                    "resource_id": 20,
+                    "text": "Which mounts directed at the hearts.<sup foot_note=197815>1</sup>"
+                },
+                {
+                    "id": 214651,
+                    "resource_id": 39,
+                    "text": "Yang naik menjulang ke hati;"
+                },
+                {
+                    "id": 1097163,
+                    "resource_id": 161,
+                    "text": "যা হৃদয় পর্যন্ত পৌঁছে যাবে।"
+                }
+            ]
+        },
+        {
+            "id": 6187,
+            "verse_number": 8,
+            "verse_key": "104:8",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 548,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ",
+            "page_number": 601,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96257,
+                    "resource_id": 20,
+                    "text": "Indeed, it [i.e., Hellfire] will be closed down upon them"
+                },
+                {
+                    "id": 214653,
+                    "resource_id": 39,
+                    "text": "Sesungguhnnya api neraka itu ditutup rapat atas mereka."
+                },
+                {
+                    "id": 1097164,
+                    "resource_id": 161,
+                    "text": "তা তাদেরকে চতুর্দিক থেকে পরিবেষ্টন করে রাখবে,"
+                }
+            ]
+        },
+        {
+            "id": 6188,
+            "verse_number": 9,
+            "verse_key": "104:9",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 548,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فِى عَمَدٍ مُّمَدَّدَةٍۭ",
+            "page_number": 601,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96259,
+                    "resource_id": 20,
+                    "text": "In extended columns.<sup foot_note=197816>1</sup>"
+                },
+                {
+                    "id": 220244,
+                    "resource_id": 39,
+                    "text": "(Mereka terikat di situ) pada batang-batang palang yang melintang panjang."
+                },
+                {
+                    "id": 1097165,
+                    "resource_id": 161,
+                    "text": "(লেলিহান অগ্নিশিখার) উঁচু উঁচু স্তম্ভে।"
+                }
+            ]
+        },
+        {
+            "id": 6189,
+            "verse_number": 1,
+            "verse_key": "105:1",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 549,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+            "page_number": 601,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96263,
+                    "resource_id": 20,
+                    "text": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant?<sup foot_note=197817>1</sup>"
+                },
+                {
+                    "id": 220245,
+                    "resource_id": 39,
+                    "text": "Tidakkah engkau mengetahui bagaimana Tuhanmu telah melakukan kepada angkatan tentera (yang dipimpin oleh pembawa) Gajah, (yang hendak meruntuhkan Kaabah)?"
+                },
+                {
+                    "id": 1097166,
+                    "resource_id": 161,
+                    "text": "তুমি কি দেখনি (কা‘বা ঘর ধ্বংসের জন্য আগত) হাতীওয়ালাদের সঙ্গে তোমার প্রতিপালক কীরূপ ব্যবহার করেছিলেন?"
+                }
+            ]
+        },
+        {
+            "id": 6190,
+            "verse_number": 2,
+            "verse_key": "105:2",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 549,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍ",
+            "page_number": 601,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96265,
+                    "resource_id": 20,
+                    "text": "Did He not make their plan into misguidance?<sup foot_note=197818>1</sup>"
+                },
+                {
+                    "id": 220249,
+                    "resource_id": 39,
+                    "text": "Bukankah Tuhanmu telah menjadikan rancangan jahat mereka dalam keadaan yang rugi dan memusnahkan mereka?"
+                },
+                {
+                    "id": 1097167,
+                    "resource_id": 161,
+                    "text": "তিনি কি তাদের চক্রান্ত ব্যর্থ করে দেননি?"
+                }
+            ]
+        },
+        {
+            "id": 6191,
+            "verse_number": 3,
+            "verse_key": "105:3",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 549,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+            "page_number": 601,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96267,
+                    "resource_id": 20,
+                    "text": "And He sent against them birds in flocks,"
+                },
+                {
+                    "id": 220646,
+                    "resource_id": 39,
+                    "text": "Dan Ia telah menghantarkan kepada mereka (rombongan) burung berpasuk-pasukan, -"
+                },
+                {
+                    "id": 1097168,
+                    "resource_id": 161,
+                    "text": "তিনি তাদের বিরুদ্ধে পাঠিয়েছিলেন ঝাঁকে ঝাঁকে পাখি।"
+                }
+            ]
+        },
+        {
+            "id": 6192,
+            "verse_number": 4,
+            "verse_key": "105:4",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 549,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
+            "page_number": 601,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96269,
+                    "resource_id": 20,
+                    "text": "Striking them with stones of hard clay,"
+                },
+                {
+                    "id": 220254,
+                    "resource_id": 39,
+                    "text": "Yang melontar mereka dengan batu-batu dari sejenis tanah yang dibakar keras, -"
+                },
+                {
+                    "id": 1097169,
+                    "resource_id": 161,
+                    "text": "যারা তাদের উপর পাথরের কাঁকর নিক্ষেপ করেছিল।"
+                }
+            ]
+        },
+        {
+            "id": 6193,
+            "verse_number": 5,
+            "verse_key": "105:5",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 549,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ",
+            "page_number": 601,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96271,
+                    "resource_id": 20,
+                    "text": "And He made them like eaten straw.<sup foot_note=197819>1</sup>"
+                },
+                {
+                    "id": 220253,
+                    "resource_id": 39,
+                    "text": "Lalu Ia menjadikan mereka hancur berkecai seperti daun-daun kayu yang dimakan ulat."
+                },
+                {
+                    "id": 1097170,
+                    "resource_id": 161,
+                    "text": "অতঃপর তিনি তাদেরকে করে দিলেন ভক্ষিত তৃণ-ভুষির মত।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 17,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 17
+    }
+}

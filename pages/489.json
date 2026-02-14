@@ -1,0 +1,371 @@
+{
+    "verses": [
+        {
+            "id": 4324,
+            "verse_number": 52,
+            "verse_key": "42:52",
+            "hizb_number": 49,
+            "rub_el_hizb_number": 196,
+            "ruku_number": 425,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَكَذَٰلِكَ أَوْحَيْنَآ إِلَيْكَ رُوحًا مِّنْ أَمْرِنَا ۚ مَا كُنتَ تَدْرِى مَا ٱلْكِتَـٰبُ وَلَا ٱلْإِيمَـٰنُ وَلَـٰكِن جَعَلْنَـٰهُ نُورًا نَّهْدِى بِهِۦ مَن نَّشَآءُ مِنْ عِبَادِنَا ۚ وَإِنَّكَ لَتَهْدِىٓ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+            "page_number": 489,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99811,
+                    "resource_id": 20,
+                    "text": "And thus We have revealed to you an inspiration of Our command [i.e., the Qur’ān]. You did not know what is the Book or [what is] faith, but We have made it a light by which We guide whom We will of Our servants. And indeed, [O Muḥammad], you guide to a straight path -"
+                },
+                {
+                    "id": 217680,
+                    "resource_id": 39,
+                    "text": "Dan demikianlah Kami wahyukan kepadamu (Muhammad) - Al-Quran sebagai roh (yang menghidupkan hati perintah Kami; engkau tidak pernah mengetahui (sebelum diwahyukan kepadamu): apakah Kitab (Al-Quran) itu dan tidak juga mengetahui apakah iman itu; akan tetapi Kami jadikan Al-Quran: cahaya yang menerangi, Kami beri petunjuk dengannya sesiapa yang Kami kehendaki di antara hamba-hamba Kami. Dan sesungguhnya engkau (wahai Muhammad) adalah memberi petunjuk dengan Al-Quran itu ke jalan yang lurus,"
+                },
+                {
+                    "id": 1095301,
+                    "resource_id": 161,
+                    "text": "এভাবে (উপরোক্ত ৩টি উপায়েই) আমার নির্দেশের মূল শিক্ষাকে তোমার কাছে আমি ওয়াহী যোগে প্রেরণ করেছি। তুমি জানতে না কিতাব কী, ঈমান কী, কিন্তু আমি একে (অর্থাৎ ওয়াহী যোগে প্রেরিত কুরআনকে) করেছি আলো, যার সাহায্যে আমার বান্দাহদের মধ্য হতে যাকে ইচ্ছে আমি সঠিক পথে পরিচালিত করি। তুমি নিশ্চিতই (মানুষদেরকে) সঠিক পথের দিকে নির্দেশ করছ।"
+                }
+            ]
+        },
+        {
+            "id": 4325,
+            "verse_number": 53,
+            "verse_key": "42:53",
+            "hizb_number": 49,
+            "rub_el_hizb_number": 196,
+            "ruku_number": 425,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "صِرَٰطِ ٱللَّهِ ٱلَّذِى لَهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ أَلَآ إِلَى ٱللَّهِ تَصِيرُ ٱلْأُمُورُ",
+            "page_number": 489,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99812,
+                    "resource_id": 20,
+                    "text": "The path of Allāh, to whom belongs whatever is in the heavens and whatever is on the earth. Unquestionably, to Allāh do [all] matters evolve [i.e., return]."
+                },
+                {
+                    "id": 214828,
+                    "resource_id": 39,
+                    "text": "Iaitu jalan Allah yang memiliki dan menguasai segala yang ada di langit dan yang ada di bumi. Ingatlah! Kepada Allah jualah kembali segala urusan."
+                },
+                {
+                    "id": 1095302,
+                    "resource_id": 161,
+                    "text": "যা কিছু আকাশে আছে আর যমীনে আছে এসবের মালিক যিনি সেই আল্লাহর পথে। শুনে রাখ! আল্লাহর কাছেই সব বিষয় ফিরে যায়।"
+                }
+            ]
+        },
+        {
+            "id": 4326,
+            "verse_number": 1,
+            "verse_key": "43:1",
+            "hizb_number": 49,
+            "rub_el_hizb_number": 196,
+            "ruku_number": 426,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": " حمٓ",
+            "page_number": 489,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99824,
+                    "resource_id": 20,
+                    "text": "Ḥā, Meem.<sup foot_note=197316>1</sup>"
+                },
+                {
+                    "id": 214830,
+                    "resource_id": 39,
+                    "text": "Haa, Miim."
+                },
+                {
+                    "id": 1095303,
+                    "resource_id": 161,
+                    "text": "হা-মীম।"
+                }
+            ]
+        },
+        {
+            "id": 4327,
+            "verse_number": 2,
+            "verse_key": "43:2",
+            "hizb_number": 49,
+            "rub_el_hizb_number": 196,
+            "ruku_number": 426,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلْكِتَـٰبِ ٱلْمُبِينِ",
+            "page_number": 489,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99838,
+                    "resource_id": 20,
+                    "text": "By the clear Book,"
+                },
+                {
+                    "id": 214638,
+                    "resource_id": 39,
+                    "text": "Demi Kitab Al-Quran yang menyatakan kebenaran."
+                },
+                {
+                    "id": 1095304,
+                    "resource_id": 161,
+                    "text": "শপথ সুস্পষ্ট কিতাবের।"
+                }
+            ]
+        },
+        {
+            "id": 4328,
+            "verse_number": 3,
+            "verse_key": "43:3",
+            "hizb_number": 49,
+            "rub_el_hizb_number": 196,
+            "ruku_number": 426,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّا جَعَلْنَـٰهُ قُرْءَٰنًا عَرَبِيًّا لَّعَلَّكُمْ تَعْقِلُونَ",
+            "page_number": 489,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99850,
+                    "resource_id": 20,
+                    "text": "Indeed, We have made it an Arabic Qur’ān that you might understand."
+                },
+                {
+                    "id": 217688,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Kami jadikan Kitab itu sebagai Quran yang diturunkan dengan bahasa Arab, supaya kamu (menggunakan akal) memahaminya."
+                },
+                {
+                    "id": 1095305,
+                    "resource_id": 161,
+                    "text": "আমি ওটাকে করেছি আরবী ভাষার কুরআন যাতে তোমরা বুঝতে পারে।"
+                }
+            ]
+        },
+        {
+            "id": 4329,
+            "verse_number": 4,
+            "verse_key": "43:4",
+            "hizb_number": 49,
+            "rub_el_hizb_number": 196,
+            "ruku_number": 426,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِنَّهُۥ فِىٓ أُمِّ ٱلْكِتَـٰبِ لَدَيْنَا لَعَلِىٌّ حَكِيمٌ",
+            "page_number": 489,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99862,
+                    "resource_id": 20,
+                    "text": "And indeed it is, in the Mother of the Book<sup foot_note=197318>1</sup> with Us, exalted and full of wisdom.<sup foot_note=197317>2</sup>"
+                },
+                {
+                    "id": 217912,
+                    "resource_id": 39,
+                    "text": "Dan sesungguhnya Al-Quran itu dalam Ibu Suratan di sisi Kami - sangat tinggi (kemuliaannya), lagi amat banyak mengandungi hikmat-hikmat dan kebenaran yang tetap kukuh."
+                },
+                {
+                    "id": 1095306,
+                    "resource_id": 161,
+                    "text": "আমার কাছে তা উম্মুল কিতাবে (লাওহে মাহফুজে) সংরক্ষিত আছে, আর তা হল অতি উচ্চ মর্যাদাসম্পন্ন জ্ঞান-বিজ্ঞানে পূর্ণ।"
+                }
+            ]
+        },
+        {
+            "id": 4330,
+            "verse_number": 5,
+            "verse_key": "43:5",
+            "hizb_number": 49,
+            "rub_el_hizb_number": 196,
+            "ruku_number": 426,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "أَفَنَضْرِبُ عَنكُمُ ٱلذِّكْرَ صَفْحًا أَن كُنتُمْ قَوْمًا مُّسْرِفِينَ",
+            "page_number": 489,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99874,
+                    "resource_id": 20,
+                    "text": "Then should We turn the message away, disregarding you, because you are a transgressing people?"
+                },
+                {
+                    "id": 217713,
+                    "resource_id": 39,
+                    "text": "Patutkah Kami membiarkan kamu dengan mengenepikan dan menjauhkan peringatan Al-Quran daripada kamu, kerana kamu telah menjadi kaum yang melampau buruk keadaannya? (Tidak! Kami tidak akan biarkan, bahkan Kami tetap mengingatkan kamu, sama ada kamu mahu menerimanya atau sebaliknya)."
+                },
+                {
+                    "id": 1095307,
+                    "resource_id": 161,
+                    "text": "তোমরা এক সীমালঙ্ঘনকারী জাতি- এ কারণে কি আমি তোমাদের কাছ থেকে কুরআন প্রত্যাহার করে নেব?"
+                }
+            ]
+        },
+        {
+            "id": 4331,
+            "verse_number": 6,
+            "verse_key": "43:6",
+            "hizb_number": 49,
+            "rub_el_hizb_number": 196,
+            "ruku_number": 426,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَكَمْ أَرْسَلْنَا مِن نَّبِىٍّ فِى ٱلْأَوَّلِينَ",
+            "page_number": 489,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99885,
+                    "resource_id": 20,
+                    "text": "And how many a prophet We sent among the former peoples,"
+                },
+                {
+                    "id": 217725,
+                    "resource_id": 39,
+                    "text": "Dan (ingatlah), berapa banyak nabi-nabi yang kami telah utuskan kepada umat-umat yang terdahulu zamannya."
+                },
+                {
+                    "id": 1095308,
+                    "resource_id": 161,
+                    "text": "পূর্বেকার জাতিগুলোর মধ্যে আমি বহু রসূল পাঠিয়েছিলাম।"
+                }
+            ]
+        },
+        {
+            "id": 4332,
+            "verse_number": 7,
+            "verse_key": "43:7",
+            "hizb_number": 49,
+            "rub_el_hizb_number": 196,
+            "ruku_number": 426,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+            "page_number": 489,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99897,
+                    "resource_id": 20,
+                    "text": "But there would not come to them a prophet except that they used to ridicule him."
+                },
+                {
+                    "id": 217735,
+                    "resource_id": 39,
+                    "text": "Dan tidak ada seseorang Nabi pun yang datang kepada mereka, melainkan mereka mempersenda dan mengejek-ejeknya."
+                },
+                {
+                    "id": 1095309,
+                    "resource_id": 161,
+                    "text": "তাদের কাছে এমন কোন নবী আসেনি যাকে তারা ঠাট্টা-বিদ্রূপ করেনি।"
+                }
+            ]
+        },
+        {
+            "id": 4333,
+            "verse_number": 8,
+            "verse_key": "43:8",
+            "hizb_number": 49,
+            "rub_el_hizb_number": 196,
+            "ruku_number": 426,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فَأَهْلَكْنَآ أَشَدَّ مِنْهُم بَطْشًا وَمَضَىٰ مَثَلُ ٱلْأَوَّلِينَ",
+            "page_number": 489,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99909,
+                    "resource_id": 20,
+                    "text": "And We destroyed greater than them<sup foot_note=197319>1</sup> in [striking] power, and the example of the former peoples has preceded."
+                },
+                {
+                    "id": 217745,
+                    "resource_id": 39,
+                    "text": "Lalu Kami binasakan orang-orang yang lebih kekuatannya (dan lebih kejam serangannya) daripada mereka; dan telahpun disebutkan (berulang-ulang di dalam Al-Quran) tentang kisah-kisah dan misal perbandingan mengenai umat-umat yang telah lalu."
+                },
+                {
+                    "id": 1095310,
+                    "resource_id": 161,
+                    "text": "আমি তাদেরকে ধ্বংস করেছি- যারা ছিল এদের চেয়ে অনেক বেশি শক্তিশালী। পূর্বের জাতিগুলোর উদাহরণ অতীত হয়ে গেছে।"
+                }
+            ]
+        },
+        {
+            "id": 4334,
+            "verse_number": 9,
+            "verse_key": "43:9",
+            "hizb_number": 49,
+            "rub_el_hizb_number": 196,
+            "ruku_number": 426,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ لَيَقُولُنَّ خَلَقَهُنَّ ٱلْعَزِيزُ ٱلْعَلِيمُ",
+            "page_number": 489,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99921,
+                    "resource_id": 20,
+                    "text": "And if you should ask them, \"Who has created the heavens and the earth?\" they would surely say, \"They were created by the Exalted in Might, the Knowing,\""
+                },
+                {
+                    "id": 217758,
+                    "resource_id": 39,
+                    "text": "Dan demi sesungguhnya! Jika engkau (wahai Muhammad) bertanya kepada mereka (yang musyrik) itu:\" Siapakah yang menciptakan langit dan bumi?\" Sudah tentu mereka akan menjawab: \"Yang menciptakannya ialah Allah Yang Maha Kuasa, lagi Maha Mengetahui\"."
+                },
+                {
+                    "id": 1095311,
+                    "resource_id": 161,
+                    "text": "তুমি যদি তাদেরকে জিজ্ঞেস কর- আকাশ ও যমীন কে সৃষ্টি করেছে? তারা অবশ্য অবশ্যই বলবে- ওগুলো প্রবল পরাক্রমশালী মহাজ্ঞানী আল্লাহ সৃষ্টি করেছেন,"
+                }
+            ]
+        },
+        {
+            "id": 4335,
+            "verse_number": 10,
+            "verse_key": "43:10",
+            "hizb_number": 49,
+            "rub_el_hizb_number": 196,
+            "ruku_number": 426,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ مَهْدًا وَجَعَلَ لَكُمْ فِيهَا سُبُلًا لَّعَلَّكُمْ تَهْتَدُونَ",
+            "page_number": 489,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99825,
+                    "resource_id": 20,
+                    "text": "[The one] who has made for you the earth a bed and made for you upon it roads that you might be guided"
+                },
+                {
+                    "id": 217778,
+                    "resource_id": 39,
+                    "text": "(Dia lah Tuhan) yang telah menjadikan bumi bagi kamu sebagai hamparan, dan Ia telah mengadakan bagi kamu di bumi jalan-jalan lalu-lalang, supaya kamu mendapat petunjuk (ke arah yang dituju)."
+                },
+                {
+                    "id": 1095312,
+                    "resource_id": 161,
+                    "text": "যিনি তোমাদের জন্য যমীনকে করেছেন বিস্তৃত, আর তাতে তোমাদের জন্য বানিয়েছেন চলার পথ- যাতে তোমরা সঠিক পথ পেতে পার।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 12,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 12
+    }
+}

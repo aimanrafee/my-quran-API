@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 5830,
+            "verse_number": 1,
+            "verse_key": "82:1",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 526,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " إِذَا ٱلسَّمَآءُ ٱنفَطَرَتْ",
+            "page_number": 587,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101887,
+                    "resource_id": 20,
+                    "text": "When the sky breaks apart"
+                },
+                {
+                    "id": 219726,
+                    "resource_id": 39,
+                    "text": "Apabila langit terbelah;"
+                },
+                {
+                    "id": 1096807,
+                    "resource_id": 161,
+                    "text": "যখন আসমান ফেটে যাবে,"
+                }
+            ]
+        },
+        {
+            "id": 5831,
+            "verse_number": 2,
+            "verse_key": "82:2",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 526,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا ٱلْكَوَاكِبُ ٱنتَثَرَتْ",
+            "page_number": 587,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101899,
+                    "resource_id": 20,
+                    "text": "And when the stars fall, scattering,"
+                },
+                {
+                    "id": 219723,
+                    "resource_id": 39,
+                    "text": "Dan apabila bintang-bintang gugur bertaburan;"
+                },
+                {
+                    "id": 1096808,
+                    "resource_id": 161,
+                    "text": "যখন তারকাগুলো বিক্ষিপ্ত হয়ে (ঝরে) পড়বে,"
+                }
+            ]
+        },
+        {
+            "id": 5832,
+            "verse_number": 3,
+            "verse_key": "82:3",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 526,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا ٱلْبِحَارُ فُجِّرَتْ",
+            "page_number": 587,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101901,
+                    "resource_id": 20,
+                    "text": "And when the seas are erupted"
+                },
+                {
+                    "id": 219728,
+                    "resource_id": 39,
+                    "text": "Dan apabila lautan pecah bercampur-baur;"
+                },
+                {
+                    "id": 1096809,
+                    "resource_id": 161,
+                    "text": "সমুদ্রকে যখন উত্তাল করে তোলা হবে,"
+                }
+            ]
+        },
+        {
+            "id": 5833,
+            "verse_number": 4,
+            "verse_key": "82:4",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 526,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا ٱلْقُبُورُ بُعْثِرَتْ",
+            "page_number": 587,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101903,
+                    "resource_id": 20,
+                    "text": "And when the [contents of] graves are scattered [i.e., exposed],"
+                },
+                {
+                    "id": 219730,
+                    "resource_id": 39,
+                    "text": "Dan apabila kubur-kubur dibongkarkan, -"
+                },
+                {
+                    "id": 1096810,
+                    "resource_id": 161,
+                    "text": "যখন কবরস্থ মানুষদেরকে উঠানো হবে,"
+                }
+            ]
+        },
+        {
+            "id": 5834,
+            "verse_number": 5,
+            "verse_key": "82:5",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 526,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَأَخَّرَتْ",
+            "page_number": 587,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101905,
+                    "resource_id": 20,
+                    "text": "A soul will [then] know what it has put forth and kept back."
+                },
+                {
+                    "id": 219731,
+                    "resource_id": 39,
+                    "text": "(Setelah semuanya itu berlaku), tiap-tiap orang akan mengetahui apa yang telah dikerjakan dan ditinggalkannya."
+                },
+                {
+                    "id": 1096811,
+                    "resource_id": 161,
+                    "text": "তখন প্রত্যেকে জেনে নিবে সে কী আগে পাঠিয়েছিল, আর কী পেছনে ছেড়ে এসেছিল।"
+                }
+            ]
+        },
+        {
+            "id": 5835,
+            "verse_number": 6,
+            "verse_key": "82:6",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 526,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "يَـٰٓأَيُّهَا ٱلْإِنسَـٰنُ مَا غَرَّكَ بِرَبِّكَ ٱلْكَرِيمِ",
+            "page_number": 587,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101907,
+                    "resource_id": 20,
+                    "text": "O mankind, what has deceived you concerning your Lord, the Generous,"
+                },
+                {
+                    "id": 219779,
+                    "resource_id": 39,
+                    "text": "Wahai manusia! Apakah yang memperdayakanmu - (berlaku derhaka) kepada Tuhanmu yang Maha Pemurah? -"
+                },
+                {
+                    "id": 1096812,
+                    "resource_id": 161,
+                    "text": "হে মানুষ! কিসে তোমাকে তোমার মহান প্রতিপালক সম্পর্কে ধোঁকায় ফেলে দিয়েছে?"
+                }
+            ]
+        },
+        {
+            "id": 5836,
+            "verse_number": 7,
+            "verse_key": "82:7",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 526,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِى خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ",
+            "page_number": 587,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101909,
+                    "resource_id": 20,
+                    "text": "Who created you, proportioned you, and balanced you?"
+                },
+                {
+                    "id": 219735,
+                    "resource_id": 39,
+                    "text": "Tuhan yang telah mencipta dan mengatur kejadianmu, lalu menjadikan anggotamu sesuai (dengan tujuan yang kerananya anggota itu diadakan), serta menjadikan (binaan tubuh badanmu) sama padan dengan kekuatannya;"
+                },
+                {
+                    "id": 1096813,
+                    "resource_id": 161,
+                    "text": "যিনি তোমাকে সৃষ্টি করেছেন, অতঃপর তোমাকে সুঠাম করেছেন, অতঃপর তোমাকে করেছেন ভারসাম্যপূর্ণ।"
+                }
+            ]
+        },
+        {
+            "id": 5837,
+            "verse_number": 8,
+            "verse_key": "82:8",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 526,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فِىٓ أَىِّ صُورَةٍ مَّا شَآءَ رَكَّبَكَ",
+            "page_number": 587,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101911,
+                    "resource_id": 20,
+                    "text": "In whatever form He willed has He assembled you."
+                },
+                {
+                    "id": 219738,
+                    "resource_id": 39,
+                    "text": "Dalam bentuk dan rupa apa sahaja yang dikehendakiNya, Ia menyusun kejadianmu."
+                },
+                {
+                    "id": 1096814,
+                    "resource_id": 161,
+                    "text": "তিনি তোমাকে তাঁর ইচ্ছেমত আকৃতিতে গঠন করেছেন।"
+                }
+            ]
+        },
+        {
+            "id": 5838,
+            "verse_number": 9,
+            "verse_key": "82:9",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 526,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "كَلَّا بَلْ تُكَذِّبُونَ بِٱلدِّينِ",
+            "page_number": 587,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101913,
+                    "resource_id": 20,
+                    "text": "No! But you deny the Recompense."
+                },
+                {
+                    "id": 219740,
+                    "resource_id": 39,
+                    "text": "Sebenarnya tidak ada yang memperdayakan kamu (hai golongan yang ingkar)! Bahkan kamu sendiri tidak percayakan adanya hari pembalasan."
+                },
+                {
+                    "id": 1096815,
+                    "resource_id": 161,
+                    "text": "না (তোমাদের এই বিভ্রান্তি মোটেই সঠিক নয়), তোমরা তো (আখেরাতের) শাস্তি ও পুরস্কারকে অস্বীকার করে থাক;"
+                }
+            ]
+        },
+        {
+            "id": 5839,
+            "verse_number": 10,
+            "verse_key": "82:10",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 235,
+            "ruku_number": 526,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِنَّ عَلَيْكُمْ لَحَـٰفِظِينَ",
+            "page_number": 587,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101888,
+                    "resource_id": 20,
+                    "text": "And indeed, [appointed] over you are keepers,<sup foot_note=197724>1</sup>"
+                },
+                {
+                    "id": 219712,
+                    "resource_id": 39,
+                    "text": "Padahal sesungguhnya, ada malaikat-malaikat yang menjaga dan mengawas segala bawaan kamu,"
+                },
+                {
+                    "id": 1096816,
+                    "resource_id": 161,
+                    "text": "অবশ্যই তোমাদের উপর নিযুক্ত আছে তত্ত্বাবধায়কগণ;"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 2,
+        "total_records": 19
+    }
+}

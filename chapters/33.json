@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 3534,
+            "verse_number": 1,
+            "verse_key": "33:1",
+            "hizb_number": 42,
+            "rub_el_hizb_number": 167,
+            "ruku_number": 363,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": " يَـٰٓأَيُّهَا ٱلنَّبِىُّ ٱتَّقِ ٱللَّهَ وَلَا تُطِعِ ٱلْكَـٰفِرِينَ وَٱلْمُنَـٰفِقِينَ ۗ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+            "page_number": 418,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98858,
+                    "resource_id": 20,
+                    "text": "O Prophet, fear Allāh and do not obey the disbelievers and the hypocrites. Indeed, Allāh is ever Knowing and Wise."
+                },
+                {
+                    "id": 216748,
+                    "resource_id": 39,
+                    "text": "Wahai Nabi! Tetaplah bertaqwa kepada Allah, dan janganlah engkau patuhi kehendak orang-orang kafir dan orang-orang munafik. Sesungguhnya Allah adalah Maha Mengetahui, lagi Maha Bijaksana."
+                },
+                {
+                    "id": 1094511,
+                    "resource_id": 161,
+                    "text": "হে নবী (সা)! আল্লাহকে ভয় কর, আর কাফির ও মুনাফিকদের আনুগত্য কর না, নিশ্চয় আল্লাহ সর্বজ্ঞাতা, মহাপ্রজ্ঞাময়।"
+                }
+            ]
+        },
+        {
+            "id": 3535,
+            "verse_number": 2,
+            "verse_key": "33:2",
+            "hizb_number": 42,
+            "rub_el_hizb_number": 167,
+            "ruku_number": 363,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱتَّبِعْ مَا يُوحَىٰٓ إِلَيْكَ مِن رَّبِّكَ ۚ إِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا",
+            "page_number": 418,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98870,
+                    "resource_id": 20,
+                    "text": "And follow that which is revealed to you from your Lord. Indeed Allāh is ever, of what you do, Aware."
+                },
+                {
+                    "id": 216723,
+                    "resource_id": 39,
+                    "text": "Dan turutlah akan apa yang diwahyukan kepadamu dari Tuhanmu, (dan janganlah menurut adat resam Jahiliyah); sesungguhnya Allah sentiasa Mengetahui dengan mendalam akan apa yang kamu lakukan."
+                },
+                {
+                    "id": 1094512,
+                    "resource_id": 161,
+                    "text": "তোমার প্রতি তোমার প্রতিপালকের নিকট হতে যা ওয়াহী করা হয় তুমি তার অনুসরণ কর। তোমরা যা কর সে সম্পর্কে আল্লাহ পূর্ণরূপে অবহিত।"
+                }
+            ]
+        },
+        {
+            "id": 3536,
+            "verse_number": 3,
+            "verse_key": "33:3",
+            "hizb_number": 42,
+            "rub_el_hizb_number": 167,
+            "ruku_number": 363,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَتَوَكَّلْ عَلَى ٱللَّهِ ۚ وَكَفَىٰ بِٱللَّهِ وَكِيلًا",
+            "page_number": 418,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98882,
+                    "resource_id": 20,
+                    "text": "And rely upon Allāh; and sufficient is Allāh as Disposer of affairs.<sup foot_note=197076>1</sup>"
+                },
+                {
+                    "id": 216732,
+                    "resource_id": 39,
+                    "text": "Dan berserahlah kepada Allah (dan janganlah menumpukan harapanmu kepada yang lain), kerana cukuplah Allah menjadi Pentadbir urusanmu."
+                },
+                {
+                    "id": 1094513,
+                    "resource_id": 161,
+                    "text": "আর তুমি নির্ভর কর আল্লাহর উপর, কর্ম সম্পাদনে আল্লাহই যথেষ্ট।"
+                }
+            ]
+        },
+        {
+            "id": 3537,
+            "verse_number": 4,
+            "verse_key": "33:4",
+            "hizb_number": 42,
+            "rub_el_hizb_number": 167,
+            "ruku_number": 363,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "مَّا جَعَلَ ٱللَّهُ لِرَجُلٍ مِّن قَلْبَيْنِ فِى جَوْفِهِۦ ۚ وَمَا جَعَلَ أَزْوَٰجَكُمُ ٱلَّـٰٓـِٔى تُظَـٰهِرُونَ مِنْهُنَّ أُمَّهَـٰتِكُمْ ۚ وَمَا جَعَلَ أَدْعِيَآءَكُمْ أَبْنَآءَكُمْ ۚ ذَٰلِكُمْ قَوْلُكُم بِأَفْوَٰهِكُمْ ۖ وَٱللَّهُ يَقُولُ ٱلْحَقَّ وَهُوَ يَهْدِى ٱلسَّبِيلَ",
+            "page_number": 418,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98894,
+                    "resource_id": 20,
+                    "text": "Allāh has not made for a man two hearts in his interior. And He has not made your wives whom you declare unlawful<sup foot_note=197077>1</sup> your mothers. And He has not made your claimed [i.e., adopted] sons your [true] sons. That is [merely] your saying by your mouths, but Allāh says the truth, and He guides to the [right] way."
+                },
+                {
+                    "id": 216745,
+                    "resource_id": 39,
+                    "text": "(Diperintahkan dengan yang demikian kerana) Allah tidak sekali-kali menjadikan seseorang mempunyai dua hati dalam rongga dadanya; dan Ia tidak menjadikan isteri-isteri yang kamu \"zihar\" kan itu sebagai ibu kamu; dan Ia juga tidak menjadikan anak-anak angkat kamu, sebagai anak kamu sendiri. Segala yang kamu dakwakan mengenai perkara-perkara) yang tersebut itu hanyalah perkataan kamu dengan mulut kamu sahaja. Dan (ingatlah) Allah menerangkan yang benar dan Dia lah jua yang memimpin ke jalan yang betul."
+                },
+                {
+                    "id": 1094514,
+                    "resource_id": 161,
+                    "text": "আল্লাহ কোন মানুষের বুকে দু’টি অন্তর সৃষ্টি করেননি। তোমাদের স্ত্রীদের মধ্যে যাদের সঙ্গে তোমরা জিহার কর, তিনি তাদেরকে তোমাদের জননী করেননি, আর তিনি তোমাদের পোষ্য পুত্রদেরকে তোমাদের পুত্র করেননি, এগুলো তোমাদের মুখের বুলি, আল্লাহই বলেন সত্য কথা, আর তিনিই দেখান (সঠিক) পথ।"
+                }
+            ]
+        },
+        {
+            "id": 3538,
+            "verse_number": 5,
+            "verse_key": "33:5",
+            "hizb_number": 42,
+            "rub_el_hizb_number": 167,
+            "ruku_number": 363,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "ٱدْعُوهُمْ لِـَٔابَآئِهِمْ هُوَ أَقْسَطُ عِندَ ٱللَّهِ ۚ فَإِن لَّمْ تَعْلَمُوٓا۟ ءَابَآءَهُمْ فَإِخْوَٰنُكُمْ فِى ٱلدِّينِ وَمَوَٰلِيكُمْ ۚ وَلَيْسَ عَلَيْكُمْ جُنَاحٌ فِيمَآ أَخْطَأْتُم بِهِۦ وَلَـٰكِن مَّا تَعَمَّدَتْ قُلُوبُكُمْ ۚ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا",
+            "page_number": 418,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98906,
+                    "resource_id": 20,
+                    "text": "Call them<sup foot_note=197078>1</sup> by [the names of] their fathers; it is more just in the sight of Allāh. But if you do not know their fathers - then they are [still] your brothers in religion and those entrusted to you. And there is no blame upon you for that in which you have erred but [only for] what your hearts intended. And ever is Allāh Forgiving and Merciful."
+                },
+                {
+                    "id": 216763,
+                    "resource_id": 39,
+                    "text": "Panggilah anak-anak angkat itu dengan ber\"bin\"kan kepada bapa-bapa mereka sendiri; cara itulah yang lebih adil di sisi Allah. Dalam pada itu, jika kamu tidak mengetahui bapa-bapa mereka, maka panggilah mereka sebagai saudara-saudara kamu yang seugama dan sebagai \"maula-maula\" kamu. Dan kamu pula tidak dikira berdosa dalam perkara yang kamu tersilap melakukannya, tetapi (yang dikira berdosa itu ialah perbuatan) yang disengajakan oleh hati kamu melakukannya. Dan (ingatlah Allah Maha Pengampun, lagi Maha Mengasihani."
+                },
+                {
+                    "id": 1094515,
+                    "resource_id": 161,
+                    "text": "তাদেরকে তাদের পিতৃ-পরিচয়ে ডাক, আল্লাহর কাছে এটাই অধিক ইনসাফপূর্ণ। আর যদি তোমরা তাদের পিতৃ-পরিচয় না জান, তাহলে তারা তোমাদের দ্বীনী ভাই এবং তোমাদের বন্ধু। এ ব্যাপারে তোমাদের ত্রুটি-বিচ্যুতি হলে তোমাদের কোন গুনাহ্ নেই, কিন্তু (ধর্তব্য হল) তোমাদের অন্তরের সংকল্প। আল্লাহ অতি ক্ষমাশীল, পরম দয়ালু।"
+                }
+            ]
+        },
+        {
+            "id": 3539,
+            "verse_number": 6,
+            "verse_key": "33:6",
+            "hizb_number": 42,
+            "rub_el_hizb_number": 167,
+            "ruku_number": 363,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلنَّبِىُّ أَوْلَىٰ بِٱلْمُؤْمِنِينَ مِنْ أَنفُسِهِمْ ۖ وَأَزْوَٰجُهُۥٓ أُمَّهَـٰتُهُمْ ۗ وَأُو۟لُوا۟ ٱلْأَرْحَامِ بَعْضُهُمْ أَوْلَىٰ بِبَعْضٍ فِى كِتَـٰبِ ٱللَّهِ مِنَ ٱلْمُؤْمِنِينَ وَٱلْمُهَـٰجِرِينَ إِلَّآ أَن تَفْعَلُوٓا۟ إِلَىٰٓ أَوْلِيَآئِكُم مَّعْرُوفًا ۚ كَانَ ذَٰلِكَ فِى ٱلْكِتَـٰبِ مَسْطُورًا",
+            "page_number": 418,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98918,
+                    "resource_id": 20,
+                    "text": "The Prophet is more worthy of the believers than themselves,<sup foot_note=197080>1</sup> and his wives are [in the position of] their mothers. And those of [blood] relationship are more entitled [to inheritance] in the decree of Allāh than the [other] believers and the emigrants, except that you may do to your close associates a kindness [through bequest]. That was in the Book<sup foot_note=197079>2</sup> inscribed."
+                },
+                {
+                    "id": 216783,
+                    "resource_id": 39,
+                    "text": "Nabi itu lebih menolong dan lebih menjaga kebaikan orang-orang yang beriman daripada diri mereka sendiri; dan isteri-isterinya adalah menjadi ibu mereka. Dan orang-orang yang mempunyai pertalian kerabat, setengahnya lebih berhak (mewarisi) akan setengahnya yang lain - menurut (hukum) Kitab Allah - daripada orang-orang yang beriman dan orang-orang Muhajirin (yang bukan kerabatnya), kecuali kalau kamu hendak berbuat baik kepada sahabat-sahabat karib kamu. Hukum yang demikian itu adalah tertulis dalam Kitab Allah."
+                },
+                {
+                    "id": 1094516,
+                    "resource_id": 161,
+                    "text": "নবী (সাঃ) মু’মিনদের নিকট তাদের নিজেদের চেয়ে ঘনিষ্ঠ, আর তার স্ত্রীগণ তাদের মাতা। আল্লাহর বিধানে মু’মিন ও মুহাজিরদের (দ্বীনী সম্পর্ক) অপেক্ষা আত্মীয়-স্বজনগণ পরস্পর পরস্পরের নিকট ঘনিষ্ঠতর। তবে তোমরা তোমাদের বন্ধু বান্ধবদের প্রতি দয়া-দাক্ষিণ্য প্রদর্শন করতে চাইলে, করতে পার। (আল্লাহর) কিতাবে এটাই লিখিত।"
+                }
+            ]
+        },
+        {
+            "id": 3540,
+            "verse_number": 7,
+            "verse_key": "33:7",
+            "hizb_number": 42,
+            "rub_el_hizb_number": 167,
+            "ruku_number": 363,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذْ أَخَذْنَا مِنَ ٱلنَّبِيِّـۧنَ مِيثَـٰقَهُمْ وَمِنكَ وَمِن نُّوحٍ وَإِبْرَٰهِيمَ وَمُوسَىٰ وَعِيسَى ٱبْنِ مَرْيَمَ ۖ وَأَخَذْنَا مِنْهُم مِّيثَـٰقًا غَلِيظًا",
+            "page_number": 419,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98930,
+                    "resource_id": 20,
+                    "text": "And [mention, O Muḥammad], when We took from the prophets their covenant and from you and from Noah and Abraham and Moses and Jesus, the son of Mary; and We took from them a solemn covenant"
+                },
+                {
+                    "id": 216823,
+                    "resource_id": 39,
+                    "text": "(Teruslah bertaqwa kepada Kami) dan (ingatlah) ketika Kami mengambil dari Nabi-nabi (umumnya): perjanjian setia mereka, dan (khasnya) dari engkau sendiri (wahai Muhammad), dan dari Nabi Nuh, dan Nabi Ibrahim, dan Nabi Musa, serta. Nabi Isa ibni Maryam; dan Kami telah mengambil dari mereka: perjanjian setia yang teguh (bagi menyempurnakan apa yang ditugaskan kepada mereka);"
+                },
+                {
+                    "id": 1094517,
+                    "resource_id": 161,
+                    "text": "স্মরণ কর, আমি যখন নবীদের কাছ থেকে অঙ্গীকার নিয়েছিলাম আর তোমার কাছ থেকেও; আর নূহ্, ইব্রাহীম, মূসা আর মারইয়াম পুত্র ‘ঈসা থেকেও। আমি তাদের কাছ থেকে নিয়েছিলাম দৃঢ় অঙ্গীকার"
+                }
+            ]
+        },
+        {
+            "id": 3541,
+            "verse_number": 8,
+            "verse_key": "33:8",
+            "hizb_number": 42,
+            "rub_el_hizb_number": 167,
+            "ruku_number": 363,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "لِّيَسْـَٔلَ ٱلصَّـٰدِقِينَ عَن صِدْقِهِمْ ۚ وَأَعَدَّ لِلْكَـٰفِرِينَ عَذَابًا أَلِيمًا",
+            "page_number": 419,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98936,
+                    "resource_id": 20,
+                    "text": "That He may question the truthful about their truth.<sup foot_note=197081>1</sup> And He has prepared for the disbelievers a painful punishment."
+                },
+                {
+                    "id": 216791,
+                    "resource_id": 39,
+                    "text": "(Tuhan berbuat demikian) supaya Ia menyoal orang-orang yang benar beriman tentang kebenaran iman mereka (untuk menyempurnakan balasan baik mereka); dan (sebaliknya) Ia telah menyediakan bagi orang-orang yang kafir, azab seksa yang tidak terperi sakitnya."
+                },
+                {
+                    "id": 1094518,
+                    "resource_id": 161,
+                    "text": "সত্যবাদীদেরকে (অর্থাৎ নবীদেরকে) তাদের সত্যবাদিতা (অর্থাৎ আল্লাহর বাণী পৌঁছে দেয়ার কাজ) সম্পর্কে জিজ্ঞেস করার জন্য। তিনি কাফিরদের জন্য প্রস্তুত করে রেখেছেন ভয়াবহ শাস্তি।"
+                }
+            ]
+        },
+        {
+            "id": 3542,
+            "verse_number": 9,
+            "verse_key": "33:9",
+            "hizb_number": 42,
+            "rub_el_hizb_number": 167,
+            "ruku_number": 364,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ جَآءَتْكُمْ جُنُودٌ فَأَرْسَلْنَا عَلَيْهِمْ رِيحًا وَجُنُودًا لَّمْ تَرَوْهَا ۚ وَكَانَ ٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرًا",
+            "page_number": 419,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98938,
+                    "resource_id": 20,
+                    "text": "O you who have believed, remember the favor of Allāh upon you when armies came to [attack] you and We sent upon them a wind and armies [of angels] you did not see. And ever is Allāh, of what you do, Seeing."
+                },
+                {
+                    "id": 216793,
+                    "resource_id": 39,
+                    "text": "Wahai orang-orang yang beriman, kenangkanlah nikmat Allah yang dilimpahkanNya kepada kamu. Semasa kamu didatangi tentera (Al-Ahzaab), lalu Kami hantarkan kepada mereka angin ribut (yang kencang) serta angkatan tentera (dari malaikat) yang kamu tidak dapat melihatnya. Dan (ingatlah) Allah sentiasa melihat apa yang kamu lakukan."
+                },
+                {
+                    "id": 1094519,
+                    "resource_id": 161,
+                    "text": "হে মু’মিনগণ! তোমরা তোমাদের প্রতি আল্লাহর অনুগ্রহের কথা স্মরণ কর যখন সৈন্যবাহিনী তোমাদের বিরুদ্ধে নিকটবর্তী হয়েছিল, অতঃপর আমি তাদের বিরুদ্ধে পাঠিয়েছিলাম ঝড়ো হাওয়া এবং এক (ফেরেশতারূপী) সৈন্যবাহিনী যা তোমরা দেখনি। তোমরা যা কর আল্লাহ তা প্রত্যক্ষকারী।"
+                }
+            ]
+        },
+        {
+            "id": 3543,
+            "verse_number": 10,
+            "verse_key": "33:10",
+            "hizb_number": 42,
+            "rub_el_hizb_number": 167,
+            "ruku_number": 364,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "إِذْ جَآءُوكُم مِّن فَوْقِكُمْ وَمِنْ أَسْفَلَ مِنكُمْ وَإِذْ زَاغَتِ ٱلْأَبْصَـٰرُ وَبَلَغَتِ ٱلْقُلُوبُ ٱلْحَنَاجِرَ وَتَظُنُّونَ بِٱللَّهِ ٱلظُّنُونَا۠",
+            "page_number": 419,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98859,
+                    "resource_id": 20,
+                    "text": "[Remember] when they came at you from above you and from below you, and when eyes shifted [in fear], and hearts reached the throats, and you assumed about Allāh [various] assumptions."
+                },
+                {
+                    "id": 216767,
+                    "resource_id": 39,
+                    "text": "Masa itu ialah masa tentera musuh datang melanggar kamu dari sebelah hulu dan dari sebelah hilir (tempat pertahanan) kamu; dan masa itu ialah masa pemandangan mata kamu tidak berketentuan arah (kerana gempar dan bingung) serta hati pun resah gelisah (kerana cemas takut), dan kamu masing-masing pula menyangka terhadap Allah dengan berbagai-bagai sangkaan."
+                },
+                {
+                    "id": 1094520,
+                    "resource_id": 161,
+                    "text": "তারা যখন তোমাদের কাছে এসেছিল তোমাদের উপর থেকে আর তোমাদের নীচের দিক থেকে, তখন তোমাদের চক্ষু হয়েছিল বিস্ফোরিত আর প্রাণ হয়েছিল কণ্ঠাগত; আর তোমরা আল্লাহ সম্পর্কে নানা রকম (খারাপ) ধারণা পোষণ করতে শুরু করেছিলে।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 8,
+        "total_records": 73
+    }
+}

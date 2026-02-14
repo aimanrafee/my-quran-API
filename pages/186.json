@@ -1,0 +1,191 @@
+{
+    "verses": [
+        {
+            "id": 1230,
+            "verse_number": 70,
+            "verse_key": "8:70",
+            "hizb_number": 19,
+            "rub_el_hizb_number": 74,
+            "ruku_number": 155,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ قُل لِّمَن فِىٓ أَيْدِيكُم مِّنَ ٱلْأَسْرَىٰٓ إِن يَعْلَمِ ٱللَّهُ فِى قُلُوبِكُمْ خَيْرًا يُؤْتِكُمْ خَيْرًا مِّمَّآ أُخِذَ مِنكُمْ وَيَغْفِرْ لَكُمْ ۗ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+            "page_number": 186,
+            "juz_number": 10,
+            "translations": [
+                {
+                    "id": 102065,
+                    "resource_id": 20,
+                    "text": "O Prophet, say to whoever is in your hands of the captives, \"If Allāh knows [any] good in your hearts, He will give you [something] better than what was taken from you, and He will forgive you; and Allāh is Forgiving and Merciful.\""
+                },
+                {
+                    "id": 219880,
+                    "resource_id": 39,
+                    "text": "Wahai Nabi, katakanlah kepada orang-orang tawanan yang ada dalam tangan kamu: \"Jika Allah mengetahui ada kebaikan (iman) dalam hati kamu, nescaya Ia akan memberi kepada kamu (balasan) yang lebih baik daripada (harta benda penebus diri) yang telah diambil dari kamu, dan Ia akan mengampunkan dosa kamu; kerana Allah Maha Pengampun, lagi maha Mengasihani."
+                },
+                {
+                    "id": 1092207,
+                    "resource_id": 161,
+                    "text": "হে নাবী! তোমাদের হাতে যে সব যুদ্ধবন্দী আছে তাদেরকে বল, ‘আল্লাহ যদি তোমাদের অন্তরে ভাল কিছু দেখেন তাহলে তোমাদের কাছ থেকে (মুক্তিপণ) যা নেয়া হয়েছে তাত্থেকে উত্তম কিছু তোমাদেরকে তিনি দান করবেন আর তোমাদেরকে ক্ষমা করে দেবেন। আল্লাহ অতি ক্ষমাশীল, অতি দয়ালু।’"
+                }
+            ]
+        },
+        {
+            "id": 1231,
+            "verse_number": 71,
+            "verse_key": "8:71",
+            "hizb_number": 19,
+            "rub_el_hizb_number": 74,
+            "ruku_number": 155,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِن يُرِيدُوا۟ خِيَانَتَكَ فَقَدْ خَانُوا۟ ٱللَّهَ مِن قَبْلُ فَأَمْكَنَ مِنْهُمْ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
+            "page_number": 186,
+            "juz_number": 10,
+            "translations": [
+                {
+                    "id": 102066,
+                    "resource_id": 20,
+                    "text": "But if they intend to betray you - then they have already betrayed Allāh before, and He empowered [you] over them. And Allāh is Knowing and Wise."
+                },
+                {
+                    "id": 219882,
+                    "resource_id": 39,
+                    "text": "Dan jika mereka (orang-orang tawanan itu) bertujuan hendak melakukan khianat kepadamu, maka sesungguhnya mereka telahpun melakukan khianat kepada Allah (dengan kekufuran mereka) sebelum itu, lalu Allah menjadikan (engkau) mengalahkan dan menundukkan mereka; kerana Allah Maha Mengetahui, lagi Maha Bijaksana."
+                },
+                {
+                    "id": 1092208,
+                    "resource_id": 161,
+                    "text": "আর যদি তারা তোমার সাথে খিয়ানাত করার ইচ্ছে করে (তবে সেটা অসম্ভব কিছু নয়, কারণ এর থেকেও গুরুতর যে) তারা পূর্বে আল্লাহর সাথে খিয়ানাত করেছে, কাজেই আল্লাহ তাদেরকে তোমার অধীন করে দিয়েছেন। আল্লাহ সর্ববিষয়ে বিশেষভাবে অবগত, সর্বশ্রেষ্ঠ প্রজ্ঞাবান।"
+                }
+            ]
+        },
+        {
+            "id": 1232,
+            "verse_number": 72,
+            "verse_key": "8:72",
+            "hizb_number": 19,
+            "rub_el_hizb_number": 74,
+            "ruku_number": 155,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَهَاجَرُوا۟ وَجَـٰهَدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فِى سَبِيلِ ٱللَّهِ وَٱلَّذِينَ ءَاوَوا۟ وَّنَصَرُوٓا۟ أُو۟لَـٰٓئِكَ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍ ۚ وَٱلَّذِينَ ءَامَنُوا۟ وَلَمْ يُهَاجِرُوا۟ مَا لَكُم مِّن وَلَـٰيَتِهِم مِّن شَىْءٍ حَتَّىٰ يُهَاجِرُوا۟ ۚ وَإِنِ ٱسْتَنصَرُوكُمْ فِى ٱلدِّينِ فَعَلَيْكُمُ ٱلنَّصْرُ إِلَّا عَلَىٰ قَوْمٍۭ بَيْنَكُمْ وَبَيْنَهُم مِّيثَـٰقٌ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+            "page_number": 186,
+            "juz_number": 10,
+            "translations": [
+                {
+                    "id": 102078,
+                    "resource_id": 20,
+                    "text": "Indeed, those who have believed and emigrated and fought with their wealth and lives in the cause of Allāh and those who gave shelter and aided - they are allies of one another. But those who believed and did not emigrate - for you there is no support of them until they emigrate. And if they seek help of you for the religion, then you must help, except against a people between yourselves and whom is a treaty. And Allāh is Seeing of what you do."
+                },
+                {
+                    "id": 219893,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya orang-orang yang beriman dan berhijrah serta berjihad dengan harta benda dan jiwa mereka pada jalan Allah, dan orang-orang (Ansar) yang memberi tempat kediaman dan pertolongan (kepada orang-orang Islam yang berhijrah itu), mereka semuanya menjadi penyokong dan pembela antara satu dengan yang lain. Dan orang-orang yang beriman yang belum berhijrah, maka kamu tidak bertanggungjawab sedikitpun untuk membela mereka sehingga mereka berhijrah. Dan jika mereka meminta pertolongan kepada kamu dalam perkara (menentang musuh untuk membela) ugama, maka wajiblah kamu menolongnya, kecuali terhadap kaum yang ada perjanjian setia di antara kamu dengan mereka. Dan (ingatlah) Allah Maha Melihat akan apa yang kamu lakukan."
+                },
+                {
+                    "id": 1092209,
+                    "resource_id": 161,
+                    "text": "যারা ঈমান এনেছে, হিজরাত করেছে, নিজেদের মাল দিয়ে জান দিয়ে আল্লাহর রাস্তায় জিহাদ করেছে আর যারা তাদেরকে আশ্রয় দিয়েছে, সাহায্য করেছে, এরা পরস্পর পরস্পরের বন্ধু। আর যারা ঈমান এনেছে কিন্তু হিজরাত করেনি তারা হিজরাত না করা পর্যন্ত তাদের পৃষ্ঠপোষকতা করার কোন দায়-দায়িত্ব তোমার উপর নেই, তবে তারা যদি দ্বীনের ব্যাপারে তোমাদের সাহায্য চায় তাহলে তাদেরকে সাহায্য করা তোমাদের কর্তব্য, তবে তাদের বিরুদ্ধে নয় যাদের সঙ্গে তোমাদের মৈত্রী চুক্তি রয়েছে। তোমরা যা কর আল্লাহ তা দেখেন।"
+                }
+            ]
+        },
+        {
+            "id": 1233,
+            "verse_number": 73,
+            "verse_key": "8:73",
+            "hizb_number": 19,
+            "rub_el_hizb_number": 74,
+            "ruku_number": 155,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّذِينَ كَفَرُوا۟ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍ ۚ إِلَّا تَفْعَلُوهُ تَكُن فِتْنَةٌ فِى ٱلْأَرْضِ وَفَسَادٌ كَبِيرٌ",
+            "page_number": 186,
+            "juz_number": 10,
+            "translations": [
+                {
+                    "id": 102080,
+                    "resource_id": 20,
+                    "text": "And those who disbelieved are allies of one another. If you do not do so [i.e., ally yourselves with other believers], there will be fitnah [i.e., disbelief and oppression] on earth and great corruption."
+                },
+                {
+                    "id": 219895,
+                    "resource_id": 39,
+                    "text": "Dan orang-orang yang kafir, setengahnya menjadi penyokong dan pembela bagi setengahnya yang lain. Jika kamu (wahai umat Islam) tidak menjalankan (dasar bantu-membantu sesama sendiri yang diperintahkan oleh Allah) itu, nescaya akan berlakulah fitnah (kekacauan) di muka bumi dan kerosakan yang besar."
+                },
+                {
+                    "id": 1092210,
+                    "resource_id": 161,
+                    "text": "আর যারা কুফরী করে তারা একে অপরের বন্ধু। যদি তোমরা তা না কর (অর্থাৎ তোমরা পরস্পর পরস্পরের সাহায্যে এগিয়ে না আস) তাহলে দুনিয়াতে ফিতনা ও মহাবিপর্যয় দেখা দিবে।"
+                }
+            ]
+        },
+        {
+            "id": 1234,
+            "verse_number": 74,
+            "verse_key": "8:74",
+            "hizb_number": 19,
+            "rub_el_hizb_number": 74,
+            "ruku_number": 155,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّذِينَ ءَامَنُوا۟ وَهَاجَرُوا۟ وَجَـٰهَدُوا۟ فِى سَبِيلِ ٱللَّهِ وَٱلَّذِينَ ءَاوَوا۟ وَّنَصَرُوٓا۟ أُو۟لَـٰٓئِكَ هُمُ ٱلْمُؤْمِنُونَ حَقًّا ۚ لَّهُم مَّغْفِرَةٌ وَرِزْقٌ كَرِيمٌ",
+            "page_number": 186,
+            "juz_number": 10,
+            "translations": [
+                {
+                    "id": 102082,
+                    "resource_id": 20,
+                    "text": "But those who have believed and emigrated and fought in the cause of Allāh and those who gave shelter and aided - it is they who are the believers, truly. For them is forgiveness and noble provision."
+                },
+                {
+                    "id": 219897,
+                    "resource_id": 39,
+                    "text": "Dan orang-orang yang beriman dan berhijrah serta berjihad pada jalan Allah (untuk membela Islam), dan orang-orang (Ansar) yang memberi tempat kediaman dan pertolongan (kepada orang-orang Islam yang berhijrah itu), merekalah orang-orang yang beriman dengan sebenar-benarnya. Mereka beroleh keampunan dan limpah kurnia yang mulia."
+                },
+                {
+                    "id": 1092211,
+                    "resource_id": 161,
+                    "text": "যারা ঈমান এনেছে, হিজরাত করেছে, আল্লাহর রাস্তায় জিহাদ করেছে আর যারা তাদেরকে আশ্রয় দিয়েছে, সাহায্য-সহযোগিতা করেছে- তারাই প্রকৃত ঈমানদার। তাদের জন্য আছে ক্ষমা আর সম্মানজনক জীবিকা।"
+                }
+            ]
+        },
+        {
+            "id": 1235,
+            "verse_number": 75,
+            "verse_key": "8:75",
+            "hizb_number": 19,
+            "rub_el_hizb_number": 74,
+            "ruku_number": 155,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّذِينَ ءَامَنُوا۟ مِنۢ بَعْدُ وَهَاجَرُوا۟ وَجَـٰهَدُوا۟ مَعَكُمْ فَأُو۟لَـٰٓئِكَ مِنكُمْ ۚ وَأُو۟لُوا۟ ٱلْأَرْحَامِ بَعْضُهُمْ أَوْلَىٰ بِبَعْضٍ فِى كِتَـٰبِ ٱللَّهِ ۗ إِنَّ ٱللَّهَ بِكُلِّ شَىْءٍ عَلِيمٌۢ",
+            "page_number": 186,
+            "juz_number": 10,
+            "translations": [
+                {
+                    "id": 102084,
+                    "resource_id": 20,
+                    "text": "And those who believed after [the initial emigration] and emigrated and fought with you - they are of you. But those of [blood] relationship are more entitled [to inheritance] in the decree of Allāh.<sup foot_note=196381>1</sup> Indeed, Allāh is Knowing of all things."
+                },
+                {
+                    "id": 219899,
+                    "resource_id": 39,
+                    "text": "Dan orang-orang yang beriman sesudah itu, kemudian mereka berhijrah dan berjihad bersama-sama kamu, maka adalah mereka dari golongan kamu. Dalam pada itu, orang-orang yang mempunyai pertalian kerabat, setengahnya lebih berhak atas setengahnya yang (lain) menurut (hukum) Kitab Allah; sesungguhnya Allah Maha Mengetahui akan tiap-tiap sesuatu."
+                },
+                {
+                    "id": 1092212,
+                    "resource_id": 161,
+                    "text": "যারা পরে ঈমান এনেছে, হিজরাত করেছে আর তোমাদের সাথে মিলিত হয়ে জিহাদ করেছে, এসব লোক তোমাদেরই মধ্যে গণ্য। কিন্তু আল্লাহর বিধানে রক্ত সম্পর্কীয়গণ পরস্পর পরস্পরের নিকট অগ্রগণ্য। আল্লাহ সকল বিষয়ে সবচেয়ে বেশী অবগত।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 6,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 6
+    }
+}

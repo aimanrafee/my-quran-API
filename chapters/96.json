@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 6107,
+            "verse_number": 1,
+            "verse_key": "96:1",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 540,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ",
+            "page_number": 597,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102315,
+                    "resource_id": 20,
+                    "text": "Recite in the name of your Lord who created"
+                },
+                {
+                    "id": 220140,
+                    "resource_id": 39,
+                    "text": "Bacalah (wahai Muhammad) dengan nama Tuhanmu yang menciptakan (sekalian makhluk),"
+                },
+                {
+                    "id": 1097084,
+                    "resource_id": 161,
+                    "text": "পাঠ কর তোমার প্রতিপালকের নামে যিনি সৃষ্টি করেছেন,"
+                }
+            ]
+        },
+        {
+            "id": 6108,
+            "verse_number": 2,
+            "verse_key": "96:2",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 540,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "خَلَقَ ٱلْإِنسَـٰنَ مِنْ عَلَقٍ",
+            "page_number": 597,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102327,
+                    "resource_id": 20,
+                    "text": "Created man from a clinging substance."
+                },
+                {
+                    "id": 220150,
+                    "resource_id": 39,
+                    "text": "Ia menciptakan manusia dari sebuku darah beku;"
+                },
+                {
+                    "id": 1097085,
+                    "resource_id": 161,
+                    "text": "সৃষ্টি করেছেন মানুষকে জমাট-বাঁধা রক্তপিন্ড হতে।"
+                }
+            ]
+        },
+        {
+            "id": 6109,
+            "verse_number": 3,
+            "verse_key": "96:3",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 540,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ",
+            "page_number": 597,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102329,
+                    "resource_id": 20,
+                    "text": "Recite, and your Lord is the most Generous -"
+                },
+                {
+                    "id": 220152,
+                    "resource_id": 39,
+                    "text": "Bacalah, dan Tuhanmu Yang Maha Pemurah, -"
+                },
+                {
+                    "id": 1097086,
+                    "resource_id": 161,
+                    "text": "পাঠ কর, আর তোমার রব বড়ই অনুগ্রহশীল।"
+                }
+            ]
+        },
+        {
+            "id": 6110,
+            "verse_number": 4,
+            "verse_key": "96:4",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 540,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ",
+            "page_number": 597,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102331,
+                    "resource_id": 20,
+                    "text": "Who taught by the pen"
+                },
+                {
+                    "id": 220219,
+                    "resource_id": 39,
+                    "text": "Yang mengajar manusia melalui pena dan tulisan, -"
+                },
+                {
+                    "id": 1097087,
+                    "resource_id": 161,
+                    "text": "যিনি শিক্ষা দিয়েছেন কলম দিয়ে,"
+                }
+            ]
+        },
+        {
+            "id": 6111,
+            "verse_number": 5,
+            "verse_key": "96:5",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 540,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "عَلَّمَ ٱلْإِنسَـٰنَ مَا لَمْ يَعْلَمْ",
+            "page_number": 597,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102333,
+                    "resource_id": 20,
+                    "text": "Taught man that which he knew not."
+                },
+                {
+                    "id": 220153,
+                    "resource_id": 39,
+                    "text": "Ia mengajarkan manusia apa yang tidak diketahuinya."
+                },
+                {
+                    "id": 1097088,
+                    "resource_id": 161,
+                    "text": "শিক্ষা দিয়েছেন মানুষকে যা সে জানত না,"
+                }
+            ]
+        },
+        {
+            "id": 6112,
+            "verse_number": 6,
+            "verse_key": "96:6",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 540,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "كَلَّآ إِنَّ ٱلْإِنسَـٰنَ لَيَطْغَىٰٓ",
+            "page_number": 597,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102335,
+                    "resource_id": 20,
+                    "text": "No! [But] indeed, man transgresses"
+                },
+                {
+                    "id": 220155,
+                    "resource_id": 39,
+                    "text": "Ingatlah! Sesungguhnya jenis manusia tetap melampaui batas (yang sepatutnya atau yang sewajibnya),"
+                },
+                {
+                    "id": 1097089,
+                    "resource_id": 161,
+                    "text": "না (এমন আচরণ করা) মোটেই ঠিক নয়, মানুষ অবশ্যই সীমালঙ্ঘন করে,"
+                }
+            ]
+        },
+        {
+            "id": 6113,
+            "verse_number": 7,
+            "verse_key": "96:7",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 540,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَن رَّءَاهُ ٱسْتَغْنَىٰٓ",
+            "page_number": 597,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102337,
+                    "resource_id": 20,
+                    "text": "Because he sees himself self-sufficient."
+                },
+                {
+                    "id": 220062,
+                    "resource_id": 39,
+                    "text": "Dengan sebab ia melihat dirinya sudah cukup apa yang dihajatinya."
+                },
+                {
+                    "id": 1097090,
+                    "resource_id": 161,
+                    "text": "কারণ, সে নিজেকে অভাবমুক্ত মনে করে,"
+                }
+            ]
+        },
+        {
+            "id": 6114,
+            "verse_number": 8,
+            "verse_key": "96:8",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 540,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجْعَىٰٓ",
+            "page_number": 597,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102339,
+                    "resource_id": 20,
+                    "text": "Indeed, to your Lord is the return."
+                },
+                {
+                    "id": 220158,
+                    "resource_id": 39,
+                    "text": "(Ingatlah) sesungguhnya kepada Tuhanmu lah tempat kembali (untuk menerima balasan)."
+                },
+                {
+                    "id": 1097091,
+                    "resource_id": 161,
+                    "text": "নিঃসন্দেহে (সকলকে) ফিরে যেতে হবে তোমার প্রতিপালকের দিকে।"
+                }
+            ]
+        },
+        {
+            "id": 6115,
+            "verse_number": 9,
+            "verse_key": "96:9",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 540,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+            "page_number": 597,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102341,
+                    "resource_id": 20,
+                    "text": "Have you seen the one who forbids"
+                },
+                {
+                    "id": 220160,
+                    "resource_id": 39,
+                    "text": "Adakah engkau nampak (baiknya) orang yang melarang (dan menghalang) -"
+                },
+                {
+                    "id": 1097092,
+                    "resource_id": 161,
+                    "text": "তুমি কি তাকে (অর্থাৎ আবূ জাহলকে) দেখেছ যে নিষেধ করে,"
+                }
+            ]
+        },
+        {
+            "id": 6116,
+            "verse_number": 10,
+            "verse_key": "96:10",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 540,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "عَبْدًا إِذَا صَلَّىٰٓ",
+            "page_number": 597,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102316,
+                    "resource_id": 20,
+                    "text": "A servant when he prays?"
+                },
+                {
+                    "id": 215023,
+                    "resource_id": 39,
+                    "text": "Seorang hamba Allah apabila ia mengerjakan sembahyang?"
+                },
+                {
+                    "id": 1097093,
+                    "resource_id": 161,
+                    "text": "এক বান্দাহকে [অর্থাৎ রসূলুল্লাহ (সা.)-কে] যখন সে নামায আদায় করতে থাকে?"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 2,
+        "total_records": 19
+    }
+}

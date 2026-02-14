@@ -1,0 +1,371 @@
+{
+    "verses": [
+        {
+            "id": 1916,
+            "verse_number": 15,
+            "verse_key": "16:15",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 107,
+            "ruku_number": 225,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَلْقَىٰ فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِكُمْ وَأَنْهَـٰرًا وَسُبُلًا لَّعَلَّكُمْ تَهْتَدُونَ",
+            "page_number": 269,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96836,
+                    "resource_id": 20,
+                    "text": "And He has cast into the earth firmly set mountains, lest it shift with you, and [made] rivers and roads, that you may be guided,"
+                },
+                {
+                    "id": 220821,
+                    "resource_id": 39,
+                    "text": "Dan Ia mengadakan di bumi gunung-ganang yang menetapnya supaya ia tidak menghayun-hayunkan kamu; dan Ia mengadakan sungai-sungai serta jalan-jalan lalu lalang, supaya kamu dapat sampai ke matlamat yang kamu tuju."
+                },
+                {
+                    "id": 1092893,
+                    "resource_id": 161,
+                    "text": "তিনি যমীনে সুদৃঢ় পর্বত সংস্থাপিত করেছেন যাতে যমীন তোমাদেরকে নিয়ে আন্দোলিত না হয়, আর সংস্থাপিত করেছেন নদী নির্ঝরিণী আর পথ যাতে তোমরা পথের সন্ধান পেতে পার।"
+                }
+            ]
+        },
+        {
+            "id": 1917,
+            "verse_number": 16,
+            "verse_key": "16:16",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 107,
+            "ruku_number": 225,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَعَلَـٰمَـٰتٍ ۚ وَبِٱلنَّجْمِ هُمْ يَهْتَدُونَ",
+            "page_number": 269,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96837,
+                    "resource_id": 20,
+                    "text": "And landmarks. And by the stars they are [also] guided.<sup foot_note=196608>1</sup>"
+                },
+                {
+                    "id": 220817,
+                    "resource_id": 39,
+                    "text": "Dan (Ia mengadakan) tanda-tanda panduan jalan, dan dengan bintang-bintang (pada waktu malam) mereka dapat mengetahui arah yang hendak dituju."
+                },
+                {
+                    "id": 1092894,
+                    "resource_id": 161,
+                    "text": "আর দিক-দিশা প্রদানকারী চিহ্নসমূহ; আর তারকারাজির সাহায্যেও তারা পথনির্দেশ লাভ করে।"
+                }
+            ]
+        },
+        {
+            "id": 1918,
+            "verse_number": 17,
+            "verse_key": "16:17",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 107,
+            "ruku_number": 225,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "أَفَمَن يَخْلُقُ كَمَن لَّا يَخْلُقُ ۗ أَفَلَا تَذَكَّرُونَ",
+            "page_number": 269,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96838,
+                    "resource_id": 20,
+                    "text": "Then is He who creates like one who does not create? So will you not be reminded?"
+                },
+                {
+                    "id": 220813,
+                    "resource_id": 39,
+                    "text": "Kalau sudah demikian, adakah Allah yang menciptakan semuanya itu sama seperti makhluk-makhluk yang tidak menciptakan sesuatu? Maka patutkah kamu lalai sehingga kamu tidak mahu beringat serta memikirkannya?"
+                },
+                {
+                    "id": 1092895,
+                    "resource_id": 161,
+                    "text": "যিনি সৃষ্টি করেন তিনি কি তার মত যে সৃষ্টি করে না? তবে কি তোমরা শিক্ষা গ্রহণ করবে না?"
+                }
+            ]
+        },
+        {
+            "id": 1919,
+            "verse_number": 18,
+            "verse_key": "16:18",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 107,
+            "ruku_number": 225,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِن تَعُدُّوا۟ نِعْمَةَ ٱللَّهِ لَا تُحْصُوهَآ ۗ إِنَّ ٱللَّهَ لَغَفُورٌ رَّحِيمٌ",
+            "page_number": 269,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96839,
+                    "resource_id": 20,
+                    "text": "And if you should count the favors of Allāh, you could not enumerate them. Indeed, Allāh is Forgiving and Merciful."
+                },
+                {
+                    "id": 220815,
+                    "resource_id": 39,
+                    "text": "Dan jika kamu menghitung nikmat Allah (yang dilimpahkannya kepada kamu), tiadalah kamu akan dapat menghitungnya satu persatu; sesungguhnya Allah Maha Pengampun, lagi Maha Mengasihani."
+                },
+                {
+                    "id": 1092896,
+                    "resource_id": 161,
+                    "text": "তোমরা আল্লাহর নি‘মাতসমূহকে গণনা করলে তার সংখ্যা নির্ণয় করতে পারবে না; আল্লাহ অবশ্যই বড়ই ক্ষমাশীল, বড়ই দয়ালু।"
+                }
+            ]
+        },
+        {
+            "id": 1920,
+            "verse_number": 19,
+            "verse_key": "16:19",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 107,
+            "ruku_number": 225,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱللَّهُ يَعْلَمُ مَا تُسِرُّونَ وَمَا تُعْلِنُونَ",
+            "page_number": 269,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96840,
+                    "resource_id": 20,
+                    "text": "And Allāh knows what you conceal and what you declare."
+                },
+                {
+                    "id": 220806,
+                    "resource_id": 39,
+                    "text": "Dan Allah mengetahui apa yang kamu sembunyikan dan apa yang kamu zahirkan."
+                },
+                {
+                    "id": 1092897,
+                    "resource_id": 161,
+                    "text": "আল্লাহ জানেন তোমরা যা গোপন কর আর যা তোমরা প্রকাশ কর।"
+                }
+            ]
+        },
+        {
+            "id": 1921,
+            "verse_number": 20,
+            "verse_key": "16:20",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 107,
+            "ruku_number": 225,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّذِينَ يَدْعُونَ مِن دُونِ ٱللَّهِ لَا يَخْلُقُونَ شَيْـًٔا وَهُمْ يُخْلَقُونَ",
+            "page_number": 269,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96842,
+                    "resource_id": 20,
+                    "text": "And those they invoke other than Allāh create nothing, and they [themselves] are created."
+                },
+                {
+                    "id": 220820,
+                    "resource_id": 39,
+                    "text": "Dan makhluk-makhluk yang mereka sembah selain dari Allah itu tidak dapat menciptakan sesuatupun, bahkah merekalah yang diciptakan."
+                },
+                {
+                    "id": 1092898,
+                    "resource_id": 161,
+                    "text": "তারা আল্লাহ ছাড়া অন্য যাদেরকে ডাকে তারা কিছুই সৃষ্টি করে না, তারা (নিজেরাই) সৃষ্ট।"
+                }
+            ]
+        },
+        {
+            "id": 1922,
+            "verse_number": 21,
+            "verse_key": "16:21",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 107,
+            "ruku_number": 225,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "أَمْوَٰتٌ غَيْرُ أَحْيَآءٍ ۖ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ",
+            "page_number": 269,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96843,
+                    "resource_id": 20,
+                    "text": "They are [in fact] dead,<sup foot_note=196609>1</sup> not alive, and they do not perceive when they will be resurrected."
+                },
+                {
+                    "id": 220822,
+                    "resource_id": 39,
+                    "text": "Makhluk-makhluk itu tetap akan mati, bukanlah kekal hidup; dan mereka tidak mengetahui bilakah masing-masing akan dibangkitkan (menerima balasan)."
+                },
+                {
+                    "id": 1092899,
+                    "resource_id": 161,
+                    "text": "তারা প্রাণহীন, জীবিত নয়, তাদের কোনই চেতনা নেই কবে তাদেরকে (পুনর্জীবিত করে) উঠানো হবে।"
+                }
+            ]
+        },
+        {
+            "id": 1923,
+            "verse_number": 22,
+            "verse_key": "16:22",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 107,
+            "ruku_number": 226,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "إِلَـٰهُكُمْ إِلَـٰهٌ وَٰحِدٌ ۚ فَٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ قُلُوبُهُم مُّنكِرَةٌ وَهُم مُّسْتَكْبِرُونَ",
+            "page_number": 269,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96845,
+                    "resource_id": 20,
+                    "text": "Your god is one God. But those who do not believe in the Hereafter - their hearts are disapproving, and they are arrogant."
+                },
+                {
+                    "id": 220819,
+                    "resource_id": 39,
+                    "text": "Tuhan kamu (yang berhak disembah) ialah Tuhan yang satu (Maha Esa); oleh itu, orang-orang yang tidak beriman kepada hari akhirat: hati mereka ingkar dan sikap zahir mereka sombong takbur (menentang kebenaran)."
+                },
+                {
+                    "id": 1092900,
+                    "resource_id": 161,
+                    "text": "তোমাদের ইলাহ হলেন এক ইলাহ। কাজেই যারা আখেরাতে বিশ্বাস করে না, তাদের অন্তর সত্য-অস্বীকারকারী আর তারা অহংকারী।"
+                }
+            ]
+        },
+        {
+            "id": 1924,
+            "verse_number": 23,
+            "verse_key": "16:23",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 107,
+            "ruku_number": 226,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "لَا جَرَمَ أَنَّ ٱللَّهَ يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْتَكْبِرِينَ",
+            "page_number": 269,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96846,
+                    "resource_id": 20,
+                    "text": "Assuredly, Allāh knows what they conceal and what they declare. Indeed, He does not like the arrogant."
+                },
+                {
+                    "id": 220824,
+                    "resource_id": 39,
+                    "text": "Sebenarnya, bahawa Allah mengetahui akan apa yang mereka sembunyikan dan apa yang mereka zahirkan; sesungguhnya Ia tidak suka kepada orang-orang yang sombong takbur."
+                },
+                {
+                    "id": 1092901,
+                    "resource_id": 161,
+                    "text": "এতে কোন সন্দেহ নেই যে, আল্লাহ জানেন যা তারা গোপন করে আর যা প্রকাশ করে, তিনি অহঙ্কারীদেরকে ভালবাসেন না।"
+                }
+            ]
+        },
+        {
+            "id": 1925,
+            "verse_number": 24,
+            "verse_key": "16:24",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 107,
+            "ruku_number": 226,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا قِيلَ لَهُم مَّاذَآ أَنزَلَ رَبُّكُمْ ۙ قَالُوٓا۟ أَسَـٰطِيرُ ٱلْأَوَّلِينَ",
+            "page_number": 269,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96847,
+                    "resource_id": 20,
+                    "text": "And when it is said to them, \"What has your Lord sent down?\" they say, \"Legends of the former peoples,\""
+                },
+                {
+                    "id": 220826,
+                    "resource_id": 39,
+                    "text": "Dan apabila dikatakan kepada mereka: \"Apakah yang diturunkan oleh Tuhan kamu (kepada nabi Muhammad)?\" Mereka menjawab: \"Cerita-cerita dongeng orang-orang dahulu kala\"."
+                },
+                {
+                    "id": 1092902,
+                    "resource_id": 161,
+                    "text": "তাদেরকে যখন বলা হয়, ‘তোমাদের প্রতিপালক কী নাযিল করেছেন’ তখন তারা বলে- ‘পূর্ববর্তীদের কল্প-কাহিনী’।"
+                }
+            ]
+        },
+        {
+            "id": 1926,
+            "verse_number": 25,
+            "verse_key": "16:25",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 107,
+            "ruku_number": 226,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "لِيَحْمِلُوٓا۟ أَوْزَارَهُمْ كَامِلَةً يَوْمَ ٱلْقِيَـٰمَةِ ۙ وَمِنْ أَوْزَارِ ٱلَّذِينَ يُضِلُّونَهُم بِغَيْرِ عِلْمٍ ۗ أَلَا سَآءَ مَا يَزِرُونَ",
+            "page_number": 269,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96848,
+                    "resource_id": 20,
+                    "text": "That they may bear their own burdens [i.e., sins] in full on the Day of Resurrection and some of the burdens of those whom they misguide without [i.e., by lack of] knowledge. Unquestionably, evil is that which they bear."
+                },
+                {
+                    "id": 220827,
+                    "resource_id": 39,
+                    "text": "(Mereka dibiarkan menuduh dengan yang demikian) supaya mereka memikul dosa-dosa mereka dengan sepenuhnya pada hari kiamat, dan juga memikul sebahagian dari dosa orang-orang yang mereka sesatkan dengan tidak berdasarkan pengetahuan yang benar; sesungguhnya amatlah buruknya dosa-dosa yang mereka lakukan itu."
+                },
+                {
+                    "id": 1092903,
+                    "resource_id": 161,
+                    "text": "যার ফলে ক্বিয়ামাত দিবসে তারা বহন করবে নিজেদের পাপের বোঝা পূর্ণ মাত্রায়, আর (আংশিক) তাদেরও পাপের বোঝা যাদেরকে তারা গুমরাহ করেছে নিজেদের অজ্ঞতার কারণে। হায়, তারা যা বহন করবে তা কতই না নিকৃষ্ট!"
+                }
+            ]
+        },
+        {
+            "id": 1927,
+            "verse_number": 26,
+            "verse_key": "16:26",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 107,
+            "ruku_number": 227,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "قَدْ مَكَرَ ٱلَّذِينَ مِن قَبْلِهِمْ فَأَتَى ٱللَّهُ بُنْيَـٰنَهُم مِّنَ ٱلْقَوَاعِدِ فَخَرَّ عَلَيْهِمُ ٱلسَّقْفُ مِن فَوْقِهِمْ وَأَتَىٰهُمُ ٱلْعَذَابُ مِنْ حَيْثُ لَا يَشْعُرُونَ",
+            "page_number": 269,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96849,
+                    "resource_id": 20,
+                    "text": "Those before them had already plotted, but Allāh came at [i.e., uprooted] their building from the foundations, so the roof fell upon them from above them,<sup foot_note=196610>1</sup> and the punishment came to them from where they did not perceive."
+                },
+                {
+                    "id": 220823,
+                    "resource_id": 39,
+                    "text": "Sebenarnya orang-orang yang terdahulu dari mereka telah menjalankan rancangan jahat (terhadap ugama Allah dan Rasul-rasulNya); maka Allah binasakan bangunan (rancangan jahat) mereka dari asas-asasnya, lalu bumbung (bangunan itu) jatuh menimpa ke atas mereka, dan mereka pula didatangi azab kebinasaan dari arah yang mereka tidak menyedarinya."
+                },
+                {
+                    "id": 1092904,
+                    "resource_id": 161,
+                    "text": "তাদের পূর্বে যারা ছিল তারাও চক্রান্ত করেছিল। ফলে আল্লাহ তাদের ইমারাতকে মূল থেকে উৎপাটিত করেছিলেন আর উপর থেকে ছাদ তাদের উপর ভেঙ্গে পড়ল, আর তাদের প্রতি শাস্তি পতিত হল এমন দিক হতে যা তারা এতটুকু টের পায়নি।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 12,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 12
+    }
+}

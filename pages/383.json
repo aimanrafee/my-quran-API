@@ -1,0 +1,401 @@
+{
+    "verses": [
+        {
+            "id": 3223,
+            "verse_number": 64,
+            "verse_key": "27:64",
+            "hizb_number": 39,
+            "rub_el_hizb_number": 153,
+            "ruku_number": 331,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "أَمَّن يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ وَمَن يَرْزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ ۗ أَءِلَـٰهٌ مَّعَ ٱللَّهِ ۚ قُلْ هَاتُوا۟ بُرْهَـٰنَكُمْ إِن كُنتُمْ صَـٰدِقِينَ",
+            "page_number": 383,
+            "juz_number": 20,
+            "translations": [
+                {
+                    "id": 98384,
+                    "resource_id": 20,
+                    "text": "Is He [not best] who begins creation and then repeats it and who provides for you from the heaven and earth? Is there a deity with Allāh? Say, \"Produce your proof, if you should be truthful.\""
+                },
+                {
+                    "id": 216241,
+                    "resource_id": 39,
+                    "text": "Atau siapakah yang memulakan kejadian sekalian makhluk, kemudian dia mengembalikannya (hidup semula sesudah matinya). dan siapakah yang memberi rezeki kepada kamu dari langit dan bumi? Adakah sebarang tuhan yang lain bersama-sama Allah? Katakanlah (wahai Muhammad): \"Bawalah kemari keterangan-keterangan kamu, jika betul kamu orang-orang yang benar \"."
+                },
+                {
+                    "id": 1094200,
+                    "resource_id": 161,
+                    "text": "নাকি তিনিই (শ্রেষ্ঠ) যিনি সৃষ্টির সূচনা করেন, অতঃপর তার পুনরাবৃত্তি করেন এবং যিনি তোমাদেরকে আসমান ও যমীন থেকে রিযক দান করেন? আল্লাহর সাথে অন্য কোন ইলাহ্ আছে কি? বল, তোমরা সত্যবাদী হলে তোমাদের প্রমাণপঞ্জি পেশ কর।"
+                }
+            ]
+        },
+        {
+            "id": 3224,
+            "verse_number": 65,
+            "verse_key": "27:65",
+            "hizb_number": 39,
+            "rub_el_hizb_number": 153,
+            "ruku_number": 331,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "قُل لَّا يَعْلَمُ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ٱلْغَيْبَ إِلَّا ٱللَّهُ ۚ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ",
+            "page_number": 383,
+            "juz_number": 20,
+            "translations": [
+                {
+                    "id": 98385,
+                    "resource_id": 20,
+                    "text": "Say, \"None in the heavens and earth knows the unseen except Allāh, and they do not perceive when they will be resurrected.\""
+                },
+                {
+                    "id": 216242,
+                    "resource_id": 39,
+                    "text": "Katakanlah lagi: Tiada sesiapapun di langit dan di bumi yang mengetahui perkara yang ghaib melainkan Allah!\" Dan tiadalah mereka menyedari bilakah masing-masing akan dibangkitkan hidup semula (sesudah mati)."
+                },
+                {
+                    "id": 1094201,
+                    "resource_id": 161,
+                    "text": "বল, আকাশ ও পৃথিবীতে যারা আছে তারা কেউই অদৃশ্য বিষয়ের জ্ঞান রাখে না আল্লাহ ছাড়া, আর তারা জানে না কখন তাদেরকে জীবিত ক’রে উঠানো হবে।"
+                }
+            ]
+        },
+        {
+            "id": 3225,
+            "verse_number": 66,
+            "verse_key": "27:66",
+            "hizb_number": 39,
+            "rub_el_hizb_number": 153,
+            "ruku_number": 331,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "بَلِ ٱدَّٰرَكَ عِلْمُهُمْ فِى ٱلْـَٔاخِرَةِ ۚ بَلْ هُمْ فِى شَكٍّ مِّنْهَا ۖ بَلْ هُم مِّنْهَا عَمُونَ",
+            "page_number": 383,
+            "juz_number": 20,
+            "translations": [
+                {
+                    "id": 98386,
+                    "resource_id": 20,
+                    "text": "Rather, their knowledge is arrested concerning the Hereafter. Rather, they are in doubt about it. Rather, they are, concerning it, blind."
+                },
+                {
+                    "id": 216249,
+                    "resource_id": 39,
+                    "text": "Bahkan mereka (yang kafir) telah berkali-kali mengetahui tentang hari akhirat (tetapi mereka tidak meyakininya), bahkan mereka berada dalam syak mengenainya; bahkan matahati mereka buta langsung daripada memikirkannya."
+                },
+                {
+                    "id": 1094202,
+                    "resource_id": 161,
+                    "text": "বরং আখিরাত সম্পর্কিত তাদের জ্ঞানের সীমা শেষ, বরং এ ব্যাপারে তারা সন্দেহে আচ্ছন্ন বরং এ বিষয়ে তারা অন্ধ।"
+                }
+            ]
+        },
+        {
+            "id": 3226,
+            "verse_number": 67,
+            "verse_key": "27:67",
+            "hizb_number": 39,
+            "rub_el_hizb_number": 153,
+            "ruku_number": 332,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَقَالَ ٱلَّذِينَ كَفَرُوٓا۟ أَءِذَا كُنَّا تُرَٰبًا وَءَابَآؤُنَآ أَئِنَّا لَمُخْرَجُونَ",
+            "page_number": 383,
+            "juz_number": 20,
+            "translations": [
+                {
+                    "id": 98387,
+                    "resource_id": 20,
+                    "text": "And those who disbelieve say, \"When we have become dust as well as our forefathers, will we indeed be brought out [of the graves]?"
+                },
+                {
+                    "id": 216243,
+                    "resource_id": 39,
+                    "text": "Dan orang-orang yang kafir berkata: \"Adakah sesudah kami menjadi tanah, dan juga datuk nenek kami, adakah kami semua akan dikeluarkan dari kubur (hidup semula)?"
+                },
+                {
+                    "id": 1094203,
+                    "resource_id": 161,
+                    "text": "অবিশ্বাসীরা বলে- আমরা আর আমাদের পিতৃপুরুষরা যখন মাটি হয়ে যাব তারপরও কি আমাদেরকে নিশ্চিতই বের করে উঠানো হবে?"
+                }
+            ]
+        },
+        {
+            "id": 3227,
+            "verse_number": 68,
+            "verse_key": "27:68",
+            "hizb_number": 39,
+            "rub_el_hizb_number": 153,
+            "ruku_number": 332,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "لَقَدْ وُعِدْنَا هَـٰذَا نَحْنُ وَءَابَآؤُنَا مِن قَبْلُ إِنْ هَـٰذَآ إِلَّآ أَسَـٰطِيرُ ٱلْأَوَّلِينَ",
+            "page_number": 383,
+            "juz_number": 20,
+            "translations": [
+                {
+                    "id": 98388,
+                    "resource_id": 20,
+                    "text": "We have been promised this, we and our forefathers, before. This is not but legends of the former peoples.\""
+                },
+                {
+                    "id": 216244,
+                    "resource_id": 39,
+                    "text": "\"Demi sesungguhnya, kami telah dijanjikan dengan perkara ini, kami dan juga datuk nenek kami dahulu; ini hanyalah cerita-cerita dongeng orang-orang dahulu kala\"."
+                },
+                {
+                    "id": 1094204,
+                    "resource_id": 161,
+                    "text": "এ ওয়া‘দা আমাদেরকে দেয়া হয়েছে, আমাদেরকে এবং পূর্বে আমাদের পিতৃপুরুষদেরকেও; এ সব পূর্বকালের কাহিনী ছাড়া কিছুই নয়।"
+                }
+            ]
+        },
+        {
+            "id": 3228,
+            "verse_number": 69,
+            "verse_key": "27:69",
+            "hizb_number": 39,
+            "rub_el_hizb_number": 153,
+            "ruku_number": 332,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "قُلْ سِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُجْرِمِينَ",
+            "page_number": 383,
+            "juz_number": 20,
+            "translations": [
+                {
+                    "id": 98348,
+                    "resource_id": 20,
+                    "text": "Say, [O Muḥammad], \"Proceed [i.e., travel] through the land and observe how was the end of the criminals.\""
+                },
+                {
+                    "id": 216245,
+                    "resource_id": 39,
+                    "text": "Katakanlah (wahai Muhammad): \"Mengembaralah kamu di muka bumi, kemudian perhatikanlah bagaimana buruknya kesudahan orang-orang yang berdosa itu\"."
+                },
+                {
+                    "id": 1094205,
+                    "resource_id": 161,
+                    "text": "বল, পৃথিবীতে ভ্রমণ কর, অতঃপর দেখ অপরাধীদের পরিণাম কেমন হয়েছিল।"
+                }
+            ]
+        },
+        {
+            "id": 3229,
+            "verse_number": 70,
+            "verse_key": "27:70",
+            "hizb_number": 39,
+            "rub_el_hizb_number": 153,
+            "ruku_number": 332,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُن فِى ضَيْقٍ مِّمَّا يَمْكُرُونَ",
+            "page_number": 383,
+            "juz_number": 20,
+            "translations": [
+                {
+                    "id": 98392,
+                    "resource_id": 20,
+                    "text": "And grieve not over them or be in distress from what they conspire."
+                },
+                {
+                    "id": 216260,
+                    "resource_id": 39,
+                    "text": "Dan janganlah engkau berdukacita terhadap (keingkaran) mereka (yang kafir itu,) dan janganlah engkau resah-gelisah disebabkan tipu daya yang mereka lakukan."
+                },
+                {
+                    "id": 1094206,
+                    "resource_id": 161,
+                    "text": "তাদের জন্য দুঃখ কর না, আর তাদের চক্রান্তের কারণে মনে কষ্ট নিও না।"
+                }
+            ]
+        },
+        {
+            "id": 3230,
+            "verse_number": 71,
+            "verse_key": "27:71",
+            "hizb_number": 39,
+            "rub_el_hizb_number": 153,
+            "ruku_number": 332,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَيَقُولُونَ مَتَىٰ هَـٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَـٰدِقِينَ",
+            "page_number": 383,
+            "juz_number": 20,
+            "translations": [
+                {
+                    "id": 98393,
+                    "resource_id": 20,
+                    "text": "And they say, \"When is [the fulfillment of] this promise, if you should be truthful?\""
+                },
+                {
+                    "id": 216250,
+                    "resource_id": 39,
+                    "text": "Dan mereka bertanya: \"Bilakah berlakunya azab yang telah dijanjikan itu, jika betul kamu orang-orang yang benar?\""
+                },
+                {
+                    "id": 1094207,
+                    "resource_id": 161,
+                    "text": "তারা বলে- ‘তোমরা যদি সত্যবাদী হয়ে থাক তাহলে, এ ‘ওয়াদা কখন বাস্তবায়িত হবে?"
+                }
+            ]
+        },
+        {
+            "id": 3231,
+            "verse_number": 72,
+            "verse_key": "27:72",
+            "hizb_number": 39,
+            "rub_el_hizb_number": 153,
+            "ruku_number": 332,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "قُلْ عَسَىٰٓ أَن يَكُونَ رَدِفَ لَكُم بَعْضُ ٱلَّذِى تَسْتَعْجِلُونَ",
+            "page_number": 383,
+            "juz_number": 20,
+            "translations": [
+                {
+                    "id": 98394,
+                    "resource_id": 20,
+                    "text": "Say, \"Perhaps it is close behind you [i.e., very near] - some of that for which you are impatient."
+                },
+                {
+                    "id": 216251,
+                    "resource_id": 39,
+                    "text": "Katakanlah (wahai Muhammad): \"Dipercayai tidak lama lagi akan datang kepada kamu sebahagian dari azab yang kamu minta disegerakan itu\"."
+                },
+                {
+                    "id": 1094208,
+                    "resource_id": 161,
+                    "text": "বল, তোমরা যা পাওয়ার জন্য তাড়াহুড়া করছ সম্ভবতঃ তার কিছু তোমাদের পিঠের পেছনে এসে গেছে।"
+                }
+            ]
+        },
+        {
+            "id": 3232,
+            "verse_number": 73,
+            "verse_key": "27:73",
+            "hizb_number": 39,
+            "rub_el_hizb_number": 153,
+            "ruku_number": 332,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِنَّ رَبَّكَ لَذُو فَضْلٍ عَلَى ٱلنَّاسِ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ",
+            "page_number": 383,
+            "juz_number": 20,
+            "translations": [
+                {
+                    "id": 98395,
+                    "resource_id": 20,
+                    "text": "And indeed, your Lord is the possessor of bounty for the people, but most of them are not grateful.\""
+                },
+                {
+                    "id": 216252,
+                    "resource_id": 39,
+                    "text": "Dan sesungguhnya Tuhanmu (wahai Muhammad) sentiasa melimpah-ruah kurniaNya kepada umat manusia seluruhnya tetapi kebanyakan mereka tidak bersyukur."
+                },
+                {
+                    "id": 1094209,
+                    "resource_id": 161,
+                    "text": "তোমার প্রতিপালক নিশ্চয়ই মানুষের প্রতি অনুগ্রহশীল, কিন্তু তাদের অধিকাংশই কৃতজ্ঞতা প্রকাশ করে না।"
+                }
+            ]
+        },
+        {
+            "id": 3233,
+            "verse_number": 74,
+            "verse_key": "27:74",
+            "hizb_number": 39,
+            "rub_el_hizb_number": 153,
+            "ruku_number": 332,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِنَّ رَبَّكَ لَيَعْلَمُ مَا تُكِنُّ صُدُورُهُمْ وَمَا يُعْلِنُونَ",
+            "page_number": 383,
+            "juz_number": 20,
+            "translations": [
+                {
+                    "id": 98396,
+                    "resource_id": 20,
+                    "text": "And indeed, your Lord knows what their breasts conceal and what they declare."
+                },
+                {
+                    "id": 216253,
+                    "resource_id": 39,
+                    "text": "Dan sesungguhnya Tuhanmu sedia mengetahui apa yang terpendam dalam hati mereka dan apa yang mereka nyatakan (dengan tutur kata dan perbuatan)."
+                },
+                {
+                    "id": 1094210,
+                    "resource_id": 161,
+                    "text": "তোমার প্রতিপালক অবশ্যই জানেন তাদের অন্তর যা গোপন করে আর যা প্রকাশ করে।"
+                }
+            ]
+        },
+        {
+            "id": 3234,
+            "verse_number": 75,
+            "verse_key": "27:75",
+            "hizb_number": 39,
+            "rub_el_hizb_number": 153,
+            "ruku_number": 332,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا مِنْ غَآئِبَةٍ فِى ٱلسَّمَآءِ وَٱلْأَرْضِ إِلَّا فِى كِتَـٰبٍ مُّبِينٍ",
+            "page_number": 383,
+            "juz_number": 20,
+            "translations": [
+                {
+                    "id": 98397,
+                    "resource_id": 20,
+                    "text": "And there is nothing concealed<sup foot_note=196989>1</sup> within the heaven and the earth except that it is in a clear Register.<sup foot_note=196988>2</sup>"
+                },
+                {
+                    "id": 216254,
+                    "resource_id": 39,
+                    "text": "Dan tiada sesuatu perkara yang ghaib di langit dan di bumi, melainkan tertulis dalam Kitab yang terang nyata."
+                },
+                {
+                    "id": 1094211,
+                    "resource_id": 161,
+                    "text": "আকাশে আর যমীনে এমন কোন অদৃশ্য বিষয় নেই যা সুস্পষ্ট কিতাবে নেই।"
+                }
+            ]
+        },
+        {
+            "id": 3235,
+            "verse_number": 76,
+            "verse_key": "27:76",
+            "hizb_number": 39,
+            "rub_el_hizb_number": 153,
+            "ruku_number": 332,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ هَـٰذَا ٱلْقُرْءَانَ يَقُصُّ عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَكْثَرَ ٱلَّذِى هُمْ فِيهِ يَخْتَلِفُونَ",
+            "page_number": 383,
+            "juz_number": 20,
+            "translations": [
+                {
+                    "id": 98398,
+                    "resource_id": 20,
+                    "text": "Indeed, this Qur’ān relates to the Children of Israel most of that over which they disagree."
+                },
+                {
+                    "id": 216255,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Al-Quran ini menceritakan kepada Bani lsrail (perkara yang sebenar-benarnya) mengenai kebanyakan (hal-hal ugama) yang mereka berselisihan padanya."
+                },
+                {
+                    "id": 1094212,
+                    "resource_id": 161,
+                    "text": "নিশ্চয় এ কুরআন সেগুলোর অধিকাংশ বিবৃত করে যে বিষয়ে বানী ইসরাঈল মতভেদ করেছিল।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 13,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 13
+    }
+}

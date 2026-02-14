@@ -1,0 +1,821 @@
+{
+    "verses": [
+        {
+            "id": 6017,
+            "verse_number": 24,
+            "verse_key": "89:24",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 237,
+            "ruku_number": 533,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "يَقُولُ يَـٰلَيْتَنِى قَدَّمْتُ لِحَيَاتِى",
+            "page_number": 594,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102128,
+                    "resource_id": 20,
+                    "text": "He will say, \"Oh, I wish I had sent ahead [some good] for my life.\"<sup foot_note=197763>1</sup>"
+                },
+                {
+                    "id": 219949,
+                    "resource_id": 39,
+                    "text": "Ia akan berkata: \"Alangkah baiknya kalau aku dahulu sediakan amal-amal baik untuk hidupku (di sini)!\""
+                },
+                {
+                    "id": 1096994,
+                    "resource_id": 161,
+                    "text": "সে বলবে, ‘হায়! আমার (এখনকার) জীবনের জন্য যদি আমি (সৎকর্ম) আগে পাঠাতাম!"
+                }
+            ]
+        },
+        {
+            "id": 6018,
+            "verse_number": 25,
+            "verse_key": "89:25",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 237,
+            "ruku_number": 533,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَيَوْمَئِذٍ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدٌ",
+            "page_number": 594,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102129,
+                    "resource_id": 20,
+                    "text": "So on that Day, none will punish [as severely] as His punishment,"
+                },
+                {
+                    "id": 219946,
+                    "resource_id": 39,
+                    "text": "Maka pada hari itu tiada sesiapapun yang dapat menyeksa seperti azab (yang ditimpakan oleh) Allah."
+                },
+                {
+                    "id": 1096995,
+                    "resource_id": 161,
+                    "text": "অতঃপর সেদিন তাঁর শাস্তির মত শাস্তি কেউ দিতে পারবে না"
+                }
+            ]
+        },
+        {
+            "id": 6019,
+            "verse_number": 26,
+            "verse_key": "89:26",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 237,
+            "ruku_number": 533,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٌ",
+            "page_number": 594,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102130,
+                    "resource_id": 20,
+                    "text": "And none will bind [as severely] as His binding [of the evildoers]."
+                },
+                {
+                    "id": 219947,
+                    "resource_id": 39,
+                    "text": "Dan tiada sesiapapun yang dapat mengikat serta membelenggu seperti ikatan dan belengguNya."
+                },
+                {
+                    "id": 1096996,
+                    "resource_id": 161,
+                    "text": "এবং তাঁর বাঁধনের মত কেউ বাঁধতে পারবে না।"
+                }
+            ]
+        },
+        {
+            "id": 6020,
+            "verse_number": 27,
+            "verse_key": "89:27",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 237,
+            "ruku_number": 533,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "يَـٰٓأَيَّتُهَا ٱلنَّفْسُ ٱلْمُطْمَئِنَّةُ",
+            "page_number": 594,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102131,
+                    "resource_id": 20,
+                    "text": "[To the righteous it will be said], \"O reassured soul,"
+                },
+                {
+                    "id": 219948,
+                    "resource_id": 39,
+                    "text": "(Setelah menerangkan akibat orang-orang yang tidak menghiraukan akhirat, Tuhan menyatakan bahawa orang-orang yang beriman dan beramal soleh akan disambut dengan kata-kata): \"Wahai orang yang mempunyai jiwa yang sentiasa tenang tetap dengan kepercayaan dan bawaan baiknya! -"
+                },
+                {
+                    "id": 1096997,
+                    "resource_id": 161,
+                    "text": "(অপর দিকে নেককার লোককে বলা হবে) হে প্রশান্ত আত্মা!"
+                }
+            ]
+        },
+        {
+            "id": 6021,
+            "verse_number": 28,
+            "verse_key": "89:28",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 237,
+            "ruku_number": 533,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ٱرْجِعِىٓ إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً",
+            "page_number": 594,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102132,
+                    "resource_id": 20,
+                    "text": "Return to your Lord, well-pleased and pleasing [to Him],"
+                },
+                {
+                    "id": 219950,
+                    "resource_id": 39,
+                    "text": "\"Kembalilah kepada Tuhanmu dengan keadaan engkau berpuas hati (dengan segala nikmat yang diberikan) lagi diredhai (di sisi Tuhanmu) ! -"
+                },
+                {
+                    "id": 1096998,
+                    "resource_id": 161,
+                    "text": "তোমার রব-এর দিকে ফিরে এসো সন্তুষ্ট হয়ে এবং (তোমার রব-এর) সন্তুষ্টির পাত্র হয়ে।"
+                }
+            ]
+        },
+        {
+            "id": 6022,
+            "verse_number": 29,
+            "verse_key": "89:29",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 237,
+            "ruku_number": 533,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَٱدْخُلِى فِى عِبَـٰدِى",
+            "page_number": 594,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102133,
+                    "resource_id": 20,
+                    "text": "And enter among My [righteous] servants"
+                },
+                {
+                    "id": 219951,
+                    "resource_id": 39,
+                    "text": "\"Serta masuklah engkau dalam kumpulan hamba-hambaku yang berbahagia -"
+                },
+                {
+                    "id": 1096999,
+                    "resource_id": 161,
+                    "text": "অতঃপর আমার (নেক) বান্দাহদের মধ্যে শামিল হও"
+                }
+            ]
+        },
+        {
+            "id": 6023,
+            "verse_number": 30,
+            "verse_key": "89:30",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 237,
+            "ruku_number": 533,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱدْخُلِى جَنَّتِى",
+            "page_number": 594,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102135,
+                    "resource_id": 20,
+                    "text": "And enter My Paradise.\""
+                },
+                {
+                    "id": 219952,
+                    "resource_id": 39,
+                    "text": "\"Dan masuklah ke dalam SyurgaKu! \""
+                },
+                {
+                    "id": 1097000,
+                    "resource_id": 161,
+                    "text": "আর আমার জান্নাতে প্রবেশ কর।"
+                }
+            ]
+        },
+        {
+            "id": 6024,
+            "verse_number": 1,
+            "verse_key": "90:1",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 534,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " لَآ أُقْسِمُ بِهَـٰذَا ٱلْبَلَدِ",
+            "page_number": 594,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102142,
+                    "resource_id": 20,
+                    "text": "I swear by this city [i.e., Makkah]"
+                },
+                {
+                    "id": 219960,
+                    "resource_id": 39,
+                    "text": "Aku bersumpah dengan negeri (Makkah) ini;"
+                },
+                {
+                    "id": 1097001,
+                    "resource_id": 161,
+                    "text": "(কাফিররা বলছে দুনিয়ার জীবনই সবকিছু) না, আমি এই (মক্কা) নগরের শপথ করছি (যে নগরে সকলেই নিরাপদ),"
+                }
+            ]
+        },
+        {
+            "id": 6025,
+            "verse_number": 2,
+            "verse_key": "90:2",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 534,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَنتَ حِلٌّۢ بِهَـٰذَا ٱلْبَلَدِ",
+            "page_number": 594,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102153,
+                    "resource_id": 20,
+                    "text": "And you, [O Muḥammad], are free of restriction in this city"
+                },
+                {
+                    "id": 219971,
+                    "resource_id": 39,
+                    "text": "Sedang engkau (wahai Muhammad) tinggal di negeri ini (sentiasa ditindas),"
+                },
+                {
+                    "id": 1097002,
+                    "resource_id": 161,
+                    "text": "আর তুমি এই নগরের হালালকারী।"
+                }
+            ]
+        },
+        {
+            "id": 6026,
+            "verse_number": 3,
+            "verse_key": "90:3",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 534,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَوَالِدٍ وَمَا وَلَدَ",
+            "page_number": 594,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102155,
+                    "resource_id": 20,
+                    "text": "And [by] the father<sup foot_note=197764>1</sup> and that which was born [of him],"
+                },
+                {
+                    "id": 219972,
+                    "resource_id": 39,
+                    "text": "Demi manusia yang melahirkan zuriat, dan zuriat yang dilahirkannya;"
+                },
+                {
+                    "id": 1097003,
+                    "resource_id": 161,
+                    "text": "শপথ জন্মদাতা (আদম)-এর আর যা সে জন্ম দিয়েছে (সেই সমস্ত মানুষের),"
+                }
+            ]
+        },
+        {
+            "id": 6027,
+            "verse_number": 4,
+            "verse_key": "90:4",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 534,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِى كَبَدٍ",
+            "page_number": 594,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102156,
+                    "resource_id": 20,
+                    "text": "We have certainly created man into hardship."
+                },
+                {
+                    "id": 219916,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Kami telah jadikan manusia sentiasa dalam keadaan menghadapi kesulitan dan kesukaran (jasmani dan rohaninya);"
+                },
+                {
+                    "id": 1097004,
+                    "resource_id": 161,
+                    "text": "আমি মানুষকে সৃষ্টি করেছি অত্যন্ত কষ্ট ও শ্রমের মাঝে, (দুনিয়ার প্রত্যেকটি মানুষ কোন না কোন কষ্টের মধ্যে পতিত আছে)।"
+                }
+            ]
+        },
+        {
+            "id": 6028,
+            "verse_number": 5,
+            "verse_key": "90:5",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 534,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ",
+            "page_number": 594,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102157,
+                    "resource_id": 20,
+                    "text": "Does he think that never will anyone overcome him?"
+                },
+                {
+                    "id": 219974,
+                    "resource_id": 39,
+                    "text": "Patutkah manusia yang demikian keadaannya (terpedaya dengan kekuasaan yang ada padanya dan) menyangka bahawa tidak ada sesiapapun yang dapat mengatasi kekuasaannya (dan menyeksakannya)?"
+                },
+                {
+                    "id": 1097005,
+                    "resource_id": 161,
+                    "text": "সে কি মনে করে যে তার উপর কেউ ক্ষমতাবান নেই?"
+                }
+            ]
+        },
+        {
+            "id": 6029,
+            "verse_number": 6,
+            "verse_key": "90:6",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 534,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "يَقُولُ أَهْلَكْتُ مَالًا لُّبَدًا",
+            "page_number": 594,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102158,
+                    "resource_id": 20,
+                    "text": "He says, \"I have spent wealth in abundance.\""
+                },
+                {
+                    "id": 219975,
+                    "resource_id": 39,
+                    "text": "Manusia yang demikian keadaannya (tidaklah patut ia bermegah-megah dengan kekayaannya dan) berkata: \"Aku telah habiskan harta benda yang banyak (dalam usaha menegakkan nama dan bangsa)."
+                },
+                {
+                    "id": 1097006,
+                    "resource_id": 161,
+                    "text": "সে (গর্বের সঙ্গে) বলে যে, আমি প্রচুর ধন-সম্পদ উড়িয়েছি।"
+                }
+            ]
+        },
+        {
+            "id": 6030,
+            "verse_number": 7,
+            "verse_key": "90:7",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 534,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَيَحْسَبُ أَن لَّمْ يَرَهُۥٓ أَحَدٌ",
+            "page_number": 594,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102159,
+                    "resource_id": 20,
+                    "text": "Does he think that no one has seen him?"
+                },
+                {
+                    "id": 219976,
+                    "resource_id": 39,
+                    "text": "Adakah ia menyangka bahawa tidak ada sesiapapun yang melihatnya (dan mengetahui tujuannya menghabiskan harta bendanya itu?"
+                },
+                {
+                    "id": 1097007,
+                    "resource_id": 161,
+                    "text": "সে কি মনে করে যে তাকে কেউ দেখেনি?"
+                }
+            ]
+        },
+        {
+            "id": 6031,
+            "verse_number": 8,
+            "verse_key": "90:8",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 534,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ",
+            "page_number": 594,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102160,
+                    "resource_id": 20,
+                    "text": "Have We not made for him two eyes?"
+                },
+                {
+                    "id": 219977,
+                    "resource_id": 39,
+                    "text": "(Mengapa manusia terpedaya dan bermegah-megah?) Tidakkah Kami telah menjadikan baginya: dua mata (untuk ia memerhatikan kekuasaan dan kekayaan Kami?) -"
+                },
+                {
+                    "id": 1097008,
+                    "resource_id": 161,
+                    "text": "আমি কি তাকে দু’টো চোখ দিইনি?"
+                }
+            ]
+        },
+        {
+            "id": 6032,
+            "verse_number": 9,
+            "verse_key": "90:9",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 534,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلِسَانًا وَشَفَتَيْنِ",
+            "page_number": 594,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102161,
+                    "resource_id": 20,
+                    "text": "And a tongue and two lips?"
+                },
+                {
+                    "id": 219978,
+                    "resource_id": 39,
+                    "text": "Dan lidah serta dua bibir (untuk ia menyempurnakan sebahagian besar dari hajat-hajatnya)?"
+                },
+                {
+                    "id": 1097009,
+                    "resource_id": 161,
+                    "text": "আর একটা জিহবা আর দু’টো ঠোঁট?"
+                }
+            ]
+        },
+        {
+            "id": 6033,
+            "verse_number": 10,
+            "verse_key": "90:10",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 534,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَهَدَيْنَـٰهُ ٱلنَّجْدَيْنِ",
+            "page_number": 594,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102143,
+                    "resource_id": 20,
+                    "text": "And have shown him the two ways?<sup foot_note=197765>1</sup>"
+                },
+                {
+                    "id": 219961,
+                    "resource_id": 39,
+                    "text": "Dan Kami telah menunjukkan kepadanya dua jalan, (jalan kebaikan untuk dijalaninya, dan jalan kejahatan untuk dijauhi)?"
+                },
+                {
+                    "id": 1097010,
+                    "resource_id": 161,
+                    "text": "আর আমি তাকে (পাপ ও পুণ্যের) দু’টো পথ দেখিয়েছি।"
+                }
+            ]
+        },
+        {
+            "id": 6034,
+            "verse_number": 11,
+            "verse_key": "90:11",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 534,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَلَا ٱقْتَحَمَ ٱلْعَقَبَةَ",
+            "page_number": 594,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102144,
+                    "resource_id": 20,
+                    "text": "But he has not broken through the difficult pass.<sup foot_note=197766>1</sup>"
+                },
+                {
+                    "id": 219962,
+                    "resource_id": 39,
+                    "text": "Dalam pada itu manusia tidak (memilih jalan kebaikan) merempuh masuk mengerjakan amal-amal yang tinggi darjatnya di sisi Tuhan;"
+                },
+                {
+                    "id": 1097011,
+                    "resource_id": 161,
+                    "text": "(মানুষকে এত গুণবৈশিষ্ট্য ও মেধা দেয়া সত্ত্বেও) সে (ধর্মের) দুর্গম গিরি পথে প্রবেশ করল না।"
+                }
+            ]
+        },
+        {
+            "id": 6035,
+            "verse_number": 12,
+            "verse_key": "90:12",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 534,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا ٱلْعَقَبَةُ",
+            "page_number": 594,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102145,
+                    "resource_id": 20,
+                    "text": "And what can make you know what is [breaking through] the difficult pass?"
+                },
+                {
+                    "id": 219963,
+                    "resource_id": 39,
+                    "text": "Dan apa jalannya engkau dapat mengetahui: apa dia amal-amal yang tinggi darjatnya di sisi Tuhan itu?"
+                },
+                {
+                    "id": 1097012,
+                    "resource_id": 161,
+                    "text": "তুমি কি জান দুর্গম গিরিপথ কী?"
+                }
+            ]
+        },
+        {
+            "id": 6036,
+            "verse_number": 13,
+            "verse_key": "90:13",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 534,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَكُّ رَقَبَةٍ",
+            "page_number": 594,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102146,
+                    "resource_id": 20,
+                    "text": "It is the freeing of a slave"
+                },
+                {
+                    "id": 219968,
+                    "resource_id": 39,
+                    "text": "(Di antara amal-amal itu - bagi orang yang mampu) ialah: memerdekakan hamba abdi;"
+                },
+                {
+                    "id": 1097013,
+                    "resource_id": 161,
+                    "text": "(তা হচ্ছে) দাসমুক্তি।"
+                }
+            ]
+        },
+        {
+            "id": 6037,
+            "verse_number": 14,
+            "verse_key": "90:14",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 534,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَوْ إِطْعَـٰمٌ فِى يَوْمٍ ذِى مَسْغَبَةٍ",
+            "page_number": 594,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102147,
+                    "resource_id": 20,
+                    "text": "Or feeding on a day of severe hunger"
+                },
+                {
+                    "id": 219964,
+                    "resource_id": 39,
+                    "text": "Atau memberi makan pada hari kelaparan -"
+                },
+                {
+                    "id": 1097014,
+                    "resource_id": 161,
+                    "text": "অথবা দুর্ভিক্ষের দিনে খাদ্য দান"
+                }
+            ]
+        },
+        {
+            "id": 6038,
+            "verse_number": 15,
+            "verse_key": "90:15",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 534,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "يَتِيمًا ذَا مَقْرَبَةٍ",
+            "page_number": 594,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102148,
+                    "resource_id": 20,
+                    "text": "An orphan of near relationship"
+                },
+                {
+                    "id": 219965,
+                    "resource_id": 39,
+                    "text": "Kepada anak yatim dari kaum kerabat,"
+                },
+                {
+                    "id": 1097015,
+                    "resource_id": 161,
+                    "text": "নিকটাত্মীয় ইয়াতীমকে,"
+                }
+            ]
+        },
+        {
+            "id": 6039,
+            "verse_number": 16,
+            "verse_key": "90:16",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 534,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ",
+            "page_number": 594,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102149,
+                    "resource_id": 20,
+                    "text": "Or a needy person in misery"
+                },
+                {
+                    "id": 219966,
+                    "resource_id": 39,
+                    "text": "Atau kepada orang miskin yang terlantar di atas tanah."
+                },
+                {
+                    "id": 1097016,
+                    "resource_id": 161,
+                    "text": "অথবা দারিদ্র-ক্লিষ্ট মিসকীনকে।"
+                }
+            ]
+        },
+        {
+            "id": 6040,
+            "verse_number": 17,
+            "verse_key": "90:17",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 534,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَتَوَاصَوْا۟ بِٱلصَّبْرِ وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ",
+            "page_number": 594,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102150,
+                    "resource_id": 20,
+                    "text": "And then being among those who believed and advised one another to patience and advised one another to compassion."
+                },
+                {
+                    "id": 219967,
+                    "resource_id": 39,
+                    "text": "Selain dari (tidak mengerjakan amal-amal) itu, ia (tidak pula) menjadi dari orang-orang yang beriman dan berpesan-pesan dengan sabar serta berpesan-pesan dengan kasih sayang."
+                },
+                {
+                    "id": 1097017,
+                    "resource_id": 161,
+                    "text": "তদুপরি সে মু’মিনদের মধ্যে শামিল হয় আর পরস্পরকে ধৈর্য ধারণের ও দয়া প্রদর্শনের উপদেশ দেয়।"
+                }
+            ]
+        },
+        {
+            "id": 6041,
+            "verse_number": 18,
+            "verse_key": "90:18",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 534,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْمَيْمَنَةِ",
+            "page_number": 594,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102151,
+                    "resource_id": 20,
+                    "text": "Those are the companions of the right.<sup foot_note=197767>1</sup>"
+                },
+                {
+                    "id": 219969,
+                    "resource_id": 39,
+                    "text": "(Ketahuilah! Bahawa orang-orang yang beriman serta berusaha mengerjakan amal-amal yang tinggi darjatnya di sisi Tuhan), merekalah golongan pihak kanan (yang akan beroleh Syurga)."
+                },
+                {
+                    "id": 1097018,
+                    "resource_id": 161,
+                    "text": "তারাই ডানপন্থী (সৌভাগ্যবান লোক)।"
+                }
+            ]
+        },
+        {
+            "id": 6042,
+            "verse_number": 19,
+            "verse_key": "90:19",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 534,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِنَا هُمْ أَصْحَـٰبُ ٱلْمَشْـَٔمَةِ",
+            "page_number": 594,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102152,
+                    "resource_id": 20,
+                    "text": "But they who disbelieved in Our signs - those are the companions of the left.<sup foot_note=197768>1</sup>"
+                },
+                {
+                    "id": 219970,
+                    "resource_id": 39,
+                    "text": "Dan (sebaliknya) orang-orang yang kufur ingkar akan ayat-ayat keterangan Kami, merekalah golongan pihak kiri. -"
+                },
+                {
+                    "id": 1097019,
+                    "resource_id": 161,
+                    "text": "আর যারা আমার আয়াতকে অস্বীকার করে তারাই বামপন্থী (হতভাগা)।"
+                }
+            ]
+        },
+        {
+            "id": 6043,
+            "verse_number": 20,
+            "verse_key": "90:20",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 534,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌۢ",
+            "page_number": 594,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102154,
+                    "resource_id": 20,
+                    "text": "Over them will be fire closed in.<sup foot_note=197769>1</sup>"
+                },
+                {
+                    "id": 219973,
+                    "resource_id": 39,
+                    "text": "Mereka ditimpakan (azab seksa) neraka yang ditutup rapat (supaya kuat bakarannya)."
+                },
+                {
+                    "id": 1097020,
+                    "resource_id": 161,
+                    "text": "তাদেরকে আচ্ছন্ন করবে অবরুদ্ধকারী আগুন।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 26,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 26
+    }
+}

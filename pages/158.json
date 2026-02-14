@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 1012,
+            "verse_number": 58,
+            "verse_key": "7:58",
+            "hizb_number": 16,
+            "rub_el_hizb_number": 63,
+            "ruku_number": 128,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلْبَلَدُ ٱلطَّيِّبُ يَخْرُجُ نَبَاتُهُۥ بِإِذْنِ رَبِّهِۦ ۖ وَٱلَّذِى خَبُثَ لَا يَخْرُجُ إِلَّا نَكِدًا ۚ كَذَٰلِكَ نُصَرِّفُ ٱلْـَٔايَـٰتِ لِقَوْمٍ يَشْكُرُونَ",
+            "page_number": 158,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 101594,
+                    "resource_id": 20,
+                    "text": "And the good land - its vegetation emerges by permission of its Lord; but that which is bad - nothing emerges except sparsely, with difficulty. Thus do We diversify the signs for a people who are grateful."
+                },
+                {
+                    "id": 219427,
+                    "resource_id": 39,
+                    "text": "Dan negeri yang baik (tanahnya), tanaman-tanamannya tumbuh (subur) dengan izin Allah; dan negeri yang tidak baik (tanahnya) tidak tumbuh tanamannya melainkan dengan keadaan bantut. Demikianlah Kami menerangkan tanda-tanda (kemurahan dan kekuasaan) Kami dengan berbagai cara bagi orang-orang yang (mahu) bersyukur."
+                },
+                {
+                    "id": 1091989,
+                    "resource_id": 161,
+                    "text": "উৎকৃষ্ট ভূমি তার প্রতিপালকের নির্দেশে বৃক্ষলতা উৎপাদন করে, আর নিকৃষ্ট যমীন থেকে কঠিন পরিশ্রম না করলে কিছুই উৎপন্ন হয় না। এভাবেই আমি আয়াতগুলো বারবার বিবৃত করি কৃতজ্ঞ সম্প্রদায়ের জন্য।"
+                }
+            ]
+        },
+        {
+            "id": 1013,
+            "verse_number": 59,
+            "verse_key": "7:59",
+            "hizb_number": 16,
+            "rub_el_hizb_number": 63,
+            "ruku_number": 129,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "لَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦ فَقَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَـٰهٍ غَيْرُهُۥٓ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ",
+            "page_number": 158,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 101596,
+                    "resource_id": 20,
+                    "text": "We had certainly sent Noah to his people, and he said, \"O my people, worship Allāh; you have no deity other than Him. Indeed, I fear for you the punishment of a tremendous Day.\""
+                },
+                {
+                    "id": 219429,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Kami telah mengutuskan Nabi Nuh kepada kaumnya, lalu berkatalah ia: \"Wahai kaumku! Sembahlah kamu akan Allah, (sebenarnya) tidak ada Tuhan bagi kamu selain daripadaNya. Sesungguhnya aku bimbang, kamu akan ditimpa azab hari yang besar (hari kiamat)\""
+                },
+                {
+                    "id": 1091990,
+                    "resource_id": 161,
+                    "text": "আমি নূহকে তার সম্প্রদায়ের নিকট পাঠিয়েছিলাম। সে বলেছিল, ‘হে আমার সম্প্রদায়! তোমরা আল্লাহর ‘ইবাদাত কর, তিনি ছাড়া তোমাদের কোন ইলাহ নাই।’ (তোমরা আল্লাহর নির্দেশ অমান্য করলে) মহাদিনে আমি তোমাদের জন্য শাস্তির আশঙ্কা করি।"
+                }
+            ]
+        },
+        {
+            "id": 1014,
+            "verse_number": 60,
+            "verse_key": "7:60",
+            "hizb_number": 16,
+            "rub_el_hizb_number": 63,
+            "ruku_number": 129,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ ٱلْمَلَأُ مِن قَوْمِهِۦٓ إِنَّا لَنَرَىٰكَ فِى ضَلَـٰلٍ مُّبِينٍ",
+            "page_number": 158,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 101599,
+                    "resource_id": 20,
+                    "text": "Said the eminent among his people, \"Indeed, we see you in clear error.\""
+                },
+                {
+                    "id": 219750,
+                    "resource_id": 39,
+                    "text": "Ketua-ketua dari kaumnya berkata: \"Sesungguhnya kami nampakmu (wahai Nuh) berada dalam kesesatan yang nyata\"."
+                },
+                {
+                    "id": 1091991,
+                    "resource_id": 161,
+                    "text": "তার সম্প্রদায়ের প্রধানগণ বলেছিল, ‘আমরা নিশ্চিতভাবে তোমাকে প্রকাশ্য গোমরাহীতে নিমজ্জিত দেখছি।’"
+                }
+            ]
+        },
+        {
+            "id": 1015,
+            "verse_number": 61,
+            "verse_key": "7:61",
+            "hizb_number": 16,
+            "rub_el_hizb_number": 63,
+            "ruku_number": 129,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ يَـٰقَوْمِ لَيْسَ بِى ضَلَـٰلَةٌ وَلَـٰكِنِّى رَسُولٌ مِّن رَّبِّ ٱلْعَـٰلَمِينَ",
+            "page_number": 158,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 101600,
+                    "resource_id": 20,
+                    "text": "[Noah] said, \"O my people, there is not error in me, but I am a messenger from the Lord of the worlds."
+                },
+                {
+                    "id": 219432,
+                    "resource_id": 39,
+                    "text": "Nabi Nuh menjawab: \"Wahai KaumKu! Tidak ada padaku sebarang kesesatan, tetapi aku adalah seorang Rasul dari Tuhan sekalian alam."
+                },
+                {
+                    "id": 1091992,
+                    "resource_id": 161,
+                    "text": "সে বলল, ‘হে আমার সম্প্রদায়! আমাতে কোন বিভ্রান্তি নেই, বরং আমি বিশ্বজগতের প্রতিপালকের পক্ষ হতে প্রেরিত রসূল।’"
+                }
+            ]
+        },
+        {
+            "id": 1016,
+            "verse_number": 62,
+            "verse_key": "7:62",
+            "hizb_number": 16,
+            "rub_el_hizb_number": 63,
+            "ruku_number": 129,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "أُبَلِّغُكُمْ رِسَـٰلَـٰتِ رَبِّى وَأَنصَحُ لَكُمْ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+            "page_number": 158,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 101612,
+                    "resource_id": 20,
+                    "text": "I convey to you the messages of my Lord and advise you; and I know from Allāh what you do not know."
+                },
+                {
+                    "id": 219444,
+                    "resource_id": 39,
+                    "text": "\"(Tugasku) menyampaikan kepada kamu perintah-perintah yang (diutuskan oleh) Tuhanku, serta aku memberi nasihat kepada kamu, sedang aku mengetahui (melalui wahyu) dari Allah akan apa yang kamu tidak mengetahuinya."
+                },
+                {
+                    "id": 1091993,
+                    "resource_id": 161,
+                    "text": "আমি তোমাদের কাছে আমার প্রতিপালকের বাণী পৌঁছে দিচ্ছি আর তোমাদেরকে নাসীহাত করছি, আর আমি আল্লাহর নিকট হতে (এমন সব বিষয়) জানি যা তোমরা জান না।"
+                }
+            ]
+        },
+        {
+            "id": 1017,
+            "verse_number": 63,
+            "verse_key": "7:63",
+            "hizb_number": 16,
+            "rub_el_hizb_number": 63,
+            "ruku_number": 129,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍ مِّنكُمْ لِيُنذِرَكُمْ وَلِتَتَّقُوا۟ وَلَعَلَّكُمْ تُرْحَمُونَ",
+            "page_number": 158,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 101624,
+                    "resource_id": 20,
+                    "text": "Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you and that you may fear Allāh so you might receive mercy?\""
+                },
+                {
+                    "id": 219456,
+                    "resource_id": 39,
+                    "text": "\"Adakah kamu merasa ragu-ragu dan hairan tentang datangnya kepada kamu nasihat pengajaran dari Tuhan kamu melalui seorang lelaki dari golongan kamu, untuk memberi peringatan kepada kamu, dan supaya kamu bertaqwa dan juga supaya kamu beroleh rahmat?\"."
+                },
+                {
+                    "id": 1091994,
+                    "resource_id": 161,
+                    "text": "‘তোমরা কি এ বিষয়ে বিস্ময় প্রকাশ করছ যে তোমাদের মধ্যেকার একজন লোকের নিকট তোমাদের জন্য তোমাদের প্রতিপালকের নিকট হতে উপদেশ বাণী এসেছে তোমাদেরকে সতর্ক করার জন্য যাতে তোমরা তাক্বওয়া অবলম্বন করে আল্লাহর রহমতপ্রাপ্ত হতে পার।’"
+                }
+            ]
+        },
+        {
+            "id": 1018,
+            "verse_number": 64,
+            "verse_key": "7:64",
+            "hizb_number": 16,
+            "rub_el_hizb_number": 63,
+            "ruku_number": 129,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "فَكَذَّبُوهُ فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ فِى ٱلْفُلْكِ وَأَغْرَقْنَا ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَآ ۚ إِنَّهُمْ كَانُوا۟ قَوْمًا عَمِينَ",
+            "page_number": 158,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 101628,
+                    "resource_id": 20,
+                    "text": "But they denied him, so We saved him and those who were with him in the ship. And We drowned those who denied Our signs. Indeed, they were a blind people.<sup foot_note=196303>1</sup>"
+                },
+                {
+                    "id": 219458,
+                    "resource_id": 39,
+                    "text": "Mereka terus mendustakannya, lalu Kami selamatkan dia dan orang-orang yang bersamanya di dalam bahtera, dan Kami karamkan orang-orang yang mendustakan ayat-ayat kami. Sesungguhnya mereka adalah kaum yang buta (matahatinya daripada melihat kebenaran)"
+                },
+                {
+                    "id": 1091995,
+                    "resource_id": 161,
+                    "text": "কিন্তু তারা তাকে (মিথ্যেবাদী মনে করে) অস্বীকার করল। অতঃপর আমি তাকে আর তার সঙ্গে নৌকায় যারা ছিল তাদেরকে বাঁচিয়ে দিলাম আর আমার আয়াতগুলোকে যারা অস্বীকার করেছিল তাদেরকে ডুবিয়ে মারলাম। তারা ছিল এক অন্ধ সম্প্রদায়।"
+                }
+            ]
+        },
+        {
+            "id": 1019,
+            "verse_number": 65,
+            "verse_key": "7:65",
+            "hizb_number": 16,
+            "rub_el_hizb_number": 64,
+            "ruku_number": 130,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "۞ وَإِلَىٰ عَادٍ أَخَاهُمْ هُودًا ۗ قَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَـٰهٍ غَيْرُهُۥٓ ۚ أَفَلَا تَتَّقُونَ",
+            "page_number": 158,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 101630,
+                    "resource_id": 20,
+                    "text": "And to the ʿAad [We sent] their brother Hūd. He said, \"O my people, worship Allāh; you have no deity other than Him. Then will you not fear Him?\""
+                },
+                {
+                    "id": 219460,
+                    "resource_id": 39,
+                    "text": "Dan kepada kaum Aad, (Kami utuskan) saudara mereka: Nabi Hud. Ia berkata: \"Wahai kaumku! Sembahlah kamu akan Allah, (sebenarnya) tidak ada Tuhan bagi kamu selain daripadaNya. Oleh itu, tidakkah kamu mahu bertaqwa kepadaNya? \""
+                },
+                {
+                    "id": 1091996,
+                    "resource_id": 161,
+                    "text": "আর ‘আদ জাতির কাছে (পাঠিয়েছিলাম) তাদের ভাই হূদকে। সে বলেছিল, ‘হে আমার সম্প্রদায়! তোমরা আল্লাহর ‘ইবাদাত কর, তিনি ছাড়া তোমাদের অন্য কোন ইলাহ নেই, তোমরা কি তাক্বওয়া অবলম্বন করবে না?’"
+                }
+            ]
+        },
+        {
+            "id": 1020,
+            "verse_number": 66,
+            "verse_key": "7:66",
+            "hizb_number": 16,
+            "rub_el_hizb_number": 64,
+            "ruku_number": 130,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ ٱلْمَلَأُ ٱلَّذِينَ كَفَرُوا۟ مِن قَوْمِهِۦٓ إِنَّا لَنَرَىٰكَ فِى سَفَاهَةٍ وَإِنَّا لَنَظُنُّكَ مِنَ ٱلْكَـٰذِبِينَ",
+            "page_number": 158,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 101632,
+                    "resource_id": 20,
+                    "text": "Said the eminent ones who disbelieved among his people, \"Indeed, we see you in foolishness, and indeed, we think you are of the liars.\""
+                },
+                {
+                    "id": 219468,
+                    "resource_id": 39,
+                    "text": "Ketua-ketua yang kafir dari kaumnya berkata: \"Sesungguhnya kami (wahai Hud) nampakmu berada dalam kebodohan, dan sesungguhnya kami fikir engkau adalah dari orang-orang yang berdusta\"."
+                },
+                {
+                    "id": 1091997,
+                    "resource_id": 161,
+                    "text": "তার জাতির প্রধানগণ- যারা ইমান আনতে অস্বীকার করেছিল, বলল, ‘তুমি নিশ্চিতই নির্বুদ্ধিতায় ডুবে আছ, আর আমরা মনে করি তুমি মিথ্যেবাদী।’"
+                }
+            ]
+        },
+        {
+            "id": 1021,
+            "verse_number": 67,
+            "verse_key": "7:67",
+            "hizb_number": 16,
+            "rub_el_hizb_number": 64,
+            "ruku_number": 130,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ يَـٰقَوْمِ لَيْسَ بِى سَفَاهَةٌ وَلَـٰكِنِّى رَسُولٌ مِّن رَّبِّ ٱلْعَـٰلَمِينَ",
+            "page_number": 158,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 101634,
+                    "resource_id": 20,
+                    "text": "[Hūd] said, \"O my people, there is not foolishness in me, but I am a messenger from the Lord of the worlds."
+                },
+                {
+                    "id": 219463,
+                    "resource_id": 39,
+                    "text": "Nabi Hud menjawab: \"Wahai kaumku! Tidak ada padaku sebarang kebodohan, tetapi aku adalah seorang Rasul dari Tuhan sekalian alam."
+                },
+                {
+                    "id": 1091998,
+                    "resource_id": 161,
+                    "text": "সে বলল, ‘হে আমার সম্প্রদায়! আমার মাঝে কোন নির্বুদ্ধিতা নেই, বরং আমি বিশ্বজগতের প্রতিপালকের প্রেরিত রসূল।’"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 10
+    }
+}

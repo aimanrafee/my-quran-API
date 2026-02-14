@@ -1,0 +1,371 @@
+{
+    "verses": [
+        {
+            "id": 3679,
+            "verse_number": 19,
+            "verse_key": "35:19",
+            "hizb_number": 44,
+            "rub_el_hizb_number": 175,
+            "ruku_number": 380,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ",
+            "page_number": 437,
+            "juz_number": 22,
+            "translations": [
+                {
+                    "id": 99019,
+                    "resource_id": 20,
+                    "text": "Not equal are the blind and the seeing,"
+                },
+                {
+                    "id": 216908,
+                    "resource_id": 39,
+                    "text": "Dan tidaklah sama orang buat dengan orang yang melihat."
+                },
+                {
+                    "id": 1094656,
+                    "resource_id": 161,
+                    "text": "অন্ধ আর চোখওয়ালা সমান নয়।"
+                }
+            ]
+        },
+        {
+            "id": 3680,
+            "verse_number": 20,
+            "verse_key": "35:20",
+            "hizb_number": 44,
+            "rub_el_hizb_number": 175,
+            "ruku_number": 380,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَا ٱلظُّلُمَـٰتُ وَلَا ٱلنُّورُ",
+            "page_number": 437,
+            "juz_number": 22,
+            "translations": [
+                {
+                    "id": 99022,
+                    "resource_id": 20,
+                    "text": "Nor are the darknesses and the light,"
+                },
+                {
+                    "id": 216911,
+                    "resource_id": 39,
+                    "text": "Dan tidaklah sama gelap-gelita dengan cahaya yang terang-benderang,"
+                },
+                {
+                    "id": 1094657,
+                    "resource_id": 161,
+                    "text": "আর অন্ধকার ও আলোও (সমান নয়)।"
+                }
+            ]
+        },
+        {
+            "id": 3681,
+            "verse_number": 21,
+            "verse_key": "35:21",
+            "hizb_number": 44,
+            "rub_el_hizb_number": 175,
+            "ruku_number": 380,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَا ٱلظِّلُّ وَلَا ٱلْحَرُورُ",
+            "page_number": 437,
+            "juz_number": 22,
+            "translations": [
+                {
+                    "id": 99023,
+                    "resource_id": 20,
+                    "text": "Nor are the shade and the heat,<sup foot_note=197143>1</sup>"
+                },
+                {
+                    "id": 216912,
+                    "resource_id": 39,
+                    "text": "Dan tidaklah sama suasana yang teduh dengan yang kencang panasnya."
+                },
+                {
+                    "id": 1094658,
+                    "resource_id": 161,
+                    "text": "আর ছায়া ও রোদও (সমান নয়)।"
+                }
+            ]
+        },
+        {
+            "id": 3682,
+            "verse_number": 22,
+            "verse_key": "35:22",
+            "hizb_number": 44,
+            "rub_el_hizb_number": 175,
+            "ruku_number": 380,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا يَسْتَوِى ٱلْأَحْيَآءُ وَلَا ٱلْأَمْوَٰتُ ۚ إِنَّ ٱللَّهَ يُسْمِعُ مَن يَشَآءُ ۖ وَمَآ أَنتَ بِمُسْمِعٍ مَّن فِى ٱلْقُبُورِ",
+            "page_number": 437,
+            "juz_number": 22,
+            "translations": [
+                {
+                    "id": 98772,
+                    "resource_id": 20,
+                    "text": "And not equal are the living and the dead. Indeed, Allāh causes to hear whom He wills, but you cannot make hear those in the graves.<sup foot_note=197144>1</sup>"
+                },
+                {
+                    "id": 216913,
+                    "resource_id": 39,
+                    "text": "Dan (Demikianlah pula) tidaklah sama orang-orang yang hidup dengan orang-orang yang mati. Sesungguhnya Allah, (menurut undang-undang peraturanNya), dapat menjadikan sesiapa yang dikehendakinya mendengar (ajaran-ajaran Kitab Allah serta menerimanya), dan (engkau wahai Muhammad) tidak dapat menjadikan orang-orang yang di dalam kubur mendengar (dan menerimanya)."
+                },
+                {
+                    "id": 1094659,
+                    "resource_id": 161,
+                    "text": "আর জীবিত ও মৃতও সমান নয়। আল্লাহ যাকে ইচ্ছে করেন শোনান; যারা ক্ববরে আছে তুমি তাদেরকে শোনাতে পার না।"
+                }
+            ]
+        },
+        {
+            "id": 3683,
+            "verse_number": 23,
+            "verse_key": "35:23",
+            "hizb_number": 44,
+            "rub_el_hizb_number": 175,
+            "ruku_number": 380,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "إِنْ أَنتَ إِلَّا نَذِيرٌ",
+            "page_number": 437,
+            "juz_number": 22,
+            "translations": [
+                {
+                    "id": 96844,
+                    "resource_id": 20,
+                    "text": "You, [O Muḥammad], are not but a warner."
+                },
+                {
+                    "id": 216914,
+                    "resource_id": 39,
+                    "text": "Engkau tidak lain hanyalah seorang Rasul pemberi ingatan dan amaran."
+                },
+                {
+                    "id": 1094660,
+                    "resource_id": 161,
+                    "text": "তুমি তো কেবল একজন সতর্ককারী।"
+                }
+            ]
+        },
+        {
+            "id": 3684,
+            "verse_number": 24,
+            "verse_key": "35:24",
+            "hizb_number": 44,
+            "rub_el_hizb_number": 175,
+            "ruku_number": 380,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّآ أَرْسَلْنَـٰكَ بِٱلْحَقِّ بَشِيرًا وَنَذِيرًا ۚ وَإِن مِّنْ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِيرٌ",
+            "page_number": 437,
+            "juz_number": 22,
+            "translations": [
+                {
+                    "id": 99024,
+                    "resource_id": 20,
+                    "text": "Indeed, We have sent you with the truth as a bringer of good tidings and a warner. And there was no nation but that there had passed within it a warner."
+                },
+                {
+                    "id": 216917,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Kami mengutusmu dengan (Ugama) yang benar, sebagai pembawa berita gembira (kepada orang-orang yang beriman) dan pemberi amaran (kepada orang-orang yang ingkar); dan tidak ada, sesuatu umat pun melainkan telah ada dalam kalangannya dahulu seorang Rasul pemberi ingatan dan amaran."
+                },
+                {
+                    "id": 1094661,
+                    "resource_id": 161,
+                    "text": "আমি তোমাকে সত্যসহ পাঠিয়েছি সুসংবাদদাতা ও সতর্ককারীরূপে। এমন কোন সম্প্রদায় নেই যাতে সতর্ককারী আসেনি।"
+                }
+            ]
+        },
+        {
+            "id": 3685,
+            "verse_number": 25,
+            "verse_key": "35:25",
+            "hizb_number": 44,
+            "rub_el_hizb_number": 175,
+            "ruku_number": 380,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِن يُكَذِّبُوكَ فَقَدْ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ جَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَـٰتِ وَبِٱلزُّبُرِ وَبِٱلْكِتَـٰبِ ٱلْمُنِيرِ",
+            "page_number": 437,
+            "juz_number": 22,
+            "translations": [
+                {
+                    "id": 99025,
+                    "resource_id": 20,
+                    "text": "And if they deny you - then already have those before them denied. Their messengers came to them with clear proofs and written ordinances and with the enlightening Scripture."
+                },
+                {
+                    "id": 216898,
+                    "resource_id": 39,
+                    "text": "Dan jika mereka (yang kafir itu) mendustakanmu, (maka yang demikian itu tidaklah menjadi hal) kerana sesungguhnya orang-orang yang terdahulu sebelum mereka telah juga mendustakan (Rasul masing-masing), mereka telah didatangi Rasul-rasulnya dengan membawa keterangan-keterangan (mukjizat) yang nyata dan Kitab-kitab (nasihat pengajaran) serta Kitab-kitab (syariat) yang terang jelas."
+                },
+                {
+                    "id": 1094662,
+                    "resource_id": 161,
+                    "text": "তারা যদি তোমাকে মিথ্যে ব’লে অস্বীকার করে, (তাহলে জেনে রেখ, এটা কোন নতুন ব্যাপার নয়, কারণ) তাদের পূর্ববর্তীরাও (নবী-রসূলদেরকে) মিথ্যে ব’লে অস্বীকার করেছিল। তাদের কাছে তাদের রসূলগণ সুস্পষ্ট নিদর্শন, লিখিত দলীল ও আলোকপ্রদ কিতাব নিয়ে এসেছিল।"
+                }
+            ]
+        },
+        {
+            "id": 3686,
+            "verse_number": 26,
+            "verse_key": "35:26",
+            "hizb_number": 44,
+            "rub_el_hizb_number": 175,
+            "ruku_number": 380,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "ثُمَّ أَخَذْتُ ٱلَّذِينَ كَفَرُوا۟ ۖ فَكَيْفَ كَانَ نَكِيرِ",
+            "page_number": 437,
+            "juz_number": 22,
+            "translations": [
+                {
+                    "id": 99026,
+                    "resource_id": 20,
+                    "text": "Then I seized the ones who disbelieved, and how [terrible] was My reproach."
+                },
+                {
+                    "id": 214790,
+                    "resource_id": 39,
+                    "text": "Kemudian Aku timpakan orang-orang kafir itu dengan azab yang membinasakan, maka perhatikanlah bagaimana buruknya akibat kemurkaanKu (menimpa mereka)."
+                },
+                {
+                    "id": 1094663,
+                    "resource_id": 161,
+                    "text": "যারা কুফরী করেছিল, অতঃপর আমি তাদেরকে পাকড়াও করেছিলাম। কী (ভয়ংকর) ছিল আমার শাস্তি!"
+                }
+            ]
+        },
+        {
+            "id": 3687,
+            "verse_number": 27,
+            "verse_key": "35:27",
+            "hizb_number": 44,
+            "rub_el_hizb_number": 175,
+            "ruku_number": 381,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "أَلَمْ تَرَ أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَخْرَجْنَا بِهِۦ ثَمَرَٰتٍ مُّخْتَلِفًا أَلْوَٰنُهَا ۚ وَمِنَ ٱلْجِبَالِ جُدَدٌۢ بِيضٌ وَحُمْرٌ مُّخْتَلِفٌ أَلْوَٰنُهَا وَغَرَابِيبُ سُودٌ",
+            "page_number": 437,
+            "juz_number": 22,
+            "translations": [
+                {
+                    "id": 99027,
+                    "resource_id": 20,
+                    "text": "Do you not see that Allāh sends down rain from the sky, and We produce thereby fruits of varying colors? And in the mountains are tracts, white and red of varying shades and [some] extremely black."
+                },
+                {
+                    "id": 216883,
+                    "resource_id": 39,
+                    "text": "Tidakkah engkau melihat bahawa Allah menurunkan hujan dari langit, lalu Kami keluarkan dengan air hujan itu buah-buahan yang berlainan jenis dan rupanya; dan di antara gunung-ganang pula ada yang mempunyai jalur-jalur serta lorong-lorong putih dan merah, yang berlainan warnanya (tua dan muda) dan ada juga yang hitam legam;"
+                },
+                {
+                    "id": 1094664,
+                    "resource_id": 161,
+                    "text": "তুমি কি দেখ না যে, আল্লাহ আকাশ হতে পানি বর্ষণ করেন, অতঃপর আমি তা দিয়ে রং বেরংয়ের ফলমূল উদগত করি। পাহাড়ের মধ্যে আছে বিভিন্ন বর্ণের গিরিপথ- সাদা, লাল আর নিকষ কালো।"
+                }
+            ]
+        },
+        {
+            "id": 3688,
+            "verse_number": 28,
+            "verse_key": "35:28",
+            "hizb_number": 44,
+            "rub_el_hizb_number": 175,
+            "ruku_number": 381,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَمِنَ ٱلنَّاسِ وَٱلدَّوَآبِّ وَٱلْأَنْعَـٰمِ مُخْتَلِفٌ أَلْوَٰنُهُۥ كَذَٰلِكَ ۗ إِنَّمَا يَخْشَى ٱللَّهَ مِنْ عِبَادِهِ ٱلْعُلَمَـٰٓؤُا۟ ۗ إِنَّ ٱللَّهَ عَزِيزٌ غَفُورٌ",
+            "page_number": 437,
+            "juz_number": 22,
+            "translations": [
+                {
+                    "id": 99028,
+                    "resource_id": 20,
+                    "text": "And among people and moving creatures and grazing livestock are various colors similarly. Only those fear Allāh, from among His servants, who have knowledge. Indeed, Allāh is Exalted in Might and Forgiving."
+                },
+                {
+                    "id": 216884,
+                    "resource_id": 39,
+                    "text": "Dan demikian pula di antara manusia dan binatang-binatang yang melata serta binatang-binatang ternak, ada yang berlainan jenis dan warnanya? Sebenarnya yang menaruh bimbang dan takut (melanggar perintah) Allah dari kalangan hamba-hambaNya hanyalah orang-orang yang berilmu. Sesungguhnya Allah Maha Kuasa, lagi Maha Pengampun."
+                },
+                {
+                    "id": 1094665,
+                    "resource_id": 161,
+                    "text": "তেমনিভাবে মানুষ, জীব-জন্তু আর গৃহপালিত পশুদের মধ্যেও রয়েছে তাদের বিভিন্ন রং। আল্লাহর বান্দাহদের মধ্যে তারাই তাঁকে ভয় করে যারা জ্ঞানী। আল্লাহ মহা ক্ষমতাশালী, পরম দয়ালু।"
+                }
+            ]
+        },
+        {
+            "id": 3689,
+            "verse_number": 29,
+            "verse_key": "35:29",
+            "hizb_number": 44,
+            "rub_el_hizb_number": 175,
+            "ruku_number": 381,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ ٱلَّذِينَ يَتْلُونَ كِتَـٰبَ ٱللَّهِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَنفَقُوا۟ مِمَّا رَزَقْنَـٰهُمْ سِرًّا وَعَلَانِيَةً يَرْجُونَ تِجَـٰرَةً لَّن تَبُورَ",
+            "page_number": 437,
+            "juz_number": 22,
+            "translations": [
+                {
+                    "id": 99029,
+                    "resource_id": 20,
+                    "text": "Indeed, those who recite the Book of Allāh and establish prayer and spend [in His cause] out of what We have provided them, secretly and publicly, [can] expect a transaction [i.e., profit] that will never perish -"
+                },
+                {
+                    "id": 216885,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya orang-orang yang selalu membaca Kitab Allah dan tetap mendirikan sembahyang serta mendermakan dari apa yang Kami kurniakan kepada mereka, secara bersembunyi atau secara terbuka, mereka (dengan amalan yang demikian) mengharapkan sejenis perniagaan yang tidak akan mengalami kerugian;"
+                },
+                {
+                    "id": 1094666,
+                    "resource_id": 161,
+                    "text": "যারা আল্লাহর কিতাব তিলাওয়াত করে, নামায প্রতিষ্ঠা করে আর আল্লাহ তাদেরকে যে রিযক দিয়েছেন তাথেকে গোপনে ও প্রকাশ্যে ব্যয় করে, তারা এমন এক ব্যবসায়ের আশা করে যাতে কক্ষনো লোকসান হবে না।"
+                }
+            ]
+        },
+        {
+            "id": 3690,
+            "verse_number": 30,
+            "verse_key": "35:30",
+            "hizb_number": 44,
+            "rub_el_hizb_number": 175,
+            "ruku_number": 381,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "لِيُوَفِّيَهُمْ أُجُورَهُمْ وَيَزِيدَهُم مِّن فَضْلِهِۦٓ ۚ إِنَّهُۥ غَفُورٌ شَكُورٌ",
+            "page_number": 437,
+            "juz_number": 22,
+            "translations": [
+                {
+                    "id": 99032,
+                    "resource_id": 20,
+                    "text": "That He may give them in full their rewards and increase for them of His bounty. Indeed, He is Forgiving and Appreciative.<sup foot_note=197145>1</sup>"
+                },
+                {
+                    "id": 216888,
+                    "resource_id": 39,
+                    "text": "Supaya Allah menyempurnakan pahala mereka dan menambahi mereka dari limpah kurniaNya. Sesungguhnya Allah Maha Pengampun, lagi sentiasa membalas dengan sebaik-baiknya (akan orang-orang yang bersyukur kepadaNya)."
+                },
+                {
+                    "id": 1094667,
+                    "resource_id": 161,
+                    "text": "কারণ, তিনি তাদেরকে তাদের প্রতিফল পূর্ণমাত্রায় দান করবেন এবং নিজ অনুগ্রহে আরো বেশি দিবেন। তিনি অতি ক্ষমাশীল, (ভাল কাজের) বড়ই মর্যাদাদানকারী।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 12,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 12
+    }
+}

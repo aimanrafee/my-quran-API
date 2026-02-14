@@ -1,0 +1,191 @@
+{
+    "verses": [
+        {
+            "id": 908,
+            "verse_number": 119,
+            "verse_key": "6:119",
+            "hizb_number": 15,
+            "rub_el_hizb_number": 57,
+            "ruku_number": 115,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا لَكُمْ أَلَّا تَأْكُلُوا۟ مِمَّا ذُكِرَ ٱسْمُ ٱللَّهِ عَلَيْهِ وَقَدْ فَصَّلَ لَكُم مَّا حَرَّمَ عَلَيْكُمْ إِلَّا مَا ٱضْطُرِرْتُمْ إِلَيْهِ ۗ وَإِنَّ كَثِيرًا لَّيُضِلُّونَ بِأَهْوَآئِهِم بِغَيْرِ عِلْمٍ ۗ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِٱلْمُعْتَدِينَ",
+            "page_number": 143,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 100875,
+                    "resource_id": 20,
+                    "text": "And why should you not eat of that upon which the name of Allāh has been mentioned while He has explained in detail to you what He has forbidden you, excepting that to which you are compelled.<sup foot_note=196264>1</sup> And indeed do many lead [others] astray through their [own] inclinations without knowledge. Indeed, your Lord - He is most knowing of the transgressors."
+                },
+                {
+                    "id": 218727,
+                    "resource_id": 39,
+                    "text": "Dan tidak ada sebab bagi kamu, (yang menjadikan) kamu tidak mahu makan dari (sembelihan binatang-binatang halal) yang disebut nama Allah ketika menyembelihnya, padahal Allah telah menerangkan satu persatu kepada kamu apa yang diharamkanNya atas kamu, kecuali apa yang kamu terpaksa memakannya? Dan sesungguhnya kebanyakan manusia hendak menyesatkan dengan hawa nafsu mereka dengan tidak berdasarkan pengetahuan. Sesungguhnya Tuhanmu, Dia lah yang lebih mengetahui akan orang-orang yang melampaui batas."
+                },
+                {
+                    "id": 1091885,
+                    "resource_id": 161,
+                    "text": "তোমাদের কী হয়েছে যে, যাতে আল্লাহর নাম নেয়া হয়েছে তা তোমরা খাবে না? তোমাদের জন্য যা হারাম করা হয়েছে তা তোমাদের জন্য বিশদভাবে বাতলে দেয়া হয়েছে, তবে যদি তোমরা নিরুপায় হও (তবে ততটুকু নিষিদ্ধ বস্তু খেতে পার যাতে প্রাণে বাঁচতে পার), কিন্তু অনেক লোকই অজ্ঞানতাবশতঃ তাদের খেয়াল খুশী দ্বারা অবশ্যই (অন্যদেরকে) পথভ্রষ্ট করে, তোমার প্রতিপালক সীমালঙ্ঘনকারীদের সম্পর্কে সবচেয়ে বেশি অবগত।"
+                }
+            ]
+        },
+        {
+            "id": 909,
+            "verse_number": 120,
+            "verse_key": "6:120",
+            "hizb_number": 15,
+            "rub_el_hizb_number": 57,
+            "ruku_number": 115,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَذَرُوا۟ ظَـٰهِرَ ٱلْإِثْمِ وَبَاطِنَهُۥٓ ۚ إِنَّ ٱلَّذِينَ يَكْسِبُونَ ٱلْإِثْمَ سَيُجْزَوْنَ بِمَا كَانُوا۟ يَقْتَرِفُونَ",
+            "page_number": 143,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 100878,
+                    "resource_id": 20,
+                    "text": "And leave [i.e., desist from] what is apparent of sin and what is concealed thereof. Indeed, those who earn [blame for] sin will be recompensed for that which they used to commit."
+                },
+                {
+                    "id": 218730,
+                    "resource_id": 39,
+                    "text": "Dan tinggalkanlah kamu dosa yang nyata dan yang tersembunyi. Kerana sesungguhnya orang-orang yang berusaha melakukan dosa, mereka akan dibalas dengan apa yang mereka telah lakukan."
+                },
+                {
+                    "id": 1091886,
+                    "resource_id": 161,
+                    "text": "তোমরা প্রকাশ্য ও গোপন পাপ বর্জন কর, যারা পাপ অর্জন করে তারা তাদের অর্জনের যথোচিত প্রতিফল পাবে।"
+                }
+            ]
+        },
+        {
+            "id": 910,
+            "verse_number": 121,
+            "verse_key": "6:121",
+            "hizb_number": 15,
+            "rub_el_hizb_number": 57,
+            "ruku_number": 115,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَا تَأْكُلُوا۟ مِمَّا لَمْ يُذْكَرِ ٱسْمُ ٱللَّهِ عَلَيْهِ وَإِنَّهُۥ لَفِسْقٌ ۗ وَإِنَّ ٱلشَّيَـٰطِينَ لَيُوحُونَ إِلَىٰٓ أَوْلِيَآئِهِمْ لِيُجَـٰدِلُوكُمْ ۖ وَإِنْ أَطَعْتُمُوهُمْ إِنَّكُمْ لَمُشْرِكُونَ",
+            "page_number": 143,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 100879,
+                    "resource_id": 20,
+                    "text": "And do not eat of that upon which the name of Allāh has not been mentioned, for indeed, it is grave disobedience. And indeed do the devils inspire their allies [among men] to dispute with you. And if you were to obey them, indeed, you would be associators [of others with Him].<sup foot_note=196265>1</sup>"
+                },
+                {
+                    "id": 218731,
+                    "resource_id": 39,
+                    "text": "Dan janganlah kamu makan dari (sembelihan binatang-binatang halal) yang tidak disebut nama Allah ketika menyembelihnya, kerana sesungguhnya yang sedemikian itu adalah perbuatan fasik (berdosa); dan sesungguhnya Syaitan-syaitan itu membisikkan kepada pengikut-pengikutnya, supaya mereka membantah (menghasut) kamu; dan jika kamu menurut hasutan mereka (untuk menghalalkan yang haram itu), sesungguhnya kamu tetap menjadi orang-orang musyrik."
+                },
+                {
+                    "id": 1091887,
+                    "resource_id": 161,
+                    "text": "যাতে (যবহ করার সময়) আল্লাহর নাম নেয়া হয়নি তা তোমরা মোটেই খাবে না, তা হচ্ছে পাপাচার, শায়ত্বনেরা তাদের বন্ধুদেরকে তোমাদের সঙ্গে তর্ক-ঝগড়া করার জন্য প্ররোচিত করে; যদি তোমরা তাদের কথা মান্য করে চল তাহলে তোমরা অবশ্যই মুশরিক হয়ে যাবে।"
+                }
+            ]
+        },
+        {
+            "id": 911,
+            "verse_number": 122,
+            "verse_key": "6:122",
+            "hizb_number": 15,
+            "rub_el_hizb_number": 57,
+            "ruku_number": 116,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "أَوَمَن كَانَ مَيْتًا فَأَحْيَيْنَـٰهُ وَجَعَلْنَا لَهُۥ نُورًا يَمْشِى بِهِۦ فِى ٱلنَّاسِ كَمَن مَّثَلُهُۥ فِى ٱلظُّلُمَـٰتِ لَيْسَ بِخَارِجٍ مِّنْهَا ۚ كَذَٰلِكَ زُيِّنَ لِلْكَـٰفِرِينَ مَا كَانُوا۟ يَعْمَلُونَ",
+            "page_number": 143,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 100880,
+                    "resource_id": 20,
+                    "text": "And is one who was dead and We gave him life and made for him light by which to walk among the people like one who is in darkness, never to emerge therefrom? Thus it has been made pleasing to the disbelievers that which they were doing."
+                },
+                {
+                    "id": 218732,
+                    "resource_id": 39,
+                    "text": "Dan adakah orang yang mati (hatinya dengan kufur), kemudian Kami hidupkan dia semula (dengan hidayah petunjuk), dan Kami jadikan baginya cahaya (iman) yang menerangi (sehingga dapatlah ia membezakan antara yang benar dengan yang salah, dan dapatlah) ia berjalan dengan suluhan cahaya itu dalam masyarakat manusia, (adakah orang yang demikian keadaannya) sama seperti yang tinggal tetap di dalam gelap-gelita (kufur), yang tidak dapat keluar sama sekali daripadanya? Demikianlah (sebagaimana iman itu diperlihatkan keelokannya kepada orang-orang yang beriman), diperlihatkan pula pada pandangan orang-orang yang kafir itu akan keelokan apa yang mereka telah lakukan (dari perbuatan kufur dan segala jenis maksiat)."
+                },
+                {
+                    "id": 1091888,
+                    "resource_id": 161,
+                    "text": "যে ব্যক্তি মৃত ছিল, তাকে আমি জীবিত করলাম, তার জন্য আলোর ব্যবস্থা করলাম যার সাহায্যে সে মানুষের মাঝে চলাফেরা করে, সে কি তার মত যে অন্ধকারে নিমজ্জিত, যাত্থেকে সে কক্ষনো বেরিয়ে আসতে পারবে না। এটা এজন্য যে, কাফিররা যা করছে তা তাদের জন্য চাকচিক্যময় করে দেয়া হয়েছে।"
+                }
+            ]
+        },
+        {
+            "id": 912,
+            "verse_number": 123,
+            "verse_key": "6:123",
+            "hizb_number": 15,
+            "rub_el_hizb_number": 57,
+            "ruku_number": 116,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَكَذَٰلِكَ جَعَلْنَا فِى كُلِّ قَرْيَةٍ أَكَـٰبِرَ مُجْرِمِيهَا لِيَمْكُرُوا۟ فِيهَا ۖ وَمَا يَمْكُرُونَ إِلَّا بِأَنفُسِهِمْ وَمَا يَشْعُرُونَ",
+            "page_number": 143,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 100881,
+                    "resource_id": 20,
+                    "text": "And thus We have placed within every city the greatest of its criminals to conspire therein. But they conspire not except against themselves, and they perceive [it] not."
+                },
+                {
+                    "id": 214889,
+                    "resource_id": 39,
+                    "text": "Dan demikianlah Kami adakan dalam tiap-tiap negeri orang-orang besar yang jahat supaya mereka melakukan tipu daya di negeri itu, padahal tiadalah mereka memperdayakan selain dari dirinya sendiri (kerana merekalah yang akan menerima akibatnya yang buruk), sedang mereka tidak menyedarinya."
+                },
+                {
+                    "id": 1091889,
+                    "resource_id": 161,
+                    "text": "এভাবে আমি প্রত্যেক জনপদে সেখানকার অপরাধী প্রধানদেরকে চক্রান্তজাল বিস্তার করার সুযোগ দিয়েছি, কিন্তু এ চক্রান্তের ফাঁদে তারা নিজেরাই পতিত হয়, কিন্তু সেটা তারা উপলব্ধিই করতে পারে না।"
+                }
+            ]
+        },
+        {
+            "id": 913,
+            "verse_number": 124,
+            "verse_key": "6:124",
+            "hizb_number": 15,
+            "rub_el_hizb_number": 57,
+            "ruku_number": 116,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا جَآءَتْهُمْ ءَايَةٌ قَالُوا۟ لَن نُّؤْمِنَ حَتَّىٰ نُؤْتَىٰ مِثْلَ مَآ أُوتِىَ رُسُلُ ٱللَّهِ ۘ ٱللَّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُۥ ۗ سَيُصِيبُ ٱلَّذِينَ أَجْرَمُوا۟ صَغَارٌ عِندَ ٱللَّهِ وَعَذَابٌ شَدِيدٌۢ بِمَا كَانُوا۟ يَمْكُرُونَ",
+            "page_number": 143,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 100882,
+                    "resource_id": 20,
+                    "text": "And when a sign comes to them, they say, \"Never will we believe until we are given like that which was given to the messengers of Allāh.\" Allāh is most knowing of where [i.e., with whom] He places His message. There will afflict those who committed crimes debasement before Allāh and severe punishment for what they used to conspire."
+                },
+                {
+                    "id": 218733,
+                    "resource_id": 39,
+                    "text": "Dan apabila datang kepada mereka sesuatu keterangan, mereka berkata: \"Kami tidak akan beriman sehingga kami juga diberi (wahyu) sama seperti yang telah diberikan kepada pesuruh-pesuruh Allah\". Allah lebih mengetahui di mana (dan kepada siapakah yang sepatutnya) Ia berikan jawatan Rasul (dan wahyu) yang diberikanNya itu. Orang-orang yang melakukan perbuatan yang salah itu akan ditimpa kehinaan di sisi Allah, dan azab seksa yang amat berat, disebabkan perbuatan tipu daya yang mereka lakukan."
+                },
+                {
+                    "id": 1091890,
+                    "resource_id": 161,
+                    "text": "যখন তাদের কাছে কোন নিদর্শন আসে তখন তারা বলে, ‘আমরা কক্ষনো বিশ্বাস করব না যতক্ষণ না আমাদেরকে তা দেয়া হয় যা আল্লাহর রসূলগণকে দেয়া হয়েছিল। (নির্বোধেরা এ আবদার করলেও) আল্লাহ খুব ভালভাবেই জানেন তাঁর রিসালাতের দায়িত্ব কোথায় দিতে হবে, অপরাধীরা শীঘ্রই তাদের চক্রান্তের প্রতিফল হিসেবে আল্লাহর পক্ষ হতে লাঞ্ছনা ও কঠিন শাস্তির সম্মুখীন হবে।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 6,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 6
+    }
+}

@@ -1,0 +1,581 @@
+{
+    "verses": [
+        {
+            "id": 1854,
+            "verse_number": 52,
+            "verse_key": "15:52",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 106,
+            "ruku_number": 221,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "إِذْ دَخَلُوا۟ عَلَيْهِ فَقَالُوا۟ سَلَـٰمًا قَالَ إِنَّا مِنكُمْ وَجِلُونَ",
+            "page_number": 265,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96753,
+                    "resource_id": 20,
+                    "text": "When they entered upon him and said, \"Peace.\" [Abraham] said, \"Indeed, we are fearful [i.e., apprehensive] of you.\""
+                },
+                {
+                    "id": 220730,
+                    "resource_id": 39,
+                    "text": "Ketika mereka masuk mendapatkannya lalu memberi salam dengan berkata: \"Selamat sejahtera kepadamu!\" Ia berkata: \"Sesungguhnya kami berasa takut kepada kamu\"."
+                },
+                {
+                    "id": 1092831,
+                    "resource_id": 161,
+                    "text": "তারা যখন তার কাছে উপস্থিত হল তখন তারা বলল, ‘তোমার প্রতি সালাম।’ তখন সে বলল, ‘তোমাদের দেখে আমরা শংকিত।’"
+                }
+            ]
+        },
+        {
+            "id": 1855,
+            "verse_number": 53,
+            "verse_key": "15:53",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 106,
+            "ruku_number": 221,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "قَالُوا۟ لَا تَوْجَلْ إِنَّا نُبَشِّرُكَ بِغُلَـٰمٍ عَلِيمٍ",
+            "page_number": 265,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96754,
+                    "resource_id": 20,
+                    "text": "[The angels] said, \"Fear not. Indeed, we give you good tidings of a learned boy.\""
+                },
+                {
+                    "id": 220729,
+                    "resource_id": 39,
+                    "text": "Mereka menjawab: \"Janganlah engkau takut, sebenarnya kami hendak mengembirakanmu dengan berita bahawa engkau akan beroleh seorang anak lelaki yang bakal menjadi seorang yang berilmu\"."
+                },
+                {
+                    "id": 1092832,
+                    "resource_id": 161,
+                    "text": "তারা বলল, ‘শংকা করো না, আমরা তোমাকে এক জ্ঞানী পুত্রের সুখবর দিচ্ছি।’"
+                }
+            ]
+        },
+        {
+            "id": 1856,
+            "verse_number": 54,
+            "verse_key": "15:54",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 106,
+            "ruku_number": 221,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ أَبَشَّرْتُمُونِى عَلَىٰٓ أَن مَّسَّنِىَ ٱلْكِبَرُ فَبِمَ تُبَشِّرُونَ",
+            "page_number": 265,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96755,
+                    "resource_id": 20,
+                    "text": "He said, \"Have you given me good tidings although old age has come upon me? Then of what [wonder] do you inform?\""
+                },
+                {
+                    "id": 220732,
+                    "resource_id": 39,
+                    "text": "Nabi Ibrahim berkata: \"Betulkah kamu mengembirakan daku (dengan berita yang demikian), padahal aku telah tua; maka dengan jalan apakah kamu mengembirakan daku?\""
+                },
+                {
+                    "id": 1092833,
+                    "resource_id": 161,
+                    "text": "সে বলল, ‘বার্ধক্য যখন আমাকে স্পর্শ করেছে তখন তোমরা আমাকে সুখবর দিচ্ছ। আচ্ছা, তোমাদের সুখবরটা কী?’"
+                }
+            ]
+        },
+        {
+            "id": 1857,
+            "verse_number": 55,
+            "verse_key": "15:55",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 106,
+            "ruku_number": 221,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "قَالُوا۟ بَشَّرْنَـٰكَ بِٱلْحَقِّ فَلَا تَكُن مِّنَ ٱلْقَـٰنِطِينَ",
+            "page_number": 265,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96756,
+                    "resource_id": 20,
+                    "text": "They said, \"We have given you good tidings in truth, so do not be of the despairing.\""
+                },
+                {
+                    "id": 220764,
+                    "resource_id": 39,
+                    "text": "Mereka menjawab: \"Kami mengembirakanmu dengan jalan yang sungguh benar; oleh itu janganlah engkau menjadi dari orang-orang yang berputus asa\"."
+                },
+                {
+                    "id": 1092834,
+                    "resource_id": 161,
+                    "text": "তারা বলল, ‘তোমাকে আমরা প্রকৃতই সুসংবাদ দিচ্ছি। কাজেই তুমি নিরাশদের অন্তর্ভুক্ত হয়ো না।’"
+                }
+            ]
+        },
+        {
+            "id": 1858,
+            "verse_number": 56,
+            "verse_key": "15:56",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 106,
+            "ruku_number": 221,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ وَمَن يَقْنَطُ مِن رَّحْمَةِ رَبِّهِۦٓ إِلَّا ٱلضَّآلُّونَ",
+            "page_number": 265,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96757,
+                    "resource_id": 20,
+                    "text": "He said, \"And who despairs of the mercy of his Lord except for those astray?\""
+                },
+                {
+                    "id": 220731,
+                    "resource_id": 39,
+                    "text": "Nabi Ibrahim berkata: \"Dan tiadalah sesiapa yang berputus asa dari rahmat Tuhannya melainkan orang-orang yang sesat\"."
+                },
+                {
+                    "id": 1092835,
+                    "resource_id": 161,
+                    "text": "সে বলল, ‘পথভ্রষ্টরা ছাড়া আর কে তার প্রতিপালকের রহমাত থেকে নিরাশ হয়?’"
+                }
+            ]
+        },
+        {
+            "id": 1859,
+            "verse_number": 57,
+            "verse_key": "15:57",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 106,
+            "ruku_number": 221,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ فَمَا خَطْبُكُمْ أَيُّهَا ٱلْمُرْسَلُونَ",
+            "page_number": 265,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96758,
+                    "resource_id": 20,
+                    "text": "[Abraham] said, \"Then what is your business [here], O messengers?\""
+                },
+                {
+                    "id": 220728,
+                    "resource_id": 39,
+                    "text": "Nabi Ibrahim bertanya pula: \"Apa hal kamu wahai Utusan Tuhan?\""
+                },
+                {
+                    "id": 1092836,
+                    "resource_id": 161,
+                    "text": "সে বলল, ‘হে আল্লাহর প্রেরিতরা! তোমরা কোন্ কাজে আগমন করেছ?’"
+                }
+            ]
+        },
+        {
+            "id": 1860,
+            "verse_number": 58,
+            "verse_key": "15:58",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 106,
+            "ruku_number": 221,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "قَالُوٓا۟ إِنَّآ أُرْسِلْنَآ إِلَىٰ قَوْمٍ مُّجْرِمِينَ",
+            "page_number": 265,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96759,
+                    "resource_id": 20,
+                    "text": "They said, \"Indeed, we have been sent to a people of criminals,"
+                },
+                {
+                    "id": 220122,
+                    "resource_id": 39,
+                    "text": "Mereka menjawab: \"Kami diutus kepada suatu kaum yang berdosa (untuk membinasakan mereka)\"."
+                },
+                {
+                    "id": 1092837,
+                    "resource_id": 161,
+                    "text": "তারা বলল, ‘আমরা এক অপরাধী জাতির বিরুদ্ধে প্রেরিত হয়েছি।"
+                }
+            ]
+        },
+        {
+            "id": 1861,
+            "verse_number": 59,
+            "verse_key": "15:59",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 106,
+            "ruku_number": 221,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "إِلَّآ ءَالَ لُوطٍ إِنَّا لَمُنَجُّوهُمْ أَجْمَعِينَ",
+            "page_number": 265,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96760,
+                    "resource_id": 20,
+                    "text": "Except the family of Lot; indeed, we will save them all"
+                },
+                {
+                    "id": 214675,
+                    "resource_id": 39,
+                    "text": "\"Melainkan keluarga Nabi Lut; sesungguhnya kami akan menyelamatkan mereka semuanya, -"
+                },
+                {
+                    "id": 1092838,
+                    "resource_id": 161,
+                    "text": "তবে লূতের পরিবার বাদে, তাদের সবাইকে আমরা অবশ্যই রক্ষা করব।"
+                }
+            ]
+        },
+        {
+            "id": 1862,
+            "verse_number": 60,
+            "verse_key": "15:60",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 106,
+            "ruku_number": 221,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "إِلَّا ٱمْرَأَتَهُۥ قَدَّرْنَآ ۙ إِنَّهَا لَمِنَ ٱلْغَـٰبِرِينَ",
+            "page_number": 265,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96762,
+                    "resource_id": 20,
+                    "text": "Except his wife.\" We [i.e., Allāh] decreed that she is of those who remain behind.<sup foot_note=196594>1</sup>"
+                },
+                {
+                    "id": 220751,
+                    "resource_id": 39,
+                    "text": "\"Kecuali isterinya; kami telah tentukan (menurut keputusan Tuhan) sesungguhnya ia dari orang-orang yang tinggal (menerima kebinasaan)\"."
+                },
+                {
+                    "id": 1092839,
+                    "resource_id": 161,
+                    "text": "তবে তার স্ত্রীকে নয়, আমরা (আল্লাহর নির্দেশক্রমে) তার জন্য নির্ধারিত করে দিয়েছি যে, সে পেছনে থেকে যাওয়া লোকেদের মধ্যে শামিল থাকবে।’"
+                }
+            ]
+        },
+        {
+            "id": 1863,
+            "verse_number": 61,
+            "verse_key": "15:61",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 106,
+            "ruku_number": 222,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "فَلَمَّا جَآءَ ءَالَ لُوطٍ ٱلْمُرْسَلُونَ",
+            "page_number": 265,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96763,
+                    "resource_id": 20,
+                    "text": "And when the messengers came to the family of Lot,"
+                },
+                {
+                    "id": 214973,
+                    "resource_id": 39,
+                    "text": "Maka apabila (malaikat-malaikat) utusan itu datang kepada kaum Nabi Lut,"
+                },
+                {
+                    "id": 1092840,
+                    "resource_id": 161,
+                    "text": "আল্লাহর প্রেরিতরা যখন লূত পরিবারের নিকট আসল,"
+                }
+            ]
+        },
+        {
+            "id": 1864,
+            "verse_number": 62,
+            "verse_key": "15:62",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 106,
+            "ruku_number": 222,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ إِنَّكُمْ قَوْمٌ مُّنكَرُونَ",
+            "page_number": 265,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96764,
+                    "resource_id": 20,
+                    "text": "He said, \"Indeed, you are people unknown.\""
+                },
+                {
+                    "id": 220735,
+                    "resource_id": 39,
+                    "text": "Nabi Lut berkata: \"Sesungguhnya kamu suatu kaum yang tidak dikenali (serta tidak diketahui baiknya kedatangan kamu)\"."
+                },
+                {
+                    "id": 1092841,
+                    "resource_id": 161,
+                    "text": "সে বলল, ‘আপনাদেরকে তো অপরিচিত লোক মনে হচ্ছে।’"
+                }
+            ]
+        },
+        {
+            "id": 1865,
+            "verse_number": 63,
+            "verse_key": "15:63",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 106,
+            "ruku_number": 222,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "قَالُوا۟ بَلْ جِئْنَـٰكَ بِمَا كَانُوا۟ فِيهِ يَمْتَرُونَ",
+            "page_number": 265,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96765,
+                    "resource_id": 20,
+                    "text": "They said, \"But we have come to you with that about which they were disputing,"
+                },
+                {
+                    "id": 220734,
+                    "resource_id": 39,
+                    "text": "Mereka menjawab: \"(Kedatangan kami bukan untuk mendukacitakanmu) bahkan kami datang kepadamu untuk membawa azab yang mereka ragu-ragukan kebenarannya."
+                },
+                {
+                    "id": 1092842,
+                    "resource_id": 161,
+                    "text": "তারা বলল, ‘আমরা তা-ই নিয়ে এসেছি যে ব্যাপারে এ লোকেরা সন্দেহে পতিত ছিল।"
+                }
+            ]
+        },
+        {
+            "id": 1866,
+            "verse_number": 64,
+            "verse_key": "15:64",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 106,
+            "ruku_number": 222,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَتَيْنَـٰكَ بِٱلْحَقِّ وَإِنَّا لَصَـٰدِقُونَ",
+            "page_number": 265,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96766,
+                    "resource_id": 20,
+                    "text": "And we have come to you with truth, and indeed, we are truthful."
+                },
+                {
+                    "id": 220740,
+                    "resource_id": 39,
+                    "text": "\"Juga membawa kepadamu perkara yang benar (tentang kebinasaan mereka); dan sesungguhnya kami adalah orang-orang yang benar \"."
+                },
+                {
+                    "id": 1092843,
+                    "resource_id": 161,
+                    "text": "তোমার কাছে আমরা সত্য নিয়েই এসেছি, আর আমরা অবশ্যই সত্যবাদী।"
+                }
+            ]
+        },
+        {
+            "id": 1867,
+            "verse_number": 65,
+            "verse_key": "15:65",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 106,
+            "ruku_number": 222,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ مِّنَ ٱلَّيْلِ وَٱتَّبِعْ أَدْبَـٰرَهُمْ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ وَٱمْضُوا۟ حَيْثُ تُؤْمَرُونَ",
+            "page_number": 265,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96767,
+                    "resource_id": 20,
+                    "text": "So set out with your family during a portion of the night and follow behind them and let not anyone among you look back and continue on to where you are commanded.\""
+                },
+                {
+                    "id": 220737,
+                    "resource_id": 39,
+                    "text": "\"Oleh itu, bawalah pergi keluargamu pada waktu malam serta ikutlah di belakang mereka; dan janganlah seseorang pun di antara kamu berpaling (ke belakang); serta pergilah terus ke arah yang diperintahkan kamu menujunya\"."
+                },
+                {
+                    "id": 1092844,
+                    "resource_id": 161,
+                    "text": "কাজেই কিছুটা রাত থাকতে তুমি তোমার পরিবারবর্গকে নিয়ে বেরিয়ে পড় আর তুমি তাদের পেছনে পেছনে চলতে থাক। তোমাদের কেউ যেন পেছনে ফিরে না তাকায় বরং যেখানে যেতে বলা হচ্ছে চলে যাও।’"
+                }
+            ]
+        },
+        {
+            "id": 1868,
+            "verse_number": 66,
+            "verse_key": "15:66",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 106,
+            "ruku_number": 222,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَقَضَيْنَآ إِلَيْهِ ذَٰلِكَ ٱلْأَمْرَ أَنَّ دَابِرَ هَـٰٓؤُلَآءِ مَقْطُوعٌ مُّصْبِحِينَ",
+            "page_number": 265,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96768,
+                    "resource_id": 20,
+                    "text": "And We conveyed to him [the decree] of that matter: that those [sinners] would be eliminated by early morning."
+                },
+                {
+                    "id": 220739,
+                    "resource_id": 39,
+                    "text": "Dan Kami wahyukan kepadanya tentang kesudahan perkara itu; iaitu mereka akan dibinasakan pada waktu pagi, sehingga mereka punah ranah dan terputus keturunannya."
+                },
+                {
+                    "id": 1092845,
+                    "resource_id": 161,
+                    "text": "আমি লূতকে এ সিদ্ধান্ত জানিয়ে দিলাম যে, সকাল হতে না হতেই সমূলে ধ্বংস করা হবে।"
+                }
+            ]
+        },
+        {
+            "id": 1869,
+            "verse_number": 67,
+            "verse_key": "15:67",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 106,
+            "ruku_number": 222,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَجَآءَ أَهْلُ ٱلْمَدِينَةِ يَسْتَبْشِرُونَ",
+            "page_number": 265,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96769,
+                    "resource_id": 20,
+                    "text": "And the people of the city came rejoicing.<sup foot_note=196595>1</sup>"
+                },
+                {
+                    "id": 220725,
+                    "resource_id": 39,
+                    "text": "Dan (semasa kedatangan mereka) datanglah penduduk bandar itu dengan gembira."
+                },
+                {
+                    "id": 1092846,
+                    "resource_id": 161,
+                    "text": "শহরের লোকেরা আনন্দ সহকারে (লূতের ঘরে) উপস্থিত হল।"
+                }
+            ]
+        },
+        {
+            "id": 1870,
+            "verse_number": 68,
+            "verse_key": "15:68",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 106,
+            "ruku_number": 222,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ إِنَّ هَـٰٓؤُلَآءِ ضَيْفِى فَلَا تَفْضَحُونِ",
+            "page_number": 265,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96770,
+                    "resource_id": 20,
+                    "text": "[Lot] said, \"Indeed, these are my guests, so do not shame me."
+                },
+                {
+                    "id": 220738,
+                    "resource_id": 39,
+                    "text": "Nabi Lut berkata: \"Sesungguhnya mereka ini tetamuku, maka janganlah kamu memberi malu kepadaku\"."
+                },
+                {
+                    "id": 1092847,
+                    "resource_id": 161,
+                    "text": "লূত বলল, ‘এরা আমার মেহমান, কাজেই তোমরা আমাকে লাঞ্ছিত করো না।"
+                }
+            ]
+        },
+        {
+            "id": 1871,
+            "verse_number": 69,
+            "verse_key": "15:69",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 106,
+            "ruku_number": 222,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱتَّقُوا۟ ٱللَّهَ وَلَا تُخْزُونِ",
+            "page_number": 265,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96771,
+                    "resource_id": 20,
+                    "text": "And fear Allāh and do not disgrace me.\""
+                },
+                {
+                    "id": 220182,
+                    "resource_id": 39,
+                    "text": "\"Dan takutlah kamu kepada Allah serta janganlah kamu menghinakan daku\"."
+                },
+                {
+                    "id": 1092848,
+                    "resource_id": 161,
+                    "text": "তোমরা আল্লাহকে ভয় কর, আমাকে লজ্জিত করো না।’"
+                }
+            ]
+        },
+        {
+            "id": 1872,
+            "verse_number": 70,
+            "verse_key": "15:70",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 106,
+            "ruku_number": 222,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "قَالُوٓا۟ أَوَلَمْ نَنْهَكَ عَنِ ٱلْعَـٰلَمِينَ",
+            "page_number": 265,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96773,
+                    "resource_id": 20,
+                    "text": "They said, \"Have we not forbidden you from [protecting] people?\""
+                },
+                {
+                    "id": 220745,
+                    "resource_id": 39,
+                    "text": "Mereka menjawab: \"Bukankah kami telah melarangmu jangan menerima sebarang tetamu dari orang ramai (atau memberi perlindungan kepada mereka)?\""
+                },
+                {
+                    "id": 1092849,
+                    "resource_id": 161,
+                    "text": "তারা বলল, দুনিয়াব্যাপী বিষয় নিয়ে কথা বলতে আমরা কি তোমাকে নিষেধ করিনি?’"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 19,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 19
+    }
+}

@@ -1,0 +1,671 @@
+{
+    "verses": [
+        {
+            "id": 4874,
+            "verse_number": 28,
+            "verse_key": "54:28",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 466,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَنَبِّئْهُمْ أَنَّ ٱلْمَآءَ قِسْمَةٌۢ بَيْنَهُمْ ۖ كُلُّ شِرْبٍ مُّحْتَضَرٌ",
+            "page_number": 530,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100486,
+                    "resource_id": 20,
+                    "text": "And inform them that the water is shared between them,<sup foot_note=197460>1</sup> each [day of] drink attended [by turn]."
+                },
+                {
+                    "id": 218342,
+                    "resource_id": 39,
+                    "text": "Dan khabarkanlah kepada mereka, bahawa sesungguhnya air (telaga mereka) terbahagi di antara mereka dengan unta itu, tiap-tiap bahagian air itu dihadiri oleh yang berhak mengambilnya (pada hari gilirannya)."
+                },
+                {
+                    "id": 1095851,
+                    "resource_id": 161,
+                    "text": "আর তাদেরকে জানিয়ে দাও যে, তাদের মধ্যে (ও উষ্ট্রীর মধ্যে) পানি বণ্টিত হবে, প্রত্যেকের পানি পানের পালা আসবে।"
+                }
+            ]
+        },
+        {
+            "id": 4875,
+            "verse_number": 29,
+            "verse_key": "54:29",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 466,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+            "page_number": 530,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100487,
+                    "resource_id": 20,
+                    "text": "But they called their companion,<sup foot_note=197462>1</sup> and he dared<sup foot_note=197461>2</sup> and hamstrung [her]."
+                },
+                {
+                    "id": 218343,
+                    "resource_id": 39,
+                    "text": "(Mereka selepas itu merasa bosan dengan keadaan unta itu dan berkira hendak membunuhnya), lalu mereka memanggil kawan mereka (yang sanggup membunuhnya), dia pun bertindak sampai dapat membunuhnya."
+                },
+                {
+                    "id": 1095852,
+                    "resource_id": 161,
+                    "text": "শেষে তারা তাদের এক সঙ্গীকে ডাকল আর সে তাকে (অর্থাৎ উষ্ট্রীটিকে) ধরে হত্যা করল।"
+                }
+            ]
+        },
+        {
+            "id": 4876,
+            "verse_number": 30,
+            "verse_key": "54:30",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 466,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+            "page_number": 530,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100490,
+                    "resource_id": 20,
+                    "text": "And how [severe] were My punishment and warning."
+                },
+                {
+                    "id": 218356,
+                    "resource_id": 39,
+                    "text": "Maka perhatikanlah, bagaimana buruknya azabKu dan kesan amaran-amaranKu!"
+                },
+                {
+                    "id": 1095853,
+                    "resource_id": 161,
+                    "text": "ফলে কত ভয়ংকর হয়েছিল আমার ‘আযাব ও ভীতি প্রদর্শন।"
+                }
+            ]
+        },
+        {
+            "id": 4877,
+            "verse_number": 31,
+            "verse_key": "54:31",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 466,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةً وَٰحِدَةً فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+            "page_number": 530,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100491,
+                    "resource_id": 20,
+                    "text": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen."
+                },
+                {
+                    "id": 218368,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Kami hantarkan kepada mereka satu pekikan (yang dahsyat), lalu menjadilah mereka (hancur) seperti ranting-ranting dan daun-daun yang pecah hancur, yang dikumpulkan oleh pemilik kandang binatang ternak."
+                },
+                {
+                    "id": 1095854,
+                    "resource_id": 161,
+                    "text": "আমি তাদের উপর পাঠিয়েছিলাম একটি মাত্র প্রচন্ড ধ্বনি। ফলে তারা খোঁয়াড়ওয়ালাদের (নির্মিত) ভেঙ্গে চুরে যাওয়া শুকনা ডালপালার মত গুঁড়িয়ে গেল।"
+                }
+            ]
+        },
+        {
+            "id": 4878,
+            "verse_number": 32,
+            "verse_key": "54:32",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 466,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ",
+            "page_number": 530,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100492,
+                    "resource_id": 20,
+                    "text": "And We have certainly made the Qur’ān easy for remembrance, so is there any who will remember?"
+                },
+                {
+                    "id": 218369,
+                    "resource_id": 39,
+                    "text": "Dan demi sesungguhnya! Kami telah mudahkan Al-Quran untuk peringatan dan pengajaran, maka adakah sesiapa yang mahu mengambil peringatan dan pelajaran (daripadanya)?"
+                },
+                {
+                    "id": 1095855,
+                    "resource_id": 161,
+                    "text": "আমি কুরআনকে সহজ করে দিয়েছি উপদেশ গ্রহণের জন্য, উপদেশ গ্রহণের কেউ আছে কি?"
+                }
+            ]
+        },
+        {
+            "id": 4879,
+            "verse_number": 33,
+            "verse_key": "54:33",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 466,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "كَذَّبَتْ قَوْمُ لُوطٍۭ بِٱلنُّذُرِ",
+            "page_number": 530,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100493,
+                    "resource_id": 20,
+                    "text": "The people of Lot denied the warning."
+                },
+                {
+                    "id": 218370,
+                    "resource_id": 39,
+                    "text": "(Demikian juga) kaum Nabi Lut telah mendustakan peringatan dan amaran (yang disampaikan oleh Rasulnya)."
+                },
+                {
+                    "id": 1095856,
+                    "resource_id": 161,
+                    "text": "লূতের জাতি সতর্কবাণী প্রত্যাখ্যান করেছিল,"
+                }
+            ]
+        },
+        {
+            "id": 4880,
+            "verse_number": 34,
+            "verse_key": "54:34",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 466,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ حَاصِبًا إِلَّآ ءَالَ لُوطٍ ۖ نَّجَّيْنَـٰهُم بِسَحَرٍ",
+            "page_number": 530,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100494,
+                    "resource_id": 20,
+                    "text": "Indeed, We sent upon them a storm of stones, except the family of Lot - We saved them before dawn."
+                },
+                {
+                    "id": 218372,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Kami telah menghantarkan kepada mereka angin ribut yang menghujani mereka dengan batu, kecuali keluarga Nabi Lut, Kami selamatkan mereka (dengan menyuruh mereka keluar dari situ) pada waktu jauh malam,"
+                },
+                {
+                    "id": 1095857,
+                    "resource_id": 161,
+                    "text": "আমি তাদের উপর পাঠিয়েছিলাম প্রস্তরবর্ষী প্রচন্ড বাতাস, (যা তাদেরকে ধ্বংস করে দিয়েছিল) লূতের পরিবারকে বাদ দিয়ে। আমি তাদেরকে রাতের শেষ প্রহরে উদ্ধার করে নিয়েছিলাম।"
+                }
+            ]
+        },
+        {
+            "id": 4881,
+            "verse_number": 35,
+            "verse_key": "54:35",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 466,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "نِّعْمَةً مِّنْ عِندِنَا ۚ كَذَٰلِكَ نَجْزِى مَن شَكَرَ",
+            "page_number": 530,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100495,
+                    "resource_id": 20,
+                    "text": "As favor from Us. Thus do We reward he who is grateful."
+                },
+                {
+                    "id": 218376,
+                    "resource_id": 39,
+                    "text": "Sebagai limpah kurnia dari Kami. Demikianlah kami membalas orang-orang yang bersyukur."
+                },
+                {
+                    "id": 1095858,
+                    "resource_id": 161,
+                    "text": "আমার পক্ষ হতে অনুগ্রহস্বরূপ; এভাবেই আমি তাকে প্রতিফল দেই যে কৃতজ্ঞ হয়।"
+                }
+            ]
+        },
+        {
+            "id": 4882,
+            "verse_number": 36,
+            "verse_key": "54:36",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 466,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَقَدْ أَنذَرَهُم بَطْشَتَنَا فَتَمَارَوْا۟ بِٱلنُّذُرِ",
+            "page_number": 530,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100496,
+                    "resource_id": 20,
+                    "text": "And he had already warned them of Our assault, but they disputed the warning."
+                },
+                {
+                    "id": 218377,
+                    "resource_id": 39,
+                    "text": "Dan demi sesungguhnya! Nabi Lut telah memberi amaran kepada mereka mengenai azab seksa Kami; dalam pada itu, mereka tetap mendustakan amaran-amaran itu."
+                },
+                {
+                    "id": 1095859,
+                    "resource_id": 161,
+                    "text": "লূত আমার কঠোর পাকড়াও সম্পর্কে তাদেরকে সতর্ক করে দিয়েছিল, কিন্তু তারা সতর্কবাণীর বিষয়ে বাক বিতন্ডা করেছিল।"
+                }
+            ]
+        },
+        {
+            "id": 4883,
+            "verse_number": 37,
+            "verse_key": "54:37",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 466,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَقَدْ رَٰوَدُوهُ عَن ضَيْفِهِۦ فَطَمَسْنَآ أَعْيُنَهُمْ فَذُوقُوا۟ عَذَابِى وَنُذُرِ",
+            "page_number": 530,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100497,
+                    "resource_id": 20,
+                    "text": "And they had demanded from him his guests, but We obliterated their eyes, [saying], \"Taste My punishment and warning.\""
+                },
+                {
+                    "id": 218378,
+                    "resource_id": 39,
+                    "text": "Dan demi sesungguhnya! Mereka telah memujuk Nabi Lut mengenai tetamunya, lalu Kami hapuskan biji mata mereka, serta (dikatakan kepada mereka): Rasalah azabKu dan kesan amaran-amaranKu!"
+                },
+                {
+                    "id": 1095860,
+                    "resource_id": 161,
+                    "text": "তারা লূতকে তার মেহমানদের রক্ষণাবেক্ষণ থেকে বিরত রাখতে চেষ্টা করল তখন আমি তাদের চোখগুলোকে অন্ধ করে দিলাম আর বললাম ‘আমার ‘আযাব ও সতর্কবাণীর স্বাদ গ্রহণ কর।’"
+                }
+            ]
+        },
+        {
+            "id": 4884,
+            "verse_number": 38,
+            "verse_key": "54:38",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 466,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَقَدْ صَبَّحَهُم بُكْرَةً عَذَابٌ مُّسْتَقِرٌّ",
+            "page_number": 530,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100498,
+                    "resource_id": 20,
+                    "text": "And there came upon them by morning an abiding punishment."
+                },
+                {
+                    "id": 218379,
+                    "resource_id": 39,
+                    "text": "Dan demi sesungguhnya! Mereka telah ditimpa azab yang kekal pada pagi-pagi hari (esoknya)."
+                },
+                {
+                    "id": 1095861,
+                    "resource_id": 161,
+                    "text": "অতি সকালে নির্ধারিত শাস্তি তাদেরকে গ্রাস করল।"
+                }
+            ]
+        },
+        {
+            "id": 4885,
+            "verse_number": 39,
+            "verse_key": "54:39",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 466,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَذُوقُوا۟ عَذَابِى وَنُذُرِ",
+            "page_number": 530,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100499,
+                    "resource_id": 20,
+                    "text": "So taste My punishment and warning."
+                },
+                {
+                    "id": 218400,
+                    "resource_id": 39,
+                    "text": "Lalu (dikatakan kepada mereka): Rasalah azabKu dan kesan amaran-amaranKu!"
+                },
+                {
+                    "id": 1095862,
+                    "resource_id": 161,
+                    "text": "তখন আমি বললাম- ‘আমার শাস্তি ও সতর্কবাণীর স্বাদ গ্রহণ কর।"
+                }
+            ]
+        },
+        {
+            "id": 4886,
+            "verse_number": 40,
+            "verse_key": "54:40",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 466,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ",
+            "page_number": 530,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100502,
+                    "resource_id": 20,
+                    "text": "And We have certainly made the Qur’ān easy for remembrance, so is there any who will remember?"
+                },
+                {
+                    "id": 218402,
+                    "resource_id": 39,
+                    "text": "Dan demi sesungguhnya! Kami telah mudahkan Al-Quran untuk peringatan dan pengajaran, maka adakah sesiapa yang mahu mengambil peringatan dan pelajaran (daripadanya)?"
+                },
+                {
+                    "id": 1095863,
+                    "resource_id": 161,
+                    "text": "আমি কুরআনকে সহজ করে দিয়েছি উপদেশ গ্রহণের জন্য। উপদেশ গ্রহণের কেউ আছে কি?"
+                }
+            ]
+        },
+        {
+            "id": 4887,
+            "verse_number": 41,
+            "verse_key": "54:41",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 467,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَقَدْ جَآءَ ءَالَ فِرْعَوْنَ ٱلنُّذُرُ",
+            "page_number": 530,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100503,
+                    "resource_id": 20,
+                    "text": "And there certainly came to the people of Pharaoh warning."
+                },
+                {
+                    "id": 218412,
+                    "resource_id": 39,
+                    "text": "Dan demi sesungguhnya! Firaun dan kaumnya telah didatangi (Rasul-rasul) pemberi amaran."
+                },
+                {
+                    "id": 1095864,
+                    "resource_id": 161,
+                    "text": "ফেরাউন গোষ্ঠীর কাছেও (আমার) সতর্কবাণী এসেছিল।"
+                }
+            ]
+        },
+        {
+            "id": 4888,
+            "verse_number": 42,
+            "verse_key": "54:42",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 467,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "كَذَّبُوا۟ بِـَٔايَـٰتِنَا كُلِّهَا فَأَخَذْنَـٰهُمْ أَخْذَ عَزِيزٍ مُّقْتَدِرٍ",
+            "page_number": 530,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100504,
+                    "resource_id": 20,
+                    "text": "They denied Our signs, all of them, so We seized them with a seizure of one Exalted in Might and Perfect in Ability."
+                },
+                {
+                    "id": 218310,
+                    "resource_id": 39,
+                    "text": "Mereka telah mendustakan mukjizat-mukjizat Kami semuanya, lalu Kami timpakan azab seksa kepada mereka sebagai seksaan dari Yang Maha Perkasa, lagi Maha Kuasa."
+                },
+                {
+                    "id": 1095865,
+                    "resource_id": 161,
+                    "text": "তারা আমার সকল নিদর্শনকে অস্বীকার করেছিল, তখন আমি তাদেরকে পাকড়াও করেছিলাম মহাপরাক্রমশালী ও ক্ষমতাবানের পাকড়াওয়ে।"
+                }
+            ]
+        },
+        {
+            "id": 4889,
+            "verse_number": 43,
+            "verse_key": "54:43",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 467,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَكُفَّارُكُمْ خَيْرٌ مِّنْ أُو۟لَـٰٓئِكُمْ أَمْ لَكُم بَرَآءَةٌ فِى ٱلزُّبُرِ",
+            "page_number": 530,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100505,
+                    "resource_id": 20,
+                    "text": "Are your disbelievers better than those [former ones], or have you immunity in the scriptures?"
+                },
+                {
+                    "id": 218350,
+                    "resource_id": 39,
+                    "text": "Adakah orang-orang kafir kamu (wahai kaum musyrik Mekah), lebih baik (kekuatan, kekayaan dan kehandalannya) daripada kaum-kaum kafir yang tersebut itu? Atau adakah kamu mempunyai sebarang bukti dalam Kitab-kitab Suci tentang kebebasan kamu (dari azab)?"
+                },
+                {
+                    "id": 1095866,
+                    "resource_id": 161,
+                    "text": "তোমাদের (মক্কাবাসী) কাফিররা কি এ লোকেদের চেয়ে ভাল? নাকি (আসমানী) গ্রন্থাদিতে তোমাদেরকে ক্ষমা করে দেয়ার কথা লেখা আছে?"
+                }
+            ]
+        },
+        {
+            "id": 4890,
+            "verse_number": 44,
+            "verse_key": "54:44",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 467,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَمْ يَقُولُونَ نَحْنُ جَمِيعٌ مُّنتَصِرٌ",
+            "page_number": 530,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100506,
+                    "resource_id": 20,
+                    "text": "Or do they say, \"We are an assembly supporting [each other]\"?"
+                },
+                {
+                    "id": 218351,
+                    "resource_id": 39,
+                    "text": "(Mereka tidak mempunyai sebarang bukti) bahkan mereka akan berkata (dengan angkuhnya): Kami satu kaum yang bersatu, yang sudah tentu dapat membela diri!"
+                },
+                {
+                    "id": 1095867,
+                    "resource_id": 161,
+                    "text": "নাকি তারা বলে- ‘আমরা সংঘবদ্ধ দল, নিজেদের প্রতিরক্ষায় সক্ষম।"
+                }
+            ]
+        },
+        {
+            "id": 4891,
+            "verse_number": 45,
+            "verse_key": "54:45",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 467,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "سَيُهْزَمُ ٱلْجَمْعُ وَيُوَلُّونَ ٱلدُّبُرَ",
+            "page_number": 530,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100507,
+                    "resource_id": 20,
+                    "text": "[Their] assembly will be defeated, and they will turn their backs [in retreat].<sup foot_note=197463>1</sup>"
+                },
+                {
+                    "id": 218311,
+                    "resource_id": 39,
+                    "text": "Kumpulan mereka yang bersatu itu tetap akan dikalahkan dan mereka pula akan berpaling lari."
+                },
+                {
+                    "id": 1095868,
+                    "resource_id": 161,
+                    "text": "এ সংঘবদ্ধ দল শীঘ্রই পরাজিত হবে আর পিছন ফিরে পালাবে।"
+                }
+            ]
+        },
+        {
+            "id": 4892,
+            "verse_number": 46,
+            "verse_key": "54:46",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 467,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "بَلِ ٱلسَّاعَةُ مَوْعِدُهُمْ وَٱلسَّاعَةُ أَدْهَىٰ وَأَمَرُّ",
+            "page_number": 530,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100508,
+                    "resource_id": 20,
+                    "text": "But the Hour is their appointment [for due punishment], and the Hour is more disastrous and more bitter."
+                },
+                {
+                    "id": 218417,
+                    "resource_id": 39,
+                    "text": "(Bukan kekalahan itu sahaja) bahkan hari kiamat ialah hari yang dijanjikan kepada mereka (untuk menerima balasan yang sepenuh-penuhnya) dan (azab seksa) hari kiamat itu amat dahsyat dan amat pahit."
+                },
+                {
+                    "id": 1095869,
+                    "resource_id": 161,
+                    "text": "বরং ক্বিয়ামত হল (তাদের দুষ্কর্মের প্রতিশোধ নেয়ার জন্য) তাদেরকে দেয়া নির্ধারিত সময়, ক্বিয়ামত অতি কঠিন, অতিশয় তিক্ত।"
+                }
+            ]
+        },
+        {
+            "id": 4893,
+            "verse_number": 47,
+            "verse_key": "54:47",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 467,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ ٱلْمُجْرِمِينَ فِى ضَلَـٰلٍ وَسُعُرٍ",
+            "page_number": 530,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100509,
+                    "resource_id": 20,
+                    "text": "Indeed, the criminals are in error and madness.<sup foot_note=197464>1</sup>."
+                },
+                {
+                    "id": 218352,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya orang-orang yang berdosa berada dalam keadaan sesat (di dunia), dan (di akhirat pula mereka berada dalam) api Neraka."
+                },
+                {
+                    "id": 1095870,
+                    "resource_id": 161,
+                    "text": "পাপীরা আছে গুমরাহী আর পাগলামির মধ্যে।"
+                }
+            ]
+        },
+        {
+            "id": 4894,
+            "verse_number": 48,
+            "verse_key": "54:48",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 467,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "يَوْمَ يُسْحَبُونَ فِى ٱلنَّارِ عَلَىٰ وُجُوهِهِمْ ذُوقُوا۟ مَسَّ سَقَرَ",
+            "page_number": 530,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100510,
+                    "resource_id": 20,
+                    "text": "The Day they are dragged into the Fire on their faces [it will be said], \"Taste the touch of Saqar.\"<sup foot_note=197465>1</sup>"
+                },
+                {
+                    "id": 218353,
+                    "resource_id": 39,
+                    "text": "Semasa mereka diseret di dalam Neraka (dengan tertiarap) atas muka mereka, (serta dikatakan kepada mereka): Rasalah kamu bakaran api Neraka."
+                },
+                {
+                    "id": 1095871,
+                    "resource_id": 161,
+                    "text": "যেদিন তাদেরকে মুখের ভরে আগুনের মধ্যে হিঁচড়ে টেনে আনা হবে (তখন বলা হবে) ‘জাহান্নামের স্পর্শ আস্বাদন কর।’"
+                }
+            ]
+        },
+        {
+            "id": 4895,
+            "verse_number": 49,
+            "verse_key": "54:49",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 467,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّا كُلَّ شَىْءٍ خَلَقْنَـٰهُ بِقَدَرٍ",
+            "page_number": 530,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100511,
+                    "resource_id": 20,
+                    "text": "Indeed, all things We created with predestination."
+                },
+                {
+                    "id": 218354,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Kami menciptakan tiap-tiap sesuatu menurut takdir (yang telah ditentukan)."
+                },
+                {
+                    "id": 1095872,
+                    "resource_id": 161,
+                    "text": "আমি সব কিছু সৃষ্টি করেছি নির্ধারিত পরিমাপে।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 22,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 22
+    }
+}

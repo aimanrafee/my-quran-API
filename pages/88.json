@@ -1,0 +1,191 @@
+{
+    "verses": [
+        {
+            "id": 553,
+            "verse_number": 60,
+            "verse_key": "4:60",
+            "hizb_number": 9,
+            "rub_el_hizb_number": 35,
+            "ruku_number": 70,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "أَلَمْ تَرَ إِلَى ٱلَّذِينَ يَزْعُمُونَ أَنَّهُمْ ءَامَنُوا۟ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ يُرِيدُونَ أَن يَتَحَاكَمُوٓا۟ إِلَى ٱلطَّـٰغُوتِ وَقَدْ أُمِرُوٓا۟ أَن يَكْفُرُوا۟ بِهِۦ وَيُرِيدُ ٱلشَّيْطَـٰنُ أَن يُضِلَّهُمْ ضَلَـٰلًۢا بَعِيدًا",
+            "page_number": 88,
+            "juz_number": 5,
+            "translations": [
+                {
+                    "id": 100038,
+                    "resource_id": 20,
+                    "text": "Have you not seen those who claim to have believed in what was revealed to you, [O Muḥammad], and what was revealed before you? They wish to refer legislation to ṭāghūt,<sup foot_note=196121>1</sup> while they were commanded to reject it; and Satan wishes to lead them far astray."
+                },
+                {
+                    "id": 217875,
+                    "resource_id": 39,
+                    "text": "Tidakkah engkau (hairan) melihat (wahai Muhammad) orang-orang (munafik) yang mendakwa bahawa mereka telah beriman kepada Al-Quran yang telah diturunkan kepadamu dan kepada (Kitab-kitab) yang telah diturunkan dahulu daripadamu? Mereka suka hendak berhakim kepada Taghut, padahal mereka telah diperintahkan supaya kufur ingkar kepada Taghut itu. Dan Syaitan pula sentiasa hendak menyesatkan mereka dengan kesesatan yang amat jauh."
+                },
+                {
+                    "id": 1091530,
+                    "resource_id": 161,
+                    "text": "তুমি কি সেই লোকেদের প্রতি লক্ষ্য করনি, যারা তোমাদের প্রতি অবতীর্ণ কিতাবের এবং তোমার আগে অবতীর্ণ কিতাবের উপর ঈমান এনেছে বলে দাবী করে, কিন্তু তাগূতের কাছে বিচারপ্রার্থী হতে চায়, অথচ তাকে প্রত্যাখ্যান করার জন্য তাদেরকে নির্দেশ দেয়া হয়েছে, শয়ত্বান তাদেরকে পথভ্রষ্ট করে বহুদূরে নিয়ে যেতে চায়।"
+                }
+            ]
+        },
+        {
+            "id": 554,
+            "verse_number": 61,
+            "verse_key": "4:61",
+            "hizb_number": 9,
+            "rub_el_hizb_number": 35,
+            "ruku_number": 70,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ إِلَىٰ مَآ أَنزَلَ ٱللَّهُ وَإِلَى ٱلرَّسُولِ رَأَيْتَ ٱلْمُنَـٰفِقِينَ يَصُدُّونَ عَنكَ صُدُودًا",
+            "page_number": 88,
+            "juz_number": 5,
+            "translations": [
+                {
+                    "id": 100039,
+                    "resource_id": 20,
+                    "text": "And when it is said to them, \"Come to what Allāh has revealed and to the Messenger,\" you see the hypocrites turning away from you in aversion."
+                },
+                {
+                    "id": 217877,
+                    "resource_id": 39,
+                    "text": "Dan apabila dikatakan kepada mereka: \"Marilah berhakim kepada hukum Al-Quran yang telah diturunkan oleh Allah dan kepada hukum Rasulullah,\" nescaya engkau melihat orang-orang munafik itu berpaling serta menghalang (manusia) dengan bersungguh-sungguh daripada menghampirimu."
+                },
+                {
+                    "id": 1091531,
+                    "resource_id": 161,
+                    "text": "যখন তাদেরকে বলা হয়- তোমরা আল্লাহর অবতীর্ণ কিতাবের এবং রসূলের দিকে এসো, তখন তুমি ঐ মুনাফিকদেরকে দেখবে, তারা তোমা হতে ঘৃণা ভরে মুখ ফিরিয়ে নিচ্ছে।"
+                }
+            ]
+        },
+        {
+            "id": 555,
+            "verse_number": 62,
+            "verse_key": "4:62",
+            "hizb_number": 9,
+            "rub_el_hizb_number": 35,
+            "ruku_number": 70,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "فَكَيْفَ إِذَآ أَصَـٰبَتْهُم مُّصِيبَةٌۢ بِمَا قَدَّمَتْ أَيْدِيهِمْ ثُمَّ جَآءُوكَ يَحْلِفُونَ بِٱللَّهِ إِنْ أَرَدْنَآ إِلَّآ إِحْسَـٰنًا وَتَوْفِيقًا",
+            "page_number": 88,
+            "juz_number": 5,
+            "translations": [
+                {
+                    "id": 100051,
+                    "resource_id": 20,
+                    "text": "So how [will it be] when disaster strikes them because of what their hands have put forth and then they come to you swearing by Allāh, \"We intended nothing but good conduct and accommodation.\""
+                },
+                {
+                    "id": 217889,
+                    "resource_id": 39,
+                    "text": "Maka bagaimana halnya apabila mereka ditimpa sesuatu kemalangan disebabkan (kesalahan) yang telah dibuat oleh tangan mereka sendiri, kemudian mereka datang kepadamu sambil bersumpah: \"Demi Allah, kami tidak sekali-kali menghendaki melainkan kebaikan dan perdamaian (bagi kedua pihak yang berbalah)\"."
+                },
+                {
+                    "id": 1091532,
+                    "resource_id": 161,
+                    "text": "যখন তাদের কৃতকার্যের জন্য তাদের উপর বিপদ আপতিত হবে, তখন কী অবস্থা হবে? তখন তারা আল্লাহর নামে শপথ করতে করতে তোমার কাছে এসে বলবে, ‘আমরা সদ্ভাব ও সম্প্রীতি ছাড়া অন্য কিছু চাইনি।’"
+                }
+            ]
+        },
+        {
+            "id": 556,
+            "verse_number": 63,
+            "verse_key": "4:63",
+            "hizb_number": 9,
+            "rub_el_hizb_number": 35,
+            "ruku_number": 70,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ يَعْلَمُ ٱللَّهُ مَا فِى قُلُوبِهِمْ فَأَعْرِضْ عَنْهُمْ وَعِظْهُمْ وَقُل لَّهُمْ فِىٓ أَنفُسِهِمْ قَوْلًۢا بَلِيغًا",
+            "page_number": 88,
+            "juz_number": 5,
+            "translations": [
+                {
+                    "id": 100063,
+                    "resource_id": 20,
+                    "text": "Those are the ones of whom Allāh knows what is in their hearts, so turn away from them<sup foot_note=196122>1</sup> but admonish them and speak to them a far-reaching [i.e., effective] word."
+                },
+                {
+                    "id": 217900,
+                    "resource_id": 39,
+                    "text": "Mereka itulah orang-orang yang diketahui oleh Allah akan apa yang ada dalam hati mereka, oleh itu berpalinglah engkau daripada mereka, dan nasihatilah mereka, serta katakanlah kepada mereka kata-kata yang boleh memberi kesan pada hati mereka."
+                },
+                {
+                    "id": 1091533,
+                    "resource_id": 161,
+                    "text": "তারা সেই লোক, যাদের অন্তরস্থিত বিষয়ে আল্লাহ পরিজ্ঞাত, কাজেই তুমি তাদেরকে উপেক্ষা কর, তাদেরকে সদুপদেশ দান কর, আর তাদেরকে এমন কথা বল যা তাদের অন্তর স্পর্শ করে।"
+                }
+            ]
+        },
+        {
+            "id": 557,
+            "verse_number": 64,
+            "verse_key": "4:64",
+            "hizb_number": 9,
+            "rub_el_hizb_number": 35,
+            "ruku_number": 70,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَآ أَرْسَلْنَا مِن رَّسُولٍ إِلَّا لِيُطَاعَ بِإِذْنِ ٱللَّهِ ۚ وَلَوْ أَنَّهُمْ إِذ ظَّلَمُوٓا۟ أَنفُسَهُمْ جَآءُوكَ فَٱسْتَغْفَرُوا۟ ٱللَّهَ وَٱسْتَغْفَرَ لَهُمُ ٱلرَّسُولُ لَوَجَدُوا۟ ٱللَّهَ تَوَّابًا رَّحِيمًا",
+            "page_number": 88,
+            "juz_number": 5,
+            "translations": [
+                {
+                    "id": 100070,
+                    "resource_id": 20,
+                    "text": "And We did not send any messenger except to be obeyed by permission of Allāh. And if, when they wronged themselves, they had come to you, [O Muḥammad], and asked forgiveness of Allāh and the Messenger had asked forgiveness for them, they would have found Allāh Accepting of Repentance and Merciful."
+                },
+                {
+                    "id": 217919,
+                    "resource_id": 39,
+                    "text": "Dan Kami tidak mengutus seseorang Rasul pun melainkan supaya ia ditaati dengan izin Allah. Dan kalaulah mereka ketika menganiaya diri mereka sendiri datang kepadamu (wahai Muhammad) lalu memohon ampun kepada Allah, dan Rasulullah juga memohon ampun untuk mereka, tentulah mereka mendapati Allah Maha Penerima taubat, lagi Maha Mengasihani."
+                },
+                {
+                    "id": 1091534,
+                    "resource_id": 161,
+                    "text": "আমি রসূল এ উদ্দেশেই প্রেরণ করেছি, যেন আল্লাহর নির্দেশে তাঁর আনুগত্য করা হয়। যখন তারা নিজেদের উপর যুলম করেছিল, তখন যদি তোমার নিকট চলে আসত আর আল্লাহর কাছে ক্ষমাপ্রার্থী হত এবং রসূলও তাদের পক্ষে ক্ষমা চাইত, তাহলে তারা আল্লাহকে নিরতিশয় তাওবাহ কবূলকারী ও পরম দয়ালুরূপে পেত।"
+                }
+            ]
+        },
+        {
+            "id": 558,
+            "verse_number": 65,
+            "verse_key": "4:65",
+            "hizb_number": 9,
+            "rub_el_hizb_number": 35,
+            "ruku_number": 70,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ ثُمَّ لَا يَجِدُوا۟ فِىٓ أَنفُسِهِمْ حَرَجًا مِّمَّا قَضَيْتَ وَيُسَلِّمُوا۟ تَسْلِيمًا",
+            "page_number": 88,
+            "juz_number": 5,
+            "translations": [
+                {
+                    "id": 100072,
+                    "resource_id": 20,
+                    "text": "But no, by your Lord, they will not [truly] believe until they make you, [O Muḥammad], judge concerning that over which they dispute among themselves and then find within themselves no discomfort from what you have judged and submit in [full, willing] submission."
+                },
+                {
+                    "id": 217921,
+                    "resource_id": 39,
+                    "text": "Maka demi Tuhanmu (wahai Muhammad)! Mereka tidak disifatkan beriman sehingga mereka menjadikan engkau hakim dalam mana-mana perselisihan yang timbul di antara mereka, kemudian mereka pula tidak merasa di hati mereka sesuatu keberatan dari apa yang telah engkau hukumkan, dan mereka menerima keputusan itu dengan sepenuhnya."
+                },
+                {
+                    "id": 1091535,
+                    "resource_id": 161,
+                    "text": "কিন্তু না, তোমার প্রতিপালকের শপথ! তারা মু’মিন হবে না, যে পর্যন্ত না তারা তাদের বিবাদ-বিসম্বাদের মীমাংসার ভার তোমার উপর ন্যস্ত না করে, অতঃপর তোমার ফয়সালার ব্যাপারে তাদের মনে কিছু মাত্র কুণ্ঠাবোধ না থাকে, আর তারা তার সামনে নিজেদেরকে পূর্ণরূপে সমর্পণ করে।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 6,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 6
+    }
+}

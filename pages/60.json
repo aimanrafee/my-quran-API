@@ -1,0 +1,191 @@
+{
+    "verses": [
+        {
+            "id": 371,
+            "verse_number": 78,
+            "verse_key": "3:78",
+            "hizb_number": 6,
+            "rub_el_hizb_number": 24,
+            "ruku_number": 49,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِنَّ مِنْهُمْ لَفَرِيقًا يَلْوُۥنَ أَلْسِنَتَهُم بِٱلْكِتَـٰبِ لِتَحْسَبُوهُ مِنَ ٱلْكِتَـٰبِ وَمَا هُوَ مِنَ ٱلْكِتَـٰبِ وَيَقُولُونَ هُوَ مِنْ عِندِ ٱللَّهِ وَمَا هُوَ مِنْ عِندِ ٱللَّهِ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ",
+            "page_number": 60,
+            "juz_number": 3,
+            "translations": [
+                {
+                    "id": 99320,
+                    "resource_id": 20,
+                    "text": "And indeed, there is among them a party who alter the Scripture with their tongues so you may think it is from the Scripture, but it is not from the Scripture. And they say, \"This is from Allāh,\" but it is not from Allāh. And they speak untruth about Allāh while they know."
+                },
+                {
+                    "id": 217158,
+                    "resource_id": 39,
+                    "text": "Dan sesungguhnya, di antara mereka (Ahli Kitab itu) ada (Ketua-ketua ugamanya) yang memutar-mutar lidahnya semasa membaca Kitab Taurat (dengan mengubah maknanya), supaya kamu menyangkanya sebahagian dari Kitab Taurat padahal ia bukanlah dari Kitab itu. Dan mereka pula berkata: \"(bahawa) ia adalah (datangnya) dari sisi Allah\", padahal ia bukanlah dari sisi Allah; dan mereka pula tergamak berkata dusta terhadap Allah sedang mereka mengetahui (bahawa mereka adalah berdusta)."
+                },
+                {
+                    "id": 1091348,
+                    "resource_id": 161,
+                    "text": "এদের মধ্যে একদল আছে যারা কিতাবকে জিহবা দ্বারা বিকৃত করে যাতে তোমরা তাকে কিতাবের অংশ বলে মনে কর, মূলতঃ তা কিতাবের অংশ নয় এবং তারা বলে, ‘এটা আল্লাহর নিকট হতে অবতীর্ণ, বস্তুতঃ তা আল্লাহর নিকট হতে অবতীর্ণ নয়, তারা জেনে শুনে আল্লাহর প্রতি মিথ্যারোপ করে।"
+                }
+            ]
+        },
+        {
+            "id": 372,
+            "verse_number": 79,
+            "verse_key": "3:79",
+            "hizb_number": 6,
+            "rub_el_hizb_number": 24,
+            "ruku_number": 49,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "مَا كَانَ لِبَشَرٍ أَن يُؤْتِيَهُ ٱللَّهُ ٱلْكِتَـٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ثُمَّ يَقُولَ لِلنَّاسِ كُونُوا۟ عِبَادًا لِّى مِن دُونِ ٱللَّهِ وَلَـٰكِن كُونُوا۟ رَبَّـٰنِيِّـۧنَ بِمَا كُنتُمْ تُعَلِّمُونَ ٱلْكِتَـٰبَ وَبِمَا كُنتُمْ تَدْرُسُونَ",
+            "page_number": 60,
+            "juz_number": 3,
+            "translations": [
+                {
+                    "id": 99331,
+                    "resource_id": 20,
+                    "text": "It is not for a human [prophet]<sup foot_note=196062>1</sup> that Allāh should give him the Scripture<sup foot_note=196061>2</sup> and authority and prophethood and then he would say to the people, \"Be servants to me rather than Allāh,\" but [instead, he would say], \"Be pious scholars of the Lord because of what you have taught of the Scripture and because of what you have studied.\""
+                },
+                {
+                    "id": 217170,
+                    "resource_id": 39,
+                    "text": "Tidaklah patut bagi seseorang manusia yang Allah berikan kepadanya Kitab ugama dan hikmat serta pangkat Nabi, kemudian ia tergamak mengatakan kepada orang ramai: \"Hendaklah kamu menjadi orang-orang yang menyembahku dengan meninggalkan perbuatan menyembah Allah\". Tetapi (sepatutnya ia berkata): \"Hendaklah kamu menjadi orang-orang Rabbaniyin (yang hanya menyembah Allah Taala - dengan ilmu dan amal yang sempurna), kerana kamu sentiasa mengajarkan isi Kitab Allah itu, dan kerana kamu selalu mempelajarinya."
+                },
+                {
+                    "id": 1091349,
+                    "resource_id": 161,
+                    "text": "কোন মানব সন্তানের পক্ষে এটা সম্ভব নয় যে, আল্লাহ তাকে কিতাব, জ্ঞান ও নুবুওয়াত দান করেন, অতঃপর সে লোকেদেরকে বলে, ‘তোমরা আল্লাহকে ছেড়ে আমার বান্দা হয়ে যাও, বরং (সে বলবে), ‘তোমরা আল্লাহ্ওয়ালা হও; যেহেতু তোমরা কিতাব শিক্ষা দান কর এবং নিজেরাও পাঠ কর’।"
+                }
+            ]
+        },
+        {
+            "id": 373,
+            "verse_number": 80,
+            "verse_key": "3:80",
+            "hizb_number": 6,
+            "rub_el_hizb_number": 24,
+            "ruku_number": 49,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَا يَأْمُرَكُمْ أَن تَتَّخِذُوا۟ ٱلْمَلَـٰٓئِكَةَ وَٱلنَّبِيِّـۧنَ أَرْبَابًا ۗ أَيَأْمُرُكُم بِٱلْكُفْرِ بَعْدَ إِذْ أَنتُم مُّسْلِمُونَ",
+            "page_number": 60,
+            "juz_number": 3,
+            "translations": [
+                {
+                    "id": 99344,
+                    "resource_id": 20,
+                    "text": "Nor could he order you to take the angels and prophets as lords. Would he order you to disbelief after you had been Muslims?"
+                },
+                {
+                    "id": 217185,
+                    "resource_id": 39,
+                    "text": "Dan ia tidak pula patut menyuruh kamu menjadikan malaikat dan Nabi-nabi sebagai tuhan-tuhan. Patutkah ia menyuruh kamu dengan kekufuran sesudah kamu menjadi orang Islam?"
+                },
+                {
+                    "id": 1091350,
+                    "resource_id": 161,
+                    "text": "সে ব্যক্তি তোমাদেরকে বলবে না যে, তোমরা ফেরেশতাদেরকে এবং নাবীদেরকে মা’বূদরূপে গ্রহণ কর, তোমরা মুসলিম হওয়ার পরও কি সে তোমাদেরকে কুফরীর নির্দেশ দিতে পারে?"
+                }
+            ]
+        },
+        {
+            "id": 374,
+            "verse_number": 81,
+            "verse_key": "3:81",
+            "hizb_number": 6,
+            "rub_el_hizb_number": 24,
+            "ruku_number": 50,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذْ أَخَذَ ٱللَّهُ مِيثَـٰقَ ٱلنَّبِيِّـۧنَ لَمَآ ءَاتَيْتُكُم مِّن كِتَـٰبٍ وَحِكْمَةٍ ثُمَّ جَآءَكُمْ رَسُولٌ مُّصَدِّقٌ لِّمَا مَعَكُمْ لَتُؤْمِنُنَّ بِهِۦ وَلَتَنصُرُنَّهُۥ ۚ قَالَ ءَأَقْرَرْتُمْ وَأَخَذْتُمْ عَلَىٰ ذَٰلِكُمْ إِصْرِى ۖ قَالُوٓا۟ أَقْرَرْنَا ۚ قَالَ فَٱشْهَدُوا۟ وَأَنَا۠ مَعَكُم مِّنَ ٱلشَّـٰهِدِينَ",
+            "page_number": 60,
+            "juz_number": 3,
+            "translations": [
+                {
+                    "id": 99345,
+                    "resource_id": 20,
+                    "text": "And [recall, O People of the Scripture], when Allāh took the covenant of the prophets, [saying], \"Whatever I give you of the Scripture and wisdom and then there comes to you a messenger confirming what is with you, you [must] believe in him and support him.\" [Allāh] said, \"Have you acknowledged and taken upon that My commitment?\"<sup foot_note=196063>1</sup> They said, \"We have acknowledged it.\" He said, \"Then bear witness, and I am with you among the witnesses.\""
+                },
+                {
+                    "id": 217184,
+                    "resource_id": 39,
+                    "text": "Dan (ingatlah) ketika Allah mengambil perjanjian setia dari Nabi-nabi (dengan firmanNya): \"Sesungguhnya apa jua Kitab dan Hikmat yang Aku berikan kepada kamu, kemudian datang pula kepada Kamu seorang Rasul yang mengesahkan apa yang ada pada kamu, hendaklah kamu beriman sungguh-sungguh kepadanya, dan hendaklah kamu bersungguh-sungguh menolongnya\". Allah berfirman lagi (bertanya kepada mereka): \"Sudahkah kamu mengakui dan sudahkah kamu menerima akan ikatan janjiku secara yang demikian itu?\" Mereka menjawab: \"Kami berikrar (mengakui dan menerimanya)\". Allah berfirman lagi: \"Jika demikian, maka saksikanlah kamu, dan Aku juga menjadi saksi bersama-sama kamu.\""
+                },
+                {
+                    "id": 1091351,
+                    "resource_id": 161,
+                    "text": "(স্মরণ কর) যখন আল্লাহ নাবীদের নিকট হতে এ অঙ্গীকার নিয়েছিলেন যে, আমি তোমাদেরকে কিতাব এবং জ্ঞান যা কিছু প্রদান করেছি, অতঃপর তোমাদের কাছে যা আছে তার সমর্থক কোন রসূল যখন তোমাদের নিকট আসবে, তখন অবশ্য তোমরা তার প্রতি ঈমান আনবে এবং তাকে সাহায্য করবে। তিনি জিজ্ঞেস করলেন, ‘তোমরা অঙ্গীকার করলে তো? এবং যে বিষয়ে আমি তোমাদের নিকট হতে অঙ্গীকার নিলাম, তোমরা তা মানলে তো?’ তারা বলল, ‘আমরা অঙ্গীকার করলাম’। আল্লাহ বললেন, ‘তোমরা সাক্ষী থাক এবং আমিও তোমাদের সাথে সাক্ষী থাকলাম’।"
+                }
+            ]
+        },
+        {
+            "id": 375,
+            "verse_number": 82,
+            "verse_key": "3:82",
+            "hizb_number": 6,
+            "rub_el_hizb_number": 24,
+            "ruku_number": 50,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "فَمَن تَوَلَّىٰ بَعْدَ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْفَـٰسِقُونَ",
+            "page_number": 60,
+            "juz_number": 3,
+            "translations": [
+                {
+                    "id": 99357,
+                    "resource_id": 20,
+                    "text": "And whoever turned away after that - they were the defiantly disobedient."
+                },
+                {
+                    "id": 217197,
+                    "resource_id": 39,
+                    "text": "Kemudian sesiapa yang berpaling ingkar sesudah mengakui perjanjian setia itu, maka mereka itulah orang-orang yang fasik."
+                },
+                {
+                    "id": 1091352,
+                    "resource_id": 161,
+                    "text": "অতঃপর যারা মুখ ফিরিয়ে নিবে তারাই হল ফাসেক।"
+                }
+            ]
+        },
+        {
+            "id": 376,
+            "verse_number": 83,
+            "verse_key": "3:83",
+            "hizb_number": 6,
+            "rub_el_hizb_number": 24,
+            "ruku_number": 50,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "أَفَغَيْرَ دِينِ ٱللَّهِ يَبْغُونَ وَلَهُۥٓ أَسْلَمَ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ طَوْعًا وَكَرْهًا وَإِلَيْهِ يُرْجَعُونَ",
+            "page_number": 60,
+            "juz_number": 3,
+            "translations": [
+                {
+                    "id": 99369,
+                    "resource_id": 20,
+                    "text": "So is it other than the religion of Allāh they desire, while to Him have submitted [all] those within the heavens and earth, willingly or by compulsion, and to Him they will be returned?"
+                },
+                {
+                    "id": 217210,
+                    "resource_id": 39,
+                    "text": "Patutkah sesudah (mengakui dan menerima perjanjian) itu, mereka mencari lain dari ugama Allah? Padahal kepadaNyalah tunduk taat sekalian makhluk yang ada di langit dan di bumi, sama ada dengan sukarela ataupun terpaksa, dan kepadaNya lah mereka dikembalikan."
+                },
+                {
+                    "id": 1091353,
+                    "resource_id": 161,
+                    "text": "এরা কি আল্লাহর দ্বীন ছাড়া অন্য দ্বীনের সন্ধান করছে? অথচ আসমান ও যমীনে যা আছে সবই ইচ্ছেয় ও অনিচ্ছেয় তাঁরই কাছে আত্মসমর্পণ করেছে এবং তাঁরই দিকে সকলের প্রত্যাবর্তন।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 6,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 6
+    }
+}

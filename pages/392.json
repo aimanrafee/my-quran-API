@@ -1,0 +1,281 @@
+{
+    "verses": [
+        {
+            "id": 3303,
+            "verse_number": 51,
+            "verse_key": "28:51",
+            "hizb_number": 40,
+            "rub_el_hizb_number": 157,
+            "ruku_number": 339,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "۞ وَلَقَدْ وَصَّلْنَا لَهُمُ ٱلْقَوْلَ لَعَلَّهُمْ يَتَذَكَّرُونَ",
+            "page_number": 392,
+            "juz_number": 20,
+            "translations": [
+                {
+                    "id": 98476,
+                    "resource_id": 20,
+                    "text": "And We have [repeatedly] conveyed to them the word [i.e., the Qur’ān] that they might be reminded."
+                },
+                {
+                    "id": 216340,
+                    "resource_id": 39,
+                    "text": "Dan demi sesungguhnya Kami telah hubungkan turunnya firman-firman Kami (Al-Quran) dengan berturut-turut kepada mereka, supaya mereka beroleh peringatan (lalu beriman)."
+                },
+                {
+                    "id": 1094280,
+                    "resource_id": 161,
+                    "text": "আমি তাদের কাছে ক্রমাগত বাণী পৌঁছে দিয়েছি যাতে তারা উপদেশ গ্রহণ করে।"
+                }
+            ]
+        },
+        {
+            "id": 3304,
+            "verse_number": 52,
+            "verse_key": "28:52",
+            "hizb_number": 40,
+            "rub_el_hizb_number": 157,
+            "ruku_number": 339,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِينَ ءَاتَيْنَـٰهُمُ ٱلْكِتَـٰبَ مِن قَبْلِهِۦ هُم بِهِۦ يُؤْمِنُونَ",
+            "page_number": 392,
+            "juz_number": 20,
+            "translations": [
+                {
+                    "id": 98477,
+                    "resource_id": 20,
+                    "text": "Those to whom We gave the Scripture before it - they<sup foot_note=197013>1</sup> are believers in it."
+                },
+                {
+                    "id": 216341,
+                    "resource_id": 39,
+                    "text": "Orang-orang yang Kami beri Kitab sebelum turunnya Al-Quran, mereka beriman kepadanya."
+                },
+                {
+                    "id": 1094281,
+                    "resource_id": 161,
+                    "text": "এর পূর্বে আমি যাদেরকে কিতাব দিয়েছিলাম তারা (অর্থাৎ তাদের কতক লোক) তাতে বিশ্বাস করে।"
+                }
+            ]
+        },
+        {
+            "id": 3305,
+            "verse_number": 53,
+            "verse_key": "28:53",
+            "hizb_number": 40,
+            "rub_el_hizb_number": 157,
+            "ruku_number": 339,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا يُتْلَىٰ عَلَيْهِمْ قَالُوٓا۟ ءَامَنَّا بِهِۦٓ إِنَّهُ ٱلْحَقُّ مِن رَّبِّنَآ إِنَّا كُنَّا مِن قَبْلِهِۦ مُسْلِمِينَ",
+            "page_number": 392,
+            "juz_number": 20,
+            "translations": [
+                {
+                    "id": 98478,
+                    "resource_id": 20,
+                    "text": "And when it is recited to them, they say, \"We have believed in it; indeed, it is the truth from our Lord. Indeed we were, [even] before it, Muslims [i.e., submitting to Allāh].\""
+                },
+                {
+                    "id": 216342,
+                    "resource_id": 39,
+                    "text": "Dan apabila Al-Quran itu dibacakan kepada mereka; mereka, berkata: \"Kami beriman kepadanya, sesungguhnya ia adalah perkara yang betul benar dari Tuhan kami; sesungguhnya kami sebelum ia diturunkan, telahpun mematuhinya \"."
+                },
+                {
+                    "id": 1094282,
+                    "resource_id": 161,
+                    "text": "তাদের নিকট যখন তা আবৃত্তি করা হয় তখন তারা বলে- আমরা এতে বিশ্বাস করি, এ সত্য আমাদের প্রতিপালকের নিকট থেকে (আগত), এর পূর্বেই আমরা আত্মসমর্পণকারী ছিলাম।"
+                }
+            ]
+        },
+        {
+            "id": 3306,
+            "verse_number": 54,
+            "verse_key": "28:54",
+            "hizb_number": 40,
+            "rub_el_hizb_number": 157,
+            "ruku_number": 339,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "أُو۟لَـٰٓئِكَ يُؤْتَوْنَ أَجْرَهُم مَّرَّتَيْنِ بِمَا صَبَرُوا۟ وَيَدْرَءُونَ بِٱلْحَسَنَةِ ٱلسَّيِّئَةَ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",
+            "page_number": 392,
+            "juz_number": 20,
+            "translations": [
+                {
+                    "id": 98479,
+                    "resource_id": 20,
+                    "text": "Those will be given their reward twice for what they patiently endured and [because] they avert evil through good, and from what We have provided them they spend."
+                },
+                {
+                    "id": 216343,
+                    "resource_id": 39,
+                    "text": "Mereka itu akan beroleh pahala dua kali disebabkan kesabaran mereka; dan juga kerana mereka menolak kejahatan dengan kebaikan, dan mereka menderma dari apa yang Kami kurniakan kepada mereka."
+                },
+                {
+                    "id": 1094283,
+                    "resource_id": 161,
+                    "text": "তাদেরকে তাদের পারিশ্রমিক দু’বার দেয়া হবে যেহেতু তারা ধৈর্য ধারণ করেছে এবং তারা ভাল দিয়ে মন্দের প্রতিহত করে আর আমি তাদেরকে যে রিযক দিয়েছি তাত্থেকে তারা ব্যয় করে।"
+                }
+            ]
+        },
+        {
+            "id": 3307,
+            "verse_number": 55,
+            "verse_key": "28:55",
+            "hizb_number": 40,
+            "rub_el_hizb_number": 157,
+            "ruku_number": 339,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا سَمِعُوا۟ ٱللَّغْوَ أَعْرَضُوا۟ عَنْهُ وَقَالُوا۟ لَنَآ أَعْمَـٰلُنَا وَلَكُمْ أَعْمَـٰلُكُمْ سَلَـٰمٌ عَلَيْكُمْ لَا نَبْتَغِى ٱلْجَـٰهِلِينَ",
+            "page_number": 392,
+            "juz_number": 20,
+            "translations": [
+                {
+                    "id": 98480,
+                    "resource_id": 20,
+                    "text": "And when they hear ill speech, they turn away from it and say, \"For us are our deeds, and for you are your deeds. Peace will be upon you;<sup foot_note=197014>1</sup> we seek not the ignorant.\""
+                },
+                {
+                    "id": 216344,
+                    "resource_id": 39,
+                    "text": "Dan apabila mereka mendengar perkataan yang sia-sia, mereka berpaling daripadanya sambil berkata: \"Bagi kami amal kami dan bagi kamu pula amal kamu; selamat tinggalah kamu; kami tidak ingin berdamping dengan orang-orang yang jahil\"."
+                },
+                {
+                    "id": 1094284,
+                    "resource_id": 161,
+                    "text": "তারা যখন নিরর্থক কথাবার্তা শুনে তখন তাত্থেকে ফিরে থাকে আর বলে- আমাদের কাজের ফল আমরা পাব, তোমাদের কাজের ফল তোমরা পাবে, তোমাদের প্রতি সালাম, অজ্ঞদের সাথে আমাদের কোন প্রয়োজন নেই।"
+                }
+            ]
+        },
+        {
+            "id": 3308,
+            "verse_number": 56,
+            "verse_key": "28:56",
+            "hizb_number": 40,
+            "rub_el_hizb_number": 157,
+            "ruku_number": 339,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّكَ لَا تَهْدِى مَنْ أَحْبَبْتَ وَلَـٰكِنَّ ٱللَّهَ يَهْدِى مَن يَشَآءُ ۚ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ",
+            "page_number": 392,
+            "juz_number": 20,
+            "translations": [
+                {
+                    "id": 98481,
+                    "resource_id": 20,
+                    "text": "Indeed, [O Muḥammad], you do not guide whom you like, but Allāh guides whom He wills. And He is most knowing of the [rightly] guided."
+                },
+                {
+                    "id": 216345,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya engkau (wahai Muhammad) tidak berkuasa memberi hidayah petunjuk kepada sesiapa yang engkau kasihi (supaya ia menerima Islam), tetapi Allah jualah yang berkuasa memberi hidayah petunjuk kepada sesiapa yang dikehendakiNya (menurut undang-undang peraturanNya); dan Dia lah jua yang lebih mengetahui akan orang-orang yang (ada persediaan untuk) mendapat hidayah petunjuk (kepada memeluk Islam)."
+                },
+                {
+                    "id": 1094285,
+                    "resource_id": 161,
+                    "text": "তুমি যাকে ভালবাস তাকে সৎপথ দেখাতে পারবে না, বরং আল্লাহ্ই যাকে চান সৎ পথে পরিচালিত করেন, সৎপথপ্রাপ্তদের তিনি ভাল করেই জানেন।"
+                }
+            ]
+        },
+        {
+            "id": 3309,
+            "verse_number": 57,
+            "verse_key": "28:57",
+            "hizb_number": 40,
+            "rub_el_hizb_number": 157,
+            "ruku_number": 339,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَقَالُوٓا۟ إِن نَّتَّبِعِ ٱلْهُدَىٰ مَعَكَ نُتَخَطَّفْ مِنْ أَرْضِنَآ ۚ أَوَلَمْ نُمَكِّن لَّهُمْ حَرَمًا ءَامِنًا يُجْبَىٰٓ إِلَيْهِ ثَمَرَٰتُ كُلِّ شَىْءٍ رِّزْقًا مِّن لَّدُنَّا وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+            "page_number": 392,
+            "juz_number": 20,
+            "translations": [
+                {
+                    "id": 98482,
+                    "resource_id": 20,
+                    "text": "And they [i.e., the Quraysh] say, \"If we were to follow the guidance with you, we would be swept<sup foot_note=197015>1</sup> from our land.\" Have We not established for them a safe sanctuary to which are brought the fruits of all things as provision from Us? But most of them do not know."
+                },
+                {
+                    "id": 216346,
+                    "resource_id": 39,
+                    "text": "Dan mereka (yang kafir) berkata: \"Kalau kami menyertaimu menurut petunjuk yang engkau bawa itu, nescaya kami dengan serta merta ditangkap dan diusir dari negeri kami (oleh golongan yang menentang)\". Mengapa mereka (berkata demikian)? Bukankah kami telah melindungi mereka dan menjadikan (negeri Makkah) tempat tinggal mereka sebagai tanah suci yang aman, yang dibawa kepadanya hasil tanaman dari segala jenis, sebagai rezeki pemberian dari sisi Kami? (Benar, Kami telah menjadikan semuanya itu), tetapi kebanyakan mereka tidak memikirkan perkara itu untuk mengetahuinya (serta bersyukur)."
+                },
+                {
+                    "id": 1094286,
+                    "resource_id": 161,
+                    "text": "তারা বলে- ‘আমরা যদি তোমার সাথে সৎপথের অনুসরণ করি তাহলে আমরা আমাদের দেশ থেকে উৎখাত হব।’ আমি কি তাদের জন্য এক নিরাপদ ‘হারাম’ প্রতিষ্ঠিত করিনি যেখানে সর্বপ্রকার ফলমূলের নজরানা আসে আমার পক্ষ থেকে রিযক স্বরূপ? কিন্তু তাদের অধিকাংশই তা জানে না।"
+                }
+            ]
+        },
+        {
+            "id": 3310,
+            "verse_number": 58,
+            "verse_key": "28:58",
+            "hizb_number": 40,
+            "rub_el_hizb_number": 157,
+            "ruku_number": 339,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَكَمْ أَهْلَكْنَا مِن قَرْيَةٍۭ بَطِرَتْ مَعِيشَتَهَا ۖ فَتِلْكَ مَسَـٰكِنُهُمْ لَمْ تُسْكَن مِّنۢ بَعْدِهِمْ إِلَّا قَلِيلًا ۖ وَكُنَّا نَحْنُ ٱلْوَٰرِثِينَ",
+            "page_number": 392,
+            "juz_number": 20,
+            "translations": [
+                {
+                    "id": 98483,
+                    "resource_id": 20,
+                    "text": "And how many a city have We destroyed that was insolent in its [way of] living, and those are their dwellings which have not been inhabited after them except briefly.<sup foot_note=197016>1</sup> And it is We who were the inheritors."
+                },
+                {
+                    "id": 216347,
+                    "resource_id": 39,
+                    "text": "Dan berapa banyak Kami binasakan negeri-negeri yang penduduknya telah berlaku sombong dan tidak bersyukur dalam kehidupannya (yang serba mewah dan senang lenang). Maka itulah dia tempat-tempat tinggal mereka terbiar tidak didiami orang sesudah mereka (dibinasakan), kecuali sedikit sahaja dan sesungguhnya Kamilah yang mewarisi mereka."
+                },
+                {
+                    "id": 1094287,
+                    "resource_id": 161,
+                    "text": "আমি কত জনপদকে ধ্বংস করেছি যারা তাদের (ভোগবিলাসপূর্ণ) জীবনে চরম উৎকর্ষ সাধন করেছিল। এই তো তাদের বাসস্থান, তাদের পর এগুলোতে খুব অল্প লোকই বসবাস করেছে, অবশেষে আমিই মালিক রয়েছি।"
+                }
+            ]
+        },
+        {
+            "id": 3311,
+            "verse_number": 59,
+            "verse_key": "28:59",
+            "hizb_number": 40,
+            "rub_el_hizb_number": 157,
+            "ruku_number": 339,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا كَانَ رَبُّكَ مُهْلِكَ ٱلْقُرَىٰ حَتَّىٰ يَبْعَثَ فِىٓ أُمِّهَا رَسُولًا يَتْلُوا۟ عَلَيْهِمْ ءَايَـٰتِنَا ۚ وَمَا كُنَّا مُهْلِكِى ٱلْقُرَىٰٓ إِلَّا وَأَهْلُهَا ظَـٰلِمُونَ",
+            "page_number": 392,
+            "juz_number": 20,
+            "translations": [
+                {
+                    "id": 98484,
+                    "resource_id": 20,
+                    "text": "And never would your Lord have destroyed the cities until He had sent to their mother [i.e., principal city] a messenger reciting to them Our verses. And We would not destroy the cities except while their people were wrongdoers."
+                },
+                {
+                    "id": 216348,
+                    "resource_id": 39,
+                    "text": "Dan tidaklah menjadi kebiasaan Tuhanmu membinasakan mana-mana negeri sebelum Ia mengutus ke ibu negeri itu seorang Rasul yang akan membacakan kepada penduduknya ayat-ayat keterangan Kami; dan tidaklah menjadi kebiasaan Kami membinasakan mana-mana negeri melainkan setelah penduduknya berlaku zalim."
+                },
+                {
+                    "id": 1094288,
+                    "resource_id": 161,
+                    "text": "তোমার প্রতিপালক কোন জনপদ ধ্বংস করেন না, যতক্ষণ না তিনি তার কেন্দ্রে রসূল প্রেরণ না করেন যে তাদের কাছে আমার আয়াতসমূহ আবৃত্তি করে; আমি কোন জনপদকে ধ্বংস করি না যতক্ষণ না তার বাসিন্দারা অত্যাচারী হয়।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 9,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 9
+    }
+}

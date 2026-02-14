@@ -1,0 +1,251 @@
+{
+    "verses": [
+        {
+            "id": 1161,
+            "verse_number": 1,
+            "verse_key": "8:1",
+            "hizb_number": 18,
+            "rub_el_hizb_number": 71,
+            "ruku_number": 146,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": " يَسْـَٔلُونَكَ عَنِ ٱلْأَنفَالِ ۖ قُلِ ٱلْأَنفَالُ لِلَّهِ وَٱلرَّسُولِ ۖ فَٱتَّقُوا۟ ٱللَّهَ وَأَصْلِحُوا۟ ذَاتَ بَيْنِكُمْ ۖ وَأَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥٓ إِن كُنتُم مُّؤْمِنِينَ",
+            "page_number": 177,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 101845,
+                    "resource_id": 20,
+                    "text": "They ask you, [O Muḥammad], about the bounties [of war]. Say, \"The [decision concerning] bounties is for Allāh and the Messenger.\" So fear Allāh and amend that which is between you and obey Allāh and His Messenger, if you should be believers."
+                },
+                {
+                    "id": 219667,
+                    "resource_id": 39,
+                    "text": "Mereka bertanya kepadamu (wahai Muhammad) tentang harta rampasan perang. Katakanlah: \"Harta rampasan perang itu (terserah) bagi Allah dan bagi RasulNya (untuk menentukan pembahagiannya). Oleh itu, bertaqwalah kamu kepada Allah dan perbaikilah keadaan perhubungan di antara kamu, serta taatlah kepada Allah dan RasulNya, jika betul kamu orang-orang yang beriman\"."
+                },
+                {
+                    "id": 1092138,
+                    "resource_id": 161,
+                    "text": "তারা তোমাকে যুদ্ধে প্রাপ্ত সম্পদ সম্পর্কে জিজ্ঞেস করছে। বল, ‘যুদ্ধে প্রাপ্ত সম্পদ হচ্ছে আল্লাহ ও তাঁর রসূলের; কাজেই তোমরা আল্লাহকে ভয় কর আর নিজেদের সম্পর্ককে সুষ্ঠু সুন্দর ভিত্তির উপর প্রতিষ্ঠিত কর। তোমরা যদি মু’মিন হয়ে থাক তবে তোমরা আল্লাহ ও তাঁর রসূলের আনুগত্য কর।’"
+                }
+            ]
+        },
+        {
+            "id": 1162,
+            "verse_number": 2,
+            "verse_key": "8:2",
+            "hizb_number": 18,
+            "rub_el_hizb_number": 71,
+            "ruku_number": 146,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّمَا ٱلْمُؤْمِنُونَ ٱلَّذِينَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتْ قُلُوبُهُمْ وَإِذَا تُلِيَتْ عَلَيْهِمْ ءَايَـٰتُهُۥ زَادَتْهُمْ إِيمَـٰنًا وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+            "page_number": 177,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 101884,
+                    "resource_id": 20,
+                    "text": "The believers are only those who, when Allāh is mentioned, their hearts become fearful, and when His verses are recited to them, it increases them in faith; and upon their Lord they rely -"
+                },
+                {
+                    "id": 219707,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya orang-orang yang beriman itu (yang sempurna imannya) ialah mereka yang apabila disebut nama Allah (dan sifat-sifatNya) gementarlah hati mereka; dan apabila dibacakan kepada mereka ayat-ayatNya, menjadikan mereka bertambah iman, dan kepada Tuhan mereka jualah mereka berserah."
+                },
+                {
+                    "id": 1092139,
+                    "resource_id": 161,
+                    "text": "মু’মিন তো তারাই আল্লাহর কথা আলোচিত হলেই যাদের অন্তর কেঁপে উঠে, আর তাদের কাছে যখন তাঁর আয়াত পঠিত হয়, তখন তা তাদের ঈমান বৃদ্ধি করে আর তারা তাদের প্রতিপালকের উপর নির্ভর করে।"
+                }
+            ]
+        },
+        {
+            "id": 1163,
+            "verse_number": 3,
+            "verse_key": "8:3",
+            "hizb_number": 18,
+            "rub_el_hizb_number": 71,
+            "ruku_number": 146,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",
+            "page_number": 177,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 101914,
+                    "resource_id": 20,
+                    "text": "The ones who establish prayer, and from what We have provided them, they spend."
+                },
+                {
+                    "id": 219739,
+                    "resource_id": 39,
+                    "text": "Iaitu orang-orang yang mendirikan sembahyang dan yang mendermakan sebahagian dari apa yang Kami kurniakan kepada mereka."
+                },
+                {
+                    "id": 1092140,
+                    "resource_id": 161,
+                    "text": "তারা নামায ক্বায়িম করে, আর আমি তাদেরকে যে জীবিকা দিয়েছি তাত্থেকে ব্যয় করে।"
+                }
+            ]
+        },
+        {
+            "id": 1164,
+            "verse_number": 4,
+            "verse_key": "8:4",
+            "hizb_number": 18,
+            "rub_el_hizb_number": 71,
+            "ruku_number": 146,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "أُو۟لَـٰٓئِكَ هُمُ ٱلْمُؤْمِنُونَ حَقًّا ۚ لَّهُمْ دَرَجَـٰتٌ عِندَ رَبِّهِمْ وَمَغْفِرَةٌ وَرِزْقٌ كَرِيمٌ",
+            "page_number": 177,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 101962,
+                    "resource_id": 20,
+                    "text": "Those are the believers, truly. For them are degrees [of high position] with their Lord and forgiveness and noble provision."
+                },
+                {
+                    "id": 219787,
+                    "resource_id": 39,
+                    "text": "Merekalah orang-orang yang beriman dengan sebenar-benarnya. Mereka akan mendapat pangkat-pangkat yang tinggi di sisi Tuhan mereka dan keampunan serta limpah kurnia yang mulia (di Syurga)."
+                },
+                {
+                    "id": 1092141,
+                    "resource_id": 161,
+                    "text": "এসব লোকেরাই হল প্রকৃত মু’মিন। এদের জন্য এদের প্রতিপালকের নিকট আছে নানান মর্যাদা, ক্ষমা আর সম্মানজনক জীবিকা।"
+                }
+            ]
+        },
+        {
+            "id": 1165,
+            "verse_number": 5,
+            "verse_key": "8:5",
+            "hizb_number": 18,
+            "rub_el_hizb_number": 71,
+            "ruku_number": 146,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "كَمَآ أَخْرَجَكَ رَبُّكَ مِنۢ بَيْتِكَ بِٱلْحَقِّ وَإِنَّ فَرِيقًا مِّنَ ٱلْمُؤْمِنِينَ لَكَـٰرِهُونَ",
+            "page_number": 177,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 102000,
+                    "resource_id": 20,
+                    "text": "[It<sup foot_note=196359>1</sup> is] just as when your Lord brought you out of your home [for the battle of Badr] in truth, while indeed, a party among the believers were unwilling,"
+                },
+                {
+                    "id": 219823,
+                    "resource_id": 39,
+                    "text": "Sebagaimana (harta rampasan perang ditentukan pembahagiannya dengan kebenaran, maka) Tuhanmu (wahai Muhammad) mengeluarkanmu dari rumahmu (untuk pergi berperang) dengan kebenaran juga, sedang sebahagian dari orang-orang yang beriman itu (sebenarnya) tidak suka (turut berjuang)."
+                },
+                {
+                    "id": 1092142,
+                    "resource_id": 161,
+                    "text": "(তারা যেমন প্রকৃত মু’মিন) ঠিক তেমনি প্রকৃতভাবেই তোমার প্রতিপালক তোমাকে তোমার ঘর হতে বের করে এনেছিলেন যদিও মু’মিনদের একদল তা পছন্দ করেনি।"
+                }
+            ]
+        },
+        {
+            "id": 1166,
+            "verse_number": 6,
+            "verse_key": "8:6",
+            "hizb_number": 18,
+            "rub_el_hizb_number": 71,
+            "ruku_number": 146,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "يُجَـٰدِلُونَكَ فِى ٱلْحَقِّ بَعْدَ مَا تَبَيَّنَ كَأَنَّمَا يُسَاقُونَ إِلَى ٱلْمَوْتِ وَهُمْ يَنظُرُونَ",
+            "page_number": 177,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 102033,
+                    "resource_id": 20,
+                    "text": "Arguing with you concerning the truth after it had become clear, as if they were being driven toward death while they were looking on."
+                },
+                {
+                    "id": 219854,
+                    "resource_id": 39,
+                    "text": "Mereka membantahmu tentang kebenaran (berjihad) setelah nyata (kepada mereka kemenangan yang engkau janjikan), seolah-olah mereka dihalau kepada kematian, sedang mereka melihat (sebab-sebabnya)."
+                },
+                {
+                    "id": 1092143,
+                    "resource_id": 161,
+                    "text": "সত্য স্পষ্ট হওয়ার পরও তারা তোমার সঙ্গে বাদানুবাদে লিপ্ত হয়েছিল, (তাদের অবস্থা দেখে মনে হচ্ছিল যে,) তারা যেন চেয়ে চেয়ে দেখছিল যে, তাদেরকে মৃত্যুর দিকে তাড়িয়ে নেয়া হচ্ছে।"
+                }
+            ]
+        },
+        {
+            "id": 1167,
+            "verse_number": 7,
+            "verse_key": "8:7",
+            "hizb_number": 18,
+            "rub_el_hizb_number": 71,
+            "ruku_number": 146,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذْ يَعِدُكُمُ ٱللَّهُ إِحْدَى ٱلطَّآئِفَتَيْنِ أَنَّهَا لَكُمْ وَتَوَدُّونَ أَنَّ غَيْرَ ذَاتِ ٱلشَّوْكَةِ تَكُونُ لَكُمْ وَيُرِيدُ ٱللَّهُ أَن يُحِقَّ ٱلْحَقَّ بِكَلِمَـٰتِهِۦ وَيَقْطَعَ دَابِرَ ٱلْكَـٰفِرِينَ",
+            "page_number": 177,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 102064,
+                    "resource_id": 20,
+                    "text": "[Remember, O believers], when Allāh promised you one of the two groups<sup foot_note=196360>1</sup> - that it would be yours - and you wished that the unarmed one would be yours. But Allāh intended to establish the truth by His words and to eliminate the disbelievers"
+                },
+                {
+                    "id": 219878,
+                    "resource_id": 39,
+                    "text": "Dan (ingatlah) ketika Allah menjanjikan kepada kamu salah satu dari dua angkatan, menjadi untuk kamu (menghadapinya), sedang kamu suka kiranya (angkatan perniagaan) bukan angkatan (perang) yang mempunyai kekuatan itu yang dijadikan untuk kamu (menghadapinya). Padahal Allah menghendaki untuk menetapkan yang benar (ugama Islam) dengan Kalimah-kalimahNya, dan untuk membinasakan kaum yang kafir seluruhnya;"
+                },
+                {
+                    "id": 1092144,
+                    "resource_id": 161,
+                    "text": "স্মরণ কর, যখন আল্লাহ তোমাদেরকে প্রতিশ্রুতি দিয়েছিলেন যে, দু’টি দলের মধ্যে একটি তোমরা পাবে, আর তোমরা চেয়েছিলে যেন নিরস্ত্র দলটি তোমরা লাভ কর আর আল্লাহ চেয়েছিলেন তাঁর বাণী দ্বারা সত্যকে সত্যরূপে প্রতিষ্ঠিত করতে আর কাফিরদের জড় কেটে দিতে।"
+                }
+            ]
+        },
+        {
+            "id": 1168,
+            "verse_number": 8,
+            "verse_key": "8:8",
+            "hizb_number": 18,
+            "rub_el_hizb_number": 71,
+            "ruku_number": 146,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "لِيُحِقَّ ٱلْحَقَّ وَيُبْطِلَ ٱلْبَـٰطِلَ وَلَوْ كَرِهَ ٱلْمُجْرِمُونَ",
+            "page_number": 177,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 102090,
+                    "resource_id": 20,
+                    "text": "That He should establish the truth and abolish falsehood, even if the criminals disliked it."
+                },
+                {
+                    "id": 219904,
+                    "resource_id": 39,
+                    "text": "Supaya Allah menegakkan yang benar itu dan menghapuskan yang salah (kufur dan syirik), sekalipun golongan (kafir musyrik) yang berdosa itu tidak menyukainya."
+                },
+                {
+                    "id": 1092145,
+                    "resource_id": 161,
+                    "text": "যাতে তিনি সত্যকে সত্য হিসেবে প্রতিষ্ঠিত করেন আর মিথ্যেকে মিথ্যে প্রমাণিত করেন, যদিও তা পাপীদের কাছে পছন্দনীয় নয়।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 8,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 8
+    }
+}

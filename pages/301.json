@@ -1,0 +1,401 @@
+{
+    "verses": [
+        {
+            "id": 2202,
+            "verse_number": 62,
+            "verse_key": "18:62",
+            "hizb_number": 30,
+            "rub_el_hizb_number": 120,
+            "ruku_number": 260,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَلَمَّا جَاوَزَا قَالَ لِفَتَىٰهُ ءَاتِنَا غَدَآءَنَا لَقَدْ لَقِينَا مِن سَفَرِنَا هَـٰذَا نَصَبًا",
+            "page_number": 301,
+            "juz_number": 15,
+            "translations": [
+                {
+                    "id": 97078,
+                    "resource_id": 20,
+                    "text": "So when they had passed beyond it, [Moses] said to his boy, \"Bring us our morning meal. We have certainly suffered in this, our journey, [much] fatigue.\""
+                },
+                {
+                    "id": 214946,
+                    "resource_id": 39,
+                    "text": "Setelah mereka melampaui (tempat itu), berkatalah Nabi Musa kepada temannya: \"Bawalah makan tengah hari kita sebenarnya kita telah mengalami penat lelah dalam perjalanan kita ini\"."
+                },
+                {
+                    "id": 1093179,
+                    "resource_id": 161,
+                    "text": "যখন তারা আরো এগিয়ে গেল, সে তার সঙ্গীকে বলল, ‘আমাদের সকালের খাবার আন, আমরা আমাদের এই সফরে বড়ই ক্লান্ত হয়ে পড়েছি।’"
+                }
+            ]
+        },
+        {
+            "id": 2203,
+            "verse_number": 63,
+            "verse_key": "18:63",
+            "hizb_number": 30,
+            "rub_el_hizb_number": 120,
+            "ruku_number": 260,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ أَرَءَيْتَ إِذْ أَوَيْنَآ إِلَى ٱلصَّخْرَةِ فَإِنِّى نَسِيتُ ٱلْحُوتَ وَمَآ أَنسَىٰنِيهُ إِلَّا ٱلشَّيْطَـٰنُ أَنْ أَذْكُرَهُۥ ۚ وَٱتَّخَذَ سَبِيلَهُۥ فِى ٱلْبَحْرِ عَجَبًا",
+            "page_number": 301,
+            "juz_number": 15,
+            "translations": [
+                {
+                    "id": 97116,
+                    "resource_id": 20,
+                    "text": "He said, \"Did you see when we retired to the rock? Indeed, I forgot [there] the fish. And none made me forget it except Satan - that I should mention it. And it took its course into the sea amazingly.\""
+                },
+                {
+                    "id": 214948,
+                    "resource_id": 39,
+                    "text": "Temannya berkata: \"Tahukah apa yang telah terjadi ketika kita berehat di batu besar itu? Sebenarnya aku lupakan hal ikan itu; dan tiadalah yang menyebabkan aku lupa daripada menyebutkan halnya kepadamu melainkan Syaitan; dan ikan itu telah menggelunsur menempuh jalannya di laut, dengan cara yang menakjubkan\"."
+                },
+                {
+                    "id": 1093180,
+                    "resource_id": 161,
+                    "text": "সঙ্গীটি বলল, ‘আপনি কি লক্ষ্য করেছেন, আমরা যখন শিলাখন্ডে (বসে) ছিলাম তখন আমি মাছের কথা ভুলে গিয়েছিলাম। সেটার কথা আপনাকে বলতে শয়তানই আমাকে ভুলিয়ে দিয়েছিল আর মাছটি বিস্ময়করভাবে সমুদ্রে তার রাস্তা করে চলে গিয়েছিল।’"
+                }
+            ]
+        },
+        {
+            "id": 2204,
+            "verse_number": 64,
+            "verse_key": "18:64",
+            "hizb_number": 30,
+            "rub_el_hizb_number": 120,
+            "ruku_number": 260,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ ذَٰلِكَ مَا كُنَّا نَبْغِ ۚ فَٱرْتَدَّا عَلَىٰٓ ءَاثَارِهِمَا قَصَصًا",
+            "page_number": 301,
+            "juz_number": 15,
+            "translations": [
+                {
+                    "id": 97117,
+                    "resource_id": 20,
+                    "text": "[Moses] said, \"That is what we were seeking.\" So they returned, following their footprints."
+                },
+                {
+                    "id": 214974,
+                    "resource_id": 39,
+                    "text": "Nabi Musa berkata: \"Itulah yang kita kehendaki \"; merekapun balik semula ke situ, dengan menurut jejak mereka."
+                },
+                {
+                    "id": 1093181,
+                    "resource_id": 161,
+                    "text": "মূসা বলল, ‘এটাই তো সে জায়গা যেটা আমরা খুঁজছি।’ কাজেই তারা তাদের পায়ের চিহ্ন ধরে ফিরে গেল।"
+                }
+            ]
+        },
+        {
+            "id": 2205,
+            "verse_number": 65,
+            "verse_key": "18:65",
+            "hizb_number": 30,
+            "rub_el_hizb_number": 120,
+            "ruku_number": 260,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَوَجَدَا عَبْدًا مِّنْ عِبَادِنَآ ءَاتَيْنَـٰهُ رَحْمَةً مِّنْ عِندِنَا وَعَلَّمْنَـٰهُ مِن لَّدُنَّا عِلْمًا",
+            "page_number": 301,
+            "juz_number": 15,
+            "translations": [
+                {
+                    "id": 97118,
+                    "resource_id": 20,
+                    "text": "And they found a servant from among Our servants [i.e., al-Khiḍr] to whom We had given mercy from Us and had taught him from Us a [certain] knowledge."
+                },
+                {
+                    "id": 214952,
+                    "resource_id": 39,
+                    "text": "Lalu mereka dapati seorang dari hamba-hamba Kami yang telah kami kurniakan kepadanya rahmat dari Kami, dan Kami telah mengajarnya sejenis ilmu; dari sisi Kami."
+                },
+                {
+                    "id": 1093182,
+                    "resource_id": 161,
+                    "text": "তখন তারা আমার বান্দাদের এক বান্দাকে পেল, যার প্রতি আমার পক্ষ থেকে অনুগ্রহ দান করেছিলাম আর আমার পক্ষ থেকে তাকে বিশেষ জ্ঞান দান করেছিলাম।"
+                }
+            ]
+        },
+        {
+            "id": 2206,
+            "verse_number": 66,
+            "verse_key": "18:66",
+            "hizb_number": 30,
+            "rub_el_hizb_number": 120,
+            "ruku_number": 260,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ لَهُۥ مُوسَىٰ هَلْ أَتَّبِعُكَ عَلَىٰٓ أَن تُعَلِّمَنِ مِمَّا عُلِّمْتَ رُشْدًا",
+            "page_number": 301,
+            "juz_number": 15,
+            "translations": [
+                {
+                    "id": 97119,
+                    "resource_id": 20,
+                    "text": "Moses said to him, \"May I follow you on [the condition] that you teach me from what you have been taught of sound judgement?\""
+                },
+                {
+                    "id": 214954,
+                    "resource_id": 39,
+                    "text": "Nabi Musa berkata kepadanya: Bolehkah aku mengikutmu, dengan syarat engkau mengajarku dari apa yang telah diajarkan oleh Allah kepadamu, ilmu yang menjadi petunjuk bagiku?\""
+                },
+                {
+                    "id": 1093183,
+                    "resource_id": 161,
+                    "text": "মূসা তাকে বলল, ‘আমি কি এ শর্তে আপনার অনুসরণ করব যে, আপনি আমাকে সেই (বিশেষ) জ্ঞান থেকে শিক্ষা দেবেন যে জ্ঞান আপনাকে শেখানো হয়েছে?’"
+                }
+            ]
+        },
+        {
+            "id": 2207,
+            "verse_number": 67,
+            "verse_key": "18:67",
+            "hizb_number": 30,
+            "rub_el_hizb_number": 120,
+            "ruku_number": 260,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ إِنَّكَ لَن تَسْتَطِيعَ مَعِىَ صَبْرًا",
+            "page_number": 301,
+            "juz_number": 15,
+            "translations": [
+                {
+                    "id": 97120,
+                    "resource_id": 20,
+                    "text": "He said, \"Indeed, with me you will never be able to have patience."
+                },
+                {
+                    "id": 214966,
+                    "resource_id": 39,
+                    "text": "Ia menjawab: \"Sesungguhnya engkau (wahai Musa), tidak sekali-kali akan dapat bersabar bersamaku."
+                },
+                {
+                    "id": 1093184,
+                    "resource_id": 161,
+                    "text": "সে বলল, ‘আপনি কিছুতেই আমার সাথে ধৈর্য ধারণ করতে পারবেন না।’"
+                }
+            ]
+        },
+        {
+            "id": 2208,
+            "verse_number": 68,
+            "verse_key": "18:68",
+            "hizb_number": 30,
+            "rub_el_hizb_number": 120,
+            "ruku_number": 260,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَكَيْفَ تَصْبِرُ عَلَىٰ مَا لَمْ تُحِطْ بِهِۦ خُبْرًا",
+            "page_number": 301,
+            "juz_number": 15,
+            "translations": [
+                {
+                    "id": 97121,
+                    "resource_id": 20,
+                    "text": "And how can you have patience for what you do not encompass in knowledge?\""
+                },
+                {
+                    "id": 214956,
+                    "resource_id": 39,
+                    "text": "Dan bagaimana engkau akan sabar terhadap perkara yang engkau tidak mengetahuinya secara meliputi?"
+                },
+                {
+                    "id": 1093185,
+                    "resource_id": 161,
+                    "text": "আপনি কীভাবে সে বিষয়ে ধৈর্য ধারণ করবেন যা আপনার জ্ঞানের আয়ত্বের বাইরে?’"
+                }
+            ]
+        },
+        {
+            "id": 2209,
+            "verse_number": 69,
+            "verse_key": "18:69",
+            "hizb_number": 30,
+            "rub_el_hizb_number": 120,
+            "ruku_number": 260,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ صَابِرًا وَلَآ أَعْصِى لَكَ أَمْرًا",
+            "page_number": 301,
+            "juz_number": 15,
+            "translations": [
+                {
+                    "id": 97122,
+                    "resource_id": 20,
+                    "text": "[Moses] said, \"You will find me, if Allāh wills, patient, and I will not disobey you in [any] order.\""
+                },
+                {
+                    "id": 214958,
+                    "resource_id": 39,
+                    "text": "Nabi Musa berkata: \"Engkau akan dapati aku, Insyaa Allah: orang yang sabar; dan aku tidak akan membantah sebarang perintahmu\"."
+                },
+                {
+                    "id": 1093186,
+                    "resource_id": 161,
+                    "text": "মূসা বলল, ‘আল্লাহ চাইলে আমাকে ধৈর্যশীলই পাবেন, আমি আপনার কোন নির্দেশই লঙ্ঘন করব না।’"
+                }
+            ]
+        },
+        {
+            "id": 2210,
+            "verse_number": 70,
+            "verse_key": "18:70",
+            "hizb_number": 30,
+            "rub_el_hizb_number": 120,
+            "ruku_number": 260,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ فَإِنِ ٱتَّبَعْتَنِى فَلَا تَسْـَٔلْنِى عَن شَىْءٍ حَتَّىٰٓ أُحْدِثَ لَكَ مِنْهُ ذِكْرًا",
+            "page_number": 301,
+            "juz_number": 15,
+            "translations": [
+                {
+                    "id": 97124,
+                    "resource_id": 20,
+                    "text": "He said, \"Then if you follow me, do not ask me about anything until I make to you about it mention [i.e., explanation].\""
+                },
+                {
+                    "id": 214962,
+                    "resource_id": 39,
+                    "text": "Ia menjawab: \"Sekiranya engkau mengikutku, maka janganlah engkau bertanya kepadaku akan sesuatupun sehingga aku ceritakan halnya kepadamu\"."
+                },
+                {
+                    "id": 1093187,
+                    "resource_id": 161,
+                    "text": "সে বলল, ‘আপনি যেহেতু আমার অনুসরণ করতেই চান, তাহলে আপনি আমাকে কোন ব্যাপারেই প্রশ্ন করবেন না যতক্ষণ না আমি নিজেই সে সম্পর্কে আপনাকে বলি।’"
+                }
+            ]
+        },
+        {
+            "id": 2211,
+            "verse_number": 71,
+            "verse_key": "18:71",
+            "hizb_number": 30,
+            "rub_el_hizb_number": 120,
+            "ruku_number": 261,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَٱنطَلَقَا حَتَّىٰٓ إِذَا رَكِبَا فِى ٱلسَّفِينَةِ خَرَقَهَا ۖ قَالَ أَخَرَقْتَهَا لِتُغْرِقَ أَهْلَهَا لَقَدْ جِئْتَ شَيْـًٔا إِمْرًا",
+            "page_number": 301,
+            "juz_number": 15,
+            "translations": [
+                {
+                    "id": 97125,
+                    "resource_id": 20,
+                    "text": "So they set out, until when they had embarked on the ship, he [i.e., al-Khiḍr] tore it open. [Moses] said, \"Have you torn it open to drown its people? You have certainly done a grave thing.\""
+                },
+                {
+                    "id": 214964,
+                    "resource_id": 39,
+                    "text": "Lalu berjalanlah keduanya sehingga apabila mereka naik ke sebuah perahu, ia membocorkannya. Nabi Musa berkata: \"Patutkah engkau membocorkannya sedang akibat perbuatan itu menenggelamkan penumpang-penumpangnya? Sesungguhnya engkau telah melakukan satu perkara yang besar\"."
+                },
+                {
+                    "id": 1093188,
+                    "resource_id": 161,
+                    "text": "অতঃপর তারা দু’জনে চলতে লাগল যতক্ষণ না তারা নৌকায় উঠল, অতঃপর লোকটি নৌকায় ছিদ্র করে দিল। মূসা বলল, ‘আপনি কি তার আরোহীদেরকে ডুবিয়ে দেয়ার জন্য তাতে ছিদ্র করলেন? আপনি তো এক অদ্ভুত কাজ করলেন।’"
+                }
+            ]
+        },
+        {
+            "id": 2212,
+            "verse_number": 72,
+            "verse_key": "18:72",
+            "hizb_number": 30,
+            "rub_el_hizb_number": 120,
+            "ruku_number": 261,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ أَلَمْ أَقُلْ إِنَّكَ لَن تَسْتَطِيعَ مَعِىَ صَبْرًا",
+            "page_number": 301,
+            "juz_number": 15,
+            "translations": [
+                {
+                    "id": 97126,
+                    "resource_id": 20,
+                    "text": "[Al-Khiḍr] said, \"Did I not say that with me you would never be able to have patience?\""
+                },
+                {
+                    "id": 214970,
+                    "resource_id": 39,
+                    "text": "Ia menjawab: \"Bukankah aku telah katakan, bahawa engkau tidak sekali-kali akan dapat bersabar bersamaku?\""
+                },
+                {
+                    "id": 1093189,
+                    "resource_id": 161,
+                    "text": "সে বলল, ‘আমি কি আপনাকে বলিনি যে, আপনি কিছুতেই আমার সঙ্গে ধৈর্য ধরতে পারবেন না?’"
+                }
+            ]
+        },
+        {
+            "id": 2213,
+            "verse_number": 73,
+            "verse_key": "18:73",
+            "hizb_number": 30,
+            "rub_el_hizb_number": 120,
+            "ruku_number": 261,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ لَا تُؤَاخِذْنِى بِمَا نَسِيتُ وَلَا تُرْهِقْنِى مِنْ أَمْرِى عُسْرًا",
+            "page_number": 301,
+            "juz_number": 15,
+            "translations": [
+                {
+                    "id": 97127,
+                    "resource_id": 20,
+                    "text": "[Moses] said, \"Do not blame me for what I forgot and do not overwhelm me in my matter with difficulty.\""
+                },
+                {
+                    "id": 214968,
+                    "resource_id": 39,
+                    "text": "Nabi Musa berkata: \"Janganlah engkau marah akan daku disebabkan aku lupa (akan syaratmu); dan janganlah engkau memberati daku dengan sebarang kesukaran dalam urusanku (menuntut ilmu)\"."
+                },
+                {
+                    "id": 1093190,
+                    "resource_id": 161,
+                    "text": "মূসা বলল, ‘আমার ভুলের জন্য আমাকে পাকড়াও করবেন না, আর আমার ব্যাপারে আপনি অধিক কড়াকড়ি করবেন না।’"
+                }
+            ]
+        },
+        {
+            "id": 2214,
+            "verse_number": 74,
+            "verse_key": "18:74",
+            "hizb_number": 30,
+            "rub_el_hizb_number": 120,
+            "ruku_number": 261,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَٱنطَلَقَا حَتَّىٰٓ إِذَا لَقِيَا غُلَـٰمًا فَقَتَلَهُۥ قَالَ أَقَتَلْتَ نَفْسًا زَكِيَّةًۢ بِغَيْرِ نَفْسٍ لَّقَدْ جِئْتَ شَيْـًٔا نُّكْرًا",
+            "page_number": 301,
+            "juz_number": 15,
+            "translations": [
+                {
+                    "id": 97128,
+                    "resource_id": 20,
+                    "text": "So they set out, until when they met a boy, he [i.e., al-Khiḍr] killed him. [Moses] said, \"Have you killed a pure soul for other than [having killed] a soul? You have certainly done a deplorable thing.\""
+                },
+                {
+                    "id": 214972,
+                    "resource_id": 39,
+                    "text": "Kemudian keduanya berjalan lagi sehingga apabila mereka bertemu dengan seorang pemuda lalu ia membunuhnya. Nabi Musa berkata \"Patutkah engkau membunuh satu jiwa yang bersih, yang tidak berdosa membunuh orang? Sesungguhnya engkau telah melakukan satu perbuatan yang mungkar!\""
+                },
+                {
+                    "id": 1093191,
+                    "resource_id": 161,
+                    "text": "তারপর তারা চলতে লাগল। চলতে চলতে এক বালককে তারা দেখতে পেল। তখন সে তাকে হত্যা করে ফেলল। মূসা বলল, ‘আপনি কি এক নিরাপরাধ জীবনকে কোন প্রকার হত্যার অপরাধ ছাড়াই হত্যা করে দিলেন? আপনি তো গুরুতর এক অন্যায় কাজ করে ফেললেন!’"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 13,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 13
+    }
+}

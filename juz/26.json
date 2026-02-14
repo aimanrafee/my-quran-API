@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 4511,
+            "verse_number": 1,
+            "verse_key": "46:1",
+            "hizb_number": 51,
+            "rub_el_hizb_number": 201,
+            "ruku_number": 440,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": " حمٓ",
+            "page_number": 502,
+            "juz_number": 26,
+            "translations": [
+                {
+                    "id": 100040,
+                    "resource_id": 20,
+                    "text": "Ḥā, Meem.<sup foot_note=197361>1</sup>"
+                },
+                {
+                    "id": 214640,
+                    "resource_id": 39,
+                    "text": "Haa, Miim."
+                },
+                {
+                    "id": 1095488,
+                    "resource_id": 161,
+                    "text": "হা-মীম।"
+                }
+            ]
+        },
+        {
+            "id": 4512,
+            "verse_number": 2,
+            "verse_key": "46:2",
+            "hizb_number": 51,
+            "rub_el_hizb_number": 201,
+            "ruku_number": 440,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "تَنزِيلُ ٱلْكِتَـٰبِ مِنَ ٱللَّهِ ٱلْعَزِيزِ ٱلْحَكِيمِ",
+            "page_number": 502,
+            "juz_number": 26,
+            "translations": [
+                {
+                    "id": 100052,
+                    "resource_id": 20,
+                    "text": "The revelation of the Book is from Allāh, the Exalted in Might, the Wise."
+                },
+                {
+                    "id": 217896,
+                    "resource_id": 39,
+                    "text": "Diturunkan Al-Quran ini, dari Allah Yang Maha Kuasa, lagi Maha Bijaksana."
+                },
+                {
+                    "id": 1095489,
+                    "resource_id": 161,
+                    "text": "কিতাব অবতীর্ণ হয়েছে মহা পরাক্রমশালী প্রজ্ঞাময় আল্লাহর নিকট হতে।"
+                }
+            ]
+        },
+        {
+            "id": 4513,
+            "verse_number": 3,
+            "verse_key": "46:3",
+            "hizb_number": 51,
+            "rub_el_hizb_number": 201,
+            "ruku_number": 440,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "مَا خَلَقْنَا ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَآ إِلَّا بِٱلْحَقِّ وَأَجَلٍ مُّسَمًّى ۚ وَٱلَّذِينَ كَفَرُوا۟ عَمَّآ أُنذِرُوا۟ مُعْرِضُونَ",
+            "page_number": 502,
+            "juz_number": 26,
+            "translations": [
+                {
+                    "id": 100064,
+                    "resource_id": 20,
+                    "text": "We did not create the heavens and earth and what is between them except in truth and [for] a specified term. But those who disbelieve, from that of which they are warned, are turning away."
+                },
+                {
+                    "id": 217901,
+                    "resource_id": 39,
+                    "text": "(Ingatlah), tidaklah Kami menciptakan langit dan bumi serta segala yang ada di antara keduanya melainkan dengan ada gunanya yang benar dan dengan ada masa penghujungnya yang tertentu (yang padanya dijalankan pembalasan); dan orang-orang yang kafir berpaling dari menerima peringatan yang diberikan kepada mereka mengenainya."
+                },
+                {
+                    "id": 1095490,
+                    "resource_id": 161,
+                    "text": "আমি আকাশ, যমীন ও এ দু’য়ের মাঝে যা আছে তা প্রকৃত উদ্দেশ্যে একটা নির্দিষ্ট সময়ের জন্য সৃষ্টি করেছি। কিন্তু কাফিরগণ, যে বিষয়ে তাদেরকে সতর্ক করা হয় তাত্থেকে মুখ ফিরিয়ে নেয়।"
+                }
+            ]
+        },
+        {
+            "id": 4514,
+            "verse_number": 4,
+            "verse_key": "46:4",
+            "hizb_number": 51,
+            "rub_el_hizb_number": 201,
+            "ruku_number": 440,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "قُلْ أَرَءَيْتُم مَّا تَدْعُونَ مِن دُونِ ٱللَّهِ أَرُونِى مَاذَا خَلَقُوا۟ مِنَ ٱلْأَرْضِ أَمْ لَهُمْ شِرْكٌ فِى ٱلسَّمَـٰوَٰتِ ۖ ٱئْتُونِى بِكِتَـٰبٍ مِّن قَبْلِ هَـٰذَآ أَوْ أَثَـٰرَةٍ مِّنْ عِلْمٍ إِن كُنتُمْ صَـٰدِقِينَ",
+            "page_number": 502,
+            "juz_number": 26,
+            "translations": [
+                {
+                    "id": 100071,
+                    "resource_id": 20,
+                    "text": "Say, [O Muḥammad], \"Have you considered that which you invoke besides Allāh? Show me what they have created of the earth; or did they have partnership in [creation of] the heavens? Bring me a scripture [revealed] before this or a [remaining] trace of knowledge, if you should be truthful.\""
+                },
+                {
+                    "id": 217920,
+                    "resource_id": 39,
+                    "text": "Katakanlah (wahai Muhammad kepada orang-orang musyrik yang menentangmu): \"Sudahkah kamu mengetahui kekuasaan dan kelayakan makhluk - makhluk yang kamu seru dan sembah yang lain dari Allah? Tunjukkanlah kepadaku apakah yang mereka ciptakan dari bahagian bumi ini? Atau adakah mereka mempunyai sebarang perkongsian (dengan Allah) dalam mencipta dan menguruskan langit? Bawalah kamu kepadaku sebuah Kitab (dari Allah) yang lain dari Al-Quran ini, atau sebarang keterangan yang berdasarkan ilmu (peninggalan orang-orang yang telah lalu) kalau betul kamu orang-orang yang benar (tentang dakwaan kamu itu)!\""
+                },
+                {
+                    "id": 1095491,
+                    "resource_id": 161,
+                    "text": "বল- তোমরা আল্লাহর পরিবর্তে যাদেরকে ডাক, তাদের বিষয়ে চিন্তা করে দেখেছ কি? দেখাও আমাকে তারা যমীনে কী সৃষ্টি করেছে অথবা আকাশমন্ডলে তাদের কোন অংশীদারিত্ব আছে কি? এর আগের কোন কিতাব অথবা পরম্পরাগত কোন জ্ঞান আমার কাছে উপস্থিত কর যদি তোমরা সত্যবাদী হও।"
+                }
+            ]
+        },
+        {
+            "id": 4515,
+            "verse_number": 5,
+            "verse_key": "46:5",
+            "hizb_number": 51,
+            "rub_el_hizb_number": 201,
+            "ruku_number": 440,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَنْ أَضَلُّ مِمَّن يَدْعُوا۟ مِن دُونِ ٱللَّهِ مَن لَّا يَسْتَجِيبُ لَهُۥٓ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ وَهُمْ عَن دُعَآئِهِمْ غَـٰفِلُونَ",
+            "page_number": 502,
+            "juz_number": 26,
+            "translations": [
+                {
+                    "id": 100073,
+                    "resource_id": 20,
+                    "text": "And who is more astray than he who invokes besides Allāh those who will not respond to him until the Day of Resurrection [i.e., never], and they, of their invocation, are unaware."
+                },
+                {
+                    "id": 217922,
+                    "resource_id": 39,
+                    "text": "Dan tidak ada yang lebih sesat daripada orang yang menyembah sesuatu yang lain dari Allah, yang tidak dapat menyahut atau memberikan sebarang pertolongan kepadanya (dari dunia) hinggalah ke hari kiamat, sedang makhluk-makhluk yang mereka sembah itu tidak dapat menyedari atau memberi layanan baik kepada permohonan mereka."
+                },
+                {
+                    "id": 1095492,
+                    "resource_id": 161,
+                    "text": "তার চেয়ে অধিক গুমরাহ কে, যে আল্লাহর পরিবর্তে এমন কিছুকে ডাকে যা ক্বিয়ামত পর্যন্ত তাকে সাড়া দেবে না, আর তাদের ডাকাডাকি সম্পর্কেও তারা (একদম) বেখবর?"
+                }
+            ]
+        },
+        {
+            "id": 4516,
+            "verse_number": 6,
+            "verse_key": "46:6",
+            "hizb_number": 51,
+            "rub_el_hizb_number": 201,
+            "ruku_number": 440,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا حُشِرَ ٱلنَّاسُ كَانُوا۟ لَهُمْ أَعْدَآءً وَكَانُوا۟ بِعِبَادَتِهِمْ كَـٰفِرِينَ",
+            "page_number": 503,
+            "juz_number": 26,
+            "translations": [
+                {
+                    "id": 100075,
+                    "resource_id": 20,
+                    "text": "And when the people are gathered [that Day], they [who were invoked] will be enemies to them, and they will be deniers of their worship."
+                },
+                {
+                    "id": 217924,
+                    "resource_id": 39,
+                    "text": "Dan apabila manusia dihimpunkan (untuk dihitung amalnya pada hari akhirat), menjadilah segala yang disembah itu musuh kepada orang-orang yang menyembahnya, dan segala yang disembah itu juga tidak mengakui serta mendustakan penyembahan mereka kepadanya."
+                },
+                {
+                    "id": 1095493,
+                    "resource_id": 161,
+                    "text": "ক্বিয়ামতের দিন মানুষকে যখন একত্রিত করা হবে, তখন ঐগুলো (অর্থাৎ উপাস্যরা) হবে মানুষের শত্রু আর মানুষ যে তাদের ‘ইবাদাত করেছিল তা তারা অস্বীকার করবে।"
+                }
+            ]
+        },
+        {
+            "id": 4517,
+            "verse_number": 7,
+            "verse_key": "46:7",
+            "hizb_number": 51,
+            "rub_el_hizb_number": 201,
+            "ruku_number": 440,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَـٰتُنَا بَيِّنَـٰتٍ قَالَ ٱلَّذِينَ كَفَرُوا۟ لِلْحَقِّ لَمَّا جَآءَهُمْ هَـٰذَا سِحْرٌ مُّبِينٌ",
+            "page_number": 503,
+            "juz_number": 26,
+            "translations": [
+                {
+                    "id": 100077,
+                    "resource_id": 20,
+                    "text": "And when Our verses are recited to them as clear evidences, those who disbelieve say of the truth when it has come to them, \"This is obvious magic.\""
+                },
+                {
+                    "id": 217925,
+                    "resource_id": 39,
+                    "text": "Dan apabila dibacakan kepada mereka (yang kafir) ayat-ayat Quran kami yang jelas nyata, berkatalah mereka terhadap kebenaran (Al-Quran) bila sahaja disampaikan kepada mereka: \"Ini ialah sihir yang nyata!\"."
+                },
+                {
+                    "id": 1095494,
+                    "resource_id": 161,
+                    "text": "তাদের কাছে যখন আমার সুস্পষ্ট আয়াত আবৃত্তি করা হয় আর সত্য যখন তাদের কাছে উপস্থিত হয়, তখন কাফিররা বলে- এটাতো প্রকাশ্য যাদু।"
+                }
+            ]
+        },
+        {
+            "id": 4518,
+            "verse_number": 8,
+            "verse_key": "46:8",
+            "hizb_number": 51,
+            "rub_el_hizb_number": 201,
+            "ruku_number": 440,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ إِنِ ٱفْتَرَيْتُهُۥ فَلَا تَمْلِكُونَ لِى مِنَ ٱللَّهِ شَيْـًٔا ۖ هُوَ أَعْلَمُ بِمَا تُفِيضُونَ فِيهِ ۖ كَفَىٰ بِهِۦ شَهِيدًۢا بَيْنِى وَبَيْنَكُمْ ۖ وَهُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
+            "page_number": 503,
+            "juz_number": 26,
+            "translations": [
+                {
+                    "id": 100079,
+                    "resource_id": 20,
+                    "text": "Or do they say, \"He has invented it\"? Say, \"If I have invented it, you will not possess for me [the power of protection] from Allāh at all. He is most knowing of that in which you are involved.<sup foot_note=197362>1</sup> Sufficient is He as Witness between me and you, and He is the Forgiving, the Merciful.\""
+                },
+                {
+                    "id": 217929,
+                    "resource_id": 39,
+                    "text": "(Bukan setakat itu sahaja mereka katakan) bahkan mereka menuduh dengan berkata: \"Muhammad telah merekakan Al-Quran itu.\" Katakanlah (Wahai Muhammad): \"Kalau aku merekakan Al-Quran itu (maka tentulah aku tidak terlepas dari azab kesalahan itu) kerana kamu (dan juga yang lain dari kamu) tidak berkuasa memberikan daku sebarang perlindungan dari (azab) Allah. Allah lebih mengetahui akan (tuduhan-tuduhan yang tidak berasas) yang kamu perkatakan itu; cukuplah Allah menjadi saksi antaraku dengan kamu, dan Dia lah jua Yang Maha Pengampun, lagi Maha Mengasihani.\""
+                },
+                {
+                    "id": 1095495,
+                    "resource_id": 161,
+                    "text": "তারা কি বলতে চায় যে, রসূল নিজেই তা রচনা করেছে? বল, তা যদি আমি রচনা করে থাকি তাহলে তোমরা আল্লাহর শাস্তি হতে আমাকে কিছুতেই বাঁচাতে পারবে না। আল্লাহ ভাল করেই জানেন যে বিষয়ে তোমরা মত্ত আছ। আমার আর তোমাদের মধ্যে সাক্ষী হিসেবে তিনিই যথেষ্ট, আর তিনি বড়ই ক্ষমাশীল, বড়ই দয়ালু।"
+                }
+            ]
+        },
+        {
+            "id": 4519,
+            "verse_number": 9,
+            "verse_key": "46:9",
+            "hizb_number": 51,
+            "rub_el_hizb_number": 201,
+            "ruku_number": 440,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "قُلْ مَا كُنتُ بِدْعًا مِّنَ ٱلرُّسُلِ وَمَآ أَدْرِى مَا يُفْعَلُ بِى وَلَا بِكُمْ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ وَمَآ أَنَا۠ إِلَّا نَذِيرٌ مُّبِينٌ",
+            "page_number": 503,
+            "juz_number": 26,
+            "translations": [
+                {
+                    "id": 100081,
+                    "resource_id": 20,
+                    "text": "Say, \"I am not something original among the messengers,<sup foot_note=197363>1</sup> nor do I know what will be done with me or with you. I only follow that which is revealed to me, and I am not but a clear warner.\""
+                },
+                {
+                    "id": 217932,
+                    "resource_id": 39,
+                    "text": "Katakanlah lagi: \"Bukanlah aku seorang Rasul pembawa ugama yang berlainan dari ugama yang dibawa oleh Rasul-rasul (yang telah lalu), dan aku tidak mengetahui apa yang akan dilakukan kepadaku dan kepada kamu. Aku tidak melakukan sesuatu melainkan menurut apa yang diwahyukan kepadaku, dan aku tidak lain hanyalah seorang Rasul pemberi amaran yang jelas nyata\""
+                },
+                {
+                    "id": 1095496,
+                    "resource_id": 161,
+                    "text": "বল, আমি রসূলদের মধ্যে নতুন নই, আর আমি এও জানি না যে, আমার সঙ্গে কী ব্যবহার করা হবে আর তোমাদের সঙ্গেইবা কেমন (ব্যবহার করা হবে), আমি কেবল তাই মেনে চলি যা আমার প্রতি ওয়াহী করা হয়। আমি তো স্পষ্ট সতর্ককারী মাত্র।"
+                }
+            ]
+        },
+        {
+            "id": 4520,
+            "verse_number": 10,
+            "verse_key": "46:10",
+            "hizb_number": 51,
+            "rub_el_hizb_number": 201,
+            "ruku_number": 440,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "قُلْ أَرَءَيْتُمْ إِن كَانَ مِنْ عِندِ ٱللَّهِ وَكَفَرْتُم بِهِۦ وَشَهِدَ شَاهِدٌ مِّنۢ بَنِىٓ إِسْرَٰٓءِيلَ عَلَىٰ مِثْلِهِۦ فَـَٔامَنَ وَٱسْتَكْبَرْتُمْ ۖ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+            "page_number": 503,
+            "juz_number": 26,
+            "translations": [
+                {
+                    "id": 100041,
+                    "resource_id": 20,
+                    "text": "Say, \"Have you considered: if it [i.e., the Qur’ān] was from Allāh, and you disbelieved in it while a witness from the Children of Israel has testified to something similar<sup foot_note=197365>1</sup> and believed while you were arrogant...?\"<sup foot_note=197364>2</sup> Indeed, Allāh does not guide the wrongdoing people."
+                },
+                {
+                    "id": 217878,
+                    "resource_id": 39,
+                    "text": "Katakanlah lagi: \"Bagaimana fikiran kamu jika Al-Quran ini (yang datangnya) dari Allah dan kamu mengingkarinya, pada hal ada seorang saksi dari Bani Israil memberi keterangan mengakui (sahnya Kitab) yang sama seperti Al-Quran ini, lalu ia percayakan (Al-Quran ini dari Allah), sedang kamu dengan sombong angkuh mengingkarinya? (Tidakkah dengan yang demikian kamu bersifat zalim)? Sesungguhnya Allah tidak memberi hidayah petunjuk kepada orang-orang yang zalim (yang degil dalam kekufurannya)\"."
+                },
+                {
+                    "id": 1095497,
+                    "resource_id": 161,
+                    "text": "বল- তোমরা কি ভেবে দেখেছ যদি এ (কুরআন) আল্লাহর পক্ষ থেকে এসে থাকে আর তা তোমরা প্রত্যাখ্যান কর অথচ এ ধরনের কালাম সম্পর্কে বানী ইসরাঈলের একজন [‘আবদুল্লাহ বিন সালাম (রাযি.)] সাক্ষ্যও দিয়েছে। সে ঈমান আনল আর তোমরা অহঙ্কার করলে? আল্লাহ যালিম লোকদেরকে সঠিক পথ দেখান না।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 20,
+        "total_records": 195
+    }
+}

@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 5420,
+            "verse_number": 1,
+            "verse_key": "71:1",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 506,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " إِنَّآ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ أَنْ أَنذِرْ قَوْمَكَ مِن قَبْلِ أَن يَأْتِيَهُمْ عَذَابٌ أَلِيمٌ",
+            "page_number": 570,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101276,
+                    "resource_id": 20,
+                    "text": "Indeed, We sent Noah to his people, [saying], \"Warn your people before there comes to them a painful punishment.\""
+                },
+                {
+                    "id": 219149,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Kami telah mengutus Nabi Nuh kepada kaumnya, (dengan berfirman kepadanya): \"Berikanlah peringatan dan amaran kepada kaummu sebelum mereka didatangi azab yang tidak terperi sakitnya\"."
+                },
+                {
+                    "id": 1096397,
+                    "resource_id": 161,
+                    "text": "আমি নূহকে তার জাতির কাছে পাঠিয়েছিলাম (এই নির্দেশ দিয়ে) যে, তুমি তোমার জাতিকে সতর্ক কর তাদের কাছে মর্মান্তিক ‘আযাব আসার পূর্বে।"
+                }
+            ]
+        },
+        {
+            "id": 5421,
+            "verse_number": 2,
+            "verse_key": "71:2",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 506,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌ مُّبِينٌ",
+            "page_number": 570,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101298,
+                    "resource_id": 20,
+                    "text": "He said, \"O my people, indeed I am to you a clear warner -"
+                },
+                {
+                    "id": 219134,
+                    "resource_id": 39,
+                    "text": "dia pun (menyeru mereka dengan) berkata: \"Wahai kaumku! Sesungguhnya aku ini diutus kepada kamu, sebagai pemberi ingatan dan amaran yang nyata;"
+                },
+                {
+                    "id": 1096398,
+                    "resource_id": 161,
+                    "text": "সে বলেছিল, ‘‘হে আমার জাতির লোকেরা! আমি তোমাদের জন্য এক সুস্পষ্ট সতর্ককারী,"
+                }
+            ]
+        },
+        {
+            "id": 5422,
+            "verse_number": 3,
+            "verse_key": "71:3",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 506,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَنِ ٱعْبُدُوا۟ ٱللَّهَ وَٱتَّقُوهُ وَأَطِيعُونِ",
+            "page_number": 570,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101321,
+                    "resource_id": 20,
+                    "text": "To worship Allāh, fear Him and obey me."
+                },
+                {
+                    "id": 219168,
+                    "resource_id": 39,
+                    "text": "\"Iaitu sembahlah kamu akan Allah dan bertaqwalah kepadaNya, serta taatlah kamu kepadaku;"
+                },
+                {
+                    "id": 1096399,
+                    "resource_id": 161,
+                    "text": "এ বিষয়ে যে, তোমরা আল্লাহর ‘ইবাদাত কর, তাঁকেই ভয় কর, আর আমার কথা মান্য কর।"
+                }
+            ]
+        },
+        {
+            "id": 5423,
+            "verse_number": 4,
+            "verse_key": "71:4",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 506,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "يَغْفِرْ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرْكُمْ إِلَىٰٓ أَجَلٍ مُّسَمًّى ۚ إِنَّ أَجَلَ ٱللَّهِ إِذَا جَآءَ لَا يُؤَخَّرُ ۖ لَوْ كُنتُمْ تَعْلَمُونَ",
+            "page_number": 570,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101333,
+                    "resource_id": 20,
+                    "text": "He [i.e., Allāh] will forgive you of your sins and delay you for a specified term. Indeed, the time [set by] Allāh, when it comes, will not be delayed, if you only knew.\""
+                },
+                {
+                    "id": 219181,
+                    "resource_id": 39,
+                    "text": "\"Supaya Allah mengampunkan bagi kamu sebahagian dari dosa-dosa kamu, dan memberi kamu hidup (dengan tidak terkena azab) hingga ke suatu masa yang tertentu; (maka segeralah beribadat dan bertaqwa) kerana sesungguhnya ajal (yang telah ditetapkan) Allah, apabila sampai masanya, tidak dapat ditangguhkan; kalaulah kamu mengetahui (hakikat ini tentulah kamu segera beriman)\"."
+                },
+                {
+                    "id": 1096400,
+                    "resource_id": 161,
+                    "text": "তাহলে তিনি তোমাদের পাপ ক্ষমা করে দেবেন এবং একটা নির্দিষ্ট সময় পর্যন্ত তোমাদেরকে অবকাশ দেবেন। আল্লাহ কর্তৃক নিদিষ্ট সময় যখন আসবে তখন আর তা বিলম্বিত হবে না। তোমরা যদি জানতে!’"
+                }
+            ]
+        },
+        {
+            "id": 5424,
+            "verse_number": 5,
+            "verse_key": "71:5",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 506,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًا وَنَهَارًا",
+            "page_number": 570,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101345,
+                    "resource_id": 20,
+                    "text": "He said, \"My Lord, indeed I invited my people [to truth] night and day."
+                },
+                {
+                    "id": 219198,
+                    "resource_id": 39,
+                    "text": "(Setelah puas menyeru mereka), Nabi Nuh berdoa dengan berkata: \"Wahai Tuhanku, sesungguhnya aku telah menyeru kaumku siang dan malam (supaya mereka beriman);"
+                },
+                {
+                    "id": 1096401,
+                    "resource_id": 161,
+                    "text": "সে বলেছিল, ‘হে আমার প্রতিপালক! আমি আমার জাতিকে রাত-দিন ডেকেছি,"
+                }
+            ]
+        },
+        {
+            "id": 5425,
+            "verse_number": 6,
+            "verse_key": "71:6",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 506,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَلَمْ يَزِدْهُمْ دُعَآءِىٓ إِلَّا فِرَارًا",
+            "page_number": 570,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101356,
+                    "resource_id": 20,
+                    "text": "But my invitation increased them not except in flight [i.e., aversion]."
+                },
+                {
+                    "id": 219211,
+                    "resource_id": 39,
+                    "text": "\"Maka seruanku itu tidak memberikan mereka (sesuatu faedah pun) selain daripada menambahi mereka melarikan diri (dari kebenaran)."
+                },
+                {
+                    "id": 1096402,
+                    "resource_id": 161,
+                    "text": "কিন্তু আমার ডাক কেবল তাদের পলায়নী মনোবৃত্তিকেই বাড়িয়ে দিয়েছে,"
+                }
+            ]
+        },
+        {
+            "id": 5426,
+            "verse_number": 7,
+            "verse_key": "71:7",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 506,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِنِّى كُلَّمَا دَعَوْتُهُمْ لِتَغْفِرَ لَهُمْ جَعَلُوٓا۟ أَصَـٰبِعَهُمْ فِىٓ ءَاذَانِهِمْ وَٱسْتَغْشَوْا۟ ثِيَابَهُمْ وَأَصَرُّوا۟ وَٱسْتَكْبَرُوا۟ ٱسْتِكْبَارًا",
+            "page_number": 570,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101368,
+                    "resource_id": 20,
+                    "text": "And indeed, every time I invited them that You may forgive them, they put their fingers in their ears, covered themselves with their garments,<sup foot_note=197620>1</sup> persisted, and were arrogant with [great] arrogance."
+                },
+                {
+                    "id": 219223,
+                    "resource_id": 39,
+                    "text": "\"Dan sesungguhnya aku, tiap-tiap kali menyeru mereka (beriman) supaya Engkau mengampunkan dosa-dosa mereka, - mereka menyumbatkan telinganya dengan jari masing-masing, dan berselubung dengan pakaiannya, serta berdegil dengan keingkarannya, dan berlaku sombong takbur dengan melampau."
+                },
+                {
+                    "id": 1096403,
+                    "resource_id": 161,
+                    "text": "আমি যখনই তাদেরকে ডাকি যেন তুমি তাদেরকে ক্ষমা করে দাও, তখনই তারা তাদের কানে আঙ্গুল ডুকিয়ে দিয়েছে, কাপড়ে মুখ ঢেকে নিয়েছে, জিদ করেছে আর খুব বেশি অহঙ্কার করেছে।"
+                }
+            ]
+        },
+        {
+            "id": 5427,
+            "verse_number": 8,
+            "verse_key": "71:8",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 506,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ثُمَّ إِنِّى دَعَوْتُهُمْ جِهَارًا",
+            "page_number": 570,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101383,
+                    "resource_id": 20,
+                    "text": "Then I invited them publicly."
+                },
+                {
+                    "id": 219235,
+                    "resource_id": 39,
+                    "text": "\"Kemudian aku telah menyeru mereka dengan terang-terang;"
+                },
+                {
+                    "id": 1096404,
+                    "resource_id": 161,
+                    "text": "অতঃপর তাদেরকে আমি উচ্চৈঃস্বরে ডেকেছি,"
+                }
+            ]
+        },
+        {
+            "id": 5428,
+            "verse_number": 9,
+            "verse_key": "71:9",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 506,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ثُمَّ إِنِّىٓ أَعْلَنتُ لَهُمْ وَأَسْرَرْتُ لَهُمْ إِسْرَارًا",
+            "page_number": 570,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101395,
+                    "resource_id": 20,
+                    "text": "Then I announced to them and [also] confided to them secretly"
+                },
+                {
+                    "id": 214917,
+                    "resource_id": 39,
+                    "text": "\"Selain dari itu, aku (berulang-ulang) menyeru mereka secara beramai-ramai dengan berterus-terang, dan menyeru mereka lagi secara berseorangan dengan perlahan-lahan."
+                },
+                {
+                    "id": 1096405,
+                    "resource_id": 161,
+                    "text": "এর পর আমি প্রকাশ্যভাবেও তাদের কাছে প্রচার করেছি, আর গোপনে গোপনেও তাদেরকে বুঝিয়েছি।"
+                }
+            ]
+        },
+        {
+            "id": 5429,
+            "verse_number": 10,
+            "verse_key": "71:10",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 506,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَقُلْتُ ٱسْتَغْفِرُوا۟ رَبَّكُمْ إِنَّهُۥ كَانَ غَفَّارًا",
+            "page_number": 570,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101278,
+                    "resource_id": 20,
+                    "text": "And said, 'Ask forgiveness of your Lord. Indeed, He is ever a Perpetual Forgiver."
+                },
+                {
+                    "id": 219115,
+                    "resource_id": 39,
+                    "text": "\"Sehingga aku berkata (kepada mereka): `Pohonkanlah ampun kepada Tuhan kamu, sesungguhnya adalah Ia Maha Pengampun."
+                },
+                {
+                    "id": 1096406,
+                    "resource_id": 161,
+                    "text": "আমি বলেছি- ‘তোমরা তোমাদের রব্বের কাছে ক্ষমা চাও, তিনি বড়ই ক্ষমাশীল।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 3,
+        "total_records": 28
+    }
+}

@@ -1,0 +1,821 @@
+{
+    "verses": [
+        {
+            "id": 4942,
+            "verse_number": 41,
+            "verse_key": "55:41",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 469,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "يُعْرَفُ ٱلْمُجْرِمُونَ بِسِيمَـٰهُمْ فَيُؤْخَذُ بِٱلنَّوَٰصِى وَٱلْأَقْدَامِ",
+            "page_number": 533,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100570,
+                    "resource_id": 20,
+                    "text": "The criminals will be known by their marks, and they will be seized by the forelocks and the feet."
+                },
+                {
+                    "id": 218571,
+                    "resource_id": 39,
+                    "text": "Orang-orang yang berdosa dapat dikenal dari tanda-tandanya, lalu dipegang dari atas kepala dan kakinya (serta diseret ke neraka);"
+                },
+                {
+                    "id": 1095919,
+                    "resource_id": 161,
+                    "text": "অপরাধীদেরকে চিনতে পারা যাবে তাদের চেহারা থেকেই, আর মাথার ঝুঁটি ও পা ধরে তাদেরকে পাকড়াও করা হবে।"
+                }
+            ]
+        },
+        {
+            "id": 4943,
+            "verse_number": 42,
+            "verse_key": "55:42",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 469,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "page_number": 533,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100571,
+                    "resource_id": 20,
+                    "text": "So which of the favors of your Lord would you deny?"
+                },
+                {
+                    "id": 218414,
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                },
+                {
+                    "id": 1095920,
+                    "resource_id": 161,
+                    "text": "অতএব (হে জ্বিন ও মানুষ!) তোমরা তোমাদের প্রতিপালকের কোন্ কোন্ নি‘মাতকে অস্বীকার করবে?"
+                }
+            ]
+        },
+        {
+            "id": 4944,
+            "verse_number": 43,
+            "verse_key": "55:43",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 469,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "هَـٰذِهِۦ جَهَنَّمُ ٱلَّتِى يُكَذِّبُ بِهَا ٱلْمُجْرِمُونَ",
+            "page_number": 533,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100572,
+                    "resource_id": 20,
+                    "text": "This is Hell, which the criminals deny."
+                },
+                {
+                    "id": 218415,
+                    "resource_id": 39,
+                    "text": "(Lalu dikatakan kepada mereka): \"Inilah neraka Jahannam yang selalu orang-orang yang berdosa mendustakannya \"."
+                },
+                {
+                    "id": 1095921,
+                    "resource_id": 161,
+                    "text": "এটা সেই জাহান্নাম যাকে অপরাধীরা মিথ্যে মনে করেছিল।"
+                }
+            ]
+        },
+        {
+            "id": 4945,
+            "verse_number": 44,
+            "verse_key": "55:44",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 469,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ ءَانٍ",
+            "page_number": 533,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100573,
+                    "resource_id": 20,
+                    "text": "They will circulate between it and scalding water, heated [to the utmost degree]."
+                },
+                {
+                    "id": 218515,
+                    "resource_id": 39,
+                    "text": "Mereka (terus diseksa) berulang-ulang di antara api neraka dengan air yang menggelegak yang cukup masak panasnya!"
+                },
+                {
+                    "id": 1095922,
+                    "resource_id": 161,
+                    "text": "সেই জাহান্নাম আর ফুটন্ত পানিতে তারা ঘুরপাক খেতে থাকবে।"
+                }
+            ]
+        },
+        {
+            "id": 4946,
+            "verse_number": 45,
+            "verse_key": "55:45",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 469,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "page_number": 533,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100574,
+                    "resource_id": 20,
+                    "text": "So which of the favors of your Lord would you deny?"
+                },
+                {
+                    "id": 218516,
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                },
+                {
+                    "id": 1095923,
+                    "resource_id": 161,
+                    "text": "অতএব (হে জ্বিন ও মানুষ!) তোমরা তোমাদের প্রতিপালকের কোন্ কোন্ নি‘মাতকে অস্বীকার করবে?"
+                }
+            ]
+        },
+        {
+            "id": 4947,
+            "verse_number": 46,
+            "verse_key": "55:46",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 470,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلِمَنْ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ",
+            "page_number": 533,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100575,
+                    "resource_id": 20,
+                    "text": "But for he who has feared the position of his Lord<sup foot_note=197478>1</sup> are two gardens -"
+                },
+                {
+                    "id": 218346,
+                    "resource_id": 39,
+                    "text": "Dan orang yang takut akan keadaan dirinya di mahkamah Tuhannya (untuk dihitung amalnya), disediakan baginya dua Syurga, -"
+                },
+                {
+                    "id": 1095924,
+                    "resource_id": 161,
+                    "text": "আর যে তার প্রতিপালকের সামনে হাজির হওয়ার ভয় রাখে তার জন্য আছে দু’টো বাগান।"
+                }
+            ]
+        },
+        {
+            "id": 4948,
+            "verse_number": 47,
+            "verse_key": "55:47",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 470,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "page_number": 533,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100576,
+                    "resource_id": 20,
+                    "text": "So which of the favors of your Lord would you deny? -"
+                },
+                {
+                    "id": 218111,
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                },
+                {
+                    "id": 1095925,
+                    "resource_id": 161,
+                    "text": "অতএব (হে জ্বিন ও মানুষ!) তোমরা তোমাদের প্রতিপালকের কোন কোন নি‘মাতকে অস্বীকার করবে?"
+                }
+            ]
+        },
+        {
+            "id": 4949,
+            "verse_number": 48,
+            "verse_key": "55:48",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 470,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ذَوَاتَآ أَفْنَانٍ",
+            "page_number": 533,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100577,
+                    "resource_id": 20,
+                    "text": "Having [spreading] branches."
+                },
+                {
+                    "id": 218418,
+                    "resource_id": 39,
+                    "text": "(Dua Syurga) yang ada berjenis-jenis pohon dan buah-buahan; -"
+                },
+                {
+                    "id": 1095926,
+                    "resource_id": 161,
+                    "text": "দু’টোই শাখা পল্লবে ভরপুর।"
+                }
+            ]
+        },
+        {
+            "id": 4950,
+            "verse_number": 49,
+            "verse_key": "55:49",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 470,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "page_number": 533,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100578,
+                    "resource_id": 20,
+                    "text": "So which of the favors of your Lord would you deny?"
+                },
+                {
+                    "id": 218166,
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                },
+                {
+                    "id": 1095927,
+                    "resource_id": 161,
+                    "text": "অতএব (হে জ্বিন ও মানুষ!) তোমরা তোমাদের প্রতিপালকের কোন্ কোন্ নি‘মাতকে অস্বীকার করবে?"
+                }
+            ]
+        },
+        {
+            "id": 4951,
+            "verse_number": 50,
+            "verse_key": "55:50",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 470,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فِيهِمَا عَيْنَانِ تَجْرِيَانِ",
+            "page_number": 533,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100581,
+                    "resource_id": 20,
+                    "text": "In both of them are two springs, flowing."
+                },
+                {
+                    "id": 218573,
+                    "resource_id": 39,
+                    "text": "Pada kedua-dua Syurga itu terdapat dua matair yang mengalir; -"
+                },
+                {
+                    "id": 1095928,
+                    "resource_id": 161,
+                    "text": "দু’বাগানেই আছে দু’টো করে প্রবহমান ঝর্ণা।"
+                }
+            ]
+        },
+        {
+            "id": 4952,
+            "verse_number": 51,
+            "verse_key": "55:51",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 470,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "page_number": 533,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100582,
+                    "resource_id": 20,
+                    "text": "So which of the favors of your Lord would you deny?"
+                },
+                {
+                    "id": 218416,
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan."
+                },
+                {
+                    "id": 1095929,
+                    "resource_id": 161,
+                    "text": "অতএব (হে জ্বিন ও মানুষ!) তোমরা তোমাদের প্রতিপালকের কোন্ কোন্ নি‘মাতকে অস্বীকার করবে?"
+                }
+            ]
+        },
+        {
+            "id": 4953,
+            "verse_number": 52,
+            "verse_key": "55:52",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 470,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فِيهِمَا مِن كُلِّ فَـٰكِهَةٍ زَوْجَانِ",
+            "page_number": 533,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100583,
+                    "resource_id": 20,
+                    "text": "In both of them are of every fruit, two kinds."
+                },
+                {
+                    "id": 218424,
+                    "resource_id": 39,
+                    "text": "Pada kedua Syurga itu terdapat dua macam dari tiap-tiap jenis buah-buahan (yang biasa dan yang luar biasa)."
+                },
+                {
+                    "id": 1095930,
+                    "resource_id": 161,
+                    "text": "উভয় বাগানে আছে প্রত্যেকটি ফলের দু’টি প্রকার।"
+                }
+            ]
+        },
+        {
+            "id": 4954,
+            "verse_number": 53,
+            "verse_key": "55:53",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 470,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "page_number": 533,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100584,
+                    "resource_id": 20,
+                    "text": "So which of the favors of your Lord would you deny?"
+                },
+                {
+                    "id": 218574,
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                },
+                {
+                    "id": 1095931,
+                    "resource_id": 161,
+                    "text": "অতএব (হে জ্বিন ও মানুষ!) তোমরা তোমাদের প্রতিপালকের কোন্ কোন্ নি‘মাতকে অস্বীকার করবে?"
+                }
+            ]
+        },
+        {
+            "id": 4955,
+            "verse_number": 54,
+            "verse_key": "55:54",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 470,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "مُتَّكِـِٔينَ عَلَىٰ فُرُشٍۭ بَطَآئِنُهَا مِنْ إِسْتَبْرَقٍ ۚ وَجَنَى ٱلْجَنَّتَيْنِ دَانٍ",
+            "page_number": 533,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100585,
+                    "resource_id": 20,
+                    "text": "[They are] reclining on beds whose linings are of silk brocade, and the fruit of the two gardens is hanging low."
+                },
+                {
+                    "id": 218423,
+                    "resource_id": 39,
+                    "text": "Mereka (bersenang-senang di tempat masing-masing dalam Syurga itu dengan) berbaring di atas hamparan-hamparan, yang lapisan-lapisan sebelah dalamnya - dari sutera tebal yang bersulam; dan buah-buahan kedua-dua Syurga itu dekat (kepada mereka) untuk dipetik."
+                },
+                {
+                    "id": 1095932,
+                    "resource_id": 161,
+                    "text": "তারা হেলান দিয়ে বসবে শয্যার উপর যার আস্তর হবে পুরু রেশমের। দু’বাগানের ফল হবে নিকটবর্তী (জান্নাতীদের নাগালের মধ্যে)।"
+                }
+            ]
+        },
+        {
+            "id": 4956,
+            "verse_number": 55,
+            "verse_key": "55:55",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 470,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "page_number": 533,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100586,
+                    "resource_id": 20,
+                    "text": "So which of the favors of your Lord would you deny?"
+                },
+                {
+                    "id": 218451,
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                },
+                {
+                    "id": 1095933,
+                    "resource_id": 161,
+                    "text": "অতএব (হে জ্বিন ও মানুষ!) তোমরা তোমাদের প্রতিপালকের কোন্ কোন্ নি‘মাতকে অস্বীকার করবে?"
+                }
+            ]
+        },
+        {
+            "id": 4957,
+            "verse_number": 56,
+            "verse_key": "55:56",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 470,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فِيهِنَّ قَـٰصِرَٰتُ ٱلطَّرْفِ لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَا جَآنٌّ",
+            "page_number": 533,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100587,
+                    "resource_id": 20,
+                    "text": "In them are women limiting [their] glances,<sup foot_note=197480>1</sup> untouched<sup foot_note=197479>2</sup> before them by man or jinnī -"
+                },
+                {
+                    "id": 218425,
+                    "resource_id": 39,
+                    "text": "Di dalam Syurga-syurga itu terdapat bidadari-bidadari yang pandangannya tertumpu (kepada mereka semata-mata), yang tidak pernah disentuh sebelum mereka oleh manusia dan jin;"
+                },
+                {
+                    "id": 1095934,
+                    "resource_id": 161,
+                    "text": "তার মধ্যে থাকবে সতীসাধ্বী সংযত-নয়না (কুমারী)রা, পূর্বে যাদেরকে স্পর্শ করেনি কোন মানুষ আর কোন জ্বিন।"
+                }
+            ]
+        },
+        {
+            "id": 4958,
+            "verse_number": 57,
+            "verse_key": "55:57",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 470,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "page_number": 533,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100588,
+                    "resource_id": 20,
+                    "text": "So which of the favors of your Lord would you deny? -"
+                },
+                {
+                    "id": 218426,
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                },
+                {
+                    "id": 1095935,
+                    "resource_id": 161,
+                    "text": "অতএব (হে জ্বিন ও মানুষ!) তোমরা তোমাদের প্রতিপালকের কোন্ কোন্ নি‘মাতকে অস্বীকার করবে?"
+                }
+            ]
+        },
+        {
+            "id": 4959,
+            "verse_number": 58,
+            "verse_key": "55:58",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 470,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "كَأَنَّهُنَّ ٱلْيَاقُوتُ وَٱلْمَرْجَانُ",
+            "page_number": 533,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100589,
+                    "resource_id": 20,
+                    "text": "As if they were rubies and coral.<sup foot_note=197481>1</sup>"
+                },
+                {
+                    "id": 218429,
+                    "resource_id": 39,
+                    "text": "Bidadari-bidadari itu (cantik berseri) seperti permata delima dan marjan."
+                },
+                {
+                    "id": 1095936,
+                    "resource_id": 161,
+                    "text": "তারা যেন পদ্মরাগ ও প্রবাল।"
+                }
+            ]
+        },
+        {
+            "id": 4960,
+            "verse_number": 59,
+            "verse_key": "55:59",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 470,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "page_number": 533,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100590,
+                    "resource_id": 20,
+                    "text": "So which of the favors of your Lord would you deny?"
+                },
+                {
+                    "id": 218427,
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                },
+                {
+                    "id": 1095937,
+                    "resource_id": 161,
+                    "text": "অতএব (হে জ্বিন ও মানুষ!) তোমরা তোমাদের প্রতিপালকের কোন্ কোন্ নি‘মাতকে অস্বীকার করবে?"
+                }
+            ]
+        },
+        {
+            "id": 4961,
+            "verse_number": 60,
+            "verse_key": "55:60",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 470,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "هَلْ جَزَآءُ ٱلْإِحْسَـٰنِ إِلَّا ٱلْإِحْسَـٰنُ",
+            "page_number": 533,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100593,
+                    "resource_id": 20,
+                    "text": "Is the reward for good [anything] but good?"
+                },
+                {
+                    "id": 218431,
+                    "resource_id": 39,
+                    "text": "Bukankah tidak ada balasan bagi amal yang baik - melainkan balasan yang baik juga?"
+                },
+                {
+                    "id": 1095938,
+                    "resource_id": 161,
+                    "text": "উত্তম কাজের প্রতিফল উত্তম পুরস্কার ছাড়া কী হতে পারে?"
+                }
+            ]
+        },
+        {
+            "id": 4962,
+            "verse_number": 61,
+            "verse_key": "55:61",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 470,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "page_number": 533,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100594,
+                    "resource_id": 20,
+                    "text": "So which of the favors of your Lord would you deny?"
+                },
+                {
+                    "id": 218433,
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                },
+                {
+                    "id": 1095939,
+                    "resource_id": 161,
+                    "text": "অতএব (হে জ্বিন ও মানুষ!) তোমরা তোমাদের প্রতিপালকের কোন্ কোন্ নি‘মাতকে অস্বীকার করবে?"
+                }
+            ]
+        },
+        {
+            "id": 4963,
+            "verse_number": 62,
+            "verse_key": "55:62",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 470,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمِن دُونِهِمَا جَنَّتَانِ",
+            "page_number": 533,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100595,
+                    "resource_id": 20,
+                    "text": "And below them both [in excellence] are two [other] gardens -"
+                },
+                {
+                    "id": 218432,
+                    "resource_id": 39,
+                    "text": "Dan selain dari dua Syurga itu, dua Syurga lagi (untuk menjadi balasan bagi golongan peringkat yang kedua);"
+                },
+                {
+                    "id": 1095940,
+                    "resource_id": 161,
+                    "text": "এ দু’টো বাগান ছাড়াও আরো বাগান আছে।"
+                }
+            ]
+        },
+        {
+            "id": 4964,
+            "verse_number": 63,
+            "verse_key": "55:63",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 470,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "page_number": 533,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100596,
+                    "resource_id": 20,
+                    "text": "So which of the favors of your Lord would you deny? -"
+                },
+                {
+                    "id": 218441,
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                },
+                {
+                    "id": 1095941,
+                    "resource_id": 161,
+                    "text": "অতএব (হে জ্বিন ও মানুষ!) তোমরা তোমাদের প্রতিপালকের কোন্ কোন্ নি‘মাতকে অস্বীকার করবে?"
+                }
+            ]
+        },
+        {
+            "id": 4965,
+            "verse_number": 64,
+            "verse_key": "55:64",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 470,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "مُدْهَآمَّتَانِ",
+            "page_number": 533,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100597,
+                    "resource_id": 20,
+                    "text": "Dark green [in color]."
+                },
+                {
+                    "id": 218434,
+                    "resource_id": 39,
+                    "text": "Kedua-duanya menghijau subur tanamannya;"
+                },
+                {
+                    "id": 1095942,
+                    "resource_id": 161,
+                    "text": "ঘন সবুজ এ বাগান দু’টো।"
+                }
+            ]
+        },
+        {
+            "id": 4966,
+            "verse_number": 65,
+            "verse_key": "55:65",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 470,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "page_number": 533,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100598,
+                    "resource_id": 20,
+                    "text": "So which of the favors of your Lord would you deny?"
+                },
+                {
+                    "id": 218435,
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                },
+                {
+                    "id": 1095943,
+                    "resource_id": 161,
+                    "text": "অতএব (হে জ্বিন ও মানুষ!) তোমরা তোমাদের প্রতিপালকের কোন্ কোন্ নি‘মাতকে অস্বীকার করবে?"
+                }
+            ]
+        },
+        {
+            "id": 4967,
+            "verse_number": 66,
+            "verse_key": "55:66",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 470,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ",
+            "page_number": 533,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100599,
+                    "resource_id": 20,
+                    "text": "In both of them are two springs, spouting."
+                },
+                {
+                    "id": 218436,
+                    "resource_id": 39,
+                    "text": "Dalam kedua-dua Syurga itu terdapat dua matair yang terus menerus memancutkan airnya:"
+                },
+                {
+                    "id": 1095944,
+                    "resource_id": 161,
+                    "text": "দু’টো বাগানেই আছে অবিরাম ও প্রচুর পরিমাণে উৎক্ষিপ্তমান দু’টো ঝর্ণাধারা।"
+                }
+            ]
+        },
+        {
+            "id": 4968,
+            "verse_number": 67,
+            "verse_key": "55:67",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 470,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "page_number": 533,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100600,
+                    "resource_id": 20,
+                    "text": "So which of the favors of your Lord would you deny?"
+                },
+                {
+                    "id": 218437,
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                },
+                {
+                    "id": 1095945,
+                    "resource_id": 161,
+                    "text": "অতএব (হে জ্বিন ও মানুষ!) তোমরা তোমাদের প্রতিপালকের কোন্ কোন্ নি‘মাতকে অস্বীকার করবে?"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 28,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 28
+    }
+}

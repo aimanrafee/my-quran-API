@@ -1,0 +1,341 @@
+{
+    "verses": [
+        {
+            "id": 4069,
+            "verse_number": 11,
+            "verse_key": "39:11",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 184,
+            "ruku_number": 399,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "قُلْ إِنِّىٓ أُمِرْتُ أَنْ أَعْبُدَ ٱللَّهَ مُخْلِصًا لَّهُ ٱلدِّينَ",
+            "page_number": 460,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99443,
+                    "resource_id": 20,
+                    "text": "Say, [O Muḥammad], \"Indeed, I have been commanded to worship Allāh, [being] sincere to Him in religion."
+                },
+                {
+                    "id": 217288,
+                    "resource_id": 39,
+                    "text": "Katakanlah lagi (wahai Muhammad): \"Sesungguhnya aku diperintahkan supaya menyembah Allah dengan mengikhlaskan segala ibadat kepadaNya;"
+                },
+                {
+                    "id": 1095046,
+                    "resource_id": 161,
+                    "text": "বল- আমাকে আদেশ দেয়া হয়েছে আল্লাহর ‘ইবাদাত করতে তাঁর আনুগত্যে একনিষ্ঠ হয়ে।"
+                }
+            ]
+        },
+        {
+            "id": 4070,
+            "verse_number": 12,
+            "verse_key": "39:12",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 184,
+            "ruku_number": 399,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَأُمِرْتُ لِأَنْ أَكُونَ أَوَّلَ ٱلْمُسْلِمِينَ",
+            "page_number": 460,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99444,
+                    "resource_id": 20,
+                    "text": "And I have been commanded to be the first [among you] of the Muslims.\""
+                },
+                {
+                    "id": 217287,
+                    "resource_id": 39,
+                    "text": "\"Dan aku diperintahkan supaya menjadi orang yang awal pertama berserah diri bulat-bulat (kepada Allah)\"."
+                },
+                {
+                    "id": 1095047,
+                    "resource_id": 161,
+                    "text": "আমাকে আদেশ দেয়া হয়েছে আমি যেন সর্বাগ্রে মুসলিম হই।"
+                }
+            ]
+        },
+        {
+            "id": 4071,
+            "verse_number": 13,
+            "verse_key": "39:13",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 184,
+            "ruku_number": 399,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "قُلْ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍ",
+            "page_number": 460,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99445,
+                    "resource_id": 20,
+                    "text": "Say, \"Indeed I fear, if I should disobey my Lord, the punishment of a tremendous Day.\""
+                },
+                {
+                    "id": 217289,
+                    "resource_id": 39,
+                    "text": "Katakanlah lagi: \"Sesungguhnya aku takut - jika aku menderhaka kepada Tuhanku - akan azab hari yang besar (soal jawabnya)\"."
+                },
+                {
+                    "id": 1095048,
+                    "resource_id": 161,
+                    "text": "বল- আমি যদি আমার প্রতিপালকের অবাধ্য হই, তবে আমি ভয়ঙ্কর দিনের শাস্তির ভয় করি।"
+                }
+            ]
+        },
+        {
+            "id": 4072,
+            "verse_number": 14,
+            "verse_key": "39:14",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 184,
+            "ruku_number": 399,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "قُلِ ٱللَّهَ أَعْبُدُ مُخْلِصًا لَّهُۥ دِينِى",
+            "page_number": 460,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99446,
+                    "resource_id": 20,
+                    "text": "Say, \"Allāh [alone] do I worship, sincere to Him in my religion,"
+                },
+                {
+                    "id": 217291,
+                    "resource_id": 39,
+                    "text": "Katakanlah lagi: \"Allah jualah yang aku sembah dengan mengikhlaskan amalan ugamaku kepadaNya."
+                },
+                {
+                    "id": 1095049,
+                    "resource_id": 161,
+                    "text": "বল- আমি ‘ইবাদাত করি আল্লাহর বিশুদ্ধভাবে তাঁর প্রতি আমার আনুগত্যের মাধ্যমে।"
+                }
+            ]
+        },
+        {
+            "id": 4073,
+            "verse_number": 15,
+            "verse_key": "39:15",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 184,
+            "ruku_number": 399,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فَٱعْبُدُوا۟ مَا شِئْتُم مِّن دُونِهِۦ ۗ قُلْ إِنَّ ٱلْخَـٰسِرِينَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ ٱلْقِيَـٰمَةِ ۗ أَلَا ذَٰلِكَ هُوَ ٱلْخُسْرَانُ ٱلْمُبِينُ",
+            "page_number": 460,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99447,
+                    "resource_id": 20,
+                    "text": "So worship what you will besides Him.\" Say, \"Indeed, the losers are the ones who will lose themselves and their families on the Day of Resurrection. Unquestionably, that is the manifest loss.\""
+                },
+                {
+                    "id": 217290,
+                    "resource_id": 39,
+                    "text": "\"(Setelah kamu mengetahui pendirianku ini wahai kaum musyrik, dan kamu masih juga berdegil) maka sembahlah kamu apa yang kamu kehendaki, yang lain dari Allah, (kamu akan mengetahui akibatnya)\". Katakanlah lagi: \"Sesungguhnya orang-orang yang rugi (dengan sebenar-benarnya) ialah orang-orang yang merugikan dirinya sendiri dan pengikut-pengikutnya pada hari kiamat (dengan sebab perbuatan mereka memilih kekufuran atau kederhakaan). Ingatlah, yang demikian itulah kerugian yang jelas nyata.\""
+                },
+                {
+                    "id": 1095050,
+                    "resource_id": 161,
+                    "text": "অতএব, তাঁকে বাদ দিয়ে তোমরা যার ইচ্ছে ‘ইবাদাত কর (এতে আল্লাহর কোন ক্ষতি হবে না, ক্ষতি তোমাদেরই হবে)। বল- যারা নিজেদেরকে আর নিজেদের পরিবার-পরিজনকে ক্বিয়ামতের দিনে ক্ষতিগ্রস্ত করে, তারাই তো ক্ষতিগ্রস্ত। জেনে রেখ, এটাই হল স্পষ্ট ক্ষতি।"
+                }
+            ]
+        },
+        {
+            "id": 4074,
+            "verse_number": 16,
+            "verse_key": "39:16",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 184,
+            "ruku_number": 399,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "لَهُم مِّن فَوْقِهِمْ ظُلَلٌ مِّنَ ٱلنَّارِ وَمِن تَحْتِهِمْ ظُلَلٌ ۚ ذَٰلِكَ يُخَوِّفُ ٱللَّهُ بِهِۦ عِبَادَهُۥ ۚ يَـٰعِبَادِ فَٱتَّقُونِ",
+            "page_number": 460,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99448,
+                    "resource_id": 20,
+                    "text": "They will have canopies [i.e., layers] of fire above them and below them, canopies. By that Allāh threatens [i.e., warns] His servants. O My servants, then fear Me."
+                },
+                {
+                    "id": 217292,
+                    "resource_id": 39,
+                    "text": "Bagi mereka (yang kafir disediakan lapisan-lapisan dari api menyerkup di atas mereka, dan lapisan-lapisan (dari api) di bawah mereka; dengan (azab) yang demikian, Allah menakutkan hamba-hambaNya: \"Oleh itu, bertaqwalah kepadaKu wahai hamba-hambaKu!\""
+                },
+                {
+                    "id": 1095051,
+                    "resource_id": 161,
+                    "text": "তাদের উপরেও থাকবে আগুনের স্তর, আর নীচেও থাকবে (আগুনের) স্তর। এ রকম পরিণতির ব্যাপারে আল্লাহ তাঁর বান্দাহদেরকে সাবধান করছেন। কাজেই হে আমার বান্দাহরা! আমাকে ভয় কর।"
+                }
+            ]
+        },
+        {
+            "id": 4075,
+            "verse_number": 17,
+            "verse_key": "39:17",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 184,
+            "ruku_number": 399,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّذِينَ ٱجْتَنَبُوا۟ ٱلطَّـٰغُوتَ أَن يَعْبُدُوهَا وَأَنَابُوٓا۟ إِلَى ٱللَّهِ لَهُمُ ٱلْبُشْرَىٰ ۚ فَبَشِّرْ عِبَادِ",
+            "page_number": 460,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99449,
+                    "resource_id": 20,
+                    "text": "But those who have avoided ṭāghūt,<sup foot_note=197237>1</sup> lest they worship it, and turned back to Allāh - for them are good tidings. So give good tidings to My servants"
+                },
+                {
+                    "id": 217294,
+                    "resource_id": 39,
+                    "text": "Dan orang-orang yang menjauhi dirinya dari menyembah atau memuja Taghut serta mereka rujuk kembali taat bulat-bulat kepada Allah, mereka akan beroleh berita yang mengembirakan (sebaik-baik sahaja mereka mulai meninggal dunia); oleh itu gembirakanlah hamba-hambaKu -"
+                },
+                {
+                    "id": 1095052,
+                    "resource_id": 161,
+                    "text": "যারা তাগূতের দাসত্ব থেকে দূরে থাকে, আর আল্লাহর অভিমুখী হয়, সুসংবাদ তাদেরই জন্য। কাজেই সুসংবাদ দাও আমার বান্দাদেরকে"
+                }
+            ]
+        },
+        {
+            "id": 4076,
+            "verse_number": 18,
+            "verse_key": "39:18",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 184,
+            "ruku_number": 399,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِينَ يَسْتَمِعُونَ ٱلْقَوْلَ فَيَتَّبِعُونَ أَحْسَنَهُۥٓ ۚ أُو۟لَـٰٓئِكَ ٱلَّذِينَ هَدَىٰهُمُ ٱللَّهُ ۖ وَأُو۟لَـٰٓئِكَ هُمْ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ",
+            "page_number": 460,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99450,
+                    "resource_id": 20,
+                    "text": "Who listen to speech and follow the best of it. Those are the ones Allāh has guided, and those are people of understanding."
+                },
+                {
+                    "id": 217295,
+                    "resource_id": 39,
+                    "text": "Yang berusaha mendengar perkataan-perkataan yang sampai kepadanya lalu mereka memilih dan menurut akan yang sebaik-baiknya (pada segi hukum ugama); mereka itulah orang-orang yang diberi hidayah petunjuk oleh Allah dan mereka itulah orang-orang yang berakal sempurna."
+                },
+                {
+                    "id": 1095053,
+                    "resource_id": 161,
+                    "text": "যারা মনোযোগ দিয়ে কথা শুনে আর এর উত্তমগুলো মেনে চলে। ওরাই হল তারা আল্লাহ যাদেরকে সৎপথে পরিচালিত করেন আর ওরাই হল জ্ঞান-বুদ্ধিসম্পন্ন।"
+                }
+            ]
+        },
+        {
+            "id": 4077,
+            "verse_number": 19,
+            "verse_key": "39:19",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 184,
+            "ruku_number": 399,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "أَفَمَنْ حَقَّ عَلَيْهِ كَلِمَةُ ٱلْعَذَابِ أَفَأَنتَ تُنقِذُ مَن فِى ٱلنَّارِ",
+            "page_number": 460,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99451,
+                    "resource_id": 20,
+                    "text": "Then, is one who has deserved the decree of punishment [to be guided]? Then, can you save one who is in the Fire?"
+                },
+                {
+                    "id": 217296,
+                    "resource_id": 39,
+                    "text": "Maka adakah orang yang telah ditetapkan atasnya hukuman azab (disebabkan kekufurannya, sama seperti orang yang dijanjikan bergembira dengan balasan imannya? Sudah tentu tidak) ! Oleh itu adakah engkau berkuasa menyelamatkan orang yang (ditetapkan kekal) dalam neraka?"
+                },
+                {
+                    "id": 1095054,
+                    "resource_id": 161,
+                    "text": "শাস্তির ফয়সালা যার উপর অবধারিত হয়ে গেছে, যে আছে জাহান্নামের আগুনে তুমি কি তাকে রক্ষা করতে পার?"
+                }
+            ]
+        },
+        {
+            "id": 4078,
+            "verse_number": 20,
+            "verse_key": "39:20",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 184,
+            "ruku_number": 399,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "لَـٰكِنِ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ لَهُمْ غُرَفٌ مِّن فَوْقِهَا غُرَفٌ مَّبْنِيَّةٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۖ وَعْدَ ٱللَّهِ ۖ لَا يُخْلِفُ ٱللَّهُ ٱلْمِيعَادَ",
+            "page_number": 460,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99454,
+                    "resource_id": 20,
+                    "text": "But those who have feared their Lord - for them are chambers,<sup foot_note=197238>1</sup> above them chambers built high, beneath which rivers flow. [This is] the promise of Allāh. Allāh does not fail in [His] promise."
+                },
+                {
+                    "id": 217299,
+                    "resource_id": 39,
+                    "text": "Tetapi (sebaliknya) orang-orang yang bertaqwa kepada Tuhan mereka (dengan mengerjakan suruhanNya dan menjauhi laranganNya), dibina untuk mereka (di dalam Syurga) mahligai-mahligai yang tinggi bertingkat-tingkat, yang mengalir di bawahnya beberapa sungai. Demikianlah janji yang ditetapkan Allah; Allah tidak sekali-kali akan mengubah janji-janjiNya."
+                },
+                {
+                    "id": 1095055,
+                    "resource_id": 161,
+                    "text": "কিন্তু যারা তাদের প্রতিপালককে ভয় করে, তাদের জন্য রয়েছে প্রাসাদের পর প্রাসাদ, যেগুলোর উপর নির্মাণ করা হয়েছে প্রাসাদ আর প্রাসাদ, যার নিচ দিয়ে ঝর্ণাধারা প্রবাহিত। এটা আল্লাহর ও‘য়াদা, আল্লাহ ওয়াদা ভঙ্গ করেন না।"
+                }
+            ]
+        },
+        {
+            "id": 4079,
+            "verse_number": 21,
+            "verse_key": "39:21",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 184,
+            "ruku_number": 399,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "أَلَمْ تَرَ أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَسَلَكَهُۥ يَنَـٰبِيعَ فِى ٱلْأَرْضِ ثُمَّ يُخْرِجُ بِهِۦ زَرْعًا مُّخْتَلِفًا أَلْوَٰنُهُۥ ثُمَّ يَهِيجُ فَتَرَىٰهُ مُصْفَرًّا ثُمَّ يَجْعَلُهُۥ حُطَـٰمًا ۚ إِنَّ فِى ذَٰلِكَ لَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَـٰبِ",
+            "page_number": 460,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99455,
+                    "resource_id": 20,
+                    "text": "Do you not see that Allāh sends down rain from the sky and makes it flow as springs [and rivers] in the earth; then He produces thereby crops of varying colors; then they dry and you see them turned yellow; then He makes them [scattered] debris. Indeed in that is a reminder for those of understanding."
+                },
+                {
+                    "id": 217300,
+                    "resource_id": 39,
+                    "text": "Tidakkah engkau memerhatikan, bahawa Allah menurunkan hujan dari langit, lalu dialirkanNya menjadi matair-matair di bumi; kemudian Ia menumbuhkan dengan air itu tanaman-tanaman yang berbagai jenis dan warnanya; kemudian tanaman-tanaman itu bergerak segar (hingga ke suatu masa yang tertentu), selepas itu engkau melihatmu berupa kuning; kemudian Ia menjadikannya hancur bersepai? Sesungguhnya segala yang tersebut itu mengandungi peringatan yang menyedarkan orang-orang yang berakal sempurna."
+                },
+                {
+                    "id": 1095056,
+                    "resource_id": 161,
+                    "text": "তুমি কি দেখ না আল্লাহ আকাশ হতে বৃষ্টি বর্ষণ করেন আর তা ঝর্ণা ধারায় যমীনে প্রবাহিত করেন, অতঃপর তা দিয়ে বিচিত্র রঙের ফসল উৎপন্ন করেন, অতঃপর তা শুকিয়ে যায়, তখন তোমরা তা হলুদ বর্ণ দেখ, শেষ পর্যন্ত তিনি ওগুলোকে খড়-ভুষিতে পরিণত করেন। এতে জ্ঞান-বুদ্ধিসম্পন্ন লোকেদের জন্য অবশ্যই নসীহত আছে।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 11,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 11
+    }
+}

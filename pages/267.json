@@ -1,0 +1,461 @@
+{
+    "verses": [
+        {
+            "id": 1893,
+            "verse_number": 91,
+            "verse_key": "15:91",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 106,
+            "ruku_number": 223,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِينَ جَعَلُوا۟ ٱلْقُرْءَانَ عِضِينَ",
+            "page_number": 267,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96796,
+                    "resource_id": 20,
+                    "text": "Who have made the Qur’ān into portions.<sup foot_note=196601>1</sup>"
+                },
+                {
+                    "id": 220766,
+                    "resource_id": 39,
+                    "text": "(Iaitu) mereka yang menjadikan Al-Quran terbahagi kepada beberapa bahagian (lalu mereka percaya kepada sebahagian dan menolak sebahagian yang lain)."
+                },
+                {
+                    "id": 1092870,
+                    "resource_id": 161,
+                    "text": "যারা কুরআনকে (নিজেদের খেয়াল খুশিমত) ভাগ ভাগ করে ফেলেছে (যেটা ইচ্ছে মানছে, যেটা ইচ্ছে অমান্য করছে)।"
+                }
+            ]
+        },
+        {
+            "id": 1894,
+            "verse_number": 92,
+            "verse_key": "15:92",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 106,
+            "ruku_number": 223,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "فَوَرَبِّكَ لَنَسْـَٔلَنَّهُمْ أَجْمَعِينَ",
+            "page_number": 267,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96797,
+                    "resource_id": 20,
+                    "text": "So by your Lord, We will surely question them all"
+                },
+                {
+                    "id": 220765,
+                    "resource_id": 39,
+                    "text": "Demi Tuhanmu! Kami akan menyoal mereka (yang kafir itu) semuanya (pada hari kiamat kelak), -"
+                },
+                {
+                    "id": 1092871,
+                    "resource_id": 161,
+                    "text": "অতএব শপথ তোমার রব্বের! তাদের সববাইকে অবশ্য অবশ্যই আমি জিজ্ঞেস করব ।"
+                }
+            ]
+        },
+        {
+            "id": 1895,
+            "verse_number": 93,
+            "verse_key": "15:93",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 106,
+            "ruku_number": 223,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "عَمَّا كَانُوا۟ يَعْمَلُونَ",
+            "page_number": 267,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96798,
+                    "resource_id": 20,
+                    "text": "About what they used to do."
+                },
+                {
+                    "id": 220768,
+                    "resource_id": 39,
+                    "text": "Mengenai apa yang mereka telah lakukan."
+                },
+                {
+                    "id": 1092872,
+                    "resource_id": 161,
+                    "text": "তারা যা করছে সে সম্পর্কে।"
+                }
+            ]
+        },
+        {
+            "id": 1896,
+            "verse_number": 94,
+            "verse_key": "15:94",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 106,
+            "ruku_number": 223,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "فَٱصْدَعْ بِمَا تُؤْمَرُ وَأَعْرِضْ عَنِ ٱلْمُشْرِكِينَ",
+            "page_number": 267,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96799,
+                    "resource_id": 20,
+                    "text": "Then declare what you are commanded<sup foot_note=196603>1</sup> and turn away from the polytheists.<sup foot_note=196602>2</sup>"
+                },
+                {
+                    "id": 220770,
+                    "resource_id": 39,
+                    "text": "Oleh itu, sampaikanlah secara berterus-terang apa yang diperintahkan kepadamu (wahai Muhammad), dan janganlah engkau hiraukan bantahan dan tentangan kaum kafir musyrik itu."
+                },
+                {
+                    "id": 1092873,
+                    "resource_id": 161,
+                    "text": "কাজেই তোমাকে যে বিষয়ের হুকুম দেয়া হয়েছে তা জোরে শোরে প্রকাশ্যে প্রচার কর, আর মুশরিকদের থেকে মুখ ফিরিয়ে নাও।"
+                }
+            ]
+        },
+        {
+            "id": 1897,
+            "verse_number": 95,
+            "verse_key": "15:95",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 106,
+            "ruku_number": 223,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّا كَفَيْنَـٰكَ ٱلْمُسْتَهْزِءِينَ",
+            "page_number": 267,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96800,
+                    "resource_id": 20,
+                    "text": "Indeed, We are sufficient for you against the mockers"
+                },
+                {
+                    "id": 220771,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Kami tetap memelihara dan mengawalmu dari kejahatan orang-orang yang mengejek-ejek dan mempersendakanmu, -"
+                },
+                {
+                    "id": 1092874,
+                    "resource_id": 161,
+                    "text": "(সেই) ঠাট্টা-বিদ্রূপকারীদের বিরুদ্ধে তোমার জন্য আমিই যথেষ্ট"
+                }
+            ]
+        },
+        {
+            "id": 1898,
+            "verse_number": 96,
+            "verse_key": "15:96",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 106,
+            "ruku_number": 223,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِينَ يَجْعَلُونَ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ ۚ فَسَوْفَ يَعْلَمُونَ",
+            "page_number": 267,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96683,
+                    "resource_id": 20,
+                    "text": "Who make [equal] with Allāh another deity. But they are going to know."
+                },
+                {
+                    "id": 220767,
+                    "resource_id": 39,
+                    "text": "(Iaitu) mereka yang mengadakan tuhan yang lain bersama-sama Allah, maka mereka akan mengetahui kelak (akibatnya)."
+                },
+                {
+                    "id": 1092875,
+                    "resource_id": 161,
+                    "text": "যারা আল্লাহর সাথে অন্যকেও ইলাহ বানিয়ে নিয়েছে, (কাজেই শিরকের পরিণতি কী) শীঘ্রই তারা জানতে পারবে।"
+                }
+            ]
+        },
+        {
+            "id": 1899,
+            "verse_number": 97,
+            "verse_key": "15:97",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 106,
+            "ruku_number": 223,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَقَدْ نَعْلَمُ أَنَّكَ يَضِيقُ صَدْرُكَ بِمَا يَقُولُونَ",
+            "page_number": 267,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 95957,
+                    "resource_id": 20,
+                    "text": "And We already know that your breast is constrained by what they say."
+                },
+                {
+                    "id": 220774,
+                    "resource_id": 39,
+                    "text": "Dan demi sesungguhnya Kami mengetahui, bahawa engkau bersusah hati dengan sebab apa yang mereka katakan."
+                },
+                {
+                    "id": 1092876,
+                    "resource_id": 161,
+                    "text": "আমি জানি, তারা যে সব কথা-বার্তা বলে তাতে তোমার মন সংকুচিত হয়।"
+                }
+            ]
+        },
+        {
+            "id": 1900,
+            "verse_number": 98,
+            "verse_key": "15:98",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 106,
+            "ruku_number": 223,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَكُن مِّنَ ٱلسَّـٰجِدِينَ",
+            "page_number": 267,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96331,
+                    "resource_id": 20,
+                    "text": "So exalt [Allāh] with praise of your Lord and be of those who prostrate [to Him]."
+                },
+                {
+                    "id": 220781,
+                    "resource_id": 39,
+                    "text": "Oleh itu, bertasbihlah engkau dengan memuji Tuhanmu, serta jadilah dari orang-orang yang sujud."
+                },
+                {
+                    "id": 1092877,
+                    "resource_id": 161,
+                    "text": "কাজেই প্রশংসা সহকারে তুমি তোমার প্রতিপালকের পবিত্রতা ঘোষণা কর, আর সাজদাহকারীদের দলভুক্ত হও।"
+                }
+            ]
+        },
+        {
+            "id": 1901,
+            "verse_number": 99,
+            "verse_key": "15:99",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 106,
+            "ruku_number": 223,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱعْبُدْ رَبَّكَ حَتَّىٰ يَأْتِيَكَ ٱلْيَقِينُ",
+            "page_number": 267,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96462,
+                    "resource_id": 20,
+                    "text": "And worship your Lord until there comes to you the certainty [i.e., death]."
+                },
+                {
+                    "id": 220782,
+                    "resource_id": 39,
+                    "text": "Dan sembahlah Tuhanmu, sehingga datang kepadamu (perkara yang tetap) yakin."
+                },
+                {
+                    "id": 1092878,
+                    "resource_id": 161,
+                    "text": "আর তোমার রব্বের ‘ইবাদাত করতে থাক তোমার সুনিশ্চিত ক্ষণের (অর্থাৎ মৃত্যুর) আগমন পর্যন্ত।"
+                }
+            ]
+        },
+        {
+            "id": 1902,
+            "verse_number": 1,
+            "verse_key": "16:1",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 107,
+            "ruku_number": 224,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": " أَتَىٰٓ أَمْرُ ٱللَّهِ فَلَا تَسْتَعْجِلُوهُ ۚ سُبْحَـٰنَهُۥ وَتَعَـٰلَىٰ عَمَّا يُشْرِكُونَ",
+            "page_number": 267,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96801,
+                    "resource_id": 20,
+                    "text": "The command of Allāh is coming,<sup foot_note=196604>1</sup> so be not impatient for it. Exalted is He and high above what they associate with Him."
+                },
+                {
+                    "id": 220776,
+                    "resource_id": 39,
+                    "text": "Telah hampir datangnya janji yang telah ditetapkan oleh Allah, maka janganlah kamu minta disegerakan. Maha suci Allah dan Maha tinggilah Ia dari perbuatan syirik yang mereka lakukan."
+                },
+                {
+                    "id": 1092879,
+                    "resource_id": 161,
+                    "text": "আল্লাহর নির্দেশ এসে গেছে, অতএব এর জন্য তাড়াহুড়ো করো না। তিনি মহান পবিত্র, তারা যাকে শরীক সাব্যস্ত করে তাত্থেকে তিনি বহু ঊর্ধ্বে।"
+                }
+            ]
+        },
+        {
+            "id": 1903,
+            "verse_number": 2,
+            "verse_key": "16:2",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 107,
+            "ruku_number": 224,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "يُنَزِّلُ ٱلْمَلَـٰٓئِكَةَ بِٱلرُّوحِ مِنْ أَمْرِهِۦ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦٓ أَنْ أَنذِرُوٓا۟ أَنَّهُۥ لَآ إِلَـٰهَ إِلَّآ أَنَا۠ فَٱتَّقُونِ",
+            "page_number": 267,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96841,
+                    "resource_id": 20,
+                    "text": "He sends down the angels, with the inspiration [i.e., revelation] of His command, upon whom He wills of His servants, [telling them], \"Warn that there is no deity except Me; so fear Me.\""
+                },
+                {
+                    "id": 220811,
+                    "resource_id": 39,
+                    "text": "Ia menurunkan malaikat membawa wahyu dengan perintahNya kepada sesiapa yang dikehendakiNya dari hamba-hambaNya (yang layak menjadi Rasul); (lalu Ia berfirman kepada Rasul-rasul): \"Hendaklah kamu menegaskan kepada umat manusia bahawa tiada Tuhan melainkan Aku. Oleh itu, bertaqwalah kamu kepadaku\"."
+                },
+                {
+                    "id": 1092880,
+                    "resource_id": 161,
+                    "text": "তিনি তাঁর এ রূহকে (ওহীক) যে বান্দাহর উপর চান স্বীয় নির্দেশক্রমে ফেরেশতাদের মাধ্যমে অবতীর্ণ করেন (এই মর্মে যে) তোমরা সতর্ক কর যে, আমি ছাড়া সত্যিকারের কোন ইলাহ নেই, কাজেই আমাকে ভয় কর।"
+                }
+            ]
+        },
+        {
+            "id": 1904,
+            "verse_number": 3,
+            "verse_key": "16:3",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 107,
+            "ruku_number": 224,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ ۚ تَعَـٰلَىٰ عَمَّا يُشْرِكُونَ",
+            "page_number": 267,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96853,
+                    "resource_id": 20,
+                    "text": "He created the heavens and earth in truth. High is He above what they associate with Him."
+                },
+                {
+                    "id": 220829,
+                    "resource_id": 39,
+                    "text": "Ia menciptakan langit dan bumi dengan cara yang sungguh layak dan berhikmat; Maha Tinggilah Ia dari perbuatan syirik yang mereka lakukan."
+                },
+                {
+                    "id": 1092881,
+                    "resource_id": 161,
+                    "text": "তিনি (বিশেষ উদ্দেশ্য সাধনের নিমিত্তে) প্রকৃতভাবেই আসমানসমূহ যমীন সৃষ্টি করেছেন, তারা যাকে আল্লাহর অংশীদার গণ্য করে তাত্থেকে তিনি বহু ঊর্ধ্বে।"
+                }
+            ]
+        },
+        {
+            "id": 1905,
+            "verse_number": 4,
+            "verse_key": "16:4",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 107,
+            "ruku_number": 224,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "خَلَقَ ٱلْإِنسَـٰنَ مِن نُّطْفَةٍ فَإِذَا هُوَ خَصِيمٌ مُّبِينٌ",
+            "page_number": 267,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96864,
+                    "resource_id": 20,
+                    "text": "He created man from a sperm-drop; then at once<sup foot_note=196605>1</sup> he is a clear adversary."
+                },
+                {
+                    "id": 220843,
+                    "resource_id": 39,
+                    "text": "Ia menciptakan manusia dari air benih, (setelah sempurna kejadiannya), tiba-tiba menjadilah ia seorang pembantah yang terang jelas bantahannya."
+                },
+                {
+                    "id": 1092882,
+                    "resource_id": 161,
+                    "text": "তিনি শুক্র-কীট থেকে মানুষ সৃষ্টি করেছেন অথচ সে প্রকাশ্য ঝগড়াটে সেজে বসল।"
+                }
+            ]
+        },
+        {
+            "id": 1906,
+            "verse_number": 5,
+            "verse_key": "16:5",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 107,
+            "ruku_number": 224,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلْأَنْعَـٰمَ خَلَقَهَا ۗ لَكُمْ فِيهَا دِفْءٌ وَمَنَـٰفِعُ وَمِنْهَا تَأْكُلُونَ",
+            "page_number": 267,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96875,
+                    "resource_id": 20,
+                    "text": "And the grazing livestock He has created for you; in them is warmth<sup foot_note=196606>1</sup> and [numerous] benefits, and from them you eat."
+                },
+                {
+                    "id": 219207,
+                    "resource_id": 39,
+                    "text": "Dan binatang-binatang ternak itu, Ia juga menciptakannya untuk kamu; terdapat padanya benda-benda yang memanaskan tubuh dari sejuk dan beberapa faedah yang lain; dan daripadanya juga kamu makan."
+                },
+                {
+                    "id": 1092883,
+                    "resource_id": 161,
+                    "text": "তিনি চতুস্পদ জন্তু সৃষ্টি করেছেন এবং তাতে তোমাদের জন্য আছে (শীত) নিবারক আর বহু উপকারিতাও, আর সেগুলো থেকে তোমরা আহার কর।"
+                }
+            ]
+        },
+        {
+            "id": 1907,
+            "verse_number": 6,
+            "verse_key": "16:6",
+            "hizb_number": 27,
+            "rub_el_hizb_number": 107,
+            "ruku_number": 224,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَكُمْ فِيهَا جَمَالٌ حِينَ تُرِيحُونَ وَحِينَ تَسْرَحُونَ",
+            "page_number": 267,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96886,
+                    "resource_id": 20,
+                    "text": "And for you in them is [the enjoyment of] beauty when you bring them in [for the evening] and when you send them out [to pasture]."
+                },
+                {
+                    "id": 220869,
+                    "resource_id": 39,
+                    "text": "Dan bagi kamu pada binatang-binatang ternak itu, keindahan (yang menarik hati) ketika kamu membawanya balik untuk berihat (pada waktu petang), dan ketika kamu membawanya keluar (pada waktu pagi)."
+                },
+                {
+                    "id": 1092884,
+                    "resource_id": 161,
+                    "text": "তোমরা গর্বভরে সৌন্দর্য অনুভব কর যখন তোমরা সন্ধ্যাবেলা সেগুলোকে বাড়ীর পানে হাঁকিয়ে আন আর সকাল বেলা বিচরণের জন্য পাঠাও।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 15,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 15
+    }
+}

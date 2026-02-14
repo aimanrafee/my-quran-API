@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 2601,
+            "verse_number": 6,
+            "verse_key": "22:6",
+            "hizb_number": 34,
+            "rub_el_hizb_number": 133,
+            "ruku_number": 285,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "ذَٰلِكَ بِأَنَّ ٱللَّهَ هُوَ ٱلْحَقُّ وَأَنَّهُۥ يُحْىِ ٱلْمَوْتَىٰ وَأَنَّهُۥ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+            "page_number": 333,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97740,
+                    "resource_id": 20,
+                    "text": "That is because Allāh is the True Reality and because He gives life to the dead and because He is over all things competent"
+                },
+                {
+                    "id": 215611,
+                    "resource_id": 39,
+                    "text": "(Kedua-dua kenyataan) yang tersebut membuktikan bahawa sesungguhnya Allah jualah Tuhan Yang Sebenar-benarnya (yang berhak disembah), dan sesungguhnya Dia lah yang menghidupkan makhluk-makhluk yang mati, dan Dia lah jua Yang Maha Kuasa atas tiap-tiap sesuatu."
+                },
+                {
+                    "id": 1093578,
+                    "resource_id": 161,
+                    "text": "এ রকম হয় এজন্য যে, আল্লাহ হলেন সত্য সঠিক, আর তিনিই মৃতকে জীবিত করেন, আর তিনি সকল বিষয়ে ক্ষমতাবান।"
+                }
+            ]
+        },
+        {
+            "id": 2602,
+            "verse_number": 7,
+            "verse_key": "22:7",
+            "hizb_number": 34,
+            "rub_el_hizb_number": 133,
+            "ruku_number": 285,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَنَّ ٱلسَّاعَةَ ءَاتِيَةٌ لَّا رَيْبَ فِيهَا وَأَنَّ ٱللَّهَ يَبْعَثُ مَن فِى ٱلْقُبُورِ",
+            "page_number": 333,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97763,
+                    "resource_id": 20,
+                    "text": "And [that they may know] that the Hour is coming - no doubt about it - and that Allāh will resurrect those in the graves."
+                },
+                {
+                    "id": 215630,
+                    "resource_id": 39,
+                    "text": "Dan bahawa sesungguhnya hari kiamat itu tetap akan datang, tidak ada sebarang syak padanya, dan bahawa sesungguhnya Allah akan membangkitkan (menghidupkan semula) orang-orang yang di dalam kubur."
+                },
+                {
+                    "id": 1093579,
+                    "resource_id": 161,
+                    "text": "আর কিয়ামাত অবশ্যই আসবে, এ ব্যাপারে কোন সন্দেহ নেই এবং যারা কবরে আছে আল্লাহ তাদেরকে অবশ্যই পুনরুত্থিত করবেন।"
+                }
+            ]
+        },
+        {
+            "id": 2603,
+            "verse_number": 8,
+            "verse_key": "22:8",
+            "hizb_number": 34,
+            "rub_el_hizb_number": 133,
+            "ruku_number": 285,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَمِنَ ٱلنَّاسِ مَن يُجَـٰدِلُ فِى ٱللَّهِ بِغَيْرِ عِلْمٍ وَلَا هُدًى وَلَا كِتَـٰبٍ مُّنِيرٍ",
+            "page_number": 333,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97784,
+                    "resource_id": 20,
+                    "text": "And of the people is he who disputes about Allāh without knowledge or guidance or an enlightening book [from Him],"
+                },
+                {
+                    "id": 215651,
+                    "resource_id": 39,
+                    "text": "Dan ada di antara manusia yang membantah dalam perkara-perkara yang berhubung dengan Allah dengan tidak berdasarkan sebarang pengetahuan, dan tidak berdasarkan sebarang keterangan, dan tidak juga berdasarkan mana-mana Kitab Allah yang menerangi kebenaran;"
+                },
+                {
+                    "id": 1093580,
+                    "resource_id": 161,
+                    "text": "তবুও মানুষের মধ্যে এমন আছে যারা জ্ঞান, পথের দিশা ও কোন আলোকপ্রদানকারী কিতাব ছাড়াই আল্লাহ সম্পর্কে বিতর্ক করে।"
+                }
+            ]
+        },
+        {
+            "id": 2604,
+            "verse_number": 9,
+            "verse_key": "22:9",
+            "hizb_number": 34,
+            "rub_el_hizb_number": 133,
+            "ruku_number": 285,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "ثَانِىَ عِطْفِهِۦ لِيُضِلَّ عَن سَبِيلِ ٱللَّهِ ۖ لَهُۥ فِى ٱلدُّنْيَا خِزْىٌ ۖ وَنُذِيقُهُۥ يَوْمَ ٱلْقِيَـٰمَةِ عَذَابَ ٱلْحَرِيقِ",
+            "page_number": 333,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97796,
+                    "resource_id": 20,
+                    "text": "Twisting his neck [in arrogance] to mislead [people] from the way of Allāh. For him in the world is disgrace, and We will make him taste on the Day of Resurrection the punishment of the Burning Fire [while it is said],"
+                },
+                {
+                    "id": 215852,
+                    "resource_id": 39,
+                    "text": "Ia membantah sambil memalingkan sebelah badannya dengan sombong angkuh sehingga menghalang dirinya dan orang lain dari jalan ugama Allah; ia akan beroleh kehinaan di dunia, dan Kami akan merasakannya azab yang membakar pada hari kiamat kelak;"
+                },
+                {
+                    "id": 1093581,
+                    "resource_id": 161,
+                    "text": "(বিতর্ক করে অবজ্ঞাভরে) ঘাড় বাঁকিয়ে (লোকেদেরকে) আল্লাহর পথ থেকে বিচ্যুত করার উদ্দেশে। তার জন্য আছে লাঞ্ছনা এ দুনিয়াতে, আর কিয়ামাতের দিন তাকে আস্বাদন করাব (অগ্নির) দহন যন্ত্রণা।"
+                }
+            ]
+        },
+        {
+            "id": 2605,
+            "verse_number": 10,
+            "verse_key": "22:10",
+            "hizb_number": 34,
+            "rub_el_hizb_number": 133,
+            "ruku_number": 285,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "ذَٰلِكَ بِمَا قَدَّمَتْ يَدَاكَ وَأَنَّ ٱللَّهَ لَيْسَ بِظَلَّـٰمٍ لِّلْعَبِيدِ",
+            "page_number": 333,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97629,
+                    "resource_id": 20,
+                    "text": "\"That is for what your hands have put forth and because Allāh is not ever unjust to [His] servants.\""
+                },
+                {
+                    "id": 215500,
+                    "resource_id": 39,
+                    "text": "(Dengan dikatakan kepadanya): \"Azab yang demikian ini ialah disebabkan perbuatan tanganmu sendiri, kerana sesungguhnya Allah tidak sekali-kali berlaku zalim kepada hamba-hambaNya\"."
+                },
+                {
+                    "id": 1093582,
+                    "resource_id": 161,
+                    "text": "(বলা হবে) তোমার হাত দু’খানা আগেই যা পাঠিয়েছিল এটা তারই ফল, কারণ আল্লাহ তো তাঁর বান্দাহদের প্রতি যালিম নন।"
+                }
+            ]
+        },
+        {
+            "id": 2606,
+            "verse_number": 11,
+            "verse_key": "22:11",
+            "hizb_number": 34,
+            "rub_el_hizb_number": 133,
+            "ruku_number": 286,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَمِنَ ٱلنَّاسِ مَن يَعْبُدُ ٱللَّهَ عَلَىٰ حَرْفٍ ۖ فَإِنْ أَصَابَهُۥ خَيْرٌ ٱطْمَأَنَّ بِهِۦ ۖ وَإِنْ أَصَابَتْهُ فِتْنَةٌ ٱنقَلَبَ عَلَىٰ وَجْهِهِۦ خَسِرَ ٱلدُّنْيَا وَٱلْـَٔاخِرَةَ ۚ ذَٰلِكَ هُوَ ٱلْخُسْرَانُ ٱلْمُبِينُ",
+            "page_number": 333,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97631,
+                    "resource_id": 20,
+                    "text": "And of the people is he who worships Allāh on an edge.<sup foot_note=196825>1</sup> If he is touched by good, he is reassured by it; but if he is struck by trial, he turns on his face [to unbelief]. He has lost [this] world and the Hereafter. That is what is the manifest loss."
+                },
+                {
+                    "id": 215501,
+                    "resource_id": 39,
+                    "text": "Dan ada di antara manusia yang menyembah Allah dengan sikap dan pendirian yang tidak tetap, iaitu kalau ia beroleh kebaikan, senanglah hatinya dengan keadaan itu; dan kalau pula ia ditimpa fitnah kesusahan, berbaliklah ia semula (kepada kekufurannya). (Dengan sikapnya itu) rugilah ia akan dunia dan akhirat, itulah kerugian yang terang nyata."
+                },
+                {
+                    "id": 1093583,
+                    "resource_id": 161,
+                    "text": "মানুষের মধ্যে এমন কতক আছে যারা শেষ সীমায় অবস্থান করে আল্লাহর ‘ইবাদাত করে। অতঃপর তার কল্যাণ হলে, তা নিয়ে সে তৃপ্ত থাকে, আর কোন পরীক্ষার সম্মুখীন হলে সে তার পূর্বের অবস্থায় ফিরে যায়। ক্ষতিগ্রস্ত হয় সে দুনিয়াতেও আর আখিরাতেও- এটাই হল স্পষ্ট ক্ষতি।"
+                }
+            ]
+        },
+        {
+            "id": 2607,
+            "verse_number": 12,
+            "verse_key": "22:12",
+            "hizb_number": 34,
+            "rub_el_hizb_number": 133,
+            "ruku_number": 286,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "يَدْعُوا۟ مِن دُونِ ٱللَّهِ مَا لَا يَضُرُّهُۥ وَمَا لَا يَنفَعُهُۥ ۚ ذَٰلِكَ هُوَ ٱلضَّلَـٰلُ ٱلْبَعِيدُ",
+            "page_number": 333,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97633,
+                    "resource_id": 20,
+                    "text": "He invokes instead of Allāh that which neither harms him nor benefits him. That is what is the extreme error."
+                },
+                {
+                    "id": 215503,
+                    "resource_id": 39,
+                    "text": "Ia menyeru dan menyembah makhluk-makhluk yang lain dari Allah, yang tidak dapat membahayakannya dan tidak dapat mendatangkan kebaikan kepadanya; itulah kesesatan yang jauh terpesong."
+                },
+                {
+                    "id": 1093584,
+                    "resource_id": 161,
+                    "text": "আল্লাহকে বাদ দিয়ে সে এমন কিছুকে ডাকে যা না পারে তার কোন ক্ষতি করতে আর না পারে কোন উপকার করতে, এটাই হল চরম আকারের গুমরাহী।"
+                }
+            ]
+        },
+        {
+            "id": 2608,
+            "verse_number": 13,
+            "verse_key": "22:13",
+            "hizb_number": 34,
+            "rub_el_hizb_number": 133,
+            "ruku_number": 286,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "يَدْعُوا۟ لَمَن ضَرُّهُۥٓ أَقْرَبُ مِن نَّفْعِهِۦ ۚ لَبِئْسَ ٱلْمَوْلَىٰ وَلَبِئْسَ ٱلْعَشِيرُ",
+            "page_number": 333,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97635,
+                    "resource_id": 20,
+                    "text": "He invokes one whose harm is closer than his benefit - how wretched the protector and how wretched the associate."
+                },
+                {
+                    "id": 215507,
+                    "resource_id": 39,
+                    "text": "Ia menyeru dan menyembah makhluk yang - dengan perbuatan demikian - mudaratnya lebih dekat dari manfaat yang diharapkannya; demi sesungguhnya seburuk-buruk penolong dan seburuk-buruk sahabat karib ialah makhluk yang diseru dan disembahnya itu."
+                },
+                {
+                    "id": 1093585,
+                    "resource_id": 161,
+                    "text": "সে এমন কিছুকে ডাকে যার লাভের চেয়ে ক্ষতিই নিকটবর্তী, কত মন্দই না এই অভিভাবক, আর কত মন্দই না এই সঙ্গী!"
+                }
+            ]
+        },
+        {
+            "id": 2609,
+            "verse_number": 14,
+            "verse_key": "22:14",
+            "hizb_number": 34,
+            "rub_el_hizb_number": 133,
+            "ruku_number": 286,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ ٱللَّهَ يُدْخِلُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۚ إِنَّ ٱللَّهَ يَفْعَلُ مَا يُرِيدُ",
+            "page_number": 333,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97637,
+                    "resource_id": 20,
+                    "text": "Indeed, Allāh will admit those who believe and do righteous deeds to gardens beneath which rivers flow. Indeed, Allāh does what He intends."
+                },
+                {
+                    "id": 215512,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Allah akan memasukkan orang-orang yang beriman dan beramal soleh ke dalam Syurga yang mengalir di bawahnya beberapa sungai; sesungguhnya Allah melakukan apa yang ditentukanNya."
+                },
+                {
+                    "id": 1093586,
+                    "resource_id": 161,
+                    "text": "যারা ঈমান আনে ও সৎ কাজ করে আল্লাহ তাদেরকে দাখিল করবেন জান্নাতে যার নিম্নদেশ দিয়ে ঝর্ণাধারা প্রবাহিত, আল্লাহ যা করতে চান, তাই করেন।"
+                }
+            ]
+        },
+        {
+            "id": 2610,
+            "verse_number": 15,
+            "verse_key": "22:15",
+            "hizb_number": 34,
+            "rub_el_hizb_number": 133,
+            "ruku_number": 286,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "مَن كَانَ يَظُنُّ أَن لَّن يَنصُرَهُ ٱللَّهُ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ فَلْيَمْدُدْ بِسَبَبٍ إِلَى ٱلسَّمَآءِ ثُمَّ لْيَقْطَعْ فَلْيَنظُرْ هَلْ يُذْهِبَنَّ كَيْدُهُۥ مَا يَغِيظُ",
+            "page_number": 333,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97639,
+                    "resource_id": 20,
+                    "text": "Whoever should think that Allāh will not support him [i.e., Prophet Muḥammad (ﷺ)] in this world and the Hereafter - let him extend a rope to the ceiling, then cut off [his breath],<sup foot_note=196826>1</sup> and let him see: will his effort remove that which enrages [him]?"
+                },
+                {
+                    "id": 215509,
+                    "resource_id": 39,
+                    "text": "Sesiapa yang menyangka bahawa Allah tidak sekali-kali akan menolong Nabi Muhammad dalam dunia ini dan di akhirat kelak, maka hendaklah ia menghulurkan tali (serta mengikatnya) di bumbong rumahnya, kemudian hendaklah ia menjerut lehernya (supaya ia mati tercekek); dalam pada itu hendaklah ia memikirkan lebih dahulu, adakah tipu dayanya itu dapat menghapuskan sebab-sebab yang menimbulkan kemarahannya?"
+                },
+                {
+                    "id": 1093587,
+                    "resource_id": 161,
+                    "text": "যে কেউ ধারণা করে যে আল্লাহ তাকে (অর্থাৎ তাঁর রসূলকে) কক্ষনো দুনিয়া ও আখিরাতে সাহায্য করবেন না, তাহলে সে আকাশ পর্যন্ত একটা দড়ি ঝুলিয়ে নিক, অতঃপর তা কেটে দিক, অতঃপর সে দেখুক তার কলা-কৌশল তার রাগের কারণ দূর করে কিনা। (রসূলের দুশমন নিজের ঝুলানো দড়িটাই কাটুক, কেননা সে তো রসূলের প্রতি আল্লাহর সাহায্যের দড়িটা কক্ষনো কাটতে পারবে না।)"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 10
+    }
+}

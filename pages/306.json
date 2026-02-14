@@ -1,0 +1,431 @@
+{
+    "verses": [
+        {
+            "id": 2262,
+            "verse_number": 12,
+            "verse_key": "19:12",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 122,
+            "ruku_number": 264,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "يَـٰيَحْيَىٰ خُذِ ٱلْكِتَـٰبَ بِقُوَّةٍ ۖ وَءَاتَيْنَـٰهُ ٱلْحُكْمَ صَبِيًّا",
+            "page_number": 306,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97159,
+                    "resource_id": 20,
+                    "text": "[Allāh said], \"O John, take the Scripture [i.e., adhere to it] with determination.\" And We gave him judgement [while yet] a boy"
+                },
+                {
+                    "id": 215028,
+                    "resource_id": 39,
+                    "text": "\"Wahai Yahya, terimalah Kitab itu (serta amalkanlah) dengan bersungguh-sungguh! Dan Kami berikan kepadanya Hikmat kebijaksanaan semasa ia masih kanak-kanak."
+                },
+                {
+                    "id": 1093239,
+                    "resource_id": 161,
+                    "text": "(তার পুত্রের কাছে নির্দেশ আসল) ‘হে ইয়াহ্ইয়া! এ কিতাব (তাওরাত) সুদৃঢ়ভাবে ধারণ কর।’ আমি তাকে বাল্য কালেই জ্ঞান দান করেছিলাম।"
+                }
+            ]
+        },
+        {
+            "id": 2263,
+            "verse_number": 13,
+            "verse_key": "19:13",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 122,
+            "ruku_number": 264,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَحَنَانًا مِّن لَّدُنَّا وَزَكَوٰةً ۖ وَكَانَ تَقِيًّا",
+            "page_number": 306,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97160,
+                    "resource_id": 20,
+                    "text": "And affection from Us and purity, and he was fearing of Allāh"
+                },
+                {
+                    "id": 215030,
+                    "resource_id": 39,
+                    "text": "dan (Kami mengurniakannya) rahmat dari sisi Kami, serta kelebihan yang kembang manfaatnya; dan ia seorang yang bertaqwa."
+                },
+                {
+                    "id": 1093240,
+                    "resource_id": 161,
+                    "text": "আর (দিয়েছিলাম) আমার পক্ষ থেকে দয়া-মায়া ও পবিত্রতা। সে ছিল আল্লাহভীরু ।"
+                }
+            ]
+        },
+        {
+            "id": 2264,
+            "verse_number": 14,
+            "verse_key": "19:14",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 122,
+            "ruku_number": 264,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَبَرًّۢا بِوَٰلِدَيْهِ وَلَمْ يَكُن جَبَّارًا عَصِيًّا",
+            "page_number": 306,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97161,
+                    "resource_id": 20,
+                    "text": "And dutiful to his parents, and he was not a disobedient tyrant."
+                },
+                {
+                    "id": 215031,
+                    "resource_id": 39,
+                    "text": "Dan ia taat serta berbuat baik kepada ibu bapanya, dan ia pula tidak sombong angkuh atau derhaka."
+                },
+                {
+                    "id": 1093241,
+                    "resource_id": 161,
+                    "text": "আর পিতা-মাতার প্রতি সদয়, সে দাম্ভিক, অবাধ্য ছিল না।"
+                }
+            ]
+        },
+        {
+            "id": 2265,
+            "verse_number": 15,
+            "verse_key": "19:15",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 122,
+            "ruku_number": 264,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَسَلَـٰمٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ حَيًّا",
+            "page_number": 306,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97162,
+                    "resource_id": 20,
+                    "text": "And peace be upon him the day he was born and the day he dies and the day he is raised alive."
+                },
+                {
+                    "id": 215032,
+                    "resource_id": 39,
+                    "text": "Dan (Kami limpahkan) kepadanya selamat sejahtera pada hari ia diperanakkan, dan pada hari ia mati, serta pada hari ia dibangkitkan hidup semula (pada hari kiamat)."
+                },
+                {
+                    "id": 1093242,
+                    "resource_id": 161,
+                    "text": "তার উপর শান্তি যেদিন সে জন্মেছে, যেদিন তার মৃত্যু হবে আর যেদিন সে জীবন্ত হয়ে উত্থিত হবে।"
+                }
+            ]
+        },
+        {
+            "id": 2266,
+            "verse_number": 16,
+            "verse_key": "19:16",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 122,
+            "ruku_number": 265,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًا شَرْقِيًّا",
+            "page_number": 306,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97163,
+                    "resource_id": 20,
+                    "text": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east."
+                },
+                {
+                    "id": 215033,
+                    "resource_id": 39,
+                    "text": "Dan bacakanlah (wahai Muhammad) di dalam Kitab Al-Quran ini perihal Maryam, ketika dia memencilkan diri dari keluarganya di sebuah tempat sebelah timur."
+                },
+                {
+                    "id": 1093243,
+                    "resource_id": 161,
+                    "text": "এ কিতাবে (উল্লেখিত) মারইয়ামের কাহিনী বর্ণনা কর- যখন সে তার পরিবারবর্গ হতে আলাদা হয়ে পূর্ব দিকে এক জায়গায় আশ্রয় নিয়েছিল।"
+                }
+            ]
+        },
+        {
+            "id": 2267,
+            "verse_number": 17,
+            "verse_key": "19:17",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 122,
+            "ruku_number": 265,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَٱتَّخَذَتْ مِن دُونِهِمْ حِجَابًا فَأَرْسَلْنَآ إِلَيْهَا رُوحَنَا فَتَمَثَّلَ لَهَا بَشَرًا سَوِيًّا",
+            "page_number": 306,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97165,
+                    "resource_id": 20,
+                    "text": "And she took, in seclusion from them, a screen. Then We sent to her Our Angel [i.e., Gabriel], and he represented himself to her as a well-proportioned man."
+                },
+                {
+                    "id": 215034,
+                    "resource_id": 39,
+                    "text": "Kemudian Maryam membuat dinding untuk melindungi dirinya dari mereka maka Kami hantarkan kepadanya: Roh dari kami lalu ia menyamar diri kepadanya sebagai seorang lelaki yang sempurna bentuk kejadiannya."
+                },
+                {
+                    "id": 1093244,
+                    "resource_id": 161,
+                    "text": "সে তাদের থেকে (আড়াল করার জন্য) পর্দা টানিয়ে দিল। তখন আমি তার কাছে আমার রূহ্কে (অর্থাৎ জিবরীলকে) পাঠিয়ে দিলাম। তখন সে (অর্থাৎ জিবরীল) তার সামনে পূর্ণ মানুষের আকৃতি ধারণ করল।"
+                }
+            ]
+        },
+        {
+            "id": 2268,
+            "verse_number": 18,
+            "verse_key": "19:18",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 122,
+            "ruku_number": 265,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَتْ إِنِّىٓ أَعُوذُ بِٱلرَّحْمَـٰنِ مِنكَ إِن كُنتَ تَقِيًّا",
+            "page_number": 306,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97166,
+                    "resource_id": 20,
+                    "text": "She said, \"Indeed, I seek refuge in the Most Merciful from you, [so leave me], if you should be fearing of Allāh.\""
+                },
+                {
+                    "id": 215035,
+                    "resource_id": 39,
+                    "text": "Maryam berkata: Sesungguhnya aku berlindung kepada (Allah) Ar-Rahman daripada (gangguan) mu kalaulah engkau seorang yang bertaqwa."
+                },
+                {
+                    "id": 1093245,
+                    "resource_id": 161,
+                    "text": "মারইয়াম বলল, ‘আমি তোমা হতে দয়াময় আল্লাহর আশ্রয় প্রার্থনা করছি যদি তুমি আল্লাহকে ভয় কর’ (তবে আমার নিকট এসো না)।’"
+                }
+            ]
+        },
+        {
+            "id": 2269,
+            "verse_number": 19,
+            "verse_key": "19:19",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 122,
+            "ruku_number": 265,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ إِنَّمَآ أَنَا۠ رَسُولُ رَبِّكِ لِأَهَبَ لَكِ غُلَـٰمًا زَكِيًّا",
+            "page_number": 306,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97167,
+                    "resource_id": 20,
+                    "text": "He said, \"I am only the messenger of your Lord to give you [news of] a pure boy [i.e., son].\""
+                },
+                {
+                    "id": 215036,
+                    "resource_id": 39,
+                    "text": "Ia berkata: \"Sesungguhnya aku pesuruh Tuhanmu, untuk menyebabkanmu dikurniakan seorang anak yang suci\"."
+                },
+                {
+                    "id": 1093246,
+                    "resource_id": 161,
+                    "text": "সে বলল, ‘আমি তোমার প্রতিপালক কর্তৃক প্রেরিত হয়েছি তোমাকে একটি পুত-পবিত্র পুত্র দানের উদ্দেশ্যে।’"
+                }
+            ]
+        },
+        {
+            "id": 2270,
+            "verse_number": 20,
+            "verse_key": "19:20",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 122,
+            "ruku_number": 265,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَتْ أَنَّىٰ يَكُونُ لِى غُلَـٰمٌ وَلَمْ يَمْسَسْنِى بَشَرٌ وَلَمْ أَكُ بَغِيًّا",
+            "page_number": 306,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97169,
+                    "resource_id": 20,
+                    "text": "She said, \"How can I have a boy while no man has touched me and I have not been unchaste?\""
+                },
+                {
+                    "id": 215038,
+                    "resource_id": 39,
+                    "text": "Maryam bertanya (dengan cemas): Bagaimanakah aku akan beroleh seorang anak lelaki, padahal aku tidak pernah disentuh oleh seorang lelaki pun, dan aku pula bukan perempuan jahat?\""
+                },
+                {
+                    "id": 1093247,
+                    "resource_id": 161,
+                    "text": "সে বলল, ‘কেমন করে আমার পুত্র হতে পারে, যখন কোন মানুষ আমাকে স্পর্শ করেনি, আর আমি অসতীও নই।’"
+                }
+            ]
+        },
+        {
+            "id": 2271,
+            "verse_number": 21,
+            "verse_key": "19:21",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 122,
+            "ruku_number": 265,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ كَذَٰلِكِ قَالَ رَبُّكِ هُوَ عَلَىَّ هَيِّنٌ ۖ وَلِنَجْعَلَهُۥٓ ءَايَةً لِّلنَّاسِ وَرَحْمَةً مِّنَّا ۚ وَكَانَ أَمْرًا مَّقْضِيًّا",
+            "page_number": 306,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97170,
+                    "resource_id": 20,
+                    "text": "He said, \"Thus [it will be]; your Lord says, 'It is easy for Me, and We will make him a sign to the people and a mercy from Us. And it is a matter [already] decreed.'\""
+                },
+                {
+                    "id": 215039,
+                    "resource_id": 39,
+                    "text": "Ia menjawab: \"Demikianlah keadaannya tak usahlah dihairankan; Tuhanmu berfirman: Hal itu mudah bagiKu; dan Kami hendak menjadikan pemberian anak itu sebagai satu tanda (yang membuktikan kekuasaan Kami) untuk umat manusia dan sebagai satu rahmat dari Kami; dan hal itu adalah satu perkara yang telah ditetapkan berlakunya."
+                },
+                {
+                    "id": 1093248,
+                    "resource_id": 161,
+                    "text": "সে বলল, ‘এভাবেই হবে, তোমার প্রতিপালক বলেছেন- ‘ওটা আমার জন্য সহজ, আমি তাকে মানুষের জন্য নিদর্শন বানাতে চাই আর আমার পক্ষ থেকে এক রহমত, এ ব্যাপারে সিদ্ধান্ত হয়ে গেছে।’"
+                }
+            ]
+        },
+        {
+            "id": 2272,
+            "verse_number": 22,
+            "verse_key": "19:22",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 123,
+            "ruku_number": 265,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "۞ فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًا قَصِيًّا",
+            "page_number": 306,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97171,
+                    "resource_id": 20,
+                    "text": "So she conceived him, and she withdrew with him to a remote place."
+                },
+                {
+                    "id": 215042,
+                    "resource_id": 39,
+                    "text": "Maka Maryam hamilah mengandungnya, lalu ia memencilkan diri dengan kandungannya itu ke sebuah tempat yang jauh."
+                },
+                {
+                    "id": 1093249,
+                    "resource_id": 161,
+                    "text": "অতঃপর ছেলে তার গর্ভে আসল। তখন সে তা নিয়ে দূরবর্তী জায়গায় চলে গেল।"
+                }
+            ]
+        },
+        {
+            "id": 2273,
+            "verse_number": 23,
+            "verse_key": "19:23",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 123,
+            "ruku_number": 265,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَأَجَآءَهَا ٱلْمَخَاضُ إِلَىٰ جِذْعِ ٱلنَّخْلَةِ قَالَتْ يَـٰلَيْتَنِى مِتُّ قَبْلَ هَـٰذَا وَكُنتُ نَسْيًا مَّنسِيًّا",
+            "page_number": 306,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97172,
+                    "resource_id": 20,
+                    "text": "And the pains of childbirth drove her to the trunk of a palm tree. She said, \"Oh, I wish I had died before this and was in oblivion, forgotten.\""
+                },
+                {
+                    "id": 215041,
+                    "resource_id": 39,
+                    "text": "(Ketika ia hendak bersalin) maka sakit beranak itu memaksanya (pergi bersandar) ke pangkal sebatang pohon tamar (kurma); ia berkata alangkah baiknya kalau aku mati sebelum ini dan menjadilah aku sesuatu yang dilupakan orang dan tidak dikenang-kenang!"
+                },
+                {
+                    "id": 1093250,
+                    "resource_id": 161,
+                    "text": "সন্তান প্রসবের বেদনা তাকে এক খেজুর বৃক্ষতলের দিকে তাড়িত করল। সে বলে উঠল, ‘হায়! এর আগেই যদি আমি মরে যেতাম আর (মানুষের) স্মৃতি থেকে পুরোপুরি মুছে যেতাম!’"
+                }
+            ]
+        },
+        {
+            "id": 2274,
+            "verse_number": 24,
+            "verse_key": "19:24",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 123,
+            "ruku_number": 265,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا",
+            "page_number": 306,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97173,
+                    "resource_id": 20,
+                    "text": "But he<sup foot_note=196723>1</sup> called her from below her, \"Do not grieve; your Lord has provided beneath you a stream."
+                },
+                {
+                    "id": 215046,
+                    "resource_id": 39,
+                    "text": "Lalu ia diseru dari sebelah bawahnya:\" Janganlah engkau berdukacita (wahai Maryam), sesungguhnya Tuhanmu telah menjadikan di bawahmu sebatang anak sungai."
+                },
+                {
+                    "id": 1093251,
+                    "resource_id": 161,
+                    "text": "নিম্নদিক থেকে তাকে ডাক দেয়া হল, ‘তুমি দুঃখ করো না, তোমার প্রতিপালক তোমার পাদদেশ দিয়ে এক নির্ঝরিণী প্রবাহিত করে দিয়েছেন।"
+                }
+            ]
+        },
+        {
+            "id": 2275,
+            "verse_number": 25,
+            "verse_key": "19:25",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 123,
+            "ruku_number": 265,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَهُزِّىٓ إِلَيْكِ بِجِذْعِ ٱلنَّخْلَةِ تُسَـٰقِطْ عَلَيْكِ رُطَبًا جَنِيًّا",
+            "page_number": 306,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97174,
+                    "resource_id": 20,
+                    "text": "And shake toward you the trunk of the palm tree; it will drop upon you ripe, fresh dates."
+                },
+                {
+                    "id": 215043,
+                    "resource_id": 39,
+                    "text": "Dan gegarlah ke arahmu batang pohon tamar itu, supaya gugur kepadamu buah tamar yang masak."
+                },
+                {
+                    "id": 1093252,
+                    "resource_id": 161,
+                    "text": "খেজুর গাছের কান্ড ধরে তুমি তোমার দিকে নাড়া দাও, তা তোমার উপর তাজা পরিপক্ক খেজুর পতিত করবে।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 14,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 14
+    }
+}

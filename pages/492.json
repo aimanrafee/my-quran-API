@@ -1,0 +1,431 @@
+{
+    "verses": [
+        {
+            "id": 4359,
+            "verse_number": 34,
+            "verse_key": "43:34",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 197,
+            "ruku_number": 428,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَلِبُيُوتِهِمْ أَبْوَٰبًا وَسُرُرًا عَلَيْهَا يَتَّكِـُٔونَ",
+            "page_number": 492,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99855,
+                    "resource_id": 20,
+                    "text": "And for their houses - doors and couches [of silver] upon which to recline"
+                },
+                {
+                    "id": 217695,
+                    "resource_id": 39,
+                    "text": "Dan juga pintu-pintu rumah mereka (dari perak juga), dan kerusi-kerusi panjang yang mereka berbaring di atasnya (dari perak juga),"
+                },
+                {
+                    "id": 1095336,
+                    "resource_id": 161,
+                    "text": "আর তাদের গৃহের জন্য দিতাম দরজা ও পালঙ্ক যাতে তারা হেলান দিয়ে বসত।"
+                }
+            ]
+        },
+        {
+            "id": 4360,
+            "verse_number": 35,
+            "verse_key": "43:35",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 197,
+            "ruku_number": 428,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَزُخْرُفًا ۚ وَإِن كُلُّ ذَٰلِكَ لَمَّا مَتَـٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۚ وَٱلْـَٔاخِرَةُ عِندَ رَبِّكَ لِلْمُتَّقِينَ",
+            "page_number": 492,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99856,
+                    "resource_id": 20,
+                    "text": "And gold ornament. But all that is not but the enjoyment of worldly life. And the Hereafter with your Lord is for the righteous."
+                },
+                {
+                    "id": 217696,
+                    "resource_id": 39,
+                    "text": "Serta berbagai barang perhiasan (keemasan). Dan (ingatlah), segala yang tersebut itu tidak lain hanyalah merupakan kesenangan hidup di dunia; dan (sebaliknya) kesenangan hari akhirat di sisi hukum Tuhanmu adalah khas bagi orang-orang yang bertaqwa."
+                },
+                {
+                    "id": 1095337,
+                    "resource_id": 161,
+                    "text": "আর স্বর্ণ নির্মিতও দিতাম। এগুলো সবই তো পার্থিব জীবনের ভোগ্য সামগ্রী মাত্র। আর আখিরাত তোমার প্রতিপালকের কাছে তাদেরই জন্য যারা (আল্লাহকে) ভয় করে।"
+                }
+            ]
+        },
+        {
+            "id": 4361,
+            "verse_number": 36,
+            "verse_key": "43:36",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 197,
+            "ruku_number": 429,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَن يَعْشُ عَن ذِكْرِ ٱلرَّحْمَـٰنِ نُقَيِّضْ لَهُۥ شَيْطَـٰنًا فَهُوَ لَهُۥ قَرِينٌ",
+            "page_number": 492,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99857,
+                    "resource_id": 20,
+                    "text": "And whoever is blinded from remembrance of the Most Merciful - We appoint for him a devil, and he is to him a companion."
+                },
+                {
+                    "id": 217698,
+                    "resource_id": 39,
+                    "text": "Dan sesiapa yang tidak mengindahkan pengajaran (Al-Quran yang diturunkan oleh Allah) Yang maha Pemurah, Kami akan adakan baginya Syaitan (yang menghasut dan menyesatkannya), lalu menjadilah Syaitan itu temannya yang tidak renggang daripadanya."
+                },
+                {
+                    "id": 1095338,
+                    "resource_id": 161,
+                    "text": "যে ব্যক্তি দয়াময় আল্লাহর স্মরণ থেকে নিজেকে ফিরিয়ে নেয়, আমি তার জন্য শয়ত্বানকে নিয়োজিত করি, অতঃপর সে হয় তার ঘনিষ্ঠ সহচর।"
+                }
+            ]
+        },
+        {
+            "id": 4362,
+            "verse_number": 37,
+            "verse_key": "43:37",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 197,
+            "ruku_number": 429,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِنَّهُمْ لَيَصُدُّونَهُمْ عَنِ ٱلسَّبِيلِ وَيَحْسَبُونَ أَنَّهُم مُّهْتَدُونَ",
+            "page_number": 492,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99858,
+                    "resource_id": 20,
+                    "text": "And indeed, they [i.e., the devils] avert them from the way [of guidance] while they think that they are [rightly] guided"
+                },
+                {
+                    "id": 217702,
+                    "resource_id": 39,
+                    "text": "Dan sesungguhnya Syaitan-syaitan itu tetap menghalangi mereka dari jalan yang benar, sedang mereka menyangka bahawa mereka orang-orang yang mendapat hidayah petunjuk."
+                },
+                {
+                    "id": 1095339,
+                    "resource_id": 161,
+                    "text": "তারাই মানুষকে সৎপথে চলতে অবশ্যই বাধা দেয়, আর মানুষ মনে করে যে, তারা সঠিক পথে রয়েছে।"
+                }
+            ]
+        },
+        {
+            "id": 4363,
+            "verse_number": 38,
+            "verse_key": "43:38",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 197,
+            "ruku_number": 429,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "حَتَّىٰٓ إِذَا جَآءَنَا قَالَ يَـٰلَيْتَ بَيْنِى وَبَيْنَكَ بُعْدَ ٱلْمَشْرِقَيْنِ فَبِئْسَ ٱلْقَرِينُ",
+            "page_number": 492,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99859,
+                    "resource_id": 20,
+                    "text": "Until, when he comes to Us [at Judgement], he says [to his companion], \"How I wish there was between me and you the distance between the east and west; and what a wretched companion.\""
+                },
+                {
+                    "id": 217699,
+                    "resource_id": 39,
+                    "text": "Sehingga apabila ia (yang terjerumus dalam kesesatan itu) datang kepada Kami (pada hari kiamat), berkatalah ia (kepada Syaitannya): \"Alangkah baiknya (kalau di dunia dahulu ada sekatan yang memisahkan) antaraku denganmu sejauh timur dengan barat! Kerana (engkau) adalah sejahat-jahat teman\"."
+                },
+                {
+                    "id": 1095340,
+                    "resource_id": 161,
+                    "text": "অবশেষে সে যখন আমার কাছে আসবে, তখন শয়ত্বানকে বলবে, হায়! আমার ও তোমার মাঝে যদি পূর্ব ও পশ্চিমের ব্যবধান থাকত! কতই না নিকৃষ্ট সহচর সে!"
+                }
+            ]
+        },
+        {
+            "id": 4364,
+            "verse_number": 39,
+            "verse_key": "43:39",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 197,
+            "ruku_number": 429,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَن يَنفَعَكُمُ ٱلْيَوْمَ إِذ ظَّلَمْتُمْ أَنَّكُمْ فِى ٱلْعَذَابِ مُشْتَرِكُونَ",
+            "page_number": 492,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99860,
+                    "resource_id": 20,
+                    "text": "And never will it benefit you that Day, when you have wronged, that you are [all] sharing in the punishment."
+                },
+                {
+                    "id": 217700,
+                    "resource_id": 39,
+                    "text": "(Lalu dikatakan kepada mereka): \"Pada hari ini, setelah nyata bahawa kamu telah menganiaya diri sendiri, (maka apa yang kamu cita-citakan itu) tidak sekali-kali akan memberi faedah kepada kamu, kerana sesungguhnya kamu dan teman-teman kamu itu tetap menderita bersama-sama di dalam azab\"."
+                },
+                {
+                    "id": 1095341,
+                    "resource_id": 161,
+                    "text": "তোমাদের হা-হুতাশ আজ তোমাদের কোন কাজে আসবে না যেহেতু তোমরা সীমালঙ্ঘন করেছিলে। তোমরা হবে শাস্তির অংশীদার।"
+                }
+            ]
+        },
+        {
+            "id": 4365,
+            "verse_number": 40,
+            "verse_key": "43:40",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 197,
+            "ruku_number": 429,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "أَفَأَنتَ تُسْمِعُ ٱلصُّمَّ أَوْ تَهْدِى ٱلْعُمْىَ وَمَن كَانَ فِى ضَلَـٰلٍ مُّبِينٍ",
+            "page_number": 492,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99863,
+                    "resource_id": 20,
+                    "text": "Then will you make the deaf hear, [O Muḥammad], or guide the blind or he who is in clear error?"
+                },
+                {
+                    "id": 217703,
+                    "resource_id": 39,
+                    "text": "Maka (mengapa engkau berdukacita wahai Muhammad) adakah engkau berkuasa menjadikan orang-orang yang pekak mendengar, atau menunjuk jalan kepada orang-orang yang buta (mata hatinya), dan juga orang-orang yang berada dalam kesesatan yang nyata?"
+                },
+                {
+                    "id": 1095342,
+                    "resource_id": 161,
+                    "text": "তুমি কি বধিরকে শুনাতে পারবে অথবা যে অন্ধ আর যে আছে সুস্পষ্ট পথভ্রষ্টের মধ্যে তাকে সৎপথ দেখাতে পারবে?"
+                }
+            ]
+        },
+        {
+            "id": 4366,
+            "verse_number": 41,
+            "verse_key": "43:41",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 197,
+            "ruku_number": 429,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فَإِمَّا نَذْهَبَنَّ بِكَ فَإِنَّا مِنْهُم مُّنتَقِمُونَ",
+            "page_number": 492,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99864,
+                    "resource_id": 20,
+                    "text": "And whether [or not] We take you away [in death], indeed, We will take retribution upon them."
+                },
+                {
+                    "id": 214834,
+                    "resource_id": 39,
+                    "text": "Oleh itu (bertenanglah engkau, kerana) kalaulah Kami wafatkan engkau (sebelum Kami perlihatkan kepadamu azab yang akan menimpa mereka), maka sesungguhnya Kami tetap menyeksakan mereka."
+                },
+                {
+                    "id": 1095343,
+                    "resource_id": 161,
+                    "text": "আমি যদি তোমাকে (দুনিয়া থেকে) নিয়েও যাই, তবু আমি তাদের কাছ থেকে প্রতিশোধ গ্রহণ করব।"
+                }
+            ]
+        },
+        {
+            "id": 4367,
+            "verse_number": 42,
+            "verse_key": "43:42",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 197,
+            "ruku_number": 429,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "أَوْ نُرِيَنَّكَ ٱلَّذِى وَعَدْنَـٰهُمْ فَإِنَّا عَلَيْهِم مُّقْتَدِرُونَ",
+            "page_number": 492,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99865,
+                    "resource_id": 20,
+                    "text": "Or whether [or not] We show you that which We have promised them, indeed, We are Perfect in Ability."
+                },
+                {
+                    "id": 217704,
+                    "resource_id": 39,
+                    "text": "Atau sekiranya Kami (hendak) memperlihatkan kepadamu apa yang Kami janjikan kepada mereka (dari azab seksa itu), maka Kami tetap berkuasa terhadap mereka."
+                },
+                {
+                    "id": 1095344,
+                    "resource_id": 161,
+                    "text": "অথবা আমি তাদেরকে যে ‘আযাবের ও‘য়াদা দিয়েছি তা যদি তোমাকে দেখিয়ে দেই (আমার পক্ষে সবই সম্ভব), কারণ তাদের উপর আমার পূর্ণ ক্ষমতা আছে।"
+                }
+            ]
+        },
+        {
+            "id": 4368,
+            "verse_number": 43,
+            "verse_key": "43:43",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 197,
+            "ruku_number": 429,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فَٱسْتَمْسِكْ بِٱلَّذِىٓ أُوحِىَ إِلَيْكَ ۖ إِنَّكَ عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+            "page_number": 492,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99866,
+                    "resource_id": 20,
+                    "text": "So adhere to that which is revealed to you. Indeed, you are on a straight path."
+                },
+                {
+                    "id": 217710,
+                    "resource_id": 39,
+                    "text": "Dengan yang demikian, berpegang teguhlah engkau kepada Al-Quran yang telah diwahyukan kepadamu; kerana sesungguhnya engkau berada di atas jalan yang lurus."
+                },
+                {
+                    "id": 1095345,
+                    "resource_id": 161,
+                    "text": "কাজেই তোমার প্রতি যা ওয়াহী করা হয় তুমি তা দৃঢ়ভাবে আঁকড়ে ধর, কেননা তুমি তো আছ সরল সঠিক পথে।"
+                }
+            ]
+        },
+        {
+            "id": 4369,
+            "verse_number": 44,
+            "verse_key": "43:44",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 197,
+            "ruku_number": 429,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِنَّهُۥ لَذِكْرٌ لَّكَ وَلِقَوْمِكَ ۖ وَسَوْفَ تُسْـَٔلُونَ",
+            "page_number": 492,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99867,
+                    "resource_id": 20,
+                    "text": "And indeed, it is a remembrance<sup foot_note=197328>1</sup> for you and your people, and you [all] are going to be questioned."
+                },
+                {
+                    "id": 217705,
+                    "resource_id": 39,
+                    "text": "Dan sesungguhnya Al-Quran itu memberikan kemuliaan dan peringatan kepadamu (wahai Muhammad) dan kepada kaummu; dan kamu akan ditanya kelak (tentang isi kandungannya yang kamu telah amalkan)."
+                },
+                {
+                    "id": 1095346,
+                    "resource_id": 161,
+                    "text": "কুরআন হল অবশ্যই তোমার জন্য আর তোমার জাতির জন্য উপদেশ বাণী। আর এ সম্পর্কে অচিরেই তোমাদেরকে জওয়াবদিহি করতে হবে।"
+                }
+            ]
+        },
+        {
+            "id": 4370,
+            "verse_number": 45,
+            "verse_key": "43:45",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 197,
+            "ruku_number": 429,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَسْـَٔلْ مَنْ أَرْسَلْنَا مِن قَبْلِكَ مِن رُّسُلِنَآ أَجَعَلْنَا مِن دُونِ ٱلرَّحْمَـٰنِ ءَالِهَةً يُعْبَدُونَ",
+            "page_number": 492,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99868,
+                    "resource_id": 20,
+                    "text": "And ask those We sent before you of Our messengers; have We made besides the Most Merciful deities to be worshipped?"
+                },
+                {
+                    "id": 217706,
+                    "resource_id": 39,
+                    "text": "Dan bertanyalah kepada umat mana-mana Rasul yang Kami telah utuskan sebelummu; pernahkah Kami memberi hukum menetapkan sebarang tuhan untuk disembah, selain dari Allah Yang Maha Pemurah."
+                },
+                {
+                    "id": 1095347,
+                    "resource_id": 161,
+                    "text": "আমি তোমার পূর্বে যে সব রসূল পাঠিয়েছিলাম তাদেরকে জিজ্ঞেস কর (অর্থাৎ তাদের কিতাব দেখ ও তাদের সত্যিকার অনুসারীদের নিকট যাচাই কর) আমি কি দয়াময় আল্লাহ ছাড়া কোন ইলাহ স্থির করেছিলাম যাদের ‘ইবাদাত করতে হবে?"
+                }
+            ]
+        },
+        {
+            "id": 4371,
+            "verse_number": 46,
+            "verse_key": "43:46",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 197,
+            "ruku_number": 430,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَآ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ فَقَالَ إِنِّى رَسُولُ رَبِّ ٱلْعَـٰلَمِينَ",
+            "page_number": 492,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99869,
+                    "resource_id": 20,
+                    "text": "And certainly did We send Moses with Our signs to Pharaoh and his establishment, and he said, \"Indeed, I am the messenger of the Lord of the worlds.\""
+                },
+                {
+                    "id": 217707,
+                    "resource_id": 39,
+                    "text": "Dan demi sesungguhnya! Kami telah mengutus Nabi Musa dengan membawa mukjizat-mukjizat Kami, kepada Firaun dan kaumnya, lalu ia berkata: \"Sesungguhnya aku ini ialah Rasul dari Tuhan sekalian alam\"."
+                },
+                {
+                    "id": 1095348,
+                    "resource_id": 161,
+                    "text": "আমি মূসাকে আমার নিদর্শনসহ ফেরাউন ও তার প্রধানদের নিকট পাঠিয়েছিলাম। মূসা (আ.) বলেছিল- আমি বিশ্বজগতের প্রতিপালকের রসূল।"
+                }
+            ]
+        },
+        {
+            "id": 4372,
+            "verse_number": 47,
+            "verse_key": "43:47",
+            "hizb_number": 50,
+            "rub_el_hizb_number": 197,
+            "ruku_number": 430,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "فَلَمَّا جَآءَهُم بِـَٔايَـٰتِنَآ إِذَا هُم مِّنْهَا يَضْحَكُونَ",
+            "page_number": 492,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99870,
+                    "resource_id": 20,
+                    "text": "But when he brought them Our signs, at once they laughed at them."
+                },
+                {
+                    "id": 217708,
+                    "resource_id": 39,
+                    "text": "Maka apabila ia datang kepada mereka dengan membawa tanda-tanda kekuasaan Kami, mereka dengan serta-merta mencemuh dan menggelakkan (apa yang dibawanya) itu."
+                },
+                {
+                    "id": 1095349,
+                    "resource_id": 161,
+                    "text": "যখন সে আমার আয়াতসমূহ নিয়ে তাদের কাছে আসলো, তখন তারা তা নিয়ে হাসি-ঠাট্টা করতে লাগল।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 14,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 14
+    }
+}

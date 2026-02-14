@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 6044,
+            "verse_number": 1,
+            "verse_key": "91:1",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 535,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " وَٱلشَّمْسِ وَضُحَىٰهَا",
+            "page_number": 595,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102175,
+                    "resource_id": 20,
+                    "text": "By the sun and its brightness"
+                },
+                {
+                    "id": 214953,
+                    "resource_id": 39,
+                    "text": "Demi matahari dan cahayanya yang terang-benderang;"
+                },
+                {
+                    "id": 1097021,
+                    "resource_id": 161,
+                    "text": "শপথ সূর্যের ও তার (উজ্জ্বল) কিরণের,"
+                }
+            ]
+        },
+        {
+            "id": 6045,
+            "verse_number": 2,
+            "verse_key": "91:2",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 535,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلْقَمَرِ إِذَا تَلَىٰهَا",
+            "page_number": 595,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102194,
+                    "resource_id": 20,
+                    "text": "And [by] the moon when it follows it"
+                },
+                {
+                    "id": 215019,
+                    "resource_id": 39,
+                    "text": "Dan bulan apabila ia mengiringinya;"
+                },
+                {
+                    "id": 1097022,
+                    "resource_id": 161,
+                    "text": "শপথ চাঁদের যখন তা সূর্যের পিছনে আসে,"
+                }
+            ]
+        },
+        {
+            "id": 6046,
+            "verse_number": 3,
+            "verse_key": "91:3",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 535,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلنَّهَارِ إِذَا جَلَّىٰهَا",
+            "page_number": 595,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102206,
+                    "resource_id": 20,
+                    "text": "And [by] the day when it displays it<sup foot_note=197770>1</sup>"
+                },
+                {
+                    "id": 214955,
+                    "resource_id": 39,
+                    "text": "Dan siang apabila ia memperlihatkannya dengan jelas nyata;"
+                },
+                {
+                    "id": 1097023,
+                    "resource_id": 161,
+                    "text": "শপথ দিনের যখন তা সূর্যকে উদ্ভাসিত করে,"
+                }
+            ]
+        },
+        {
+            "id": 6047,
+            "verse_number": 4,
+            "verse_key": "91:4",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 535,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّيْلِ إِذَا يَغْشَىٰهَا",
+            "page_number": 595,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102208,
+                    "resource_id": 20,
+                    "text": "And [by] the night when it covers [i.e., conceals] it"
+                },
+                {
+                    "id": 220036,
+                    "resource_id": 39,
+                    "text": "Dan malam apabila ia menyelubunginya (dengan gelap- gelita),"
+                },
+                {
+                    "id": 1097024,
+                    "resource_id": 161,
+                    "text": "শপথ রাতের যখন তা সূর্যকে ঢেকে নেয়,"
+                }
+            ]
+        },
+        {
+            "id": 6048,
+            "verse_number": 5,
+            "verse_key": "91:5",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 535,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلسَّمَآءِ وَمَا بَنَىٰهَا",
+            "page_number": 595,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102210,
+                    "resource_id": 20,
+                    "text": "And [by] the sky and He who constructed it"
+                },
+                {
+                    "id": 220038,
+                    "resource_id": 39,
+                    "text": "Demi langit dan Yang membinanya (dalam bentuk yang kuat kukuh - yang melambangkan kekuasaanNya);"
+                },
+                {
+                    "id": 1097025,
+                    "resource_id": 161,
+                    "text": "শপথ আসমানের আর সেটা যিনি বানিয়েছেন তাঁর,"
+                }
+            ]
+        },
+        {
+            "id": 6049,
+            "verse_number": 6,
+            "verse_key": "91:6",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 535,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلْأَرْضِ وَمَا طَحَىٰهَا",
+            "page_number": 595,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102212,
+                    "resource_id": 20,
+                    "text": "And [by] the earth and He who spread it"
+                },
+                {
+                    "id": 220040,
+                    "resource_id": 39,
+                    "text": "Serta bumi dan Yang menghamparkannya (untuk kemudahan makhluk-makhlukNya);"
+                },
+                {
+                    "id": 1097026,
+                    "resource_id": 161,
+                    "text": "শপথ যমীনের আর সেটা যিনি বিছিয়েছেন তাঁর,"
+                }
+            ]
+        },
+        {
+            "id": 6050,
+            "verse_number": 7,
+            "verse_key": "91:7",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 535,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَنَفْسٍ وَمَا سَوَّىٰهَا",
+            "page_number": 595,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102214,
+                    "resource_id": 20,
+                    "text": "And [by] the soul and He who proportioned it<sup foot_note=197771>1</sup>"
+                },
+                {
+                    "id": 220042,
+                    "resource_id": 39,
+                    "text": "Demi diri manusia dan Yang menyempurnakan kejadiannya (dengan kelengkapan yang sesuai dengan keadaannya);"
+                },
+                {
+                    "id": 1097027,
+                    "resource_id": 161,
+                    "text": "শপথ প্রাণের আর তাঁর যিনি তা সামঞ্জস্যপূর্ণ করেছেন,"
+                }
+            ]
+        },
+        {
+            "id": 6051,
+            "verse_number": 8,
+            "verse_key": "91:8",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 535,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا",
+            "page_number": 595,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102216,
+                    "resource_id": 20,
+                    "text": "And inspired it [with discernment of] its wickedness and its righteousness,"
+                },
+                {
+                    "id": 220044,
+                    "resource_id": 39,
+                    "text": "Serta mengilhamkannya (untuk mengenal) jalan yang membawanya kepada kejahatan, dan yang membawanya kepada bertaqwa; -"
+                },
+                {
+                    "id": 1097028,
+                    "resource_id": 161,
+                    "text": "অতঃপর তাকে তার অসৎকর্ম ও সৎকর্মের জ্ঞান দান করেছেন।"
+                }
+            ]
+        },
+        {
+            "id": 6052,
+            "verse_number": 9,
+            "verse_key": "91:9",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 535,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "قَدْ أَفْلَحَ مَن زَكَّىٰهَا",
+            "page_number": 595,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102218,
+                    "resource_id": 20,
+                    "text": "He has succeeded who purifies it,"
+                },
+                {
+                    "id": 220046,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya berjayalah orang yang menjadikan dirinya - yang sedia bersih - bertambah-tambah bersih (dengan iman dan amal kebajikan),"
+                },
+                {
+                    "id": 1097029,
+                    "resource_id": 161,
+                    "text": "সেই সফলকাম হয়েছে যে নিজ আত্মাকে পবিত্র করেছে।"
+                }
+            ]
+        },
+        {
+            "id": 6053,
+            "verse_number": 10,
+            "verse_key": "91:10",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 535,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَقَدْ خَابَ مَن دَسَّىٰهَا",
+            "page_number": 595,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102177,
+                    "resource_id": 20,
+                    "text": "And he has failed who instills it [with corruption]."
+                },
+                {
+                    "id": 220003,
+                    "resource_id": 39,
+                    "text": "Dan sesungguhnya hampalah orang yang menjadikan dirinya - yang sedia bersih - itu susut dan terbenam kebersihannya (dengan sebab kekotoran maksiat)."
+                },
+                {
+                    "id": 1097030,
+                    "resource_id": 161,
+                    "text": "সেই ব্যর্থ হয়েছে যে নিজ আত্মাকে কলূষিত করেছে।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 2,
+        "total_records": 15
+    }
+}

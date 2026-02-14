@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 5552,
+            "verse_number": 1,
+            "verse_key": "75:1",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 231,
+            "ruku_number": 514,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " لَآ أُقْسِمُ بِيَوْمِ ٱلْقِيَـٰمَةِ",
+            "page_number": 577,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101547,
+                    "resource_id": 20,
+                    "text": "I swear by the Day of Resurrection"
+                },
+                {
+                    "id": 214923,
+                    "resource_id": 39,
+                    "text": "Aku bersumpah dengan Hari Kiamat;"
+                },
+                {
+                    "id": 1096529,
+                    "resource_id": 161,
+                    "text": "আমি কসম করছি ক্বিয়ামতের দিনের,"
+                }
+            ]
+        },
+        {
+            "id": 5553,
+            "verse_number": 2,
+            "verse_key": "75:2",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 231,
+            "ruku_number": 514,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَآ أُقْسِمُ بِٱلنَّفْسِ ٱللَّوَّامَةِ",
+            "page_number": 577,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101559,
+                    "resource_id": 20,
+                    "text": "And I swear by the reproaching soul<sup foot_note=197655>1</sup> [to the certainty of resurrection]."
+                },
+                {
+                    "id": 219430,
+                    "resource_id": 39,
+                    "text": "Dan Aku bersumpah dengan \"Nafsul Lawwaamah\" (Bahawa kamu akan dibangkitkan sesudah mati)!"
+                },
+                {
+                    "id": 1096530,
+                    "resource_id": 161,
+                    "text": "আমি আরো কসম করছি সেই মনের যে (অন্যায় কাজ ক’রে বসলে) নিজেকে ধিক্কার দেয় (যে তোমাদেরকে অবশ্যই আবার জীবিত করে উঠানো হবে)।"
+                }
+            ]
+        },
+        {
+            "id": 5554,
+            "verse_number": 3,
+            "verse_key": "75:3",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 231,
+            "ruku_number": 514,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَيَحْسَبُ ٱلْإِنسَـٰنُ أَلَّن نَّجْمَعَ عِظَامَهُۥ",
+            "page_number": 577,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101571,
+                    "resource_id": 20,
+                    "text": "Does man think that We will not assemble his bones?"
+                },
+                {
+                    "id": 219408,
+                    "resource_id": 39,
+                    "text": "Patutkah manusia (yang kafir) menyangka bahawa Kami tidak akan dapat mengumpulkan tulang-tulangnya (dan menghidupkannya semula)?"
+                },
+                {
+                    "id": 1096531,
+                    "resource_id": 161,
+                    "text": "মানুষ কি মনে করে যে, আমি তার হাড়গুলোকে একত্রিত করতে পারব না।"
+                }
+            ]
+        },
+        {
+            "id": 5555,
+            "verse_number": 4,
+            "verse_key": "75:4",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 231,
+            "ruku_number": 514,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "بَلَىٰ قَـٰدِرِينَ عَلَىٰٓ أَن نُّسَوِّىَ بَنَانَهُۥ",
+            "page_number": 577,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101583,
+                    "resource_id": 20,
+                    "text": "Yes. [We are] Able [even] to proportion his fingertips."
+                },
+                {
+                    "id": 219419,
+                    "resource_id": 39,
+                    "text": "Bukan sebagaimana yang disangka itu, bahkan Kami berkuasa menyusun (dengan sempurnanya segala tulang) jarinya, (tulang yang lebih halus dari yang lain)."
+                },
+                {
+                    "id": 1096532,
+                    "resource_id": 161,
+                    "text": "কেন নয়, আমি তার আঙ্গুলের ডগা পর্যন্ত সঠিকভাবে বানিয়ে দিতে সক্ষম"
+                }
+            ]
+        },
+        {
+            "id": 5556,
+            "verse_number": 5,
+            "verse_key": "75:5",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 231,
+            "ruku_number": 514,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "بَلْ يُرِيدُ ٱلْإِنسَـٰنُ لِيَفْجُرَ أَمَامَهُۥ",
+            "page_number": 577,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101586,
+                    "resource_id": 20,
+                    "text": "But man desires to continue in sin.<sup foot_note=197656>1</sup>"
+                },
+                {
+                    "id": 219422,
+                    "resource_id": 39,
+                    "text": "(Kebenaran itu bukan tidak ada buktinya), bahkan manusia (yang ingkar) sentiasa suka hendak meneruskan perbuatan kufur dan maksiat (di sepanjang hayatnya, sehingga ia tidak mengakui adanya hari kiamat)."
+                },
+                {
+                    "id": 1096533,
+                    "resource_id": 161,
+                    "text": "কিন্তু মানুষ তার আগামী দিনগুলোতেও পাপাচার করতে চায়।"
+                }
+            ]
+        },
+        {
+            "id": 5557,
+            "verse_number": 6,
+            "verse_key": "75:6",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 231,
+            "ruku_number": 514,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "يَسْـَٔلُ أَيَّانَ يَوْمُ ٱلْقِيَـٰمَةِ",
+            "page_number": 577,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101588,
+                    "resource_id": 20,
+                    "text": "He asks, \"When is the Day of Resurrection?\""
+                },
+                {
+                    "id": 219571,
+                    "resource_id": 39,
+                    "text": "Dia bertanya (secara mengejek): \"Bilakah datangnya hari kiamat itu?\""
+                },
+                {
+                    "id": 1096534,
+                    "resource_id": 161,
+                    "text": "সে জিজ্ঞেস করে, ‘ক্বিয়ামত দিবস কবে?’"
+                }
+            ]
+        },
+        {
+            "id": 5558,
+            "verse_number": 7,
+            "verse_key": "75:7",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 231,
+            "ruku_number": 514,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَإِذَا بَرِقَ ٱلْبَصَرُ",
+            "page_number": 577,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101591,
+                    "resource_id": 20,
+                    "text": "So when vision is dazzled."
+                },
+                {
+                    "id": 219573,
+                    "resource_id": 39,
+                    "text": "Maka (jawabnya: hari kiamat akan datang) apabila pemandangan menjadi terpendar-pendar (kerana gerun takut),"
+                },
+                {
+                    "id": 1096535,
+                    "resource_id": 161,
+                    "text": "যখন চোখ ধাঁধিয়ে যাবে,"
+                }
+            ]
+        },
+        {
+            "id": 5559,
+            "verse_number": 8,
+            "verse_key": "75:8",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 231,
+            "ruku_number": 514,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَخَسَفَ ٱلْقَمَرُ",
+            "page_number": 577,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101595,
+                    "resource_id": 20,
+                    "text": "And the moon darkens."
+                },
+                {
+                    "id": 219575,
+                    "resource_id": 39,
+                    "text": "Dan bulan hilang cahayanya,"
+                },
+                {
+                    "id": 1096536,
+                    "resource_id": 161,
+                    "text": "চাঁদ হয়ে যাবে আলোকহীন"
+                }
+            ]
+        },
+        {
+            "id": 5560,
+            "verse_number": 9,
+            "verse_key": "75:9",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 231,
+            "ruku_number": 514,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَجُمِعَ ٱلشَّمْسُ وَٱلْقَمَرُ",
+            "page_number": 577,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101597,
+                    "resource_id": 20,
+                    "text": "And the sun and the moon are joined,"
+                },
+                {
+                    "id": 219645,
+                    "resource_id": 39,
+                    "text": "Dan matahari serta bulan dihimpunkan bersama,"
+                },
+                {
+                    "id": 1096537,
+                    "resource_id": 161,
+                    "text": "সুরুজ আর চাঁদকে একত্রে জুড়ে দেয়া হবে,"
+                }
+            ]
+        },
+        {
+            "id": 5561,
+            "verse_number": 10,
+            "verse_key": "75:10",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 231,
+            "ruku_number": 514,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "يَقُولُ ٱلْإِنسَـٰنُ يَوْمَئِذٍ أَيْنَ ٱلْمَفَرُّ",
+            "page_number": 577,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101548,
+                    "resource_id": 20,
+                    "text": "Man will say on that Day, \"Where is the [place of] escape?\""
+                },
+                {
+                    "id": 214925,
+                    "resource_id": 39,
+                    "text": "(Maka) pada hari itu, berkatalah manusia (yang ingkarkan hari kiamat): \"Ke manakah hendak melarikan diri?\""
+                },
+                {
+                    "id": 1096538,
+                    "resource_id": 161,
+                    "text": "সেদিন মানুষ বলবে- ‘আজ পালানোর জায়গা কোথায়?’"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 4,
+        "total_records": 40
+    }
+}

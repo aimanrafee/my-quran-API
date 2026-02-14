@@ -1,0 +1,401 @@
+{
+    "verses": [
+        {
+            "id": 2238,
+            "verse_number": 98,
+            "verse_key": "18:98",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 121,
+            "ruku_number": 262,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ هَـٰذَا رَحْمَةٌ مِّن رَّبِّى ۖ فَإِذَا جَآءَ وَعْدُ رَبِّى جَعَلَهُۥ دَكَّآءَ ۖ وَكَانَ وَعْدُ رَبِّى حَقًّا",
+            "page_number": 304,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97154,
+                    "resource_id": 20,
+                    "text": "[Dhul-Qarnayn] said, \"This is a mercy from my Lord; but when the promise of my Lord<sup foot_note=196711>1</sup> comes [i.e., approaches], He will make it level, and ever is the promise of my Lord true.\""
+                },
+                {
+                    "id": 215040,
+                    "resource_id": 39,
+                    "text": "(Setelah itu) berkatalah Zulkarnain: \"Ini ialah suatu rahmat dari Tuhanku; dalam pada itu, apabila sampai janji Tuhanku, Dia akan menjadikan tembok itu hancur lebur, dan adalah janji Tuhanku itu benar\"."
+                },
+                {
+                    "id": 1093215,
+                    "resource_id": 161,
+                    "text": "সে বলল, ‘এ আমার প্রতিপালকের করুণা, যখন আমার প্রতিপালকের ওয়া‘দার নির্দিষ্ট সময় আসবে, তখন তিনি তাকে ধূলিসাৎ করে দেবেন আর আমার প্রতিপালকের ওয়া‘দা সত্য।"
+                }
+            ]
+        },
+        {
+            "id": 2239,
+            "verse_number": 99,
+            "verse_key": "18:99",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 122,
+            "ruku_number": 262,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "۞ وَتَرَكْنَا بَعْضَهُمْ يَوْمَئِذٍ يَمُوجُ فِى بَعْضٍ ۖ وَنُفِخَ فِى ٱلصُّورِ فَجَمَعْنَـٰهُمْ جَمْعًا",
+            "page_number": 304,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97155,
+                    "resource_id": 20,
+                    "text": "And We will leave them that day<sup foot_note=196712>1</sup> surging over each other, and [then] the Horn will be blown, and We will assemble them in [one] assembly."
+                },
+                {
+                    "id": 215024,
+                    "resource_id": 39,
+                    "text": "Dan Kami biarkan mereka pada hari itu (keluar beramai-ramai) bercampur-baur antara satu dengan yang lain; dan (kemudiannya) akan ditiup sangkakala, lalu Kami himpunkan makhluk-makhluk seluruhnya di Padang Mahsyar."
+                },
+                {
+                    "id": 1093216,
+                    "resource_id": 161,
+                    "text": "আমি তাদেরকে সেদিন এমন অবস্থায় ছেড়ে দেব যে, তারা একদল আরেক দলের উপর তরঙ্গমালার মত পড়বে। আর শিঙ্গায় ফুঁক দেয়া হবে। অতঃপর আমরা সব মানুষকে একসঙ্গে একত্রিত করব।"
+                }
+            ]
+        },
+        {
+            "id": 2240,
+            "verse_number": 100,
+            "verse_key": "18:100",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 122,
+            "ruku_number": 262,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَعَرَضْنَا جَهَنَّمَ يَوْمَئِذٍ لِّلْكَـٰفِرِينَ عَرْضًا",
+            "page_number": 304,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97047,
+                    "resource_id": 20,
+                    "text": "And We will present Hell that Day to the disbelievers, on display -"
+                },
+                {
+                    "id": 214805,
+                    "resource_id": 39,
+                    "text": "Dan Kami perlihatkan neraka Jahannam, pada hari itu kepada orang-orang kafir, dengan pendedahan yang jelas nyata;"
+                },
+                {
+                    "id": 1093217,
+                    "resource_id": 161,
+                    "text": "আমি সেদিন জাহান্নামকে কাফিরদের জন্য সরাসরি হাযির করব।"
+                }
+            ]
+        },
+        {
+            "id": 2241,
+            "verse_number": 101,
+            "verse_key": "18:101",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 122,
+            "ruku_number": 262,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِينَ كَانَتْ أَعْيُنُهُمْ فِى غِطَآءٍ عَن ذِكْرِى وَكَانُوا۟ لَا يَسْتَطِيعُونَ سَمْعًا",
+            "page_number": 304,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97048,
+                    "resource_id": 20,
+                    "text": "Those whose eyes had been within a cover [removed] from My remembrance,<sup foot_note=196714>1</sup> and they were not able to hear.<sup foot_note=196713>2</sup>"
+                },
+                {
+                    "id": 214807,
+                    "resource_id": 39,
+                    "text": "(Iaitu) orang-orang yang matanya telah tertutup daripada melihat tanda-tanda yang membawa kepada mengingatiKu, dan mereka pula tidak dapat mendengar sama sekali."
+                },
+                {
+                    "id": 1093218,
+                    "resource_id": 161,
+                    "text": "আমার স্মরণ থেকে যাদের চক্ষু ছিল আবরণে ঢাকা আর তারা শুনতেও সক্ষম ছিল না।"
+                }
+            ]
+        },
+        {
+            "id": 2242,
+            "verse_number": 102,
+            "verse_key": "18:102",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 122,
+            "ruku_number": 263,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "أَفَحَسِبَ ٱلَّذِينَ كَفَرُوٓا۟ أَن يَتَّخِذُوا۟ عِبَادِى مِن دُونِىٓ أَوْلِيَآءَ ۚ إِنَّآ أَعْتَدْنَا جَهَنَّمَ لِلْكَـٰفِرِينَ نُزُلًا",
+            "page_number": 304,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97049,
+                    "resource_id": 20,
+                    "text": "Then do those who disbelieve think that they can take My servants instead of Me as allies? Indeed, We have prepared Hell for the disbelievers as a lodging."
+                },
+                {
+                    "id": 214809,
+                    "resource_id": 39,
+                    "text": "Maka adakah orang-orang kafir menyangka bahawa mereka mengambil hamba-hambaKu sebagai makhluk-makhluk yang disembah, selain daripadaKu, dapat menolong mereka? Sesungguhnya Kami telah sediakan neraka Jahannam bagi orang-orang kafir itu sebagai tempat tetamu."
+                },
+                {
+                    "id": 1093219,
+                    "resource_id": 161,
+                    "text": "যারা কুফুরী নীতি গ্রহণ করেছে তারা কি মনে করে যে, তারা আমার পরিবর্তে আমার বান্দাহদেরকে অভিভাবকরূপে গ্রহণ করবে? আমি কাফিরদের মেহমানদারির জন্য জাহান্নাম প্রস্তুত করে রেখেছি।"
+                }
+            ]
+        },
+        {
+            "id": 2243,
+            "verse_number": 103,
+            "verse_key": "18:103",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 122,
+            "ruku_number": 263,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قُلْ هَلْ نُنَبِّئُكُم بِٱلْأَخْسَرِينَ أَعْمَـٰلًا",
+            "page_number": 304,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97050,
+                    "resource_id": 20,
+                    "text": "Say, [O Muḥammad], \"Shall we [believers] inform you of the greatest losers as to [their] deeds?"
+                },
+                {
+                    "id": 214811,
+                    "resource_id": 39,
+                    "text": "Katakanlah (wahai Muhammad): \"Mahukah Kami khabarkan kepada kamu akan orang-orang yang paling rugi amal-amal perbuatannya?"
+                },
+                {
+                    "id": 1093220,
+                    "resource_id": 161,
+                    "text": "বল, ‘আমি তোমাদেরকে কি সংবাদ দেব নিজেদের ‘আমালের ক্ষেত্রে কারা সবচেয়ে বেশি ক্ষতিগ্রস্ত?’"
+                }
+            ]
+        },
+        {
+            "id": 2244,
+            "verse_number": 104,
+            "verse_key": "18:104",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 122,
+            "ruku_number": 263,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِينَ ضَلَّ سَعْيُهُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَهُمْ يَحْسَبُونَ أَنَّهُمْ يُحْسِنُونَ صُنْعًا",
+            "page_number": 304,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97051,
+                    "resource_id": 20,
+                    "text": "[They are] those whose effort is lost in worldly life, while they think that they are doing well in work.\""
+                },
+                {
+                    "id": 214813,
+                    "resource_id": 39,
+                    "text": "(Iaitu) orang-orang yang telah sia-sia amal usahanya dalam kehidupan dunia ini, sedang mereka menyangka bahawa mereka sentiasa betul dan baik pada apa sahaja yang mereka lakukan\"."
+                },
+                {
+                    "id": 1093221,
+                    "resource_id": 161,
+                    "text": "তারা হল সে সব লোক দুনিয়ার জীবনে যাদের চেষ্টা সাধনা ব্যর্থ হয়ে গেছে আর তারা নিজেরা মনে করছে যে, তারা সঠিক কাজই করছে।"
+                }
+            ]
+        },
+        {
+            "id": 2245,
+            "verse_number": 105,
+            "verse_key": "18:105",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 122,
+            "ruku_number": 263,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِ رَبِّهِمْ وَلِقَآئِهِۦ فَحَبِطَتْ أَعْمَـٰلُهُمْ فَلَا نُقِيمُ لَهُمْ يَوْمَ ٱلْقِيَـٰمَةِ وَزْنًا",
+            "page_number": 304,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97052,
+                    "resource_id": 20,
+                    "text": "Those are the ones who disbelieve in the verses of their Lord and in [their] meeting Him, so their deeds have become worthless; and We will not assign to them on the Day of Resurrection any weight [i.e., importance]."
+                },
+                {
+                    "id": 214815,
+                    "resource_id": 39,
+                    "text": "Merekalah orang-orang yang kufur ingkar akan ayat-ayat Tuhan mereka dan akan pertemuan denganNya; oleh itu gugurlah amal-amal mereka; maka akibatya Kami tidak akan memberi sebarang timbangan untuk menilai amal mereka, pada hari kiamat kelak."
+                },
+                {
+                    "id": 1093222,
+                    "resource_id": 161,
+                    "text": "তারা হল সে সব লোক যারা তাদের প্রতিপালকের নিদর্শন ও তাঁর সাথে সাক্ষাৎকে অমান্য করে। যার ফলে তাদের যাবতীয় ‘আমাল নিস্ফল হয়ে গেছে। কিয়ামাতের দিন আমি তাদের (কাজের) জন্য কোন ওজন কায়িম করব না (অর্থাৎ তাদের এ সব ‘আমাল ওজনযোগ্য হিসেবে গণ্য করা হবে না)।"
+                }
+            ]
+        },
+        {
+            "id": 2246,
+            "verse_number": 106,
+            "verse_key": "18:106",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 122,
+            "ruku_number": 263,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "ذَٰلِكَ جَزَآؤُهُمْ جَهَنَّمُ بِمَا كَفَرُوا۟ وَٱتَّخَذُوٓا۟ ءَايَـٰتِى وَرُسُلِى هُزُوًا",
+            "page_number": 304,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97053,
+                    "resource_id": 20,
+                    "text": "That is their recompense - Hell - for what they denied and [because] they took My signs and My messengers in ridicule."
+                },
+                {
+                    "id": 214817,
+                    "resource_id": 39,
+                    "text": "(Mereka yang bersifat) demikian, balasannya neraka Jahannam, disebabkan mereka kufur ingkar, dan mereka pula menjadikan ayat-ayatKu dan Rasul-rasulKu sebagai ejek-ejekan."
+                },
+                {
+                    "id": 1093223,
+                    "resource_id": 161,
+                    "text": "এটাই তাদের প্রতিফল-জাহান্নাম, কারণ তারা কুফুরী করেছে আর আমার নিদর্শন ও রসূলদেরকে হাসি-তামাশার বিষয় বানিয়েছে।"
+                }
+            ]
+        },
+        {
+            "id": 2247,
+            "verse_number": 107,
+            "verse_key": "18:107",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 122,
+            "ruku_number": 263,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ كَانَتْ لَهُمْ جَنَّـٰتُ ٱلْفِرْدَوْسِ نُزُلًا",
+            "page_number": 304,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97054,
+                    "resource_id": 20,
+                    "text": "Indeed, those who have believed and done righteous deeds - they will have the Gardens of Paradise<sup foot_note=196715>1</sup> as a lodging,"
+                },
+                {
+                    "id": 214819,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya orang-orang yang beriman dan beramal soleh, disediakan bagi mereka Syurga-syurga Firdaus, sebagai tempat tetamu (yang serba mewah)."
+                },
+                {
+                    "id": 1093224,
+                    "resource_id": 161,
+                    "text": "যারা ঈমান আনে আর সৎকাজ করে তাদের আপ্যায়নের জন্য আছে ফিরদাউসের বাগান।"
+                }
+            ]
+        },
+        {
+            "id": 2248,
+            "verse_number": 108,
+            "verse_key": "18:108",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 122,
+            "ruku_number": 263,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "خَـٰلِدِينَ فِيهَا لَا يَبْغُونَ عَنْهَا حِوَلًا",
+            "page_number": 304,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97055,
+                    "resource_id": 20,
+                    "text": "Wherein they abide eternally. They will not desire from it any transfer."
+                },
+                {
+                    "id": 214825,
+                    "resource_id": 39,
+                    "text": "Mereka kekal di dalamnya, (dan) tidak ingin berpindah daripadanya."
+                },
+                {
+                    "id": 1093225,
+                    "resource_id": 161,
+                    "text": "সেখানে তারা স্থায়ী হয়ে থাকবে, সেখান থেকে বের হয়ে আর অন্যত্র যেতে চাইবে না।"
+                }
+            ]
+        },
+        {
+            "id": 2249,
+            "verse_number": 109,
+            "verse_key": "18:109",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 122,
+            "ruku_number": 263,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قُل لَّوْ كَانَ ٱلْبَحْرُ مِدَادًا لِّكَلِمَـٰتِ رَبِّى لَنَفِدَ ٱلْبَحْرُ قَبْلَ أَن تَنفَدَ كَلِمَـٰتُ رَبِّى وَلَوْ جِئْنَا بِمِثْلِهِۦ مَدَدًا",
+            "page_number": 304,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97056,
+                    "resource_id": 20,
+                    "text": "Say, \"If the sea were ink for [writing] the words<sup foot_note=196716>1</sup> of my Lord, the sea would be exhausted before the words of my Lord were exhausted, even if We brought the like of it in [continual] supplement.\""
+                },
+                {
+                    "id": 214821,
+                    "resource_id": 39,
+                    "text": "Katakanlah (wahai Muhammad): \"Kalaulah semua jenis lautan menjadi tinta untuk menulis Kalimah-kalimah Tuhanku, sudah tentu akan habis kering lautan itu sebelum habis Kalimah-kalimah Tuhanku, walaupun Kami tambahi lagi dengan lautan yang sebanding dengannya, sebagai bantuan\"."
+                },
+                {
+                    "id": 1093226,
+                    "resource_id": 161,
+                    "text": "বল, ‘সমুদ্রগুলো যদি আমার প্রতিপালকের কথা লেখার জন্য কালি হয়ে যায়, তবে আমার প্রতিপালকের কথা লেখা শেষ হওয়ার আগেই সমুদ্র অবশ্যই নিঃশেষ হয়ে যাবে, আমি যদি এর সাহায্যের জন্য আরো অনুরূপ পরিমাণ সমুদ্র নিয়ে আসি তবুও।’"
+                }
+            ]
+        },
+        {
+            "id": 2250,
+            "verse_number": 110,
+            "verse_key": "18:110",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 122,
+            "ruku_number": 263,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قُلْ إِنَّمَآ أَنَا۠ بَشَرٌ مِّثْلُكُمْ يُوحَىٰٓ إِلَىَّ أَنَّمَآ إِلَـٰهُكُمْ إِلَـٰهٌ وَٰحِدٌ ۖ فَمَن كَانَ يَرْجُوا۟ لِقَآءَ رَبِّهِۦ فَلْيَعْمَلْ عَمَلًا صَـٰلِحًا وَلَا يُشْرِكْ بِعِبَادَةِ رَبِّهِۦٓ أَحَدًۢا",
+            "page_number": 304,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97058,
+                    "resource_id": 20,
+                    "text": "Say, \"I am only a man like you, to whom has been revealed that your god is one God. So whoever would hope for the meeting with his Lord - let him do righteous work and not associate in the worship of his Lord anyone.\""
+                },
+                {
+                    "id": 214827,
+                    "resource_id": 39,
+                    "text": "Katakanlah (wahai Muhammad): \"Sesungguhnya aku hanyalah seorang manusia seperti kamu, diwahyukan kepadaku bahawa Tuhan kamu hanyalah Tuhan Yang Satu; Oleh itu, sesiapa yang percaya dan berharap akan pertemuan dengan Tuhannya, hendaklah ia mengerjakan amal yang soleh dan janganlah ia mempersekutukan sesiapapun dalam ibadatnya kepada Tuhannya\"."
+                },
+                {
+                    "id": 1093227,
+                    "resource_id": 161,
+                    "text": "বল, ‘আমি তোমাদেরই মত একজন মানুষ, আমার নিকট ওয়াহী করা হয় যে, তোমাদের ইলাহ কেবল এক ইলাহ। কাজেই যে ব্যক্তি তার প্রতিপালকের সঙ্গে সাক্ষাতের আশা করে, সে যেন সৎ ‘আমাল করে আর তার প্রতিপালকের ‘ইবাদাতে কাউকে শরীক না করে।’"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 13,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 13
+    }
+}

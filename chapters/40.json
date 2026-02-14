@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 4134,
+            "verse_number": 1,
+            "verse_key": "40:1",
+            "hizb_number": 47,
+            "rub_el_hizb_number": 187,
+            "ruku_number": 406,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": " حمٓ",
+            "page_number": 467,
+            "juz_number": 24,
+            "translations": [
+                {
+                    "id": 99526,
+                    "resource_id": 20,
+                    "text": "Ḥā, Meem.<sup foot_note=197254>1</sup>"
+                },
+                {
+                    "id": 214995,
+                    "resource_id": 39,
+                    "text": "Haa, Miim."
+                },
+                {
+                    "id": 1095111,
+                    "resource_id": 161,
+                    "text": "হা-মীম।"
+                }
+            ]
+        },
+        {
+            "id": 4135,
+            "verse_number": 2,
+            "verse_key": "40:2",
+            "hizb_number": 47,
+            "rub_el_hizb_number": 187,
+            "ruku_number": 406,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "تَنزِيلُ ٱلْكِتَـٰبِ مِنَ ٱللَّهِ ٱلْعَزِيزِ ٱلْعَلِيمِ",
+            "page_number": 467,
+            "juz_number": 24,
+            "translations": [
+                {
+                    "id": 99537,
+                    "resource_id": 20,
+                    "text": "The revelation of the Book [i.e., the Qur’ān] is from Allāh, the Exalted in Might, the Knowing,"
+                },
+                {
+                    "id": 217453,
+                    "resource_id": 39,
+                    "text": "Turunnya Al-Quran ini dari Allah Yang Maha Kuasa, lagi Maha Mengetahui;"
+                },
+                {
+                    "id": 1095112,
+                    "resource_id": 161,
+                    "text": "এ কিতাব নাযিল হয়েছে মহা প্রতাপের অধিকারী সর্বজ্ঞ আল্লাহর নিকট হতে।"
+                }
+            ]
+        },
+        {
+            "id": 4136,
+            "verse_number": 3,
+            "verse_key": "40:3",
+            "hizb_number": 47,
+            "rub_el_hizb_number": 187,
+            "ruku_number": 406,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "غَافِرِ ٱلذَّنۢبِ وَقَابِلِ ٱلتَّوْبِ شَدِيدِ ٱلْعِقَابِ ذِى ٱلطَّوْلِ ۖ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ إِلَيْهِ ٱلْمَصِيرُ",
+            "page_number": 467,
+            "juz_number": 24,
+            "translations": [
+                {
+                    "id": 99548,
+                    "resource_id": 20,
+                    "text": "The forgiver of sin, acceptor of repentance, severe in punishment, owner of abundance. There is no deity except Him; to Him is the destination."
+                },
+                {
+                    "id": 217397,
+                    "resource_id": 39,
+                    "text": "Yang Mengampunkan dosa, dan Yang Menerima taubat; Yang Berat azabNya; Yang Melimpah-limpah kurniaNya; tiada Tuhan melainkan Dia; kepadaNyalah tempat kembali."
+                },
+                {
+                    "id": 1095113,
+                    "resource_id": 161,
+                    "text": "যিনি পাপ ক্ষমাকারী, তাওবাহ কবূলকারী, কঠোর শাস্তিদাতা, বড়ই অনুগ্রহশীল, তিনি ছাড়া সত্যিকারের কোন ইলাহ নেই, প্রত্যাবর্তন তাঁরই কাছে।"
+                }
+            ]
+        },
+        {
+            "id": 4137,
+            "verse_number": 4,
+            "verse_key": "40:4",
+            "hizb_number": 47,
+            "rub_el_hizb_number": 187,
+            "ruku_number": 406,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "مَا يُجَـٰدِلُ فِىٓ ءَايَـٰتِ ٱللَّهِ إِلَّا ٱلَّذِينَ كَفَرُوا۟ فَلَا يَغْرُرْكَ تَقَلُّبُهُمْ فِى ٱلْبِلَـٰدِ",
+            "page_number": 467,
+            "juz_number": 24,
+            "translations": [
+                {
+                    "id": 99559,
+                    "resource_id": 20,
+                    "text": "No one disputes concerning the signs of Allāh except those who disbelieve, so be not deceived by their [uninhibited] movement throughout the land."
+                },
+                {
+                    "id": 217407,
+                    "resource_id": 39,
+                    "text": "Tidak ada yang membantah mengenai ayat-ayat Allah melainkan orang-orang yang kafir. Oleh itu janganlah engkau (wahai Muhammad) diperdayakan oleh kebebasan mereka bergerak dengan berulang alik dari sebuah bandar ke bandar yang lain."
+                },
+                {
+                    "id": 1095114,
+                    "resource_id": 161,
+                    "text": "কাফিররা ছাড়া অন্য কেউ আল্লাহর আয়াত নিয়ে ঝগড়া করে না। কাজেই দেশে দেশে তাদের অবাধ বিচরণ তোমাকে যেন ধোঁকায় না ফেলে।"
+                }
+            ]
+        },
+        {
+            "id": 4138,
+            "verse_number": 5,
+            "verse_key": "40:5",
+            "hizb_number": 47,
+            "rub_el_hizb_number": 187,
+            "ruku_number": 406,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَٱلْأَحْزَابُ مِنۢ بَعْدِهِمْ ۖ وَهَمَّتْ كُلُّ أُمَّةٍۭ بِرَسُولِهِمْ لِيَأْخُذُوهُ ۖ وَجَـٰدَلُوا۟ بِٱلْبَـٰطِلِ لِيُدْحِضُوا۟ بِهِ ٱلْحَقَّ فَأَخَذْتُهُمْ ۖ فَكَيْفَ كَانَ عِقَابِ",
+            "page_number": 467,
+            "juz_number": 24,
+            "translations": [
+                {
+                    "id": 99570,
+                    "resource_id": 20,
+                    "text": "The people of Noah denied before them and the [disbelieving] factions after them, and every nation intended [a plot] for their messenger to seize him, and they disputed by [using] falsehood to [attempt to] invalidate thereby the truth. So I seized them, and how [terrible] was My penalty."
+                },
+                {
+                    "id": 217418,
+                    "resource_id": 39,
+                    "text": "Sebelum mereka, kaum Nabi Nuh dan puak-puak yang bergabung - sesudah kaum Nabi Nuh itu - telah mendustakan (Rasul-rasulnya), dan tiap-tiap umat di antaranya telah merancangkan rancangan jahat terhadap Rasul mereka untuk menawannya (dan membinasakannya); dan mereka pula telah membantah dengan perkara yang salah untuk menghapuskan kebenaran dengan perkara yang salah itu; sebab itu Aku binasakan mereka. Maka (lihatlah) bagaimana kesan azabKu!"
+                },
+                {
+                    "id": 1095115,
+                    "resource_id": 161,
+                    "text": "এদের পূর্বে নূহের জাতি আর তাদের পরে বহু দল-গোষ্ঠী (রসূলদেরকে) অস্বীকার করেছিল। প্রত্যেক জাতি তাদের রসূলের বিরুদ্ধে চক্রান্ত করেছিল তাকে পাকড়াও করার জন্য, আর অসার অস্ত্রের সাহায্যে বিরোধিতায় লিপ্ত হয়েছিল তা দিয়ে সত্যকে খন্ডন করার জন্য। ফলে আমি তাদেরকে পাকড়াও করেছিলাম। অতঃপর দেখ, কেমন কঠোর ছিল আমার শাস্তি।"
+                }
+            ]
+        },
+        {
+            "id": 4139,
+            "verse_number": 6,
+            "verse_key": "40:6",
+            "hizb_number": 47,
+            "rub_el_hizb_number": 187,
+            "ruku_number": 406,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَكَذَٰلِكَ حَقَّتْ كَلِمَتُ رَبِّكَ عَلَى ٱلَّذِينَ كَفَرُوٓا۟ أَنَّهُمْ أَصْحَـٰبُ ٱلنَّارِ",
+            "page_number": 467,
+            "juz_number": 24,
+            "translations": [
+                {
+                    "id": 99581,
+                    "resource_id": 20,
+                    "text": "And thus has the word [i.e., decree] of your Lord come into effect upon those who disbelieved that they are companions of the Fire."
+                },
+                {
+                    "id": 217430,
+                    "resource_id": 39,
+                    "text": "Dan demikianlah juga tetapnya hukuman Tuhanmu terhadap orang-orang yang kafir, kerana sesungguhnya mereka ialah ahli neraka."
+                },
+                {
+                    "id": 1095116,
+                    "resource_id": 161,
+                    "text": "এভাবে কাফিরদের ব্যাপারে তোমার প্রতিপালকের বাণী সত্য প্রমাণিত হল যে, তারা জাহান্নামের অধিবাসী।"
+                }
+            ]
+        },
+        {
+            "id": 4140,
+            "verse_number": 7,
+            "verse_key": "40:7",
+            "hizb_number": 47,
+            "rub_el_hizb_number": 187,
+            "ruku_number": 406,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِينَ يَحْمِلُونَ ٱلْعَرْشَ وَمَنْ حَوْلَهُۥ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيُؤْمِنُونَ بِهِۦ وَيَسْتَغْفِرُونَ لِلَّذِينَ ءَامَنُوا۟ رَبَّنَا وَسِعْتَ كُلَّ شَىْءٍ رَّحْمَةً وَعِلْمًا فَٱغْفِرْ لِلَّذِينَ تَابُوا۟ وَٱتَّبَعُوا۟ سَبِيلَكَ وَقِهِمْ عَذَابَ ٱلْجَحِيمِ",
+            "page_number": 467,
+            "juz_number": 24,
+            "translations": [
+                {
+                    "id": 99596,
+                    "resource_id": 20,
+                    "text": "Those [angels] who carry the Throne and those around it exalt [Allāh] with praise of their Lord and believe in Him and ask forgiveness for those who have believed, [saying], \"Our Lord, You have encompassed all things in mercy and knowledge, so forgive those who have repented and followed Your way and protect them from the punishment of Hellfire."
+                },
+                {
+                    "id": 217441,
+                    "resource_id": 39,
+                    "text": "Malaikat yang memikul Arasy dan malaikat yang berada di sekelilingnya, bertasbih memuji TuhanNya; dan beriman kepadaNya; serta mereka memohon ampun bagi orang-orang yang beriman (dengan berdoa merayu): \"Wahai Tuhan kami! RahmatMu dan IlmuMu meliputi segala-galanya; maka berilah ampun kepada orang-orang yang bertaubat serta menurut jalanMu, dan peliharalah mereka dari azab neraka."
+                },
+                {
+                    "id": 1095117,
+                    "resource_id": 161,
+                    "text": "যারা ‘আরশ বহন করে আছে, আর যারা আছে তার চারপাশে, তারা তাঁর প্রশংসার সাথে তাঁর মাহাত্ম্য ঘোষণা করে আর তাঁর প্রতি ঈমান পোষণ করে আর মু’মিনদের জন্য ক্ষমা প্রার্থনা ক’রে বলে- হে আমাদের প্রতিপালক! তুমি তোমার রহমত ও জ্ঞান দিয়ে সব কিছুকে বেষ্টন করে রেখেছ, কাজেই যারা তাওবাহ করে ও তোমার পথ অনুসরণ করে তাদেরকে ক্ষমা কর, আর জাহান্নামের ‘আযাব থেকে তাদেরকে রক্ষা কর।"
+                }
+            ]
+        },
+        {
+            "id": 4141,
+            "verse_number": 8,
+            "verse_key": "40:8",
+            "hizb_number": 47,
+            "rub_el_hizb_number": 187,
+            "ruku_number": 406,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "رَبَّنَا وَأَدْخِلْهُمْ جَنَّـٰتِ عَدْنٍ ٱلَّتِى وَعَدتَّهُمْ وَمَن صَلَحَ مِنْ ءَابَآئِهِمْ وَأَزْوَٰجِهِمْ وَذُرِّيَّـٰتِهِمْ ۚ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+            "page_number": 468,
+            "juz_number": 24,
+            "translations": [
+                {
+                    "id": 99607,
+                    "resource_id": 20,
+                    "text": "Our Lord, and admit them to gardens of perpetual residence which You have promised them and whoever was righteous among their forefathers, their spouses and their offspring. Indeed, it is You who is the Exalted in Might, the Wise."
+                },
+                {
+                    "id": 217450,
+                    "resource_id": 39,
+                    "text": "\"Wahai Tuhan kami! Dan masukkanlah mereka ke dalam Syurga \"Adn\" yang Engkau telah janjikan kepada mereka; dan (masukkanlah bersama-sama mereka): orang-orang yang layak di antara ibu bapa mereka, dan isteri-isteri mereka, serta keturunan mereka. Sesungguhnya Engkaulah jua Yang Maha Kuasa, lagi Maha Bijaksana."
+                },
+                {
+                    "id": 1095118,
+                    "resource_id": 161,
+                    "text": "হে আমাদের প্রতিপালক! তুমি তাদেরকে আর তাদের পিতৃপুরুষ, স্বামী-স্ত্রী ও সন্তানাদির মধ্যে যারা সৎকাজ করেছে তাদেরকেও চিরস্থায়ী জান্নাতে প্রবেশ করান যার ওয়া‘দা তুমি তাদেরকে দিয়েছ; তুমি মহা পরাক্রমশালী, মহা বিজ্ঞ।"
+                }
+            ]
+        },
+        {
+            "id": 4142,
+            "verse_number": 9,
+            "verse_key": "40:9",
+            "hizb_number": 47,
+            "rub_el_hizb_number": 187,
+            "ruku_number": 406,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَقِهِمُ ٱلسَّيِّـَٔاتِ ۚ وَمَن تَقِ ٱلسَّيِّـَٔاتِ يَوْمَئِذٍ فَقَدْ رَحِمْتَهُۥ ۚ وَذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+            "page_number": 468,
+            "juz_number": 24,
+            "translations": [
+                {
+                    "id": 99614,
+                    "resource_id": 20,
+                    "text": "And protect them from the evil consequences [of their deeds]. And he whom You protect from evil consequences that Day - You will have given him mercy. And that is the great attainment.\""
+                },
+                {
+                    "id": 217465,
+                    "resource_id": 39,
+                    "text": "\"Dan peliharalah mereka dari (balasan) kejahatan-kejahatan (yang dilakukannya); dan (sebenarnya) sesiapa yang Engkau pelihara pada hari itu dari terkena (balasan) kejahatan-kejahatan (yang dilakukannya) maka sesungguhnya Engkau telah mengurniakan rahmat kepadanya; dan yang demikian itulah kemenangan yang besar (nilainya)\"."
+                },
+                {
+                    "id": 1095119,
+                    "resource_id": 161,
+                    "text": "সমস্ত খারাবী থেকে তাদেরকে রক্ষা কর। সেদিন তুমি যাকে সমস্ত খারাবী থেকে রক্ষা করলে, তার উপর তো দয়াই করলে। ওটাই হল বিরাট সাফল্য।"
+                }
+            ]
+        },
+        {
+            "id": 4143,
+            "verse_number": 10,
+            "verse_key": "40:10",
+            "hizb_number": 47,
+            "rub_el_hizb_number": 187,
+            "ruku_number": 407,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ يُنَادَوْنَ لَمَقْتُ ٱللَّهِ أَكْبَرُ مِن مَّقْتِكُمْ أَنفُسَكُمْ إِذْ تُدْعَوْنَ إِلَى ٱلْإِيمَـٰنِ فَتَكْفُرُونَ",
+            "page_number": 468,
+            "juz_number": 24,
+            "translations": [
+                {
+                    "id": 99527,
+                    "resource_id": 20,
+                    "text": "Indeed, those who disbelieve will be addressed, \"The hatred of Allāh for you was [even] greater than your hatred of yourselves [this Day in Hell] when you were invited to faith, but you disbelieved [i.e., refused].\""
+                },
+                {
+                    "id": 217382,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya orang-orang yang kafir akan dipanggil dan dikatakan kepada mereka (pada hari kiamat): \"Demi sesungguhnya! Kebencian Allah (kepada kamu) lebih besar daripada kebencian kamu kepada diri sendiri, (sebabnya kerana) semasa kamu diseru dan diajak (di dunia dahulu) supaya beriman, (kamu enggan dan menolak), lalu kamu terus berkeadaan kufur\"."
+                },
+                {
+                    "id": 1095120,
+                    "resource_id": 161,
+                    "text": "যারা কুফুরী করেছিল তাদেরকে ডাক দিয়ে বলা হবে- তোমাদের নিজেদের প্রতি তোমাদের ক্ষোভের চেয়ে (তোমাদের প্রতি) আল্লাহর ক্ষোভ অধিক, (কেননা) তোমাদেরকে যখন ঈমানের দিকে আহবান করা হয়েছিল, তখন তোমরা অস্বীকার করেছিলে।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 9,
+        "total_records": 85
+    }
+}

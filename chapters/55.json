@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 4902,
+            "verse_number": 1,
+            "verse_key": "55:1",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 468,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " ٱلرَّحْمَـٰنُ",
+            "page_number": 531,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100531,
+                    "resource_id": 20,
+                    "text": "The Most Merciful"
+                },
+                {
+                    "id": 214869,
+                    "resource_id": 39,
+                    "text": "(Tuhan) Yang Maha Pemurah serta melimpah-limpah rahmatNya."
+                },
+                {
+                    "id": 1095879,
+                    "resource_id": 161,
+                    "text": "পরম দয়ালু (আল্লাহ),"
+                }
+            ]
+        },
+        {
+            "id": 4903,
+            "verse_number": 2,
+            "verse_key": "55:2",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 468,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "عَلَّمَ ٱلْقُرْءَانَ",
+            "page_number": 531,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100543,
+                    "resource_id": 20,
+                    "text": "Taught the Qur’ān,"
+                },
+                {
+                    "id": 214636,
+                    "resource_id": 39,
+                    "text": "Dia lah yang telah mengajarkan Al-Quran."
+                },
+                {
+                    "id": 1095880,
+                    "resource_id": 161,
+                    "text": "তিনিই শিক্ষা দিয়েছেন কুরআন,"
+                }
+            ]
+        },
+        {
+            "id": 4904,
+            "verse_number": 3,
+            "verse_key": "55:3",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 468,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "خَلَقَ ٱلْإِنسَـٰنَ",
+            "page_number": 531,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100555,
+                    "resource_id": 20,
+                    "text": "Created man,"
+                },
+                {
+                    "id": 218448,
+                    "resource_id": 39,
+                    "text": "Dia lah yang telah menciptakan manusia; -"
+                },
+                {
+                    "id": 1095881,
+                    "resource_id": 161,
+                    "text": "তিনিই মানুষ সৃষ্টি করেছেন,"
+                }
+            ]
+        },
+        {
+            "id": 4905,
+            "verse_number": 4,
+            "verse_key": "55:4",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 468,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "عَلَّمَهُ ٱلْبَيَانَ",
+            "page_number": 531,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100568,
+                    "resource_id": 20,
+                    "text": "[And] taught him eloquence."
+                },
+                {
+                    "id": 218524,
+                    "resource_id": 39,
+                    "text": "Dia lah yang telah membolehkan manusia (bertutur) memberi dan menerima kenyataan."
+                },
+                {
+                    "id": 1095882,
+                    "resource_id": 161,
+                    "text": "তিনিই শিখিয়েছেন মনের কথা প্রকাশ করতে,"
+                }
+            ]
+        },
+        {
+            "id": 4906,
+            "verse_number": 5,
+            "verse_key": "55:5",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 468,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلشَّمْسُ وَٱلْقَمَرُ بِحُسْبَانٍ",
+            "page_number": 531,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100580,
+                    "resource_id": 20,
+                    "text": "The sun and the moon [move] by precise calculation,"
+                },
+                {
+                    "id": 218197,
+                    "resource_id": 39,
+                    "text": "Matahari dan bulan beredar dengan peraturan dan hitungan yang tertentu;"
+                },
+                {
+                    "id": 1095883,
+                    "resource_id": 161,
+                    "text": "সূর্য ও চন্দ্র আবর্তন করে সুনির্দিষ্ট হিসাব অনুযায়ী।"
+                }
+            ]
+        },
+        {
+            "id": 4907,
+            "verse_number": 6,
+            "verse_key": "55:6",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 468,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ",
+            "page_number": 531,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100592,
+                    "resource_id": 20,
+                    "text": "And the stars and trees prostrate.<sup foot_note=197468>1</sup>"
+                },
+                {
+                    "id": 218430,
+                    "resource_id": 39,
+                    "text": "Dan tumbuh-tumbuhan yang melata serta pohon-pohon kayu-kayan, masing-masing tunduk menurut peraturanNya."
+                },
+                {
+                    "id": 1095884,
+                    "resource_id": 161,
+                    "text": "তৃণলতা গাছপালা (তাঁরই জন্য) সাজদায় অবনত,"
+                }
+            ]
+        },
+        {
+            "id": 4908,
+            "verse_number": 7,
+            "verse_key": "55:7",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 468,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ",
+            "page_number": 531,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100604,
+                    "resource_id": 20,
+                    "text": "And the heaven He raised and imposed the balance"
+                },
+                {
+                    "id": 218442,
+                    "resource_id": 39,
+                    "text": "Dan langit dijadikannya (bumbung) tinggi, serta Ia mengadakan undang-undang dan peraturan neraca keadilan,"
+                },
+                {
+                    "id": 1095885,
+                    "resource_id": 161,
+                    "text": "তিনি আকাশকে করেছেন সমুন্নত, আর স্থাপন করেছেন (ন্যায়ের) মানদন্ড,"
+                }
+            ]
+        },
+        {
+            "id": 4909,
+            "verse_number": 8,
+            "verse_key": "55:8",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 468,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَلَّا تَطْغَوْا۟ فِى ٱلْمِيزَانِ",
+            "page_number": 531,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100615,
+                    "resource_id": 20,
+                    "text": "That you not transgress within the balance."
+                },
+                {
+                    "id": 218456,
+                    "resource_id": 39,
+                    "text": "Supaya kamu tidak melampaui batas dalam menjalankan keadilan;"
+                },
+                {
+                    "id": 1095886,
+                    "resource_id": 161,
+                    "text": "যাতে তোমরা মানদন্ডে সীমালঙ্ঘন না কর,"
+                }
+            ]
+        },
+        {
+            "id": 4910,
+            "verse_number": 9,
+            "verse_key": "55:9",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 468,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَقِيمُوا۟ ٱلْوَزْنَ بِٱلْقِسْطِ وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ",
+            "page_number": 531,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100617,
+                    "resource_id": 20,
+                    "text": "And establish weight in justice and do not make deficient the balance."
+                },
+                {
+                    "id": 218458,
+                    "resource_id": 39,
+                    "text": "Dan betulkanlah cara menimbang itu dengan adil, serta janganlah kamu mengurangi barang yang ditimbang."
+                },
+                {
+                    "id": 1095887,
+                    "resource_id": 161,
+                    "text": "সুবিচারের সঙ্গে ওজন প্রতিষ্ঠা কর আর ওজনে কম দিও না,"
+                }
+            ]
+        },
+        {
+            "id": 4911,
+            "verse_number": 10,
+            "verse_key": "55:10",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 468,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلْأَرْضَ وَضَعَهَا لِلْأَنَامِ",
+            "page_number": 531,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100532,
+                    "resource_id": 20,
+                    "text": "And the earth He laid [out] for the creatures."
+                },
+                {
+                    "id": 218421,
+                    "resource_id": 39,
+                    "text": "Dan bumi pula dijadikannya rata untuk kegunaan manusia dan makhluk-makhlukNya yang lain:"
+                },
+                {
+                    "id": 1095888,
+                    "resource_id": 161,
+                    "text": "আর যমীন- তিনি (তাঁর) প্রাণীকুলের জন্য তাকে করেছেন বিস্তৃত,"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 8,
+        "total_records": 78
+    }
+}

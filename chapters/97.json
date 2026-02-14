@@ -1,0 +1,161 @@
+{
+    "verses": [
+        {
+            "id": 6126,
+            "verse_number": 1,
+            "verse_key": "97:1",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 541,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+            "page_number": 598,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102345,
+                    "resource_id": 20,
+                    "text": "Indeed, We sent it [i.e., the Qur’ān] down during the Night of Decree."
+                },
+                {
+                    "id": 215025,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Kami telah menurunkan (Al-Quran) ini pada Malam Lailatul-Qadar,"
+                },
+                {
+                    "id": 1097103,
+                    "resource_id": 161,
+                    "text": "আমি কুরআনকে কাদরের রাতে নাযিল করেছি,"
+                }
+            ]
+        },
+        {
+            "id": 6127,
+            "verse_number": 2,
+            "verse_key": "97:2",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 541,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
+            "page_number": 598,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102347,
+                    "resource_id": 20,
+                    "text": "And what can make you know what is the Night of Decree?"
+                },
+                {
+                    "id": 220166,
+                    "resource_id": 39,
+                    "text": "Dan apa jalannya engkau dapat mengetahui apa dia kebesaran Malam Lailatul-Qadar itu?"
+                },
+                {
+                    "id": 1097104,
+                    "resource_id": 161,
+                    "text": "তুমি কি জান ক্বাদরের রাত কী?"
+                }
+            ]
+        },
+        {
+            "id": 6128,
+            "verse_number": 3,
+            "verse_key": "97:3",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 541,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ",
+            "page_number": 598,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102349,
+                    "resource_id": 20,
+                    "text": "The Night of Decree is better than a thousand months."
+                },
+                {
+                    "id": 220168,
+                    "resource_id": 39,
+                    "text": "Malam Lailatul-Qadar lebih baik daripada seribu bulan."
+                },
+                {
+                    "id": 1097105,
+                    "resource_id": 161,
+                    "text": "ক্বাদরের রাত হাজার মাসের চেয়েও অধিক উত্তম,"
+                }
+            ]
+        },
+        {
+            "id": 6129,
+            "verse_number": 4,
+            "verse_key": "97:4",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 541,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "تَنَزَّلُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ",
+            "page_number": 598,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102351,
+                    "resource_id": 20,
+                    "text": "The angels and the Spirit [i.e., Gabriel] descend therein by permission of their Lord for every matter.<sup foot_note=197788>1</sup>"
+                },
+                {
+                    "id": 220170,
+                    "resource_id": 39,
+                    "text": "Pada Malam itu, turun malaikat dan Jibril dengan izin Tuhan mereka, kerana membawa segala perkara (yang ditakdirkan berlakunya pada tahun yang berikut);"
+                },
+                {
+                    "id": 1097106,
+                    "resource_id": 161,
+                    "text": "এ রাতে ফেরেশতা আর রূহ তাদের রব-এর অনুমতিক্রমে প্রত্যেক কাজে অবতীর্ণ হয়।"
+                }
+            ]
+        },
+        {
+            "id": 6130,
+            "verse_number": 5,
+            "verse_key": "97:5",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 541,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "سَلَـٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ",
+            "page_number": 598,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102353,
+                    "resource_id": 20,
+                    "text": "Peace it is<sup foot_note=197789>1</sup> until the emergence of dawn."
+                },
+                {
+                    "id": 220172,
+                    "resource_id": 39,
+                    "text": "Sejahteralah Malam (yang berkat) itu hingga terbit fajar!"
+                },
+                {
+                    "id": 1097107,
+                    "resource_id": 161,
+                    "text": "(এ রাতে বিরাজ করে) শান্তি আর শান্তি- ফজর উদয় হওয়া পর্যন্ত।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 5
+    }
+}

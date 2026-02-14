@@ -1,0 +1,341 @@
+{
+    "verses": [
+        {
+            "id": 2251,
+            "verse_number": 1,
+            "verse_key": "19:1",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 122,
+            "ruku_number": 264,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": " كٓهيعٓصٓ",
+            "page_number": 305,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97156,
+                    "resource_id": 20,
+                    "text": "Kāf, Hā, Yā, ʿAyn, Ṣād.<sup foot_note=196717>1</sup>"
+                },
+                {
+                    "id": 215027,
+                    "resource_id": 39,
+                    "text": "Kaaf, Haa, Yaa, Ain, Saad"
+                },
+                {
+                    "id": 1093228,
+                    "resource_id": 161,
+                    "text": "কাফ্-হা-ইয়্যা-‘আইন-সাদ।"
+                }
+            ]
+        },
+        {
+            "id": 2252,
+            "verse_number": 2,
+            "verse_key": "19:2",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 122,
+            "ruku_number": 264,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "ذِكْرُ رَحْمَتِ رَبِّكَ عَبْدَهُۥ زَكَرِيَّآ",
+            "page_number": 305,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97168,
+                    "resource_id": 20,
+                    "text": "[This is] a mention of the mercy of your Lord to His servant Zechariah"
+                },
+                {
+                    "id": 215037,
+                    "resource_id": 39,
+                    "text": "(Ini ialah) perihal limpahan rahmat Tuhanmu (wahai Muhammad), kepada hambaNya Zakaria."
+                },
+                {
+                    "id": 1093229,
+                    "resource_id": 161,
+                    "text": "এটা তোমার প্রতিপালকের অনুগ্রহের বিবরণ তাঁর বান্দাহ যাকারিয়্যার প্রতি।"
+                }
+            ]
+        },
+        {
+            "id": 2253,
+            "verse_number": 3,
+            "verse_key": "19:3",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 122,
+            "ruku_number": 264,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "إِذْ نَادَىٰ رَبَّهُۥ نِدَآءً خَفِيًّا",
+            "page_number": 305,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97179,
+                    "resource_id": 20,
+                    "text": "When he called to his Lord a private call [i.e., supplication]."
+                },
+                {
+                    "id": 215049,
+                    "resource_id": 39,
+                    "text": "(Ingatkanlah peristiwa) ketika Nabi Zakaria berdoa kepada tuhannya dengan doa permohonan secara perlahan."
+                },
+                {
+                    "id": 1093230,
+                    "resource_id": 161,
+                    "text": "যখন সে তার প্রতিপালককে আহবান করেছিল- এক গোপন আহবানে।"
+                }
+            ]
+        },
+        {
+            "id": 2254,
+            "verse_number": 4,
+            "verse_key": "19:4",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 122,
+            "ruku_number": 264,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ رَبِّ إِنِّى وَهَنَ ٱلْعَظْمُ مِنِّى وَٱشْتَعَلَ ٱلرَّأْسُ شَيْبًا وَلَمْ أَكُنۢ بِدُعَآئِكَ رَبِّ شَقِيًّا",
+            "page_number": 305,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97190,
+                    "resource_id": 20,
+                    "text": "He said, \"My Lord, indeed my bones have weakened, and my head has filled<sup foot_note=196718>1</sup> with white, and never have I been in my supplication to You, my Lord, unhappy [i.e., disappointed]."
+                },
+                {
+                    "id": 215061,
+                    "resource_id": 39,
+                    "text": "Ia merayu dengan berkata: Wahai Tuhanku! Sesungguhnya telah lemahlah tulang -tulangku, dan telah putih melepaklah uban kepalaku; dan aku - wahai Tuhanku - tidak pernah merasa hampa dengan doa permohonanku kepadaMu."
+                },
+                {
+                    "id": 1093231,
+                    "resource_id": 161,
+                    "text": "সে বলেছিল, ‘হে আমার প্রতিপালক! আমার হাড়গুলো দুর্বল হয়ে গেছে, আর বার্ধক্যে আমার মস্তক সাদা হয়ে গেছে, হে আমার প্রতিপালক! তোমাকে ডেকে আমি কখনো বিফল হইনি।"
+                }
+            ]
+        },
+        {
+            "id": 2255,
+            "verse_number": 5,
+            "verse_key": "19:5",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 122,
+            "ruku_number": 264,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّا",
+            "page_number": 305,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97201,
+                    "resource_id": 20,
+                    "text": "And indeed, I fear the successors<sup foot_note=196719>1</sup> after me, and my wife has been barren, so give me from Yourself an heir"
+                },
+                {
+                    "id": 215071,
+                    "resource_id": 39,
+                    "text": "Dan sesungguhnya aku merasa bimbang akan kecuaian kaum kerabatku menyempurnakan tugas-tugas ugama sepeninggalanku; dan isteriku pula adalah seorang yang mandul; oleh itu, kurniakanlah daku dari sisiMu seorang anak lelaki."
+                },
+                {
+                    "id": 1093232,
+                    "resource_id": 161,
+                    "text": "আমার পরে আমার স্বগোত্রীয়রা (কী করবে) সে সম্পর্কে আমি আশঙ্কাবোধ করছি, আর আমার স্ত্রী হল বন্ধ্যা, কাজেই তুমি তোমার তরফ থেকে আমাকে একজন উত্তরাধিকারী দান কর"
+                }
+            ]
+        },
+        {
+            "id": 2256,
+            "verse_number": 6,
+            "verse_key": "19:6",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 122,
+            "ruku_number": 264,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "يَرِثُنِى وَيَرِثُ مِنْ ءَالِ يَعْقُوبَ ۖ وَٱجْعَلْهُ رَبِّ رَضِيًّا",
+            "page_number": 305,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97212,
+                    "resource_id": 20,
+                    "text": "Who will inherit me<sup foot_note=196720>1</sup> and inherit from the family of Jacob. And make him, my Lord, pleasing [to You].\""
+                },
+                {
+                    "id": 215081,
+                    "resource_id": 39,
+                    "text": "Yang layak mewarisi daku, juga mewarisi keluarga Nabi Yaakub; dan jadikanlah dia - wahai Tuhanku seorang yang diredhai serta disukai\"."
+                },
+                {
+                    "id": 1093233,
+                    "resource_id": 161,
+                    "text": "যে আমার উত্তরাধিকারী হবে আর উত্তরাধিকারী হবে ইয়া‘কুব পরিবারের; আর হে আমার প্রতিপালক! তাকে করুন আপনার সন্তুষ্টির পাত্র।"
+                }
+            ]
+        },
+        {
+            "id": 2257,
+            "verse_number": 7,
+            "verse_key": "19:7",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 122,
+            "ruku_number": 264,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "يَـٰزَكَرِيَّآ إِنَّا نُبَشِّرُكَ بِغُلَـٰمٍ ٱسْمُهُۥ يَحْيَىٰ لَمْ نَجْعَل لَّهُۥ مِن قَبْلُ سَمِيًّا",
+            "page_number": 305,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97223,
+                    "resource_id": 20,
+                    "text": "[He was told],<sup foot_note=196721>1</sup> \"O Zechariah, indeed We give you good tidings of a boy whose name will be John. We have not assigned to any before [this] name.\""
+                },
+                {
+                    "id": 215091,
+                    "resource_id": 39,
+                    "text": "(Nabi Zakaria diseru setelah dikabulkan doanya):\"Wahai Zakaria! Sesungguhnya Kami memberikan khabar yang mengembirakanmu dengan mengurniakan seorang anak lelaki bernama Yahya, yang kami tidak pernah jadikan sebelum itu, seorangpun yang senama dengannya\"."
+                },
+                {
+                    "id": 1093234,
+                    "resource_id": 161,
+                    "text": "তিনি বললেন, ‘হে যাকারিয়া! আমি তোমাকে একটি পুত্রের শুভ সংবাদ দিচ্ছি যার নাম হবে ইয়াহইয়া, পূর্বে এ নামে আমি কাউকে আখ্যায়িত করিনি।’"
+                }
+            ]
+        },
+        {
+            "id": 2258,
+            "verse_number": 8,
+            "verse_key": "19:8",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 122,
+            "ruku_number": 264,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَـٰمٌ وَكَانَتِ ٱمْرَأَتِى عَاقِرًا وَقَدْ بَلَغْتُ مِنَ ٱلْكِبَرِ عِتِيًّا",
+            "page_number": 305,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97234,
+                    "resource_id": 20,
+                    "text": "He said, \"My Lord, how will I have a boy when my wife has been barren and I have reached extreme old age?\""
+                },
+                {
+                    "id": 215102,
+                    "resource_id": 39,
+                    "text": "Nabi Zakaria bertanya: \"Wahai Tuhanku! Bagaimanakah caranya aku akan beroleh seorang anak, sedang isteriku adalah seorang yang mandul dan aku sendiri pula telah sampai had umur yang setua-tuanya?\""
+                },
+                {
+                    "id": 1093235,
+                    "resource_id": 161,
+                    "text": "সে বলল, ‘হে আমার পালনকর্তা! আমার পুত্র হবে কেমন করে, আমার স্ত্রী তো বন্ধ্যা, আর আমি বার্ধক্যের শেষ স্তরে পৌঁছে গেছি।’"
+                }
+            ]
+        },
+        {
+            "id": 2259,
+            "verse_number": 9,
+            "verse_key": "19:9",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 122,
+            "ruku_number": 264,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ كَذَٰلِكَ قَالَ رَبُّكَ هُوَ عَلَىَّ هَيِّنٌ وَقَدْ خَلَقْتُكَ مِن قَبْلُ وَلَمْ تَكُ شَيْـًٔا",
+            "page_number": 305,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97245,
+                    "resource_id": 20,
+                    "text": "[An angel] said, \"Thus [it will be]; your Lord says, 'It is easy for Me, for I created you before, while you were nothing.'\""
+                },
+                {
+                    "id": 215112,
+                    "resource_id": 39,
+                    "text": "Penyeru itu menjawab: Demikian keadaannya - janganlah dihairankan; Tuhanmu berfirman; \"Hal itu mudah bagiKu kerana sesungguhnya Aku telah menciptakanmu dahulu, sedang engkau pada masa itu belum ada sebarang apapun.\""
+                },
+                {
+                    "id": 1093236,
+                    "resource_id": 161,
+                    "text": "তিনি বললেন, ‘এভাবেই হবে, তোমার প্রতিপালক বলেছেন, ‘এটা আমার পক্ষে সহজ। ইতোপূর্বে আমিই তোমাকে সৃষ্টি করেছি যখন তুমি কিছুই ছিলে না।’"
+                }
+            ]
+        },
+        {
+            "id": 2260,
+            "verse_number": 10,
+            "verse_key": "19:10",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 122,
+            "ruku_number": 264,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ رَبِّ ٱجْعَل لِّىٓ ءَايَةً ۚ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَـٰثَ لَيَالٍ سَوِيًّا",
+            "page_number": 305,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97157,
+                    "resource_id": 20,
+                    "text": "[Zechariah] said, \"My Lord, make for me a sign.\" He said, \"Your sign is that you will not speak to the people for three nights, [being] sound.\"<sup foot_note=196722>1</sup>"
+                },
+                {
+                    "id": 215026,
+                    "resource_id": 39,
+                    "text": "Nabi Zakaria merayu lagi: \"Wahai Tuhanku! Jadikanlah satu tanda bagiku (yang menunjukkan isteriku mengandung)\", Allah Taala berfirman: \" Tandamu itu ialah engkau tidak akan dapat berkata-kata dengan orang ramai selama tiga malam, sedang engkau dalam keadaan sihat\"."
+                },
+                {
+                    "id": 1093237,
+                    "resource_id": 161,
+                    "text": "সে বলল, ‘হে আমার পালনকর্তা! আমার জন্য একটা চিহ্ন স্থির করে দিন।’ তিনি বললেন, ‘তোমার চিহ্ন এই যে, তুমি তিন রাত মানুষের সঙ্গে কথা বলবে না যদিও তুমি কথা বলতে সক্ষম।’"
+                }
+            ]
+        },
+        {
+            "id": 2261,
+            "verse_number": 11,
+            "verse_key": "19:11",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 122,
+            "ruku_number": 264,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ مِنَ ٱلْمِحْرَابِ فَأَوْحَىٰٓ إِلَيْهِمْ أَن سَبِّحُوا۟ بُكْرَةً وَعَشِيًّا",
+            "page_number": 305,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97158,
+                    "resource_id": 20,
+                    "text": "So he came out to his people from the prayer chamber and signaled to them to exalt [Allāh] in the morning and afternoon."
+                },
+                {
+                    "id": 215029,
+                    "resource_id": 39,
+                    "text": "Maka dia pun keluar mendapatkan kaumnya dari Mihrab (tempat sembahyangnya), lalu ia memberi isyarat kepada mereka: \"Hendaklah kamu bertasbih (mengerjakan ibadat kepada Allah) pagi dan petang\"."
+                },
+                {
+                    "id": 1093238,
+                    "resource_id": 161,
+                    "text": "অতঃপর সে তার কুঠরি থেকে বের হয়ে তার সম্প্রদায়ের কাছে গেল এবং ইশারায় তাদেরকে সকাল-সন্ধ্যায় আল্লাহর প্রশংসা-পবিত্রতা বর্ণনা করতে বলল।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 11,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 11
+    }
+}

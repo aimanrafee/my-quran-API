@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 4273,
+            "verse_number": 1,
+            "verse_key": "42:1",
+            "hizb_number": 49,
+            "rub_el_hizb_number": 193,
+            "ruku_number": 421,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": " حمٓ",
+            "page_number": 483,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99760,
+                    "resource_id": 20,
+                    "text": "Ḥā, Meem."
+                },
+                {
+                    "id": 214818,
+                    "resource_id": 39,
+                    "text": "Haa, Miim."
+                },
+                {
+                    "id": 1095250,
+                    "resource_id": 161,
+                    "text": "হা-মীম।"
+                }
+            ]
+        },
+        {
+            "id": 4274,
+            "verse_number": 2,
+            "verse_key": "42:2",
+            "hizb_number": 49,
+            "rub_el_hizb_number": 193,
+            "ruku_number": 421,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "عٓسٓقٓ",
+            "page_number": 483,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99774,
+                    "resource_id": 20,
+                    "text": "ʿAyn, Seen, Qāf.<sup foot_note=197293>1</sup>"
+                },
+                {
+                    "id": 214820,
+                    "resource_id": 39,
+                    "text": "Ain, Siin, Qaaf."
+                },
+                {
+                    "id": 1095251,
+                    "resource_id": 161,
+                    "text": "‘আইন-সীন-ক্বাফ।"
+                }
+            ]
+        },
+        {
+            "id": 4275,
+            "verse_number": 3,
+            "verse_key": "42:3",
+            "hizb_number": 49,
+            "rub_el_hizb_number": 193,
+            "ruku_number": 421,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "كَذَٰلِكَ يُوحِىٓ إِلَيْكَ وَإِلَى ٱلَّذِينَ مِن قَبْلِكَ ٱللَّهُ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+            "page_number": 483,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99786,
+                    "resource_id": 20,
+                    "text": "Thus has He revealed to you, [O Muḥammad], and to those before you - Allāh, the Exalted in Might, the Wise."
+                },
+                {
+                    "id": 217639,
+                    "resource_id": 39,
+                    "text": "Sebagaimana yang terkandung dalam surah ini dan surah-surah yang lain - diwahyukan kepadamu (wahai Muhammad) dan kepada Rasul-rasul yang terdahulu daripadamu, oleh Allah Yang Maha Kuasa, lagi Maha Bijaksana."
+                },
+                {
+                    "id": 1095252,
+                    "resource_id": 161,
+                    "text": "এভাবেই মহাপরাক্রমশালী মহাজ্ঞানী আল্লাহ তোমার প্রতি এবং তোমার পূর্বে যারা ছিল তাদের প্রতি ওয়াহী নাযিল করেন।"
+                }
+            ]
+        },
+        {
+            "id": 4276,
+            "verse_number": 4,
+            "verse_key": "42:4",
+            "hizb_number": 49,
+            "rub_el_hizb_number": 193,
+            "ruku_number": 421,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "لَهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ",
+            "page_number": 483,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99798,
+                    "resource_id": 20,
+                    "text": "To Him belongs whatever is in the heavens and whatever is in the earth, and He is the Most High, the Most Great.<sup foot_note=197294>1</sup>"
+                },
+                {
+                    "id": 217652,
+                    "resource_id": 39,
+                    "text": "Dia lah yang mempunyai dan menguasai segala yang ada di langit dan yang ada di bumi; dan Dia lah Yang Tertinggi keadaanNya, lagi Maha Besar (kekuasaanNya)."
+                },
+                {
+                    "id": 1095253,
+                    "resource_id": 161,
+                    "text": "আকাশ ও যমীনে যা কিছু আছে সবই তাঁর, তিনি সর্বোচ্চ, মহান।"
+                }
+            ]
+        },
+        {
+            "id": 4277,
+            "verse_number": 5,
+            "verse_key": "42:5",
+            "hizb_number": 49,
+            "rub_el_hizb_number": 193,
+            "ruku_number": 421,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "تَكَادُ ٱلسَّمَـٰوَٰتُ يَتَفَطَّرْنَ مِن فَوْقِهِنَّ ۚ وَٱلْمَلَـٰٓئِكَةُ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيَسْتَغْفِرُونَ لِمَن فِى ٱلْأَرْضِ ۗ أَلَآ إِنَّ ٱللَّهَ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
+            "page_number": 483,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99808,
+                    "resource_id": 20,
+                    "text": "The heavens almost break from above them,<sup foot_note=197295>1</sup> and the angels exalt [Allāh] with praise of their Lord and ask forgiveness for those on earth. Unquestionably, it is Allāh who is the Forgiving, the Merciful."
+                },
+                {
+                    "id": 217671,
+                    "resource_id": 39,
+                    "text": "Alam langit nyaris-nyaris pecah dari sebelah atasnya (kerana ngeri dan takutnya kepada kemurkaan Allah terhadap penduduk bumi yang lupakan kebesaran Allah sehingga menyeleweng dari jalan yang benar); dan malaikat bertasbih dengan memuji Tuhannya serta memohon ampun bagi makhluk-makhluk yang ada di bumi. Ingatlah! Sesungguhnya Allah, Dia lah Yang Maha Pengampun, lagi Maha Mengasihani."
+                },
+                {
+                    "id": 1095254,
+                    "resource_id": 161,
+                    "text": "আকাশ উপর থেকে ফেটে পড়ার উপক্রম হয় (সুমহান আল্লাহর প্রতি শ্রদ্ধাপূর্ণ ভয়ভীতিতে) আর ফেরেশতারা তাদের প্রতিপালকের প্রশংসা ও মহিমা ঘোষণা করে এবং যারা পৃথিবীতে আছে তাদের জন্য (আল্লাহর নিকট) ক্ষমা প্রার্থনা করে। জেনে রেখ, আল্লাহ, তিনি বড়ই ক্ষমাশীল, অতি দয়ালু।"
+                }
+            ]
+        },
+        {
+            "id": 4278,
+            "verse_number": 6,
+            "verse_key": "42:6",
+            "hizb_number": 49,
+            "rub_el_hizb_number": 193,
+            "ruku_number": 421,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّذِينَ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ ٱللَّهُ حَفِيظٌ عَلَيْهِمْ وَمَآ أَنتَ عَلَيْهِم بِوَكِيلٍ",
+            "page_number": 483,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99814,
+                    "resource_id": 20,
+                    "text": "And those who take as allies other than Him - Allāh is [yet] Guardian over them; and you, [O Muḥammad], are not over them a manager."
+                },
+                {
+                    "id": 217686,
+                    "resource_id": 39,
+                    "text": "Dan (sebaliknya) orang-orang yang menjadikan sesuatu yang lain dari Allah sebagai pelindung (yang disembah dan diharapkan pertolongannya), Allah sentiasa mengawasi tingkah laku mereka (serta akan membalasnya); dan engkau (wahai Muhammad hanyalah penyampai) bukanlah menjadi wakil yang menguasai soal (bawaan dan amalan) mereka."
+                },
+                {
+                    "id": 1095255,
+                    "resource_id": 161,
+                    "text": "যারা আল্লাহর পরিবর্তে অন্যদেরকে অভিভাবকরূপে গ্রহণ করে, আল্লাহ তাদের প্রতি নযর রাখছেন, তাদের (কাজের) দায়-দায়িত্ব তোমার উপর নেই।"
+                }
+            ]
+        },
+        {
+            "id": 4279,
+            "verse_number": 7,
+            "verse_key": "42:7",
+            "hizb_number": 49,
+            "rub_el_hizb_number": 193,
+            "ruku_number": 421,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَكَذَٰلِكَ أَوْحَيْنَآ إِلَيْكَ قُرْءَانًا عَرَبِيًّا لِّتُنذِرَ أُمَّ ٱلْقُرَىٰ وَمَنْ حَوْلَهَا وَتُنذِرَ يَوْمَ ٱلْجَمْعِ لَا رَيْبَ فِيهِ ۚ فَرِيقٌ فِى ٱلْجَنَّةِ وَفَرِيقٌ فِى ٱلسَّعِيرِ",
+            "page_number": 483,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99816,
+                    "resource_id": 20,
+                    "text": "And thus We have revealed to you an Arabic Qur’ān that you may warn the Mother of Cities [i.e., Makkah] and those around it<sup foot_note=197296>1</sup> and warn of the Day of Assembly, about which there is no doubt. A party will be in Paradise and a party in the Blaze."
+                },
+                {
+                    "id": 217692,
+                    "resource_id": 39,
+                    "text": "Dan sebagaimana Kami tetapkan engkau hanya penyampai, Kami wahyukan kepadamu Al-Quran dalam bahasa Arab, supaya engkau memberi peringatan dan amaran kepada (penduduk) \"Ummul-Qura\" dan sekalian penduduk dunia di sekelilingnya, serta memberi peringatan dan amaran mengenai hari perhimpunan (hari kiamat) - yang tidak ada syak tentang masa datangnya; (pada hari itu) sepuak masuk Syurga dan sepuak lagi masuk neraka."
+                },
+                {
+                    "id": 1095256,
+                    "resource_id": 161,
+                    "text": "এভাবে আমি তোমার প্রতি কুরআন আরবী ভাষায় নাযিল করেছি যাতে তুমি উম্মুল কুরা (মক্কা শহর) ও তার চার পাশে যারা আছে তাদেরকে সতর্ক করতে পার, আর সতর্ক কর একত্রিত হওয়ার দিন সম্পর্কে যে বিষয়ে কোন সন্দেহ নেই। (একত্রিত হওয়ার পর) এক দল যাবে জান্নাতে, আরেক দল যাবে জাহান্নামে।"
+                }
+            ]
+        },
+        {
+            "id": 4280,
+            "verse_number": 8,
+            "verse_key": "42:8",
+            "hizb_number": 49,
+            "rub_el_hizb_number": 193,
+            "ruku_number": 421,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَوْ شَآءَ ٱللَّهُ لَجَعَلَهُمْ أُمَّةً وَٰحِدَةً وَلَـٰكِن يُدْخِلُ مَن يَشَآءُ فِى رَحْمَتِهِۦ ۚ وَٱلظَّـٰلِمُونَ مَا لَهُم مِّن وَلِىٍّ وَلَا نَصِيرٍ",
+            "page_number": 483,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99818,
+                    "resource_id": 20,
+                    "text": "And if Allāh willed, He could have made them [of] one religion, but He admits whom He wills<sup foot_note=197297>1</sup> into His mercy. And the wrongdoers have not any protector or helper."
+                },
+                {
+                    "id": 217665,
+                    "resource_id": 39,
+                    "text": "Dan jika Allah menghendaki, tentulah Ia menjadikan mereka satu umat (yang bersatu dalam ugama Allah yang satu); akan tetapi Allah (tidak merancang yang demikian bahkan Ia akan) memasukkan sesiapa yang dikehendakiNya ke dalam rahmatNya (menurut peraturan yang telah ditetapkan); dan orang-orang yang zalim tidak ada baginya sesiapapun yang dapat memberikan perlindungan dan pertolongan."
+                },
+                {
+                    "id": 1095257,
+                    "resource_id": 161,
+                    "text": "আল্লাহ ইচ্ছে করলে তাদেরকে একই উম্মত করতেন, কিন্তু তিনি যাকে ইচ্ছে তাঁর রহমাতের মধ্যে দাখিল করেন, আর যালিমদের জন্য নেই কোন অভিভাবক, নেই কোন সাহায্যকারী।"
+                }
+            ]
+        },
+        {
+            "id": 4281,
+            "verse_number": 9,
+            "verse_key": "42:9",
+            "hizb_number": 49,
+            "rub_el_hizb_number": 193,
+            "ruku_number": 421,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "أَمِ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ ۖ فَٱللَّهُ هُوَ ٱلْوَلِىُّ وَهُوَ يُحْىِ ٱلْمَوْتَىٰ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+            "page_number": 483,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99820,
+                    "resource_id": 20,
+                    "text": "Or have they taken protectors [or allies] besides Him? But Allāh - He is the Protector, and He gives life to the dead, and He is over all things competent."
+                },
+                {
+                    "id": 217667,
+                    "resource_id": 39,
+                    "text": "Tidaklah patut mereka menjadikan sesuatu yang lain dari Allah sebagai pelindung-pelindung (yang disembah dan dipuja) kerana Allah jualah Pelindung yang sebenar-benarnya, dan Dia lah yang menghidupkan makhluk-makhluk yang mati. Dan (ingatlah), Ia Maha Kuasa atas tiap-tiap sesuatu."
+                },
+                {
+                    "id": 1095258,
+                    "resource_id": 161,
+                    "text": "কী! তারা কি আল্লাহর পরিবর্তে অন্যদেরকে অভিভাবক গ্রহণ করে নিয়েছে? আল্লাহই তো একমাত্র অভিভাবক, তিনিই মৃতকে জীবিত করেন আর তিনি সব কিছুর উপর ক্ষমতাবান।"
+                }
+            ]
+        },
+        {
+            "id": 4282,
+            "verse_number": 10,
+            "verse_key": "42:10",
+            "hizb_number": 49,
+            "rub_el_hizb_number": 193,
+            "ruku_number": 422,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا ٱخْتَلَفْتُمْ فِيهِ مِن شَىْءٍ فَحُكْمُهُۥٓ إِلَى ٱللَّهِ ۚ ذَٰلِكُمُ ٱللَّهُ رَبِّى عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ",
+            "page_number": 483,
+            "juz_number": 25,
+            "translations": [
+                {
+                    "id": 99761,
+                    "resource_id": 20,
+                    "text": "And in anything over which you disagree - its ruling is [to be referred] to Allāh. [Say], \"That is Allāh, my Lord; upon Him I have relied, and to Him I turn back.\"<sup foot_note=197298>1</sup>"
+                },
+                {
+                    "id": 217617,
+                    "resource_id": 39,
+                    "text": "Dan (katakanlah wahai Muhammad kepada pengikut-pengikutmu): \"Apa jua perkara ugama yang kamu berselisihan padanya maka hukum pemutusnya terserah kepada Allah; Hakim yang demikian kekuasaanNya ialah Allah Tuhanku; kepadaNyalah aku berserah diri dan kepadaNyalah aku rujuk kembali (dalam segala keadaan)\"."
+                },
+                {
+                    "id": 1095259,
+                    "resource_id": 161,
+                    "text": "তোমরা যে সব বিষয়ে মতভেদ কর তার মীমাংসা আল্লাহর উপর সোপর্দ. সেই আল্লাহই আমার প্রতিপালক, আমি তাঁর উপরই নির্ভর করি, আর তাঁরই অভিমুখী হই।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 6,
+        "total_records": 53
+    }
+}

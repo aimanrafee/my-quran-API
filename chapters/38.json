@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 3971,
+            "verse_number": 1,
+            "verse_key": "38:1",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 181,
+            "ruku_number": 393,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": " صٓ ۚ وَٱلْقُرْءَانِ ذِى ٱلذِّكْرِ",
+            "page_number": 453,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99346,
+                    "resource_id": 20,
+                    "text": "Ṣād.<sup foot_note=197209>1</sup> By the Qur’ān containing reminder...<sup foot_note=197208>2</sup>"
+                },
+                {
+                    "id": 217187,
+                    "resource_id": 39,
+                    "text": "Saad; demi Al-Quran yang mempunyai kemuliaan serta mengandungi peringatan dan pengajaran."
+                },
+                {
+                    "id": 1094948,
+                    "resource_id": 161,
+                    "text": "স্ব-দ, উপদেশপূর্ণ কুরআনের শপথ- (এটা সত্য)।"
+                }
+            ]
+        },
+        {
+            "id": 3972,
+            "verse_number": 2,
+            "verse_key": "38:2",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 181,
+            "ruku_number": 393,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "بَلِ ٱلَّذِينَ كَفَرُوا۟ فِى عِزَّةٍ وَشِقَاقٍ",
+            "page_number": 453,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99358,
+                    "resource_id": 20,
+                    "text": "But those who disbelieve are in pride and dissension."
+                },
+                {
+                    "id": 217198,
+                    "resource_id": 39,
+                    "text": "(Orang-orang yang mengingkari kerasulanmu - wahai Muhammad - tidak berdasarkan kebenaran) bahkan mereka yang kafir itu bersifat sombong angkuh dan suka menentang kebenaran."
+                },
+                {
+                    "id": 1094949,
+                    "resource_id": 161,
+                    "text": "কিন্তু কাফিররা আত্মম্ভরিতা আর বিরোধিতায় নিমজ্জিত।"
+                }
+            ]
+        },
+        {
+            "id": 3973,
+            "verse_number": 3,
+            "verse_key": "38:3",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 181,
+            "ruku_number": 393,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّن قَرْنٍ فَنَادَوا۟ وَّلَاتَ حِينَ مَنَاصٍ",
+            "page_number": 453,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99370,
+                    "resource_id": 20,
+                    "text": "How many a generation have We destroyed before them, and they [then] called out; but it was not a time for escape."
+                },
+                {
+                    "id": 217211,
+                    "resource_id": 39,
+                    "text": "(Tidakkah mereka menyedari) berapa banyak umat-umat (yang ingkar) yang terdahulu dari mereka, Kami binasakan? Lalu mereka meminta pertolongan, padahal saat itu bukanlah saat meminta pertolongan melepaskan diri dari azab."
+                },
+                {
+                    "id": 1094950,
+                    "resource_id": 161,
+                    "text": "তাদের পূর্বে আমি কত মানবগোষ্ঠীকে ধ্বংস করে দিয়েছি, অবশেষে তারা (ক্ষমা লাভের জন্য) আর্তচিৎকার করেছিল, কিন্তু তখন পরিত্রাণ লাভের আর কোন অবকাশই ছিল না।"
+                }
+            ]
+        },
+        {
+            "id": 3974,
+            "verse_number": 4,
+            "verse_key": "38:4",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 181,
+            "ruku_number": 393,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَعَجِبُوٓا۟ أَن جَآءَهُم مُّنذِرٌ مِّنْهُمْ ۖ وَقَالَ ٱلْكَـٰفِرُونَ هَـٰذَا سَـٰحِرٌ كَذَّابٌ",
+            "page_number": 453,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99382,
+                    "resource_id": 20,
+                    "text": "And they wonder that there has come to them a warner [i.e., Prophet Muḥammad (ﷺ)] from among themselves. And the disbelievers say, \"This is a magician and a liar."
+                },
+                {
+                    "id": 217223,
+                    "resource_id": 39,
+                    "text": "Dan mereka (yang mengingkari kerasulan Nabi Muhammad itu) merasa hairan, bahawa mereka didatangi oleh seorang Rasul pemberi amaran, dari kalangan mereka sendiri. Dan mereka yang kafir itu berkata: \"Orang ini adalah seorang ahli sihir, lagi pendusta."
+                },
+                {
+                    "id": 1094951,
+                    "resource_id": 161,
+                    "text": "আর তারা (এ ব্যাপারে) বিস্ময়বোধ করল যে, তাদের কাছে তাদেরই মধ্য হতে একজন সতর্ককারী এসেছে। কাফিরগণ বলল- ’এটা একটা যাদুকর, মিথ্যুক।"
+                }
+            ]
+        },
+        {
+            "id": 3975,
+            "verse_number": 5,
+            "verse_key": "38:5",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 181,
+            "ruku_number": 393,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "أَجَعَلَ ٱلْـَٔالِهَةَ إِلَـٰهًا وَٰحِدًا ۖ إِنَّ هَـٰذَا لَشَىْءٌ عُجَابٌ",
+            "page_number": 453,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99394,
+                    "resource_id": 20,
+                    "text": "Has he made the gods [only] one God? Indeed, this is a curious thing.\""
+                },
+                {
+                    "id": 217236,
+                    "resource_id": 39,
+                    "text": "\" Patutkah ia menafikan tuhan-tuhan yang berbilang itu dengan mengatakan: Tuhan hanya Satu? Sesungguhnya ini adalah satu perkara yang menakjubkan!\""
+                },
+                {
+                    "id": 1094952,
+                    "resource_id": 161,
+                    "text": "সে কি সব ইলাহকে এক ইলাহ বানিয়ে ফেলেছে? এটা বড়ই আশ্চর্য ব্যাপার তো!’"
+                }
+            ]
+        },
+        {
+            "id": 3976,
+            "verse_number": 6,
+            "verse_key": "38:6",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 181,
+            "ruku_number": 393,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱنطَلَقَ ٱلْمَلَأُ مِنْهُمْ أَنِ ٱمْشُوا۟ وَٱصْبِرُوا۟ عَلَىٰٓ ءَالِهَتِكُمْ ۖ إِنَّ هَـٰذَا لَشَىْءٌ يُرَادُ",
+            "page_number": 453,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99406,
+                    "resource_id": 20,
+                    "text": "And the eminent among them went forth, [saying], \"Continue, and be patient over [the defense of] your gods. Indeed, this is a thing intended.<sup foot_note=197210>1</sup>"
+                },
+                {
+                    "id": 217248,
+                    "resource_id": 39,
+                    "text": "Dan (ketika itu) keluarlah ketua-ketua dari kalangan mereka (memberi peransang dengan berkata): \"Jalan terus (menurut cara penyembahan datuk nenek kamu) dan tetap tekunlah menyembah tuhan-tuhan kamu. Sebenarnya sikap ini adalah satu perkara yang amat dikehendaki."
+                },
+                {
+                    "id": 1094953,
+                    "resource_id": 161,
+                    "text": "তাদের প্রধানরা প্রস্থান করে এই বলে যে, ‘তোমরা চলে যাও আর অবিচলিত চিত্তে তোমাদের ইলাহদের পূজায় লেগে থাক। অবশ্যই এ ব্যাপারটির পিছনে অন্য উদ্দেশ্য আছে।"
+                }
+            ]
+        },
+        {
+            "id": 3977,
+            "verse_number": 7,
+            "verse_key": "38:7",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 181,
+            "ruku_number": 393,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "مَا سَمِعْنَا بِهَـٰذَا فِى ٱلْمِلَّةِ ٱلْـَٔاخِرَةِ إِنْ هَـٰذَآ إِلَّا ٱخْتِلَـٰقٌ",
+            "page_number": 453,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99418,
+                    "resource_id": 20,
+                    "text": "We have not heard of this in the latest religion.<sup foot_note=197211>1</sup> This is not but a fabrication."
+                },
+                {
+                    "id": 217259,
+                    "resource_id": 39,
+                    "text": "\" Kami tidak pernah mendengar tentang (soal mengesakan Tuhan) itu dalam ugama yang terakhir; perkara ini tidak lain hanyalah rekaan dan dusta semata-mata\"."
+                },
+                {
+                    "id": 1094954,
+                    "resource_id": 161,
+                    "text": "এমন কথা তো আমাদের নিকট অতীতের মিল্লাতগুলো থেকে শুনিনি। এটা শুধু একটা মন-গড়া কথা।"
+                }
+            ]
+        },
+        {
+            "id": 3978,
+            "verse_number": 8,
+            "verse_key": "38:8",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 181,
+            "ruku_number": 393,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "أَءُنزِلَ عَلَيْهِ ٱلذِّكْرُ مِنۢ بَيْنِنَا ۚ بَلْ هُمْ فِى شَكٍّ مِّن ذِكْرِى ۖ بَل لَّمَّا يَذُوقُوا۟ عَذَابِ",
+            "page_number": 453,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99430,
+                    "resource_id": 20,
+                    "text": "Has the message been revealed to him out of [all of] us?\" Rather, they are in doubt about My message. Rather, they have not yet tasted My punishment."
+                },
+                {
+                    "id": 217270,
+                    "resource_id": 39,
+                    "text": "(Mereka berkata lagi): Patutkah wahyu peringatan itu diturunkan kepada Muhammad (padahal orang-orang yang lebih layak ada) di antara kita?\" (Mereka bukan sahaja ingkarkan kelayakan Nabi Muhammad menerima wahyu) bahkan mereka berada dalam keraguan tentang peringatan yang Aku wahyukan (kepada Nabi Muhammad) itu, bahkan mereka belum lagi merasai azab."
+                },
+                {
+                    "id": 1094955,
+                    "resource_id": 161,
+                    "text": "আমাদের মধ্যে তার কাছেই কি বাণী পাঠানো হয়েছে?’ আসলে তারা আমার বাণীতে সন্দিহান, (তার কারণ) তারা এখনও আমার শাস্তির স্বাদ পায়নি।"
+                }
+            ]
+        },
+        {
+            "id": 3979,
+            "verse_number": 9,
+            "verse_key": "38:9",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 181,
+            "ruku_number": 393,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "أَمْ عِندَهُمْ خَزَآئِنُ رَحْمَةِ رَبِّكَ ٱلْعَزِيزِ ٱلْوَهَّابِ",
+            "page_number": 453,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99437,
+                    "resource_id": 20,
+                    "text": "Or do they have the depositories of the mercy of your Lord, the Exalted in Might, the Bestower?<sup foot_note=197212>1</sup>"
+                },
+                {
+                    "id": 217280,
+                    "resource_id": 39,
+                    "text": "Adakah di sisi mereka perbendaharaan rahmat Tuhanmu Yang Maha Kuasa, lagi Yang Maha Melimpah pemberianNya?."
+                },
+                {
+                    "id": 1094956,
+                    "resource_id": 161,
+                    "text": "(রহমতের ভান্ডার আছে আমার কাছে, তাত্থেকে যাকে যতখানি ইচ্ছে আমি দেই) তাদের কাছে কি তোমার প্রতিপালকের রহমতের ভান্ডার আছে যিনি মহা প্রতাপশালী, অসীম দাতা?"
+                }
+            ]
+        },
+        {
+            "id": 3980,
+            "verse_number": 10,
+            "verse_key": "38:10",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 181,
+            "ruku_number": 393,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "أَمْ لَهُم مُّلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ۖ فَلْيَرْتَقُوا۟ فِى ٱلْأَسْبَـٰبِ",
+            "page_number": 453,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99347,
+                    "resource_id": 20,
+                    "text": "Or is theirs the dominion of the heavens and the earth and what is between them? Then let them ascend through [any] ways of access.<sup foot_note=197213>1</sup>"
+                },
+                {
+                    "id": 217186,
+                    "resource_id": 39,
+                    "text": "Atau adakah mereka menguasai langit dan bumi serta segala yang ada di antara keduanya?. (Kalau ada kekuasaan yang demikian) maka biarlah mereka naik mendaki langit menurut jalan-jalan yang membawa mereka ke situ (untuk mentadbirkan seluruh alam)."
+                },
+                {
+                    "id": 1094957,
+                    "resource_id": 161,
+                    "text": "কিংবা আকাশ ও পৃথিবী- এ দু’ এর মাঝে যা আছে তার সর্বময় ক্ষমতা কি তাদের আছে? তাহলে তারা বিশ্ব পরিচালনার উচ্চস্থানে উঠে পড়ুক।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 9,
+        "total_records": 88
+    }
+}

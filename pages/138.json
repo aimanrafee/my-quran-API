@@ -1,0 +1,281 @@
+{
+    "verses": [
+        {
+            "id": 871,
+            "verse_number": 82,
+            "verse_key": "6:82",
+            "hizb_number": 14,
+            "rub_el_hizb_number": 55,
+            "ruku_number": 110,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِينَ ءَامَنُوا۟ وَلَمْ يَلْبِسُوٓا۟ إِيمَـٰنَهُم بِظُلْمٍ أُو۟لَـٰٓئِكَ لَهُمُ ٱلْأَمْنُ وَهُم مُّهْتَدُونَ",
+            "page_number": 138,
+            "juz_number": 7,
+            "translations": [
+                {
+                    "id": 101110,
+                    "resource_id": 20,
+                    "text": "They who believe and do not mix their belief with injustice<sup foot_note=196247>1</sup> - those will have security, and they are [rightly] guided."
+                },
+                {
+                    "id": 219053,
+                    "resource_id": 39,
+                    "text": "Orang-orang yang beriman dan tidak mencampur adukkan iman mereka dengan kezaliman (syirik), mereka itulah orang-orang yang mendapat keamanan dan merekalah orang-orang yang mendapat hidayah petunjuk."
+                },
+                {
+                    "id": 1091848,
+                    "resource_id": 161,
+                    "text": "যারা ঈমান এনেছে আর যুলম (অর্থাৎ শিরক) দ্বারা তাদের ঈমানকে কলুষিত করেনি, নিরাপত্তা লাভ তারাই করবে আর তারাই হল সঠিক পথপ্রাপ্ত।"
+                }
+            ]
+        },
+        {
+            "id": 872,
+            "verse_number": 83,
+            "verse_key": "6:83",
+            "hizb_number": 14,
+            "rub_el_hizb_number": 55,
+            "ruku_number": 111,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَتِلْكَ حُجَّتُنَآ ءَاتَيْنَـٰهَآ إِبْرَٰهِيمَ عَلَىٰ قَوْمِهِۦ ۚ نَرْفَعُ دَرَجَـٰتٍ مَّن نَّشَآءُ ۗ إِنَّ رَبَّكَ حَكِيمٌ عَلِيمٌ",
+            "page_number": 138,
+            "juz_number": 7,
+            "translations": [
+                {
+                    "id": 101122,
+                    "resource_id": 20,
+                    "text": "And that was Our [conclusive] argument which We gave Abraham against his people. We raise by degrees whom We will. Indeed, your Lord is Wise and Knowing."
+                },
+                {
+                    "id": 218963,
+                    "resource_id": 39,
+                    "text": "Dan itulah hujah (bukti) Kami, yang Kami berikan kepada Nabi Ibrahim untuk mengalahkan kaumnya. Kami tinggikan pangkat-pangkat kedudukan sesiapa yang Kami kehendaki. Sesungguhnya Tuhanmu Maha Bijaksana, lagi Maha Mengetahui."
+                },
+                {
+                    "id": 1091849,
+                    "resource_id": 161,
+                    "text": "এ হল আমার যুক্তি-প্রমাণ যা আমি ইবরাহীমকে দিয়েছিলাম তার কাওমের বিপক্ষে, আমি যাকে ইচ্ছে মর্যাদায় উন্নীত করি। তোমাদের প্রতিপালক নিশ্চয়ই হিকমাতওয়ালা,সর্বজ্ঞ।"
+                }
+            ]
+        },
+        {
+            "id": 873,
+            "verse_number": 84,
+            "verse_key": "6:84",
+            "hizb_number": 14,
+            "rub_el_hizb_number": 55,
+            "ruku_number": 111,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَوَهَبْنَا لَهُۥٓ إِسْحَـٰقَ وَيَعْقُوبَ ۚ كُلًّا هَدَيْنَا ۚ وَنُوحًا هَدَيْنَا مِن قَبْلُ ۖ وَمِن ذُرِّيَّتِهِۦ دَاوُۥدَ وَسُلَيْمَـٰنَ وَأَيُّوبَ وَيُوسُفَ وَمُوسَىٰ وَهَـٰرُونَ ۚ وَكَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+            "page_number": 138,
+            "juz_number": 7,
+            "translations": [
+                {
+                    "id": 101134,
+                    "resource_id": 20,
+                    "text": "And We gave to him [i.e., Abraham] Isaac and Jacob - all [of them] We guided. And Noah, We guided before; and among his descendants, David and Solomon and Job and Joseph and Moses and Aaron. Thus do We reward the doers of good."
+                },
+                {
+                    "id": 218975,
+                    "resource_id": 39,
+                    "text": "Dan Kami telah kurniakan kepada Nabi Ibrahim: (anaknya) Ishak (dari isterinya Sarah), dan (cucunya) Yaakub. Tiap-tiap seorang (dari mereka) Kami telah berikan petunjuk, dan Nabi Nuh juga Kami telah berikan petunjuk dahulu sebelum itu; dan dari keturunan Nabi Ibrahim itu (ialah Nabi-nabi): Daud, dan Sulaiman, dan Ayub, dan Yusuf, dan Musa, dan Harun. Dan demikianlah Kami memberi balasan kepada orang-orang yang berusaha supaya baik amal perbuatannya."
+                },
+                {
+                    "id": 1091850,
+                    "resource_id": 161,
+                    "text": "আমি তাকে দান করেছিলাম ইসহাক আর ইয়াকূব; তাদের প্রত্যেককে সৎ পথ দেখিয়েছিলাম, আর এর পূর্বে নূহকে সৎ পথ দেখিয়েছিলাম আর তার বংশধর থেকে দাঊদ, সুলাইমান, আইঊব, ইউসুফ, মূসা ও হারূনকে (সৎ পথ দেখিয়েছিলাম), সৎ কর্মশীলদের আমি এভাবেই পুরস্কৃত করে থাকি।"
+                }
+            ]
+        },
+        {
+            "id": 874,
+            "verse_number": 85,
+            "verse_key": "6:85",
+            "hizb_number": 14,
+            "rub_el_hizb_number": 55,
+            "ruku_number": 111,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّ مِّنَ ٱلصَّـٰلِحِينَ",
+            "page_number": 138,
+            "juz_number": 7,
+            "translations": [
+                {
+                    "id": 101146,
+                    "resource_id": 20,
+                    "text": "And Zechariah and John and Jesus and Elias - and all were of the righteous."
+                },
+                {
+                    "id": 218987,
+                    "resource_id": 39,
+                    "text": "Dan (dari keturunannya juga ialah Nabi-nabi): Zakaria, dan Yahya, dan Isa, dan Ilyas; semuanya dari orang-orang yang soleh."
+                },
+                {
+                    "id": 1091851,
+                    "resource_id": 161,
+                    "text": "আর যাকারিয়া, ইয়াহইয়া, ‘ঈসা ও ইলিয়াস- এরা সবাই সৎকর্মশীলদের অন্তর্ভুক্ত।"
+                }
+            ]
+        },
+        {
+            "id": 875,
+            "verse_number": 86,
+            "verse_key": "6:86",
+            "hizb_number": 14,
+            "rub_el_hizb_number": 55,
+            "ruku_number": 111,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِسْمَـٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًا ۚ وَكُلًّا فَضَّلْنَا عَلَى ٱلْعَـٰلَمِينَ",
+            "page_number": 138,
+            "juz_number": 7,
+            "translations": [
+                {
+                    "id": 101151,
+                    "resource_id": 20,
+                    "text": "And Ishmael and Elisha and Jonah and Lot - and all [of them] We preferred over the worlds."
+                },
+                {
+                    "id": 218992,
+                    "resource_id": 39,
+                    "text": "Dan (dari keturunannya juga ialah Nabi-nabi): Ismail, dan Alyasak dan Yunus, dan Lut; dan mereka itu semuanya, Kami lebihkan darjat mereka atas umat-umat (yang ada pada zamannya)."
+                },
+                {
+                    "id": 1091852,
+                    "resource_id": 161,
+                    "text": "আর ইসমাঈল, আল ইয়াসা‘আ, ইউনুস ও লূত- এদের প্রত্যেককে আমি বিশ্বজগতে জাতিসমূহের উপর শ্রেষ্ঠত্ব দান করেছিলাম।"
+                }
+            ]
+        },
+        {
+            "id": 876,
+            "verse_number": 87,
+            "verse_key": "6:87",
+            "hizb_number": 14,
+            "rub_el_hizb_number": 55,
+            "ruku_number": 111,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَمِنْ ءَابَآئِهِمْ وَذُرِّيَّـٰتِهِمْ وَإِخْوَٰنِهِمْ ۖ وَٱجْتَبَيْنَـٰهُمْ وَهَدَيْنَـٰهُمْ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+            "page_number": 138,
+            "juz_number": 7,
+            "translations": [
+                {
+                    "id": 101153,
+                    "resource_id": 20,
+                    "text": "And [some] among their fathers and their descendants and their brothers - and We chose them and We guided them to a straight path."
+                },
+                {
+                    "id": 218994,
+                    "resource_id": 39,
+                    "text": "Dan (Kami juga lebihkan darjat) sebahagian daripada datuk nenek mereka, dan keturunan mereka, dan mereka, dan keturunan mereka, dan saudara-saudara mereka; dan Kami telah pilih mereka, serta Kami tunjukkan mereka ke jalan yang lurus."
+                },
+                {
+                    "id": 1091853,
+                    "resource_id": 161,
+                    "text": "তাদের পিতৃপুরুষ, বংশধর ও ভ্রাতৃবর্গ থেকে তাদেরকে বেছে নিয়েছি আর সত্য-সঠিক পথে পরিচালিত করেছি।"
+                }
+            ]
+        },
+        {
+            "id": 877,
+            "verse_number": 88,
+            "verse_key": "6:88",
+            "hizb_number": 14,
+            "rub_el_hizb_number": 55,
+            "ruku_number": 111,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "ذَٰلِكَ هُدَى ٱللَّهِ يَهْدِى بِهِۦ مَن يَشَآءُ مِنْ عِبَادِهِۦ ۚ وَلَوْ أَشْرَكُوا۟ لَحَبِطَ عَنْهُم مَّا كَانُوا۟ يَعْمَلُونَ",
+            "page_number": 138,
+            "juz_number": 7,
+            "translations": [
+                {
+                    "id": 101155,
+                    "resource_id": 20,
+                    "text": "That is the guidance of Allāh by which He guides whomever He wills of His servants. But if they had associated others with Allāh, then worthless for them would be whatever they were doing."
+                },
+                {
+                    "id": 218996,
+                    "resource_id": 39,
+                    "text": "Yang demikian itu ialah petunjuk Allah, yang dengannya Ia memimpin sesiapa yang dihendakiNya dari hamba-hambaNya; dan kalau mereka sekutukan (Allah dengan sesuatu yang lain) nescaya gugurlah dari mereka, apa yang mereka telah lakukan (dari amal-amal yang baik)."
+                },
+                {
+                    "id": 1091854,
+                    "resource_id": 161,
+                    "text": "এ হচ্ছে আল্লাহর হিদায়াত, তিনি তাঁর বান্দাহদেরকে থেকে যাকে ইচ্ছে হিদায়াত করেন, তারা যদি শিরক করত তবে তাদের সব কৃতকর্ম বিনষ্ট হয়ে যেত।"
+                }
+            ]
+        },
+        {
+            "id": 878,
+            "verse_number": 89,
+            "verse_key": "6:89",
+            "hizb_number": 14,
+            "rub_el_hizb_number": 55,
+            "ruku_number": 111,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ ءَاتَيْنَـٰهُمُ ٱلْكِتَـٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ۚ فَإِن يَكْفُرْ بِهَا هَـٰٓؤُلَآءِ فَقَدْ وَكَّلْنَا بِهَا قَوْمًا لَّيْسُوا۟ بِهَا بِكَـٰفِرِينَ",
+            "page_number": 138,
+            "juz_number": 7,
+            "translations": [
+                {
+                    "id": 101157,
+                    "resource_id": 20,
+                    "text": "Those are the ones to whom We gave the Scripture and authority and prophethood. But if they [i.e., the disbelievers] deny it, then We have entrusted it to a people who are not therein disbelievers."
+                },
+                {
+                    "id": 218998,
+                    "resource_id": 39,
+                    "text": "Mereka itulah orang-orang yang telah Kami berikan kepadanya Kitab Suci, dan Hikmah (ilmu pengetahuan), serta pangkat kenabian. Oleh itu, jika orang-orang (kafir) itu mengingkarinya, maka sesungguhnya Kami akan menyerahkannya kepada kaum (lain) yang tidak akan mengingkarinya."
+                },
+                {
+                    "id": 1091855,
+                    "resource_id": 161,
+                    "text": "এরা তারাই যাদেরকে আমি কিতাব, হিকমাত ও নবুওত দান করেছিলাম, এখন যদি তারা (অর্থাৎ বিধর্মীরা) এগুলোকে মেনে নিতে অস্বীকার করে তাহলে আমি এগুলোর ভার এমন সম্প্রদায়ের কাছে সোপর্দ করেছি যারা (অর্থাৎ মু’মিনরা) এগুলোর অস্বীকারকারী হবে না।"
+                }
+            ]
+        },
+        {
+            "id": 879,
+            "verse_number": 90,
+            "verse_key": "6:90",
+            "hizb_number": 14,
+            "rub_el_hizb_number": 55,
+            "ruku_number": 111,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ هَدَى ٱللَّهُ ۖ فَبِهُدَىٰهُمُ ٱقْتَدِهْ ۗ قُل لَّآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا ۖ إِنْ هُوَ إِلَّا ذِكْرَىٰ لِلْعَـٰلَمِينَ",
+            "page_number": 138,
+            "juz_number": 7,
+            "translations": [
+                {
+                    "id": 101160,
+                    "resource_id": 20,
+                    "text": "Those are the ones whom Allāh has guided, so from their guidance take an example. Say, \"I ask of you for it [i.e., this message] no payment. It is not but a reminder for the worlds.\""
+                },
+                {
+                    "id": 219002,
+                    "resource_id": 39,
+                    "text": "Mereka (Nabi-nabi) itulah, orang-orang yang telah diberi petunjuk oleh Allah, maka turutlah olehmu (wahai Muhammad) akan petunjuk mereka; Katakanlah: \"Aku tidak meminta upah kepada kamu mengenai petunjuk (Al-Quran yang aku sampaikan) itu. Al-Quran itu tidak lain hanyalah peringatan bagi penduduk alam seluruhnya."
+                },
+                {
+                    "id": 1091856,
+                    "resource_id": 161,
+                    "text": "ওরা হল তারা যাদেরকে আল্লাহ হিদায়াত দান করেছিলেন, তুমি তাদের পথ অনুসরণ কর; বল, এর জন্য (অর্থাৎ বাণী পৌঁছে দেয়ার জন্য) আমি তোমাদের কাছে কোন পারিশ্রমিক চাই না। এটা সারা দুনিয়ার মানুষের জন্য উপদেশ বাণী।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 9,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 9
+    }
+}

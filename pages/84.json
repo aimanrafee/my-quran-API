@@ -1,0 +1,131 @@
+{
+    "verses": [
+        {
+            "id": 527,
+            "verse_number": 34,
+            "verse_key": "4:34",
+            "hizb_number": 9,
+            "rub_el_hizb_number": 33,
+            "ruku_number": 67,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلرِّجَالُ قَوَّٰمُونَ عَلَى ٱلنِّسَآءِ بِمَا فَضَّلَ ٱللَّهُ بَعْضَهُمْ عَلَىٰ بَعْضٍ وَبِمَآ أَنفَقُوا۟ مِنْ أَمْوَٰلِهِمْ ۚ فَٱلصَّـٰلِحَـٰتُ قَـٰنِتَـٰتٌ حَـٰفِظَـٰتٌ لِّلْغَيْبِ بِمَا حَفِظَ ٱللَّهُ ۚ وَٱلَّـٰتِى تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَٱهْجُرُوهُنَّ فِى ٱلْمَضَاجِعِ وَٱضْرِبُوهُنَّ ۖ فَإِنْ أَطَعْنَكُمْ فَلَا تَبْغُوا۟ عَلَيْهِنَّ سَبِيلًا ۗ إِنَّ ٱللَّهَ كَانَ عَلِيًّا كَبِيرًا",
+            "page_number": 84,
+            "juz_number": 5,
+            "translations": [
+                {
+                    "id": 99861,
+                    "resource_id": 20,
+                    "text": "Men are in charge of women<sup foot_note=196111>1</sup> by [right of] what Allāh has given one over the other and what they spend [for maintenance] from their wealth. So righteous women are devoutly obedient, guarding in [the husband's] absence what Allāh would have them guard.<sup foot_note=196110>2</sup> But those [wives] from whom you fear arrogance<sup foot_note=196109>3</sup> - [first] advise them; [then if they persist], forsake them in bed; and [finally], strike them [lightly].<sup foot_note=196108>4</sup> But if they obey you [once more], seek no means against them. Indeed, Allāh is ever Exalted and Grand."
+                },
+                {
+                    "id": 217701,
+                    "resource_id": 39,
+                    "text": "Kaum lelaki itu adalah pemimpin dan pengawal yang bertanggungjawab terhadap kaum perempuan, oleh kerana Allah telah melebihkan orang-orang lelaki (dengan beberapa keistimewaan) atas orang-orang perempuan, dan juga kerana orang-orang lelaki telah membelanjakan (memberi nafkah) sebahagian dari harta mereka. Maka perempuan-perempuan yang soleh itu ialah yang taat (kepada Allah dan suaminya), dan yang memelihara (kehormatan dirinya dan apa jua yang wajib dipelihara) ketika suami tidak hadir bersama, dengan pemuliharaan Allah dan pertolonganNya. Dan perempuan-perempuan yang kamu bimbang melakukan perbuatan derhaka (nusyuz) hendaklah kamu menasihati mereka, dan (jika mereka berdegil) pulaukanlah mereka di tempat tidur, dan (kalau juga mereka masih degil) pukulah mereka (dengan pukulan ringan yang bertujuan mengajarnya). Kemudian jika mereka taat kepada kamu, maka janganlah kamu mencari-cari jalan untuk menyusahkan mereka. Sesungguhnya Allah Maha Tinggi, lagi Maha Besar."
+                },
+                {
+                    "id": 1091504,
+                    "resource_id": 161,
+                    "text": "পুরুষগণ নারীদের উপর কর্তৃত্বশীল এ কারণে যে, আল্লাহ তাদের এককে অন্যের উপর মর্যাদা প্রদান করেছেন, আর এজন্য যে, পুরুষেরা স্বীয় ধন-সম্পদ হতে ব্যয় করে। ফলে পুণ্যবান স্ত্রীরা (আল্লাহ ও স্বামীর প্রতি) অনুগতা থাকে এবং পুরুষের অনুপস্থিতিতে তারা তা (অর্থাৎ তাদের সতীত্ব ও স্বামীর সম্পদ) সংরক্ষণ করে যা আল্লাহ সংরক্ষণ করতে আদেশ দিয়েছেন। যদি তাদের মধ্যে অবাধ্যতার সম্ভাবনা দেখতে পাও, তাদেরকে সদুপদেশ দাও এবং তাদের সাথে শয্যা বন্ধ কর এবং তাদেরকে (সঙ্গতভাবে) প্রহার কর, অতঃপর যদি তারা তোমাদের অনুগত হয়, তাহলে তাদের উপর নির্যাতনের বাহানা খোঁজ করো না, নিশ্চয় আল্লাহ সর্বোচ্চ, সর্বশ্রেষ্ঠ।"
+                }
+            ]
+        },
+        {
+            "id": 528,
+            "verse_number": 35,
+            "verse_key": "4:35",
+            "hizb_number": 9,
+            "rub_el_hizb_number": 33,
+            "ruku_number": 67,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِنْ خِفْتُمْ شِقَاقَ بَيْنِهِمَا فَٱبْعَثُوا۟ حَكَمًا مِّنْ أَهْلِهِۦ وَحَكَمًا مِّنْ أَهْلِهَآ إِن يُرِيدَآ إِصْلَـٰحًا يُوَفِّقِ ٱللَّهُ بَيْنَهُمَآ ۗ إِنَّ ٱللَّهَ كَانَ عَلِيمًا خَبِيرًا",
+            "page_number": 84,
+            "juz_number": 5,
+            "translations": [
+                {
+                    "id": 99873,
+                    "resource_id": 20,
+                    "text": "And if you fear dissension between the two, send an arbitrator from his people and an arbitrator from her people. If they both desire reconciliation, Allāh will cause it between them. Indeed, Allāh is ever Knowing and Aware."
+                },
+                {
+                    "id": 217712,
+                    "resource_id": 39,
+                    "text": "Dan jika kamu bimbangkan perpecahan di antara mereka berdua (suami isteri) maka lantiklah \"orang tengah\" (untuk mendamaikan mereka, iaitu), seorang dari keluarga lelaki dan seorang dari keluarga perempuan. Jika kedua-dua \"orang tengah\" itu (dengan ikhlas) bertujuan hendak mendamaikan, nescaya Allah akan menjadikan kedua (suami isteri itu) berpakat baik. Sesungguhnya Allah sentiasa Mengetahui, lagi Amat mendalam pengetahuanNya."
+                },
+                {
+                    "id": 1091505,
+                    "resource_id": 161,
+                    "text": "যদি তোমরা তাদের মধ্যে অনৈক্যের আশংকা কর, তবে স্বামীর আত্মীয়-স্বজন হতে একজন এবং স্ত্রীর আত্মীয়-স্বজন হতে একজন সালিস নিযুক্ত কর। যদি উভয়ে মীমাংসা করিয়ে দেয়ার ইচ্ছে করে, তবে আল্লাহ উভয়ের মধ্যে নিষ্পত্তির ব্যবস্থা করবেন, নিশ্চয় আল্লাহ সব কিছু জানেন, সকল কিছুর খবর রাখেন।"
+                }
+            ]
+        },
+        {
+            "id": 529,
+            "verse_number": 36,
+            "verse_key": "4:36",
+            "hizb_number": 9,
+            "rub_el_hizb_number": 34,
+            "ruku_number": 67,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "۞ وَٱعْبُدُوا۟ ٱللَّهَ وَلَا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا ۖ وَبِٱلْوَٰلِدَيْنِ إِحْسَـٰنًا وَبِذِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينِ وَٱلْجَارِ ذِى ٱلْقُرْبَىٰ وَٱلْجَارِ ٱلْجُنُبِ وَٱلصَّاحِبِ بِٱلْجَنۢبِ وَٱبْنِ ٱلسَّبِيلِ وَمَا مَلَكَتْ أَيْمَـٰنُكُمْ ۗ إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ مُخْتَالًا فَخُورًا",
+            "page_number": 84,
+            "juz_number": 5,
+            "translations": [
+                {
+                    "id": 99884,
+                    "resource_id": 20,
+                    "text": "Worship Allāh and associate nothing with Him, and to parents do good, and to relatives, orphans, the needy, the near neighbor, the neighbor farther away, the companion at your side,<sup foot_note=196112>1</sup> the traveler, and those whom your right hands possess. Indeed, Allāh does not like those who are self-deluding and boastful,"
+                },
+                {
+                    "id": 217719,
+                    "resource_id": 39,
+                    "text": "Dan hendaklah kamu beribadat kepada Allah dan janganlah kamu sekutukan Dia dengan sesuatu apa jua; dan hendaklah kamu berbuat baik kepada kedua ibu bapa, dan kaum kerabat, dan anak-anak yatim, dan orang-orang miskin, dan jiran tetangga yang dekat, dan jiran tetangga yang jauh, dan rakan sejawat, dan orang musafir yang terlantar, dan juga hamba yang kamu miliki. Sesungguhnya Allah tidak suka kepada orang-orang yang sombong takbur dan membangga-banggakan diri;"
+                },
+                {
+                    "id": 1091506,
+                    "resource_id": 161,
+                    "text": "তোমরা আল্লাহর ‘ইবাদাত কর, কিছুকেই তাঁর শরীক করো না এবং মাতা-পিতা, আত্মীয়-স্বজন, ইয়াতীম অভাবগ্রস্ত, নিকট প্রতিবেশী, দূর প্রতিবেশী, সাথী, মুসাফির এবং তোমাদের আয়ত্তাধীন দাস-দাসীদের সঙ্গে সদ্ব্যবহার কর, নিশ্চয়ই আল্লাহ ঐ লোককে ভালবাসেন না, যে অহংকারী, দাম্ভিক।"
+                }
+            ]
+        },
+        {
+            "id": 530,
+            "verse_number": 37,
+            "verse_key": "4:37",
+            "hizb_number": 9,
+            "rub_el_hizb_number": 34,
+            "ruku_number": 67,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ ٱلنَّاسَ بِٱلْبُخْلِ وَيَكْتُمُونَ مَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ ۗ وَأَعْتَدْنَا لِلْكَـٰفِرِينَ عَذَابًا مُّهِينًا",
+            "page_number": 84,
+            "juz_number": 5,
+            "translations": [
+                {
+                    "id": 99896,
+                    "resource_id": 20,
+                    "text": "Who are stingy and enjoin upon [other] people stinginess and conceal what Allāh has given them of His bounty - and We have prepared for the disbelievers a humiliating punishment -"
+                },
+                {
+                    "id": 217731,
+                    "resource_id": 39,
+                    "text": "Iaitu orang-orang yang bakhil dan menyuruh manusia supaya bakhil serta menyembunyikan apa-apa jua yang Allah berikan kepada mereka dari limpah kurnianya. Dan (sebenarnya) Kami telah sediakan bagi orang-orang kafir itu azab seksa yang amat menghina;"
+                },
+                {
+                    "id": 1091507,
+                    "resource_id": 161,
+                    "text": "যারা কৃপণতা করে অধিকন্তু লোকেদেরকেও কার্পণ্য করার আদেশ দেয় এবং আল্লাহ নিজ অনুগ্রহে তাদেরকে যা দিয়েছেন তা গোপন করে, (ঐসব) কাফিরদের জন্য আমি লাঞ্ছনাদায়ক শাস্তি প্রস্তুত করে রেখেছি।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 4,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 4
+    }
+}

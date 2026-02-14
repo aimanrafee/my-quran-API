@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 5272,
+            "verse_number": 1,
+            "verse_key": "68:1",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 226,
+            "ruku_number": 500,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " نٓ ۚ وَٱلْقَلَمِ وَمَا يَسْطُرُونَ",
+            "page_number": 564,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101099,
+                    "resource_id": 20,
+                    "text": "Nūn.<sup foot_note=197586>1</sup> By the pen and what they inscribe,"
+                },
+                {
+                    "id": 215325,
+                    "resource_id": 39,
+                    "text": "Nuun. Demi Pena dan apa yang mereka tulis, -"
+                },
+                {
+                    "id": 1096249,
+                    "resource_id": 161,
+                    "text": "নূন, কলমের শপথ আর লেখকেরা যা লেখে তার শপথ।"
+                }
+            ]
+        },
+        {
+            "id": 5273,
+            "verse_number": 2,
+            "verse_key": "68:2",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 226,
+            "ruku_number": 500,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "مَآ أَنتَ بِنِعْمَةِ رَبِّكَ بِمَجْنُونٍ",
+            "page_number": 564,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101111,
+                    "resource_id": 20,
+                    "text": "You are not, [O Muḥammad], by the favor of your Lord, a madman."
+                },
+                {
+                    "id": 218954,
+                    "resource_id": 39,
+                    "text": "Engkau (wahai Muhammad) - dengan sebab nikmat pemberian Tuhanmu - bukanlah seorang gila (sebagaimana yang dituduh oleh kaum musyrik, bahkan engkau adalah seorang yang bijaksana)."
+                },
+                {
+                    "id": 1096250,
+                    "resource_id": 161,
+                    "text": "তোমার প্রতিপালকের অনুগ্রহে তুমি পাগল নও।"
+                }
+            ]
+        },
+        {
+            "id": 5274,
+            "verse_number": 3,
+            "verse_key": "68:3",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 226,
+            "ruku_number": 500,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِنَّ لَكَ لَأَجْرًا غَيْرَ مَمْنُونٍ",
+            "page_number": 564,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101123,
+                    "resource_id": 20,
+                    "text": "And indeed, for you is a reward uninterrupted."
+                },
+                {
+                    "id": 218964,
+                    "resource_id": 39,
+                    "text": "Dan sesungguhnya engkau tetap beroleh pahala yang amat besar, yang tidak putus-putus, (sebagai balasan bagi menjalankan ajaran Islam);"
+                },
+                {
+                    "id": 1096251,
+                    "resource_id": 161,
+                    "text": "তোমার জন্য অবশ্যই আছে অফুরন্ত পুরস্কার,"
+                }
+            ]
+        },
+        {
+            "id": 5275,
+            "verse_number": 4,
+            "verse_key": "68:4",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 226,
+            "ruku_number": 500,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ",
+            "page_number": 564,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101135,
+                    "resource_id": 20,
+                    "text": "And indeed, you are of a great moral character."
+                },
+                {
+                    "id": 218986,
+                    "resource_id": 39,
+                    "text": "Dan bahawa sesungguhnya engkau mempunyai akhlak yang amat mulia."
+                },
+                {
+                    "id": 1096252,
+                    "resource_id": 161,
+                    "text": "নিশ্চয়ই তুমি মহান চরিত্রের উচ্চমার্গে উন্নীত।"
+                }
+            ]
+        },
+        {
+            "id": 5276,
+            "verse_number": 5,
+            "verse_key": "68:5",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 226,
+            "ruku_number": 500,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَسَتُبْصِرُ وَيُبْصِرُونَ",
+            "page_number": 564,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101147,
+                    "resource_id": 20,
+                    "text": "So you will see and they will see."
+                },
+                {
+                    "id": 218988,
+                    "resource_id": 39,
+                    "text": "Maka (tidak lama lagi) engkau akan melihat, dan mereka juga akan melihat, -"
+                },
+                {
+                    "id": 1096253,
+                    "resource_id": 161,
+                    "text": "শীঘ্রই তুমি দেখতে পাবে আর তারাও দেখবে,"
+                }
+            ]
+        },
+        {
+            "id": 5277,
+            "verse_number": 6,
+            "verse_key": "68:6",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 226,
+            "ruku_number": 500,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "بِأَييِّكُمُ ٱلْمَفْتُونُ",
+            "page_number": 564,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101152,
+                    "resource_id": 20,
+                    "text": "Which of you is the afflicted [by a devil]."
+                },
+                {
+                    "id": 218993,
+                    "resource_id": 39,
+                    "text": "Siapakah orangnya yang gila di antara kamu semua."
+                },
+                {
+                    "id": 1096254,
+                    "resource_id": 161,
+                    "text": "তোমাদের মধ্যে কে পাগলামিতে আক্রান্ত।"
+                }
+            ]
+        },
+        {
+            "id": 5278,
+            "verse_number": 7,
+            "verse_key": "68:7",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 226,
+            "ruku_number": 500,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ",
+            "page_number": 564,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101154,
+                    "resource_id": 20,
+                    "text": "Indeed, your Lord is most knowing of who has gone astray from His way, and He is most knowing of the [rightly] guided."
+                },
+                {
+                    "id": 218997,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Tuhanmu, Dia lah jua yang lebih mengetahui akan orang yang sesat dari jalanNya, dan Dia lah jua yang lebih mengetahui akan orang-orang yang mendapat petunjuk."
+                },
+                {
+                    "id": 1096255,
+                    "resource_id": 161,
+                    "text": "তোমার প্রতিপালক বেশি জানেন কে তাঁর পথ থেকে গুমরাহ হয়ে গেছে, আর সঠিক পথপ্রাপ্তদেরকেও তিনি ভাল করে জানেন।"
+                }
+            ]
+        },
+        {
+            "id": 5279,
+            "verse_number": 8,
+            "verse_key": "68:8",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 226,
+            "ruku_number": 500,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَلَا تُطِعِ ٱلْمُكَذِّبِينَ",
+            "page_number": 564,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101156,
+                    "resource_id": 20,
+                    "text": "Then do not obey the deniers."
+                },
+                {
+                    "id": 218999,
+                    "resource_id": 39,
+                    "text": "Oleh itu (berpegang teguhlah pada ajaran Islam yang sedang engkau amalkan, dan) janganlah engkau menurut kemahuan orang-orang yang mendustakan (ugama Allah)."
+                },
+                {
+                    "id": 1096256,
+                    "resource_id": 161,
+                    "text": "কাজেই তুমি মিথ্যাবাদীদের কথা মান্য কর না।"
+                }
+            ]
+        },
+        {
+            "id": 5280,
+            "verse_number": 9,
+            "verse_key": "68:9",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 226,
+            "ruku_number": 500,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَدُّوا۟ لَوْ تُدْهِنُ فَيُدْهِنُونَ",
+            "page_number": 564,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101158,
+                    "resource_id": 20,
+                    "text": "They wish that you would soften [in your position], so they would soften [toward you]."
+                },
+                {
+                    "id": 219001,
+                    "resource_id": 39,
+                    "text": "Mereka suka kalaulah engkau bertolak ansur (menurut kemahuan mereka), supaya mereka juga bertolak ansur berlemah-lembut (pada zahirnya terhadapmu)."
+                },
+                {
+                    "id": 1096257,
+                    "resource_id": 161,
+                    "text": "তারা চায় যে, তুমি যদি নমনীয় হও, তবে তারাও নমনীয় হবে,"
+                }
+            ]
+        },
+        {
+            "id": 5281,
+            "verse_number": 10,
+            "verse_key": "68:10",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 226,
+            "ruku_number": 500,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَا تُطِعْ كُلَّ حَلَّافٍ مَّهِينٍ",
+            "page_number": 564,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101100,
+                    "resource_id": 20,
+                    "text": "And do not obey every worthless habitual swearer"
+                },
+                {
+                    "id": 218962,
+                    "resource_id": 39,
+                    "text": "Dan janganlah engkau (berkisar dari pendirianmu yang benar, dan jangan) menurut kemahuan orang yang selalu bersumpah, lagi yang hina (pendapatnya dan amalannya), -"
+                },
+                {
+                    "id": 1096258,
+                    "resource_id": 161,
+                    "text": "তুমি তার অনুসরণ কর না, যে বেশি বেশি কসম খায় আর যে (বার বার মিথ্যা কসম খাওয়ার কারণে মানুষের কাছে) লাঞ্ছিত।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 6,
+        "total_records": 52
+    }
+}

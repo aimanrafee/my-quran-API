@@ -1,0 +1,191 @@
+{
+    "verses": [
+        {
+            "id": 746,
+            "verse_number": 77,
+            "verse_key": "5:77",
+            "hizb_number": 12,
+            "rub_el_hizb_number": 48,
+            "ruku_number": 95,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لَا تَغْلُوا۟ فِى دِينِكُمْ غَيْرَ ٱلْحَقِّ وَلَا تَتَّبِعُوٓا۟ أَهْوَآءَ قَوْمٍ قَدْ ضَلُّوا۟ مِن قَبْلُ وَأَضَلُّوا۟ كَثِيرًا وَضَلُّوا۟ عَن سَوَآءِ ٱلسَّبِيلِ",
+            "page_number": 121,
+            "juz_number": 6,
+            "translations": [
+                {
+                    "id": 100756,
+                    "resource_id": 20,
+                    "text": "Say, \"O People of the Scripture, do not exceed limits in your religion beyond the truth and do not follow the inclinations of a people who had gone astray before and misled many and have strayed from the soundness of the way.\""
+                },
+                {
+                    "id": 218607,
+                    "resource_id": 39,
+                    "text": "Katakanlah: \"Wahai Ahli Kitab! Janganlah kamu melampau dalam ugama kamu secara yang tidak benar, dan janganlah kamu menurut hawa nafsu suatu kaum yang telah sesat sebelum ini dan telah menyesatkan banyak manusia, dan juga (sekarang) mereka telah tersesat (jauh) dari jalan yang betul\""
+                },
+                {
+                    "id": 1091723,
+                    "resource_id": 161,
+                    "text": "বল, হে কিতাবধারীগণ! তোমরা তোমাদের দ্বীন সম্বন্ধে অন্যায়ভাবে বাড়াবাড়ি করো না, আর সেই সম্প্রদায়ের খেয়াল খুশির অনুসরণ করো না যারা ইতোপূর্বে পথভ্রষ্ট হয়ে গেছে, অনেককে পথভ্রষ্ট করেছে আর সোজা পথ থেকে বিচ্যুত হয়ে গেছে।"
+                }
+            ]
+        },
+        {
+            "id": 747,
+            "verse_number": 78,
+            "verse_key": "5:78",
+            "hizb_number": 12,
+            "rub_el_hizb_number": 48,
+            "ruku_number": 96,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "لُعِنَ ٱلَّذِينَ كَفَرُوا۟ مِنۢ بَنِىٓ إِسْرَٰٓءِيلَ عَلَىٰ لِسَانِ دَاوُۥدَ وَعِيسَى ٱبْنِ مَرْيَمَ ۚ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ",
+            "page_number": 121,
+            "juz_number": 6,
+            "translations": [
+                {
+                    "id": 100758,
+                    "resource_id": 20,
+                    "text": "Cursed were those who disbelieved among the Children of Israel by the tongue of David and of Jesus, the son of Mary. That was because they disobeyed and [habitually] transgressed."
+                },
+                {
+                    "id": 218611,
+                    "resource_id": 39,
+                    "text": "Orang-orang kafir Yahudi dari Bani Israil telah dilaknat (di dalam Kitab-kitab Zabur dan Injil) melalui lidah Nabi Daud dan Nabi Isa ibni Maryam. Yang demikian itu disebabkan mereka menderhaka dan selalu menceroboh."
+                },
+                {
+                    "id": 1091724,
+                    "resource_id": 161,
+                    "text": "বানী ইসরাঈলের মধ্যে যারা কুফরী করেছিল তাদেরকে দাঊদ ও মারইয়াম পুত্র ঈসার মুখে (উচ্চারিত কথার দ্বারা) অভিশাপ দেয়া হয়েছে। এটা এই কারণে যে তারা অমান্য করেছিল আর তারা ছিল সীমালঙ্ঘনকারী।"
+                }
+            ]
+        },
+        {
+            "id": 748,
+            "verse_number": 79,
+            "verse_key": "5:79",
+            "hizb_number": 12,
+            "rub_el_hizb_number": 48,
+            "ruku_number": 96,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "كَانُوا۟ لَا يَتَنَاهَوْنَ عَن مُّنكَرٍ فَعَلُوهُ ۚ لَبِئْسَ مَا كَانُوا۟ يَفْعَلُونَ",
+            "page_number": 121,
+            "juz_number": 6,
+            "translations": [
+                {
+                    "id": 100760,
+                    "resource_id": 20,
+                    "text": "They used not to prevent one another from wrongdoing that they did. How wretched was that which they were doing."
+                },
+                {
+                    "id": 218613,
+                    "resource_id": 39,
+                    "text": "Mereka sentiasa tidak berlarang-larangan (sesama sendiri) dari perbuatan mungkar (derhaka dan ceroboh), yang mereka lakukan. Demi sesungguhnya amatlah buruknya apa yang mereka telah lakukan."
+                },
+                {
+                    "id": 1091725,
+                    "resource_id": 161,
+                    "text": "তারা যে সব অসৎকর্ম করত তাত্থেকে একে অন্যকে নিষেধ করত না। তারা যা করত তা কতই না নিকৃষ্ট!"
+                }
+            ]
+        },
+        {
+            "id": 749,
+            "verse_number": 80,
+            "verse_key": "5:80",
+            "hizb_number": 12,
+            "rub_el_hizb_number": 48,
+            "ruku_number": 96,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "تَرَىٰ كَثِيرًا مِّنْهُمْ يَتَوَلَّوْنَ ٱلَّذِينَ كَفَرُوا۟ ۚ لَبِئْسَ مَا قَدَّمَتْ لَهُمْ أَنفُسُهُمْ أَن سَخِطَ ٱللَّهُ عَلَيْهِمْ وَفِى ٱلْعَذَابِ هُمْ خَـٰلِدُونَ",
+            "page_number": 121,
+            "juz_number": 6,
+            "translations": [
+                {
+                    "id": 100763,
+                    "resource_id": 20,
+                    "text": "You see many of them becoming allies of those who disbelieved [i.e., the polytheists]. How wretched is that which they have put forth for themselves in that Allāh has become angry with them, and in the punishment they will abide eternally."
+                },
+                {
+                    "id": 218616,
+                    "resource_id": 39,
+                    "text": "Engkau melihat banyak dari mereka menjadikan orang-orang kafir (musyrik) teman rapat mereka. Demi sesungguhnya amatlah buruknya apa yang mereka sediakan bagi diri mereka (pada hari akhirat kelak) iaitu kemurkaan Allah menimpa mereka, dan mereka pula tetap kekal di dalam azab (neraka)."
+                },
+                {
+                    "id": 1091726,
+                    "resource_id": 161,
+                    "text": "তাদের অনেককে তুমি এমন লোকেদের সঙ্গে বন্ধুত্ব করতে দেখবে যারা কুফরী করে। তাদের আত্মা তাদের জন্য আগে যা পাঠিয়েছে তা কতই না নিকৃষ্ট যার জন্য আল্লাহর গোস্বা তাদের উপর পতিত হয়েছে আর তারা চিরস্থায়ী ‘আযাবে নিমজ্জিত হবে।"
+                }
+            ]
+        },
+        {
+            "id": 750,
+            "verse_number": 81,
+            "verse_key": "5:81",
+            "hizb_number": 12,
+            "rub_el_hizb_number": 48,
+            "ruku_number": 96,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَوْ كَانُوا۟ يُؤْمِنُونَ بِٱللَّهِ وَٱلنَّبِىِّ وَمَآ أُنزِلَ إِلَيْهِ مَا ٱتَّخَذُوهُمْ أَوْلِيَآءَ وَلَـٰكِنَّ كَثِيرًا مِّنْهُمْ فَـٰسِقُونَ",
+            "page_number": 121,
+            "juz_number": 6,
+            "translations": [
+                {
+                    "id": 100764,
+                    "resource_id": 20,
+                    "text": "And if they had believed in Allāh and the Prophet and in what was revealed to him, they would not have taken them as allies; but many of them are defiantly disobedient."
+                },
+                {
+                    "id": 218617,
+                    "resource_id": 39,
+                    "text": "Sekirany mereka beriman kepada Allah dan kepada Nabi serta apa yang diturunkan kepadanya, nescaya mereka tidak menjadikan orang-orang (musyrik) sebagai teman rapat, akan tetapi kebanyakan dari mereka adalah orang-orang fasik."
+                },
+                {
+                    "id": 1091727,
+                    "resource_id": 161,
+                    "text": "তারা যদি আল্লাহর, নাবীর ও তার প্রতি যা নাযিল হয়েছে তার উপর ঈমান আনতো তবে তাদেরকে (অর্থাৎ কাফিরদেরকে) বন্ধুরূপে গ্রহণ করত না, কিন্তু তাদের অধিকাংশই ফাসিক।"
+                }
+            ]
+        },
+        {
+            "id": 751,
+            "verse_number": 82,
+            "verse_key": "5:82",
+            "hizb_number": 13,
+            "rub_el_hizb_number": 49,
+            "ruku_number": 96,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "۞ لَتَجِدَنَّ أَشَدَّ ٱلنَّاسِ عَدَٰوَةً لِّلَّذِينَ ءَامَنُوا۟ ٱلْيَهُودَ وَٱلَّذِينَ أَشْرَكُوا۟ ۖ وَلَتَجِدَنَّ أَقْرَبَهُم مَّوَدَّةً لِّلَّذِينَ ءَامَنُوا۟ ٱلَّذِينَ قَالُوٓا۟ إِنَّا نَصَـٰرَىٰ ۚ ذَٰلِكَ بِأَنَّ مِنْهُمْ قِسِّيسِينَ وَرُهْبَانًا وَأَنَّهُمْ لَا يَسْتَكْبِرُونَ",
+            "page_number": 121,
+            "juz_number": 7,
+            "translations": [
+                {
+                    "id": 100776,
+                    "resource_id": 20,
+                    "text": "You will surely find the most intense of the people in animosity toward the believers [to be] the Jews and those who associate others with Allāh; and you will find the nearest of them in affection to the believers those who say, \"We are Christians.\" That is because among them are priests and monks and because they are not arrogant."
+                },
+                {
+                    "id": 218628,
+                    "resource_id": 39,
+                    "text": "Demi sesungguhnya engkau (wahai Muhammad) akan dapati manusia yang keras sekali permusuhannya kepada orang-orang yang beriman ialah orang-orang Yahudi dan orang-orang musyrik. Dan demi sesungguhnya engkau akan dapati orang-orang yang dekat sekali kasih mesranya kepada orang-orang yang beriman ialah orang-orang yang berkata: \"Bahawa kami ini ialah orang-orang Nasrani\" yang demikian itu, disebabkan ada di antara mereka pendita-pendita dan ahli-ahli ibadat, dan kerana mereka pula tidak berlaku sombong."
+                },
+                {
+                    "id": 1091728,
+                    "resource_id": 161,
+                    "text": "যারা ঈমান এনেছে তাদের প্রতি মানুষের মধ্যে ইয়াহূদ ও মুশরিকদেরকে তুমি অবশ্যই সবচেয়ে বেশি শত্রুতাপরায়ণ দেখতে পাবে, আর যারা বলে ‘‘আমরা নাসারা’’ তাদেরকে তুমি যারা ঈমান এনেছে তাদের জন্য বন্ধুত্বে নিকটতর দেখতে পাবে, কেননা তাদের মধ্যে ‘ইবাদাতকারী ‘আলিম ও সংসার বিরাগী আছে আর তারা অহংকারও করে না।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 6,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 6
+    }
+}

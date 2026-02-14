@@ -1,0 +1,221 @@
+{
+    "verses": [
+        {
+            "id": 316,
+            "verse_number": 23,
+            "verse_key": "3:23",
+            "hizb_number": 6,
+            "rub_el_hizb_number": 21,
+            "ruku_number": 44,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "أَلَمْ تَرَ إِلَى ٱلَّذِينَ أُوتُوا۟ نَصِيبًا مِّنَ ٱلْكِتَـٰبِ يُدْعَوْنَ إِلَىٰ كِتَـٰبِ ٱللَّهِ لِيَحْكُمَ بَيْنَهُمْ ثُمَّ يَتَوَلَّىٰ فَرِيقٌ مِّنْهُمْ وَهُم مُّعْرِضُونَ",
+            "page_number": 53,
+            "juz_number": 3,
+            "translations": [
+                {
+                    "id": 98839,
+                    "resource_id": 20,
+                    "text": "Do you not consider, [O Muḥammad], those who were given a portion of the Scripture? They are invited to the Scripture of Allāh that it should arbitrate between them;<sup foot_note=196047>1</sup> then a party of them turns away, and they are refusing."
+                },
+                {
+                    "id": 216693,
+                    "resource_id": 39,
+                    "text": "Tidakkah engkau pelik memikirkan (wahai Muhammad) terhadap sikap orang-orang (Yahudi) yang telah diberikan sebahagian dari Kitab Taurat, mereka diseru kepada Kitab Allah supaya Kitab itu dijadikan hakim (mengenai perkara-perkara yang timbul) di antara mereka. Ahli-ahli satu puak dari mereka berpaling ingkar sambil menolak (seruan dan hukum Kitab Allah itu)."
+                },
+                {
+                    "id": 1091293,
+                    "resource_id": 161,
+                    "text": "তুমি কি তাদের প্রতি দৃষ্টি নিক্ষেপ করনি যাদেরকে কিতাবের অংশ দেয়া হয়েছিল? তাদেরকে আল্লাহর কিতাবের দিকে আহবান করা হয়েছিল, যাতে এটা তাদের মধ্যে মীমাংসা করে দেয়, এরপর তাদের একদল বিমুখতা অবলম্বন করে ফিরে যায়।"
+                }
+            ]
+        },
+        {
+            "id": 317,
+            "verse_number": 24,
+            "verse_key": "3:24",
+            "hizb_number": 6,
+            "rub_el_hizb_number": 21,
+            "ruku_number": 44,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "ذَٰلِكَ بِأَنَّهُمْ قَالُوا۟ لَن تَمَسَّنَا ٱلنَّارُ إِلَّآ أَيَّامًا مَّعْدُودَٰتٍ ۖ وَغَرَّهُمْ فِى دِينِهِم مَّا كَانُوا۟ يَفْتَرُونَ",
+            "page_number": 53,
+            "juz_number": 3,
+            "translations": [
+                {
+                    "id": 98842,
+                    "resource_id": 20,
+                    "text": "That is because they say, \"Never will the Fire touch us except for [a few] numbered days,\" and [because] they were deluded in their religion by what they were inventing."
+                },
+                {
+                    "id": 216696,
+                    "resource_id": 39,
+                    "text": "Yang demikian ialah disebabkan mereka (mendakwa dengan) berkata: \"Kami tidak sekali-kali akan disentuh oleh api neraka melainkan beberapa hari sahaja yang boleh dihitung\". Mereka (sebenarnya) telah diperdayakan dalam ugama mereka, oleh dakwaan-dakwaan dusta yang mereka telah ada-adakan."
+                },
+                {
+                    "id": 1091294,
+                    "resource_id": 161,
+                    "text": "এটা এজন্য যে, তারা বলে, দিন কতক ছাড়া জাহান্নামের আগুন কক্ষনো আমাদেরকে স্পর্শ করবে না এবং তাদের কল্পিত ধারণাসমূহ দ্বীনের ব্যাপারে তাদেরকে ধোঁকায় ফেলে রেখেছে।"
+                }
+            ]
+        },
+        {
+            "id": 318,
+            "verse_number": 25,
+            "verse_key": "3:25",
+            "hizb_number": 6,
+            "rub_el_hizb_number": 21,
+            "ruku_number": 44,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "فَكَيْفَ إِذَا جَمَعْنَـٰهُمْ لِيَوْمٍ لَّا رَيْبَ فِيهِ وَوُفِّيَتْ كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ",
+            "page_number": 53,
+            "juz_number": 3,
+            "translations": [
+                {
+                    "id": 98844,
+                    "resource_id": 20,
+                    "text": "So how will it be when We assemble them for a Day about which there is no doubt? And each soul will be compensated [in full for] what it earned, and they will not be wronged."
+                },
+                {
+                    "id": 216698,
+                    "resource_id": 39,
+                    "text": "Oleh itu, bagaimana pula (hal keadaan mereka) ketika Kami himpunkan mereka pada hari (kiamat), yang tidak ada syak padanya; dan (pada hari itu juga) disempurnakan kepada tiap-tiap seorang, balasan apa yang ia telah usahakan, sedang mereka masing-masing tidak akan dianiaya."
+                },
+                {
+                    "id": 1091295,
+                    "resource_id": 161,
+                    "text": "অনন্তর তাদের কী দশা ঘটবে, যখন আমি তাদেরকে সেই দিনে একত্রিত করব, যে দিনটি সংঘটিত হওয়ার ব্যাপারে কোনই সন্দেহ নেই এবং প্রত্যেককে তার অর্জিত প্রতিফল পূর্ণভাবে দেয়া হবে আর তাদের প্রতি কোন যুলম করা হবে না।"
+                }
+            ]
+        },
+        {
+            "id": 319,
+            "verse_number": 26,
+            "verse_key": "3:26",
+            "hizb_number": 6,
+            "rub_el_hizb_number": 21,
+            "ruku_number": 44,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "قُلِ ٱللَّهُمَّ مَـٰلِكَ ٱلْمُلْكِ تُؤْتِى ٱلْمُلْكَ مَن تَشَآءُ وَتَنزِعُ ٱلْمُلْكَ مِمَّن تَشَآءُ وَتُعِزُّ مَن تَشَآءُ وَتُذِلُّ مَن تَشَآءُ ۖ بِيَدِكَ ٱلْخَيْرُ ۖ إِنَّكَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+            "page_number": 53,
+            "juz_number": 3,
+            "translations": [
+                {
+                    "id": 98847,
+                    "resource_id": 20,
+                    "text": "Say, \"O Allāh, Owner of Sovereignty, You give sovereignty to whom You will and You take sovereignty away from whom You will. You honor whom You will and You humble whom You will. In Your hand<sup foot_note=196048>1</sup> is [all] good. Indeed, You are over all things competent."
+                },
+                {
+                    "id": 216700,
+                    "resource_id": 39,
+                    "text": "Katakanlah (wahai Muhammad): \"Wahai Tuhan yang mempunyai kuasa pemerintahan! Engkaulah yang memberi kuasa pemerintahan kepada sesiapa yang Engkau kehendaki, dan Engkaulah yang mencabut kuasa pemerintahan dari sesiapa yang Engkau kehendaki. Engkaulah juga yang memuliakan sesiapa yang Engkau kehendaki, dan Engkaulah yang menghina sesiapa yang Engkau kehendaki. Dalam kekuasaan Engkaulah sahaja adanya segala kebaikan. Sesungguhnya Engkau Maha Kuasa atas tiap-tiap sesuatu."
+                },
+                {
+                    "id": 1091296,
+                    "resource_id": 161,
+                    "text": "বল, ‘হে আল্লাহ! তুমি সমুদয় রাজ্যের মালিক, যাকে ইচ্ছে রাজ্য দান কর আর যার থেকে ইচ্ছে রাজ্য কেড়ে নাও এবং যাকে ইচ্ছে সম্মানিত কর আর যাকে ইচ্ছে অপদস্থ কর, তোমারই হাতে সব রকম কল্যাণ, নিশ্চয়ই তুমি সকল বস্তুর উপর ক্ষমতাবান’।"
+                }
+            ]
+        },
+        {
+            "id": 320,
+            "verse_number": 27,
+            "verse_key": "3:27",
+            "hizb_number": 6,
+            "rub_el_hizb_number": 21,
+            "ruku_number": 44,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "تُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَتُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ ۖ وَتُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَتُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ ۖ وَتَرْزُقُ مَن تَشَآءُ بِغَيْرِ حِسَابٍ",
+            "page_number": 53,
+            "juz_number": 3,
+            "translations": [
+                {
+                    "id": 98849,
+                    "resource_id": 20,
+                    "text": "You cause the night to enter the day, and You cause the day to enter the night; and You bring the living out of the dead, and You bring the dead out of the living. And You give provision to whom You will without account [i.e., limit or measure].\""
+                },
+                {
+                    "id": 216702,
+                    "resource_id": 39,
+                    "text": "\"Engkaulah (wahai Tuhan) yang memasukkan waktu malam ke dalam waktu siang, dan Engkaulah yang memasukkan waktu siang ke dalam waktu malam. Engkaulah juga yang mengeluarkan sesuatu yang hidup dari benda yang mati, dan Engkaulah yang mengeluarkan benda yang mati dari sesuatu yang hidup. Engkau jualah yang memberi rezeki kepada sesiapa yang Engkau kehendaki, dengan tiada hitungan hisabnya\"."
+                },
+                {
+                    "id": 1091297,
+                    "resource_id": 161,
+                    "text": "তুমিই রাতকে দিনের ভিতর আর দিনকে রাতের ভিতর ঢুকিয়ে দাও, তুমিই জীবিতকে মৃত হতে বের কর এবং মৃতকে জীবিত হতে বের কর আর যাকে ইচ্ছে বেহিসাব রিয্ক্ব দান কর।"
+                }
+            ]
+        },
+        {
+            "id": 321,
+            "verse_number": 28,
+            "verse_key": "3:28",
+            "hizb_number": 6,
+            "rub_el_hizb_number": 21,
+            "ruku_number": 44,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "لَّا يَتَّخِذِ ٱلْمُؤْمِنُونَ ٱلْكَـٰفِرِينَ أَوْلِيَآءَ مِن دُونِ ٱلْمُؤْمِنِينَ ۖ وَمَن يَفْعَلْ ذَٰلِكَ فَلَيْسَ مِنَ ٱللَّهِ فِى شَىْءٍ إِلَّآ أَن تَتَّقُوا۟ مِنْهُمْ تُقَىٰةً ۗ وَيُحَذِّرُكُمُ ٱللَّهُ نَفْسَهُۥ ۗ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ",
+            "page_number": 53,
+            "juz_number": 3,
+            "translations": [
+                {
+                    "id": 98851,
+                    "resource_id": 20,
+                    "text": "Let not believers take disbelievers as allies [i.e., supporters or protectors] rather than believers. And whoever [of you] does that has nothing [i.e., no association] with Allāh, except when taking precaution against them in prudence.<sup foot_note=196049>1</sup> And Allāh warns you of Himself, and to Allāh is the [final] destination."
+                },
+                {
+                    "id": 216705,
+                    "resource_id": 39,
+                    "text": "Janganlah orang-orang yang beriman mengambil orang-orang kafir menjadi teman rapat dengan meninggalkan orang-orang yang beriman. Dan sesiapa yang melakukan (larangan) yang demikian maka tiadalah ia (mendapat perlindungan) dari Allah dalam sesuatu apapun, kecuali kamu hendak menjaga diri daripada sesuatu bahaya yang ditakuti dari pihak mereka (yang kafir itu). Dan Allah perintahkan supaya kamu beringat-ingat terhadap kekuasaan diriNya (menyeksa kamu). Dan kepada Allah jualah tempat kembali."
+                },
+                {
+                    "id": 1091298,
+                    "resource_id": 161,
+                    "text": "মু’মিনগণ যেন মু’মিনগণ ছাড়া কাফিরদের সঙ্গে বন্ধুত্ব না করে, মূলতঃ যে এমন করবে আল্লাহর সাথে তার কোন কিছুরই সম্পর্ক নেই, তবে ব্যতিক্রম হল যদি তোমরা তাদের যুলম হতে আত্মরক্ষার জন্য সতর্কতা অবলম্বন কর। আর আল্লাহ তাঁর নিজের সম্বন্ধে তোমাদেরকে সাবধান করছেন এবং আল্লাহরই দিকে প্রত্যাবর্তন।"
+                }
+            ]
+        },
+        {
+            "id": 322,
+            "verse_number": 29,
+            "verse_key": "3:29",
+            "hizb_number": 6,
+            "rub_el_hizb_number": 21,
+            "ruku_number": 44,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "قُلْ إِن تُخْفُوا۟ مَا فِى صُدُورِكُمْ أَوْ تُبْدُوهُ يَعْلَمْهُ ٱللَّهُ ۗ وَيَعْلَمُ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+            "page_number": 53,
+            "juz_number": 3,
+            "translations": [
+                {
+                    "id": 98853,
+                    "resource_id": 20,
+                    "text": "Say, \"Whether you conceal what is in your breasts or reveal it, Allāh knows it. And He knows that which is in the heavens and that which is on the earth. And Allāh is over all things competent."
+                },
+                {
+                    "id": 216707,
+                    "resource_id": 39,
+                    "text": "Katakanlah (wahai Muhammad): \"Jika kamu sembunyikan apa yang ada dalam dada kamu atau kamu melahirkannya, nescaya Allah mengetahuinya; dan Ia mengetahui segala yang ada di langit dan yang ada di bumi. Dan Allah Maha Kuasa atas tiap-tiap sesuatu."
+                },
+                {
+                    "id": 1091299,
+                    "resource_id": 161,
+                    "text": "বল, ‘তোমরা তোমাদের অন্তরের বিষয়কে গোপন কর অথবা প্রকাশ কর, আল্লাহ তা জানেন, আর তিনি জানেন যা কিছু আকাশসমূহে এবং ভূভাগে আছে; আল্লাহ সকল বস্তুর উপর ক্ষমতাবান’।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 7,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 7
+    }
+}

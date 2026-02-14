@@ -1,0 +1,131 @@
+{
+    "verses": [
+        {
+            "id": 711,
+            "verse_number": 42,
+            "verse_key": "5:42",
+            "hizb_number": 12,
+            "rub_el_hizb_number": 46,
+            "ruku_number": 91,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "سَمَّـٰعُونَ لِلْكَذِبِ أَكَّـٰلُونَ لِلسُّحْتِ ۚ فَإِن جَآءُوكَ فَٱحْكُم بَيْنَهُمْ أَوْ أَعْرِضْ عَنْهُمْ ۖ وَإِن تُعْرِضْ عَنْهُمْ فَلَن يَضُرُّوكَ شَيْـًٔا ۖ وَإِنْ حَكَمْتَ فَٱحْكُم بَيْنَهُم بِٱلْقِسْطِ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُقْسِطِينَ",
+            "page_number": 115,
+            "juz_number": 6,
+            "translations": [
+                {
+                    "id": 100476,
+                    "resource_id": 20,
+                    "text": "[They are] avid listeners to falsehood, devourers of [what is] unlawful. So if they come to you, [O Muḥammad], judge between them or turn away from them. And if you turn away from them - never will they harm you at all. And if you judge, judge between them with justice. Indeed, Allāh loves those who act justly."
+                },
+                {
+                    "id": 218345,
+                    "resource_id": 39,
+                    "text": "Mereka sangat suka mendengar berita-berita dusta, sangat suka memakan segala yang haram (rasuah dan sebagainya). Oleh itu kalau mereka datang kepadamu, maka hukumlah di antara mereka (dengan apa yang telah diterangkan oleh Allah), atau berpalinglah dari mereka; dan kalau engkau berpaling dari mereka maka mereka tidak akan dapat membahayakanmu sedikitpun; dan jika engkau menghukum maka hukumlah di antara mereka dengan adil; kerana sesungguhnya Allah mengasihi orang-orang yang berlaku adil."
+                },
+                {
+                    "id": 1091688,
+                    "resource_id": 161,
+                    "text": "তারা বেশিবেশি মিথ্যে শুনতে আগ্রহী, হারাম ভক্ষণকারী, তারা যদি তোমার কাছে আসে তাহলে (ইচ্ছে হলে) তাদের বিবাদ নিস্পত্তি কর নতুবা অস্বীকার কর। অস্বীকার করলে তারা তোমার কোনই ক্ষতি করতে পারবে না। যদি বিচার ফায়সালা কর তাহলে ইনসাফের সাথে তাদের বিচার ফায়সালা কর, আল্লাহ্ ন্যায়পরায়ণদেরকে ভালবাসেন।"
+                }
+            ]
+        },
+        {
+            "id": 712,
+            "verse_number": 43,
+            "verse_key": "5:43",
+            "hizb_number": 12,
+            "rub_el_hizb_number": 46,
+            "ruku_number": 91,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَكَيْفَ يُحَكِّمُونَكَ وَعِندَهُمُ ٱلتَّوْرَىٰةُ فِيهَا حُكْمُ ٱللَّهِ ثُمَّ يَتَوَلَّوْنَ مِنۢ بَعْدِ ذَٰلِكَ ۚ وَمَآ أُو۟لَـٰٓئِكَ بِٱلْمُؤْمِنِينَ",
+            "page_number": 115,
+            "juz_number": 6,
+            "translations": [
+                {
+                    "id": 100488,
+                    "resource_id": 20,
+                    "text": "But how is it that they come to you for judgement while they have the Torah, in which is the judgement of Allāh? Then they turn away, [even] after that; but those are not [in fact] believers."
+                },
+                {
+                    "id": 218344,
+                    "resource_id": 39,
+                    "text": "Dan (sungguh menghairankan), bagaimana mereka meminta keputusan hukum kepadamu, padahal di sisi mereka ada Kitab Taurat yang mengandungi hukum Allah, kemudian mereka berpaling pula sesudah itu (dari hukumanmu)? Dan (sebenarnya) mereka itu bukanlah orang-orang yang beriman."
+                },
+                {
+                    "id": 1091689,
+                    "resource_id": 161,
+                    "text": "এরা তোমাকে কীভাবে বিচারক মানতে পারে যখন তাদের মাঝেই তাওরাত বিদ্যমান আছে, তার ভিতর আল্লাহর বিধান আছে, এর পরেও তারা মুখ ফিরিয়ে নেয়, বস্তুত তারা মু’মিনই নয়।"
+                }
+            ]
+        },
+        {
+            "id": 713,
+            "verse_number": 44,
+            "verse_key": "5:44",
+            "hizb_number": 12,
+            "rub_el_hizb_number": 46,
+            "ruku_number": 92,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّآ أَنزَلْنَا ٱلتَّوْرَىٰةَ فِيهَا هُدًى وَنُورٌ ۚ يَحْكُمُ بِهَا ٱلنَّبِيُّونَ ٱلَّذِينَ أَسْلَمُوا۟ لِلَّذِينَ هَادُوا۟ وَٱلرَّبَّـٰنِيُّونَ وَٱلْأَحْبَارُ بِمَا ٱسْتُحْفِظُوا۟ مِن كِتَـٰبِ ٱللَّهِ وَكَانُوا۟ عَلَيْهِ شُهَدَآءَ ۚ فَلَا تَخْشَوُا۟ ٱلنَّاسَ وَٱخْشَوْنِ وَلَا تَشْتَرُوا۟ بِـَٔايَـٰتِى ثَمَنًا قَلِيلًا ۚ وَمَن لَّمْ يَحْكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْكَـٰفِرُونَ",
+            "page_number": 115,
+            "juz_number": 6,
+            "translations": [
+                {
+                    "id": 100500,
+                    "resource_id": 20,
+                    "text": "Indeed, We sent down the Torah, in which was guidance and light. The prophets who submitted [to Allāh] judged by it for the Jews, as did the rabbis and scholars by that with which they were entrusted of the Scripture of Allāh, and they were witnesses thereto. So do not fear the people but fear Me, and do not exchange My verses for a small price [i.e., worldly gain]. And whoever does not judge by what Allāh has revealed - then it is those who are the disbelievers."
+                },
+                {
+                    "id": 218347,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Kami telah menurunkan Kitab Taurat, yang mengandungi petunjuk dan cahaya yang menerangi; dengan Kitab itu nabi-nabi yang menyerah diri (kepada Allah) menetapkan hukum bagi orang-orang Yahudi, dan (dengannya juga) ulama mereka dan pendita-penditanya (menjalankan hukum Allah), sebab mereka diamanahkan memelihara dan menjalankan hukum-hukum dari Kitab Allah (Taurat) itu, dan mereka pula adalah menjadi penjaga dan pengawasnya (dari sebarang perubahan). Oleh itu janganlah kamu takut kepada manusia tetapi hendaklah kamu takut kepadaKu (dengan menjaga diri dari melakukan maksiat dan patuh akan perintahKu); dan janganlah kamu menjual (membelakangkan) ayat-ayatKu dengan harga yang sedikit (kerana mendapat rasuah, pangkat dan lain-lain keuntungan dunia); dan sesiapa yang tidak menghukum dengan apa yang telah diturunkan oleh Allah (kerana mengingkarinya), maka mereka itulah orang-orang kafir."
+                },
+                {
+                    "id": 1091690,
+                    "resource_id": 161,
+                    "text": "আমি তাওরাত অবতীর্ণ করেছিলাম, তাতে ছিল সঠিক পথের দিশা ও আলো। অনুগত নাবীগণ এর দ্বারা ইয়াহূদীদেরকে ফায়সালা দিত। দরবেশ ও আলিমরাও (তাই করত) কারণ তাদেরকে আল্লাহর কিতাবের রক্ষক করা হয়েছিল আর তারা ছিল এর সাক্ষী। কাজেই মানুষকে ভয় করো না, আমাকেই ভয় কর, আর আমার আয়াতকে নগণ্য মূল্যে বিক্রয় করো না। আল্লাহ যা নাযিল করেছেন, সে অনুযায়ী যারা বিচার ফায়সালা করে না তারাই কাফির।"
+                }
+            ]
+        },
+        {
+            "id": 714,
+            "verse_number": 45,
+            "verse_key": "5:45",
+            "hizb_number": 12,
+            "rub_el_hizb_number": 46,
+            "ruku_number": 92,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَكَتَبْنَا عَلَيْهِمْ فِيهَآ أَنَّ ٱلنَّفْسَ بِٱلنَّفْسِ وَٱلْعَيْنَ بِٱلْعَيْنِ وَٱلْأَنفَ بِٱلْأَنفِ وَٱلْأُذُنَ بِٱلْأُذُنِ وَٱلسِّنَّ بِٱلسِّنِّ وَٱلْجُرُوحَ قِصَاصٌ ۚ فَمَن تَصَدَّقَ بِهِۦ فَهُوَ كَفَّارَةٌ لَّهُۥ ۚ وَمَن لَّمْ يَحْكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُو۟لَـٰٓئِكَ هُمُ ٱلظَّـٰلِمُونَ",
+            "page_number": 115,
+            "juz_number": 6,
+            "translations": [
+                {
+                    "id": 100512,
+                    "resource_id": 20,
+                    "text": "And We ordained for them therein a life for a life, an eye for an eye, a nose for a nose, an ear for an ear, a tooth for a tooth, and for wounds is legal retribution. But whoever gives [up his right as] charity, it is an expiation for him. And whoever does not judge by what Allāh has revealed - then it is those who are the wrongdoers [i.e., the unjust]."
+                },
+                {
+                    "id": 218355,
+                    "resource_id": 39,
+                    "text": "Dan kami telah tetapkan atas mereka di dalam kitab Taurat itu, bahawa jiwa dibalas dengan jiwa, dan mata dibalas dengan mata, dan hidung dibalas dengan hidung, dan telinga dibalas dengan telinga, dan gigi dibalas dengan gigi, dan luka-luka hendaklah dibalas (seimbang). Tetapi sesiapa yang melepaskan hak membalasnya, maka menjadilah ia penebus dosa baginya; dan sesiapa yang tidak menghukum dengan apa yang telah diturunkan Allah, maka mereka itulah orang-orang yang zalim."
+                },
+                {
+                    "id": 1091691,
+                    "resource_id": 161,
+                    "text": "আমি তাদের জন্য তাতে বিধান দিয়েছিলাম যে, জানের বদলে জান, চোখের বদলে চোখ, নাকের বদলে নাক, কানের বদলে কান, আর দাঁতের বদলে দাঁত। আর জখমের বদলে অনুরূপ জখম। কেউ ক্ষমা করে দিলে তাতে তারই পাপ মোচন হবে। আল্লাহ যা নাযিল করেছেন সে অনুযায়ী যারা বিচার ফায়সালা করে না তারাই যালিম।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 4,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 4
+    }
+}

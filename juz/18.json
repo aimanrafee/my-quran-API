@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 2674,
+            "verse_number": 1,
+            "verse_key": "23:1",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 295,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": " قَدْ أَفْلَحَ ٱلْمُؤْمِنُونَ",
+            "page_number": 342,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97800,
+                    "resource_id": 20,
+                    "text": "Certainly will the believers have succeeded:"
+                },
+                {
+                    "id": 216320,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya berjayalah orang-orang yang beriman,"
+                },
+                {
+                    "id": 1093651,
+                    "resource_id": 161,
+                    "text": "মু’মিনরা সফলকাম হয়ে গেছে।"
+                }
+            ]
+        },
+        {
+            "id": 2675,
+            "verse_number": 2,
+            "verse_key": "23:2",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 295,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِينَ هُمْ فِى صَلَاتِهِمْ خَـٰشِعُونَ",
+            "page_number": 342,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 95641,
+                    "resource_id": 20,
+                    "text": "They who are during their prayer humbly intent"
+                },
+                {
+                    "id": 215699,
+                    "resource_id": 39,
+                    "text": "Iaitu mereka yang khusyuk dalam sembahyangnya;"
+                },
+                {
+                    "id": 1093652,
+                    "resource_id": 161,
+                    "text": "যারা নিজেদের নামাযে বিনয় নম্রতা অবলম্বন করে।"
+                }
+            ]
+        },
+        {
+            "id": 2676,
+            "verse_number": 3,
+            "verse_key": "23:3",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 295,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّذِينَ هُمْ عَنِ ٱللَّغْوِ مُعْرِضُونَ",
+            "page_number": 342,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97839,
+                    "resource_id": 20,
+                    "text": "And they who turn away from ill speech"
+                },
+                {
+                    "id": 215708,
+                    "resource_id": 39,
+                    "text": "Dan mereka yang menjauhkan diri dari perbuatan dan perkataan yang sia-sia;"
+                },
+                {
+                    "id": 1093653,
+                    "resource_id": 161,
+                    "text": "যারা অসার কথাবার্তা এড়িয়ে চলে।"
+                }
+            ]
+        },
+        {
+            "id": 2677,
+            "verse_number": 4,
+            "verse_key": "23:4",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 295,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّذِينَ هُمْ لِلزَّكَوٰةِ فَـٰعِلُونَ",
+            "page_number": 342,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97851,
+                    "resource_id": 20,
+                    "text": "And they who are observant of zakāh"
+                },
+                {
+                    "id": 215722,
+                    "resource_id": 39,
+                    "text": "Dan mereka yang berusaha membersihkan hartanya (dengan menunaikan zakat harta itu);"
+                },
+                {
+                    "id": 1093654,
+                    "resource_id": 161,
+                    "text": "যারা যাকাত দানে সক্রিয়।"
+                }
+            ]
+        },
+        {
+            "id": 2678,
+            "verse_number": 5,
+            "verse_key": "23:5",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 295,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّذِينَ هُمْ لِفُرُوجِهِمْ حَـٰفِظُونَ",
+            "page_number": 342,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97863,
+                    "resource_id": 20,
+                    "text": "And they who guard their private parts"
+                },
+                {
+                    "id": 214729,
+                    "resource_id": 39,
+                    "text": "Dan mereka yang menjaga kehormatannya, -"
+                },
+                {
+                    "id": 1093655,
+                    "resource_id": 161,
+                    "text": "যারা নিজেদের যৌনাঙ্গকে সংরক্ষণ করে।"
+                }
+            ]
+        },
+        {
+            "id": 2679,
+            "verse_number": 6,
+            "verse_key": "23:6",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 295,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "إِلَّا عَلَىٰٓ أَزْوَٰجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَـٰنُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ",
+            "page_number": 342,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97875,
+                    "resource_id": 20,
+                    "text": "Except from their wives or those their right hands possess,<sup foot_note=196854>1</sup> for indeed, they will not be blamed -"
+                },
+                {
+                    "id": 215748,
+                    "resource_id": 39,
+                    "text": "Kecuali kepada isterinya atau hamba sahayanya maka sesungguhnya mereka tidak tercela: -"
+                },
+                {
+                    "id": 1093656,
+                    "resource_id": 161,
+                    "text": "নিজেদের স্ত্রী ও মালিকানাভুক্ত দাসী ব্যতীত, কারণ এ ক্ষেত্রে তারা নিন্দা থেকে মুক্ত।"
+                }
+            ]
+        },
+        {
+            "id": 2680,
+            "verse_number": 7,
+            "verse_key": "23:7",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 295,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَمَنِ ٱبْتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْعَادُونَ",
+            "page_number": 342,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97885,
+                    "resource_id": 20,
+                    "text": "But whoever seeks beyond that, then those are the transgressors -"
+                },
+                {
+                    "id": 215757,
+                    "resource_id": 39,
+                    "text": "Kemudian, sesiapa yang mengingini selain dari yang demikian, maka merekalah orang-orang yang melampaui batas;"
+                },
+                {
+                    "id": 1093657,
+                    "resource_id": 161,
+                    "text": "এদের অতিরিক্ত যারা কামনা করে তারাই সীমালঙ্ঘনকারী।"
+                }
+            ]
+        },
+        {
+            "id": 2681,
+            "verse_number": 8,
+            "verse_key": "23:8",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 295,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّذِينَ هُمْ لِأَمَـٰنَـٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ",
+            "page_number": 342,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97897,
+                    "resource_id": 20,
+                    "text": "And they who are to their trusts and their promises attentive"
+                },
+                {
+                    "id": 215775,
+                    "resource_id": 39,
+                    "text": "Dan mereka yang menjaga amanah dan janjinya;"
+                },
+                {
+                    "id": 1093658,
+                    "resource_id": 161,
+                    "text": "আর যারা নিজেদের আমানাত ও ওয়াদা পূর্ণ করে।"
+                }
+            ]
+        },
+        {
+            "id": 2682,
+            "verse_number": 9,
+            "verse_key": "23:9",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 295,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّذِينَ هُمْ عَلَىٰ صَلَوَٰتِهِمْ يُحَافِظُونَ",
+            "page_number": 342,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97909,
+                    "resource_id": 20,
+                    "text": "And they who carefully maintain their prayers -"
+                },
+                {
+                    "id": 215777,
+                    "resource_id": 39,
+                    "text": "Dan mereka yang tetap memelihara sembahyangnya;"
+                },
+                {
+                    "id": 1093659,
+                    "resource_id": 161,
+                    "text": "আর যারা নিজেদের নামাযের ব্যাপারে যত্নবান।"
+                }
+            ]
+        },
+        {
+            "id": 2683,
+            "verse_number": 10,
+            "verse_key": "23:10",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 295,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "أُو۟لَـٰٓئِكَ هُمُ ٱلْوَٰرِثُونَ",
+            "page_number": 342,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97801,
+                    "resource_id": 20,
+                    "text": "Those are the inheritors"
+                },
+                {
+                    "id": 216323,
+                    "resource_id": 39,
+                    "text": "Mereka itulah orang-orang yang berhak mewarisi -"
+                },
+                {
+                    "id": 1093660,
+                    "resource_id": 161,
+                    "text": "তারাই হল উত্তরাধিকারী।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 21,
+        "total_records": 202
+    }
+}

@@ -1,0 +1,251 @@
+{
+    "verses": [
+        {
+            "id": 6099,
+            "verse_number": 1,
+            "verse_key": "95:1",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 539,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلتِّينِ وَٱلزَّيْتُونِ",
+            "page_number": 597,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102295,
+                    "resource_id": 20,
+                    "text": "By the fig and the olive<sup foot_note=197782>1</sup>"
+                },
+                {
+                    "id": 214626,
+                    "resource_id": 39,
+                    "text": "Demi buah Tiin dan Zaitun,"
+                },
+                {
+                    "id": 1097076,
+                    "resource_id": 161,
+                    "text": "শপথ তীন ও যায়তূন-এর (যা জন্মে সিরিয়া ও ফিলিস্তিন এলাকায় যে স্থান বহু পুণ্যময় নবী ও রসূলের স্মৃতিতে ধন্য)।"
+                }
+            ]
+        },
+        {
+            "id": 6100,
+            "verse_number": 2,
+            "verse_key": "95:2",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 539,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَطُورِ سِينِينَ",
+            "page_number": 597,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102297,
+                    "resource_id": 20,
+                    "text": "And [by] Mount Sinai"
+                },
+                {
+                    "id": 215021,
+                    "resource_id": 39,
+                    "text": "Dan Gunung Tursina,"
+                },
+                {
+                    "id": 1097077,
+                    "resource_id": 161,
+                    "text": "শপথ সিনাই পর্বতের (যা নবী মূসার স্মৃতি বিজড়িত),"
+                }
+            ]
+        },
+        {
+            "id": 6101,
+            "verse_number": 3,
+            "verse_key": "95:3",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 539,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَهَـٰذَا ٱلْبَلَدِ ٱلْأَمِينِ",
+            "page_number": 597,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102299,
+                    "resource_id": 20,
+                    "text": "And [by] this secure city [i.e., Makkah],"
+                },
+                {
+                    "id": 220124,
+                    "resource_id": 39,
+                    "text": "Serta negeri (Makkah) yang aman ini, -"
+                },
+                {
+                    "id": 1097078,
+                    "resource_id": 161,
+                    "text": "আর (ইবরাহীম ও ইসমাঈল কর্তৃক নির্মিত কা‘বার) এই নিরাপদ নগরীর শপথ,"
+                }
+            ]
+        },
+        {
+            "id": 6102,
+            "verse_number": 4,
+            "verse_key": "95:4",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 539,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِىٓ أَحْسَنِ تَقْوِيمٍ",
+            "page_number": 597,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102301,
+                    "resource_id": 20,
+                    "text": "We have certainly created man in the best of stature;<sup foot_note=197783>1</sup>"
+                },
+                {
+                    "id": 220126,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Kami telah menciptakan manusia dalam bentuk yang sebaik-baiknya (dan berkelengkapan sesuai dengan keadaannya)."
+                },
+                {
+                    "id": 1097079,
+                    "resource_id": 161,
+                    "text": "আমি মানুষকে সৃষ্টি করেছি অতি উত্তম আকার আকৃতি দিয়ে, (এবং জ্ঞান ও যোগ্যতা দিয়ে যার সুন্দরতম নমুনা হল নবী রসূলগণ)।"
+                }
+            ]
+        },
+        {
+            "id": 6103,
+            "verse_number": 5,
+            "verse_key": "95:5",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 539,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ثُمَّ رَدَدْنَـٰهُ أَسْفَلَ سَـٰفِلِينَ",
+            "page_number": 597,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102303,
+                    "resource_id": 20,
+                    "text": "Then We return him to the lowest of the low,<sup foot_note=197784>1</sup>"
+                },
+                {
+                    "id": 220128,
+                    "resource_id": 39,
+                    "text": "Kemudian (jika ia panjang umur sehingga tua atau menyalahgunakan kelengkapan itu), Kami kembalikan dia ke serendah-rendah peringkat orang-orang yang rendah,"
+                },
+                {
+                    "id": 1097080,
+                    "resource_id": 161,
+                    "text": "আবার উল্টোদিকে তাকে করেছি হীনদের হীনমত (যেমন আল্লাহ বিদ্রোহী কাফির, অত্যাচারী রাজা-বাদশা-শাসক, খুনী, পুতুল পূজারী ইত্যাদি)।"
+                }
+            ]
+        },
+        {
+            "id": 6104,
+            "verse_number": 6,
+            "verse_key": "95:6",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 539,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+            "page_number": 597,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102305,
+                    "resource_id": 20,
+                    "text": "Except for those who believe and do righteous deeds, for they will have a reward uninterrupted."
+                },
+                {
+                    "id": 220130,
+                    "resource_id": 39,
+                    "text": "Kecuali orang-orang yang beriman dan beramal soleh, maka mereka beroleh pahala yang tidak putus-putus."
+                },
+                {
+                    "id": 1097081,
+                    "resource_id": 161,
+                    "text": "কিন্তু তাদেরকে নয় যারা ঈমান আনে ও সৎ কাজ করে, তাদের জন্য তো আছে অফুরন্ত প্রতিদান।"
+                }
+            ]
+        },
+        {
+            "id": 6105,
+            "verse_number": 7,
+            "verse_key": "95:7",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 539,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَمَا يُكَذِّبُكَ بَعْدُ بِٱلدِّينِ",
+            "page_number": 597,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102307,
+                    "resource_id": 20,
+                    "text": "So what yet causes you to deny the Recompense?<sup foot_note=197785>1</sup>"
+                },
+                {
+                    "id": 220132,
+                    "resource_id": 39,
+                    "text": "(Jika demikian kekuasaanKu), maka apa pula yang menjadikan engkau seorang pendusta, (berkata tidak benar) mengenai hari pembalasan, sesudah (ternyata dalil-dalil yang membuktikan kekuasaanKu mengadakan hari pembalasan) itu?"
+                },
+                {
+                    "id": 1097082,
+                    "resource_id": 161,
+                    "text": "(ভাল কাজের পুরস্কার দেয়া আর অন্যায় কাজের শাস্তি দেয়াই ইনসাফপূর্ণ কথা) কাজেই শেষ বিচারের দিনকে অস্বীকার করতে কিসে তোমাদেরকে উদ্বুদ্ধ করছে?"
+                }
+            ]
+        },
+        {
+            "id": 6106,
+            "verse_number": 8,
+            "verse_key": "95:8",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 539,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَلَيْسَ ٱللَّهُ بِأَحْكَمِ ٱلْحَـٰكِمِينَ",
+            "page_number": 597,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102309,
+                    "resource_id": 20,
+                    "text": "Is not Allāh the most just of judges?"
+                },
+                {
+                    "id": 220134,
+                    "resource_id": 39,
+                    "text": "Bukankah Allah (yang demikian kekuasaanNya) seadil-adil Hakim?"
+                },
+                {
+                    "id": 1097083,
+                    "resource_id": 161,
+                    "text": "আল্লাহ কি বিচারকদের মধ্যে শ্রেষ্ঠতম (বিচারক) নন?"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 8
+    }
+}

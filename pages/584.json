@@ -1,0 +1,941 @@
+{
+    "verses": [
+        {
+            "id": 5728,
+            "verse_number": 16,
+            "verse_key": "79:16",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 233,
+            "ruku_number": 522,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِذْ نَادَىٰهُ رَبُّهُۥ بِٱلْوَادِ ٱلْمُقَدَّسِ طُوًى",
+            "page_number": 584,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101755,
+                    "resource_id": 20,
+                    "text": "When his Lord called to him in the sacred valley of Ṭuwā,"
+                },
+                {
+                    "id": 216379,
+                    "resource_id": 39,
+                    "text": "Ketika ia diseru oleh Tuhannya di \"Wadi Tuwa\" yang suci; -"
+                },
+                {
+                    "id": 1096705,
+                    "resource_id": 161,
+                    "text": "যখন তার প্রতিপালক তাকে পবিত্র তুয়া প্রান্তরে ডাক দিয়ে বলেছিলেন"
+                }
+            ]
+        },
+        {
+            "id": 5729,
+            "verse_number": 17,
+            "verse_key": "79:17",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 233,
+            "ruku_number": 522,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+            "page_number": 584,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101756,
+                    "resource_id": 20,
+                    "text": "\"Go to Pharaoh. Indeed, he has transgressed."
+                },
+                {
+                    "id": 219582,
+                    "resource_id": 39,
+                    "text": "(Lalu diperintahkan kepadanya): \"Pergilah kepada Firaun, sesungguhnya ia telah melampaui batas (dalam kekufuran dan kezalimannya);"
+                },
+                {
+                    "id": 1096706,
+                    "resource_id": 161,
+                    "text": "‘ফেরাউনের কাছে যাও, সে সীমালঙ্ঘন করেছে,"
+                }
+            ]
+        },
+        {
+            "id": 5730,
+            "verse_number": 18,
+            "verse_key": "79:18",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 233,
+            "ruku_number": 522,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَقُلْ هَل لَّكَ إِلَىٰٓ أَن تَزَكَّىٰ",
+            "page_number": 584,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101757,
+                    "resource_id": 20,
+                    "text": "And say to him, 'Would you [be willing to] purify yourself"
+                },
+                {
+                    "id": 219585,
+                    "resource_id": 39,
+                    "text": "\"Serta katakanlah kepadanya: `Adakah engkau suka hendak mensucikan dirimu (dari kekufuran)?"
+                },
+                {
+                    "id": 1096707,
+                    "resource_id": 161,
+                    "text": "তাকে জিজ্ঞেস কর, ‘তুমি কি পবিত্রতা অবলম্বন করতে ইচ্ছুক?"
+                }
+            ]
+        },
+        {
+            "id": 5731,
+            "verse_number": 19,
+            "verse_key": "79:19",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 233,
+            "ruku_number": 522,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَهْدِيَكَ إِلَىٰ رَبِّكَ فَتَخْشَىٰ",
+            "page_number": 584,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101758,
+                    "resource_id": 20,
+                    "text": "And let me guide you to your Lord so you would fear [Him]?'\""
+                },
+                {
+                    "id": 219584,
+                    "resource_id": 39,
+                    "text": "`Dan mahukah, aku tunjuk kepadamu jalan mengenal Tuhanmu, supaya engkau merasa takut (melanggar perintahNya)? ' \""
+                },
+                {
+                    "id": 1096708,
+                    "resource_id": 161,
+                    "text": "আর আমি তোমাকে তোমার প্রতিপালকের দিকে পথ দেখাই যাতে তুমি তাঁকে ভয় কর?’"
+                }
+            ]
+        },
+        {
+            "id": 5732,
+            "verse_number": 20,
+            "verse_key": "79:20",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 233,
+            "ruku_number": 522,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+            "page_number": 584,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101761,
+                    "resource_id": 20,
+                    "text": "And he showed him the greatest sign,<sup foot_note=197693>1</sup>"
+                },
+                {
+                    "id": 219588,
+                    "resource_id": 39,
+                    "text": "(Setelah Nabi Musa menyempurnakan perintah Tuhannya, dan Firaun pun meminta bukti kebenarannya); maka Nabi Musa memperlihatkan kepada Firaun: mukjizat yang besar."
+                },
+                {
+                    "id": 1096709,
+                    "resource_id": 161,
+                    "text": "অতঃপর মূসা তাকে বিরাট নিদর্শন দেখাল।"
+                }
+            ]
+        },
+        {
+            "id": 5733,
+            "verse_number": 21,
+            "verse_key": "79:21",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 233,
+            "ruku_number": 522,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَكَذَّبَ وَعَصَىٰ",
+            "page_number": 584,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101762,
+                    "resource_id": 20,
+                    "text": "But he [i.e., Pharaoh] denied and disobeyed."
+                },
+                {
+                    "id": 219589,
+                    "resource_id": 39,
+                    "text": "Lalu Firaun mendustakan (Nabi Musa) dan menderhaka (kepada Allah);"
+                },
+                {
+                    "id": 1096710,
+                    "resource_id": 161,
+                    "text": "কিন্তু সে অস্বীকার করল ও অমান্য করল।"
+                }
+            ]
+        },
+        {
+            "id": 5734,
+            "verse_number": 22,
+            "verse_key": "79:22",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 233,
+            "ruku_number": 522,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ثُمَّ أَدْبَرَ يَسْعَىٰ",
+            "page_number": 584,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101763,
+                    "resource_id": 20,
+                    "text": "Then he turned his back, striving [i.e., plotting].<sup foot_note=197694>1</sup>"
+                },
+                {
+                    "id": 219593,
+                    "resource_id": 39,
+                    "text": "Kemudian ia berpaling ingkar sambil menjalankan usahanya (menentang Nabi Musa)."
+                },
+                {
+                    "id": 1096711,
+                    "resource_id": 161,
+                    "text": "অতঃপর সে (আল্লাহর বিরুদ্ধে) জোর প্রচেষ্টা চালানোর জন্য (সত্যের) উল্টোপথে ফিরে গেল।"
+                }
+            ]
+        },
+        {
+            "id": 5735,
+            "verse_number": 23,
+            "verse_key": "79:23",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 233,
+            "ruku_number": 522,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَحَشَرَ فَنَادَىٰ",
+            "page_number": 584,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101764,
+                    "resource_id": 20,
+                    "text": "And he gathered [his people] and called out."
+                },
+                {
+                    "id": 219590,
+                    "resource_id": 39,
+                    "text": "Lalu ia menghimpunkan orang-orangnya dan menyeru, -"
+                },
+                {
+                    "id": 1096712,
+                    "resource_id": 161,
+                    "text": "সে লোকদেরকে একত্রিত করল আর ঘোষণা দিল।"
+                }
+            ]
+        },
+        {
+            "id": 5736,
+            "verse_number": 24,
+            "verse_key": "79:24",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 233,
+            "ruku_number": 522,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَقَالَ أَنَا۠ رَبُّكُمُ ٱلْأَعْلَىٰ",
+            "page_number": 584,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101765,
+                    "resource_id": 20,
+                    "text": "And said, \"I am your most exalted lord.\""
+                },
+                {
+                    "id": 219591,
+                    "resource_id": 39,
+                    "text": "Dengan berkata: \"Akulah tuhan kamu, yang tertinggi\"."
+                },
+                {
+                    "id": 1096713,
+                    "resource_id": 161,
+                    "text": "সে বলল, ‘আমিই তোমাদের সর্বশ্রেষ্ঠ রব’।"
+                }
+            ]
+        },
+        {
+            "id": 5737,
+            "verse_number": 25,
+            "verse_key": "79:25",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 233,
+            "ruku_number": 522,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَأَخَذَهُ ٱللَّهُ نَكَالَ ٱلْـَٔاخِرَةِ وَٱلْأُولَىٰٓ",
+            "page_number": 584,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101766,
+                    "resource_id": 20,
+                    "text": "So Allāh seized him in exemplary punishment for the last and the first [transgression].<sup foot_note=197695>1</sup>."
+                },
+                {
+                    "id": 219592,
+                    "resource_id": 39,
+                    "text": "Maka Allah menyeksa Firaun di akhirat dan di dunia ini, dengan azab yang menakutkan sesiapa yang mengetahuinya."
+                },
+                {
+                    "id": 1096714,
+                    "resource_id": 161,
+                    "text": "পরিশেষে আল্লাহ তাকে আখেরাত ও দুনিয়ার ‘আযাবে পাকড়াও করলেন।"
+                }
+            ]
+        },
+        {
+            "id": 5738,
+            "verse_number": 26,
+            "verse_key": "79:26",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 233,
+            "ruku_number": 522,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ فِى ذَٰلِكَ لَعِبْرَةً لِّمَن يَخْشَىٰٓ",
+            "page_number": 584,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101767,
+                    "resource_id": 20,
+                    "text": "Indeed in that is a lesson [i.e., warning] for whoever would fear [Allāh]."
+                },
+                {
+                    "id": 219594,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya yang demikian itu mengandungi pelajaran yang mendatangkan iktibar bagi orang-orang yang takut (melanggar perintah Tuhannya)."
+                },
+                {
+                    "id": 1096715,
+                    "resource_id": 161,
+                    "text": "যে ভয় করে এমন প্রতিটি লোকের জন্য এতে অবশ্যই শিক্ষা আছে।"
+                }
+            ]
+        },
+        {
+            "id": 5739,
+            "verse_number": 27,
+            "verse_key": "79:27",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 233,
+            "ruku_number": 523,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ءَأَنتُمْ أَشَدُّ خَلْقًا أَمِ ٱلسَّمَآءُ ۚ بَنَىٰهَا",
+            "page_number": 584,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101768,
+                    "resource_id": 20,
+                    "text": "Are you a more difficult creation or is the heaven? He [i.e., Allāh] constructed it."
+                },
+                {
+                    "id": 219595,
+                    "resource_id": 39,
+                    "text": "(Wahai golongan yang ingkarkan kebangkitan hidup semula!) Kamukah yang sukar diciptakan atau langit? Tuhan telah membinanya (dengan Kukuh)!"
+                },
+                {
+                    "id": 1096716,
+                    "resource_id": 161,
+                    "text": "তোমাদের সৃষ্টি বেশি কঠিন না আকাশের? তিনি তো সেটা সৃষ্টি করেছেন।"
+                }
+            ]
+        },
+        {
+            "id": 5740,
+            "verse_number": 28,
+            "verse_key": "79:28",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 233,
+            "ruku_number": 523,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "رَفَعَ سَمْكَهَا فَسَوَّىٰهَا",
+            "page_number": 584,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101769,
+                    "resource_id": 20,
+                    "text": "He raised its ceiling and proportioned it."
+                },
+                {
+                    "id": 219596,
+                    "resource_id": 39,
+                    "text": "Ia telah meninggikan bangunan langit itu lalu menyempurnaKannya,"
+                },
+                {
+                    "id": 1096717,
+                    "resource_id": 161,
+                    "text": "তার ছাদ অনেক উচ্চে তুলেছেন, অতঃপর তাকে ভারসাম্যপূর্ণ করেছেন।"
+                }
+            ]
+        },
+        {
+            "id": 5741,
+            "verse_number": 29,
+            "verse_key": "79:29",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 233,
+            "ruku_number": 523,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحَىٰهَا",
+            "page_number": 584,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101770,
+                    "resource_id": 20,
+                    "text": "And He darkened its night and extracted its brightness.<sup foot_note=197696>1</sup>"
+                },
+                {
+                    "id": 219598,
+                    "resource_id": 39,
+                    "text": "Dan Ia menjadikan malamnya gelap-gelita, serta menjadikan siangnya terang-benderang."
+                },
+                {
+                    "id": 1096718,
+                    "resource_id": 161,
+                    "text": "তিনি তার রাতকে আঁধারে ঢেকে দিয়েছেন, আর তার দিবালোক প্রকাশ করেছেন।"
+                }
+            ]
+        },
+        {
+            "id": 5742,
+            "verse_number": 30,
+            "verse_key": "79:30",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 233,
+            "ruku_number": 523,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلْأَرْضَ بَعْدَ ذَٰلِكَ دَحَىٰهَآ",
+            "page_number": 584,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101773,
+                    "resource_id": 20,
+                    "text": "And after that He spread the earth."
+                },
+                {
+                    "id": 219600,
+                    "resource_id": 39,
+                    "text": "Dan bumi sesudah itu dihamparkannya (untuk kemudahan penduduknya), -"
+                },
+                {
+                    "id": 1096719,
+                    "resource_id": 161,
+                    "text": "অতঃপর তিনি যমীনকে বিস্তীর্ণ করেছেন।"
+                }
+            ]
+        },
+        {
+            "id": 5743,
+            "verse_number": 31,
+            "verse_key": "79:31",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 233,
+            "ruku_number": 523,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَخْرَجَ مِنْهَا مَآءَهَا وَمَرْعَىٰهَا",
+            "page_number": 584,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101774,
+                    "resource_id": 20,
+                    "text": "He extracted from it its water and its pasture,"
+                },
+                {
+                    "id": 219469,
+                    "resource_id": 39,
+                    "text": "Ia mengeluarkan dari bumi itu: airnya dan tumbuh-tumbuhannya;"
+                },
+                {
+                    "id": 1096720,
+                    "resource_id": 161,
+                    "text": "তিনি তার ভিতর থেকে বের করেছেন তার পানি ও তার তৃণভূমি।"
+                }
+            ]
+        },
+        {
+            "id": 5744,
+            "verse_number": 32,
+            "verse_key": "79:32",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 233,
+            "ruku_number": 523,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلْجِبَالَ أَرْسَىٰهَا",
+            "page_number": 584,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101775,
+                    "resource_id": 20,
+                    "text": "And the mountains He set firmly"
+                },
+                {
+                    "id": 219601,
+                    "resource_id": 39,
+                    "text": "Dan gunung-ganang pula dikukuhkan letaknya (di bumi, sebagai pancang pasak yang menetapnya);"
+                },
+                {
+                    "id": 1096721,
+                    "resource_id": 161,
+                    "text": "পবর্তকে তিনি দৃঢ়ভাবে প্রতিষ্ঠিত করেছেন,"
+                }
+            ]
+        },
+        {
+            "id": 5745,
+            "verse_number": 33,
+            "verse_key": "79:33",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 233,
+            "ruku_number": 523,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "مَتَـٰعًا لَّكُمْ وَلِأَنْعَـٰمِكُمْ",
+            "page_number": 584,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101776,
+                    "resource_id": 20,
+                    "text": "As enjoyment [i.e., provision] for you and your grazing livestock."
+                },
+                {
+                    "id": 219602,
+                    "resource_id": 39,
+                    "text": "(Semuanya itu) untuk kegunaan kamu dan binatang-binatang ternak kamu."
+                },
+                {
+                    "id": 1096722,
+                    "resource_id": 161,
+                    "text": "এ সমস্ত তোমাদের আর তোমাদের গৃহপালিত পশুগুলোর জীবিকার সামগ্রী।"
+                }
+            ]
+        },
+        {
+            "id": 5746,
+            "verse_number": 34,
+            "verse_key": "79:34",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 233,
+            "ruku_number": 523,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَإِذَا جَآءَتِ ٱلطَّآمَّةُ ٱلْكُبْرَىٰ",
+            "page_number": 584,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101777,
+                    "resource_id": 20,
+                    "text": "But when there comes the greatest Overwhelming Calamity<sup foot_note=197697>1</sup> -"
+                },
+                {
+                    "id": 219603,
+                    "resource_id": 39,
+                    "text": "Maka apabila datang hari yang bencananya amat besar, -"
+                },
+                {
+                    "id": 1096723,
+                    "resource_id": 161,
+                    "text": "অতঃপর যখন মহাসংকট এসে যাবে।"
+                }
+            ]
+        },
+        {
+            "id": 5747,
+            "verse_number": 35,
+            "verse_key": "79:35",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 233,
+            "ruku_number": 523,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "يَوْمَ يَتَذَكَّرُ ٱلْإِنسَـٰنُ مَا سَعَىٰ",
+            "page_number": 584,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101778,
+                    "resource_id": 20,
+                    "text": "The Day when man will remember that for which he strove,"
+                },
+                {
+                    "id": 219604,
+                    "resource_id": 39,
+                    "text": "Iaitu hari manusia akan mengingati apa yang telah diusahakannya, -"
+                },
+                {
+                    "id": 1096724,
+                    "resource_id": 161,
+                    "text": "সেদিন মানুষ স্মরণ করবে যা কিছু করার জন্য সে জোর প্রচেষ্টা চালিয়েছে।"
+                }
+            ]
+        },
+        {
+            "id": 5748,
+            "verse_number": 36,
+            "verse_key": "79:36",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 233,
+            "ruku_number": 523,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَبُرِّزَتِ ٱلْجَحِيمُ لِمَن يَرَىٰ",
+            "page_number": 584,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101779,
+                    "resource_id": 20,
+                    "text": "And Hellfire will be exposed for [all] those who see -"
+                },
+                {
+                    "id": 219605,
+                    "resource_id": 39,
+                    "text": "Dan neraka diperlihatkan kepada sesiapa sahaja yang dapat melihatnya, -"
+                },
+                {
+                    "id": 1096725,
+                    "resource_id": 161,
+                    "text": "এবং জাহান্নামকে দেখানো হবে এমন ব্যক্তিকে যে দেখতে পায়।"
+                }
+            ]
+        },
+        {
+            "id": 5749,
+            "verse_number": 37,
+            "verse_key": "79:37",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 233,
+            "ruku_number": 523,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَأَمَّا مَن طَغَىٰ",
+            "page_number": 584,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101780,
+                    "resource_id": 20,
+                    "text": "So as for he who transgressed"
+                },
+                {
+                    "id": 219606,
+                    "resource_id": 39,
+                    "text": "Maka (dapatlah masing-masing mengetahui kesudahannya); adapun orang yang melampau (perbuatan derhakanya), -"
+                },
+                {
+                    "id": 1096726,
+                    "resource_id": 161,
+                    "text": "অতঃপর (দুনিয়ায়) যে লোক সীমালঙ্ঘন করেছিল,"
+                }
+            ]
+        },
+        {
+            "id": 5750,
+            "verse_number": 38,
+            "verse_key": "79:38",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 233,
+            "ruku_number": 523,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَءَاثَرَ ٱلْحَيَوٰةَ ٱلدُّنْيَا",
+            "page_number": 584,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101781,
+                    "resource_id": 20,
+                    "text": "And preferred the life of the world,"
+                },
+                {
+                    "id": 219608,
+                    "resource_id": 39,
+                    "text": "Serta ia mengutamakan kehidupan dunia semata-mata, -"
+                },
+                {
+                    "id": 1096727,
+                    "resource_id": 161,
+                    "text": "আর পার্থিব জীবনকে (পরকালের উপর) প্রাধান্য দিয়েছিল"
+                }
+            ]
+        },
+        {
+            "id": 5751,
+            "verse_number": 39,
+            "verse_key": "79:39",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 233,
+            "ruku_number": 523,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَإِنَّ ٱلْجَحِيمَ هِىَ ٱلْمَأْوَىٰ",
+            "page_number": 584,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101782,
+                    "resource_id": 20,
+                    "text": "Then indeed, Hellfire will be [his] refuge."
+                },
+                {
+                    "id": 219515,
+                    "resource_id": 39,
+                    "text": "Maka sesungguhnya neraka Jahanamlah tempat kediamannya."
+                },
+                {
+                    "id": 1096728,
+                    "resource_id": 161,
+                    "text": "জাহান্নামই হবে তার আবাসস্থল।"
+                }
+            ]
+        },
+        {
+            "id": 5752,
+            "verse_number": 40,
+            "verse_key": "79:40",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 233,
+            "ruku_number": 523,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِۦ وَنَهَى ٱلنَّفْسَ عَنِ ٱلْهَوَىٰ",
+            "page_number": 584,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101785,
+                    "resource_id": 20,
+                    "text": "But as for he who feared the position of his Lord<sup foot_note=197698>1</sup> and prevented the soul from [unlawful] inclination,"
+                },
+                {
+                    "id": 219610,
+                    "resource_id": 39,
+                    "text": "Adapun orang yang takutkan keadaan semasa ia berdiri di mahkamah Tuhannya, (untuk dihitung amalnya), serta ia menahan dirinya dari menurut hawa nafsu, -"
+                },
+                {
+                    "id": 1096729,
+                    "resource_id": 161,
+                    "text": "আর যে লোক তার প্রতিপালকের সামনে দাঁড়ানোকে ভয় করেছিল এবং নিজেকে কামনা বাসনা থেকে নিবৃত্ত রেখেছিল,"
+                }
+            ]
+        },
+        {
+            "id": 5753,
+            "verse_number": 41,
+            "verse_key": "79:41",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 233,
+            "ruku_number": 523,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَإِنَّ ٱلْجَنَّةَ هِىَ ٱلْمَأْوَىٰ",
+            "page_number": 584,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101786,
+                    "resource_id": 20,
+                    "text": "Then indeed, Paradise will be [his] refuge."
+                },
+                {
+                    "id": 219611,
+                    "resource_id": 39,
+                    "text": "Maka sesungguhnya Syurgalah tempat kediamannya."
+                },
+                {
+                    "id": 1096730,
+                    "resource_id": 161,
+                    "text": "জান্নাতই হবে তার বাসস্থান।"
+                }
+            ]
+        },
+        {
+            "id": 5754,
+            "verse_number": 42,
+            "verse_key": "79:42",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 233,
+            "ruku_number": 523,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "يَسْـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرْسَىٰهَا",
+            "page_number": 584,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101787,
+                    "resource_id": 20,
+                    "text": "They ask you, [O Muḥammad], about the Hour: when is its arrival?<sup foot_note=197699>1</sup>"
+                },
+                {
+                    "id": 219612,
+                    "resource_id": 39,
+                    "text": "Mereka (yang ingkar) selalu bertanya kepadamu (wahai Muhammad) tentang hari kiamat: \"Bilakah masa datangnya?\""
+                },
+                {
+                    "id": 1096731,
+                    "resource_id": 161,
+                    "text": "এরা তোমাকে জিজ্ঞেস করে ক্বিয়ামত সম্পর্কে- ‘কখন তা ঘটবে?’"
+                }
+            ]
+        },
+        {
+            "id": 5755,
+            "verse_number": 43,
+            "verse_key": "79:43",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 233,
+            "ruku_number": 523,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فِيمَ أَنتَ مِن ذِكْرَىٰهَآ",
+            "page_number": 584,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101788,
+                    "resource_id": 20,
+                    "text": "In what [position] are you that you should mention it?<sup foot_note=197700>1</sup>"
+                },
+                {
+                    "id": 219613,
+                    "resource_id": 39,
+                    "text": "Apa hubungannya tugasmu dengan (soal) menerangkan masa kedatangan hari kiamat itu?"
+                },
+                {
+                    "id": 1096732,
+                    "resource_id": 161,
+                    "text": "এর আলোচনার সাথে তোমার কী সম্পর্ক?"
+                }
+            ]
+        },
+        {
+            "id": 5756,
+            "verse_number": 44,
+            "verse_key": "79:44",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 233,
+            "ruku_number": 523,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِلَىٰ رَبِّكَ مُنتَهَىٰهَآ",
+            "page_number": 584,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101789,
+                    "resource_id": 20,
+                    "text": "To your Lord is its finality.<sup foot_note=197701>1</sup>"
+                },
+                {
+                    "id": 219616,
+                    "resource_id": 39,
+                    "text": "Kepada Tuhanmu lah terserah kesudahan ilmu mengenainya."
+                },
+                {
+                    "id": 1096733,
+                    "resource_id": 161,
+                    "text": "এ সংক্রান্ত জ্ঞান তোমার প্রতিপালক পর্যন্তই শেষ।"
+                }
+            ]
+        },
+        {
+            "id": 5757,
+            "verse_number": 45,
+            "verse_key": "79:45",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 233,
+            "ruku_number": 523,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّمَآ أَنتَ مُنذِرُ مَن يَخْشَىٰهَا",
+            "page_number": 584,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101790,
+                    "resource_id": 20,
+                    "text": "You are only a warner for those who fear it."
+                },
+                {
+                    "id": 219614,
+                    "resource_id": 39,
+                    "text": "Tugasmu hanyalah memberi amaran kepada orang yang takut akan huru-hara hari kiamat itu."
+                },
+                {
+                    "id": 1096734,
+                    "resource_id": 161,
+                    "text": "যারা একে ভয় করে তুমি কেবল তাদের সতর্ককারী।"
+                }
+            ]
+        },
+        {
+            "id": 5758,
+            "verse_number": 46,
+            "verse_key": "79:46",
+            "hizb_number": 59,
+            "rub_el_hizb_number": 233,
+            "ruku_number": 523,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُوٓا۟ إِلَّا عَشِيَّةً أَوْ ضُحَىٰهَا",
+            "page_number": 584,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 101791,
+                    "resource_id": 20,
+                    "text": "It will be, on the Day they see it,<sup foot_note=197702>1</sup> as though they had not remained [in the world] except for an afternoon or a morning thereof."
+                },
+                {
+                    "id": 219615,
+                    "resource_id": 39,
+                    "text": "(Sangatlah dahsyatnya huru-hara hari itu, sehingga orang-orang yang bersalah merasa) pada masa melihatnya: seolah-olah mereka tidak tinggal di dunia melainkan sekadar satu petang atau paginya sahaja."
+                },
+                {
+                    "id": 1096735,
+                    "resource_id": 161,
+                    "text": "যেদিন তারা তা দেখবে সেদিন তাদের মনে হবে, যেন তারা (পৃথিবীতে) এক সন্ধ্যা বা এক সকালের বেশি অবস্থান করেনি।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 30,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 30
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "verses": [
+        {
+            "id": 65,
+            "verse_number": 58,
+            "verse_key": "2:58",
+            "hizb_number": 1,
+            "rub_el_hizb_number": 3,
+            "ruku_number": 7,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذْ قُلْنَا ٱدْخُلُوا۟ هَـٰذِهِ ٱلْقَرْيَةَ فَكُلُوا۟ مِنْهَا حَيْثُ شِئْتُمْ رَغَدًا وَٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًا وَقُولُوا۟ حِطَّةٌ نَّغْفِرْ لَكُمْ خَطَـٰيَـٰكُمْ ۚ وَسَنَزِيدُ ٱلْمُحْسِنِينَ",
+            "page_number": 9,
+            "juz_number": 1,
+            "translations": [
+                {
+                    "id": 98081,
+                    "resource_id": 20,
+                    "text": "And [recall] when We said, \"Enter this city [i.e., Jerusalem] and eat from it wherever you will in [ease and] abundance, and enter the gate bowing humbly<sup foot_note=195956>1</sup> and say, 'Relieve us of our burdens [i.e., sins].' We will [then] forgive your sins for you, and We will increase the doers of good [in goodness and reward].\""
+                },
+                {
+                    "id": 215936,
+                    "resource_id": 39,
+                    "text": "Dan (kenangkanlah) ketika Kami berfirman: \"Masuklah kamu ke bandar ini, kemudian makanlah dari benda-benda yang ada di dalamnya dengan sepuas-puasnya, apa sahaja yang kamu sukai. Dan masuklah kamu melalui pintunya dengan tunduk (merendah diri); dan (mintalah ampun dengan) berkata: ' Ya Allah ampunilah dosa kami '; supaya kami ampunkan kesalahan-kesalahan kamu, dan Kami akan tambah pula pahala orang-orang yang berbuat baik\"."
+                },
+                {
+                    "id": 1091042,
+                    "resource_id": 161,
+                    "text": "স্মরণ কর, যখন আমি বললাম, এ জনপদে প্রবেশ কর, সেখানে যা ইচ্ছে স্বচ্ছন্দে আহার কর, দ্বার দিয়ে নতশিরে প্রবেশ কর এবং বল; ‘ক্ষমা চাই’। আমি তোমাদের অপরাধ ক্ষমা করব এবং সৎকর্মশীলদের প্রতি আমার দান বৃদ্ধি করব।"
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "verse_number": 59,
+            "verse_key": "2:59",
+            "hizb_number": 1,
+            "rub_el_hizb_number": 3,
+            "ruku_number": 7,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "فَبَدَّلَ ٱلَّذِينَ ظَلَمُوا۟ قَوْلًا غَيْرَ ٱلَّذِى قِيلَ لَهُمْ فَأَنزَلْنَا عَلَى ٱلَّذِينَ ظَلَمُوا۟ رِجْزًا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+            "page_number": 9,
+            "juz_number": 1,
+            "translations": [
+                {
+                    "id": 98083,
+                    "resource_id": 20,
+                    "text": "But those who wronged changed [those words] to a statement other than that which had been said to them, so We sent down upon those who wronged a punishment [i.e., plague] from the sky because they were defiantly disobeying."
+                },
+                {
+                    "id": 215938,
+                    "resource_id": 39,
+                    "text": "Kemudian orang-orang yang zalim (penderhaka) itu mengubah perkataan (perintah kami) yang dikatakan kepada mereka dengan melakukan sebaliknya; maka Kami turunkan ke atas orang-orang yang zalim itu bala bencana dari langit, dengan sebab mereka sentiasa berlaku fasik (menderhaka)."
+                },
+                {
+                    "id": 1091043,
+                    "resource_id": 161,
+                    "text": "কিন্তু যারা অত্যাচার করেছিল তারা তাদেরকে যা বলা হয়েছিল তার পরিবর্তে অন্য কথা বলল, কাজেই যালিমদের প্রতি আমি আকাশ হতে শাস্তি প্রেরণ করলাম, কারণ তারা সত্য ত্যাগ করেছিল।"
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "verse_number": 60,
+            "verse_key": "2:60",
+            "hizb_number": 1,
+            "rub_el_hizb_number": 4,
+            "ruku_number": 8,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "۞ وَإِذِ ٱسْتَسْقَىٰ مُوسَىٰ لِقَوْمِهِۦ فَقُلْنَا ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ ۖ فَٱنفَجَرَتْ مِنْهُ ٱثْنَتَا عَشْرَةَ عَيْنًا ۖ قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ ۖ كُلُوا۟ وَٱشْرَبُوا۟ مِن رِّزْقِ ٱللَّهِ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+            "page_number": 9,
+            "juz_number": 1,
+            "translations": [
+                {
+                    "id": 98086,
+                    "resource_id": 20,
+                    "text": "And [recall] when Moses prayed for water for his people, so We said, \"Strike with your staff the stone.\" And there gushed forth from it twelve springs, and every people [i.e., tribe] knew its watering place. \"Eat and drink from the provision of Allāh, and do not commit abuse on the earth, spreading corruption.\""
+                },
+                {
+                    "id": 215940,
+                    "resource_id": 39,
+                    "text": "Dan (ingatlah) ketika Nabi Musa memohon supaya diberi air untuk kaumnya, maka Kami berfirman: \"Pukulah batu itu dengan tongkatmu\", (ia pun memukulnya), folalu terpancutlah dari batu itu dua belas mata air; sesungguhnya tiap-tiap satu puak (di antara mereka) telah mengetahui tempat minumnya masing-masing. (Dan Kami berfirman): \"Makanlah dan minumlah kamu dari rezeki Allah itu, dan janganlah kamu merebakkan bencana kerosakan di muka bumi\"."
+                },
+                {
+                    "id": 1091044,
+                    "resource_id": 161,
+                    "text": "স্মরণ কর, যখন মূসা (আ.) তার কওমের জন্য পানি প্রার্থনা করল, আমি বললাম, ‘তোমার লাঠি দ্বারা পাথরে আঘাত কর’। ফলে তাথেকে বারটি ঝর্ণা প্রবাহিত হল, প্রত্যেক গোত্র নিজ নিজ পানের জায়গা চিনে নিল,(বললাম) ‘আল্লাহ প্রদত্ত রিয্ক হতে তোমরা পানাহার কর এবং দুষ্কৃতিকারীর মত পৃথিবীতে ফাসাদ সৃষ্টি করো না’।"
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "verse_number": 61,
+            "verse_key": "2:61",
+            "hizb_number": 1,
+            "rub_el_hizb_number": 4,
+            "ruku_number": 8,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذْ قُلْتُمْ يَـٰمُوسَىٰ لَن نَّصْبِرَ عَلَىٰ طَعَامٍ وَٰحِدٍ فَٱدْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنۢبِتُ ٱلْأَرْضُ مِنۢ بَقْلِهَا وَقِثَّآئِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا ۖ قَالَ أَتَسْتَبْدِلُونَ ٱلَّذِى هُوَ أَدْنَىٰ بِٱلَّذِى هُوَ خَيْرٌ ۚ ٱهْبِطُوا۟ مِصْرًا فَإِنَّ لَكُم مَّا سَأَلْتُمْ ۗ وَضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ وَٱلْمَسْكَنَةُ وَبَآءُو بِغَضَبٍ مِّنَ ٱللَّهِ ۗ ذَٰلِكَ بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّـۧنَ بِغَيْرِ ٱلْحَقِّ ۗ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ",
+            "page_number": 9,
+            "juz_number": 1,
+            "translations": [
+                {
+                    "id": 98087,
+                    "resource_id": 20,
+                    "text": "And [recall] when you said, \"O Moses, we can never endure one [kind of] food. So call upon your Lord to bring forth for us from the earth its green herbs and its cucumbers and its garlic and its lentils and its onions.\" [Moses] said, \"Would you exchange what is better for what is less? Go into [any] settlement and indeed, you will have what you have asked.\" And they were covered with humiliation and poverty and returned with anger from Allāh [upon them]. That was because they [repeatedly] disbelieved in the signs of Allāh and killed the prophets without right. That was because they disobeyed and were [habitually] transgressing."
+                },
+                {
+                    "id": 215942,
+                    "resource_id": 39,
+                    "text": "Dan (kenangkanlah) ketika kamu berkata: \"Wahai Musa, kami tidak sabar (sudah jemu) dengan makanan yang semacam sahaja; maka pohonkanlah kepada Tuhanmu untuk kami, supaya dikeluarkan bagi kami sebahagian dari apa yang tumbuh di bumi; dari sayur-sayurannya, dan mentimunnya, dan bawang putihnya, dan adas (kacang dalnya), serta bawang merahnya\". Nabi Musa menjawab: \"Adakah kamu mahu menukar sesuatu yang kurang baik dengan meninggalkan yang lebih baik? Turunlah kamu ke bandar kerana di sana kamu boleh dapati apa yang kamu minta itu\". Dan mereka ditimpakan dengan kehinaan dan kepapaan, dan sudah sepatutnya mereka mendapat kemurkaan dari Allah. Yang demikian itu ialah disebabkan mereka kufur (mengingkari) ayat-ayat Allah (perintah-perintah dan mukjizat-mukjizat yang membuktikan kebesaranNya); dan mereka pula membunuh Nabi-nabi dengan tidak ada alasan yang benar. Yang demikian itu ialah disebabkan mereka menderhaka dan mereka pula sentiasa menceroboh."
+                },
+                {
+                    "id": 1091045,
+                    "resource_id": 161,
+                    "text": "স্মরণ কর, যখন তোমরা বলেছিলে, ‘হে মূসা! আমরা একই রকম খাদ্যে কক্ষনো ধৈর্য ধারণ করব না, কাজেই তুমি তোমার প্রতিপালকের কাছে আমাদের জন্য দু‘আ কর, তিনি যেন ভূমি হতে উৎপাদিত দ্রব্য শাক-সব্জি, কাঁকড়, গম, মসুর ও পেঁয়াজ আমাদের জন্য উৎপাদন করেন’। মূসা বললঃ ‘তোমরা কি উৎকৃষ্ট বস্তুকে নিকৃষ্ট বস্তুর সঙ্গে বদল করতে চাও, তবে কোন নগরে প্রবেশ কর; তোমরা যা চাও তা সেখানে আছে’ এবং তাদেরকে লাঞ্ছনা ও দারিদ্রের কশাঘাত করা হল ও তারা আল্লাহর কোপে পতিত হল। তা এজন্য যে, তারা আল্লাহর নিদর্শনকে অস্বীকার করত এবং নাবীগণকে অন্যায়ভাবে হত্যা করত। অবাধ্যতা ও সীমালঙ্ঘন করার জন্যই তাদের এ পরিণতি হয়েছিল।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 4,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 4
+    }
+}

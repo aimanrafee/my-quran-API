@@ -1,0 +1,401 @@
+{
+    "verses": [
+        {
+            "id": 5448,
+            "verse_number": 1,
+            "verse_key": "72:1",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 229,
+            "ruku_number": 508,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " قُلْ أُوحِىَ إِلَىَّ أَنَّهُ ٱسْتَمَعَ نَفَرٌ مِّنَ ٱلْجِنِّ فَقَالُوٓا۟ إِنَّا سَمِعْنَا قُرْءَانًا عَجَبًا",
+            "page_number": 572,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101416,
+                    "resource_id": 20,
+                    "text": "Say, [O Muḥammad], \"It has been revealed to me that a group of the jinn listened and said, 'Indeed, we have heard an amazing Qur’ān [i.e., recitation]."
+                },
+                {
+                    "id": 219267,
+                    "resource_id": 39,
+                    "text": "Katakanlah (wahai Muhammad): \"Telah diwahyukan kepadaku, bahawa sesungguhnya: satu rombongan jin telah mendengar (Al-Quran yang aku bacakan), lalu mereka (menyampaikan hal itu kepada kaumnya dengan) berkata: `Sesungguhnya kami telah mendengar Al-Quran (sebuah Kitab Suci) yang susunannya dan kandungannya sungguh menakjubkan!"
+                },
+                {
+                    "id": 1096425,
+                    "resource_id": 161,
+                    "text": "বল, ‘‘আমার কাছে ওয়াহী করা হয়েছে যে, জিন্নদের একটি দল মনোযোগ দিয়ে (কুরআন) শুনেছে অতঃপর তারা বলেছে ‘আমরা এক অতি আশ্চর্যজনক কুরআন শুনেছি"
+                }
+            ]
+        },
+        {
+            "id": 5449,
+            "verse_number": 2,
+            "verse_key": "72:2",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 229,
+            "ruku_number": 508,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًا",
+            "page_number": 572,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101426,
+                    "resource_id": 20,
+                    "text": "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone."
+                },
+                {
+                    "id": 219279,
+                    "resource_id": 39,
+                    "text": "`Kitab yang memberi panduan ke jalan yang betul, lalu kami beriman kepadanya, dan kami tidak sekali-kali akan mempersekutukan sesuatu makhluk dengan Tuhan kami."
+                },
+                {
+                    "id": 1096426,
+                    "resource_id": 161,
+                    "text": "যা সত্য-সঠিক পথ প্রদর্শন করে, যার কারণে আমরা তাতে ঈমান এনেছি, আমরা কক্ষনো কাউকে আমাদের প্রতিপালকের অংশীদার গণ্য করব না।"
+                }
+            ]
+        },
+        {
+            "id": 5450,
+            "verse_number": 3,
+            "verse_key": "72:3",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 229,
+            "ruku_number": 508,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَنَّهُۥ تَعَـٰلَىٰ جَدُّ رَبِّنَا مَا ٱتَّخَذَ صَـٰحِبَةً وَلَا وَلَدًا",
+            "page_number": 572,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101437,
+                    "resource_id": 20,
+                    "text": "And [it teaches] that exalted is the nobleness of our Lord; He has not taken a wife or a son"
+                },
+                {
+                    "id": 219290,
+                    "resource_id": 39,
+                    "text": "`Dan (ketahuilah wahai kaum kami!) Bahawa sesungguhnya: tertinggilah kebesaran dan keagungan Tuhan kita daripada beristeri atau beranak."
+                },
+                {
+                    "id": 1096427,
+                    "resource_id": 161,
+                    "text": "আর আমাদের প্রতিপালকের মর্যাদা অতি উচ্চ, তিনি গ্রহণ করেননি কোন স্ত্রী আর কোন সন্তান।"
+                }
+            ]
+        },
+        {
+            "id": 5451,
+            "verse_number": 4,
+            "verse_key": "72:4",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 229,
+            "ruku_number": 508,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَنَّهُۥ كَانَ يَقُولُ سَفِيهُنَا عَلَى ٱللَّهِ شَطَطًا",
+            "page_number": 572,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101439,
+                    "resource_id": 20,
+                    "text": "And that our foolish one [i.e., Iblees]<sup foot_note=197624>1</sup> has been saying about Allāh an excessive transgression."
+                },
+                {
+                    "id": 219292,
+                    "resource_id": 39,
+                    "text": "`Dan (dengan ajaran Al-Quran nyatalah) bahawa sesungguhnya: (ketua) yang kurang akal pertimbangannya dari kalangan kita telah mengatakan terhadap Allah kata-kata yang melampaui kebenaran;"
+                },
+                {
+                    "id": 1096428,
+                    "resource_id": 161,
+                    "text": "আর আমাদের মধ্যেকার নির্বোধেরা তাঁর সম্পর্কে সীমাতিরিক্ত কথাবার্তা বলত।"
+                }
+            ]
+        },
+        {
+            "id": 5452,
+            "verse_number": 5,
+            "verse_key": "72:5",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 229,
+            "ruku_number": 508,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَنَّا ظَنَنَّآ أَن لَّن تَقُولَ ٱلْإِنسُ وَٱلْجِنُّ عَلَى ٱللَّهِ كَذِبًا",
+            "page_number": 572,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101441,
+                    "resource_id": 20,
+                    "text": "And we had thought that mankind and the jinn would never speak about Allāh a lie."
+                },
+                {
+                    "id": 219294,
+                    "resource_id": 39,
+                    "text": "`Dan bahawa sesungguhnya (nyatalah kesalahan) kita menyangka bahawa manusia dan jin tidak sekali-kali akan berani mengatakan sesuatu yang dusta terhadap Allah."
+                },
+                {
+                    "id": 1096429,
+                    "resource_id": 161,
+                    "text": "আর আমরা ধারণা করতাম যে, মানুষ ও জ্বিন আল্লাহ সম্পর্কে কক্ষনো মিথ্যে কথা বলবে না।"
+                }
+            ]
+        },
+        {
+            "id": 5453,
+            "verse_number": 6,
+            "verse_key": "72:6",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 229,
+            "ruku_number": 508,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَنَّهُۥ كَانَ رِجَالٌ مِّنَ ٱلْإِنسِ يَعُوذُونَ بِرِجَالٍ مِّنَ ٱلْجِنِّ فَزَادُوهُمْ رَهَقًا",
+            "page_number": 572,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101443,
+                    "resource_id": 20,
+                    "text": "And there were men from mankind who sought refuge in men from the jinn, so they [only] increased them in burden [i.e., sin]."
+                },
+                {
+                    "id": 219296,
+                    "resource_id": 39,
+                    "text": "`Dan bahawa sesungguhnya adalah (amat salah perbuatan) beberapa orang dari manusia, menjaga dan melindungi dirinya dengan meminta pertolongan kepada ketua-ketua golongan jin, kerana dengan permintaan itu mereka menjadikan golongan jin bertambah sombong dan jahat."
+                },
+                {
+                    "id": 1096430,
+                    "resource_id": 161,
+                    "text": "আরো এই যে, কতক মানুষ কতক জ্বিনের আশ্রয় নিত, এর দ্বারা তারা জ্বিনদের গর্ব অহঙ্কার বাড়িয়ে দিয়েছে।"
+                }
+            ]
+        },
+        {
+            "id": 5454,
+            "verse_number": 7,
+            "verse_key": "72:7",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 229,
+            "ruku_number": 508,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَنَّهُمْ ظَنُّوا۟ كَمَا ظَنَنتُمْ أَن لَّن يَبْعَثَ ٱللَّهُ أَحَدًا",
+            "page_number": 572,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101445,
+                    "resource_id": 20,
+                    "text": "And they had thought, as you thought, that Allāh would never send anyone [as a messenger]."
+                },
+                {
+                    "id": 219301,
+                    "resource_id": 39,
+                    "text": "`Dan bahawa sesungguhnya (tidaklah benar) manusia menyangka sebagaimana yang kamu sangka, bahawa Allah tidak sekali-kali mengutuskan sebarang Rasul (atau tidak akan membangkitkan manusia pada hari kiamat)."
+                },
+                {
+                    "id": 1096431,
+                    "resource_id": 161,
+                    "text": "আরো এই যে (জ্বিনেরা বলেছিল) তোমরা (জ্বিনেরা) যেমন ধারণা করতে তেমনি মানুষেরা ধারণা করত যে, (মৃত্যুর পর) আল্লাহ কাউকে পুনরুত্থিত করবে না।"
+                }
+            ]
+        },
+        {
+            "id": 5455,
+            "verse_number": 8,
+            "verse_key": "72:8",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 229,
+            "ruku_number": 508,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَنَّا لَمَسْنَا ٱلسَّمَآءَ فَوَجَدْنَـٰهَا مُلِئَتْ حَرَسًا شَدِيدًا وَشُهُبًا",
+            "page_number": 572,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101447,
+                    "resource_id": 20,
+                    "text": "And we have sought [to reach] the heaven but found it filled with powerful guards and burning flames."
+                },
+                {
+                    "id": 219303,
+                    "resource_id": 39,
+                    "text": "`Dan bahawa sesungguhnya kami telah berusaha mencari berita langit, lalu kami dapati langit itu penuh dengan pengawal-pengawal yang sangat kuat kawalannya, dan (dengan rejaman-rejaman) api yang menyala."
+                },
+                {
+                    "id": 1096432,
+                    "resource_id": 161,
+                    "text": "আর আমরা আকাশের খবর নিতে চেয়েছিলাম কিন্তু আমরা সেটাকে পেলাম কঠোর প্রহরী বেষ্টিত ও জ্বলন্ত উল্কাপিন্ডে পরিপূর্ণ।"
+                }
+            ]
+        },
+        {
+            "id": 5456,
+            "verse_number": 9,
+            "verse_key": "72:9",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 229,
+            "ruku_number": 508,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَنَّا كُنَّا نَقْعُدُ مِنْهَا مَقَـٰعِدَ لِلسَّمْعِ ۖ فَمَن يَسْتَمِعِ ٱلْـَٔانَ يَجِدْ لَهُۥ شِهَابًا رَّصَدًا",
+            "page_number": 572,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101449,
+                    "resource_id": 20,
+                    "text": "And we used to sit therein in positions for hearing,<sup foot_note=197625>1</sup> but whoever listens now will find a burning flame lying in wait for him."
+                },
+                {
+                    "id": 219305,
+                    "resource_id": 39,
+                    "text": "`Padahal sesungguhnya kami dahulu biasa menduduki tempat-tempat (perhentian) di langit untuk mendengar (percakapan penduduknya); maka sekarang sesiapa yang cuba mendengar, akan mendapati api yang menyala yang menunggu merejamnya."
+                },
+                {
+                    "id": 1096433,
+                    "resource_id": 161,
+                    "text": "আমরা (আগে) সংবাদ শুনার জন্য আকাশের বিভিন্ন ঘাঁটিতে বসতাম, কিন্তু এখন কেউ সংবাদ শুনতে চাইলে তার উপর নিক্ষেপের জন্য সে জ্বলন্ত অগ্নিকুন্ডকে লুকিয়ে থাকতে দেখে।"
+                }
+            ]
+        },
+        {
+            "id": 5457,
+            "verse_number": 10,
+            "verse_key": "72:10",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 229,
+            "ruku_number": 508,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَنَّا لَا نَدْرِىٓ أَشَرٌّ أُرِيدَ بِمَن فِى ٱلْأَرْضِ أَمْ أَرَادَ بِهِمْ رَبُّهُمْ رَشَدًا",
+            "page_number": 572,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101417,
+                    "resource_id": 20,
+                    "text": "And we do not know [therefore] whether evil is intended for those on earth or whether their Lord intends for them a right course."
+                },
+                {
+                    "id": 219269,
+                    "resource_id": 39,
+                    "text": "`Dan bahawa sesungguhnya kami tidak mengetahui adakah (dengan adanya kawalan langit yang demikian) hendak menimpakan bala bencana kepada penduduk bumi, atau pun Tuhan mereka hendak melimpahkan kebaikan kepada mereka?"
+                },
+                {
+                    "id": 1096434,
+                    "resource_id": 161,
+                    "text": "আমরা জানি না (এই পরিবর্তিত অবস্থার মাধ্যমে) পৃথিবীবাসীর অকল্যাণই চাওয়া হচ্ছে, না তাদের প্রতিপালক তাদেরকে সরল সঠিক পথ দেখাতে চান।"
+                }
+            ]
+        },
+        {
+            "id": 5458,
+            "verse_number": 11,
+            "verse_key": "72:11",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 229,
+            "ruku_number": 508,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًا",
+            "page_number": 572,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101418,
+                    "resource_id": 20,
+                    "text": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways.<sup foot_note=197626>1</sup>"
+                },
+                {
+                    "id": 219270,
+                    "resource_id": 39,
+                    "text": "`Dan bahawa sesungguhnya (memang maklum) ada di antara kita golongan yang baik keadaannya, dan ada di antara kita yang lain dari itu; kita masing-masing adalah menurut jalan dan cara yang berlainan."
+                },
+                {
+                    "id": 1096435,
+                    "resource_id": 161,
+                    "text": "আর আমাদের কিছু সংখ্যক সৎকর্মশীল, আর কতক এমন নয়, আমরা ছিলাম বিভিন্ন মত ও পথে বিভক্ত।"
+                }
+            ]
+        },
+        {
+            "id": 5459,
+            "verse_number": 12,
+            "verse_key": "72:12",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 229,
+            "ruku_number": 508,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَنَّا ظَنَنَّآ أَن لَّن نُّعْجِزَ ٱللَّهَ فِى ٱلْأَرْضِ وَلَن نُّعْجِزَهُۥ هَرَبًا",
+            "page_number": 572,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101419,
+                    "resource_id": 20,
+                    "text": "And we have become certain that we will never cause failure to Allāh upon earth, nor can we escape Him by flight."
+                },
+                {
+                    "id": 214919,
+                    "resource_id": 39,
+                    "text": "`Dan bahawa sesungguhnya kita (sekarang) mengetahui, bahawa kita tidak sekali-kali akan dapat melepaskan diri dari balasan Allah (walau di mana sahaja kita berada) di bumi, dan kita juga tidak sekali-kali akan dapat melarikan diri dari balasanNya (walau ke langit sekalipun)."
+                },
+                {
+                    "id": 1096436,
+                    "resource_id": 161,
+                    "text": "আমরা বুঝতে পেরেছি যে, আমরা পৃথিবীতে আল্লাহকে পরাস্ত করতে পারব না, আর পালিয়েও তাঁকে অপারগ করতে পারব না।"
+                }
+            ]
+        },
+        {
+            "id": 5460,
+            "verse_number": 13,
+            "verse_key": "72:13",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 229,
+            "ruku_number": 508,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَنَّا لَمَّا سَمِعْنَا ٱلْهُدَىٰٓ ءَامَنَّا بِهِۦ ۖ فَمَن يُؤْمِنۢ بِرَبِّهِۦ فَلَا يَخَافُ بَخْسًا وَلَا رَهَقًا",
+            "page_number": 572,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101375,
+                    "resource_id": 20,
+                    "text": "And when we heard the guidance [i.e., the Qur’ān], we believed in it. And whoever believes in his Lord will not fear deprivation or burden.<sup foot_note=197627>1</sup>"
+                },
+                {
+                    "id": 219271,
+                    "resource_id": 39,
+                    "text": "`Dan bahawa sesungguhnya kami, ketika mendengar petunjuk (Al-Quran), kami beriman kepadanya (dengan tidak bertangguh lagi); kerana sesiapa yang beriman kepada Tuhannya, maka tidaklah ia akan merasa bimbang menanggung kerugian (mengenai amalnya yang baik), dan juga tidak akan ditimpakan sebarang kesusahan."
+                },
+                {
+                    "id": 1096437,
+                    "resource_id": 161,
+                    "text": "আরো এই যে, আমরা যখন হিদায়াতের বাণী শুনতে পেলাম, তখন তার উপর ঈমান আনলাম। যে ব্যক্তি তার প্রতিপালকের উপর ঈমান আনে তার কোন ক্ষতি বা যুলমের ভয় থাকবে না।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 13,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 13
+    }
+}

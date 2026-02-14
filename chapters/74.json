@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 5496,
+            "verse_number": 1,
+            "verse_key": "74:1",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 230,
+            "ruku_number": 512,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " يَـٰٓأَيُّهَا ٱلْمُدَّثِّرُ",
+            "page_number": 575,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101492,
+                    "resource_id": 20,
+                    "text": "O you who covers himself [with a garment],<sup foot_note=197644>1</sup>"
+                },
+                {
+                    "id": 219375,
+                    "resource_id": 39,
+                    "text": "Wahai orang yang berselimut!"
+                },
+                {
+                    "id": 1096473,
+                    "resource_id": 161,
+                    "text": "ওহে বস্ত্র আবৃত (ব্যক্তি)!"
+                }
+            ]
+        },
+        {
+            "id": 5497,
+            "verse_number": 2,
+            "verse_key": "74:2",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 230,
+            "ruku_number": 512,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "قُمْ فَأَنذِرْ",
+            "page_number": 575,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101504,
+                    "resource_id": 20,
+                    "text": "Arise and warn."
+                },
+                {
+                    "id": 219299,
+                    "resource_id": 39,
+                    "text": "Bangunlah serta berilah peringatan dan amaran (kepada umat manusia)."
+                },
+                {
+                    "id": 1096474,
+                    "resource_id": 161,
+                    "text": "ওঠ, সতর্ক কর।"
+                }
+            ]
+        },
+        {
+            "id": 5498,
+            "verse_number": 3,
+            "verse_key": "74:3",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 230,
+            "ruku_number": 512,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَرَبَّكَ فَكَبِّرْ",
+            "page_number": 575,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101516,
+                    "resource_id": 20,
+                    "text": "And your Lord glorify."
+                },
+                {
+                    "id": 214921,
+                    "resource_id": 39,
+                    "text": "Dan Tuhanmu, maka ucaplah dan ingatlah kebesaranNya!"
+                },
+                {
+                    "id": 1096475,
+                    "resource_id": 161,
+                    "text": "আর তোমার প্রতিপালকের শ্রেষ্ঠত্ব ঘোষণা কর।"
+                }
+            ]
+        },
+        {
+            "id": 5499,
+            "verse_number": 4,
+            "verse_key": "74:4",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 230,
+            "ruku_number": 512,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَثِيَابَكَ فَطَهِّرْ",
+            "page_number": 575,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101467,
+                    "resource_id": 20,
+                    "text": "And your clothing purify."
+                },
+                {
+                    "id": 219390,
+                    "resource_id": 39,
+                    "text": "Dan pakaianmu, maka hendaklah engkau bersihkan."
+                },
+                {
+                    "id": 1096476,
+                    "resource_id": 161,
+                    "text": "তোমার পোশাক পরিচ্ছদ পবিত্র রাখ।"
+                }
+            ]
+        },
+        {
+            "id": 5500,
+            "verse_number": 5,
+            "verse_key": "74:5",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 230,
+            "ruku_number": 512,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلرُّجْزَ فَٱهْجُرْ",
+            "page_number": 575,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101528,
+                    "resource_id": 20,
+                    "text": "And uncleanliness<sup foot_note=197645>1</sup> avoid."
+                },
+                {
+                    "id": 219366,
+                    "resource_id": 39,
+                    "text": "Dan segala kejahatan, maka hendaklah engkau jauhi."
+                },
+                {
+                    "id": 1096477,
+                    "resource_id": 161,
+                    "text": "(যাবতীয়) অপবিত্রতা থেকে দূরে থাক।"
+                }
+            ]
+        },
+        {
+            "id": 5501,
+            "verse_number": 6,
+            "verse_key": "74:6",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 230,
+            "ruku_number": 512,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَا تَمْنُن تَسْتَكْثِرُ",
+            "page_number": 575,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101537,
+                    "resource_id": 20,
+                    "text": "And do not confer favor to acquire more<sup foot_note=197646>1</sup>."
+                },
+                {
+                    "id": 219377,
+                    "resource_id": 39,
+                    "text": "Dan janganlah engkau memberi (sesuatu, dengan tujuan hendak) mendapat lebih banyak daripadanya."
+                },
+                {
+                    "id": 1096478,
+                    "resource_id": 161,
+                    "text": "(কারো প্রতি) অনুগ্রহ করো না অধিক পাওয়ার উদ্দেশ্যে।"
+                }
+            ]
+        },
+        {
+            "id": 5502,
+            "verse_number": 7,
+            "verse_key": "74:7",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 230,
+            "ruku_number": 512,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلِرَبِّكَ فَٱصْبِرْ",
+            "page_number": 575,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101539,
+                    "resource_id": 20,
+                    "text": "But for your Lord be patient."
+                },
+                {
+                    "id": 219379,
+                    "resource_id": 39,
+                    "text": "Dan bagi (menjalankan perintah) Tuhanmu, maka hendaklah engkau bersabar (terhadap tentangan musuh)!"
+                },
+                {
+                    "id": 1096479,
+                    "resource_id": 161,
+                    "text": "তোমার প্রতিপালকের (সন্তুষ্টির) জন্য ধৈর্য ধর।"
+                }
+            ]
+        },
+        {
+            "id": 5503,
+            "verse_number": 8,
+            "verse_key": "74:8",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 230,
+            "ruku_number": 512,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَإِذَا نُقِرَ فِى ٱلنَّاقُورِ",
+            "page_number": 575,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101541,
+                    "resource_id": 20,
+                    "text": "And when the trumpet is blown,"
+                },
+                {
+                    "id": 215007,
+                    "resource_id": 39,
+                    "text": "Kerana apabila telah ditiup sangkakala,"
+                },
+                {
+                    "id": 1096480,
+                    "resource_id": 161,
+                    "text": "যেদিন শিঙ্গায় ফুঁ দেয়া হবে,"
+                }
+            ]
+        },
+        {
+            "id": 5504,
+            "verse_number": 9,
+            "verse_key": "74:9",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 230,
+            "ruku_number": 512,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَذَٰلِكَ يَوْمَئِذٍ يَوْمٌ عَسِيرٌ",
+            "page_number": 575,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101543,
+                    "resource_id": 20,
+                    "text": "That Day will be a difficult day"
+                },
+                {
+                    "id": 219392,
+                    "resource_id": 39,
+                    "text": "Maka saat yang demikian adalah saat (berlakunya) hari yang sukar -"
+                },
+                {
+                    "id": 1096481,
+                    "resource_id": 161,
+                    "text": "সেদিনটি হবে বড়ই কঠিন দিন,"
+                }
+            ]
+        },
+        {
+            "id": 5505,
+            "verse_number": 10,
+            "verse_key": "74:10",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 230,
+            "ruku_number": 512,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "عَلَى ٱلْكَـٰفِرِينَ غَيْرُ يَسِيرٍ",
+            "page_number": 575,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101493,
+                    "resource_id": 20,
+                    "text": "For the disbelievers - not easy."
+                },
+                {
+                    "id": 219381,
+                    "resource_id": 39,
+                    "text": "Kepada orang-orang kafir, lagi tidak mudah (mengelak azabnya)."
+                },
+                {
+                    "id": 1096482,
+                    "resource_id": 161,
+                    "text": "(যা) কাফিরদের জন্য মোটেই সহজ নয়।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 6,
+        "total_records": 56
+    }
+}

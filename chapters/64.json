@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 5200,
+            "verse_number": 1,
+            "verse_key": "64:1",
+            "hizb_number": 56,
+            "rub_el_hizb_number": 222,
+            "ruku_number": 492,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " يُسَبِّحُ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ لَهُ ٱلْمُلْكُ وَلَهُ ٱلْحَمْدُ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+            "page_number": 556,
+            "juz_number": 28,
+            "translations": [
+                {
+                    "id": 100982,
+                    "resource_id": 20,
+                    "text": "Whatever is in the heavens and whatever is on the earth is exalting Allāh.<sup foot_note=197558>1</sup> To Him belongs dominion, and to Him belongs [all] praise, and He is over all things competent."
+                },
+                {
+                    "id": 218837,
+                    "resource_id": 39,
+                    "text": "Segala yang ada di langit dan yang ada di bumi sentiasa mengucap tasbih kepada Allah; bagiNyalah kuasa pemerintahan, dan bagiNyalah segala pujian; dan Ia Maha Kuasa atas tiap-tiap sesuatu."
+                },
+                {
+                    "id": 1096177,
+                    "resource_id": 161,
+                    "text": "যা কিছু আসমানে আছে আর যা কিছু যমীনে আছে সবই আল্লাহর প্রশংসা ও মহিমা ঘোষণা করছে। রাজত্ব তাঁরই, প্রশংসা তাঁরই, আর তিনি সব কিছুর উপর ক্ষমতাবান।"
+                }
+            ]
+        },
+        {
+            "id": 5201,
+            "verse_number": 2,
+            "verse_key": "64:2",
+            "hizb_number": 56,
+            "rub_el_hizb_number": 222,
+            "ruku_number": 492,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "هُوَ ٱلَّذِى خَلَقَكُمْ فَمِنكُمْ كَافِرٌ وَمِنكُم مُّؤْمِنٌ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+            "page_number": 556,
+            "juz_number": 28,
+            "translations": [
+                {
+                    "id": 100993,
+                    "resource_id": 20,
+                    "text": "It is He who created you, and among you is the disbeliever, and among you is the believer. And Allāh, of what you do, is Seeing."
+                },
+                {
+                    "id": 218847,
+                    "resource_id": 39,
+                    "text": "Dia lah yang mengaturkan kejadian kamu; maka ada sebahagian dari kamu yang kafir dan ada sebahagian dari kamu yang beriman; dan Allah Maha Melihat akan segala yang kamu kerjakan (serta membalas masing-masing)."
+                },
+                {
+                    "id": 1096178,
+                    "resource_id": 161,
+                    "text": "তিনিই তোমাদেরকে সৃষ্টি করেছেন, অতঃপর তোমাদের মধ্যে কেউ কাফির, কেউ মু’মিন; তোমরা যা কর আল্লাহ তা দেখেন।"
+                }
+            ]
+        },
+        {
+            "id": 5202,
+            "verse_number": 3,
+            "verse_key": "64:3",
+            "hizb_number": 56,
+            "rub_el_hizb_number": 222,
+            "ruku_number": 492,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ وَصَوَّرَكُمْ فَأَحْسَنَ صُوَرَكُمْ ۖ وَإِلَيْهِ ٱلْمَصِيرُ",
+            "page_number": 556,
+            "juz_number": 28,
+            "translations": [
+                {
+                    "id": 100995,
+                    "resource_id": 20,
+                    "text": "He created the heavens and earth in truth and formed you and perfected your forms; and to Him is the [final] destination."
+                },
+                {
+                    "id": 218849,
+                    "resource_id": 39,
+                    "text": "Ia menciptakan langit dan bumi dengan cara yang sungguh layak dan berhikmat, dan Ia menentukan bentuk rupa kamu serta memperelokkan rupa kamu; dan kepadaNyalah tempat kembali."
+                },
+                {
+                    "id": 1096179,
+                    "resource_id": 161,
+                    "text": "তিনি (বিশেষ উদ্দেশ্যে) সত্যিকারভাবে আসমান ও যমীন সৃষ্টি করেছেন, তিনি তোমাদেরকে আকৃতি দিয়েছেন, অতঃপর তোমাদের আকৃতি সুন্দর করেছেন আর (সব্বাইকে) ফিরে যেতে হবে তাঁরই দিকে।"
+                }
+            ]
+        },
+        {
+            "id": 5203,
+            "verse_number": 4,
+            "verse_key": "64:4",
+            "hizb_number": 56,
+            "rub_el_hizb_number": 222,
+            "ruku_number": 492,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "يَعْلَمُ مَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَيَعْلَمُ مَا تُسِرُّونَ وَمَا تُعْلِنُونَ ۚ وَٱللَّهُ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+            "page_number": 556,
+            "juz_number": 28,
+            "translations": [
+                {
+                    "id": 100997,
+                    "resource_id": 20,
+                    "text": "He knows what is within the heavens and earth and knows what you conceal and what you declare. And Allāh is Knowing of that within the breasts."
+                },
+                {
+                    "id": 218851,
+                    "resource_id": 39,
+                    "text": "Ia mengetahui segala yang ada di langit dan di bumi; dan Ia mengetahui segala yang kamu rahsiakan serta yang kamu zahirkan; dan Allah sentiasa Mengetahui segala (isi hati) yang terkandung di dalam dada;"
+                },
+                {
+                    "id": 1096180,
+                    "resource_id": 161,
+                    "text": "তিনি জানেন যা কিছু আসমান ও যমীনে আছে, আর তিনি জানেন যা তোমরা গোপন কর আর প্রকাশ কর। অন্তরের বিষয়াদি সম্পর্কে তিনি পূর্ণরূপে অবগত।"
+                }
+            ]
+        },
+        {
+            "id": 5204,
+            "verse_number": 5,
+            "verse_key": "64:5",
+            "hizb_number": 56,
+            "rub_el_hizb_number": 222,
+            "ruku_number": 492,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَلَمْ يَأْتِكُمْ نَبَؤُا۟ ٱلَّذِينَ كَفَرُوا۟ مِن قَبْلُ فَذَاقُوا۟ وَبَالَ أَمْرِهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+            "page_number": 556,
+            "juz_number": 28,
+            "translations": [
+                {
+                    "id": 100999,
+                    "resource_id": 20,
+                    "text": "Has there not come to you the news of those who disbelieved before? So they tasted the bad consequence of their affair, and they will have a painful punishment."
+                },
+                {
+                    "id": 218853,
+                    "resource_id": 39,
+                    "text": "Bukankah telah sampai kepada kamu berita orang-orang kafir yang telah lalu? Lalu mereka merasai kesan yang buruk dari perbuatan kufur mereka; dan mereka (pada hari akhirat kelak) beroleh azab seksa yang tidak terperi sakitnya."
+                },
+                {
+                    "id": 1096181,
+                    "resource_id": 161,
+                    "text": "ইতোপূর্বে যারা কুফরী করেছিল তাদের খবর কি তোমার কাছে পৌঁছেছে? তারা তাদের মন্দ কর্মের ফল আস্বাদন করেছে, আর তাদের জন্য আছে মর্মান্তিক ‘আযাব।"
+                }
+            ]
+        },
+        {
+            "id": 5205,
+            "verse_number": 6,
+            "verse_key": "64:6",
+            "hizb_number": 56,
+            "rub_el_hizb_number": 222,
+            "ruku_number": 492,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ذَٰلِكَ بِأَنَّهُۥ كَانَت تَّأْتِيهِمْ رُسُلُهُم بِٱلْبَيِّنَـٰتِ فَقَالُوٓا۟ أَبَشَرٌ يَهْدُونَنَا فَكَفَرُوا۟ وَتَوَلَّوا۟ ۚ وَّٱسْتَغْنَى ٱللَّهُ ۚ وَٱللَّهُ غَنِىٌّ حَمِيدٌ",
+            "page_number": 556,
+            "juz_number": 28,
+            "translations": [
+                {
+                    "id": 101001,
+                    "resource_id": 20,
+                    "text": "That is because their messengers used to come to them with clear evidences, but they said, \"Shall human beings guide us?\" and disbelieved and turned away. And Allāh dispensed [with them]; and Allāh is Free of need and Praiseworthy."
+                },
+                {
+                    "id": 218855,
+                    "resource_id": 39,
+                    "text": "(Balasan) yang demikian itu, kerana sesungguhnya mereka pernah didatangi Rasul-rasul (yang diutus kepada) mereka dengan membawa keterangan-keterangan yang jelas nyata, maka mereka berkata:\" Patutkah manusia (yang seperti kami - menjadi Rasul untuk) memberi petunjuk kepada kami?\" Lalu mereka kufur ingkar serta berpaling (dari kebenaran); dan Allah pun menyatakan tidak berhajatNya (kepada iman dan ketaatan mereka lalu membinasakan mereka); dan Allah sememangnya Maha Kaya, lagi tetap Terpuji."
+                },
+                {
+                    "id": 1096182,
+                    "resource_id": 161,
+                    "text": "এর কারণ এই যে, তাদের কাছে তাদের রসূলগণ স্পষ্ট নিদর্শনসহ এসেছিল, তখন তারা বলেছিল, ‘(আমাদের মতই) মানুষ কি আমাদেরকে সঠিক পথ দেখাবে?’ কাজেই তারা অস্বীকার করল আর মুখ ফিরিয়ে নিল। তখন আল্লাহও তাদের ব্যাপারে বেপরোয়া হয়ে গেলেন, আল্লাহ অমুখাপেক্ষী, প্রশংসিত।"
+                }
+            ]
+        },
+        {
+            "id": 5206,
+            "verse_number": 7,
+            "verse_key": "64:7",
+            "hizb_number": 56,
+            "rub_el_hizb_number": 222,
+            "ruku_number": 492,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "زَعَمَ ٱلَّذِينَ كَفَرُوٓا۟ أَن لَّن يُبْعَثُوا۟ ۚ قُلْ بَلَىٰ وَرَبِّى لَتُبْعَثُنَّ ثُمَّ لَتُنَبَّؤُنَّ بِمَا عَمِلْتُمْ ۚ وَذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌ",
+            "page_number": 556,
+            "juz_number": 28,
+            "translations": [
+                {
+                    "id": 101004,
+                    "resource_id": 20,
+                    "text": "Those who disbelieve have claimed that they will never be resurrected. Say, \"Yes, by my Lord, you will surely be resurrected; then you will surely be informed of what you did. And that, for Allāh, is easy.\""
+                },
+                {
+                    "id": 218857,
+                    "resource_id": 39,
+                    "text": "(Di antara sebab-sebab kufur) orang-orang yang kafir (ialah kerana mereka) mengatakan bahawa mereka tidak sekali-kali akan di bangkitkan (sesudah mati). Katakanlah: \"Bahkan, demi Tuhanku, kamu akan dibangkitkan, kemudian kamu akan diberitahu tentang segala yang kamu telah kerjakan. Dan yang demikian itu adalah mudah bagi Allah melaksanakannya."
+                },
+                {
+                    "id": 1096183,
+                    "resource_id": 161,
+                    "text": "কাফিররা ধারণা করে যে, তাদেরকে কক্ষনো আবার জীবিত করে উঠানো হবে না। বল, নিশ্চয়ই (উঠানো) হবে, আমার প্রতিপালকের শপথ! তোমাদেরকে অবশ্য অবশ্যই আবার জীবিত করে উঠানো হবে, অতঃপর তোমাদেরকে অবশ্য অবশ্যই জানিয়ে দেয়া হবে তোমরা (দুনিয়ায়) কী কাজ করেছ। এ কাজ (করা) আল্লাহর জন্য খুবই সহজ।"
+                }
+            ]
+        },
+        {
+            "id": 5207,
+            "verse_number": 8,
+            "verse_key": "64:8",
+            "hizb_number": 56,
+            "rub_el_hizb_number": 222,
+            "ruku_number": 492,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَـَٔامِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَٱلنُّورِ ٱلَّذِىٓ أَنزَلْنَا ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+            "page_number": 556,
+            "juz_number": 28,
+            "translations": [
+                {
+                    "id": 101007,
+                    "resource_id": 20,
+                    "text": "So believe in Allāh and His Messenger and the light [i.e., the Qur’ān] which We have sent down. And Allāh is Aware of what you do."
+                },
+                {
+                    "id": 218859,
+                    "resource_id": 39,
+                    "text": "Oleh itu, berimanlah kamu kepada Allah dan kepada rasulNya serta kepada penerangan cahaya Al-Quran - yang Kami turunkan. Dan (ingatlah), Allah Amat Mendalam PengetahuanNya akan segala yang kamu kerjakan."
+                },
+                {
+                    "id": 1096184,
+                    "resource_id": 161,
+                    "text": "কাজেই (এ অবস্থার কথা চিন্তা ক’রে) তোমরা ঈমান আনো আল্লাহর প্রতি ও তাঁর রসূলের প্রতি আর সেই নূর (কুরআন)-এর প্রতি যা আমি অবতীর্ণ করেছি। তোমরা যা কর সে ব্যাপারে আল্লাহ পুরোপুরি অবগত।"
+                }
+            ]
+        },
+        {
+            "id": 5208,
+            "verse_number": 9,
+            "verse_key": "64:9",
+            "hizb_number": 56,
+            "rub_el_hizb_number": 222,
+            "ruku_number": 492,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "يَوْمَ يَجْمَعُكُمْ لِيَوْمِ ٱلْجَمْعِ ۖ ذَٰلِكَ يَوْمُ ٱلتَّغَابُنِ ۗ وَمَن يُؤْمِنۢ بِٱللَّهِ وَيَعْمَلْ صَـٰلِحًا يُكَفِّرْ عَنْهُ سَيِّـَٔاتِهِۦ وَيُدْخِلْهُ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ أَبَدًا ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+            "page_number": 556,
+            "juz_number": 28,
+            "translations": [
+                {
+                    "id": 101009,
+                    "resource_id": 20,
+                    "text": "The Day He will assemble you for the Day of Assembly - that is the Day of Deprivation.<sup foot_note=197559>1</sup> And whoever believes in Allāh and does righteousness - He will remove from him his misdeeds and admit him to gardens beneath which rivers flow, wherein they will abide forever. That is the great attainment."
+                },
+                {
+                    "id": 218861,
+                    "resource_id": 39,
+                    "text": "(Ingatkanlah) masa Allah menghimpunkan kamu pada hari perhimpunan (untuk menerima balasan), - itulah hari masing-masing nampak kerugiannya. Dan (ingatlah), sesiapa yang beriman kepada Allah serta mengerjakan amal soleh, nescaya Allah mengampunkan dosa-dosanya dan memasukkannya ke dalam Syurga yang mengalir di bawahnya beberapa sungai, mereka kekal di dalamnya selama-lamanya; yang demikian itulah kemenangan yang besar."
+                },
+                {
+                    "id": 1096185,
+                    "resource_id": 161,
+                    "text": "যখন একত্র করার দিন তিনি তোমাদেরকে একত্রিত করবেন, সে দিনটি হবে তোমাদের হার জিতের দিন। যারা আল্লাহর প্রতি ঈমান আনবে আর সৎ কাজ করবে, আল্লাহ তার পাপ মোচন করে দিবেন, আর তাকে জান্নাতে দাখিল করবেন যার নীচ দিয়ে নির্ঝরিণী প্রবাহিত। সেখানে তারা থাকবে চিরকাল সর্বকাল। এটাই মহা সাফল্য।"
+                }
+            ]
+        },
+        {
+            "id": 5209,
+            "verse_number": 10,
+            "verse_key": "64:10",
+            "hizb_number": 56,
+            "rub_el_hizb_number": 222,
+            "ruku_number": 492,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَـٰتِنَآ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ خَـٰلِدِينَ فِيهَا ۖ وَبِئْسَ ٱلْمَصِيرُ",
+            "page_number": 557,
+            "juz_number": 28,
+            "translations": [
+                {
+                    "id": 100983,
+                    "resource_id": 20,
+                    "text": "But the ones who disbelieved and denied Our verses - those are the companions of the Fire, abiding eternally therein; and wretched is the destination."
+                },
+                {
+                    "id": 218838,
+                    "resource_id": 39,
+                    "text": "Dan orang-orang yang kafir serta mendustakan ayat-ayat keterangan Kami, merekalah ahli neraka, kekalah mereka di dalamnya; dan itulah seburuk-buruk tempat kembali."
+                },
+                {
+                    "id": 1096186,
+                    "resource_id": 161,
+                    "text": "আর যারা কুফুরী করে আর আমার নিদর্শনগুলোকে অস্বীকার করে, তারাই জাহান্নামের অধিবাসী, তাতে তারা চিরকাল থাকবে। কতই না নিকৃষ্ট প্রত্যাবর্তনস্থল!"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 2,
+        "total_records": 18
+    }
+}

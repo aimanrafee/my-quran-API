@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 2933,
+            "verse_number": 1,
+            "verse_key": "26:1",
+            "hizb_number": 37,
+            "rub_el_hizb_number": 147,
+            "ruku_number": 316,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": " طسٓمٓ",
+            "page_number": 367,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98088,
+                    "resource_id": 20,
+                    "text": "Ṭā, Seen, Meem.<sup foot_note=196947>1</sup>"
+                },
+                {
+                    "id": 214977,
+                    "resource_id": 39,
+                    "text": "Taa, Siin, Miim."
+                },
+                {
+                    "id": 1093910,
+                    "resource_id": 161,
+                    "text": "ত্ব-সীন-মীম।"
+                }
+            ]
+        },
+        {
+            "id": 2934,
+            "verse_number": 2,
+            "verse_key": "26:2",
+            "hizb_number": 37,
+            "rub_el_hizb_number": 147,
+            "ruku_number": 316,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ ٱلْمُبِينِ",
+            "page_number": 367,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98195,
+                    "resource_id": 20,
+                    "text": "These are the verses of the clear Book."
+                },
+                {
+                    "id": 216090,
+                    "resource_id": 39,
+                    "text": "Ini ialah ayat-ayat Kitab (Al-Quran) yang jelas nyata."
+                },
+                {
+                    "id": 1093911,
+                    "resource_id": 161,
+                    "text": "এগুলো সুস্পষ্ট (বা সুস্পষ্টকারী) কিতাবের আয়াত।"
+                }
+            ]
+        },
+        {
+            "id": 2935,
+            "verse_number": 3,
+            "verse_key": "26:3",
+            "hizb_number": 37,
+            "rub_el_hizb_number": 147,
+            "ruku_number": 316,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "لَعَلَّكَ بَـٰخِعٌ نَّفْسَكَ أَلَّا يَكُونُوا۟ مُؤْمِنِينَ",
+            "page_number": 367,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98234,
+                    "resource_id": 20,
+                    "text": "Perhaps, [O Muḥammad], you would kill yourself with grief that they will not be believers."
+                },
+                {
+                    "id": 216093,
+                    "resource_id": 39,
+                    "text": "Jangan-jangan pula engkau (wahai Muhammad), membinasakan dirimu dengan menanggung dukacita, kerana mereka tidak menjadi orang-orang yang beriman."
+                },
+                {
+                    "id": 1093912,
+                    "resource_id": 161,
+                    "text": "তুমি হয়ত এ দুঃখে তোমার প্রাণনাশ করবে যে, তারা মু’মিন হচ্ছে না।"
+                }
+            ]
+        },
+        {
+            "id": 2936,
+            "verse_number": 4,
+            "verse_key": "26:4",
+            "hizb_number": 37,
+            "rub_el_hizb_number": 147,
+            "ruku_number": 316,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "إِن نَّشَأْ نُنَزِّلْ عَلَيْهِم مِّنَ ٱلسَّمَآءِ ءَايَةً فَظَلَّتْ أَعْنَـٰقُهُمْ لَهَا خَـٰضِعِينَ",
+            "page_number": 367,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98246,
+                    "resource_id": 20,
+                    "text": "If We willed, We could send down to them from the sky a sign for which their necks would remain humbled.<sup foot_note=196948>1</sup>"
+                },
+                {
+                    "id": 216107,
+                    "resource_id": 39,
+                    "text": "Kalau Kami mahu, tentulah Kami akan turunkan kepada mereka satu mukjizat dari langit, yang menjadikan mereka tunduk kepadanya."
+                },
+                {
+                    "id": 1093913,
+                    "resource_id": 161,
+                    "text": "আমি ইচ্ছে করলে তাদের কাছে আসমান থেকে এমন নিদর্শন পাঠাতাম যে তার সামনে তাদের মাথা নত হয়ে যেত (অর্থাৎ তারা ঈমান আনতে বাধ্য হত)।"
+                }
+            ]
+        },
+        {
+            "id": 2937,
+            "verse_number": 5,
+            "verse_key": "26:5",
+            "hizb_number": 37,
+            "rub_el_hizb_number": 147,
+            "ruku_number": 316,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا يَأْتِيهِم مِّن ذِكْرٍ مِّنَ ٱلرَّحْمَـٰنِ مُحْدَثٍ إِلَّا كَانُوا۟ عَنْهُ مُعْرِضِينَ",
+            "page_number": 367,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98258,
+                    "resource_id": 20,
+                    "text": "And no mention [i.e., revelation] comes to them anew from the Most Merciful except that they turn away from it."
+                },
+                {
+                    "id": 216115,
+                    "resource_id": 39,
+                    "text": "Dan tidak datang kepada mereka peringatan serta pengajaran yang baharu dari (Allah) Ar-Rahman, melainkan mereka tetap berpaling mengingkarinya."
+                },
+                {
+                    "id": 1093914,
+                    "resource_id": 161,
+                    "text": "তাদের কাছে যখনই দয়াময় আল্লাহর পক্ষ হতে নতুন কোন নসীহত আসে তখনই তারা তাত্থেকে মুখ ফিরিয়ে নেয়।"
+                }
+            ]
+        },
+        {
+            "id": 2938,
+            "verse_number": 6,
+            "verse_key": "26:6",
+            "hizb_number": 37,
+            "rub_el_hizb_number": 147,
+            "ruku_number": 316,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "فَقَدْ كَذَّبُوا۟ فَسَيَأْتِيهِمْ أَنۢبَـٰٓؤُا۟ مَا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+            "page_number": 367,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98270,
+                    "resource_id": 20,
+                    "text": "For they have already denied, but there will come to them the news of that which they used to ridicule."
+                },
+                {
+                    "id": 216127,
+                    "resource_id": 39,
+                    "text": "Oleh kerana mereka telah mendustakan Al-Quran, maka sudah tentu akan datang kepada mereka berita-berita (azab) mengenai perkara yang mereka ejek-ejek itu."
+                },
+                {
+                    "id": 1093915,
+                    "resource_id": 161,
+                    "text": "তারা (আল্লাহর বাণীকে) অস্বীকারই করেছে, শীঘ্রই তাদের কাছে তার সত্য উদঘাটিত হবে যা নিয়ে তারা ঠাট্টা-বিদ্রূপ করত।"
+                }
+            ]
+        },
+        {
+            "id": 2939,
+            "verse_number": 7,
+            "verse_key": "26:7",
+            "hizb_number": 37,
+            "rub_el_hizb_number": 147,
+            "ruku_number": 316,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "أَوَلَمْ يَرَوْا۟ إِلَى ٱلْأَرْضِ كَمْ أَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍ كَرِيمٍ",
+            "page_number": 367,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98282,
+                    "resource_id": 20,
+                    "text": "Did they not look at the earth - how much We have produced therein from every noble kind?"
+                },
+                {
+                    "id": 216139,
+                    "resource_id": 39,
+                    "text": "Masihkah mereka berdegil dan tidak memperhatikan bumi, berapa banyak kami tumbuhkan padanya dari berbagai jenis tanaman yang memberi banyak manfaat?"
+                },
+                {
+                    "id": 1093916,
+                    "resource_id": 161,
+                    "text": "তারা কি যমীনের দিকে চেয়ে দেখে না, আমি তাতে সব ধরনের উৎকৃষ্ট উদ্ভিদ পয়দা করেছি।"
+                }
+            ]
+        },
+        {
+            "id": 2940,
+            "verse_number": 8,
+            "verse_key": "26:8",
+            "hizb_number": 37,
+            "rub_el_hizb_number": 147,
+            "ruku_number": 316,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+            "page_number": 367,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98294,
+                    "resource_id": 20,
+                    "text": "Indeed in that is a sign, but most of them were not to be believers."
+                },
+                {
+                    "id": 216155,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya pada yang demikian itu terdapat satu tanda (yang membuktikan kekuasaan dan rahmat pengurniaan Allah); dan (dalam pada itu), kebanyakan mereka tidak juga beriman."
+                },
+                {
+                    "id": 1093917,
+                    "resource_id": 161,
+                    "text": "অবশ্যই এতে নিদর্শন আছে (আল্লাহ সম্পর্কে চিন্তা ক’রে ঈমান আনার জন্য), কিন্তু তাদের অধিকাংশই ঈমান আনে না।"
+                }
+            ]
+        },
+        {
+            "id": 2941,
+            "verse_number": 9,
+            "verse_key": "26:9",
+            "hizb_number": 37,
+            "rub_el_hizb_number": 147,
+            "ruku_number": 316,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
+            "page_number": 367,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98303,
+                    "resource_id": 20,
+                    "text": "And indeed, your Lord - He is the Exalted in Might, the Merciful."
+                },
+                {
+                    "id": 214749,
+                    "resource_id": 39,
+                    "text": "Dan sesungguhnya Tuhanmu (wahai Muhammad) Dia lah sahaja Yang Maha Kuasa, lagi Maha Mengasihani."
+                },
+                {
+                    "id": 1093918,
+                    "resource_id": 161,
+                    "text": "নিশ্চয় তোমার প্রতিপালক মহা পরাক্রমশালী, অতি দয়ালু।"
+                }
+            ]
+        },
+        {
+            "id": 2942,
+            "verse_number": 10,
+            "verse_key": "26:10",
+            "hizb_number": 37,
+            "rub_el_hizb_number": 147,
+            "ruku_number": 317,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+            "page_number": 367,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98089,
+                    "resource_id": 20,
+                    "text": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people -"
+                },
+                {
+                    "id": 216213,
+                    "resource_id": 39,
+                    "text": "Dan (ingatkanlah peristiwa) ketika Tuhanmu menyeru Nabi Musa: \"Hendaklah engkau mendatangi kaum yang zalim, -"
+                },
+                {
+                    "id": 1093919,
+                    "resource_id": 161,
+                    "text": "স্মরণ কর, যখন তোমার প্রতিপালক মূসাকে ডাক দিয়ে বললেন, ‘তুমি যালিম সম্প্রদায়ের কাছে যাও,"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 23,
+        "total_records": 227
+    }
+}

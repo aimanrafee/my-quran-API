@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 4785,
+            "verse_number": 1,
+            "verse_key": "53:1",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 210,
+            "ruku_number": 462,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " وَٱلنَّجْمِ إِذَا هَوَىٰ",
+            "page_number": 526,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100400,
+                    "resource_id": 20,
+                    "text": "By the star when it descends,"
+                },
+                {
+                    "id": 220648,
+                    "resource_id": 39,
+                    "text": "Demi bintang semasa ia menjunam, -"
+                },
+                {
+                    "id": 1095762,
+                    "resource_id": 161,
+                    "text": "শপথ তারকার যখন তা অস্ত যায়,"
+                }
+            ]
+        },
+        {
+            "id": 4786,
+            "verse_number": 2,
+            "verse_key": "53:2",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 210,
+            "ruku_number": 462,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَىٰ",
+            "page_number": 526,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100412,
+                    "resource_id": 20,
+                    "text": "Your companion [i.e., Muḥammad] has not strayed, nor has he erred,"
+                },
+                {
+                    "id": 218248,
+                    "resource_id": 39,
+                    "text": "Rakan kamu (Nabi Muhammad yang kamu tuduh dengan berbagai tuduhan itu), tidaklah ia menyeleweng (dari jalan yang benar), dan ia pula tidak sesat (dengan kepercayaan yang salah)."
+                },
+                {
+                    "id": 1095763,
+                    "resource_id": 161,
+                    "text": "তোমাদের (মাঝে ছোট থেকে বড় হয়েছে সেই) সঙ্গী গুমরাহও নয় আর ভুলপথে পরিচালিতও নয়,"
+                }
+            ]
+        },
+        {
+            "id": 4787,
+            "verse_number": 3,
+            "verse_key": "53:3",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 210,
+            "ruku_number": 462,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا يَنطِقُ عَنِ ٱلْهَوَىٰٓ",
+            "page_number": 526,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100424,
+                    "resource_id": 20,
+                    "text": "Nor does he speak from [his own] inclination."
+                },
+                {
+                    "id": 218257,
+                    "resource_id": 39,
+                    "text": "Dan ia tidak memperkatakan (sesuatu yang berhubung dengan ugama Islam) menurut kemahuan dan pendapatnya sendiri."
+                },
+                {
+                    "id": 1095764,
+                    "resource_id": 161,
+                    "text": "আর সে মনগড়া কথাও বলে না।"
+                }
+            ]
+        },
+        {
+            "id": 4788,
+            "verse_number": 4,
+            "verse_key": "53:4",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 210,
+            "ruku_number": 462,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنْ هُوَ إِلَّا وَحْىٌ يُوحَىٰ",
+            "page_number": 526,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100436,
+                    "resource_id": 20,
+                    "text": "It is not but a revelation revealed,"
+                },
+                {
+                    "id": 217549,
+                    "resource_id": 39,
+                    "text": "Segala yang diperkatakannya itu (sama ada Al-Quran atau hadis) tidak lain hanyalah wahyu yang diwahyukan kepadanya."
+                },
+                {
+                    "id": 1095765,
+                    "resource_id": 161,
+                    "text": "তাতো ওয়াহী যা তার প্রতি প্রত্যাদেশ করা হয়,"
+                }
+            ]
+        },
+        {
+            "id": 4789,
+            "verse_number": 5,
+            "verse_key": "53:5",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 210,
+            "ruku_number": 462,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "عَلَّمَهُۥ شَدِيدُ ٱلْقُوَىٰ",
+            "page_number": 526,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100448,
+                    "resource_id": 20,
+                    "text": "Taught to him by one intense in strength [i.e., Gabriel] -"
+                },
+                {
+                    "id": 218278,
+                    "resource_id": 39,
+                    "text": "wahyu itu (disampaikan dan) diajarkan kepadanya oleh (malaikat jibril) yang amat kuat gagah, -"
+                },
+                {
+                    "id": 1095766,
+                    "resource_id": 161,
+                    "text": "তাকে শিক্ষা দেয় শক্তিশালী,"
+                }
+            ]
+        },
+        {
+            "id": 4790,
+            "verse_number": 6,
+            "verse_key": "53:6",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 210,
+            "ruku_number": 462,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ذُو مِرَّةٍ فَٱسْتَوَىٰ",
+            "page_number": 526,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100340,
+                    "resource_id": 20,
+                    "text": "One of soundness.<sup foot_note=197440>1</sup> And he rose to [his] true form<sup foot_note=197439>2</sup>"
+                },
+                {
+                    "id": 218290,
+                    "resource_id": 39,
+                    "text": "Lagi yang mempunyai kebijaksanaan; kemudian ia memperlihatkan dirinya (kepada Nabi Muhammad) dengan rupanya asal, -"
+                },
+                {
+                    "id": 1095767,
+                    "resource_id": 161,
+                    "text": "প্রজ্ঞার অধিকারী (জিবরাঈল) সে নিজ আকৃতিতে স্থির হয়ে ছিল,"
+                }
+            ]
+        },
+        {
+            "id": 4791,
+            "verse_number": 7,
+            "verse_key": "53:7",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 210,
+            "ruku_number": 462,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَهُوَ بِٱلْأُفُقِ ٱلْأَعْلَىٰ",
+            "page_number": 526,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100457,
+                    "resource_id": 20,
+                    "text": "While he was in the higher [part of the] horizon.<sup foot_note=197441>1</sup>"
+                },
+                {
+                    "id": 218293,
+                    "resource_id": 39,
+                    "text": "Sedang ia berada di arah yang tinggi (di langit);"
+                },
+                {
+                    "id": 1095768,
+                    "resource_id": 161,
+                    "text": "আর সে ছিল ঊর্ধ্ব দিগন্তে,"
+                }
+            ]
+        },
+        {
+            "id": 4792,
+            "verse_number": 8,
+            "verse_key": "53:8",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 210,
+            "ruku_number": 462,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ثُمَّ دَنَا فَتَدَلَّىٰ",
+            "page_number": 526,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100459,
+                    "resource_id": 20,
+                    "text": "Then he approached and descended"
+                },
+                {
+                    "id": 218308,
+                    "resource_id": 39,
+                    "text": "Kemudian ia mendekatkan dirinya (kepada Nabi Muhammad), lalu ia berjuntai sedikit demi sedikit,"
+                },
+                {
+                    "id": 1095769,
+                    "resource_id": 161,
+                    "text": "অতঃপর সে (নবীর) নিকটবর্তী হল, অতঃপর আসলো আরো নিকটে,"
+                }
+            ]
+        },
+        {
+            "id": 4793,
+            "verse_number": 9,
+            "verse_key": "53:9",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 210,
+            "ruku_number": 462,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنَىٰ",
+            "page_number": 526,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100461,
+                    "resource_id": 20,
+                    "text": "And was at a distance of two bow lengths or nearer."
+                },
+                {
+                    "id": 218297,
+                    "resource_id": 39,
+                    "text": "Sehingga menjadilah jarak (di antaranya dengan Nabi Muhammad) sekadar dua hujung busaran panah, atau lebih dekat lagi;"
+                },
+                {
+                    "id": 1095770,
+                    "resource_id": 161,
+                    "text": "ফলে [নবী (সাঃ) ও জিবরাঈলের মাঝে] দুই ধনুকের ব্যবধান রইল অথবা আরো কম।"
+                }
+            ]
+        },
+        {
+            "id": 4794,
+            "verse_number": 10,
+            "verse_key": "53:10",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 210,
+            "ruku_number": 462,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَأَوْحَىٰٓ إِلَىٰ عَبْدِهِۦ مَآ أَوْحَىٰ",
+            "page_number": 526,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100401,
+                    "resource_id": 20,
+                    "text": "And he revealed to His Servant<sup foot_note=197442>1</sup> what he revealed [i.e., conveyed]."
+                },
+                {
+                    "id": 218243,
+                    "resource_id": 39,
+                    "text": "Lalu Allah wahyukan kepada hambaNya (Muhammad, dengan perantaraan malaikat Jibril) apa yang telah diwahyukanNya."
+                },
+                {
+                    "id": 1095771,
+                    "resource_id": 161,
+                    "text": "তখন (আল্লাহ) তাঁর বান্দাহর প্রতি ওয়াহী করলেন যা ওয়াহী করার ছিল।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 7,
+        "total_records": 62
+    }
+}

@@ -1,0 +1,431 @@
+{
+    "verses": [
+        {
+            "id": 2386,
+            "verse_number": 38,
+            "verse_key": "20:38",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 271,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "إِذْ أَوْحَيْنَآ إِلَىٰٓ أُمِّكَ مَا يُوحَىٰٓ",
+            "page_number": 314,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97322,
+                    "resource_id": 20,
+                    "text": "When We inspired to your mother what We inspired,"
+                },
+                {
+                    "id": 215190,
+                    "resource_id": 39,
+                    "text": "\"Ketika Kami ilhamkan kepada ibumu, dengan memberitahu kepadanya:"
+                },
+                {
+                    "id": 1093363,
+                    "resource_id": 161,
+                    "text": "যখন আমি তোমার মায়ের প্রতি ইঙ্গিত করেছিলাম যা ওয়াহীযোগে জানানো হয়েছিল-"
+                }
+            ]
+        },
+        {
+            "id": 2387,
+            "verse_number": 39,
+            "verse_key": "20:39",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 271,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "أَنِ ٱقْذِفِيهِ فِى ٱلتَّابُوتِ فَٱقْذِفِيهِ فِى ٱلْيَمِّ فَلْيُلْقِهِ ٱلْيَمُّ بِٱلسَّاحِلِ يَأْخُذْهُ عَدُوٌّ لِّى وَعَدُوٌّ لَّهُۥ ۚ وَأَلْقَيْتُ عَلَيْكَ مَحَبَّةً مِّنِّى وَلِتُصْنَعَ عَلَىٰ عَيْنِىٓ",
+            "page_number": 314,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97323,
+                    "resource_id": 20,
+                    "text": "[Saying], 'Cast him into the chest and cast it into the river, and the river will throw it onto the bank; there will take him an enemy to Me and an enemy to him.' And I bestowed upon you love from Me<sup foot_note=196745>1</sup> that you would be brought up under My eye [i.e., observation and care]."
+                },
+                {
+                    "id": 215189,
+                    "resource_id": 39,
+                    "text": "\"Letakkanlah anakmu di dalam peti, kemudian lepaskanlah peti itu ke laut, maka biarlah laut itu membawanya terdampar ke pantai, supaya dipungut oleh musuhKu dan musuhnya; dan Aku telah tanamkan dari kemurahanKu perasaan kasih sayang orang terhadapmu; dan supaya engkau dibela dan dipelihara dengan pengawasanKu."
+                },
+                {
+                    "id": 1093364,
+                    "resource_id": 161,
+                    "text": "যে তুমি মূসাকে সিন্দুকের মধ্যে রাখ। তারপর তা দরিয়ায় ভাসিয়ে দাও। অতঃপর দরিয়া তাকে পাড়ে ঠেলে দেবে। তাকে আমার শত্রু ও তার শত্রু উঠিয়ে নেবে। আমি আমার নিকট হতে তোমার প্রতি ভালবাসা ঢেলে দিয়েছিলাম, যাতে তুমি আমার দৃষ্টির সম্মুখে প্রতিপালিত হও।’"
+                }
+            ]
+        },
+        {
+            "id": 2388,
+            "verse_number": 40,
+            "verse_key": "20:40",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 271,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "إِذْ تَمْشِىٓ أُخْتُكَ فَتَقُولُ هَلْ أَدُلُّكُمْ عَلَىٰ مَن يَكْفُلُهُۥ ۖ فَرَجَعْنَـٰكَ إِلَىٰٓ أُمِّكَ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ ۚ وَقَتَلْتَ نَفْسًا فَنَجَّيْنَـٰكَ مِنَ ٱلْغَمِّ وَفَتَنَّـٰكَ فُتُونًا ۚ فَلَبِثْتَ سِنِينَ فِىٓ أَهْلِ مَدْيَنَ ثُمَّ جِئْتَ عَلَىٰ قَدَرٍ يَـٰمُوسَىٰ",
+            "page_number": 314,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97325,
+                    "resource_id": 20,
+                    "text": "[And We favored you] when your sister went and said, 'Shall I direct you to someone who will be responsible for him?' So We restored you to your mother that she might be content and not grieve. And you killed someone,<sup foot_note=196746>1</sup> but We saved you from retaliation and tried you with a [severe] trial. And you remained [some] years among the people of Madyan. Then you came [here] at the decreed time, O Moses."
+                },
+                {
+                    "id": 215192,
+                    "resource_id": 39,
+                    "text": "\"Ketika saudara perempuanmu pergi mencarimu lalu berkata kepada orang-orang yang memungutmu:\" Mahukah, aku tunjukkan kamu kepada orang yang boleh memeliharanya?\" Maka dengan jalan itu Kami mengembalikanmu kepada ibumu supaya tenang hatinya dan supaya ia tidak berdukacita kerana bercerai denganmu; dan semasa engkau membunuh seorang lelaki, lalu Kami selamatkan engkau dari kesusahan pembunuhan itu; dan Kami telah melepaskan engkau berkali-kali dari berbagai-bagai cubaan; kemudian engkau tinggal dengan selamat beberapa tahun dalam kalangan penduduk negeri Madyan; setelah itu engkau sekarang datang dari sana pada masa yang telah ditentukan, wahai Musa!"
+                },
+                {
+                    "id": 1093365,
+                    "resource_id": 161,
+                    "text": "যখন তোমার বোন গিয়ে বলল, ‘তোমাদেরকে কি বলে দেব কে এই শিশুর তত্ত্বাবধান ও প্রতিপালনের ভার নেবে?’ এভাবে আমি তোমাকে তোমার মায়ের কাছে ফিরিয়ে আনলাম যাতে তার চোখ জুড়ায় আর সে দুঃখ না পায়। আর তুমি এক লোককে হত্যা করেছিলে, অতঃপর আমি তোমাকে মনোবেদনা থেকে মুক্তি দিয়েছি। আমি তোমাকে অনেক পরীক্ষা করেছি। অতঃপর তুমি কয়েক বছর মাদ্ইয়ানবাসীদের মধ্যে অবস্থান করলে, এরপর হে মূসা! তুমি নির্ধারিত সময়ে এসে হাযির হয়েছ।"
+                }
+            ]
+        },
+        {
+            "id": 2389,
+            "verse_number": 41,
+            "verse_key": "20:41",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 271,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱصْطَنَعْتُكَ لِنَفْسِى",
+            "page_number": 314,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97326,
+                    "resource_id": 20,
+                    "text": "And I produced you for Myself.<sup foot_note=196747>1</sup>"
+                },
+                {
+                    "id": 215195,
+                    "resource_id": 39,
+                    "text": "\"Dan Aku telah memilihmu untuk menjadi RasulKu."
+                },
+                {
+                    "id": 1093366,
+                    "resource_id": 161,
+                    "text": "আমি তোমাকে আমার নিজের জন্য তৈরি করেছি।"
+                }
+            ]
+        },
+        {
+            "id": 2390,
+            "verse_number": 42,
+            "verse_key": "20:42",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 271,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "ٱذْهَبْ أَنتَ وَأَخُوكَ بِـَٔايَـٰتِى وَلَا تَنِيَا فِى ذِكْرِى",
+            "page_number": 314,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97115,
+                    "resource_id": 20,
+                    "text": "Go, you and your brother, with My signs and do not slacken in My remembrance."
+                },
+                {
+                    "id": 215194,
+                    "resource_id": 39,
+                    "text": "\"Pergilah, engkau dan saudaramu, membawa mukjizat-mukjizat pengurniaanKu dan janganlah kamu berdua lemah dan cuai dalam menyebut serta mengingati Daku."
+                },
+                {
+                    "id": 1093367,
+                    "resource_id": 161,
+                    "text": "তুমি আর তোমার ভাই আমার নিদর্শন নিয়ে যাও আর তোমরা আমাকে স্মরণ করার বিষয়ে শৈথিল্য করো না।"
+                }
+            ]
+        },
+        {
+            "id": 2391,
+            "verse_number": 43,
+            "verse_key": "20:43",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 271,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "ٱذْهَبَآ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+            "page_number": 314,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97164,
+                    "resource_id": 20,
+                    "text": "Go, both of you, to Pharaoh. Indeed, he has transgressed."
+                },
+                {
+                    "id": 215197,
+                    "resource_id": 39,
+                    "text": "\"Pergilah kamu berdua kepada Firaun, sesungguhnya ia telah melampaui batas dalam kekufurannya."
+                },
+                {
+                    "id": 1093368,
+                    "resource_id": 161,
+                    "text": "তোমরা দু’জন ফেরাউনের নিকট যাও, বস্তুতঃ সে সীমালঙ্ঘন করেছে।"
+                }
+            ]
+        },
+        {
+            "id": 2392,
+            "verse_number": 44,
+            "verse_key": "20:44",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 271,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَقُولَا لَهُۥ قَوْلًا لَّيِّنًا لَّعَلَّهُۥ يَتَذَكَّرُ أَوْ يَخْشَىٰ",
+            "page_number": 314,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 96923,
+                    "resource_id": 20,
+                    "text": "And speak to him with gentle speech that perhaps he may be reminded or fear [Allāh].\""
+                },
+                {
+                    "id": 215196,
+                    "resource_id": 39,
+                    "text": "\"Kemudian hendaklah kamu berkata kepadanya, dengan kata-kata yang lemah-lembut, semoga ia beringat atau takut\"."
+                },
+                {
+                    "id": 1093369,
+                    "resource_id": 161,
+                    "text": "তার সঙ্গে তোমরা নম্রভাবে কথা বলবে, হয়তো সে উপদেশ গ্রহণ করবে কিংবা (আল্লাহর) ভয় করবে।’"
+                }
+            ]
+        },
+        {
+            "id": 2393,
+            "verse_number": 45,
+            "verse_key": "20:45",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 271,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَا رَبَّنَآ إِنَّنَا نَخَافُ أَن يَفْرُطَ عَلَيْنَآ أَوْ أَن يَطْغَىٰ",
+            "page_number": 314,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97327,
+                    "resource_id": 20,
+                    "text": "They said, \"Our Lord, indeed we are afraid that he will hasten [punishment] against us or that he will transgress.\""
+                },
+                {
+                    "id": 215198,
+                    "resource_id": 39,
+                    "text": "Mereka berdua berkata: \"Wahai Tuhan kami! Sesungguhnya kami takut bahawa ia akan segera menyeksa kami, atau ia akan melampau batas\"."
+                },
+                {
+                    "id": 1093370,
+                    "resource_id": 161,
+                    "text": "তারা বলল, ‘হে আমাদের প্রতিপালক! আমাদের ভয় হচ্ছে সে আমাদের প্রতি হঠাৎ উত্তেজিত হয়ে উঠবে কিংবা আমাদের প্রতি আচরণে বাড়াবাড়ি করবে।’"
+                }
+            ]
+        },
+        {
+            "id": 2394,
+            "verse_number": 46,
+            "verse_key": "20:46",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 271,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ لَا تَخَافَآ ۖ إِنَّنِى مَعَكُمَآ أَسْمَعُ وَأَرَىٰ",
+            "page_number": 314,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97328,
+                    "resource_id": 20,
+                    "text": "[Allāh] said, \"Fear not. Indeed, I am with you both; I hear and I see."
+                },
+                {
+                    "id": 215199,
+                    "resource_id": 39,
+                    "text": "Allah berfirman: \"Janganlah kamu takut, sesungguhnya Aku ada bersama-sama kamu; Aku mendengar dan melihat segala-galanya."
+                },
+                {
+                    "id": 1093371,
+                    "resource_id": 161,
+                    "text": "তিনি বললেন, ‘তোমরা ভয় করো না, আমি তোমাদের সাথেই আছি, আমি (সব কিছু) শুনি আর দেখি।"
+                }
+            ]
+        },
+        {
+            "id": 2395,
+            "verse_number": 47,
+            "verse_key": "20:47",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 271,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَأْتِيَاهُ فَقُولَآ إِنَّا رَسُولَا رَبِّكَ فَأَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ وَلَا تُعَذِّبْهُمْ ۖ قَدْ جِئْنَـٰكَ بِـَٔايَةٍ مِّن رَّبِّكَ ۖ وَٱلسَّلَـٰمُ عَلَىٰ مَنِ ٱتَّبَعَ ٱلْهُدَىٰٓ",
+            "page_number": 314,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97329,
+                    "resource_id": 20,
+                    "text": "So go to him and say, 'Indeed, we are messengers of your Lord, so send with us the Children of Israel and do not torment them. We have come to you with a sign from your Lord. And peace<sup foot_note=196748>1</sup> will be upon he who follows the guidance."
+                },
+                {
+                    "id": 215201,
+                    "resource_id": 39,
+                    "text": "\"Oleh itu, pergilah kamu berdua kepadanya, kemudian katakanlah: \"Bahawa sesungguhnya kami ini Rasul-rasul dari Tuhanmu, maka bebaskanlah kaum Bani lsrail mengikut kami, dan janganlah engkau menyeksakan mereka. Sesungguhnya kami telah datang kepadamu membawa satu tanda (mukjizat) dari Tuhanmu! Dan selamat sejahtera itu adalah untuk orang-orang yang menurut petunjuk ugama Allah."
+                },
+                {
+                    "id": 1093372,
+                    "resource_id": 161,
+                    "text": "কাজেই তোমরা দু’জন তার কাছে এসো আর বল- আমরা তোমার প্রতিপালকের রসূল, কাজেই বানী ইসরাঈলকে আমাদের সঙ্গে পাঠিয়ে দাও, তাদের প্রতি উৎপীড়ন করো না। তোমার প্রতিপালকের নিদর্শনসহই আমরা তোমার কাছে এসেছি, আর শান্তি বর্ষিত হোক তাদের প্রতি যারা সৎ পথ অনুসরণ করে।"
+                }
+            ]
+        },
+        {
+            "id": 2396,
+            "verse_number": 48,
+            "verse_key": "20:48",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 271,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّا قَدْ أُوحِىَ إِلَيْنَآ أَنَّ ٱلْعَذَابَ عَلَىٰ مَن كَذَّبَ وَتَوَلَّىٰ",
+            "page_number": 314,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97330,
+                    "resource_id": 20,
+                    "text": "Indeed, it has been revealed to us that the punishment will be upon whoever denies and turns away.'\""
+                },
+                {
+                    "id": 215209,
+                    "resource_id": 39,
+                    "text": "\"Sesungguhnya telah diwahyukan kepada kami bahawa azab seksa di dunia dan di akhirat ditimpakan kepada orang yang mendustakan ayat-ayat Allah dan berpaling daripadanya\"."
+                },
+                {
+                    "id": 1093373,
+                    "resource_id": 161,
+                    "text": "আমাদের কাছে ওয়াহী করা হয়েছে যে শাস্তি (অপেক্ষা করছে) তার জন্য যে (সত্য) প্রত্যাখ্যান করে আর মুখ ফিরিয়ে নেয়।’"
+                }
+            ]
+        },
+        {
+            "id": 2397,
+            "verse_number": 49,
+            "verse_key": "20:49",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 271,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ فَمَن رَّبُّكُمَا يَـٰمُوسَىٰ",
+            "page_number": 314,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97331,
+                    "resource_id": 20,
+                    "text": "[Pharaoh] said, \"So who is the Lord of you two, O Moses?\""
+                },
+                {
+                    "id": 215203,
+                    "resource_id": 39,
+                    "text": "(Setelah mereka menyampaikan perintah Allah itu), Firaun berkata: \"Jika demikian, siapakah Tuhan kamu berdua, hai Musa?\""
+                },
+                {
+                    "id": 1093374,
+                    "resource_id": 161,
+                    "text": "ফেরাউন বলল, ‘হে মূসা! কে তোমাদের প্রতিপালক?’"
+                }
+            ]
+        },
+        {
+            "id": 2398,
+            "verse_number": 50,
+            "verse_key": "20:50",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 271,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ رَبُّنَا ٱلَّذِىٓ أَعْطَىٰ كُلَّ شَىْءٍ خَلْقَهُۥ ثُمَّ هَدَىٰ",
+            "page_number": 314,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97333,
+                    "resource_id": 20,
+                    "text": "He said, \"Our Lord is He who gave each thing its form and then guided [it].\""
+                },
+                {
+                    "id": 215205,
+                    "resource_id": 39,
+                    "text": "Nabi Musa menjawab: \"Tuhan kami ialah yang telah memberikan kepada tiap-tiap sesuatu: kejadian semulajadinya yang sesuai dengannya, kemudian Ia memberi petunjuk kepadanya akan cara menggunakannya\"."
+                },
+                {
+                    "id": 1093375,
+                    "resource_id": 161,
+                    "text": "মূসা বলল, ‘আমাদের প্রতিপালক তিনি যিনি সকল (সৃষ্ট) বস্তুকে আকৃতি দান করেছেন, অতঃপর পথ প্রদর্শন করেছেন।’"
+                }
+            ]
+        },
+        {
+            "id": 2399,
+            "verse_number": 51,
+            "verse_key": "20:51",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 271,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ فَمَا بَالُ ٱلْقُرُونِ ٱلْأُولَىٰ",
+            "page_number": 314,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97334,
+                    "resource_id": 20,
+                    "text": "[Pharaoh] said, \"Then what is the case of the former generations?\""
+                },
+                {
+                    "id": 215206,
+                    "resource_id": 39,
+                    "text": "Firaun bertanya lagi: \"Jika demikian, bagaimana pula keadaan kaum-kaum yang telah lalu?\""
+                },
+                {
+                    "id": 1093376,
+                    "resource_id": 161,
+                    "text": "ফেরাউন বলল, ‘তাহলে আগের যুগের লোকেদের অবস্থা কী?’"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 14,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 14
+    }
+}

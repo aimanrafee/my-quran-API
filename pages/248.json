@@ -1,0 +1,251 @@
+{
+    "verses": [
+        {
+            "id": 1700,
+            "verse_number": 104,
+            "verse_key": "12:104",
+            "hizb_number": 25,
+            "rub_el_hizb_number": 99,
+            "ruku_number": 203,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا تَسْـَٔلُهُمْ عَلَيْهِ مِنْ أَجْرٍ ۚ إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَـٰلَمِينَ",
+            "page_number": 248,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96500,
+                    "resource_id": 20,
+                    "text": "And you do not ask of them for it any payment. It is not except a reminder to the worlds."
+                },
+                {
+                    "id": 220424,
+                    "resource_id": 39,
+                    "text": "Padahal engkau tidak meminta kepada mereka sebarang upah tentang ajaran Al-Quran, sedang Al-Quran itu tidak lain hanyalah peringatan dan pengajaran dari Allah bagi umat manusia seluruhnya."
+                },
+                {
+                    "id": 1092677,
+                    "resource_id": 161,
+                    "text": "তুমি তার জন্য তাদের কাছে কোন পারিশ্রমিক চাচ্ছ না, এটা তো বিশ্বজগতের সকলের জন্য উপদেশ মাত্র।"
+                }
+            ]
+        },
+        {
+            "id": 1701,
+            "verse_number": 105,
+            "verse_key": "12:105",
+            "hizb_number": 25,
+            "rub_el_hizb_number": 99,
+            "ruku_number": 204,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَكَأَيِّن مِّنْ ءَايَةٍ فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ يَمُرُّونَ عَلَيْهَا وَهُمْ عَنْهَا مُعْرِضُونَ",
+            "page_number": 248,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96501,
+                    "resource_id": 20,
+                    "text": "And how many a sign within the heavens and earth do they pass over while they, therefrom, are turning away."
+                },
+                {
+                    "id": 214645,
+                    "resource_id": 39,
+                    "text": "Dan berapa banyak tanda-tanda kekuasaan Allah di langit dan di bumi yang mereka menyaksikannya berulang-ulang semasa mereka pagi dan datang, sedang mereka tidak juga menghiraukan dan memikirkannya."
+                },
+                {
+                    "id": 1092678,
+                    "resource_id": 161,
+                    "text": "আসমানে আর যমীনে বহু নিদর্শন আছে যেগুলোর উপর দিয়ে তারা (প্রতিনিয়ত) অতিক্রম করে কিন্তু এসব কিছু থেকে তারা অবজ্ঞা করছে।"
+                }
+            ]
+        },
+        {
+            "id": 1702,
+            "verse_number": 106,
+            "verse_key": "12:106",
+            "hizb_number": 25,
+            "rub_el_hizb_number": 99,
+            "ruku_number": 204,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا يُؤْمِنُ أَكْثَرُهُم بِٱللَّهِ إِلَّا وَهُم مُّشْرِكُونَ",
+            "page_number": 248,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96502,
+                    "resource_id": 20,
+                    "text": "And most of them believe not in Allāh except while they associate others with Him."
+                },
+                {
+                    "id": 220322,
+                    "resource_id": 39,
+                    "text": "Dan (orang-orang yang beriman kepada Allah), kebanyakan mereka tidak beriman kepada Allah melainkan mereka mempersekutukannya juga dengan yang lain."
+                },
+                {
+                    "id": 1092679,
+                    "resource_id": 161,
+                    "text": "অধিকাংশ মানুষ আল্লাহতে বিশ্বাস করে, কিন্তু সাথে সাথে শিরকও করে।"
+                }
+            ]
+        },
+        {
+            "id": 1703,
+            "verse_number": 107,
+            "verse_key": "12:107",
+            "hizb_number": 25,
+            "rub_el_hizb_number": 99,
+            "ruku_number": 204,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "أَفَأَمِنُوٓا۟ أَن تَأْتِيَهُمْ غَـٰشِيَةٌ مِّنْ عَذَابِ ٱللَّهِ أَوْ تَأْتِيَهُمُ ٱلسَّاعَةُ بَغْتَةً وَهُمْ لَا يَشْعُرُونَ",
+            "page_number": 248,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96505,
+                    "resource_id": 20,
+                    "text": "Then do they feel secure that there will not come to them an overwhelming [aspect] of the punishment of Allāh or that the Hour will not come upon them suddenly while they do not perceive?"
+                },
+                {
+                    "id": 220453,
+                    "resource_id": 39,
+                    "text": "(Mengapa mereka bersikap demikian?) Adakah mereka merasa aman dari didatangi azab Allah yang meliputi mereka, atau didatangi hari kiamat secara mengejut, sedang mereka tidak menyedarinya?"
+                },
+                {
+                    "id": 1092680,
+                    "resource_id": 161,
+                    "text": "তারা কি নিশ্চিন্ত যে, আল্লাহর সর্বগ্রাসী ‘আযাব তাদের উপর এসে পড়বে না? কিংবা হঠাৎ ক্বিয়ামাত তাদের উপর এসে পড়বে না যা তারা টেরও পাবে না?"
+                }
+            ]
+        },
+        {
+            "id": 1704,
+            "verse_number": 108,
+            "verse_key": "12:108",
+            "hizb_number": 25,
+            "rub_el_hizb_number": 99,
+            "ruku_number": 204,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "قُلْ هَـٰذِهِۦ سَبِيلِىٓ أَدْعُوٓا۟ إِلَى ٱللَّهِ ۚ عَلَىٰ بَصِيرَةٍ أَنَا۠ وَمَنِ ٱتَّبَعَنِى ۖ وَسُبْحَـٰنَ ٱللَّهِ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ",
+            "page_number": 248,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96506,
+                    "resource_id": 20,
+                    "text": "Say, \"This is my way; I invite to Allāh with insight, I and those who follow me. And exalted is Allāh; and I am not of those who associate others with Him.\""
+                },
+                {
+                    "id": 220454,
+                    "resource_id": 39,
+                    "text": "Katakanlah (wahai Muhammad): \"Inilah jalanku, aku dan orang-orang yang menurutku, menyeru manusia umumnya kepada ugama Allah dengan berdasarkan keterangan dan bukti yang jelas nyata. Dan aku menegaskan: Maha suci Allah (dari segala iktiqad dan perbuatan syirik); dan bukanlah aku dari golongan yang mempersekutukan Allah dengan sesuatu yang lain.\""
+                },
+                {
+                    "id": 1092681,
+                    "resource_id": 161,
+                    "text": "বল, ‘এটাই আমার পথ, আল্লাহর পথে আহবান জানাচ্ছি, আমি ও আমার অনুসারীরা, স্পষ্ট জ্ঞানের মাধ্যমে। আল্লাহ মহান, পবিত্র; আমি কক্ষনো মুশরিকদের মধ্যে শামিল হব না।"
+                }
+            ]
+        },
+        {
+            "id": 1705,
+            "verse_number": 109,
+            "verse_key": "12:109",
+            "hizb_number": 25,
+            "rub_el_hizb_number": 99,
+            "ruku_number": 204,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَآ أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِىٓ إِلَيْهِم مِّنْ أَهْلِ ٱلْقُرَىٰٓ ۗ أَفَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ ۗ وَلَدَارُ ٱلْـَٔاخِرَةِ خَيْرٌ لِّلَّذِينَ ٱتَّقَوْا۟ ۗ أَفَلَا تَعْقِلُونَ",
+            "page_number": 248,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96507,
+                    "resource_id": 20,
+                    "text": "And We sent not before you [as messengers] except men to whom We revealed from among the people of cities. So have they<sup foot_note=196538>1</sup> not traveled through the earth and observed how was the end of those before them? And the home of the Hereafter is best for those who fear Allāh; then will you not reason?"
+                },
+                {
+                    "id": 220455,
+                    "resource_id": 39,
+                    "text": "Dan tiadalah Kami mengutus Rasul - sebelummu (wahai Muhammad) melainkan orang-orang lelaki dari penduduk bandar, yang kami wahyukan kepada mereka. Maka mengapa orang-orang (yang tidak mahu beriman) itu tidak mengembara di muka bumi, supaya memerhatikan bagaimana akibat orang-orang kafir yang terdahulu dari mereka? Dan (ingatlah) sesungguhnya negeri akhirat lebih baik bagi orang-orang yang bertaqwa. Oleh itu, mengapa kamu (wahai manusia) tidak mahu memikirkannya?"
+                },
+                {
+                    "id": 1092682,
+                    "resource_id": 161,
+                    "text": "তোমার পূর্বে জনপদবাসীদের মধ্যে যাদের কাছে ওয়াহী করতাম তারা পুরুষ মানুষ ব্যতীত ছিল না। তারা কি পৃথিবীতে ভ্রমণ করতঃ দেখে না যে, তাদের পূর্ববর্তী লোকেদের পরিণাম কী হয়েছিল? যারা তাকওয়া অবলম্বন করে, নিশ্চিতই পরলোকের ঘর তাদের আরো উত্তম, তবুও কি তোমরা বুঝবে না?"
+                }
+            ]
+        },
+        {
+            "id": 1706,
+            "verse_number": 110,
+            "verse_key": "12:110",
+            "hizb_number": 25,
+            "rub_el_hizb_number": 99,
+            "ruku_number": 204,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "حَتَّىٰٓ إِذَا ٱسْتَيْـَٔسَ ٱلرُّسُلُ وَظَنُّوٓا۟ أَنَّهُمْ قَدْ كُذِبُوا۟ جَآءَهُمْ نَصْرُنَا فَنُجِّىَ مَن نَّشَآءُ ۖ وَلَا يُرَدُّ بَأْسُنَا عَنِ ٱلْقَوْمِ ٱلْمُجْرِمِينَ",
+            "page_number": 248,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96509,
+                    "resource_id": 20,
+                    "text": "[They continued] until, when the messengers despaired and were certain that they had been denied, there came to them Our victory, and whoever We willed was saved. And Our punishment cannot be repelled from the people who are criminals."
+                },
+                {
+                    "id": 220462,
+                    "resource_id": 39,
+                    "text": "(Orang-orang yang mendustakan ugama Allah itu telah diberi tempoh yang lanjut sebelum ditimpakan dengan azab) hingga apabila Rasul-rasul berputus asa terhadap kaumnya yang ingkar dan menyangka bahawa mereka telah disifatkan oleh kaumnya sebagai orang-orang yang berdusta, datanglah pertolongan Kami kepada mereka, lalu diselamatkanlah sesiapa yang Kami kehendaki. Dan (ingatlah bahawa) azab Kami tidak akan dapat ditolak oleh sesiapapun daripada menimpa kaum yang berdosa."
+                },
+                {
+                    "id": 1092683,
+                    "resource_id": 161,
+                    "text": "(হে নাবী! তোমার পূর্বেও এমন ঘটেছে যে,) শেষ পর্যন্ত রসূলগণ নিরাশ হয়েছে, আর লোকেরা মনে করেছে যে, তাদেরকে মিথ্যে কথা বলা হয়েছে, তখন তাদের (রাসূলদের) কাছে আমার সাহায্য এসে পৌঁছেছে, এভাবেই আমি যাকে ইচ্ছে রক্ষা করি। অপরাধী সম্প্রদায় থেকে আমার শাস্তি কক্ষনো ফিরিয়ে নেয়া হয় না।"
+                }
+            ]
+        },
+        {
+            "id": 1707,
+            "verse_number": 111,
+            "verse_key": "12:111",
+            "hizb_number": 25,
+            "rub_el_hizb_number": 99,
+            "ruku_number": 204,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "لَقَدْ كَانَ فِى قَصَصِهِمْ عِبْرَةٌ لِّأُو۟لِى ٱلْأَلْبَـٰبِ ۗ مَا كَانَ حَدِيثًا يُفْتَرَىٰ وَلَـٰكِن تَصْدِيقَ ٱلَّذِى بَيْنَ يَدَيْهِ وَتَفْصِيلَ كُلِّ شَىْءٍ وَهُدًى وَرَحْمَةً لِّقَوْمٍ يُؤْمِنُونَ",
+            "page_number": 248,
+            "juz_number": 13,
+            "translations": [
+                {
+                    "id": 96510,
+                    "resource_id": 20,
+                    "text": "There was certainly in their stories a lesson for those of understanding. Never was it [i.e., the Qur’ān] a narration invented, but a confirmation of what was before it and a detailed explanation of all things and guidance and mercy for a people who believe."
+                },
+                {
+                    "id": 220466,
+                    "resource_id": 39,
+                    "text": "Demi sesungguhnya, kisah Nabi-nabi itu mengandungi pelajaran yang mendatangkan iktibar bagi orang-orang yang mempunyai akal fikiran. (Kisah Nabi-nabi yang terkandung dalam Al-Quran) bukanlah ia cerita-cerita yang diada-adakan, tetapi ia mengesahkan apa yang tersebut di dalam Kitab-kitab ugama yang terdahulu daripadanya, dan ia sebagai keterangan yang menjelaskan tiap-tiap sesuatu, serta menjadi hidayah petunjuk dan rahmat bagi kaum yang (mahu) beriman."
+                },
+                {
+                    "id": 1092684,
+                    "resource_id": 161,
+                    "text": "এদের কাহিনীসমূহে বোধশক্তিসম্পন্ন মানুষদের জন্য শিক্ষণীয় বিষয় আছে। এ কুরআন কোন মিথ্যে রচনা নয়, বরং তাদের পূর্বে আগত কিতাবের প্রত্যয়নকারী আর যাবতীয় বিষয়ের বিস্তারিত বিররণে সমৃদ্ধ, আর মু’মিন সম্প্রদায়ের জন্য পথের দিশারী ও রহমাত।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 8,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 8
+    }
+}

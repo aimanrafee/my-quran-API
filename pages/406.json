@@ -1,0 +1,281 @@
+{
+    "verses": [
+        {
+            "id": 3425,
+            "verse_number": 16,
+            "verse_key": "30:16",
+            "hizb_number": 41,
+            "rub_el_hizb_number": 162,
+            "ruku_number": 351,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَمَّا ٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَـٰتِنَا وَلِقَآئِ ٱلْـَٔاخِرَةِ فَأُو۟لَـٰٓئِكَ فِى ٱلْعَذَابِ مُحْضَرُونَ",
+            "page_number": 406,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98608,
+                    "resource_id": 20,
+                    "text": "But as for those who disbelieved and denied Our verses and the meeting of the Hereafter, those will be brought into the punishment [to remain]."
+                },
+                {
+                    "id": 216459,
+                    "resource_id": 39,
+                    "text": "Dan sebaliknya kumpulan orang-orang yang kafir dan mendustakan ayat-ayat Kami (Al-Quran) serta mendustakan pertemuan hari akhirat, maka mereka akan tetap berada dalam azab seksa selama-lamanya."
+                },
+                {
+                    "id": 1094402,
+                    "resource_id": 161,
+                    "text": "আর যারা কুফুরী করেছে এবং আমার নিদর্শনাবলী ও আখিরাতের সাক্ষাৎকে অস্বীকার করেছে, তাদেরকে ‘আযাবের মধ্যে উপস্থিত করা হবে।"
+                }
+            ]
+        },
+        {
+            "id": 3426,
+            "verse_number": 17,
+            "verse_key": "30:17",
+            "hizb_number": 41,
+            "rub_el_hizb_number": 162,
+            "ruku_number": 351,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "فَسُبْحَـٰنَ ٱللَّهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ",
+            "page_number": 406,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98609,
+                    "resource_id": 20,
+                    "text": "So exalted is Allāh when you reach the evening and when you reach the morning."
+                },
+                {
+                    "id": 216460,
+                    "resource_id": 39,
+                    "text": "(Setelah kamu mengetahui yang demikian) maka bertasbihlah kepada Allah semasa kamu berada pada waktu malam dan semasa kamu berada pada waktu subuh."
+                },
+                {
+                    "id": 1094403,
+                    "resource_id": 161,
+                    "text": "অতএব তোমরা আল্লাহর পবিত্রতা ও মহিমা ঘোষণা কর যখন তোমরা সন্ধ্যায় উপনীত হও আর সকালে,"
+                }
+            ]
+        },
+        {
+            "id": 3427,
+            "verse_number": 18,
+            "verse_key": "30:18",
+            "hizb_number": 41,
+            "rub_el_hizb_number": 162,
+            "ruku_number": 351,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَهُ ٱلْحَمْدُ فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَعَشِيًّا وَحِينَ تُظْهِرُونَ",
+            "page_number": 406,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98610,
+                    "resource_id": 20,
+                    "text": "And to Him is [due all] praise throughout the heavens and the earth. And [exalted is He] at night and when you are at noon."
+                },
+                {
+                    "id": 216461,
+                    "resource_id": 39,
+                    "text": "Serta pujilah Allah yang berhak menerima segala puji (dari sekalian makhlukNya) di langit dan di bumi, dan juga (bertasbihlah kepadaNya serta pujilah Dia) pada waktu petang dan semasa kamu berada pada waktu zuhur."
+                },
+                {
+                    "id": 1094404,
+                    "resource_id": 161,
+                    "text": "এবং অপরাহ্নে ও যুহরের সময়ে; আর আসমানসমূহে ও যমীনে প্রশংসা তো একমাত্র তাঁরই।"
+                }
+            ]
+        },
+        {
+            "id": 3428,
+            "verse_number": 19,
+            "verse_key": "30:19",
+            "hizb_number": 41,
+            "rub_el_hizb_number": 162,
+            "ruku_number": 351,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَيُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ وَيُحْىِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا ۚ وَكَذَٰلِكَ تُخْرَجُونَ",
+            "page_number": 406,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98611,
+                    "resource_id": 20,
+                    "text": "He brings the living out of the dead and brings the dead out of the living and brings to life the earth after its lifelessness. And thus will you be brought out.<sup foot_note=197043>1</sup>"
+                },
+                {
+                    "id": 216462,
+                    "resource_id": 39,
+                    "text": "Ia mengeluarkan sesuatu yang hidup dari benda yang mati, dan mengeluarkan benda yang mati dari sesuatu yang hidup, serta menghidupkan bumi sesudah matinya; dan sedemikian itulah kamu akan dikeluarkan (hidup semula dari kubur)."
+                },
+                {
+                    "id": 1094405,
+                    "resource_id": 161,
+                    "text": "তিনিই জীবন্তকে বের করেন মৃত থেকে আর মৃতকে বের করেন জীবন্ত থেকে। যমীনকে তিনিই পুনরায় জীবিত করেন তার মৃত্যুর পর, এভাবেই তোমাদেরকে বের করা হবে।"
+                }
+            ]
+        },
+        {
+            "id": 3429,
+            "verse_number": 20,
+            "verse_key": "30:20",
+            "hizb_number": 41,
+            "rub_el_hizb_number": 162,
+            "ruku_number": 352,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَمِنْ ءَايَـٰتِهِۦٓ أَنْ خَلَقَكُم مِّن تُرَابٍ ثُمَّ إِذَآ أَنتُم بَشَرٌ تَنتَشِرُونَ",
+            "page_number": 406,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98613,
+                    "resource_id": 20,
+                    "text": "And of His signs is that He created you from dust; then, suddenly you were human beings dispersing [throughout the earth]."
+                },
+                {
+                    "id": 216464,
+                    "resource_id": 39,
+                    "text": "Dan di antara tanda-tanda yang membuktikan kekuasaanNya (menghidupkan kamu semula), bahawa Ia menciptakan kamu dari tanah; setelah sempurna sahaja peringkat-peringkat kejadian kamu, kamu menjadi manusia yang hidup bertebaran di muka bumi."
+                },
+                {
+                    "id": 1094406,
+                    "resource_id": 161,
+                    "text": "তাঁর নিদর্শনের মধ্যে হল এই যে, তিনি তোমাদেরকে মাটি থেকে সৃষ্টি করেছেন, অতঃপর তোমরা এখন মানুষ, সবখানে ছড়িয়ে রয়েছ।"
+                }
+            ]
+        },
+        {
+            "id": 3430,
+            "verse_number": 21,
+            "verse_key": "30:21",
+            "hizb_number": 41,
+            "rub_el_hizb_number": 162,
+            "ruku_number": 352,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَمِنْ ءَايَـٰتِهِۦٓ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا لِّتَسْكُنُوٓا۟ إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ",
+            "page_number": 406,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98614,
+                    "resource_id": 20,
+                    "text": "And of His signs is that He created for you from yourselves mates that you may find tranquility in them; and He placed between you affection and mercy. Indeed in that are signs for a people who give thought."
+                },
+                {
+                    "id": 216465,
+                    "resource_id": 39,
+                    "text": "Dan di antara tanda-tanda yang membuktikan kekuasaannya dan rahmatNya, bahawa Ia menciptakan untuk kamu (wahai kaum lelaki), isteri-isteri dari jenis kamu sendiri, supaya kamu bersenang hati dan hidup mesra dengannya, dan dijadikanNya di antara kamu (suami isteri) perasaan kasih sayang dan belas kasihan. Sesungguhnya yang demikian itu mengandungi keterangan-keterangan (yang menimbulkan kesedaran) bagi orang-orang yang berfikir."
+                },
+                {
+                    "id": 1094407,
+                    "resource_id": 161,
+                    "text": "তাঁর নিদর্শনের মধ্যে হল এই যে, তিনি তোমাদের জন্য তোমাদের মধ্য হতেই তোমাদের সঙ্গিণী সৃষ্টি করেছেন যাতে তোমরা তার কাছে শান্তি লাভ করতে পার আর তিনি তোমাদের মধ্যে পারস্পরিক ভালবাসা ও দয়া সৃষ্টি করেছেন। এর মাঝে অবশ্যই বহু নিদর্শন আছে সেই সম্প্রদায়ের জন্য যারা চিন্তা করে।"
+                }
+            ]
+        },
+        {
+            "id": 3431,
+            "verse_number": 22,
+            "verse_key": "30:22",
+            "hizb_number": 41,
+            "rub_el_hizb_number": 162,
+            "ruku_number": 352,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَمِنْ ءَايَـٰتِهِۦ خَلْقُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَـٰفُ أَلْسِنَتِكُمْ وَأَلْوَٰنِكُمْ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّلْعَـٰلِمِينَ",
+            "page_number": 406,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98615,
+                    "resource_id": 20,
+                    "text": "And of His signs is the creation of the heavens and the earth and the diversity of your languages and your colors. Indeed in that are signs for those of knowledge."
+                },
+                {
+                    "id": 216466,
+                    "resource_id": 39,
+                    "text": "Dan di antara tanda-tanda yang membuktikan kekuasaanNya dan kebijaksanaanNya ialah kejadian langit dan bumi, dan perbezaan bahasa kamu dan warna kulit kamu. Sesungguhnya yang demikian itu mengandungi keterangan-keterangan bagi orang-orang yang berpengetahuan."
+                },
+                {
+                    "id": 1094408,
+                    "resource_id": 161,
+                    "text": "তাঁর নিদর্শনের মধ্যে হল, আসমানসমূহ ও যমীনের সৃষ্টি এবং তোমাদের ভাষা ও বর্ণের বিভিন্নতা। জ্ঞানীদের জন্য অবশ্যই এতে আছে বহু নিদর্শন।"
+                }
+            ]
+        },
+        {
+            "id": 3432,
+            "verse_number": 23,
+            "verse_key": "30:23",
+            "hizb_number": 41,
+            "rub_el_hizb_number": 162,
+            "ruku_number": 352,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَمِنْ ءَايَـٰتِهِۦ مَنَامُكُم بِٱلَّيْلِ وَٱلنَّهَارِ وَٱبْتِغَآؤُكُم مِّن فَضْلِهِۦٓ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يَسْمَعُونَ",
+            "page_number": 406,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98616,
+                    "resource_id": 20,
+                    "text": "And of His signs is your sleep by night and day and your seeking of His bounty. Indeed in that are signs for a people who listen."
+                },
+                {
+                    "id": 216467,
+                    "resource_id": 39,
+                    "text": "Dan di antara tanda-tanda yang membuktikan kemurahannya dan kasih sayangNya ialah tidurnya kamu pada waktu malam dan pada siang hari, dan usaha kamu mencari rezeki dari limpah kurniaNya (pada kedua-dua waktu itu). Sesungguhnya keadaan yang demikian mengandungi keterangan-keterangan bagi orang-orang yang mahu mendengar (nasihat pengajaran)."
+                },
+                {
+                    "id": 1094409,
+                    "resource_id": 161,
+                    "text": "তাঁর নিদর্শনের মধ্যে হল রাতে ও দিনে তোমাদের ঘুম এবং তোমাদের (দ্বারা) তাঁর অনুগ্রহ তালাশ করা। মনোযোগী লোকেদের জন্য অবশ্যই এতে আছে অনেক নিদর্শন।"
+                }
+            ]
+        },
+        {
+            "id": 3433,
+            "verse_number": 24,
+            "verse_key": "30:24",
+            "hizb_number": 41,
+            "rub_el_hizb_number": 162,
+            "ruku_number": 352,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَمِنْ ءَايَـٰتِهِۦ يُرِيكُمُ ٱلْبَرْقَ خَوْفًا وَطَمَعًا وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مَآءً فَيُحْىِۦ بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَآ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يَعْقِلُونَ",
+            "page_number": 406,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98617,
+                    "resource_id": 20,
+                    "text": "And of His signs is [that] He shows you the lightning [causing] fear and aspiration, and He sends down rain from the sky by which He brings to life the earth after its lifelessness. Indeed in that are signs for a people who use reason."
+                },
+                {
+                    "id": 216468,
+                    "resource_id": 39,
+                    "text": "Dan di antara tanda-tanda yang membuktikan kebesaranNya dan kekuasaanNya, Ia memperlihatkan kilat kepada kamu, untuk menakutkan (dari panahan petir) dan memberi harapan (dengan turunnya hujan); dan Ia menurunkan hujan dari langit, lalu Ia hidupkan bumi sesudah matinya dengan hujan itu. Sesungguhnya yang demikian mengandungi keterangan-keterangan bagi orang-orang yang menggunakan akal untuk memahamiNya."
+                },
+                {
+                    "id": 1094410,
+                    "resource_id": 161,
+                    "text": "তাঁর নিদর্শনের মধ্যে হল এই যে, তিনি তোমাদেরকে দেখান বিদ্যুৎ ভীতি ও ভরসা সঞ্চারীরূপে, আর তিনি আকাশ হতে পানি বর্ষণ করেন যা দিয়ে যমীনকে তার মৃত্যুর পর আবার জীবিত করেন, জ্ঞানবুদ্ধিসম্পন্ন মানুষদের জন্য অবশ্যই এতে বহু নিদর্শন আছে।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 9,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 9
+    }
+}

@@ -1,0 +1,671 @@
+{
+    "verses": [
+        {
+            "id": 4896,
+            "verse_number": 50,
+            "verse_key": "54:50",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 467,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَآ أَمْرُنَآ إِلَّا وَٰحِدَةٌ كَلَمْحٍۭ بِٱلْبَصَرِ",
+            "page_number": 531,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100514,
+                    "resource_id": 20,
+                    "text": "And Our command is but one, like a glance of the eye."
+                },
+                {
+                    "id": 218357,
+                    "resource_id": 39,
+                    "text": "Dan hal Kami (dalam melaksanakan apa yang Kami kehendaki), hanyalah satu cara sahaja, (cepat jadinya) seperti sekelip mata."
+                },
+                {
+                    "id": 1095873,
+                    "resource_id": 161,
+                    "text": "আমার আদেশ তো মাত্র একটি কথা- চোখের পলকের মত।"
+                }
+            ]
+        },
+        {
+            "id": 4897,
+            "verse_number": 51,
+            "verse_key": "54:51",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 467,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَقَدْ أَهْلَكْنَآ أَشْيَاعَكُمْ فَهَلْ مِن مُّدَّكِرٍ",
+            "page_number": 531,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100515,
+                    "resource_id": 20,
+                    "text": "And We have already destroyed your kinds,<sup foot_note=197466>1</sup> so is there any who will remember?"
+                },
+                {
+                    "id": 218359,
+                    "resource_id": 39,
+                    "text": "Dan demi sesungguhnya! Kami telah binasakan orang-orang yang sama keadaannya seperti kamu; maka adakah sesiapa yang mahu mengambil peringatan dan pelajaran?"
+                },
+                {
+                    "id": 1095874,
+                    "resource_id": 161,
+                    "text": "আমি তোমাদের মত দলগুলোকে ইতোপূর্বে ধ্বংস করেছি, কাজেই উপদেশ গ্রহণ করার কেউ আছে কি?"
+                }
+            ]
+        },
+        {
+            "id": 4898,
+            "verse_number": 52,
+            "verse_key": "54:52",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 467,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَكُلُّ شَىْءٍ فَعَلُوهُ فِى ٱلزُّبُرِ",
+            "page_number": 531,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100516,
+                    "resource_id": 20,
+                    "text": "And everything they did is in written records."
+                },
+                {
+                    "id": 218364,
+                    "resource_id": 39,
+                    "text": "Dan tiap-tiap perkara yang mereka lakukan, adalah tertulis di dalam Kitab suratan amal;"
+                },
+                {
+                    "id": 1095875,
+                    "resource_id": 161,
+                    "text": "তারা যা কিছু করেছে তা আছে ‘আমালনামায়,"
+                }
+            ]
+        },
+        {
+            "id": 4899,
+            "verse_number": 53,
+            "verse_key": "54:53",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 467,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَكُلُّ صَغِيرٍ وَكَبِيرٍ مُّسْتَطَرٌ",
+            "page_number": 531,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100517,
+                    "resource_id": 20,
+                    "text": "And every small and great [thing] is inscribed."
+                },
+                {
+                    "id": 218360,
+                    "resource_id": 39,
+                    "text": "Dan tiap-tiap perkara yang kecil dan yang besar tetap tercatit."
+                },
+                {
+                    "id": 1095876,
+                    "resource_id": 161,
+                    "text": "ছোট আর বড় সবই আছে লিপিবদ্ধ।"
+                }
+            ]
+        },
+        {
+            "id": 4900,
+            "verse_number": 54,
+            "verse_key": "54:54",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 467,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ ٱلْمُتَّقِينَ فِى جَنَّـٰتٍ وَنَهَرٍ",
+            "page_number": 531,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100518,
+                    "resource_id": 20,
+                    "text": "Indeed, the righteous will be among gardens and rivers,"
+                },
+                {
+                    "id": 218361,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya orang-orang yang bertakwa, di tempatkan dalam taman-taman Syurga (yang indah) dan (dekat) beberapa sungai,"
+                },
+                {
+                    "id": 1095877,
+                    "resource_id": 161,
+                    "text": "মুত্তাক্বীরা থাকবে বাগান আর ঝর্ণাধারার মাঝে,"
+                }
+            ]
+        },
+        {
+            "id": 4901,
+            "verse_number": 55,
+            "verse_key": "54:55",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 467,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فِى مَقْعَدِ صِدْقٍ عِندَ مَلِيكٍ مُّقْتَدِرٍۭ",
+            "page_number": 531,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100519,
+                    "resource_id": 20,
+                    "text": "In a seat of honor near a Sovereign, Perfect in Ability.<sup foot_note=197467>1</sup>"
+                },
+                {
+                    "id": 218362,
+                    "resource_id": 39,
+                    "text": "Di tempat yang sungguh bahagia, di sisi Tuhan Yang Menguasai segala-galanya, lagi Yang Berkuasa melakukan sekehendakNya."
+                },
+                {
+                    "id": 1095878,
+                    "resource_id": 161,
+                    "text": "প্রকৃত সম্মান ও মর্যাদার স্থানে, সর্বময় কর্তৃত্বের অধিকারী (আল্লাহ)’র নিকটে।"
+                }
+            ]
+        },
+        {
+            "id": 4902,
+            "verse_number": 1,
+            "verse_key": "55:1",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 468,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " ٱلرَّحْمَـٰنُ",
+            "page_number": 531,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100531,
+                    "resource_id": 20,
+                    "text": "The Most Merciful"
+                },
+                {
+                    "id": 214869,
+                    "resource_id": 39,
+                    "text": "(Tuhan) Yang Maha Pemurah serta melimpah-limpah rahmatNya."
+                },
+                {
+                    "id": 1095879,
+                    "resource_id": 161,
+                    "text": "পরম দয়ালু (আল্লাহ),"
+                }
+            ]
+        },
+        {
+            "id": 4903,
+            "verse_number": 2,
+            "verse_key": "55:2",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 468,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "عَلَّمَ ٱلْقُرْءَانَ",
+            "page_number": 531,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100543,
+                    "resource_id": 20,
+                    "text": "Taught the Qur’ān,"
+                },
+                {
+                    "id": 214636,
+                    "resource_id": 39,
+                    "text": "Dia lah yang telah mengajarkan Al-Quran."
+                },
+                {
+                    "id": 1095880,
+                    "resource_id": 161,
+                    "text": "তিনিই শিক্ষা দিয়েছেন কুরআন,"
+                }
+            ]
+        },
+        {
+            "id": 4904,
+            "verse_number": 3,
+            "verse_key": "55:3",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 468,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "خَلَقَ ٱلْإِنسَـٰنَ",
+            "page_number": 531,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100555,
+                    "resource_id": 20,
+                    "text": "Created man,"
+                },
+                {
+                    "id": 218448,
+                    "resource_id": 39,
+                    "text": "Dia lah yang telah menciptakan manusia; -"
+                },
+                {
+                    "id": 1095881,
+                    "resource_id": 161,
+                    "text": "তিনিই মানুষ সৃষ্টি করেছেন,"
+                }
+            ]
+        },
+        {
+            "id": 4905,
+            "verse_number": 4,
+            "verse_key": "55:4",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 468,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "عَلَّمَهُ ٱلْبَيَانَ",
+            "page_number": 531,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100568,
+                    "resource_id": 20,
+                    "text": "[And] taught him eloquence."
+                },
+                {
+                    "id": 218524,
+                    "resource_id": 39,
+                    "text": "Dia lah yang telah membolehkan manusia (bertutur) memberi dan menerima kenyataan."
+                },
+                {
+                    "id": 1095882,
+                    "resource_id": 161,
+                    "text": "তিনিই শিখিয়েছেন মনের কথা প্রকাশ করতে,"
+                }
+            ]
+        },
+        {
+            "id": 4906,
+            "verse_number": 5,
+            "verse_key": "55:5",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 468,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلشَّمْسُ وَٱلْقَمَرُ بِحُسْبَانٍ",
+            "page_number": 531,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100580,
+                    "resource_id": 20,
+                    "text": "The sun and the moon [move] by precise calculation,"
+                },
+                {
+                    "id": 218197,
+                    "resource_id": 39,
+                    "text": "Matahari dan bulan beredar dengan peraturan dan hitungan yang tertentu;"
+                },
+                {
+                    "id": 1095883,
+                    "resource_id": 161,
+                    "text": "সূর্য ও চন্দ্র আবর্তন করে সুনির্দিষ্ট হিসাব অনুযায়ী।"
+                }
+            ]
+        },
+        {
+            "id": 4907,
+            "verse_number": 6,
+            "verse_key": "55:6",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 468,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ",
+            "page_number": 531,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100592,
+                    "resource_id": 20,
+                    "text": "And the stars and trees prostrate.<sup foot_note=197468>1</sup>"
+                },
+                {
+                    "id": 218430,
+                    "resource_id": 39,
+                    "text": "Dan tumbuh-tumbuhan yang melata serta pohon-pohon kayu-kayan, masing-masing tunduk menurut peraturanNya."
+                },
+                {
+                    "id": 1095884,
+                    "resource_id": 161,
+                    "text": "তৃণলতা গাছপালা (তাঁরই জন্য) সাজদায় অবনত,"
+                }
+            ]
+        },
+        {
+            "id": 4908,
+            "verse_number": 7,
+            "verse_key": "55:7",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 468,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ",
+            "page_number": 531,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100604,
+                    "resource_id": 20,
+                    "text": "And the heaven He raised and imposed the balance"
+                },
+                {
+                    "id": 218442,
+                    "resource_id": 39,
+                    "text": "Dan langit dijadikannya (bumbung) tinggi, serta Ia mengadakan undang-undang dan peraturan neraca keadilan,"
+                },
+                {
+                    "id": 1095885,
+                    "resource_id": 161,
+                    "text": "তিনি আকাশকে করেছেন সমুন্নত, আর স্থাপন করেছেন (ন্যায়ের) মানদন্ড,"
+                }
+            ]
+        },
+        {
+            "id": 4909,
+            "verse_number": 8,
+            "verse_key": "55:8",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 468,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَلَّا تَطْغَوْا۟ فِى ٱلْمِيزَانِ",
+            "page_number": 531,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100615,
+                    "resource_id": 20,
+                    "text": "That you not transgress within the balance."
+                },
+                {
+                    "id": 218456,
+                    "resource_id": 39,
+                    "text": "Supaya kamu tidak melampaui batas dalam menjalankan keadilan;"
+                },
+                {
+                    "id": 1095886,
+                    "resource_id": 161,
+                    "text": "যাতে তোমরা মানদন্ডে সীমালঙ্ঘন না কর,"
+                }
+            ]
+        },
+        {
+            "id": 4910,
+            "verse_number": 9,
+            "verse_key": "55:9",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 468,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَقِيمُوا۟ ٱلْوَزْنَ بِٱلْقِسْطِ وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ",
+            "page_number": 531,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100617,
+                    "resource_id": 20,
+                    "text": "And establish weight in justice and do not make deficient the balance."
+                },
+                {
+                    "id": 218458,
+                    "resource_id": 39,
+                    "text": "Dan betulkanlah cara menimbang itu dengan adil, serta janganlah kamu mengurangi barang yang ditimbang."
+                },
+                {
+                    "id": 1095887,
+                    "resource_id": 161,
+                    "text": "সুবিচারের সঙ্গে ওজন প্রতিষ্ঠা কর আর ওজনে কম দিও না,"
+                }
+            ]
+        },
+        {
+            "id": 4911,
+            "verse_number": 10,
+            "verse_key": "55:10",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 468,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلْأَرْضَ وَضَعَهَا لِلْأَنَامِ",
+            "page_number": 531,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100532,
+                    "resource_id": 20,
+                    "text": "And the earth He laid [out] for the creatures."
+                },
+                {
+                    "id": 218421,
+                    "resource_id": 39,
+                    "text": "Dan bumi pula dijadikannya rata untuk kegunaan manusia dan makhluk-makhlukNya yang lain:"
+                },
+                {
+                    "id": 1095888,
+                    "resource_id": 161,
+                    "text": "আর যমীন- তিনি (তাঁর) প্রাণীকুলের জন্য তাকে করেছেন বিস্তৃত,"
+                }
+            ]
+        },
+        {
+            "id": 4912,
+            "verse_number": 11,
+            "verse_key": "55:11",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 468,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فِيهَا فَـٰكِهَةٌ وَٱلنَّخْلُ ذَاتُ ٱلْأَكْمَامِ",
+            "page_number": 531,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100533,
+                    "resource_id": 20,
+                    "text": "Therein is fruit and palm trees having sheaths [of dates]"
+                },
+                {
+                    "id": 218422,
+                    "resource_id": 39,
+                    "text": "Terdapat padanya berbagai jenis buah-buahan dan pohon-pohon kurma yang ada kelopak-kelopak mayang;"
+                },
+                {
+                    "id": 1095889,
+                    "resource_id": 161,
+                    "text": "এতে আছে নানান ফলমূল, আর খেজুর গাছ যার ফল আবরণে ঢাকা,"
+                }
+            ]
+        },
+        {
+            "id": 4913,
+            "verse_number": 12,
+            "verse_key": "55:12",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 468,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلْحَبُّ ذُو ٱلْعَصْفِ وَٱلرَّيْحَانُ",
+            "page_number": 531,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100534,
+                    "resource_id": 20,
+                    "text": "And grain having husks and scented plants."
+                },
+                {
+                    "id": 218380,
+                    "resource_id": 39,
+                    "text": "Demikian juga terdapat biji-bijian yang ada jerami serta daun, dan terdapat lagi bunga-bungaan yang harum;"
+                },
+                {
+                    "id": 1095890,
+                    "resource_id": 161,
+                    "text": "আর খোসা ও ডাটা বিশিষ্ট দানা আর সুগন্ধী গাছ।"
+                }
+            ]
+        },
+        {
+            "id": 4914,
+            "verse_number": 13,
+            "verse_key": "55:13",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 468,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "page_number": 531,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100535,
+                    "resource_id": 20,
+                    "text": "So which of the favors of your Lord would you deny?<sup foot_note=197469>1</sup>"
+                },
+                {
+                    "id": 218381,
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan (wahai umat manusia dan jin)?"
+                },
+                {
+                    "id": 1095891,
+                    "resource_id": 161,
+                    "text": "অতএব (হে জ্বিন ও মানুষ!) তোমরা তোমাদের প্রতিপালকের কোন্ কোন্ নিয়ামতকে অস্বীকার করবে?"
+                }
+            ]
+        },
+        {
+            "id": 4915,
+            "verse_number": 14,
+            "verse_key": "55:14",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 468,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "خَلَقَ ٱلْإِنسَـٰنَ مِن صَلْصَـٰلٍ كَٱلْفَخَّارِ",
+            "page_number": 531,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100536,
+                    "resource_id": 20,
+                    "text": "He created man from clay like [that of] pottery."
+                },
+                {
+                    "id": 218382,
+                    "resource_id": 39,
+                    "text": "Ia menciptakan manusia (lembaga Adam) dari tanah liat kering seperti tembikar,"
+                },
+                {
+                    "id": 1095892,
+                    "resource_id": 161,
+                    "text": "তিনি মানুষকে সৃষ্টি করেছেন পোড়া মাটির মত শুকনা পচা কাদা হতে,"
+                }
+            ]
+        },
+        {
+            "id": 4916,
+            "verse_number": 15,
+            "verse_key": "55:15",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 468,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَخَلَقَ ٱلْجَآنَّ مِن مَّارِجٍ مِّن نَّارٍ",
+            "page_number": 531,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100537,
+                    "resource_id": 20,
+                    "text": "And He created the jinn from a smokeless flame of fire."
+                },
+                {
+                    "id": 218388,
+                    "resource_id": 39,
+                    "text": "Dan Ia telah menciptakan jin dari lidah api yang menjulang-julang;"
+                },
+                {
+                    "id": 1095893,
+                    "resource_id": 161,
+                    "text": "আর জ্বিনকে সৃষ্টি করেছেন ধোঁয়াবিহীন আগুন হতে।"
+                }
+            ]
+        },
+        {
+            "id": 4917,
+            "verse_number": 16,
+            "verse_key": "55:16",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 213,
+            "ruku_number": 468,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "page_number": 531,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100538,
+                    "resource_id": 20,
+                    "text": "So which of the favors of your Lord would you deny?"
+                },
+                {
+                    "id": 218383,
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhan kamu, yang kamu hendak dustakan?"
+                },
+                {
+                    "id": 1095894,
+                    "resource_id": 161,
+                    "text": "অতএব (হে জ্বিন ও মানুষ!) তোমরা তোমাদের প্রতিপালকের কোন্ কোন্ নি‘মাতকে অস্বীকার করবে?"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 24,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 24
+    }
+}

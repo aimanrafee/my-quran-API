@@ -1,0 +1,161 @@
+{
+    "verses": [
+        {
+            "id": 715,
+            "verse_number": 46,
+            "verse_key": "5:46",
+            "hizb_number": 12,
+            "rub_el_hizb_number": 46,
+            "ruku_number": 92,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَقَفَّيْنَا عَلَىٰٓ ءَاثَـٰرِهِم بِعِيسَى ٱبْنِ مَرْيَمَ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ مِنَ ٱلتَّوْرَىٰةِ ۖ وَءَاتَيْنَـٰهُ ٱلْإِنجِيلَ فِيهِ هُدًى وَنُورٌ وَمُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ مِنَ ٱلتَّوْرَىٰةِ وَهُدًى وَمَوْعِظَةً لِّلْمُتَّقِينَ",
+            "page_number": 116,
+            "juz_number": 6,
+            "translations": [
+                {
+                    "id": 100520,
+                    "resource_id": 20,
+                    "text": "And We sent, following in their footsteps,<sup foot_note=196192>1</sup> Jesus, the son of Mary, confirming that which came before him in the Torah; and We gave him the Gospel, in which was guidance and light and confirming that which preceded it of the Torah as guidance and instruction for the righteous."
+                },
+                {
+                    "id": 218363,
+                    "resource_id": 39,
+                    "text": "Dan Kami utuskan Nabi Isa Ibni Maryam mengikuti jejak langkah mereka (Nabi-nabi Bani Israil), untuk membenarkan Kitab Taurat yang diturunkan sebelumnya; dan Kami telah berikan kepadanya Kitab Injil, yang mengandungi petunjuk hidayah dan cahaya yang menerangi, sambil mengesahkan benarnya apa yang telah ada di hadapannya dari Kitab Taurat, serta menjadi petunjuk dan nasihat pengajaran bagi orang-orang yang (hendak) bertaqwa."
+                },
+                {
+                    "id": 1091692,
+                    "resource_id": 161,
+                    "text": "তাদের পশ্চাতে মারইয়াম পুত্র ‘ঈসাকে পাঠিয়েছিলাম তাদের সামনে তাওরাত কিতাবের যা কিছু ছিল তার সত্যতা প্রতিপাদনকারী হিসেবে। তাকে ইঞ্জিল দিয়েছিলাম, যাতে ছিল সত্য পথের দিশা ও আলো, এবং ইহা পূর্ববর্তী কিতাব তাওরাতকে সত্যায়নকারী এবং মুত্তাকীদের জন্য সঠিক পথের দিশা ও নাসীহাত।"
+                }
+            ]
+        },
+        {
+            "id": 716,
+            "verse_number": 47,
+            "verse_key": "5:47",
+            "hizb_number": 12,
+            "rub_el_hizb_number": 46,
+            "ruku_number": 92,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَلْيَحْكُمْ أَهْلُ ٱلْإِنجِيلِ بِمَآ أَنزَلَ ٱللَّهُ فِيهِ ۚ وَمَن لَّمْ يَحْكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْفَـٰسِقُونَ",
+            "page_number": 116,
+            "juz_number": 6,
+            "translations": [
+                {
+                    "id": 100522,
+                    "resource_id": 20,
+                    "text": "And let the People of the Gospel judge by what Allāh has revealed therein. And whoever does not judge by what Allāh has revealed - then it is those who are the defiantly disobedient."
+                },
+                {
+                    "id": 218365,
+                    "resource_id": 39,
+                    "text": "Dan hendaklah Ahli Kitab Injil menghukum dengan apa yang telah diturunkan oleh Allah di dalamnya; dan sesiapa yang tidak menghukum dengan apa yang telah diturunkan oleh Allah, maka mereka itulah orang-orang yang fasik."
+                },
+                {
+                    "id": 1091693,
+                    "resource_id": 161,
+                    "text": "ইঞ্জিলের অনুসারীগণ যেন আল্লাহ তাতে যে বিধান দিয়েছেন তদনুযায়ী বিচার ফয়সালা করে। আল্লাহ যা নাযিল করেছেন তদনুযায়ী যারা বিচার ফায়সালা করে না তারাই ফাসিক।"
+                }
+            ]
+        },
+        {
+            "id": 717,
+            "verse_number": 48,
+            "verse_key": "5:48",
+            "hizb_number": 12,
+            "rub_el_hizb_number": 46,
+            "ruku_number": 92,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَنزَلْنَآ إِلَيْكَ ٱلْكِتَـٰبَ بِٱلْحَقِّ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ مِنَ ٱلْكِتَـٰبِ وَمُهَيْمِنًا عَلَيْهِ ۖ فَٱحْكُم بَيْنَهُم بِمَآ أَنزَلَ ٱللَّهُ ۖ وَلَا تَتَّبِعْ أَهْوَآءَهُمْ عَمَّا جَآءَكَ مِنَ ٱلْحَقِّ ۚ لِكُلٍّ جَعَلْنَا مِنكُمْ شِرْعَةً وَمِنْهَاجًا ۚ وَلَوْ شَآءَ ٱللَّهُ لَجَعَلَكُمْ أُمَّةً وَٰحِدَةً وَلَـٰكِن لِّيَبْلُوَكُمْ فِى مَآ ءَاتَىٰكُمْ ۖ فَٱسْتَبِقُوا۟ ٱلْخَيْرَٰتِ ۚ إِلَى ٱللَّهِ مَرْجِعُكُمْ جَمِيعًا فَيُنَبِّئُكُم بِمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ",
+            "page_number": 116,
+            "juz_number": 6,
+            "translations": [
+                {
+                    "id": 100524,
+                    "resource_id": 20,
+                    "text": "And We have revealed to you, [O Muḥammad], the Book [i.e., the Qur’ān] in truth, confirming that which preceded it of the Scripture and as a criterion over it. So judge between them by what Allāh has revealed and do not follow their inclinations away from what has come to you of the truth. To each of you We prescribed a law and a method.<sup foot_note=196194>1</sup> Had Allāh willed, He would have made you one nation [united in religion], but [He intended] to test you in what He has given you; so race to [all that is] good.<sup foot_note=196193>2</sup> To Allāh is your return all together, and He will [then] inform you concerning that over which you used to differ."
+                },
+                {
+                    "id": 218371,
+                    "resource_id": 39,
+                    "text": "Dan Kami turunkan kepadamu (wahai Muhammad) Kitab (Al-Quran) dengan membawa kebenaran, untuk mengesahkan benarnya Kitab-kitab Suci yang telah diturunkan sebelumnya dan untuk memelihara serta mengawasinya. Maka jalankanlah hukum di antara mereka (Ahli Kitab) itu dengan apa yang telah diturunkan oleh Allah (kepadamu), dan janganlah engkau mengikut kehendak hawa nafsu mereka (dengan menyeleweng) dari apa yang telah datang kepadamu dari kebenaran. Bagi tiap-tiap umat yang ada di antara kamu, Kami jadikan (tetapkan) suatu Syariat dan jalan ugama (yang wajib diikuti oleh masing-masing). Dan kalau Allah menghendaki nescaya Ia menjadikan kamu satu umat (yang bersatu dalam ugama yang satu), tetapi Ia hendak menguji kamu (dalam menjalankan) apa yang telah disampaikan kepada kamu. Oleh itu berlumba-lumbalah kamu membuat kebaikan (beriman dan beramal soleh). Kepada Allah jualah tempat kembali kamu semuanya, maka Ia akan memberitahu kamu apa yang kamu berselisihan padanya."
+                },
+                {
+                    "id": 1091694,
+                    "resource_id": 161,
+                    "text": "আর আমি সত্য বিধানসহ তোমার প্রতি কিতাব নাযিল করেছি যা পূর্ববর্তী কিতাবসমূহের সত্যায়নকারী ও সংরক্ষক। কাজেই মানুষদের মধ্যে বিচার ফায়সালা কর আল্লাহ যা নাযিল করেছেন তদনুসারে, আর তোমার কাছে যে সত্যবিধান এসেছে তা ছেড়ে দিয়ে তাদের খেয়াল খুশির অনুসরণ করো না। আমি তোমাদের প্রত্যেকের জন্য একটি শরীয়াত ও একটি কর্মপথ নির্ধারণ করেছি। আল্লাহ ইচ্ছে করলে তোমাদেরকে এক উম্মাত করতেন। কিন্তু তিনি তোমাদেরকে যা দিয়েছেন সেই ব্যাপারে তিনি তোমাদের পরীক্ষা করতে চান। কাজেই তোমরা সৎকর্মে অগ্রগামী হও, তোমাদের সকলের প্রত্যাবর্তন আল্লাহর দিকেই। অতঃপর তোমরা যে বিষয়ে মতভেদ করছিলে, সে সম্বন্ধে তিনি তোমাদেরকে অবহিত করবেন।"
+                }
+            ]
+        },
+        {
+            "id": 718,
+            "verse_number": 49,
+            "verse_key": "5:49",
+            "hizb_number": 12,
+            "rub_el_hizb_number": 46,
+            "ruku_number": 92,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَنِ ٱحْكُم بَيْنَهُم بِمَآ أَنزَلَ ٱللَّهُ وَلَا تَتَّبِعْ أَهْوَآءَهُمْ وَٱحْذَرْهُمْ أَن يَفْتِنُوكَ عَنۢ بَعْضِ مَآ أَنزَلَ ٱللَّهُ إِلَيْكَ ۖ فَإِن تَوَلَّوْا۟ فَٱعْلَمْ أَنَّمَا يُرِيدُ ٱللَّهُ أَن يُصِيبَهُم بِبَعْضِ ذُنُوبِهِمْ ۗ وَإِنَّ كَثِيرًا مِّنَ ٱلنَّاسِ لَفَـٰسِقُونَ",
+            "page_number": 116,
+            "juz_number": 6,
+            "translations": [
+                {
+                    "id": 100526,
+                    "resource_id": 20,
+                    "text": "And judge, [O Muḥammad], between them by what Allāh has revealed and do not follow their inclinations and beware of them, lest they tempt you away from some of what Allāh has revealed to you. And if they turn away - then know that Allāh only intends to afflict them with some of their [own] sins. And indeed, many among the people are defiantly disobedient."
+                },
+                {
+                    "id": 218373,
+                    "resource_id": 39,
+                    "text": "Dan hendaklah engkau menjalankan hukum di antara mereka dengan apa yang telah diturunkan oleh Allah dan janganlah engkau menurut kehendak hawa nafsu mereka, dan berjaga-jagalah supaya mereka tidak memesongkanmu dari sesuatu hukum yang telah diturunkan oleh Allah kepadamu. Kemudian jika mereka berpaling (enggan menerima hukum Allah itu), maka ketahuilah, hanyasanya Allah mahu menyeksa mereka dengan sebab setengah dari dosa-dosa mereka; dan sesungguhnya kebanyakan dari umat manusia itu adalah orang-orang yang fasik."
+                },
+                {
+                    "id": 1091695,
+                    "resource_id": 161,
+                    "text": "আর তুমি তাদের মধ্যে বিচার ফয়সালা কর আল্লাহ যা নাযিল করেছেন তদনুযায়ী, তাদের খেয়াল খুশির অনুসরণ করবে না। আর তাদের থেকে সতর্ক থাক তারা যেন আল্লাহ তোমার প্রতি যা নাযিল করেছেন তার কোন কিছু থেকে তোমাকে ফেতনায় না ফেলতে পারে। যদি তারা মুখ ফিরিয়ে নেয়, তবে জেনে রেখ, আল্লাহ তাদের কোন কোন পাপের কারণে তাদেরকে শাস্তি দিতে চান, মানুষদের অধিকাংশই প্রকৃতপক্ষে সত্য ত্যাগী।"
+                }
+            ]
+        },
+        {
+            "id": 719,
+            "verse_number": 50,
+            "verse_key": "5:50",
+            "hizb_number": 12,
+            "rub_el_hizb_number": 46,
+            "ruku_number": 92,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "أَفَحُكْمَ ٱلْجَـٰهِلِيَّةِ يَبْغُونَ ۚ وَمَنْ أَحْسَنُ مِنَ ٱللَّهِ حُكْمًا لِّقَوْمٍ يُوقِنُونَ",
+            "page_number": 116,
+            "juz_number": 6,
+            "translations": [
+                {
+                    "id": 100529,
+                    "resource_id": 20,
+                    "text": "Then is it the judgement of [the time of] ignorance they desire? But who is better than Allāh in judgement for a people who are certain [in faith]."
+                },
+                {
+                    "id": 218419,
+                    "resource_id": 39,
+                    "text": "Sesudah itu, patutkah mereka berkehendak lagi kepada hukum-hukum jahiliyah? Padahal - kepada orang-orang yang penuh keyakinan - tidak ada sesiapa yang boleh membuat hukum yang lebih pada daripada Allah."
+                },
+                {
+                    "id": 1091696,
+                    "resource_id": 161,
+                    "text": "তারা কি জাহিলী যুগের আইন বিধান চায়? দৃঢ় বিশ্বাসী সম্প্রদায়ের জন্য আইন-বিধান প্রদানে আল্লাহ হতে কে বেশী শ্রেষ্ঠ?"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 5,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 5
+    }
+}

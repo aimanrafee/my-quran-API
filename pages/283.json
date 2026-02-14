@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 2037,
+            "verse_number": 8,
+            "verse_key": "17:8",
+            "hizb_number": 29,
+            "rub_el_hizb_number": 113,
+            "ruku_number": 240,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "عَسَىٰ رَبُّكُمْ أَن يَرْحَمَكُمْ ۚ وَإِنْ عُدتُّمْ عُدْنَا ۘ وَجَعَلْنَا جَهَنَّمَ لِلْكَـٰفِرِينَ حَصِيرًا",
+            "page_number": 283,
+            "juz_number": 15,
+            "translations": [
+                {
+                    "id": 97022,
+                    "resource_id": 20,
+                    "text": "[Then Allāh said], \"It is expected, [if you repent], that your Lord will have mercy upon you. But if you return [to sin], We will return [to punishment]. And We have made Hell, for the disbelievers, a prison-bed.\""
+                },
+                {
+                    "id": 214752,
+                    "resource_id": 39,
+                    "text": "Mudah-mudahan Tuhan kamu akan mengasihani kamu (kalau kamu bertaubat); dan jika kamu kembali (menderhaka), maka Kami pula akan kembali (menyeksa kamu di dunia); dan kami telah jadikan neraka: penjara bagi orang-orang kafir (pada hari akhirat)."
+                },
+                {
+                    "id": 1093014,
+                    "resource_id": 161,
+                    "text": "(এরপরও) হয়তো তোমাদের প্রতিপালক তোমাদের প্রতি দয়া করবেন, কিন্তু যদি তোমরা (তোমাদের পূর্বকৃত পাপের) পুনরাবৃত্তি কর, তবে আমিও (পূর্বে দেয়া শাস্তির) পুনরাবৃত্তি করব। ঈমান প্রত্যাখ্যানকারীদের জন্য আমি জাহান্নামকে কারাগার বানিয়ে রেখেছি।"
+                }
+            ]
+        },
+        {
+            "id": 2038,
+            "verse_number": 9,
+            "verse_key": "17:9",
+            "hizb_number": 29,
+            "rub_el_hizb_number": 113,
+            "ruku_number": 240,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ هَـٰذَا ٱلْقُرْءَانَ يَهْدِى لِلَّتِى هِىَ أَقْوَمُ وَيُبَشِّرُ ٱلْمُؤْمِنِينَ ٱلَّذِينَ يَعْمَلُونَ ٱلصَّـٰلِحَـٰتِ أَنَّ لَهُمْ أَجْرًا كَبِيرًا",
+            "page_number": 283,
+            "juz_number": 15,
+            "translations": [
+                {
+                    "id": 97033,
+                    "resource_id": 20,
+                    "text": "Indeed, this Qur’ān guides to that which is most suitable and gives good tidings to the believers who do righteous deeds that they will have a great reward"
+                },
+                {
+                    "id": 214780,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Al-Quran ini memberi petunjuk ke jalan yang amat betul (ugama Islam), dan memberikan berita yang mengembirakan orang-orang yang beriman yang mengerjakan amal-amal soleh, bahawa mereka beroleh pahala yang besar."
+                },
+                {
+                    "id": 1093015,
+                    "resource_id": 161,
+                    "text": "নিশ্চয়ই এ কুরআন সেই পথ দেখায় যা সোজা ও সুপ্রতিষ্ঠিত, আর যারা সৎ কাজ করে সেই মু’মিনদেরকে সুসংবাদ দেয় যে, তাদের জন্য রয়েছে মহা পুরস্কার।"
+                }
+            ]
+        },
+        {
+            "id": 2039,
+            "verse_number": 10,
+            "verse_key": "17:10",
+            "hizb_number": 29,
+            "rub_el_hizb_number": 113,
+            "ruku_number": 240,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَنَّ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ أَعْتَدْنَا لَهُمْ عَذَابًا أَلِيمًا",
+            "page_number": 283,
+            "juz_number": 15,
+            "translations": [
+                {
+                    "id": 96934,
+                    "resource_id": 20,
+                    "text": "And that those who do not believe in the Hereafter - We have prepared for them a painful punishment."
+                },
+                {
+                    "id": 220910,
+                    "resource_id": 39,
+                    "text": "Dan bahawa orang-orang yang tidak beriman kepada hari akhirat, Kami sediakan bagi mereka azab seksa yang tidak terperi sakitnya."
+                },
+                {
+                    "id": 1093016,
+                    "resource_id": 161,
+                    "text": "আর (তা সংবাদ দেয় যে) যারা আখেরাতে ঈমান আনে না, তাদের জন্য আমি ভয়ঙ্কর ‘আযাব প্রস্তুত করে রেখেছি।"
+                }
+            ]
+        },
+        {
+            "id": 2040,
+            "verse_number": 11,
+            "verse_key": "17:11",
+            "hizb_number": 29,
+            "rub_el_hizb_number": 113,
+            "ruku_number": 241,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَيَدْعُ ٱلْإِنسَـٰنُ بِٱلشَّرِّ دُعَآءَهُۥ بِٱلْخَيْرِ ۖ وَكَانَ ٱلْإِنسَـٰنُ عَجُولًا",
+            "page_number": 283,
+            "juz_number": 15,
+            "translations": [
+                {
+                    "id": 96945,
+                    "resource_id": 20,
+                    "text": "And man supplicates for evil [when angry] as he supplicates for good, and man is ever hasty.<sup foot_note=196643>1</sup>"
+                },
+                {
+                    "id": 220922,
+                    "resource_id": 39,
+                    "text": "Dan manusia berdoa dengan (memohon supaya ia ditimpa) kejahatan sebagaimana ia berdoa dengan memohon kebaikan, dan sememangnya manusia itu (bertabiat) terburu-buru."
+                },
+                {
+                    "id": 1093017,
+                    "resource_id": 161,
+                    "text": "মানুষ (তার নির্বুদ্ধিতার কারণে কল্যাণকর ভেবে) অকল্যাণ প্রার্থনা করে যেমনভাবে কল্যাণ প্রার্থনা করা উচিত। মানুষ বড়ই তাড়াহুড়াকারী।"
+                }
+            ]
+        },
+        {
+            "id": 2041,
+            "verse_number": 12,
+            "verse_key": "17:12",
+            "hizb_number": 29,
+            "rub_el_hizb_number": 113,
+            "ruku_number": 241,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَجَعَلْنَا ٱلَّيْلَ وَٱلنَّهَارَ ءَايَتَيْنِ ۖ فَمَحَوْنَآ ءَايَةَ ٱلَّيْلِ وَجَعَلْنَآ ءَايَةَ ٱلنَّهَارِ مُبْصِرَةً لِّتَبْتَغُوا۟ فَضْلًا مِّن رَّبِّكُمْ وَلِتَعْلَمُوا۟ عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ ۚ وَكُلَّ شَىْءٍ فَصَّلْنَـٰهُ تَفْصِيلًا",
+            "page_number": 283,
+            "juz_number": 15,
+            "translations": [
+                {
+                    "id": 96948,
+                    "resource_id": 20,
+                    "text": "And We have made the night and day two signs, and We erased the sign of the night and made the sign of the day visible<sup foot_note=196644>1</sup> that you may seek bounty from your Lord and may know the number of years and the account [of time]. And everything We have set out in detail."
+                },
+                {
+                    "id": 220920,
+                    "resource_id": 39,
+                    "text": "Dan Kami jadikan malam dan siang itu dua tanda (yang membuktikan kekuasaan kami), maka Kami hapuskan tanda malam itu (sehingga menjadi gelap-gelita), dan Kami jadikan tanda siang itu terang-benderang supaya kamu mudah mencari rezeki dari limpah kurnia Tuhan kamu, dan supaya kamu mengetahui bilangan tahun dan hitungan hisab (bulan dan hari); dan (ingatlah) tiap-tiap sesuatu (yang kamu perlukan untuk dunia dan ugama kamu), Kami telah menerangkannya satu persatu (dalam Al-Quran) dengan sejelas-jelasnya."
+                },
+                {
+                    "id": 1093018,
+                    "resource_id": 161,
+                    "text": "আমি রাত আর দিনকে দু’টো নিদর্শন বানিয়েছি। আমি রাতের নিদর্শনটিকে জ্যোতিহীন করেছি, আর দিনের নিদর্শনটিকে করেছি আলোয় উজ্জ্বল যাতে তোমরা তোমাদের প্রতিপালকের অনুগ্রহ অনুসন্ধান করতে পার আর যাতে বছরের সংখ্যা আর হিসাব জানতে পার; আমি সকল বিষয় বিস্তারিতভাবে ব্যাখ্যা করে দিয়েছি।"
+                }
+            ]
+        },
+        {
+            "id": 2042,
+            "verse_number": 13,
+            "verse_key": "17:13",
+            "hizb_number": 29,
+            "rub_el_hizb_number": 113,
+            "ruku_number": 241,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَكُلَّ إِنسَـٰنٍ أَلْزَمْنَـٰهُ طَـٰٓئِرَهُۥ فِى عُنُقِهِۦ ۖ وَنُخْرِجُ لَهُۥ يَوْمَ ٱلْقِيَـٰمَةِ كِتَـٰبًا يَلْقَىٰهُ مَنشُورًا",
+            "page_number": 283,
+            "juz_number": 15,
+            "translations": [
+                {
+                    "id": 96949,
+                    "resource_id": 20,
+                    "text": "And [for] every person We have imposed his fate upon his neck,<sup foot_note=196645>1</sup> and We will produce for him on the Day of Resurrection a record which he will encounter spread open."
+                },
+                {
+                    "id": 220926,
+                    "resource_id": 39,
+                    "text": "Dan tiap-tiap seorang manusia Kami kalongkan bahagian nasibnya di lehernya, dan pada hari kiamat kelak Kami akan keluarkan kepadanya kitab (suratan amalnya) yang akan didapatinya terbuka (untuk di tatapnya)."
+                },
+                {
+                    "id": 1093019,
+                    "resource_id": 161,
+                    "text": "আমি প্রত্যেক লোকের ভাগ্য তার কাঁধেই ঝুলিয়ে রেখেছি (অর্থাৎ তার ভাগ্যের ভাল-মন্দের কারণ তার নিজের মধ্যেই নিহিত আছে) আর ক্বিয়ামতের দিন তার জন্য আমি এক কিতাব বের করব যাকে সে উন্মুক্ত অবস্থায় পাবে।"
+                }
+            ]
+        },
+        {
+            "id": 2043,
+            "verse_number": 14,
+            "verse_key": "17:14",
+            "hizb_number": 29,
+            "rub_el_hizb_number": 113,
+            "ruku_number": 241,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "ٱقْرَأْ كِتَـٰبَكَ كَفَىٰ بِنَفْسِكَ ٱلْيَوْمَ عَلَيْكَ حَسِيبًا",
+            "page_number": 283,
+            "juz_number": 15,
+            "translations": [
+                {
+                    "id": 96950,
+                    "resource_id": 20,
+                    "text": "[It will be said], \"Read your record. Sufficient is yourself against you this Day as accountant.\""
+                },
+                {
+                    "id": 220924,
+                    "resource_id": 39,
+                    "text": "(Lalu Kami perintahkan kepadanya): \"Bacalah Kitab (suratan amalmu), cukuplah engkau sendiri pada hari ini menjadi penghitung terhadap dirimu (tentang segala yang telah engkau lakukan)\"."
+                },
+                {
+                    "id": 1093020,
+                    "resource_id": 161,
+                    "text": "(তাকে বলা হবে) ‘পাঠ কর তোমার কিতাব, আজ তোমার হিসাব নেয়ার ব্যাপারে তুমিই যথেষ্ট।’"
+                }
+            ]
+        },
+        {
+            "id": 2044,
+            "verse_number": 15,
+            "verse_key": "17:15",
+            "hizb_number": 29,
+            "rub_el_hizb_number": 113,
+            "ruku_number": 241,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "مَّنِ ٱهْتَدَىٰ فَإِنَّمَا يَهْتَدِى لِنَفْسِهِۦ ۖ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا ۚ وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ۗ وَمَا كُنَّا مُعَذِّبِينَ حَتَّىٰ نَبْعَثَ رَسُولًا",
+            "page_number": 283,
+            "juz_number": 15,
+            "translations": [
+                {
+                    "id": 96951,
+                    "resource_id": 20,
+                    "text": "Whoever is guided is only guided for [the benefit of] his soul. And whoever errs only errs against it. And no bearer of burdens will bear the burden of another. And never would We punish until We sent a messenger."
+                },
+                {
+                    "id": 216881,
+                    "resource_id": 39,
+                    "text": "Sesiapa yang beroleh hidayah petunjuk (menurut panduan Al-Quran), maka sesungguhnya faedah petunjuk yang didapatinya itu hanya terpulang kepada dirinya sendiri, dan sesiapa yang sesat maka sesungguhnya kesan buruk kesesatannya hanya ditanggung oleh dirinya juga. Dan seseorang yang boleh memikul, tidak akan memikul dosa perbuatan orang lain (bahkan dosa usahanya sahaja). Dan tiadalah Kami mengazabkan sesiapapun sebelum Kami mengutuskan seorang Rasul (untuk menerangkan yang benar dan yang salah)."
+                },
+                {
+                    "id": 1093021,
+                    "resource_id": 161,
+                    "text": "যে সঠিক পথে চলবে সে তার নিজের কল্যাণের জন্যই সঠিক পথে চলবে, আর যে গুমরাহ হবে তার গুমরাহীর পরিণাম তার নিজের উপরেই পড়বে। কোন বোঝা বহনকারী অন্যের বোঝা বহন করবে না। আমি ‘আযাব দেই না যতক্ষণ একজন রসূল না পাঠাই।"
+                }
+            ]
+        },
+        {
+            "id": 2045,
+            "verse_number": 16,
+            "verse_key": "17:16",
+            "hizb_number": 29,
+            "rub_el_hizb_number": 113,
+            "ruku_number": 241,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَآ أَرَدْنَآ أَن نُّهْلِكَ قَرْيَةً أَمَرْنَا مُتْرَفِيهَا فَفَسَقُوا۟ فِيهَا فَحَقَّ عَلَيْهَا ٱلْقَوْلُ فَدَمَّرْنَـٰهَا تَدْمِيرًا",
+            "page_number": 283,
+            "juz_number": 15,
+            "translations": [
+                {
+                    "id": 96952,
+                    "resource_id": 20,
+                    "text": "And when We intend to destroy a city, We command its affluent<sup foot_note=196646>1</sup> but they defiantly disobey therein; so the word [i.e., deserved decree] comes into effect upon it, and We destroy it with [complete] destruction."
+                },
+                {
+                    "id": 216624,
+                    "resource_id": 39,
+                    "text": "Dan apabila sampai tempoh Kami hendak membinasakan penduduk sesebuah negeri, Kami perintahkan (lebih dahulu) orang-orang yang melampau dengan kemewahan di antara mereka (supaya taat), lalu mereka menderhaka dan melakukan maksiat padanya; maka berhaklah negeri itu dibinasakan, lalu kami menghancurkannya sehancur-hancurnya."
+                },
+                {
+                    "id": 1093022,
+                    "resource_id": 161,
+                    "text": "আমি যখন কোন জনবসতিকে ধ্বংস করতে চাই তখন তাদের সচ্ছল ব্যক্তিদেরকে আদেশ করি (আমার আদেশ মেনে চলার জন্য)। কিন্তু তারা অবাধ্যতা করতে থাকে। তখন সে জনবসতির প্রতি আমার ‘আযাবের ফায়সালা সাব্যস্ত হয়ে যায়। তখন আমি তা সম্পূর্ণরূপে বিধ্বস্ত করে দেই।"
+                }
+            ]
+        },
+        {
+            "id": 2046,
+            "verse_number": 17,
+            "verse_key": "17:17",
+            "hizb_number": 29,
+            "rub_el_hizb_number": 113,
+            "ruku_number": 241,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَكَمْ أَهْلَكْنَا مِنَ ٱلْقُرُونِ مِنۢ بَعْدِ نُوحٍ ۗ وَكَفَىٰ بِرَبِّكَ بِذُنُوبِ عِبَادِهِۦ خَبِيرًۢا بَصِيرًا",
+            "page_number": 283,
+            "juz_number": 15,
+            "translations": [
+                {
+                    "id": 96953,
+                    "resource_id": 20,
+                    "text": "And how many have We destroyed from the generations after Noah. And sufficient is your Lord, concerning the sins of His servants, as Aware and Seeing."
+                },
+                {
+                    "id": 214687,
+                    "resource_id": 39,
+                    "text": "Dan berapa banyak umat-umat yang kami telah binasakan sesudah zaman Nabi Nuh; dan cukuplah Tuhanmu (wahai Muhammad) mengetahui lagi melihat akan dosa-dosa hambaNya."
+                },
+                {
+                    "id": 1093023,
+                    "resource_id": 161,
+                    "text": "নূহের পর বহু বংশধারাকে আমি ধ্বংস করে দিয়েছি, বান্দাদের পাপকাজের খবর রাখা আর লক্ষ্য রাখার জন্য তোমার প্রতিপালকই যথেষ্ট।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 10
+    }
+}

@@ -1,0 +1,551 @@
+{
+    "verses": [
+        {
+            "id": 4811,
+            "verse_number": 27,
+            "verse_key": "53:27",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 463,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ لَيُسَمُّونَ ٱلْمَلَـٰٓئِكَةَ تَسْمِيَةَ ٱلْأُنثَىٰ",
+            "page_number": 527,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100420,
+                    "resource_id": 20,
+                    "text": "Indeed, those who do not believe in the Hereafter name the angels female names,"
+                },
+                {
+                    "id": 218252,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya orang-orang yang tidak beriman kepada hari akhirat sahajalah, yang tergamak menamakan malaikat itu dengan nama perempuan,"
+                },
+                {
+                    "id": 1095788,
+                    "resource_id": 161,
+                    "text": "যারা আখিরাতে বিশ্বাস করে না তারাই ফেরেশতাদের স্ত্রীবাচক নামে নামকরণ করে থাকে।"
+                }
+            ]
+        },
+        {
+            "id": 4812,
+            "verse_number": 28,
+            "verse_key": "53:28",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 463,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا لَهُم بِهِۦ مِنْ عِلْمٍ ۖ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ ۖ وَإِنَّ ٱلظَّنَّ لَا يُغْنِى مِنَ ٱلْحَقِّ شَيْـًٔا",
+            "page_number": 527,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100421,
+                    "resource_id": 20,
+                    "text": "And they have thereof no knowledge. They follow not except assumption, and indeed, assumption avails not against the truth at all."
+                },
+                {
+                    "id": 218251,
+                    "resource_id": 39,
+                    "text": "Sedang mereka tidak mempunyai sebarang pengetahuan mengenainya. Mereka tidak lain hanyalah mengikut sangkaan semata-mata, padahal sesungguhnya sangkaan itu tidak dapat memenuhi kehendak menentukan sesuatu dari kebenaran (iktiqad)."
+                },
+                {
+                    "id": 1095789,
+                    "resource_id": 161,
+                    "text": "অথচ এ বিষয়ে তাদের কোনই জ্ঞান নেই, তারা কেবল অনুমানেরই অনুসরণ করছে, আর প্রকৃত সত্যের মুকাবালায় অনুমান কোনই কাজে আসে না।"
+                }
+            ]
+        },
+        {
+            "id": 4813,
+            "verse_number": 29,
+            "verse_key": "53:29",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 463,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَأَعْرِضْ عَن مَّن تَوَلَّىٰ عَن ذِكْرِنَا وَلَمْ يُرِدْ إِلَّا ٱلْحَيَوٰةَ ٱلدُّنْيَا",
+            "page_number": 527,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100422,
+                    "resource_id": 20,
+                    "text": "So turn away from whoever turns his back on Our message and desires not except the worldly life."
+                },
+                {
+                    "id": 218253,
+                    "resource_id": 39,
+                    "text": "Oleh itu, janganlah engkau (wahai Muhammad) hiraukan orang yang berpaling dari pengajaran Kami, dan tidak mahu melainkan kehidupan dunia semata-mata."
+                },
+                {
+                    "id": 1095790,
+                    "resource_id": 161,
+                    "text": "কাজেই যে আমার স্মরণ হতে মুখ ফিরিয়ে নেয় আর পার্থিব জীবন ছাড়া (অন্য কিছুই) কামনা করে না, তুমি তাকে এড়িয়ে চল।"
+                }
+            ]
+        },
+        {
+            "id": 4814,
+            "verse_number": 30,
+            "verse_key": "53:30",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 463,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ذَٰلِكَ مَبْلَغُهُم مِّنَ ٱلْعِلْمِ ۚ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعْلَمُ بِمَنِ ٱهْتَدَىٰ",
+            "page_number": 527,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100425,
+                    "resource_id": 20,
+                    "text": "That is their sum of knowledge. Indeed, your Lord is most knowing of who strays from His way, and He is most knowing of who is guided."
+                },
+                {
+                    "id": 218256,
+                    "resource_id": 39,
+                    "text": "(Kepentingan dunia) itulah sahaja tujuan terakhir dari pengetahuan yang dicapai oleh mereka. Sesungguhnya Tuhanmu, Dia lah jua yang lebih mengetahui akan orang yang sesat dari jalanNya, dan Dia lah jua yang lebih mengetahui akan orang yang mendapat hidayah petunjuk."
+                },
+                {
+                    "id": 1095791,
+                    "resource_id": 161,
+                    "text": "তাদের জ্ঞানের দৌড় ঐ পর্যন্তই। তোমার প্রতিপালক খুব ভাল করেই জানেন কে তার পথ থেকে গুমরাহ হয়ে গেছে, আর তিনি ভালই জানেন কে সঠিক পথে আছে।"
+                }
+            ]
+        },
+        {
+            "id": 4815,
+            "verse_number": 31,
+            "verse_key": "53:31",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 463,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ لِيَجْزِىَ ٱلَّذِينَ أَسَـٰٓـُٔوا۟ بِمَا عَمِلُوا۟ وَيَجْزِىَ ٱلَّذِينَ أَحْسَنُوا۟ بِٱلْحُسْنَى",
+            "page_number": 527,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100426,
+                    "resource_id": 20,
+                    "text": "And to Allāh belongs whatever is in the heavens and whatever is in the earth - that He may recompense those who do evil with [the penalty of] what they have done and recompense those who do good with the best [reward] -"
+                },
+                {
+                    "id": 214865,
+                    "resource_id": 39,
+                    "text": "Dan Allah jualah yang memiliki segala yang ada di langit dan yang ada di bumi; (diciptakan semuanya itu) untuk membalas orang-orang yang berbuat jahat menurut apa yang mereka lakukan, dan membalas orang-orang yang berbuat baik dengan balasan yang sebaik-baiknya."
+                },
+                {
+                    "id": 1095792,
+                    "resource_id": 161,
+                    "text": "যা আছে আকাশে আর যা আছে যমীনে সব আল্লাহরই- যাতে তিনি যারা মন্দ কাজ করে তাদেরকে তাদের কাজের প্রতিফল দেন আর যারা সৎকর্ম করে তাদেরকে দেন শুভ প্রতিফল।"
+                }
+            ]
+        },
+        {
+            "id": 4816,
+            "verse_number": 32,
+            "verse_key": "53:32",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 463,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِينَ يَجْتَنِبُونَ كَبَـٰٓئِرَ ٱلْإِثْمِ وَٱلْفَوَٰحِشَ إِلَّا ٱللَّمَمَ ۚ إِنَّ رَبَّكَ وَٰسِعُ ٱلْمَغْفِرَةِ ۚ هُوَ أَعْلَمُ بِكُمْ إِذْ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَإِذْ أَنتُمْ أَجِنَّةٌ فِى بُطُونِ أُمَّهَـٰتِكُمْ ۖ فَلَا تُزَكُّوٓا۟ أَنفُسَكُمْ ۖ هُوَ أَعْلَمُ بِمَنِ ٱتَّقَىٰٓ",
+            "page_number": 527,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100427,
+                    "resource_id": 20,
+                    "text": "Those who avoid the major sins and immoralities, only [committing] slight ones. Indeed, your Lord is vast in forgiveness. He was most knowing of you when He produced you from the earth and when you were fetuses in the wombs of your mothers. So do not claim yourselves to be pure; He is most knowing of who fears Him."
+                },
+                {
+                    "id": 218260,
+                    "resource_id": 39,
+                    "text": "(Iaitu) orang-orang yang menjauhi dosa-dosa besar serta perbuatan-perbuatan yang keji, kecuali salah silap yang kecil-kecil (yang mereka terlanjur melakukannya, maka itu dimaafkan). Sesungguhnya Tuhanmu Maha Luas keampunanNya. Ia lebih mengetahui akan keadaan kamu semenjak Ia mencipta kamu (berasal) dari tanah, dan semasa kamu berupa anak yang sedang melalui berbagai peringkat kejadian dalam perut ibu kamu; maka janganlah kamu memuji-muji diri kamu (bahawa kamu suci bersih dari dosa). Dia lah sahaja yang lebih mengetahui akan orang-orang yang bertaqwa."
+                },
+                {
+                    "id": 1095793,
+                    "resource_id": 161,
+                    "text": "যারা বিরত থাকে বড় বড় পাপ আর অশ্লীল কার্যকলাপ থেকে ছোট খাট দোষ-ত্রুটি ছাড়া; বস্তুতঃ তোমার প্রতিপালক ক্ষমা করার ব্যাপারে অতি প্রশস্ত। তিনি তোমাদের সম্পর্কে খুব ভালভাবেই জানেন যখন তিনি তোমাদেরকে মাটি থেকে সৃষ্টি করেছেন আর যখন তোমরা তোমাদের মায়েদের পেটে ভ্রুণ অবস্থায় ছিলে। কাজেই নিজেদেরকে খুব পবিত্র মনে করো না। কে তাক্বওয়া অবলম্বন করে তা তিনি ভালভাবেই জানেন।"
+                }
+            ]
+        },
+        {
+            "id": 4817,
+            "verse_number": 33,
+            "verse_key": "53:33",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 464,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَفَرَءَيْتَ ٱلَّذِى تَوَلَّىٰ",
+            "page_number": 527,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100428,
+                    "resource_id": 20,
+                    "text": "Have you seen the one who turned away"
+                },
+                {
+                    "id": 214867,
+                    "resource_id": 39,
+                    "text": "Adakah engkau mengetahui (keburukan) orang yang berpaling (dari menurut kebenaran kerana ia dihasut)?"
+                },
+                {
+                    "id": 1095794,
+                    "resource_id": 161,
+                    "text": "তুমি কি তাকে দেখেছ যে (আল্লাহ হতে) মুখ ফিরিয়ে নেয়?"
+                }
+            ]
+        },
+        {
+            "id": 4818,
+            "verse_number": 34,
+            "verse_key": "53:34",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 464,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَعْطَىٰ قَلِيلًا وَأَكْدَىٰٓ",
+            "page_number": 527,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100429,
+                    "resource_id": 20,
+                    "text": "And gave a little and [then] refrained?"
+                },
+                {
+                    "id": 218307,
+                    "resource_id": 39,
+                    "text": "Dan setelah ia memberi sedikit pemberiannya, ia memutuskannya (kerana menurut hawa nafsunya)?"
+                },
+                {
+                    "id": 1095795,
+                    "resource_id": 161,
+                    "text": "এবং সামান্য দান করে অতঃপর (হৃদয়) শক্ত করে ফেলে?"
+                }
+            ]
+        },
+        {
+            "id": 4819,
+            "verse_number": 35,
+            "verse_key": "53:35",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 464,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَعِندَهُۥ عِلْمُ ٱلْغَيْبِ فَهُوَ يَرَىٰٓ",
+            "page_number": 527,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100430,
+                    "resource_id": 20,
+                    "text": "Does he have knowledge of the unseen, so he sees?<sup foot_note=197448>1</sup>"
+                },
+                {
+                    "id": 218262,
+                    "resource_id": 39,
+                    "text": "Adakah ia mempunyai pengetahuan mengenai perkara yang ghaib sehingga ia dapat mengetahui (bahawa orang lain boleh menghalang gantinya dari apa yang akan menimpanya pada hari akhirat)?"
+                },
+                {
+                    "id": 1095796,
+                    "resource_id": 161,
+                    "text": "তার কি অদৃশ্যের জ্ঞান আছে যার কারণে সে দেখতে পায়?"
+                }
+            ]
+        },
+        {
+            "id": 4820,
+            "verse_number": 36,
+            "verse_key": "53:36",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 464,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَمْ لَمْ يُنَبَّأْ بِمَا فِى صُحُفِ مُوسَىٰ",
+            "page_number": 527,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100431,
+                    "resource_id": 20,
+                    "text": "Or has he not been informed of what was in the scriptures of Moses"
+                },
+                {
+                    "id": 218288,
+                    "resource_id": 39,
+                    "text": "Atau belumkah ia diberitahu akan apa yang terkandung dalam Kitab-kitab Nabi Musa -"
+                },
+                {
+                    "id": 1095797,
+                    "resource_id": 161,
+                    "text": "নাকি মূসার কিতাবের তথ্য তার কাছে পৌঁছানো হয়নি,"
+                }
+            ]
+        },
+        {
+            "id": 4821,
+            "verse_number": 37,
+            "verse_key": "53:37",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 464,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِبْرَٰهِيمَ ٱلَّذِى وَفَّىٰٓ",
+            "page_number": 527,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100432,
+                    "resource_id": 20,
+                    "text": "And [of] Abraham, who fulfilled [his obligations] -"
+                },
+                {
+                    "id": 218263,
+                    "resource_id": 39,
+                    "text": "Dan juga (dalam Kitab-kitab) Nabi Ibrahim yang memenuhi dengan sempurnanya (segala yang diperintahkan kepadanya)?"
+                },
+                {
+                    "id": 1095798,
+                    "resource_id": 161,
+                    "text": "আর ইবরাহীমের (কিতাবের খবর) যে (ইবরাহীম) ছিল পুরোপুরি দায়িত্ব পালনকারী।"
+                }
+            ]
+        },
+        {
+            "id": 4822,
+            "verse_number": 38,
+            "verse_key": "53:38",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 464,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَلَّا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ",
+            "page_number": 527,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100433,
+                    "resource_id": 20,
+                    "text": "That no bearer of burdens will bear the burden of another"
+                },
+                {
+                    "id": 218264,
+                    "resource_id": 39,
+                    "text": "(Dalam Kitab-kitab itu ditegaskan): Bahawa sesungguhnya seseorang yang boleh memikul tidak akan memikul dosa perbuatan orang lain (bahkan dosa usahanya sahaja);"
+                },
+                {
+                    "id": 1095799,
+                    "resource_id": 161,
+                    "text": "(সে খবর এই) যে, কোন বোঝা বহনকারী বইবে না অপরের বোঝা।"
+                }
+            ]
+        },
+        {
+            "id": 4823,
+            "verse_number": 39,
+            "verse_key": "53:39",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 464,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَن لَّيْسَ لِلْإِنسَـٰنِ إِلَّا مَا سَعَىٰ",
+            "page_number": 527,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100434,
+                    "resource_id": 20,
+                    "text": "And that there is not for man except that [good] for which he strives"
+                },
+                {
+                    "id": 218265,
+                    "resource_id": 39,
+                    "text": "Dan bahawa sesungguhnya tidak ada (balasan) bagi seseorang melainkan (balasan) apa yang diusahakannya;"
+                },
+                {
+                    "id": 1095800,
+                    "resource_id": 161,
+                    "text": "আর এই যে, মানুষ যা পাওয়ার জন্য চেষ্টা করে তাছাড়া কিছুই পায় না,"
+                }
+            ]
+        },
+        {
+            "id": 4824,
+            "verse_number": 40,
+            "verse_key": "53:40",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 464,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَنَّ سَعْيَهُۥ سَوْفَ يُرَىٰ",
+            "page_number": 527,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100437,
+                    "resource_id": 20,
+                    "text": "And that his effort is going to be seen -"
+                },
+                {
+                    "id": 217784,
+                    "resource_id": 39,
+                    "text": "Dan bahawa sesungguhnya usahanya itu akan diperlihatkan (kepadanya, pada hari kiamat kelak);"
+                },
+                {
+                    "id": 1095801,
+                    "resource_id": 161,
+                    "text": "আর এই যে, তার চেষ্টা সাধনার ফল শীঘ্রই তাকে দেখানো হবে,"
+                }
+            ]
+        },
+        {
+            "id": 4825,
+            "verse_number": 41,
+            "verse_key": "53:41",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 464,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ثُمَّ يُجْزَىٰهُ ٱلْجَزَآءَ ٱلْأَوْفَىٰ",
+            "page_number": 527,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100438,
+                    "resource_id": 20,
+                    "text": "Then he will be recompensed for it with the fullest recompense -"
+                },
+                {
+                    "id": 218268,
+                    "resource_id": 39,
+                    "text": "Kemudian usahanya itu akan dibalas dengan balasan yang amat sempurna;"
+                },
+                {
+                    "id": 1095802,
+                    "resource_id": 161,
+                    "text": "অতঃপর তাকে দেয়া হবে পূর্ণ প্রতিফল"
+                }
+            ]
+        },
+        {
+            "id": 4826,
+            "verse_number": 42,
+            "verse_key": "53:42",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 464,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَنَّ إِلَىٰ رَبِّكَ ٱلْمُنتَهَىٰ",
+            "page_number": 527,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100439,
+                    "resource_id": 20,
+                    "text": "And that to your Lord is the finality"
+                },
+                {
+                    "id": 218089,
+                    "resource_id": 39,
+                    "text": "Dan bahawa sesungguhnya kepada hukum Tuhanmu lah kesudahan (segala perkara);"
+                },
+                {
+                    "id": 1095803,
+                    "resource_id": 161,
+                    "text": "আর এই যে, শেষ গন্তব্য হল তোমার প্রতিপালক পর্যন্ত,"
+                }
+            ]
+        },
+        {
+            "id": 4827,
+            "verse_number": 43,
+            "verse_key": "53:43",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 464,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَنَّهُۥ هُوَ أَضْحَكَ وَأَبْكَىٰ",
+            "page_number": 527,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100440,
+                    "resource_id": 20,
+                    "text": "And that it is He who makes [one] laugh and weep"
+                },
+                {
+                    "id": 218267,
+                    "resource_id": 39,
+                    "text": "Dan bahawa sesungguhnya, Dia lah yang menyebabkan (seseorang itu bergembira) tertawa, dan menyebabkan (seseorang itu berdukacita) menangis;"
+                },
+                {
+                    "id": 1095804,
+                    "resource_id": 161,
+                    "text": "আর এই যে, তিনিই হাসান, তিনিই কাঁদান।"
+                }
+            ]
+        },
+        {
+            "id": 4828,
+            "verse_number": 44,
+            "verse_key": "53:44",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 464,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَنَّهُۥ هُوَ أَمَاتَ وَأَحْيَا",
+            "page_number": 527,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100441,
+                    "resource_id": 20,
+                    "text": "And that it is He who causes death and gives life"
+                },
+                {
+                    "id": 218273,
+                    "resource_id": 39,
+                    "text": "Dan bahawa sesungguhnya, Dia lah yang mematikan dan menghidupkan;"
+                },
+                {
+                    "id": 1095805,
+                    "resource_id": 161,
+                    "text": "আর এই যে, তিনিই মারেন, তিনিই বাঁচান।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 18,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 18
+    }
+}

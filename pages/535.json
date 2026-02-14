@@ -1,0 +1,1031 @@
+{
+    "verses": [
+        {
+            "id": 4996,
+            "verse_number": 17,
+            "verse_key": "56:17",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "يَطُوفُ عَلَيْهِمْ وِلْدَٰنٌ مُّخَلَّدُونَ",
+            "page_number": 535,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 97993,
+                    "resource_id": 20,
+                    "text": "There will circulate among them young boys made eternal."
+                },
+                {
+                    "id": 218467,
+                    "resource_id": 39,
+                    "text": "Mereka dilayani oleh anak-anak muda lelaki yang tetap kekal (dalam keadaan mudanya), yang sentiasa beredar di sekitar mereka, -"
+                },
+                {
+                    "id": 1095973,
+                    "resource_id": 161,
+                    "text": "তাদের চারপাশে ঘুর ঘুর করবে (সেবায় নিয়োজিত) চির কিশোররা।"
+                }
+            ]
+        },
+        {
+            "id": 4997,
+            "verse_number": 18,
+            "verse_key": "56:18",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "بِأَكْوَابٍ وَأَبَارِيقَ وَكَأْسٍ مِّن مَّعِينٍ",
+            "page_number": 535,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100559,
+                    "resource_id": 20,
+                    "text": "With vessels, pitchers and a cup [of wine] from a flowing spring -"
+                },
+                {
+                    "id": 218469,
+                    "resource_id": 39,
+                    "text": "Dengan membawa piala-piala minuman dan tekoh-tekoh serta piala atau gelas yang berisi arak (yang diambil) dari sungainya yang mengalir."
+                },
+                {
+                    "id": 1095974,
+                    "resource_id": 161,
+                    "text": "পানপাত্র, কেটলি আর ঝর্ণার প্রবাহিত স্বচ্ছ সুরায় ভরা পেয়ালা নিয়ে,"
+                }
+            ]
+        },
+        {
+            "id": 4998,
+            "verse_number": 19,
+            "verse_key": "56:19",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "لَّا يُصَدَّعُونَ عَنْهَا وَلَا يُنزِفُونَ",
+            "page_number": 535,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100626,
+                    "resource_id": 20,
+                    "text": "No headache will they have therefrom, nor will they be intoxicated -"
+                },
+                {
+                    "id": 218470,
+                    "resource_id": 39,
+                    "text": "Mereka tidak merasa pening kepala dan tidak pula mabuk dengan sebab menikmatinya."
+                },
+                {
+                    "id": 1095975,
+                    "resource_id": 161,
+                    "text": "তা পান করলে মাথা ঘুরবে না, জ্ঞানও লোপ পাবে না"
+                }
+            ]
+        },
+        {
+            "id": 4999,
+            "verse_number": 20,
+            "verse_key": "56:20",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَفَـٰكِهَةٍ مِّمَّا يَتَخَيَّرُونَ",
+            "page_number": 535,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100629,
+                    "resource_id": 20,
+                    "text": "And fruit of what they select"
+                },
+                {
+                    "id": 218478,
+                    "resource_id": 39,
+                    "text": "Dan juga (dibawakan kepada mereka) buah-buahan dari jenis-jenis yang mereka pilih,"
+                },
+                {
+                    "id": 1095976,
+                    "resource_id": 161,
+                    "text": "আর নানান ফলমূল, ইচ্ছেমত যেটা তারা বেছে নেবে,"
+                }
+            ]
+        },
+        {
+            "id": 5000,
+            "verse_number": 21,
+            "verse_key": "56:21",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَحْمِ طَيْرٍ مِّمَّا يَشْتَهُونَ",
+            "page_number": 535,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100630,
+                    "resource_id": 20,
+                    "text": "And the meat of fowl, from whatever they desire."
+                },
+                {
+                    "id": 218473,
+                    "resource_id": 39,
+                    "text": "Serta daging burung dari jenis-jenis yang mereka ingini."
+                },
+                {
+                    "id": 1095977,
+                    "resource_id": 161,
+                    "text": "আর পাখীর গোশত যেটা তাদের মনে চাইবে,"
+                }
+            ]
+        },
+        {
+            "id": 5001,
+            "verse_number": 22,
+            "verse_key": "56:22",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَحُورٌ عِينٌ",
+            "page_number": 535,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100631,
+                    "resource_id": 20,
+                    "text": "And [for them are] fair women with large, [beautiful] eyes,"
+                },
+                {
+                    "id": 218474,
+                    "resource_id": 39,
+                    "text": "Dan (mereka dilayani) bidadari-bidadari yang cantik parasnya,"
+                },
+                {
+                    "id": 1095978,
+                    "resource_id": 161,
+                    "text": "আর (সেখানে থাকবে) ডাগর ডাগর উজ্জ্বল সুন্দর চোখওয়ালা সুন্দরীরা,"
+                }
+            ]
+        },
+        {
+            "id": 5002,
+            "verse_number": 23,
+            "verse_key": "56:23",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "كَأَمْثَـٰلِ ٱللُّؤْلُؤِ ٱلْمَكْنُونِ",
+            "page_number": 535,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100632,
+                    "resource_id": 20,
+                    "text": "The likenesses of pearls well-protected,"
+                },
+                {
+                    "id": 218475,
+                    "resource_id": 39,
+                    "text": "Seperti mutiara yang tersimpan dengan sebaik-baiknya."
+                },
+                {
+                    "id": 1095979,
+                    "resource_id": 161,
+                    "text": "সযত্নে লুকিয়ে রাখা মুক্তোর মত,"
+                }
+            ]
+        },
+        {
+            "id": 5003,
+            "verse_number": 24,
+            "verse_key": "56:24",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ",
+            "page_number": 535,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100633,
+                    "resource_id": 20,
+                    "text": "As reward for what they used to do."
+                },
+                {
+                    "id": 218476,
+                    "resource_id": 39,
+                    "text": "(Semuanya itu) sebagai balasan bagi (amal-amal baik) yang mereka telah kerjakan."
+                },
+                {
+                    "id": 1095980,
+                    "resource_id": 161,
+                    "text": "তাদের কর্মের প্রতিদান হিসেবে!"
+                }
+            ]
+        },
+        {
+            "id": 5004,
+            "verse_number": 25,
+            "verse_key": "56:25",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا تَأْثِيمًا",
+            "page_number": 535,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100634,
+                    "resource_id": 20,
+                    "text": "They will not hear therein ill speech or commission of sin -"
+                },
+                {
+                    "id": 218477,
+                    "resource_id": 39,
+                    "text": "Mereka tidak akan mendengar dalam Syurga itu perkataan yang sia-sia dan tiada pula sesuatu yang menyebabkan dosa; -"
+                },
+                {
+                    "id": 1095981,
+                    "resource_id": 161,
+                    "text": "সেখানে তারা শুনবে না কোন অনর্থক কথাবার্তা, আর পাপের বুলি,"
+                }
+            ]
+        },
+        {
+            "id": 5005,
+            "verse_number": 26,
+            "verse_key": "56:26",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِلَّا قِيلًا سَلَـٰمًا سَلَـٰمًا",
+            "page_number": 535,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100635,
+                    "resource_id": 20,
+                    "text": "Only a saying [of] peace, peace."
+                },
+                {
+                    "id": 218482,
+                    "resource_id": 39,
+                    "text": "Mereka hanya mendengar ucapan: \" Selamat! Selamat! \" (dari satu kepada yang lain)."
+                },
+                {
+                    "id": 1095982,
+                    "resource_id": 161,
+                    "text": "এমন কথা ছাড়া যা হবে শান্তিময়, নিরাপদ,"
+                }
+            ]
+        },
+        {
+            "id": 5006,
+            "verse_number": 27,
+            "verse_key": "56:27",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَصْحَـٰبُ ٱلْيَمِينِ مَآ أَصْحَـٰبُ ٱلْيَمِينِ",
+            "page_number": 535,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100636,
+                    "resource_id": 20,
+                    "text": "The companions of the right - what are the companions of the right?"
+                },
+                {
+                    "id": 218479,
+                    "resource_id": 39,
+                    "text": "Dan puak kanan, - alangkah bahagianya keadaan puak kanan itu?"
+                },
+                {
+                    "id": 1095983,
+                    "resource_id": 161,
+                    "text": "আর ডানদিকের দল, কত ভাগ্যবান ডান দিকের দল!"
+                }
+            ]
+        },
+        {
+            "id": 5007,
+            "verse_number": 28,
+            "verse_key": "56:28",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فِى سِدْرٍ مَّخْضُودٍ",
+            "page_number": 535,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100637,
+                    "resource_id": 20,
+                    "text": "[They will be] among lote trees with thorns removed."
+                },
+                {
+                    "id": 218480,
+                    "resource_id": 39,
+                    "text": "Mereka bersenang-lenang di antara pohon-pohon bidara yang tidak berduri."
+                },
+                {
+                    "id": 1095984,
+                    "resource_id": 161,
+                    "text": "তারা থাকবে কাঁটা বিহীন বরই গাছগুলোর মাঝে,"
+                }
+            ]
+        },
+        {
+            "id": 5008,
+            "verse_number": 29,
+            "verse_key": "56:29",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَطَلْحٍ مَّنضُودٍ",
+            "page_number": 535,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100638,
+                    "resource_id": 20,
+                    "text": "And [banana] trees layered [with fruit]."
+                },
+                {
+                    "id": 214718,
+                    "resource_id": 39,
+                    "text": "Dan pokok-pokok pisang yang tersusun rapi buahnya,"
+                },
+                {
+                    "id": 1095985,
+                    "resource_id": 161,
+                    "text": "কলা গাছের মাঝে যাতে আছে থরে থরে সাজানো কলা,"
+                }
+            ]
+        },
+        {
+            "id": 5009,
+            "verse_number": 30,
+            "verse_key": "56:30",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَظِلٍّ مَّمْدُودٍ",
+            "page_number": 535,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100641,
+                    "resource_id": 20,
+                    "text": "And shade extended."
+                },
+                {
+                    "id": 215003,
+                    "resource_id": 39,
+                    "text": "Dan naungan yang tetap terbentang,"
+                },
+                {
+                    "id": 1095986,
+                    "resource_id": 161,
+                    "text": "বিস্তীর্ণ অঞ্চল-জুড়া ছায়ায়,"
+                }
+            ]
+        },
+        {
+            "id": 5010,
+            "verse_number": 31,
+            "verse_key": "56:31",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَآءٍ مَّسْكُوبٍ",
+            "page_number": 535,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100642,
+                    "resource_id": 20,
+                    "text": "And water poured out"
+                },
+                {
+                    "id": 218483,
+                    "resource_id": 39,
+                    "text": "Dan air yang sentiasa mengalir,"
+                },
+                {
+                    "id": 1095987,
+                    "resource_id": 161,
+                    "text": "অবিরাম প্রবহমান পানির ধারে,"
+                }
+            ]
+        },
+        {
+            "id": 5011,
+            "verse_number": 32,
+            "verse_key": "56:32",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَفَـٰكِهَةٍ كَثِيرَةٍ",
+            "page_number": 535,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100643,
+                    "resource_id": 20,
+                    "text": "And fruit, abundant [and varied],"
+                },
+                {
+                    "id": 218485,
+                    "resource_id": 39,
+                    "text": "Serta buah-buahan yang banyak,"
+                },
+                {
+                    "id": 1095988,
+                    "resource_id": 161,
+                    "text": "আর পর্যাপ্ত ফলমূল পরিবেষ্টিত হয়ে,"
+                }
+            ]
+        },
+        {
+            "id": 5012,
+            "verse_number": 33,
+            "verse_key": "56:33",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "لَّا مَقْطُوعَةٍ وَلَا مَمْنُوعَةٍ",
+            "page_number": 535,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100644,
+                    "resource_id": 20,
+                    "text": "Neither limited [to season] nor forbidden,"
+                },
+                {
+                    "id": 218484,
+                    "resource_id": 39,
+                    "text": "Yang tidak putus-putus dan tidak pula terlarang mendapatnya,"
+                },
+                {
+                    "id": 1095989,
+                    "resource_id": 161,
+                    "text": "যা কখনও শেষ হবে না, কক্ষনো নিষিদ্ধও হবে না।"
+                }
+            ]
+        },
+        {
+            "id": 5013,
+            "verse_number": 34,
+            "verse_key": "56:34",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَفُرُشٍ مَّرْفُوعَةٍ",
+            "page_number": 535,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100645,
+                    "resource_id": 20,
+                    "text": "And [upon] beds raised high."
+                },
+                {
+                    "id": 218486,
+                    "resource_id": 39,
+                    "text": "Dan tempat-tempat tidur yang tertinggi keadaannya."
+                },
+                {
+                    "id": 1095990,
+                    "resource_id": 161,
+                    "text": "আর উঁচু উঁচু বিছানায়।"
+                }
+            ]
+        },
+        {
+            "id": 5014,
+            "verse_number": 35,
+            "verse_key": "56:35",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّآ أَنشَأْنَـٰهُنَّ إِنشَآءً",
+            "page_number": 535,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100646,
+                    "resource_id": 20,
+                    "text": "Indeed, We have produced them [i.e., the women of Paradise] in a [new] creation"
+                },
+                {
+                    "id": 218487,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Kami telah menciptakan isteri-isteri mereka dengan ciptaan istimewa,"
+                },
+                {
+                    "id": 1095991,
+                    "resource_id": 161,
+                    "text": "তাদেরকে (অর্থাৎ ঐ হুরদেরকে) আমি সৃষ্টি করেছি এক অভিনব সৃষ্টিতে,"
+                }
+            ]
+        },
+        {
+            "id": 5015,
+            "verse_number": 36,
+            "verse_key": "56:36",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَجَعَلْنَـٰهُنَّ أَبْكَارًا",
+            "page_number": 535,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100647,
+                    "resource_id": 20,
+                    "text": "And made them virgins,"
+                },
+                {
+                    "id": 218488,
+                    "resource_id": 39,
+                    "text": "Serta Kami jadikan mereka sentiasa dara (yang tidak pernah disentuh),"
+                },
+                {
+                    "id": 1095992,
+                    "resource_id": 161,
+                    "text": "আর তাদেরকে করেছি কুমারী,"
+                }
+            ]
+        },
+        {
+            "id": 5016,
+            "verse_number": 37,
+            "verse_key": "56:37",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "عُرُبًا أَتْرَابًا",
+            "page_number": 535,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100648,
+                    "resource_id": 20,
+                    "text": "Devoted [to their husbands] and of equal age,"
+                },
+                {
+                    "id": 218489,
+                    "resource_id": 39,
+                    "text": "Yang tetap mencintai jodohnya, serta yang sebaya umurnya."
+                },
+                {
+                    "id": 1095993,
+                    "resource_id": 161,
+                    "text": "স্বামী ভক্তা, অনুরক্তা আর সমবয়স্কা,"
+                }
+            ]
+        },
+        {
+            "id": 5017,
+            "verse_number": 38,
+            "verse_key": "56:38",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 471,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "لِّأَصْحَـٰبِ ٱلْيَمِينِ",
+            "page_number": 535,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100649,
+                    "resource_id": 20,
+                    "text": "For the companions of the right [who are]"
+                },
+                {
+                    "id": 218490,
+                    "resource_id": 39,
+                    "text": "(Semuanya itu disediakan) bagi puak kanan;"
+                },
+                {
+                    "id": 1095994,
+                    "resource_id": 161,
+                    "text": "(এ সব হল) ডান দিকের লোকদের জন্য,"
+                }
+            ]
+        },
+        {
+            "id": 5018,
+            "verse_number": 39,
+            "verse_key": "56:39",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 472,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ثُلَّةٌ مِّنَ ٱلْأَوَّلِينَ",
+            "page_number": 535,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100650,
+                    "resource_id": 20,
+                    "text": "A company of the former peoples"
+                },
+                {
+                    "id": 218491,
+                    "resource_id": 39,
+                    "text": "Iaitu sebilangan besar dari orang-orang yang terdahulu,"
+                },
+                {
+                    "id": 1095995,
+                    "resource_id": 161,
+                    "text": "(যারা হবে) পূর্ববর্তীদের মধ্য হতে বহু সংখ্যক"
+                }
+            ]
+        },
+        {
+            "id": 5019,
+            "verse_number": 40,
+            "verse_key": "56:40",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 472,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَثُلَّةٌ مِّنَ ٱلْـَٔاخِرِينَ",
+            "page_number": 535,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100653,
+                    "resource_id": 20,
+                    "text": "And a company of the later peoples."
+                },
+                {
+                    "id": 218494,
+                    "resource_id": 39,
+                    "text": "Dan sebilangan besar dari orang-orang yang datang kemudian."
+                },
+                {
+                    "id": 1095996,
+                    "resource_id": 161,
+                    "text": "আর পরবর্তীদের মধ্য থেকে বহুসংখ্যক"
+                }
+            ]
+        },
+        {
+            "id": 5020,
+            "verse_number": 41,
+            "verse_key": "56:41",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 472,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَصْحَـٰبُ ٱلشِّمَالِ مَآ أَصْحَـٰبُ ٱلشِّمَالِ",
+            "page_number": 535,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100654,
+                    "resource_id": 20,
+                    "text": "And the companions of the left - what are the companions of the left?"
+                },
+                {
+                    "id": 218495,
+                    "resource_id": 39,
+                    "text": "Dan puak kiri, - alangkah seksanya keadaan puak kiri itu?"
+                },
+                {
+                    "id": 1095997,
+                    "resource_id": 161,
+                    "text": "আর বাম দিকের দল, কত হতভাগ্য বামদিকের দল!"
+                }
+            ]
+        },
+        {
+            "id": 5021,
+            "verse_number": 42,
+            "verse_key": "56:42",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 472,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فِى سَمُومٍ وَحَمِيمٍ",
+            "page_number": 535,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100655,
+                    "resource_id": 20,
+                    "text": "[They will be] in scorching fire and scalding water"
+                },
+                {
+                    "id": 218496,
+                    "resource_id": 39,
+                    "text": "Mereka diseksa dalam angin yang membakar dan air yang menggelegak"
+                },
+                {
+                    "id": 1095998,
+                    "resource_id": 161,
+                    "text": "(তারা থাকবে) অত্যধিক গরম হাওয়া, ফুটন্ত পানি"
+                }
+            ]
+        },
+        {
+            "id": 5022,
+            "verse_number": 43,
+            "verse_key": "56:43",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 472,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَظِلٍّ مِّن يَحْمُومٍ",
+            "page_number": 535,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100656,
+                    "resource_id": 20,
+                    "text": "And a shade of black smoke,"
+                },
+                {
+                    "id": 218497,
+                    "resource_id": 39,
+                    "text": "Serta naungan dari asap hitam,"
+                },
+                {
+                    "id": 1095999,
+                    "resource_id": 161,
+                    "text": "আর কালো ধোঁয়ার ছায়ায়,"
+                }
+            ]
+        },
+        {
+            "id": 5023,
+            "verse_number": 44,
+            "verse_key": "56:44",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 472,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "لَّا بَارِدٍ وَلَا كَرِيمٍ",
+            "page_number": 535,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100657,
+                    "resource_id": 20,
+                    "text": "Neither cool nor beneficial."
+                },
+                {
+                    "id": 218498,
+                    "resource_id": 39,
+                    "text": "Yang tidak sejuk, dan tidak pula memberi kesenangan."
+                },
+                {
+                    "id": 1096000,
+                    "resource_id": 161,
+                    "text": "যা শীতলও নয়, তৃপ্তিদায়কও নয়।"
+                }
+            ]
+        },
+        {
+            "id": 5024,
+            "verse_number": 45,
+            "verse_key": "56:45",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 472,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّهُمْ كَانُوا۟ قَبْلَ ذَٰلِكَ مُتْرَفِينَ",
+            "page_number": 535,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100658,
+                    "resource_id": 20,
+                    "text": "Indeed they were, before that, indulging in affluence,"
+                },
+                {
+                    "id": 218499,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya mereka sebelum itu dilalaikan oleh kemewahan (dunia, dari mengingati hukum Tuhan)."
+                },
+                {
+                    "id": 1096001,
+                    "resource_id": 161,
+                    "text": "ইতোপূর্বে তারা ভোগ বিলাসে মত্ত ছিল,"
+                }
+            ]
+        },
+        {
+            "id": 5025,
+            "verse_number": 46,
+            "verse_key": "56:46",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 472,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَكَانُوا۟ يُصِرُّونَ عَلَى ٱلْحِنثِ ٱلْعَظِيمِ",
+            "page_number": 535,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100659,
+                    "resource_id": 20,
+                    "text": "And they used to persist in the great violation,<sup foot_note=197486>1</sup>"
+                },
+                {
+                    "id": 218500,
+                    "resource_id": 39,
+                    "text": "Dan mereka pula sentiasa melakukan dosa yang besar,"
+                },
+                {
+                    "id": 1096002,
+                    "resource_id": 161,
+                    "text": "আর অবিরাম ক’রে যেত বড় বড় পাপের কাজ,"
+                }
+            ]
+        },
+        {
+            "id": 5026,
+            "verse_number": 47,
+            "verse_key": "56:47",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 472,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَكَانُوا۟ يَقُولُونَ أَئِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَـٰمًا أَءِنَّا لَمَبْعُوثُونَ",
+            "page_number": 535,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100660,
+                    "resource_id": 20,
+                    "text": "And they used to say, \"When we die and become dust and bones, are we indeed to be resurrected?"
+                },
+                {
+                    "id": 218501,
+                    "resource_id": 39,
+                    "text": "Dan juga mereka selalu berkata: \"Adakah sesudah kita mati serta menjadi tanah dan tulang, betulkah kita akan dibangkitkan hidup semula?"
+                },
+                {
+                    "id": 1096003,
+                    "resource_id": 161,
+                    "text": "আর তারা বলত- ‘আমরা যখন মরে যাব আর মাটি ও হাড়ে পরিণত হব, তখন কি আমাদেরকে (নতুন জীবন দিয়ে) আবার উঠানো হবে?"
+                }
+            ]
+        },
+        {
+            "id": 5027,
+            "verse_number": 48,
+            "verse_key": "56:48",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 472,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَوَءَابَآؤُنَا ٱلْأَوَّلُونَ",
+            "page_number": 535,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100661,
+                    "resource_id": 20,
+                    "text": "And our forefathers [as well]?\""
+                },
+                {
+                    "id": 218504,
+                    "resource_id": 39,
+                    "text": "\"Dan adakah juga datuk nenek kita yang telah lalu, (akan dibangkitkan hidup semula)? \""
+                },
+                {
+                    "id": 1096004,
+                    "resource_id": 161,
+                    "text": "আর আমাদের বাপদাদাদেরকেও?"
+                }
+            ]
+        },
+        {
+            "id": 5028,
+            "verse_number": 49,
+            "verse_key": "56:49",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 472,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "قُلْ إِنَّ ٱلْأَوَّلِينَ وَٱلْـَٔاخِرِينَ",
+            "page_number": 535,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100662,
+                    "resource_id": 20,
+                    "text": "Say, [O Muḥammad], \"Indeed, the former and later peoples"
+                },
+                {
+                    "id": 218503,
+                    "resource_id": 39,
+                    "text": "Katakanlah (kepada mereka): \"Sesungguhnya orang-orang yang telah lalu dan orang-orang yang terkemudian,"
+                },
+                {
+                    "id": 1096005,
+                    "resource_id": 161,
+                    "text": "বল- ‘পূর্ববর্তী আর পরবর্তী"
+                }
+            ]
+        },
+        {
+            "id": 5029,
+            "verse_number": 50,
+            "verse_key": "56:50",
+            "hizb_number": 54,
+            "rub_el_hizb_number": 214,
+            "ruku_number": 472,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "لَمَجْمُوعُونَ إِلَىٰ مِيقَـٰتِ يَوْمٍ مَّعْلُومٍ",
+            "page_number": 535,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100665,
+                    "resource_id": 20,
+                    "text": "Are to be gathered together for the appointment of a known Day.\""
+                },
+                {
+                    "id": 218514,
+                    "resource_id": 39,
+                    "text": "\"Tetap akan dihimpunkan pada masa yang ditentukan - pada hari kiamat yang termaklum."
+                },
+                {
+                    "id": 1096006,
+                    "resource_id": 161,
+                    "text": "অবশ্যই সকলকে একত্রিত করা হবে একটা নির্ধারিত দিনে যা (আল্লাহর) জানা আছে।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 34,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 34
+    }
+}

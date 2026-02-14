@@ -1,0 +1,851 @@
+{
+    "verses": [
+        {
+            "id": 5358,
+            "verse_number": 35,
+            "verse_key": "69:35",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 502,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَلَيْسَ لَهُ ٱلْيَوْمَ هَـٰهُنَا حَمِيمٌ",
+            "page_number": 568,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101188,
+                    "resource_id": 20,
+                    "text": "So there is not for him here this Day any devoted friend"
+                },
+                {
+                    "id": 219037,
+                    "resource_id": 39,
+                    "text": "\"Maka pada hari ini, tidak ada baginya di sini (seorangpun dari) kaum kerabat serta sahabat handai (yang dapat menolongnya), -"
+                },
+                {
+                    "id": 1096335,
+                    "resource_id": 161,
+                    "text": "কাজেই আজ এখানে তার কোন বন্ধু নেই,"
+                }
+            ]
+        },
+        {
+            "id": 5359,
+            "verse_number": 36,
+            "verse_key": "69:36",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 502,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَا طَعَامٌ إِلَّا مِنْ غِسْلِينٍ",
+            "page_number": 568,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101189,
+                    "resource_id": 20,
+                    "text": "Nor any food except from the discharge of wounds;"
+                },
+                {
+                    "id": 219038,
+                    "resource_id": 39,
+                    "text": "\"Dan tidak ada makanan (baginya) melainkan dari air danur,"
+                },
+                {
+                    "id": 1096336,
+                    "resource_id": 161,
+                    "text": "ক্ষত হতে পড়া পুঁজ ছাড়া কোন খাদ্য নেই,"
+                }
+            ]
+        },
+        {
+            "id": 5360,
+            "verse_number": 37,
+            "verse_key": "69:37",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 502,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "لَّا يَأْكُلُهُۥٓ إِلَّا ٱلْخَـٰطِـُٔونَ",
+            "page_number": 568,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101190,
+                    "resource_id": 20,
+                    "text": "None will eat it except the sinners."
+                },
+                {
+                    "id": 219042,
+                    "resource_id": 39,
+                    "text": "\"Yang tidak memakannya melainkan orang-orang yang melakukan perkara yang salah\"."
+                },
+                {
+                    "id": 1096337,
+                    "resource_id": 161,
+                    "text": "যা অপরাধীরা ছাড়া অন্য কেউ খায় না।"
+                }
+            ]
+        },
+        {
+            "id": 5361,
+            "verse_number": 38,
+            "verse_key": "69:38",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 503,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَلَآ أُقْسِمُ بِمَا تُبْصِرُونَ",
+            "page_number": 568,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101191,
+                    "resource_id": 20,
+                    "text": "So I swear by what you see"
+                },
+                {
+                    "id": 219039,
+                    "resource_id": 39,
+                    "text": "Maka Aku bersumpah: Demi segala (yang nyata) yang kamu melihatnya, -"
+                },
+                {
+                    "id": 1096338,
+                    "resource_id": 161,
+                    "text": "আমি কসম করছি সে সব জিনিসের যা তোমরা দেখতে পাও,"
+                }
+            ]
+        },
+        {
+            "id": 5362,
+            "verse_number": 39,
+            "verse_key": "69:39",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 503,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا لَا تُبْصِرُونَ",
+            "page_number": 568,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101192,
+                    "resource_id": 20,
+                    "text": "And what you do not see"
+                },
+                {
+                    "id": 219040,
+                    "resource_id": 39,
+                    "text": "Dan segala (yang ghaib) yang kamu tidak melihatnya, -"
+                },
+                {
+                    "id": 1096339,
+                    "resource_id": 161,
+                    "text": "আর (সে সব জিনিসেরও) যা তোমরা দেখতে পাও না"
+                }
+            ]
+        },
+        {
+            "id": 5363,
+            "verse_number": 40,
+            "verse_key": "69:40",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 503,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّهُۥ لَقَوْلُ رَسُولٍ كَرِيمٍ",
+            "page_number": 568,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101195,
+                    "resource_id": 20,
+                    "text": "[That] indeed, it [i.e., the Qur’ān] is the word of a noble Messenger."
+                },
+                {
+                    "id": 219043,
+                    "resource_id": 39,
+                    "text": "Bahawa sesungguhnya Al-Quran itu ialah (wahyu dari Kami) yang disampaikan oleh Rasul yang mulia."
+                },
+                {
+                    "id": 1096340,
+                    "resource_id": 161,
+                    "text": "যে, অবশ্যই এ কুরআন এক মহা সম্মানিত রসূল [জিবরীল (আঃ)]-এর (বহন করে আনা) বাণী।"
+                }
+            ]
+        },
+        {
+            "id": 5364,
+            "verse_number": 41,
+            "verse_key": "69:41",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 503,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا هُوَ بِقَوْلِ شَاعِرٍ ۚ قَلِيلًا مَّا تُؤْمِنُونَ",
+            "page_number": 568,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101196,
+                    "resource_id": 20,
+                    "text": "And it is not the word of a poet; little do you believe."
+                },
+                {
+                    "id": 219044,
+                    "resource_id": 39,
+                    "text": "Dan bukanlah Al-Quran itu perkataan seorang penyair (sebagaimana yang kamu dakwakan. Tetapi sayang!) amatlah sedikit kamu beriman."
+                },
+                {
+                    "id": 1096341,
+                    "resource_id": 161,
+                    "text": "তা কোন কবির কথা নয়, (কবির কথা তো) তোমরা বিশ্বাস করো না,"
+                }
+            ]
+        },
+        {
+            "id": 5365,
+            "verse_number": 42,
+            "verse_key": "69:42",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 503,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَا بِقَوْلِ كَاهِنٍ ۚ قَلِيلًا مَّا تَذَكَّرُونَ",
+            "page_number": 568,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101197,
+                    "resource_id": 20,
+                    "text": "Nor the word of a soothsayer; little do you remember."
+                },
+                {
+                    "id": 219003,
+                    "resource_id": 39,
+                    "text": "Dan juga bukanlah Al-Quran itu perkataan seorang pawang (sebagaimana yang kamu katakan. Tetapi sayang!) amatlah sedikit kamu mengambil peringatan."
+                },
+                {
+                    "id": 1096342,
+                    "resource_id": 161,
+                    "text": "এটা কোন গণকের কথাও নয়, (গণকের কথায় তো) তোমরা নসীহত লাভ করো না।"
+                }
+            ]
+        },
+        {
+            "id": 5366,
+            "verse_number": 43,
+            "verse_key": "69:43",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 503,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "تَنزِيلٌ مِّن رَّبِّ ٱلْعَـٰلَمِينَ",
+            "page_number": 568,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101198,
+                    "resource_id": 20,
+                    "text": "[It is] a revelation from the Lord of the worlds."
+                },
+                {
+                    "id": 219004,
+                    "resource_id": 39,
+                    "text": "(Al-Quran itu) diturunkan dari Allah Tuhan sekalian alam."
+                },
+                {
+                    "id": 1096343,
+                    "resource_id": 161,
+                    "text": "এটা বিশ্ব জগতের প্রতিপালকের নিকট থেকে অবতীর্ণ,"
+                }
+            ]
+        },
+        {
+            "id": 5367,
+            "verse_number": 44,
+            "verse_key": "69:44",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 503,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَوْ تَقَوَّلَ عَلَيْنَا بَعْضَ ٱلْأَقَاوِيلِ",
+            "page_number": 568,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101199,
+                    "resource_id": 20,
+                    "text": "And if he [i.e., Muḥammad] had made up about Us some [false] sayings,"
+                },
+                {
+                    "id": 219005,
+                    "resource_id": 39,
+                    "text": "Dan kalaulah (Nabi Muhammad yang menyampaikan Al-Quran itu) mengatakan atas nama Kami secara dusta - sebarang kata-kata rekaan, -"
+                },
+                {
+                    "id": 1096344,
+                    "resource_id": 161,
+                    "text": "নবী যদি কোন কথা নিজে রচনা করে আমার নামে চালিয়ে দিত,"
+                }
+            ]
+        },
+        {
+            "id": 5368,
+            "verse_number": 45,
+            "verse_key": "69:45",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 503,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "لَأَخَذْنَا مِنْهُ بِٱلْيَمِينِ",
+            "page_number": 568,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101200,
+                    "resource_id": 20,
+                    "text": "We would have seized him by the right hand;<sup foot_note=197606>1</sup>"
+                },
+                {
+                    "id": 219006,
+                    "resource_id": 39,
+                    "text": "Sudah tentu Kami akan menyentapnya, dengan kekuasaan Kami, -"
+                },
+                {
+                    "id": 1096345,
+                    "resource_id": 161,
+                    "text": "আমি অবশ্যই তার ডান হাত ধরে তাকে পাকড়াও করতাম,"
+                }
+            ]
+        },
+        {
+            "id": 5369,
+            "verse_number": 46,
+            "verse_key": "69:46",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 503,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ثُمَّ لَقَطَعْنَا مِنْهُ ٱلْوَتِينَ",
+            "page_number": 568,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101201,
+                    "resource_id": 20,
+                    "text": "Then We would have cut from him the aorta.<sup foot_note=197607>1</sup>"
+                },
+                {
+                    "id": 218673,
+                    "resource_id": 39,
+                    "text": "Kemudian sudah tentu Kami akan memutuskan tali jantungnya (supaya ia mati dengan serta-merta);"
+                },
+                {
+                    "id": 1096346,
+                    "resource_id": 161,
+                    "text": "তারপর অবশ্যই কেটে দিতাম তার হৃৎপিন্ডের শিরা,"
+                }
+            ]
+        },
+        {
+            "id": 5370,
+            "verse_number": 47,
+            "verse_key": "69:47",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 503,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَمَا مِنكُم مِّنْ أَحَدٍ عَنْهُ حَـٰجِزِينَ",
+            "page_number": 568,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101202,
+                    "resource_id": 20,
+                    "text": "And there is no one of you who could prevent [Us] from him."
+                },
+                {
+                    "id": 218608,
+                    "resource_id": 39,
+                    "text": "Maka tidak ada seorangpun di antara kamu yang dapat menghalang (tindakan Kami itu) daripada menimpanya."
+                },
+                {
+                    "id": 1096347,
+                    "resource_id": 161,
+                    "text": "অতঃপর তোমাদের মধ্যে এমন কেউ নেই যে, (আমার গোস্বা থেকে তাকে রক্ষা করার জন্য) বাধা সৃষ্টি করতে পারে।"
+                }
+            ]
+        },
+        {
+            "id": 5371,
+            "verse_number": 48,
+            "verse_key": "69:48",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 503,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِنَّهُۥ لَتَذْكِرَةٌ لِّلْمُتَّقِينَ",
+            "page_number": 568,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101203,
+                    "resource_id": 20,
+                    "text": "And indeed, it [i.e., the Qur’ān] is a reminder for the righteous."
+                },
+                {
+                    "id": 218266,
+                    "resource_id": 39,
+                    "text": "Dan sesungguhnya (Al-Quran) itu tetap menjadi peringatan bagi orang-orang yang bertaqwa."
+                },
+                {
+                    "id": 1096348,
+                    "resource_id": 161,
+                    "text": "মুত্তাক্বীদের জন্য এ কুরআন অবশ্যই এক উপদেশ,"
+                }
+            ]
+        },
+        {
+            "id": 5372,
+            "verse_number": 49,
+            "verse_key": "69:49",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 503,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِنَّا لَنَعْلَمُ أَنَّ مِنكُم مُّكَذِّبِينَ",
+            "page_number": 568,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101204,
+                    "resource_id": 20,
+                    "text": "And indeed, We know that among you are deniers."
+                },
+                {
+                    "id": 218756,
+                    "resource_id": 39,
+                    "text": "Dan sesungguhnya Kami sedia mengetahui bahawa ada di antara kamu yang mendustakan (Al-Quran, maka Kami akan membalasnya)."
+                },
+                {
+                    "id": 1096349,
+                    "resource_id": 161,
+                    "text": "আমি অবশ্যই জানি যে, তোমাদের মধ্যে কতক লোক (কুরআনকে) অস্বীকার করবে।"
+                }
+            ]
+        },
+        {
+            "id": 5373,
+            "verse_number": 50,
+            "verse_key": "69:50",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 503,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِنَّهُۥ لَحَسْرَةٌ عَلَى ٱلْكَـٰفِرِينَ",
+            "page_number": 568,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101207,
+                    "resource_id": 20,
+                    "text": "And indeed, it will be [a cause of] regret upon the disbelievers."
+                },
+                {
+                    "id": 219050,
+                    "resource_id": 39,
+                    "text": "Dan sesungguhnya Al-Quran itu sudah tentu akan menyebabkan penyesalan bagi orang-orang yang kafir (semasa mereka menerima balasan)."
+                },
+                {
+                    "id": 1096350,
+                    "resource_id": 161,
+                    "text": "আর এ কুরআন কাফিরদের জন্য অবশ্যই দুঃখ ও হতাশার কারণ হবে (যখন কুরআনে বর্ণিত শাস্তি তাদেরকে ঘিরে ধরবে)।"
+                }
+            ]
+        },
+        {
+            "id": 5374,
+            "verse_number": 51,
+            "verse_key": "69:51",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 503,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِنَّهُۥ لَحَقُّ ٱلْيَقِينِ",
+            "page_number": 568,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101208,
+                    "resource_id": 20,
+                    "text": "And indeed, it is the truth of certainty."
+                },
+                {
+                    "id": 219048,
+                    "resource_id": 39,
+                    "text": "Dan sesungguhnya Al-Quran itu adalah kebenaran yang diyakini (dengan seyakin-yakinnya)."
+                },
+                {
+                    "id": 1096351,
+                    "resource_id": 161,
+                    "text": "এটা একেবারে নিশ্চিত সত্য।"
+                }
+            ]
+        },
+        {
+            "id": 5375,
+            "verse_number": 52,
+            "verse_key": "69:52",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 503,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+            "page_number": 568,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101209,
+                    "resource_id": 20,
+                    "text": "So exalt the name of your Lord, the Most Great."
+                },
+                {
+                    "id": 214909,
+                    "resource_id": 39,
+                    "text": "Oleh itu bertasbihlah dengan memuji nama Tuhanmu Yang Maha Besar."
+                },
+                {
+                    "id": 1096352,
+                    "resource_id": 161,
+                    "text": "অতএব তুমি তোমার মহান প্রতিপালকের নামের পবিত্রতা ও মহিমা বর্ণনা কর।"
+                }
+            ]
+        },
+        {
+            "id": 5376,
+            "verse_number": 1,
+            "verse_key": "70:1",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 504,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " سَأَلَ سَآئِلٌۢ بِعَذَابٍ وَاقِعٍ",
+            "page_number": 568,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101218,
+                    "resource_id": 20,
+                    "text": "A supplicant asked for a punishment bound to happen<sup foot_note=197608>1</sup>"
+                },
+                {
+                    "id": 219070,
+                    "resource_id": 39,
+                    "text": "Salah seorang (dari kalangan orang-orang kafir Makkah, secara mengejek-ejek) meminta kedatangan azab yang (dijanjikan) akan berlaku,"
+                },
+                {
+                    "id": 1096353,
+                    "resource_id": 161,
+                    "text": "এক ব্যক্তি চাইল সে ‘আযাব যা অবশ্যই সংঘটিত হবে।"
+                }
+            ]
+        },
+        {
+            "id": 5377,
+            "verse_number": 2,
+            "verse_key": "70:2",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 504,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "لِّلْكَـٰفِرِينَ لَيْسَ لَهُۥ دَافِعٌ",
+            "page_number": 568,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101229,
+                    "resource_id": 20,
+                    "text": "To the disbelievers; of it there is no preventer."
+                },
+                {
+                    "id": 219146,
+                    "resource_id": 39,
+                    "text": "Azab yang disediakan untuk orang-orang yang kafir, yang tidak ada sesiapapun dapat menolak kedatangannya -"
+                },
+                {
+                    "id": 1096354,
+                    "resource_id": 161,
+                    "text": "কাফিরদের জন্য তা প্রতিরোধ করার কেউ নেই"
+                }
+            ]
+        },
+        {
+            "id": 5378,
+            "verse_number": 3,
+            "verse_key": "70:3",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 504,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "مِّنَ ٱللَّهِ ذِى ٱلْمَعَارِجِ",
+            "page_number": 568,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101240,
+                    "resource_id": 20,
+                    "text": "[It is] from Allāh, owner of the ways of ascent."
+                },
+                {
+                    "id": 219077,
+                    "resource_id": 39,
+                    "text": "Dari Allah yang menguasai tempat-tempat turun naik -"
+                },
+                {
+                    "id": 1096355,
+                    "resource_id": 161,
+                    "text": "(যে শাস্তি আসবে) আল্লাহর নিকট হতে যিনি আসমানে উঠার সিঁড়িগুলোর মালিক,"
+                }
+            ]
+        },
+        {
+            "id": 5379,
+            "verse_number": 4,
+            "verse_key": "70:4",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 504,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "تَعْرُجُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ إِلَيْهِ فِى يَوْمٍ كَانَ مِقْدَارُهُۥ خَمْسِينَ أَلْفَ سَنَةٍ",
+            "page_number": 568,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101251,
+                    "resource_id": 20,
+                    "text": "The angels and the Spirit [i.e., Gabriel] will ascend to Him during a Day the extent of which is fifty thousand years."
+                },
+                {
+                    "id": 219088,
+                    "resource_id": 39,
+                    "text": "Yang dilalui oleh malaikat-malaikat dan Jibril ke pusat pemerintahanNya (untuk menerima dan menyempurnakan tugas masing-masing, terutama) pada satu masa yang adalah tempohnya (dirasai oleh orang-orang yang bersalah) sungguh panjang, (kerana banyak hitungan hisab dan berat soal jawabnya)."
+                },
+                {
+                    "id": 1096356,
+                    "resource_id": 161,
+                    "text": "ফেরেশতা এবং রূহ (অর্থাৎ জিবরীল) আল্লাহর দিকে আরোহণ করে এমন এক দিনে, যার পরিমাণ পঞ্চাশ হাজার বছর।"
+                }
+            ]
+        },
+        {
+            "id": 5380,
+            "verse_number": 5,
+            "verse_key": "70:5",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 504,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَٱصْبِرْ صَبْرًا جَمِيلًا",
+            "page_number": 568,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101258,
+                    "resource_id": 20,
+                    "text": "So be patient with gracious patience."
+                },
+                {
+                    "id": 219095,
+                    "resource_id": 39,
+                    "text": "Maka bersabarlah (wahai Muhammad terhadap ejekan golongan yang kafir itu), dengan cara kesabaran yang sebaik-baiknya."
+                },
+                {
+                    "id": 1096357,
+                    "resource_id": 161,
+                    "text": "সুতরাং (হে নবী!) ধৈর্য ধর- সুন্দর সৌজন্যমূলক ধৈর্য।"
+                }
+            ]
+        },
+        {
+            "id": 5381,
+            "verse_number": 6,
+            "verse_key": "70:6",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 504,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّهُمْ يَرَوْنَهُۥ بَعِيدًا",
+            "page_number": 568,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101259,
+                    "resource_id": 20,
+                    "text": "Indeed, they see it [as] distant,"
+                },
+                {
+                    "id": 219101,
+                    "resource_id": 39,
+                    "text": "Sebenarnya mereka memandang azab itu jauh (daripada berlaku),"
+                },
+                {
+                    "id": 1096358,
+                    "resource_id": 161,
+                    "text": "তারা ঐ দিনটিকে সুদূর মনে করছে,"
+                }
+            ]
+        },
+        {
+            "id": 5382,
+            "verse_number": 7,
+            "verse_key": "70:7",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 504,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَنَرَىٰهُ قَرِيبًا",
+            "page_number": 568,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101260,
+                    "resource_id": 20,
+                    "text": "But We see it [as] near."
+                },
+                {
+                    "id": 219096,
+                    "resource_id": 39,
+                    "text": "Sedang Kami memandangnya dekat, (tetap akan berlaku),"
+                },
+                {
+                    "id": 1096359,
+                    "resource_id": 161,
+                    "text": "কিন্তু আমি তা নিকটে দেখতে পাচ্ছি।"
+                }
+            ]
+        },
+        {
+            "id": 5383,
+            "verse_number": 8,
+            "verse_key": "70:8",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 504,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "يَوْمَ تَكُونُ ٱلسَّمَآءُ كَٱلْمُهْلِ",
+            "page_number": 568,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101261,
+                    "resource_id": 20,
+                    "text": "On the Day the sky will be like murky oil,<sup foot_note=197609>1</sup>"
+                },
+                {
+                    "id": 219097,
+                    "resource_id": 39,
+                    "text": "(Iaitu) pada hari langit menjadi seperti tembaga cair,"
+                },
+                {
+                    "id": 1096360,
+                    "resource_id": 161,
+                    "text": "সেদিন আকাশ হবে গলিত রূপার মত,"
+                }
+            ]
+        },
+        {
+            "id": 5384,
+            "verse_number": 9,
+            "verse_key": "70:9",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 504,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ",
+            "page_number": 568,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101262,
+                    "resource_id": 20,
+                    "text": "And the mountains will be like wool,<sup foot_note=197610>1</sup>"
+                },
+                {
+                    "id": 219098,
+                    "resource_id": 39,
+                    "text": "Dan gunung-ganang pula menjadi seperti bulu (yang berterbangan)"
+                },
+                {
+                    "id": 1096361,
+                    "resource_id": 161,
+                    "text": "আর পাহাড়গুলো হবে রঙ্গীণ পশমের মত,"
+                }
+            ]
+        },
+        {
+            "id": 5385,
+            "verse_number": 10,
+            "verse_key": "70:10",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 504,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَا يَسْـَٔلُ حَمِيمٌ حَمِيمًا",
+            "page_number": 568,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101219,
+                    "resource_id": 20,
+                    "text": "And no friend will ask [anything of] a friend,"
+                },
+                {
+                    "id": 219071,
+                    "resource_id": 39,
+                    "text": "Dan sahabat karib tidak bertanyakan hal sahabat karibnya, (kerana tiap-tiap seorang sibuk memikirkan hal keadaannya sendiri),"
+                },
+                {
+                    "id": 1096362,
+                    "resource_id": 161,
+                    "text": "বন্ধু বন্ধুর খবর নিবে না,"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 27,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 27
+    }
+}

@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 2020,
+            "verse_number": 119,
+            "verse_key": "16:119",
+            "hizb_number": 28,
+            "rub_el_hizb_number": 112,
+            "ruku_number": 238,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "ثُمَّ إِنَّ رَبَّكَ لِلَّذِينَ عَمِلُوا۟ ٱلسُّوٓءَ بِجَهَـٰلَةٍ ثُمَّ تَابُوا۟ مِنۢ بَعْدِ ذَٰلِكَ وَأَصْلَحُوٓا۟ إِنَّ رَبَّكَ مِنۢ بَعْدِهَا لَغَفُورٌ رَّحِيمٌ",
+            "page_number": 281,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96823,
+                    "resource_id": 20,
+                    "text": "Then, indeed your Lord, to those who have done wrong out of ignorance and then repent after that and correct themselves - indeed, your Lord, thereafter, is Forgiving and Merciful."
+                },
+                {
+                    "id": 220803,
+                    "resource_id": 39,
+                    "text": "Kemudian, sesungguhnya Tuhanmu terhadap orang-orang yang melakukan kejahatan dengan sebab kejahilan, kemudian mereka bertaubat sesudah itu serta memperbaiki amalannya, sesungguhnya Tuhanmu sesudah (mereka bertaubat) itu, adalah Maha Pengampun, lagi Maha Mengasihani."
+                },
+                {
+                    "id": 1092997,
+                    "resource_id": 161,
+                    "text": "তোমার প্রতিপালক তাদের জন্য যারা অজ্ঞতার কারণে খারাপ কাজ করে, অতঃপর তাওবাহ করে ও নিজেদের ‘আমাল সংশোধন করে, তোমার প্রতিপালক তাদের জন্য অবশ্যই বড়ই ক্ষমাশীল, বড়ই দয়ালু।"
+                }
+            ]
+        },
+        {
+            "id": 2021,
+            "verse_number": 120,
+            "verse_key": "16:120",
+            "hizb_number": 28,
+            "rub_el_hizb_number": 112,
+            "ruku_number": 239,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ إِبْرَٰهِيمَ كَانَ أُمَّةً قَانِتًا لِّلَّهِ حَنِيفًا وَلَمْ يَكُ مِنَ ٱلْمُشْرِكِينَ",
+            "page_number": 281,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96825,
+                    "resource_id": 20,
+                    "text": "Indeed, Abraham was a [comprehensive] leader,<sup foot_note=196633>1</sup> devoutly obedient to Allāh, inclining toward truth, and he was not of those who associate others with Allāh."
+                },
+                {
+                    "id": 220795,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Nabi Ibrahim adalah merupakan \"satu umat\" (walaupun Ia seorang diri); ia takat bulat-bulat kepada Allah, lagi berdiri teguh di atas dasar tauhid; dan ia tidak pernah menjadi dari orang-orang yang musyrik."
+                },
+                {
+                    "id": 1092998,
+                    "resource_id": 161,
+                    "text": "ইবরাহীম ছিল আল্লাহর প্রতি বিনয়াবনত একনিষ্ঠ এক উম্মাত, আর সে মুশরিকদের অন্তর্ভুক্ত ছিল না।"
+                }
+            ]
+        },
+        {
+            "id": 2022,
+            "verse_number": 121,
+            "verse_key": "16:121",
+            "hizb_number": 28,
+            "rub_el_hizb_number": 112,
+            "ruku_number": 239,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "شَاكِرًا لِّأَنْعُمِهِ ۚ ٱجْتَبَىٰهُ وَهَدَىٰهُ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+            "page_number": 281,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96826,
+                    "resource_id": 20,
+                    "text": "[He was] grateful for His favors. He [i.e., Allāh] chose him and guided him to a straight path."
+                },
+                {
+                    "id": 220784,
+                    "resource_id": 39,
+                    "text": "Ia sentiasa bersyukur akan nikmat-nikmat Allah; Allah telah memilihnya (menjadi Nabi) dan memberi hidayah petunjuk kepadanya ke jalan yang lurus."
+                },
+                {
+                    "id": 1092999,
+                    "resource_id": 161,
+                    "text": "সে ছিল আল্লাহর নি‘মাতরাজির জন্য শোকরগুযার। আল্লাহ তাকে বেছে নিয়েছিলেন আর তাকে সরল সঠিক পথ দেখিয়েছিলেন।"
+                }
+            ]
+        },
+        {
+            "id": 2023,
+            "verse_number": 122,
+            "verse_key": "16:122",
+            "hizb_number": 28,
+            "rub_el_hizb_number": 112,
+            "ruku_number": 239,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَءَاتَيْنَـٰهُ فِى ٱلدُّنْيَا حَسَنَةً ۖ وَإِنَّهُۥ فِى ٱلْـَٔاخِرَةِ لَمِنَ ٱلصَّـٰلِحِينَ",
+            "page_number": 281,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96827,
+                    "resource_id": 20,
+                    "text": "And We gave him good in this world, and indeed, in the Hereafter he will be among the righteous."
+                },
+                {
+                    "id": 220723,
+                    "resource_id": 39,
+                    "text": "Dan Kami telah memberikan kepadanya kebaikan di dunia; dan sesungguhnya ia pada hari akhirat adalah dari orang-orang yang soleh."
+                },
+                {
+                    "id": 1093000,
+                    "resource_id": 161,
+                    "text": "আমি তাকে দুনিয়াতে কল্যাণ দান করেছিলাম, আর আখেরাতেও সে অবশ্যই সৎকর্মশীলদের অন্তর্ভুক্ত।"
+                }
+            ]
+        },
+        {
+            "id": 2024,
+            "verse_number": 123,
+            "verse_key": "16:123",
+            "hizb_number": 28,
+            "rub_el_hizb_number": 112,
+            "ruku_number": 239,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "ثُمَّ أَوْحَيْنَآ إِلَيْكَ أَنِ ٱتَّبِعْ مِلَّةَ إِبْرَٰهِيمَ حَنِيفًا ۖ وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ",
+            "page_number": 281,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96828,
+                    "resource_id": 20,
+                    "text": "Then We revealed to you, [O Muḥammad], to follow the religion of Abraham, inclining toward truth; and he was not of those who associate with Allāh."
+                },
+                {
+                    "id": 220809,
+                    "resource_id": 39,
+                    "text": "Kemudian Kami wahyukan kepadamu (wahai Muhammad): Hendaklah engkau menurut ugama Nabi Ibrahim, yang berdiri teguh di atas jalan yang benar; dan tiadalah ia dari orang-orang musyrik."
+                },
+                {
+                    "id": 1093001,
+                    "resource_id": 161,
+                    "text": "অতঃপর তোমার প্রতি ওয়াহী করছি যে, তুমি একনিষ্ঠ ইবরাহীমের মতাদর্শ অনুসরণ কর; আর সে তো মুশরিকদের দলভুক্ত ছিল না।"
+                }
+            ]
+        },
+        {
+            "id": 2025,
+            "verse_number": 124,
+            "verse_key": "16:124",
+            "hizb_number": 28,
+            "rub_el_hizb_number": 112,
+            "ruku_number": 239,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّمَا جُعِلَ ٱلسَّبْتُ عَلَى ٱلَّذِينَ ٱخْتَلَفُوا۟ فِيهِ ۚ وَإِنَّ رَبَّكَ لَيَحْكُمُ بَيْنَهُمْ يَوْمَ ٱلْقِيَـٰمَةِ فِيمَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ",
+            "page_number": 281,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96829,
+                    "resource_id": 20,
+                    "text": "The sabbath was only appointed for those who differed over it. And indeed, your Lord will judge between them on the Day of Resurrection concerning that over which they used to differ."
+                },
+                {
+                    "id": 220654,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya hari Sabtu itu dijadikan (Hari kelepasan yang wajib dihormati) atas orang-orang (Yahudi) yang telah berselisihan padanya; dan sesungguhnya Tuhanmu akan menghukum di antara mereka pada hari kiamat, tentang apa yang mereka telah berselisihan padanya."
+                },
+                {
+                    "id": 1093002,
+                    "resource_id": 161,
+                    "text": "‘শনিবার পালন’ তো তাদের উপর চাপিয়ে দেয়া হয়েছিল যারা এর নিয়ম পালনে মতভেদ করেছিল। যে বিষয়ে তারা মতভেদ করত তোমার প্রতিপালক ক্বিয়ামাতের দিন সে বিষয়ে অবশ্যই তাদের মধ্যে ফায়সালা করে দেবেন।"
+                }
+            ]
+        },
+        {
+            "id": 2026,
+            "verse_number": 125,
+            "verse_key": "16:125",
+            "hizb_number": 28,
+            "rub_el_hizb_number": 112,
+            "ruku_number": 239,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "ٱدْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِٱلْحِكْمَةِ وَٱلْمَوْعِظَةِ ٱلْحَسَنَةِ ۖ وَجَـٰدِلْهُم بِٱلَّتِى هِىَ أَحْسَنُ ۚ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ ۖ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ",
+            "page_number": 281,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96830,
+                    "resource_id": 20,
+                    "text": "Invite to the way of your Lord with wisdom and good instruction, and argue with them in a way that is best. Indeed, your Lord is most knowing of who has strayed from His way, and He is most knowing of who is [rightly] guided."
+                },
+                {
+                    "id": 220808,
+                    "resource_id": 39,
+                    "text": "Serulah ke jalan Tuhanmu (wahai Muhammad) dengan hikmat kebijaksanaan dan nasihat pengajaran yang baik, dan berbahaslah dengan mereka (yang engkau serukan itu) dengan cara yang lebih baik; sesungguhnya Tuhanmu Dia lah jua yang lebih mengetahui akan orang yang sesat dari jalanNya, dan Dia lah jua yang lebih mengetahui akan orang-orang yang mendapat hidayah petunjuk."
+                },
+                {
+                    "id": 1093003,
+                    "resource_id": 161,
+                    "text": "জ্ঞান-বুদ্ধি আর উত্তম উপদেশের মাধ্যমে তুমি (মানুষকে) তোমার প্রতিপালকের পথে আহবান জানাও আর লোকেদের সাথে বিতর্ক কর এমন পন্থায় যা অতি উত্তম। তোমার প্রতিপালক ভালভাবেই জানেন কে তাঁর পথ ছেড়ে গুমরাহ হয়ে গেছে। আর কে সঠিক পথে আছে তাও তিনি বেশি জানেন।"
+                }
+            ]
+        },
+        {
+            "id": 2027,
+            "verse_number": 126,
+            "verse_key": "16:126",
+            "hizb_number": 28,
+            "rub_el_hizb_number": 112,
+            "ruku_number": 239,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِنْ عَاقَبْتُمْ فَعَاقِبُوا۟ بِمِثْلِ مَا عُوقِبْتُم بِهِۦ ۖ وَلَئِن صَبَرْتُمْ لَهُوَ خَيْرٌ لِّلصَّـٰبِرِينَ",
+            "page_number": 281,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96831,
+                    "resource_id": 20,
+                    "text": "And if you punish [an enemy, O believers], punish with an equivalent of that with which you were harmed.<sup foot_note=196634>1</sup> But if you are patient - it is better for those who are patient."
+                },
+                {
+                    "id": 220229,
+                    "resource_id": 39,
+                    "text": "Dan jika kamu membalas kejahatan (pihak lawan), maka hendaklah kamu membalas dengan kejahatan yang sama seperti yang telah ditimpakan kepada kamu, dan jika kamu bersabar, (maka) sesungguhnya yang demikian itu adalah lebih baik bagi orang-orang yang sabar."
+                },
+                {
+                    "id": 1093004,
+                    "resource_id": 161,
+                    "text": "যদি তোমরা প্রতিশোধ গ্রহণ করতে চাও তবে ততটুকু প্রতিশোধ গ্রহণ কর যতটুকু অন্যায় তোমাদের উপর করা হয়েছে। আর যদি তোমরা ধৈর্য ধারণ কর তবে ধৈর্যধারণকারীদের জন্য অবশ্যই তা উত্তম।"
+                }
+            ]
+        },
+        {
+            "id": 2028,
+            "verse_number": 127,
+            "verse_key": "16:127",
+            "hizb_number": 28,
+            "rub_el_hizb_number": 112,
+            "ruku_number": 239,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱصْبِرْ وَمَا صَبْرُكَ إِلَّا بِٱللَّهِ ۚ وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِى ضَيْقٍ مِّمَّا يَمْكُرُونَ",
+            "page_number": 281,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96832,
+                    "resource_id": 20,
+                    "text": "And be patient, [O Muḥammad], and your patience is not but through Allāh. And do not grieve over them and do not be in distress over what they conspire."
+                },
+                {
+                    "id": 220807,
+                    "resource_id": 39,
+                    "text": "Dan bersabarlah (wahai Muhammad terhadap perbuatan dan telatah golongan yang ingkar itu); dan tiadalah berhasil kesabaranmu melainkan dengan (memohon pertolongan) Allah; dan janganlah engkau berdukacita terhadap kedegilan mereka, dan janganlah engkau bersempit dada disebabkan tipu daya yang mereka lakukan."
+                },
+                {
+                    "id": 1093005,
+                    "resource_id": 161,
+                    "text": "তুমি ধৈর্য ধারণ কর, তোমার ধৈর্য তো কেবল আল্লাহ ব্যতীত নয়, ওদের কার্যকলাপে তুমি দুঃখিত হয়ো না, আর ওদের ষড়যন্ত্র করার কারণে অন্তরে কুণ্ঠাবোধ করো না।"
+                }
+            ]
+        },
+        {
+            "id": 2029,
+            "verse_number": 128,
+            "verse_key": "16:128",
+            "hizb_number": 28,
+            "rub_el_hizb_number": 112,
+            "ruku_number": 239,
+            "manzil_number": 3,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ ٱللَّهَ مَعَ ٱلَّذِينَ ٱتَّقَوا۟ وَّٱلَّذِينَ هُم مُّحْسِنُونَ",
+            "page_number": 281,
+            "juz_number": 14,
+            "translations": [
+                {
+                    "id": 96833,
+                    "resource_id": 20,
+                    "text": "Indeed, Allāh is with those who fear Him and those who are doers of good."
+                },
+                {
+                    "id": 220226,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Allah beserta orang-orang yang bertaqwa, dan orang-orang yang berusaha memperbaiki amalannya."
+                },
+                {
+                    "id": 1093006,
+                    "resource_id": 161,
+                    "text": "যারা তাক্বওয়া অবলম্বন করে আর সৎকর্মশীল, আল্লাহ তো তাদেরই সঙ্গে আছেন।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 10
+    }
+}

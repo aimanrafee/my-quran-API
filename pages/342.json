@@ -1,0 +1,521 @@
+{
+    "verses": [
+        {
+            "id": 2674,
+            "verse_number": 1,
+            "verse_key": "23:1",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 295,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": " قَدْ أَفْلَحَ ٱلْمُؤْمِنُونَ",
+            "page_number": 342,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97800,
+                    "resource_id": 20,
+                    "text": "Certainly will the believers have succeeded:"
+                },
+                {
+                    "id": 216320,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya berjayalah orang-orang yang beriman,"
+                },
+                {
+                    "id": 1093651,
+                    "resource_id": 161,
+                    "text": "মু’মিনরা সফলকাম হয়ে গেছে।"
+                }
+            ]
+        },
+        {
+            "id": 2675,
+            "verse_number": 2,
+            "verse_key": "23:2",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 295,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِينَ هُمْ فِى صَلَاتِهِمْ خَـٰشِعُونَ",
+            "page_number": 342,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 95641,
+                    "resource_id": 20,
+                    "text": "They who are during their prayer humbly intent"
+                },
+                {
+                    "id": 215699,
+                    "resource_id": 39,
+                    "text": "Iaitu mereka yang khusyuk dalam sembahyangnya;"
+                },
+                {
+                    "id": 1093652,
+                    "resource_id": 161,
+                    "text": "যারা নিজেদের নামাযে বিনয় নম্রতা অবলম্বন করে।"
+                }
+            ]
+        },
+        {
+            "id": 2676,
+            "verse_number": 3,
+            "verse_key": "23:3",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 295,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّذِينَ هُمْ عَنِ ٱللَّغْوِ مُعْرِضُونَ",
+            "page_number": 342,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97839,
+                    "resource_id": 20,
+                    "text": "And they who turn away from ill speech"
+                },
+                {
+                    "id": 215708,
+                    "resource_id": 39,
+                    "text": "Dan mereka yang menjauhkan diri dari perbuatan dan perkataan yang sia-sia;"
+                },
+                {
+                    "id": 1093653,
+                    "resource_id": 161,
+                    "text": "যারা অসার কথাবার্তা এড়িয়ে চলে।"
+                }
+            ]
+        },
+        {
+            "id": 2677,
+            "verse_number": 4,
+            "verse_key": "23:4",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 295,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّذِينَ هُمْ لِلزَّكَوٰةِ فَـٰعِلُونَ",
+            "page_number": 342,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97851,
+                    "resource_id": 20,
+                    "text": "And they who are observant of zakāh"
+                },
+                {
+                    "id": 215722,
+                    "resource_id": 39,
+                    "text": "Dan mereka yang berusaha membersihkan hartanya (dengan menunaikan zakat harta itu);"
+                },
+                {
+                    "id": 1093654,
+                    "resource_id": 161,
+                    "text": "যারা যাকাত দানে সক্রিয়।"
+                }
+            ]
+        },
+        {
+            "id": 2678,
+            "verse_number": 5,
+            "verse_key": "23:5",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 295,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّذِينَ هُمْ لِفُرُوجِهِمْ حَـٰفِظُونَ",
+            "page_number": 342,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97863,
+                    "resource_id": 20,
+                    "text": "And they who guard their private parts"
+                },
+                {
+                    "id": 214729,
+                    "resource_id": 39,
+                    "text": "Dan mereka yang menjaga kehormatannya, -"
+                },
+                {
+                    "id": 1093655,
+                    "resource_id": 161,
+                    "text": "যারা নিজেদের যৌনাঙ্গকে সংরক্ষণ করে।"
+                }
+            ]
+        },
+        {
+            "id": 2679,
+            "verse_number": 6,
+            "verse_key": "23:6",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 295,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "إِلَّا عَلَىٰٓ أَزْوَٰجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَـٰنُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ",
+            "page_number": 342,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97875,
+                    "resource_id": 20,
+                    "text": "Except from their wives or those their right hands possess,<sup foot_note=196854>1</sup> for indeed, they will not be blamed -"
+                },
+                {
+                    "id": 215748,
+                    "resource_id": 39,
+                    "text": "Kecuali kepada isterinya atau hamba sahayanya maka sesungguhnya mereka tidak tercela: -"
+                },
+                {
+                    "id": 1093656,
+                    "resource_id": 161,
+                    "text": "নিজেদের স্ত্রী ও মালিকানাভুক্ত দাসী ব্যতীত, কারণ এ ক্ষেত্রে তারা নিন্দা থেকে মুক্ত।"
+                }
+            ]
+        },
+        {
+            "id": 2680,
+            "verse_number": 7,
+            "verse_key": "23:7",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 295,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَمَنِ ٱبْتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْعَادُونَ",
+            "page_number": 342,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97885,
+                    "resource_id": 20,
+                    "text": "But whoever seeks beyond that, then those are the transgressors -"
+                },
+                {
+                    "id": 215757,
+                    "resource_id": 39,
+                    "text": "Kemudian, sesiapa yang mengingini selain dari yang demikian, maka merekalah orang-orang yang melampaui batas;"
+                },
+                {
+                    "id": 1093657,
+                    "resource_id": 161,
+                    "text": "এদের অতিরিক্ত যারা কামনা করে তারাই সীমালঙ্ঘনকারী।"
+                }
+            ]
+        },
+        {
+            "id": 2681,
+            "verse_number": 8,
+            "verse_key": "23:8",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 295,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّذِينَ هُمْ لِأَمَـٰنَـٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ",
+            "page_number": 342,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97897,
+                    "resource_id": 20,
+                    "text": "And they who are to their trusts and their promises attentive"
+                },
+                {
+                    "id": 215775,
+                    "resource_id": 39,
+                    "text": "Dan mereka yang menjaga amanah dan janjinya;"
+                },
+                {
+                    "id": 1093658,
+                    "resource_id": 161,
+                    "text": "আর যারা নিজেদের আমানাত ও ওয়াদা পূর্ণ করে।"
+                }
+            ]
+        },
+        {
+            "id": 2682,
+            "verse_number": 9,
+            "verse_key": "23:9",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 295,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّذِينَ هُمْ عَلَىٰ صَلَوَٰتِهِمْ يُحَافِظُونَ",
+            "page_number": 342,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97909,
+                    "resource_id": 20,
+                    "text": "And they who carefully maintain their prayers -"
+                },
+                {
+                    "id": 215777,
+                    "resource_id": 39,
+                    "text": "Dan mereka yang tetap memelihara sembahyangnya;"
+                },
+                {
+                    "id": 1093659,
+                    "resource_id": 161,
+                    "text": "আর যারা নিজেদের নামাযের ব্যাপারে যত্নবান।"
+                }
+            ]
+        },
+        {
+            "id": 2683,
+            "verse_number": 10,
+            "verse_key": "23:10",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 295,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "أُو۟لَـٰٓئِكَ هُمُ ٱلْوَٰرِثُونَ",
+            "page_number": 342,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97801,
+                    "resource_id": 20,
+                    "text": "Those are the inheritors"
+                },
+                {
+                    "id": 216323,
+                    "resource_id": 39,
+                    "text": "Mereka itulah orang-orang yang berhak mewarisi -"
+                },
+                {
+                    "id": 1093660,
+                    "resource_id": 161,
+                    "text": "তারাই হল উত্তরাধিকারী।"
+                }
+            ]
+        },
+        {
+            "id": 2684,
+            "verse_number": 11,
+            "verse_key": "23:11",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 295,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِينَ يَرِثُونَ ٱلْفِرْدَوْسَ هُمْ فِيهَا خَـٰلِدُونَ",
+            "page_number": 342,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97812,
+                    "resource_id": 20,
+                    "text": "Who will inherit al-Firdaus.<sup foot_note=196855>1</sup> They will abide therein eternally."
+                },
+                {
+                    "id": 215689,
+                    "resource_id": 39,
+                    "text": "Yang akan mewarisi Syurga Firdaus; mereka kekal di dalamnya."
+                },
+                {
+                    "id": 1093661,
+                    "resource_id": 161,
+                    "text": "তারা ফিরদাউসের উত্তরাধিকার লাভ করবে, যাতে তারা চিরস্থায়ী হবে।"
+                }
+            ]
+        },
+        {
+            "id": 2685,
+            "verse_number": 12,
+            "verse_key": "23:12",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 295,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ مِن سُلَـٰلَةٍ مِّن طِينٍ",
+            "page_number": 342,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97822,
+                    "resource_id": 20,
+                    "text": "And certainly did We create man from an extract of clay."
+                },
+                {
+                    "id": 215690,
+                    "resource_id": 39,
+                    "text": "Dan sesungguhnya Kami telah menciptakan manusia dari pati (yang berasal) dari tanah;"
+                },
+                {
+                    "id": 1093662,
+                    "resource_id": 161,
+                    "text": "আমি মানুষকে মাটির সারাংশ থেকে সৃষ্টি করেছি।"
+                }
+            ]
+        },
+        {
+            "id": 2686,
+            "verse_number": 13,
+            "verse_key": "23:13",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 295,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "ثُمَّ جَعَلْنَـٰهُ نُطْفَةً فِى قَرَارٍ مَّكِينٍ",
+            "page_number": 342,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97823,
+                    "resource_id": 20,
+                    "text": "Then We placed him as a sperm-drop<sup foot_note=196856>1</sup> in a firm lodging [i.e., the womb]."
+                },
+                {
+                    "id": 215691,
+                    "resource_id": 39,
+                    "text": "Kemudian Kami jadikan \"pati\" itu (setitis) air benih pada penetapan yang kukuh;"
+                },
+                {
+                    "id": 1093663,
+                    "resource_id": 161,
+                    "text": "অতঃপর আমি তাকে শুক্রবিন্দু রূপে এক সংরক্ষিত আধারে স্থাপন করেছি।"
+                }
+            ]
+        },
+        {
+            "id": 2687,
+            "verse_number": 14,
+            "verse_key": "23:14",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 295,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "ثُمَّ خَلَقْنَا ٱلنُّطْفَةَ عَلَقَةً فَخَلَقْنَا ٱلْعَلَقَةَ مُضْغَةً فَخَلَقْنَا ٱلْمُضْغَةَ عِظَـٰمًا فَكَسَوْنَا ٱلْعِظَـٰمَ لَحْمًا ثُمَّ أَنشَأْنَـٰهُ خَلْقًا ءَاخَرَ ۚ فَتَبَارَكَ ٱللَّهُ أَحْسَنُ ٱلْخَـٰلِقِينَ",
+            "page_number": 342,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97824,
+                    "resource_id": 20,
+                    "text": "Then We made the sperm-drop into a clinging clot, and We made the clot into a lump [of flesh], and We made [from] the lump, bones, and We covered the bones with flesh; then We developed him into another creation. So blessed is Allāh, the best of creators.<sup foot_note=196857>1</sup>"
+                },
+                {
+                    "id": 215692,
+                    "resource_id": 39,
+                    "text": "Kemudian Kami ciptakan air benih itu menjadi sebuku darah beku. lalu Kami ciptakan darah beku itu menjadi seketul daging; kemudian Kami ciptakan daging itu menjadi beberapa tulang; kemudian Kami balut tulang-tulang itu dengan daging. Setelah sempurna kejadian itu Kami bentuk dia menjadi makhluk yang lain sifat keadaannya. Maka nyatalah kelebihan dan ketinggian Allah sebaik-baik Pencipta."
+                },
+                {
+                    "id": 1093664,
+                    "resource_id": 161,
+                    "text": "পরে আমি শুক্রবিন্দুকে পরিণত করি জমাট বাঁধা রক্তে, অতঃপর মাংসপিন্ডকে পরিণত করি হাড্ডিতে, অতঃপর হাড্ডিকে আবৃত করি মাংস দিয়ে, অতঃপর তাকে এক নতুন সৃষ্টিতে উন্নীত করি। কাজেই সর্বোত্তম স্রষ্টা আল্লাহ কতই না মহান!"
+                }
+            ]
+        },
+        {
+            "id": 2688,
+            "verse_number": 15,
+            "verse_key": "23:15",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 295,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "ثُمَّ إِنَّكُم بَعْدَ ذَٰلِكَ لَمَيِّتُونَ",
+            "page_number": 342,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97825,
+                    "resource_id": 20,
+                    "text": "Then indeed, after that you are to die."
+                },
+                {
+                    "id": 215698,
+                    "resource_id": 39,
+                    "text": "Kemudian, sesungguhnya kamu sesudah itu akan mati."
+                },
+                {
+                    "id": 1093665,
+                    "resource_id": 161,
+                    "text": "এরপর তোমরা অবশ্যই মরবে।"
+                }
+            ]
+        },
+        {
+            "id": 2689,
+            "verse_number": 16,
+            "verse_key": "23:16",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 295,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "ثُمَّ إِنَّكُمْ يَوْمَ ٱلْقِيَـٰمَةِ تُبْعَثُونَ",
+            "page_number": 342,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97826,
+                    "resource_id": 20,
+                    "text": "Then indeed you, on the Day of Resurrection, will be resurrected."
+                },
+                {
+                    "id": 215694,
+                    "resource_id": 39,
+                    "text": "Kemudian sesungguhnya kamu akan dibangkitkan hidup semula pada hari kiamat."
+                },
+                {
+                    "id": 1093666,
+                    "resource_id": 161,
+                    "text": "তারপর কিয়ামাতের দিন তোমাদেরকে পুনরুত্থিত করা হবে।"
+                }
+            ]
+        },
+        {
+            "id": 2690,
+            "verse_number": 17,
+            "verse_key": "23:17",
+            "hizb_number": 35,
+            "rub_el_hizb_number": 137,
+            "ruku_number": 295,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَقَدْ خَلَقْنَا فَوْقَكُمْ سَبْعَ طَرَآئِقَ وَمَا كُنَّا عَنِ ٱلْخَلْقِ غَـٰفِلِينَ",
+            "page_number": 342,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 97827,
+                    "resource_id": 20,
+                    "text": "And We have created above you seven layered heavens, and never have We been of [Our] creation unaware."
+                },
+                {
+                    "id": 215695,
+                    "resource_id": 39,
+                    "text": "Dan demi sesungguhnya, Kami telah menciptakan tujuh jalan di atas kamu, dan Kami pula tidak lalai daripada (menyediakan keperluan) makhluk-makhluk Kami."
+                },
+                {
+                    "id": 1093667,
+                    "resource_id": 161,
+                    "text": "আমি তোমাদের উপরে সপ্ত স্তর সৃষ্টি করেছি, আমি (আমার) সৃষ্টির ব্যাপারে অমনোযোগী নই।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 17,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 17
+    }
+}

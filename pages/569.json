@@ -1,0 +1,881 @@
+{
+    "verses": [
+        {
+            "id": 5386,
+            "verse_number": 11,
+            "verse_key": "70:11",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 504,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "يُبَصَّرُونَهُمْ ۚ يَوَدُّ ٱلْمُجْرِمُ لَوْ يَفْتَدِى مِنْ عَذَابِ يَوْمِئِذٍۭ بِبَنِيهِ",
+            "page_number": 569,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101220,
+                    "resource_id": 20,
+                    "text": "They will be shown each other. The criminal will wish that he could be ransomed from the punishment of that Day by his children."
+                },
+                {
+                    "id": 219106,
+                    "resource_id": 39,
+                    "text": "Padahal masing-masing diberi melihat setengahnya yang lain; (pada saat yang demikian) orang yang kafir suka kiranya dapat menebus dirinya dari azab itu dengan anak-anaknya sendiri,"
+                },
+                {
+                    "id": 1096363,
+                    "resource_id": 161,
+                    "text": "যদিও তাদেরকে রাখা হবে পরস্পরের দৃষ্টির সামনে, অপরাধী সেদিনের ‘আযাব থেকে বাঁচার জন্য বিনিময়ে দিতে চাইবে তার সন্তানাদিকে,"
+                }
+            ]
+        },
+        {
+            "id": 5387,
+            "verse_number": 12,
+            "verse_key": "70:12",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 504,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَصَـٰحِبَتِهِۦ وَأَخِيهِ",
+            "page_number": 569,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101221,
+                    "resource_id": 20,
+                    "text": "And his wife and his brother"
+                },
+                {
+                    "id": 219137,
+                    "resource_id": 39,
+                    "text": "Dan isteri serta saudaranya,"
+                },
+                {
+                    "id": 1096364,
+                    "resource_id": 161,
+                    "text": "তার স্ত্রী ও ভাইকে,"
+                }
+            ]
+        },
+        {
+            "id": 5388,
+            "verse_number": 13,
+            "verse_key": "70:13",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 504,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَفَصِيلَتِهِ ٱلَّتِى تُـْٔوِيهِ",
+            "page_number": 569,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101222,
+                    "resource_id": 20,
+                    "text": "And his nearest kindred who shelter him."
+                },
+                {
+                    "id": 219140,
+                    "resource_id": 39,
+                    "text": "Dan kaum kerabatnya yang melindunginya,"
+                },
+                {
+                    "id": 1096365,
+                    "resource_id": 161,
+                    "text": "আর তার আত্মীয় গোষ্ঠীকে যারা তাকে আশ্রয় দিত,"
+                }
+            ]
+        },
+        {
+            "id": 5389,
+            "verse_number": 14,
+            "verse_key": "70:14",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 504,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَن فِى ٱلْأَرْضِ جَمِيعًا ثُمَّ يُنجِيهِ",
+            "page_number": 569,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101223,
+                    "resource_id": 20,
+                    "text": "And whoever is on earth entirely [so] then it could save him."
+                },
+                {
+                    "id": 219141,
+                    "resource_id": 39,
+                    "text": "Dan juga sekalian makhluk yang ada di bumi - kemudian (diharapkannya) tebusan itu dapat menyelamatkannya."
+                },
+                {
+                    "id": 1096366,
+                    "resource_id": 161,
+                    "text": "আর দুনিয়ার সব্বাইকে, যাতে তা তাকে রক্ষা করতে পারে।"
+                }
+            ]
+        },
+        {
+            "id": 5390,
+            "verse_number": 15,
+            "verse_key": "70:15",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 504,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "كَلَّآ ۖ إِنَّهَا لَظَىٰ",
+            "page_number": 569,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101224,
+                    "resource_id": 20,
+                    "text": "No!<sup foot_note=197611>1</sup> Indeed, it is the Flame [of Hell],"
+                },
+                {
+                    "id": 219142,
+                    "resource_id": 39,
+                    "text": "Tidak sekali-kali (sebagaimana yang diharapkannya)! Sesungguhnya neraka (yang disediakan baginya) tetap menjulang-julang apinya,"
+                },
+                {
+                    "id": 1096367,
+                    "resource_id": 161,
+                    "text": "না, কক্ষনো নয়, ওটা জ্বলন্ত অগ্নিশিখা,"
+                }
+            ]
+        },
+        {
+            "id": 5391,
+            "verse_number": 16,
+            "verse_key": "70:16",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 504,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "نَزَّاعَةً لِّلشَّوَىٰ",
+            "page_number": 569,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101225,
+                    "resource_id": 20,
+                    "text": "A remover of exteriors.<sup foot_note=197612>1</sup>"
+                },
+                {
+                    "id": 219143,
+                    "resource_id": 39,
+                    "text": "(Membakar serta) menggugurkan kulit ubun-ubun dan anggota anggota tubuh badan,"
+                },
+                {
+                    "id": 1096368,
+                    "resource_id": 161,
+                    "text": "যা চামড়া তুলে দিবে,"
+                }
+            ]
+        },
+        {
+            "id": 5392,
+            "verse_number": 17,
+            "verse_key": "70:17",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 504,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "تَدْعُوا۟ مَنْ أَدْبَرَ وَتَوَلَّىٰ",
+            "page_number": 569,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101226,
+                    "resource_id": 20,
+                    "text": "It invites he who turned his back [on truth] and went away [from obedience]"
+                },
+                {
+                    "id": 219144,
+                    "resource_id": 39,
+                    "text": "Neraka itu juga memanggil dan menarik orang yang membelakangi serta berpaling (dari kebenaran),"
+                },
+                {
+                    "id": 1096369,
+                    "resource_id": 161,
+                    "text": "জাহান্নাম সেই ব্যক্তিকে ডাকবে যে পেছনে ফিরে গিয়েছিল এবং সত্য থেকে মুখ ফিরিয়ে নিয়েছিল।"
+                }
+            ]
+        },
+        {
+            "id": 5393,
+            "verse_number": 18,
+            "verse_key": "70:18",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 227,
+            "ruku_number": 504,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَجَمَعَ فَأَوْعَىٰٓ",
+            "page_number": 569,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101227,
+                    "resource_id": 20,
+                    "text": "And collected [wealth] and hoarded."
+                },
+                {
+                    "id": 219068,
+                    "resource_id": 39,
+                    "text": "Dan yang mengumpulkan harta kekayaan lalu menyimpannya (dengan tidak membayar zakatnya)."
+                },
+                {
+                    "id": 1096370,
+                    "resource_id": 161,
+                    "text": "সে মালধন জমা করত, অতঃপর তা আগলে রাখত,"
+                }
+            ]
+        },
+        {
+            "id": 5394,
+            "verse_number": 19,
+            "verse_key": "70:19",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 504,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "۞ إِنَّ ٱلْإِنسَـٰنَ خُلِقَ هَلُوعًا",
+            "page_number": 569,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101228,
+                    "resource_id": 20,
+                    "text": "Indeed, mankind was created anxious:"
+                },
+                {
+                    "id": 219145,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya manusia itu dijadikan bertabiat resah gelisah (lagi bakhil kedekut); -"
+                },
+                {
+                    "id": 1096371,
+                    "resource_id": 161,
+                    "text": "মানুষকে সৃষ্টি করা হয়েছে খুবই অস্থির-মনা করে,"
+                }
+            ]
+        },
+        {
+            "id": 5395,
+            "verse_number": 20,
+            "verse_key": "70:20",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 504,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِذَا مَسَّهُ ٱلشَّرُّ جَزُوعًا",
+            "page_number": 569,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101230,
+                    "resource_id": 20,
+                    "text": "When evil touches him, impatient,"
+                },
+                {
+                    "id": 219147,
+                    "resource_id": 39,
+                    "text": "Apabila ia ditimpa kesusahan, dia sangat resah gelisah;"
+                },
+                {
+                    "id": 1096372,
+                    "resource_id": 161,
+                    "text": "বিপদ তাকে স্পর্শ করলে সে হয় উৎকণ্ঠিত,"
+                }
+            ]
+        },
+        {
+            "id": 5396,
+            "verse_number": 21,
+            "verse_key": "70:21",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 504,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا مَسَّهُ ٱلْخَيْرُ مَنُوعًا",
+            "page_number": 569,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101231,
+                    "resource_id": 20,
+                    "text": "And when good touches him, withholding [of it],"
+                },
+                {
+                    "id": 219148,
+                    "resource_id": 39,
+                    "text": "Dan apabila ia beroleh kesenangan, ia sangat bakhil kedekut;"
+                },
+                {
+                    "id": 1096373,
+                    "resource_id": 161,
+                    "text": "কল্যাণ তাকে স্পর্শ করলে সে হয়ে পড়ে অতি কৃপণ,"
+                }
+            ]
+        },
+        {
+            "id": 5397,
+            "verse_number": 22,
+            "verse_key": "70:22",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 504,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِلَّا ٱلْمُصَلِّينَ",
+            "page_number": 569,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101232,
+                    "resource_id": 20,
+                    "text": "Except the observers of prayer -"
+                },
+                {
+                    "id": 219103,
+                    "resource_id": 39,
+                    "text": "Kecuali orang-orang yang mengerjakan sembahyang -"
+                },
+                {
+                    "id": 1096374,
+                    "resource_id": 161,
+                    "text": "তবে নামায আদায়কারীরা এ রকম নয়,"
+                }
+            ]
+        },
+        {
+            "id": 5398,
+            "verse_number": 23,
+            "verse_key": "70:23",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 504,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ دَآئِمُونَ",
+            "page_number": 569,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101233,
+                    "resource_id": 20,
+                    "text": "Those who are constant in their prayer"
+                },
+                {
+                    "id": 219154,
+                    "resource_id": 39,
+                    "text": "Iaitu mereka yang tetap mengerjakan sembahyangnya;"
+                },
+                {
+                    "id": 1096375,
+                    "resource_id": 161,
+                    "text": "যারা তাদের নামাযে স্থির সংকল্প"
+                }
+            ]
+        },
+        {
+            "id": 5399,
+            "verse_number": 24,
+            "verse_key": "70:24",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 504,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّذِينَ فِىٓ أَمْوَٰلِهِمْ حَقٌّ مَّعْلُومٌ",
+            "page_number": 569,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101234,
+                    "resource_id": 20,
+                    "text": "And those within whose wealth is a known right<sup foot_note=197613>1</sup>"
+                },
+                {
+                    "id": 219089,
+                    "resource_id": 39,
+                    "text": "Dan mereka (yang menentukan bahagian) pada harta-hartanya, menjadi hak yang termaklum -"
+                },
+                {
+                    "id": 1096376,
+                    "resource_id": 161,
+                    "text": "যাদের ধন-সম্পদে একটা সুবিদিত অধিকার আছে,"
+                }
+            ]
+        },
+        {
+            "id": 5400,
+            "verse_number": 25,
+            "verse_key": "70:25",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 504,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "لِّلسَّآئِلِ وَٱلْمَحْرُومِ",
+            "page_number": 569,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101235,
+                    "resource_id": 20,
+                    "text": "For the petitioner and the deprived -"
+                },
+                {
+                    "id": 219072,
+                    "resource_id": 39,
+                    "text": "Bagi orang miskin yang meminta dan orang miskin yang menahan diri (daripada meminta);"
+                },
+                {
+                    "id": 1096377,
+                    "resource_id": 161,
+                    "text": "প্রার্থী এবং বঞ্চিতদের,"
+                }
+            ]
+        },
+        {
+            "id": 5401,
+            "verse_number": 26,
+            "verse_key": "70:26",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 504,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّذِينَ يُصَدِّقُونَ بِيَوْمِ ٱلدِّينِ",
+            "page_number": 569,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101236,
+                    "resource_id": 20,
+                    "text": "And those who believe in the Day of Recompense"
+                },
+                {
+                    "id": 219073,
+                    "resource_id": 39,
+                    "text": "Dan mereka yang percayakan hari pembalasan (dengan mengerjakan amal-amal yang soleh sebagai buktinya);"
+                },
+                {
+                    "id": 1096378,
+                    "resource_id": 161,
+                    "text": "যারা বিচার দিবসকে সত্য মানে।"
+                }
+            ]
+        },
+        {
+            "id": 5402,
+            "verse_number": 27,
+            "verse_key": "70:27",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 504,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّذِينَ هُم مِّنْ عَذَابِ رَبِّهِم مُّشْفِقُونَ",
+            "page_number": 569,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101237,
+                    "resource_id": 20,
+                    "text": "And those who are fearful of the punishment of their Lord -"
+                },
+                {
+                    "id": 219074,
+                    "resource_id": 39,
+                    "text": "Dan mereka yang cemas takut daripada ditimpa azab Tuhannya, -"
+                },
+                {
+                    "id": 1096379,
+                    "resource_id": 161,
+                    "text": "যারা তাদের প্রতিপালকের শাস্তি সম্পর্কে ভীত কম্পিত,"
+                }
+            ]
+        },
+        {
+            "id": 5403,
+            "verse_number": 28,
+            "verse_key": "70:28",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 504,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ عَذَابَ رَبِّهِمْ غَيْرُ مَأْمُونٍ",
+            "page_number": 569,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101238,
+                    "resource_id": 20,
+                    "text": "Indeed, the punishment of their Lord is not that from which one is safe -"
+                },
+                {
+                    "id": 219075,
+                    "resource_id": 39,
+                    "text": "Kerana sesungguhnya azab Tuhan mereka, tidak patut (bagi seseorangpun) merasa aman terhadapnya;"
+                },
+                {
+                    "id": 1096380,
+                    "resource_id": 161,
+                    "text": "তাদের প্রতিপালকের শাস্তি এমন যে তাত্থেকে নিজেকে নিরাপদ ভাবা যায় না,"
+                }
+            ]
+        },
+        {
+            "id": 5404,
+            "verse_number": 29,
+            "verse_key": "70:29",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 504,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّذِينَ هُمْ لِفُرُوجِهِمْ حَـٰفِظُونَ",
+            "page_number": 569,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101239,
+                    "resource_id": 20,
+                    "text": "And those who guard their private parts"
+                },
+                {
+                    "id": 219076,
+                    "resource_id": 39,
+                    "text": "Dan mereka yang menjaga kehormatannya, -"
+                },
+                {
+                    "id": 1096381,
+                    "resource_id": 161,
+                    "text": "যারা নিজেদের লজ্জাস্থান সংরক্ষণ করে"
+                }
+            ]
+        },
+        {
+            "id": 5405,
+            "verse_number": 30,
+            "verse_key": "70:30",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 504,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِلَّا عَلَىٰٓ أَزْوَٰجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَـٰنُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ",
+            "page_number": 569,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101241,
+                    "resource_id": 20,
+                    "text": "Except from their wives or those their right hands possess,<sup foot_note=197614>1</sup> for indeed, they are not to be blamed -"
+                },
+                {
+                    "id": 219078,
+                    "resource_id": 39,
+                    "text": "Kecuali kepada isterinya atau kepada hambanya, maka sesungguhnya mereka tidak tercela;"
+                },
+                {
+                    "id": 1096382,
+                    "resource_id": 161,
+                    "text": "তাদের স্ত্রী অথবা অধিকারভুক্ত দাসী ছাড়া, কেননা তাতে তারা তিরস্কৃত হবে না,"
+                }
+            ]
+        },
+        {
+            "id": 5406,
+            "verse_number": 31,
+            "verse_key": "70:31",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 504,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَمَنِ ٱبْتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْعَادُونَ",
+            "page_number": 569,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101242,
+                    "resource_id": 20,
+                    "text": "But whoever seeks beyond that, then they are the transgressors -"
+                },
+                {
+                    "id": 219079,
+                    "resource_id": 39,
+                    "text": "Kemudian sesiapa yang mengingini selain dari yang demikian, maka merekalah orang-orang yang melampaui batas;"
+                },
+                {
+                    "id": 1096383,
+                    "resource_id": 161,
+                    "text": "তবে এর বাইরে যারা অন্য কাউকে কামনা করবে, তারাই সীমালঙ্ঘনকারী।"
+                }
+            ]
+        },
+        {
+            "id": 5407,
+            "verse_number": 32,
+            "verse_key": "70:32",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 504,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّذِينَ هُمْ لِأَمَـٰنَـٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ",
+            "page_number": 569,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101243,
+                    "resource_id": 20,
+                    "text": "And those who are to their trusts and promises attentive."
+                },
+                {
+                    "id": 219080,
+                    "resource_id": 39,
+                    "text": "Dan mereka yang menjaga amanah dan janjinya;"
+                },
+                {
+                    "id": 1096384,
+                    "resource_id": 161,
+                    "text": "যারা তাদের আমানাত ও ও‘য়াদা রক্ষা করে,"
+                }
+            ]
+        },
+        {
+            "id": 5408,
+            "verse_number": 33,
+            "verse_key": "70:33",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 504,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّذِينَ هُم بِشَهَـٰدَٰتِهِمْ قَآئِمُونَ",
+            "page_number": 569,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101244,
+                    "resource_id": 20,
+                    "text": "And those who are in their testimonies upright"
+                },
+                {
+                    "id": 219081,
+                    "resource_id": 39,
+                    "text": "Dan mereka yang memberikan keterangan dengan benar lagi adil (semasa mereka menjadi saksi);"
+                },
+                {
+                    "id": 1096385,
+                    "resource_id": 161,
+                    "text": "যারা তাদের সাক্ষ্যদানে (সত্যতার উপর) সুপ্রতিষ্ঠিত,"
+                }
+            ]
+        },
+        {
+            "id": 5409,
+            "verse_number": 34,
+            "verse_key": "70:34",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 504,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ",
+            "page_number": 569,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101245,
+                    "resource_id": 20,
+                    "text": "And those who [carefully] maintain their prayer:"
+                },
+                {
+                    "id": 219082,
+                    "resource_id": 39,
+                    "text": "Dan mereka yang tetap memelihara sembahyangnya;"
+                },
+                {
+                    "id": 1096386,
+                    "resource_id": 161,
+                    "text": "যারা তাদের নামাযে যত্নবান,"
+                }
+            ]
+        },
+        {
+            "id": 5410,
+            "verse_number": 35,
+            "verse_key": "70:35",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 504,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أُو۟لَـٰٓئِكَ فِى جَنَّـٰتٍ مُّكْرَمُونَ",
+            "page_number": 569,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101246,
+                    "resource_id": 20,
+                    "text": "They will be in gardens,<sup foot_note=197615>1</sup> honored."
+                },
+                {
+                    "id": 219083,
+                    "resource_id": 39,
+                    "text": "Mereka (yang demikian sifatnya) ditempatkan di dalam Syurga dengan diberikan penghormatan."
+                },
+                {
+                    "id": 1096387,
+                    "resource_id": 161,
+                    "text": "তারাই হবে জান্নাতে সম্মানিত।"
+                }
+            ]
+        },
+        {
+            "id": 5411,
+            "verse_number": 36,
+            "verse_key": "70:36",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 505,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَمَالِ ٱلَّذِينَ كَفَرُوا۟ قِبَلَكَ مُهْطِعِينَ",
+            "page_number": 569,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101247,
+                    "resource_id": 20,
+                    "text": "So what is [the matter] with those who disbelieve, hastening [from] before you, [O Muḥammad],"
+                },
+                {
+                    "id": 219084,
+                    "resource_id": 39,
+                    "text": "Maka apakah yang menyebabkan orang-orang kafir, yang menentangmu (wahai Muhammad) datang berkejaran ke sisimu -"
+                },
+                {
+                    "id": 1096388,
+                    "resource_id": 161,
+                    "text": "কাফিরদের কী হল যে, তারা তোমার দিকে ছুটে আসছে (তোমার কুরআন পাঠ শুনে তোমাকে ঠাট্টা-বিদ্রূপ করার জন্য),"
+                }
+            ]
+        },
+        {
+            "id": 5412,
+            "verse_number": 37,
+            "verse_key": "70:37",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 505,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "عَنِ ٱلْيَمِينِ وَعَنِ ٱلشِّمَالِ عِزِينَ",
+            "page_number": 569,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101248,
+                    "resource_id": 20,
+                    "text": "[To sit] on [your] right and [your] left in separate groups?<sup foot_note=197616>1</sup>"
+                },
+                {
+                    "id": 219085,
+                    "resource_id": 39,
+                    "text": "(Sambil mereka) berkumpul berpuak-puak di sebelah kanan dan di sebelah kirimu."
+                },
+                {
+                    "id": 1096389,
+                    "resource_id": 161,
+                    "text": "ডান দিক আর বাম দিক থেকে দলে দলে,"
+                }
+            ]
+        },
+        {
+            "id": 5413,
+            "verse_number": 38,
+            "verse_key": "70:38",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 505,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَيَطْمَعُ كُلُّ ٱمْرِئٍ مِّنْهُمْ أَن يُدْخَلَ جَنَّةَ نَعِيمٍ",
+            "page_number": 569,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101249,
+                    "resource_id": 20,
+                    "text": "Does every person among them aspire to enter a garden of pleasure?"
+                },
+                {
+                    "id": 219086,
+                    "resource_id": 39,
+                    "text": "Patutkah tiap-tiap seorang dari mereka berharap supaya dimasukkan ke dalam Syurga yang penuh nikmat (sedang ia tidak beriman)?"
+                },
+                {
+                    "id": 1096390,
+                    "resource_id": 161,
+                    "text": "তাদের প্রত্যেকেই কি এই লোভ করে যে, তাকে নি‘মাত-ভরা জান্নাতে দাখিল করা হবে?"
+                }
+            ]
+        },
+        {
+            "id": 5414,
+            "verse_number": 39,
+            "verse_key": "70:39",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 505,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "كَلَّآ ۖ إِنَّا خَلَقْنَـٰهُم مِّمَّا يَعْلَمُونَ",
+            "page_number": 569,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101250,
+                    "resource_id": 20,
+                    "text": "No! Indeed, We have created them from that which they know.<sup foot_note=197617>1</sup>"
+                },
+                {
+                    "id": 219087,
+                    "resource_id": 39,
+                    "text": "Tidak sekali-kali! (Mereka yang kufur ingkar tidak akan dapat memasukinya). Sesungguhnya Kami telah menciptakan mereka dari apa yang mereka sedia mengetahuinya."
+                },
+                {
+                    "id": 1096391,
+                    "resource_id": 161,
+                    "text": "কক্ষনো না, আমি তাদেরকে কী থেকে সৃষ্টি করেছি তা তারা জানে (এমন নগণ্য বস্তু থেকে সৃষ্ট মানুষ কেবল মানুষ হয়ে জন্ম নেয়ার কারণেই জান্নাতে চলে যাবে এ রকম লোভ করা বড়ই অবিবেচনাপ্রসূত ব্যাপার)।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 30,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 30
+    }
+}

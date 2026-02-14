@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 1,
+            "verse_number": 1,
+            "verse_key": "1:1",
+            "hizb_number": 1,
+            "rub_el_hizb_number": 1,
+            "ruku_number": 1,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+            "page_number": 1,
+            "juz_number": 1,
+            "translations": [
+                {
+                    "id": 96343,
+                    "resource_id": 20,
+                    "text": "In the name of Allāh,<sup foot_note=195932>1</sup> the Entirely Merciful, the Especially Merciful.<sup foot_note=195931>2</sup>"
+                },
+                {
+                    "id": 220524,
+                    "resource_id": 39,
+                    "text": "Dengan nama Allah, Yang Maha Pemurah, lagi Maha Mengasihani."
+                },
+                {
+                    "id": 1090978,
+                    "resource_id": 161,
+                    "text": "(আরম্ভ করছি) পরম করুণাময় অসীম দয়াময় আল্লাহর নামে।"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "verse_number": 2,
+            "verse_key": "1:2",
+            "hizb_number": 1,
+            "rub_el_hizb_number": 1,
+            "ruku_number": 1,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+            "page_number": 1,
+            "juz_number": 1,
+            "translations": [
+                {
+                    "id": 96493,
+                    "resource_id": 20,
+                    "text": "[All] praise is [due] to Allāh, Lord<sup foot_note=195933>1</sup> of the worlds -"
+                },
+                {
+                    "id": 220443,
+                    "resource_id": 39,
+                    "text": "Segala puji tertentu bagi Allah, Tuhan yang memelihara dan mentadbirkan sekalian alam."
+                },
+                {
+                    "id": 1090979,
+                    "resource_id": 161,
+                    "text": "যাবতীয় প্রশংসা জগৎসমূহের প্রতিপালক আল্লাহরই জন্য।"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "verse_number": 3,
+            "verse_key": "1:3",
+            "hizb_number": 1,
+            "rub_el_hizb_number": 1,
+            "ruku_number": 1,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+            "page_number": 1,
+            "juz_number": 1,
+            "translations": [
+                {
+                    "id": 96606,
+                    "resource_id": 20,
+                    "text": "The Entirely Merciful, the Especially Merciful,"
+                },
+                {
+                    "id": 220565,
+                    "resource_id": 39,
+                    "text": "Yang Maha Pemurah, lagi Maha Mengasihani."
+                },
+                {
+                    "id": 1090980,
+                    "resource_id": 161,
+                    "text": "যিনি পরম করুণাময় অতি দয়ালু।"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "verse_number": 4,
+            "verse_key": "1:4",
+            "hizb_number": 1,
+            "rub_el_hizb_number": 1,
+            "ruku_number": 1,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "مَـٰلِكِ يَوْمِ ٱلدِّينِ",
+            "page_number": 1,
+            "juz_number": 1,
+            "translations": [
+                {
+                    "id": 96653,
+                    "resource_id": 20,
+                    "text": "Sovereign of the Day of Recompense.<sup foot_note=195934>1</sup>"
+                },
+                {
+                    "id": 214677,
+                    "resource_id": 39,
+                    "text": "Yang Menguasai pemerintahan hari Pembalasan (hari Akhirat)."
+                },
+                {
+                    "id": 1090981,
+                    "resource_id": 161,
+                    "text": "যিনি প্রতিফল দিবসের মালিক।"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "verse_number": 5,
+            "verse_key": "1:5",
+            "hizb_number": 1,
+            "rub_el_hizb_number": 1,
+            "ruku_number": 1,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+            "page_number": 1,
+            "juz_number": 1,
+            "translations": [
+                {
+                    "id": 96707,
+                    "resource_id": 20,
+                    "text": "It is You we worship and You we ask for help."
+                },
+                {
+                    "id": 220695,
+                    "resource_id": 39,
+                    "text": "Engkaulah sahaja (Ya Allah) Yang Kami sembah, dan kepada Engkaulah sahaja kami memohon pertolongan."
+                },
+                {
+                    "id": 1090982,
+                    "resource_id": 161,
+                    "text": "আমরা কেবল তোমারই ‘ইবাদাত করি এবং কেবলমাত্র তোমারই সাহায্য প্রার্থনা করি।"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "verse_number": 6,
+            "verse_key": "1:6",
+            "hizb_number": 1,
+            "rub_el_hizb_number": 1,
+            "ruku_number": 1,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+            "page_number": 1,
+            "juz_number": 1,
+            "translations": [
+                {
+                    "id": 96503,
+                    "resource_id": 20,
+                    "text": "Guide us to the straight path -"
+                },
+                {
+                    "id": 220777,
+                    "resource_id": 39,
+                    "text": "Tunjukilah kami jalan yang lurus."
+                },
+                {
+                    "id": 1090983,
+                    "resource_id": 161,
+                    "text": "আমাদেরকে সরল সঠিক পথ প্রদর্শন কর ও তার প্রতি অটুট থাকার তাওফীক দান কর।"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "verse_number": 7,
+            "verse_key": "1:7",
+            "hizb_number": 1,
+            "rub_el_hizb_number": 1,
+            "ruku_number": 1,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ",
+            "page_number": 1,
+            "juz_number": 1,
+            "translations": [
+                {
+                    "id": 96932,
+                    "resource_id": 20,
+                    "text": "The path of those upon whom You have bestowed favor, not of those who have earned [Your] anger or of those who are astray."
+                },
+                {
+                    "id": 220904,
+                    "resource_id": 39,
+                    "text": "Iaitu jalan orang-orang yang Engkau telah kurniakan nikmat kepada mereka, bukan (jalan) orang-orang yang Engkau telah murkai, dan bukan pula (jalan) orang-orang yang sesat."
+                },
+                {
+                    "id": 1090984,
+                    "resource_id": 161,
+                    "text": "তাদের পথ, যাদের প্রতি তুমি অনুগ্রহ করেছ। তাদের পথ, যারা গযবপ্রাপ্ত (ইয়াহূদী) ও পথভ্রষ্ট (খ্রিস্টান) নয়।"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "verse_number": 1,
+            "verse_key": "2:1",
+            "hizb_number": 1,
+            "rub_el_hizb_number": 1,
+            "ruku_number": 2,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": " الٓمٓ",
+            "page_number": 2,
+            "juz_number": 1,
+            "translations": [
+                {
+                    "id": 97387,
+                    "resource_id": 20,
+                    "text": "Alif, Lām, Meem.<sup foot_note=195935>1</sup>"
+                },
+                {
+                    "id": 214632,
+                    "resource_id": 39,
+                    "text": "Alif, Laam, Miim."
+                },
+                {
+                    "id": 1090985,
+                    "resource_id": 161,
+                    "text": "আলিফ, লাম, মীম।"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "verse_number": 2,
+            "verse_key": "2:2",
+            "hizb_number": 1,
+            "rub_el_hizb_number": 1,
+            "ruku_number": 2,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "ذَٰلِكَ ٱلْكِتَـٰبُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ",
+            "page_number": 2,
+            "juz_number": 1,
+            "translations": [
+                {
+                    "id": 97614,
+                    "resource_id": 20,
+                    "text": "This is the Book about which there is no doubt, a guidance for those conscious of Allāh<sup foot_note=195936>1</sup> -"
+                },
+                {
+                    "id": 215483,
+                    "resource_id": 39,
+                    "text": "Kitab Al-Quran ini, tidak ada sebarang syak padanya (tentang datangnya dari Allah dan tentang sempurnanya); ia pula menjadi petunjuk bagi orang-orang yang (hendak) bertaqwa;"
+                },
+                {
+                    "id": 1090986,
+                    "resource_id": 161,
+                    "text": "এটা ঐ (মহান) কিতাব যাতে কোন সন্দেহ নেই, মুত্তাকীদের জন্য পথ নির্দেশ।"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "verse_number": 3,
+            "verse_key": "2:3",
+            "hizb_number": 1,
+            "rub_el_hizb_number": 1,
+            "ruku_number": 2,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِينَ يُؤْمِنُونَ بِٱلْغَيْبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",
+            "page_number": 2,
+            "juz_number": 1,
+            "translations": [
+                {
+                    "id": 97797,
+                    "resource_id": 20,
+                    "text": "Who believe in the unseen, establish prayer,<sup foot_note=195938>1</sup> and spend out of what We<sup foot_note=195937>2</sup> have provided for them,"
+                },
+                {
+                    "id": 215860,
+                    "resource_id": 39,
+                    "text": "Iaitu orang-orang yang beriman kepada perkara-perkara yang ghaib, dan mendirikan (mengerjakan) sembahyang serta membelanjakan (mendermakan) sebahagian dari rezeki yang Kami berikan kepada mereka."
+                },
+                {
+                    "id": 1090987,
+                    "resource_id": 161,
+                    "text": "যারা গায়বের প্রতি ঈমান আনে, নামায কায়িম করে এবং আমি যে জীবনোপকরণ তাদেরকে দিয়েছি তা থেকে তারা ব্যয় করে।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 15,
+        "total_records": 148
+    }
+}

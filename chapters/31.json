@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 3470,
+            "verse_number": 1,
+            "verse_key": "31:1",
+            "hizb_number": 41,
+            "rub_el_hizb_number": 164,
+            "ruku_number": 356,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": " الٓمٓ",
+            "page_number": 411,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98677,
+                    "resource_id": 20,
+                    "text": "Alif, Lām, Meem.<sup foot_note=197057>1</sup>"
+                },
+                {
+                    "id": 214989,
+                    "resource_id": 39,
+                    "text": "Alif, Laam, Miim."
+                },
+                {
+                    "id": 1094447,
+                    "resource_id": 161,
+                    "text": "আলিফ-লাম-মীম।"
+                }
+            ]
+        },
+        {
+            "id": 3471,
+            "verse_number": 2,
+            "verse_key": "31:2",
+            "hizb_number": 41,
+            "rub_el_hizb_number": 164,
+            "ruku_number": 356,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ ٱلْحَكِيمِ",
+            "page_number": 411,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98699,
+                    "resource_id": 20,
+                    "text": "These are verses of the wise<sup foot_note=197058>1</sup> Book,"
+                },
+                {
+                    "id": 216561,
+                    "resource_id": 39,
+                    "text": "Ini ialah ayat-ayat Kitab (Al-Quran) yang mengandungi hikmat-hikmat dan kebenaran yang tetap kukuh,"
+                },
+                {
+                    "id": 1094448,
+                    "resource_id": 161,
+                    "text": "এগুলো হিকমাতে ভরপুর কিতাবের আয়াত।"
+                }
+            ]
+        },
+        {
+            "id": 3472,
+            "verse_number": 3,
+            "verse_key": "31:3",
+            "hizb_number": 41,
+            "rub_el_hizb_number": 164,
+            "ruku_number": 356,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "هُدًى وَرَحْمَةً لِّلْمُحْسِنِينَ",
+            "page_number": 411,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98720,
+                    "resource_id": 20,
+                    "text": "As guidance and mercy for the doers of good"
+                },
+                {
+                    "id": 216584,
+                    "resource_id": 39,
+                    "text": "Menjadi hidayah petunjuk dan rahmat bagi orang-orang yang sedia mengerjakan amal-amal yang baik"
+                },
+                {
+                    "id": 1094449,
+                    "resource_id": 161,
+                    "text": "সৎকর্মশীলদের জন্য পথ নির্দেশ ও রহমত।"
+                }
+            ]
+        },
+        {
+            "id": 3473,
+            "verse_number": 4,
+            "verse_key": "31:4",
+            "hizb_number": 41,
+            "rub_el_hizb_number": 164,
+            "ruku_number": 356,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَهُم بِٱلْـَٔاخِرَةِ هُمْ يُوقِنُونَ",
+            "page_number": 411,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98737,
+                    "resource_id": 20,
+                    "text": "Who establish prayer and give zakāh, and they, of the Hereafter, are certain [in faith]."
+                },
+                {
+                    "id": 216601,
+                    "resource_id": 39,
+                    "text": "Iaitu orang-orang yang mendirikan sembahyang, dan memberi zakat, serta mereka yakin tentang adanya hari akhirat."
+                },
+                {
+                    "id": 1094450,
+                    "resource_id": 161,
+                    "text": "যারা নামায প্রতিষ্ঠা করে, যাকাত দেয় আর তারা আখেরাতের প্রতি দৃঢ় বিশ্বাস রাখে।"
+                }
+            ]
+        },
+        {
+            "id": 3474,
+            "verse_number": 5,
+            "verse_key": "31:5",
+            "hizb_number": 41,
+            "rub_el_hizb_number": 164,
+            "ruku_number": 356,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "أُو۟لَـٰٓئِكَ عَلَىٰ هُدًى مِّن رَّبِّهِمْ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+            "page_number": 411,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98751,
+                    "resource_id": 20,
+                    "text": "Those are on [right] guidance from their Lord, and it is those who are the successful."
+                },
+                {
+                    "id": 216615,
+                    "resource_id": 39,
+                    "text": "Mereka itulah yang tetap mendapat hidayah petunjuk dari Tuhan mereka, dan merekalah orang-orang yang berjaya."
+                },
+                {
+                    "id": 1094451,
+                    "resource_id": 161,
+                    "text": "তারাই তাদের পালনকর্তার সঠিক পথে আছে আর তারাই সফলকাম। (দুনিয়া ও আখেরাতে)"
+                }
+            ]
+        },
+        {
+            "id": 3475,
+            "verse_number": 6,
+            "verse_key": "31:6",
+            "hizb_number": 41,
+            "rub_el_hizb_number": 164,
+            "ruku_number": 356,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَمِنَ ٱلنَّاسِ مَن يَشْتَرِى لَهْوَ ٱلْحَدِيثِ لِيُضِلَّ عَن سَبِيلِ ٱللَّهِ بِغَيْرِ عِلْمٍ وَيَتَّخِذَهَا هُزُوًا ۚ أُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ مُّهِينٌ",
+            "page_number": 411,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98763,
+                    "resource_id": 20,
+                    "text": "And of the people is he who buys the amusement of speech<sup foot_note=197059>1</sup> to mislead [others] from the way of Allāh without knowledge and who takes it [i.e., His way] in ridicule. Those will have a humiliating punishment."
+                },
+                {
+                    "id": 216631,
+                    "resource_id": 39,
+                    "text": "Dan ada di antara manusia: orang yang memilih serta membelanjakan hartanya kepada cerita-cerita dan perkara-perkara hiburan yang melalaikan; yang berakibat menyesatkan (dirinya dan orang ramai) dari ugama Allah dengan tidak berdasarkan sebarang pengetahuan; dan ada pula orang yang menjadikan ugama Allah itu sebagai ejek-ejekan; merekalah orang-orang yang akan beroleh azab yang menghinakan."
+                },
+                {
+                    "id": 1094452,
+                    "resource_id": 161,
+                    "text": "কতক মানুষ আল্লাহর পথ থেকে বিচ্যুত করার উদ্দেশ্যে অজ্ঞতাবশতঃ অবান্তর কথাবার্তা (গান-বাজনা) ক্রয় করে আর আল্লাহর পথকে ঠাট্টা-বিদ্রূপ করে। ওদের জন্যই আছে অবমাননাকর শাস্তি।"
+                }
+            ]
+        },
+        {
+            "id": 3476,
+            "verse_number": 7,
+            "verse_key": "31:7",
+            "hizb_number": 41,
+            "rub_el_hizb_number": 164,
+            "ruku_number": 356,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا تُتْلَىٰ عَلَيْهِ ءَايَـٰتُنَا وَلَّىٰ مُسْتَكْبِرًا كَأَن لَّمْ يَسْمَعْهَا كَأَنَّ فِىٓ أُذُنَيْهِ وَقْرًا ۖ فَبَشِّرْهُ بِعَذَابٍ أَلِيمٍ",
+            "page_number": 411,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98776,
+                    "resource_id": 20,
+                    "text": "And when Our verses are recited to him, he turns away arrogantly as if he had not heard them, as if there was in his ears deafness. So give him tidings of a painful punishment."
+                },
+                {
+                    "id": 216647,
+                    "resource_id": 39,
+                    "text": "Dan apabila dibacakan kepadanya ayat-ayat Kami, berpalinglah dia dengan angkuhnya, seoleh-oleh ada penyumbat pada kedua telinganya; maka gembirakanlah dia dengan balasan azab yang tidak terperi sakitnya."
+                },
+                {
+                    "id": 1094453,
+                    "resource_id": 161,
+                    "text": "যখন তার কাছে আমার আয়াত আবৃত্তি করা হয়, তখন সে অহংকারবশতঃ এমনভাবে মুখ ফিরিয়ে নেয় যেন সে তা শুনতেই পায়নি, যেন তার দুই কানে বধিরতা আছে, কজেই তাকে ভয়াবহ শাস্তির সুসংবাদ দাও।"
+                }
+            ]
+        },
+        {
+            "id": 3477,
+            "verse_number": 8,
+            "verse_key": "31:8",
+            "hizb_number": 41,
+            "rub_el_hizb_number": 164,
+            "ruku_number": 356,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ جَنَّـٰتُ ٱلنَّعِيمِ",
+            "page_number": 411,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98788,
+                    "resource_id": 20,
+                    "text": "Indeed, those who believe and do righteous deeds - for them are the Gardens of Pleasure,"
+                },
+                {
+                    "id": 216428,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya orang-orang yang beriman dan beramal soleh, mereka akan beroleh Syurga yang penuh dengan berbagai nikmat,"
+                },
+                {
+                    "id": 1094454,
+                    "resource_id": 161,
+                    "text": "যারা ঈমান আনে আর সৎকাজ করে তাদের জন্য আছে নি‘য়ামাতে ভরা জান্নাত।"
+                }
+            ]
+        },
+        {
+            "id": 3478,
+            "verse_number": 9,
+            "verse_key": "31:9",
+            "hizb_number": 41,
+            "rub_el_hizb_number": 164,
+            "ruku_number": 356,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "خَـٰلِدِينَ فِيهَا ۖ وَعْدَ ٱللَّهِ حَقًّا ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+            "page_number": 411,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98800,
+                    "resource_id": 20,
+                    "text": "Wherein they abide eternally; [it is] the promise of Allāh [which is] truth. And He is the Exalted in Might, the Wise."
+                },
+                {
+                    "id": 216668,
+                    "resource_id": 39,
+                    "text": "kekalan mereka di dalamnya. Demikian dijanjikan Allah - janji yang tetap benar; dan Dia lah jua yang Maha Kuasa, lagi Maha Bijaksana."
+                },
+                {
+                    "id": 1094455,
+                    "resource_id": 161,
+                    "text": "তাতে তারা চিরকাল থাকবে। আল্লাহর ও‘য়াদা সত্য আর তিনি মহাপরাক্রমশালী, মহাপ্রজ্ঞাময়।"
+                }
+            ]
+        },
+        {
+            "id": 3479,
+            "verse_number": 10,
+            "verse_key": "31:10",
+            "hizb_number": 41,
+            "rub_el_hizb_number": 164,
+            "ruku_number": 356,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "خَلَقَ ٱلسَّمَـٰوَٰتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا ۖ وَأَلْقَىٰ فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِكُمْ وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ ۚ وَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءً فَأَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍ كَرِيمٍ",
+            "page_number": 411,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98679,
+                    "resource_id": 20,
+                    "text": "He created the heavens without pillars that you see and has cast into the earth firmly set mountains, lest it should shift with you, and dispersed therein from every creature. And We sent down rain from the sky and made grow therein [plants] of every noble kind."
+                },
+                {
+                    "id": 216538,
+                    "resource_id": 39,
+                    "text": "Ia menciptakan langit dengan tidak bertiang sebagaimana yang kamu melihatnya; dan Ia mengadakan di bumi gunung-ganang yang menetapnya supaya bumi itu tidak menghayun-hayunkan kamu; dan Ia biakkan padanya berbagai jenis binatang. Dan Kami menurunkan hujan dari langit, lalu Kami tumbuhkan di bumi berbagai jenis tanaman yang memberi banyak manfaat."
+                },
+                {
+                    "id": 1094456,
+                    "resource_id": 161,
+                    "text": "তিনি আকাশমন্ডলী নির্মাণ করেছেন স্তম্ভ ছাড়া যা তোমরা দেখছ। তিনি পৃথিবীতে স্থাপন করেছেন দৃঢ়ভাবে দন্ডায়মান পর্বতমালা যাতে পৃথিবী তোমাদেরকে নিয়ে নড়াচড়া না করে আর তাতে ছড়িয়ে দিয়েছেন সকল প্রকার জীবজন্তু, আর আমিই আকাশ থেকে পানি বর্ষণ করি, অতঃপর তাতে উদ্গত করি যাবতীয় কল্যাণকর উদ্ভিদ।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 4,
+        "total_records": 34
+    }
+}

@@ -1,0 +1,641 @@
+{
+    "verses": [
+        {
+            "id": 4853,
+            "verse_number": 7,
+            "verse_key": "54:7",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 465,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "خُشَّعًا أَبْصَـٰرُهُمْ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ كَأَنَّهُمْ جَرَادٌ مُّنتَشِرٌ",
+            "page_number": 529,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100523,
+                    "resource_id": 20,
+                    "text": "Their eyes humbled, they will emerge from the graves as if they were locusts spreading,"
+                },
+                {
+                    "id": 218367,
+                    "resource_id": 39,
+                    "text": "(Pada saat itu) masing-masing dengan keadaan menundukkan pandangannya kerana ketakutan keluar dari kubur seperti belalang yang terbang bertebaran."
+                },
+                {
+                    "id": 1095830,
+                    "resource_id": 161,
+                    "text": "ভীত-শংকিত চোখে তারা তাদের কবর থেকে বের হয়ে আসবে- যেন তারা বিক্ষিপ্ত পঙ্গপাল।"
+                }
+            ]
+        },
+        {
+            "id": 4854,
+            "verse_number": 8,
+            "verse_key": "54:8",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 465,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "مُّهْطِعِينَ إِلَى ٱلدَّاعِ ۖ يَقُولُ ٱلْكَـٰفِرُونَ هَـٰذَا يَوْمٌ عَسِرٌ",
+            "page_number": 529,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100525,
+                    "resource_id": 20,
+                    "text": "Racing ahead toward the Caller. The disbelievers will say, \"This is a difficult Day.\""
+                },
+                {
+                    "id": 218374,
+                    "resource_id": 39,
+                    "text": "Masing-masing dengan cepatnya menuju kepada penyeru itu. (Pada saat yang demikian), orang-orang yang kafir berkata: Hari ini ialah hari yang amat sukar!"
+                },
+                {
+                    "id": 1095831,
+                    "resource_id": 161,
+                    "text": "ভীত-সন্ত্রস্ত হয়ে তারা আহবানকারীর দিকে ছুটে আসবে। কাফিররা বলবে- ‘‘কঠিন এ দিন’’।"
+                }
+            ]
+        },
+        {
+            "id": 4855,
+            "verse_number": 9,
+            "verse_key": "54:9",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 465,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "۞ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ فَكَذَّبُوا۟ عَبْدَنَا وَقَالُوا۟ مَجْنُونٌ وَٱزْدُجِرَ",
+            "page_number": 529,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100527,
+                    "resource_id": 20,
+                    "text": "The people of Noah denied before them, and they denied Our servant and said, \"A madman,\" and he was repelled."
+                },
+                {
+                    "id": 218309,
+                    "resource_id": 39,
+                    "text": "Sebelum mereka, kaum Nabi Nuh juga telah mendustakan (Rasulnya); iaitu mereka mendustakan hamba Kami (Nabi Nuh) serta mereka menuduhnya dengan berkata: Dia seorang gila dan dia telah diancam (dan dihalang daripada menjalankan dakwah agama)."
+                },
+                {
+                    "id": 1095832,
+                    "resource_id": 161,
+                    "text": "তাদের আগে নূহের জাতিও সত্য প্রত্যাখ্যান করেছিল। তারা আমার বান্দাহকে অস্বীকার করেছিল আর বলেছিল- ‘‘একটা পাগল’’; আর তাকে ভয় দেখানো হয়েছিল।"
+                }
+            ]
+        },
+        {
+            "id": 4856,
+            "verse_number": 10,
+            "verse_key": "54:10",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 465,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَدَعَا رَبَّهُۥٓ أَنِّى مَغْلُوبٌ فَٱنتَصِرْ",
+            "page_number": 529,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100466,
+                    "resource_id": 20,
+                    "text": "So he invoked his Lord, \"Indeed, I am overpowered, so help.\""
+                },
+                {
+                    "id": 218323,
+                    "resource_id": 39,
+                    "text": "Lalu dia berdoa merayu kepada Tuhannya dengan berkata: Sesungguhnya aku ini dikalahkan (oleh kaumku yang ingkar), oleh itu menangkanlah daku (terhadap mereka)!"
+                },
+                {
+                    "id": 1095833,
+                    "resource_id": 161,
+                    "text": "তখন সে তার প্রতিপালককে ডেকেছিল- ‘‘আমি পরাস্ত হয়েছি, কাজেই তুমি এর প্রতিবিধান কর।’’"
+                }
+            ]
+        },
+        {
+            "id": 4857,
+            "verse_number": 11,
+            "verse_key": "54:11",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 465,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَفَتَحْنَآ أَبْوَٰبَ ٱلسَّمَآءِ بِمَآءٍ مُّنْهَمِرٍ",
+            "page_number": 529,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100467,
+                    "resource_id": 20,
+                    "text": "Then We opened the gates of the heaven with rain pouring down"
+                },
+                {
+                    "id": 218324,
+                    "resource_id": 39,
+                    "text": "Maka Kami bukakan pintu-pintu langit, dengan menurunkan hujan yang mencurah-curah."
+                },
+                {
+                    "id": 1095834,
+                    "resource_id": 161,
+                    "text": "তখন আমি আকাশের দরজাগুলো খুলে দিয়ে মুষলধারায় বৃষ্টি বর্ষিয়েছিলাম।"
+                }
+            ]
+        },
+        {
+            "id": 4858,
+            "verse_number": 12,
+            "verse_key": "54:12",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 465,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَفَجَّرْنَا ٱلْأَرْضَ عُيُونًا فَٱلْتَقَى ٱلْمَآءُ عَلَىٰٓ أَمْرٍ قَدْ قُدِرَ",
+            "page_number": 529,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100468,
+                    "resource_id": 20,
+                    "text": "And caused the earth to burst with springs, and the waters met for a matter already predestined."
+                },
+                {
+                    "id": 218325,
+                    "resource_id": 39,
+                    "text": "Dan Kami jadikan bumi memancarkan mata air-mata air (di sana sini), lalu bertemulah air (langit dan bumi) itu untuk (melakukan) satu perkara yang telah ditetapkan."
+                },
+                {
+                    "id": 1095835,
+                    "resource_id": 161,
+                    "text": "আর যমীন থেকে উৎসারিত করেছিলাম ঝর্ণাধারা, অতঃপর (সব) পানি মিলিত হল যে পরিমাণ (পূর্বেই) নির্ধারিত করা হয়েছিল।"
+                }
+            ]
+        },
+        {
+            "id": 4859,
+            "verse_number": 13,
+            "verse_key": "54:13",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 465,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَحَمَلْنَـٰهُ عَلَىٰ ذَاتِ أَلْوَٰحٍ وَدُسُرٍ",
+            "page_number": 529,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100469,
+                    "resource_id": 20,
+                    "text": "And We carried him on a [construction of] planks and nails,"
+                },
+                {
+                    "id": 218326,
+                    "resource_id": 39,
+                    "text": "Dan Kami bawa naik Nabi Nuh (berserta pengikut-pengikutnya) di atas (bahtera yang dibina) dari keping-keping papan dan paku;"
+                },
+                {
+                    "id": 1095836,
+                    "resource_id": 161,
+                    "text": "আর আমি নূহকে বহন করলাম কাষ্ঠ আর কীলক যুক্ত (নৌযানে)।"
+                }
+            ]
+        },
+        {
+            "id": 4860,
+            "verse_number": 14,
+            "verse_key": "54:14",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 465,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "تَجْرِى بِأَعْيُنِنَا جَزَآءً لِّمَن كَانَ كُفِرَ",
+            "page_number": 529,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100470,
+                    "resource_id": 20,
+                    "text": "Sailing under Our observation as reward for he who had been denied."
+                },
+                {
+                    "id": 218327,
+                    "resource_id": 39,
+                    "text": "Yang belayar laju dengan pemeliharaan dan pengawasan Kami; (Kami melakukan yang demikian dan menimpakan taufan itu) sebagai balasan bagi orang-orang yang kufur ingkar!"
+                },
+                {
+                    "id": 1095837,
+                    "resource_id": 161,
+                    "text": "যা আমার চোখের সামনে (ও আমার তত্ত্বাবধানে) ভেসে চলল সেই ব্যক্তির পক্ষে প্রতিশোধ হিসেবে যাকে অমান্য ও অস্বীকার করা হয়েছিল।"
+                }
+            ]
+        },
+        {
+            "id": 4861,
+            "verse_number": 15,
+            "verse_key": "54:15",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 465,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَقَد تَّرَكْنَـٰهَآ ءَايَةً فَهَلْ مِن مُّدَّكِرٍ",
+            "page_number": 529,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100471,
+                    "resource_id": 20,
+                    "text": "And We left it as a sign, so is there any who will remember?"
+                },
+                {
+                    "id": 218328,
+                    "resource_id": 39,
+                    "text": "Dan demi sesungguhnya! Kami telah jadikan bahtera itu sebagai satu tanda yang menjadi pengajaran, maka adakah orang yang mahu beringat dan insaf?"
+                },
+                {
+                    "id": 1095838,
+                    "resource_id": 161,
+                    "text": "এ (ঘটনা) টিকে আমি (চিরকালের জন্য) নিদর্শন হিসেবে রেখে দিলাম, অতএব উপদেশ গ্রহণ করার কেউ আছে কি?"
+                }
+            ]
+        },
+        {
+            "id": 4862,
+            "verse_number": 16,
+            "verse_key": "54:16",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 465,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+            "page_number": 529,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100472,
+                    "resource_id": 20,
+                    "text": "And how [severe] were My punishment and warning.<sup foot_note=197456>1</sup>"
+                },
+                {
+                    "id": 218329,
+                    "resource_id": 39,
+                    "text": "Oleh itu, perhatikanlah bagaimana buruknya azabKu dan kesan amaran-amaranKu."
+                },
+                {
+                    "id": 1095839,
+                    "resource_id": 161,
+                    "text": "কত ভয়ংকর ছিল আমার ‘আযাব ও ভীতি প্রদর্শন।"
+                }
+            ]
+        },
+        {
+            "id": 4863,
+            "verse_number": 17,
+            "verse_key": "54:17",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 465,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ",
+            "page_number": 529,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100473,
+                    "resource_id": 20,
+                    "text": "And We have certainly made the Qur’ān easy for remembrance, so is there any who will remember?"
+                },
+                {
+                    "id": 218330,
+                    "resource_id": 39,
+                    "text": "Dan demi sesungguhnya! Kami telah mudahkan Al-Quran untuk menjadi peringatan dan pengajaran, maka adakah sesiapa yang mahu mengambil peringatan dan pelajaran (daripadanya)?"
+                },
+                {
+                    "id": 1095840,
+                    "resource_id": 161,
+                    "text": "আমি কুরআনকে সহজ করে দিয়েছি উপদেশ গ্রহণের জন্য, উপদেশ গ্রহণ করার কেউ আছে কি?"
+                }
+            ]
+        },
+        {
+            "id": 4864,
+            "verse_number": 18,
+            "verse_key": "54:18",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 465,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "كَذَّبَتْ عَادٌ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+            "page_number": 529,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100474,
+                    "resource_id": 20,
+                    "text": "ʿAad denied; and how [severe] were My punishment and warning."
+                },
+                {
+                    "id": 218331,
+                    "resource_id": 39,
+                    "text": "(Demikian juga) kaum Aad telah mendustakan Rasulnya (lalu mereka dibinasakan); maka perhatikanlah, bagaimana buruknya azabku dan kesan amaran-amaranKu!"
+                },
+                {
+                    "id": 1095841,
+                    "resource_id": 161,
+                    "text": "‘আদ জাতি সত্য প্রত্যাখ্যান করেছিল, ফলে কত ভয়ংকর ছিল আমার ‘আযাব ও ভীতি প্রদর্শন।"
+                }
+            ]
+        },
+        {
+            "id": 4865,
+            "verse_number": 19,
+            "verse_key": "54:19",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 465,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ رِيحًا صَرْصَرًا فِى يَوْمِ نَحْسٍ مُّسْتَمِرٍّ",
+            "page_number": 529,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100475,
+                    "resource_id": 20,
+                    "text": "Indeed, We sent upon them a screaming wind on a day of continuous misfortune,"
+                },
+                {
+                    "id": 218341,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Kami telah menghantarkan kepada mereka angin ribut yang kencang, pada hari nahas yang berlanjutan; -"
+                },
+                {
+                    "id": 1095842,
+                    "resource_id": 161,
+                    "text": "আমি তাদের উপর পাঠিয়েছিলাম ঝঞ্ঝাবায়ু এক অবিরাম অশুভ দিনে,"
+                }
+            ]
+        },
+        {
+            "id": 4866,
+            "verse_number": 20,
+            "verse_key": "54:20",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 465,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "تَنزِعُ ٱلنَّاسَ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ مُّنقَعِرٍ",
+            "page_number": 529,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100478,
+                    "resource_id": 20,
+                    "text": "Extracting the people<sup foot_note=197457>1</sup> as if they were trunks of palm trees uprooted."
+                },
+                {
+                    "id": 218333,
+                    "resource_id": 39,
+                    "text": "Yang menumbangkan manusia gugur bergelimpangan, seolah-olah mereka batang-batang pohon kurma yang terbongkar."
+                },
+                {
+                    "id": 1095843,
+                    "resource_id": 161,
+                    "text": "মানুষকে তা উৎপাটিত করেছিল যেন তারা উৎপাটিত খেজুর গাছের কান্ড।"
+                }
+            ]
+        },
+        {
+            "id": 4867,
+            "verse_number": 21,
+            "verse_key": "54:21",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 465,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+            "page_number": 529,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100479,
+                    "resource_id": 20,
+                    "text": "And how [severe] were My punishment and warning."
+                },
+                {
+                    "id": 218334,
+                    "resource_id": 39,
+                    "text": "Maka perhatikanlah, bagaimana buruknya azabKu dan kesan amaran-amaranKu!"
+                },
+                {
+                    "id": 1095844,
+                    "resource_id": 161,
+                    "text": "ফলে কত ভয়ংকর ছিল আমার ‘আযাব ও ভীতি প্রদর্শন।"
+                }
+            ]
+        },
+        {
+            "id": 4868,
+            "verse_number": 22,
+            "verse_key": "54:22",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 465,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ",
+            "page_number": 529,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100480,
+                    "resource_id": 20,
+                    "text": "And We have certainly made the Qur’ān easy for remembrance, so is there any who will remember?"
+                },
+                {
+                    "id": 218335,
+                    "resource_id": 39,
+                    "text": "Dan demi sesungguhnya! Kami telah mudahkan Al-Quran untuk peringatan dan pengajaran, maka adakah sesiapa yang mahu mengambil peringatan dan pelajaran (daripadanya)?"
+                },
+                {
+                    "id": 1095845,
+                    "resource_id": 161,
+                    "text": "আমি কুরআনকে সহজ করে দিয়েছি উপদেশ গ্রহণের জন্য, উপদেশ গ্রহণের কেউ আছে কি?"
+                }
+            ]
+        },
+        {
+            "id": 4869,
+            "verse_number": 23,
+            "verse_key": "54:23",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 466,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "كَذَّبَتْ ثَمُودُ بِٱلنُّذُرِ",
+            "page_number": 529,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100481,
+                    "resource_id": 20,
+                    "text": "Thamūd denied the warning."
+                },
+                {
+                    "id": 218336,
+                    "resource_id": 39,
+                    "text": "(Demikian juga) kaum Thamud telah mendustakan peringatan dan amaran (yang disampaikan oleh Rasul mereka, Nabi Soleh)."
+                },
+                {
+                    "id": 1095846,
+                    "resource_id": 161,
+                    "text": "সামূদ জাতিও ভয়প্রদর্শনকারীদেরকে অস্বীকার করেছিল,"
+                }
+            ]
+        },
+        {
+            "id": 4870,
+            "verse_number": 24,
+            "verse_key": "54:24",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 466,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَقَالُوٓا۟ أَبَشَرًا مِّنَّا وَٰحِدًا نَّتَّبِعُهُۥٓ إِنَّآ إِذًا لَّفِى ضَلَـٰلٍ وَسُعُرٍ",
+            "page_number": 529,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100482,
+                    "resource_id": 20,
+                    "text": "And said, \"Is it one human being<sup foot_note=197458>1</sup> among us that we should follow? Indeed, we would then be in error and madness."
+                },
+                {
+                    "id": 218337,
+                    "resource_id": 39,
+                    "text": "Lalu mereka berkata: Patutkah kita menurut manusia dari jenis kita, lagi yang berseorangan? Jika demikian, sesungguhnya kita berada dalam keadaan sesat dan gila!"
+                },
+                {
+                    "id": 1095847,
+                    "resource_id": 161,
+                    "text": "তারা বলেছিল, ‘আমরা কি আমাদেরই মধ্যেকার মাত্র একটা লোকের অনুসরণ করব? তাহলে তো আমরা গুমরাহী আর পাগলামিতে পড়ে যাব।"
+                }
+            ]
+        },
+        {
+            "id": 4871,
+            "verse_number": 25,
+            "verse_key": "54:25",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 466,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَءُلْقِىَ ٱلذِّكْرُ عَلَيْهِ مِنۢ بَيْنِنَا بَلْ هُوَ كَذَّابٌ أَشِرٌ",
+            "page_number": 529,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100483,
+                    "resource_id": 20,
+                    "text": "Has the message been sent down upon him from among us? Rather, he is an insolent liar.\""
+                },
+                {
+                    "id": 218338,
+                    "resource_id": 39,
+                    "text": "Tidaklah patut wahyu peringatan itu diturunkan kepadanya (padahal orang-orang yang lebih layak ada) di antara kita. Bahkan dialah seorang pendusta, lagi sombong angkuh."
+                },
+                {
+                    "id": 1095848,
+                    "resource_id": 161,
+                    "text": "আমাদের (এত মানুষের) মধ্যে শুধু কি তার উপরই বাণী পাঠানো হয়েছে? না, বরং সে বড়ই মিথ্যুক, দাম্ভিক।"
+                }
+            ]
+        },
+        {
+            "id": 4872,
+            "verse_number": 26,
+            "verse_key": "54:26",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 466,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "سَيَعْلَمُونَ غَدًا مَّنِ ٱلْكَذَّابُ ٱلْأَشِرُ",
+            "page_number": 529,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100484,
+                    "resource_id": 20,
+                    "text": "They will know tomorrow who is the insolent liar."
+                },
+                {
+                    "id": 218339,
+                    "resource_id": 39,
+                    "text": "Mereka akan mengetahui kelak siapakah orangnya yang pendusta, lagi sombong angkuh itu."
+                },
+                {
+                    "id": 1095849,
+                    "resource_id": 161,
+                    "text": "আগামীকালই তারা জানতে পারবে কে বড়ই মিথ্যুক, দাম্ভিক"
+                }
+            ]
+        },
+        {
+            "id": 4873,
+            "verse_number": 27,
+            "verse_key": "54:27",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 212,
+            "ruku_number": 466,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّا مُرْسِلُوا۟ ٱلنَّاقَةِ فِتْنَةً لَّهُمْ فَٱرْتَقِبْهُمْ وَٱصْطَبِرْ",
+            "page_number": 529,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100485,
+                    "resource_id": 20,
+                    "text": "Indeed, We are sending the she-camel as trial for them, so watch them and be patient.<sup foot_note=197459>1</sup>"
+                },
+                {
+                    "id": 218340,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Kami menghantarkan unta betina (yang menjadi mukjizat) sebagai satu ujian bagi mereka. Lalu (Kami perintahkan Rasul Kami): Tunggulah (apakah yang mereka akan lakukan) serta bersabarlah (terhadap tentangan mereka)."
+                },
+                {
+                    "id": 1095850,
+                    "resource_id": 161,
+                    "text": "আমি একটা উষ্ট্রী পাঠাচ্ছি, তাদেরকে পরীক্ষা করার জন্য, কাজেই (হে সালিহ!) তুমি তাদের আচরণ লক্ষ্য কর আর ধৈর্য ধর।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 21,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 21
+    }
+}

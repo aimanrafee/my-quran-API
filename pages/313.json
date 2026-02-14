@@ -1,0 +1,761 @@
+{
+    "verses": [
+        {
+            "id": 2361,
+            "verse_number": 13,
+            "verse_key": "20:13",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 270,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَنَا ٱخْتَرْتُكَ فَٱسْتَمِعْ لِمَا يُوحَىٰٓ",
+            "page_number": 313,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97289,
+                    "resource_id": 20,
+                    "text": "And I have chosen you, so listen to what is revealed [to you]."
+                },
+                {
+                    "id": 215155,
+                    "resource_id": 39,
+                    "text": "\"Dan Aku telah memilihmu menjadi Rasul maka dengarlah apa yang akan diwahyukan kepadamu."
+                },
+                {
+                    "id": 1093338,
+                    "resource_id": 161,
+                    "text": "আমি তোমাকে বেছে নিয়েছি, কাজেই তুমি মনোযোগ দিয়ে শুনো যা তোমার প্রতি ওয়াহী করা হচ্ছে।"
+                }
+            ]
+        },
+        {
+            "id": 2362,
+            "verse_number": 14,
+            "verse_key": "20:14",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 270,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّنِىٓ أَنَا ٱللَّهُ لَآ إِلَـٰهَ إِلَّآ أَنَا۠ فَٱعْبُدْنِى وَأَقِمِ ٱلصَّلَوٰةَ لِذِكْرِىٓ",
+            "page_number": 313,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97296,
+                    "resource_id": 20,
+                    "text": "Indeed, I am Allāh. There is no deity except Me, so worship Me and establish prayer for My remembrance."
+                },
+                {
+                    "id": 215166,
+                    "resource_id": 39,
+                    "text": "\"Sesungguhnya Akulah Allah; tiada tuhan melainkan Aku; oleh itu, sembahlah akan Daku, dan dirikanlah sembahyang untuk mengingati Daku."
+                },
+                {
+                    "id": 1093339,
+                    "resource_id": 161,
+                    "text": "প্রকৃতই আমি আল্লাহ, আমি ছাড়া সত্যিকারের কোন ইলাহ নেই, কাজেই আমার ‘ইবাদাত কর, আর আমাকে স্মরণ করার উদ্দেশ্যে নামায কায়িম কর।’"
+                }
+            ]
+        },
+        {
+            "id": 2363,
+            "verse_number": 15,
+            "verse_key": "20:15",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 270,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ ٱلسَّاعَةَ ءَاتِيَةٌ أَكَادُ أُخْفِيهَا لِتُجْزَىٰ كُلُّ نَفْسٍۭ بِمَا تَسْعَىٰ",
+            "page_number": 313,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97297,
+                    "resource_id": 20,
+                    "text": "Indeed, the Hour is coming - I almost conceal it<sup foot_note=196743>1</sup> - so that every soul may be recompensed according to that for which it strives."
+                },
+                {
+                    "id": 215202,
+                    "resource_id": 39,
+                    "text": "\"Sesungguhnya hari kiamat itu tetap akan datang - yang Aku sengaja sembunyikan masa datangnya - supaya tiap-tiap diri dibalas akan apa yang ia usahakan."
+                },
+                {
+                    "id": 1093340,
+                    "resource_id": 161,
+                    "text": "কিয়ামাত আসবেই, আমি তা গোপন রাখতে চাই, যাতে প্রত্যেক ব্যক্তি স্বীয় চেষ্টা-সাধনা অনুপাতে ফল লাভ করতে পারে।"
+                }
+            ]
+        },
+        {
+            "id": 2364,
+            "verse_number": 16,
+            "verse_key": "20:16",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 270,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَلَا يَصُدَّنَّكَ عَنْهَا مَن لَّا يُؤْمِنُ بِهَا وَٱتَّبَعَ هَوَىٰهُ فَتَرْدَىٰ",
+            "page_number": 313,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97298,
+                    "resource_id": 20,
+                    "text": "So do not let one avert you from it<sup foot_note=196744>1</sup> who does not believe in it and follows his desire, for you [then] would perish."
+                },
+                {
+                    "id": 215167,
+                    "resource_id": 39,
+                    "text": "\"Maka janganlah engkau dihalangi daripada mempercayainya oleh orang yang tidak beriman kepadanya serta ia menurut hawa nafsunya; kerana dengan itu engkau akan binasa."
+                },
+                {
+                    "id": 1093341,
+                    "resource_id": 161,
+                    "text": "কাজেই ক্বিয়ামতে যে বিশ্বাস করে না এবং স্বীয় প্রবৃত্তির অনুসরণ করে, সে যেন তোমাকে তাত্থেকে কোনক্রমেই বিচ্যুত করতে না পারে, তাহলে তুমি ধ্বংস হয়ে যাবে।"
+                }
+            ]
+        },
+        {
+            "id": 2365,
+            "verse_number": 17,
+            "verse_key": "20:17",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 270,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا تِلْكَ بِيَمِينِكَ يَـٰمُوسَىٰ",
+            "page_number": 313,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97299,
+                    "resource_id": 20,
+                    "text": "And what is that in your right hand, O Moses?\""
+                },
+                {
+                    "id": 215168,
+                    "resource_id": 39,
+                    "text": "\"Dan apa (bendanya) yang di tangan kananmu itu wahai Musa?\""
+                },
+                {
+                    "id": 1093342,
+                    "resource_id": 161,
+                    "text": "‘হে মূসা! তোমার ডান হাতে ওটা কী?’"
+                }
+            ]
+        },
+        {
+            "id": 2366,
+            "verse_number": 18,
+            "verse_key": "20:18",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 270,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ هِىَ عَصَاىَ أَتَوَكَّؤُا۟ عَلَيْهَا وَأَهُشُّ بِهَا عَلَىٰ غَنَمِى وَلِىَ فِيهَا مَـَٔارِبُ أُخْرَىٰ",
+            "page_number": 313,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97300,
+                    "resource_id": 20,
+                    "text": "He said, \"It is my staff; I lean upon it, and I bring down leaves for my sheep and I have therein other uses.\""
+                },
+                {
+                    "id": 215169,
+                    "resource_id": 39,
+                    "text": "Nabi Musa menjawab: \"Ini ialah tongkatku; aku bertekan atasnya semasa, berjalan, dan aku memukul dengannya daun-daun kayu supaya gugur kepada kambing-kambingku, dan ada lagi lain-lain keperluanku pada tongkat itu\"."
+                },
+                {
+                    "id": 1093343,
+                    "resource_id": 161,
+                    "text": "সে বলল, ‘এটা আমার লাঠি, আমি ওতে ভর দেই, এর সাহায্যে আমি আমার মেষপালের জন্য গাছের পাতা ঝেড়ে দেই আর এতে আমার আরো অনেক কাজ হয়।’"
+                }
+            ]
+        },
+        {
+            "id": 2367,
+            "verse_number": 19,
+            "verse_key": "20:19",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 270,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ أَلْقِهَا يَـٰمُوسَىٰ",
+            "page_number": 313,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97301,
+                    "resource_id": 20,
+                    "text": "[Allāh] said, \"Throw it down, O Moses.\""
+                },
+                {
+                    "id": 215170,
+                    "resource_id": 39,
+                    "text": "Allah Taala berfirman: \"Campakkanlah tongkatmu itu wahai Musa!\""
+                },
+                {
+                    "id": 1093344,
+                    "resource_id": 161,
+                    "text": "আল্লাহ বললেন, ‘হে মূসা! ওটা নিক্ষেপ কর।’"
+                }
+            ]
+        },
+        {
+            "id": 2368,
+            "verse_number": 20,
+            "verse_key": "20:20",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 270,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَأَلْقَىٰهَا فَإِذَا هِىَ حَيَّةٌ تَسْعَىٰ",
+            "page_number": 313,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97303,
+                    "resource_id": 20,
+                    "text": "So he threw it down, and thereupon it was a snake, moving swiftly."
+                },
+                {
+                    "id": 215171,
+                    "resource_id": 39,
+                    "text": "Lalu ia mencampakkannya, maka tiba-tiba tongkatnya itu menjadi seekor ular yang bergerak menjalar."
+                },
+                {
+                    "id": 1093345,
+                    "resource_id": 161,
+                    "text": "তখন সে তা নিক্ষেপ করল, অমনি তা সাপ হয়ে ছুটোছুটি করতে লাগল।"
+                }
+            ]
+        },
+        {
+            "id": 2369,
+            "verse_number": 21,
+            "verse_key": "20:21",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 270,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ خُذْهَا وَلَا تَخَفْ ۖ سَنُعِيدُهَا سِيرَتَهَا ٱلْأُولَىٰ",
+            "page_number": 313,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97304,
+                    "resource_id": 20,
+                    "text": "[Allāh] said, \"Seize it and fear not; We will return it to its former condition."
+                },
+                {
+                    "id": 215172,
+                    "resource_id": 39,
+                    "text": "Allah berfirman: \"Tangkaplah akan dia, dan janganlah engkau takut, Kami akan mengembalikannya kepada keadaannya yang asal."
+                },
+                {
+                    "id": 1093346,
+                    "resource_id": 161,
+                    "text": "আল্লাহ বললেন, ‘ওটাকে ধর, ভয় পেও না, আমি সেটাকে এক্ষুনি তার আগের রূপে ফিরিয়ে দেব।"
+                }
+            ]
+        },
+        {
+            "id": 2370,
+            "verse_number": 22,
+            "verse_key": "20:22",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 270,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱضْمُمْ يَدَكَ إِلَىٰ جَنَاحِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوٓءٍ ءَايَةً أُخْرَىٰ",
+            "page_number": 313,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97305,
+                    "resource_id": 20,
+                    "text": "And draw in your hand to your side; it will come out white without disease - another sign,"
+                },
+                {
+                    "id": 215174,
+                    "resource_id": 39,
+                    "text": "\"Dan kepitlah tanganmu di celah lambungmu; nescaya keluarlah ia putih bersinar-sinar dengan tidak ada cacat; sebagai satu mukjizat yang lain."
+                },
+                {
+                    "id": 1093347,
+                    "resource_id": 161,
+                    "text": "আর তোমার হাত বগলে দিয়ে টান, তা ক্ষতিকর নয় এমন শুভ্রোজ্জ্বল হয়ে বের হয়ে আসবে- অন্য আরেকটি নিদর্শন হিসেবে।"
+                }
+            ]
+        },
+        {
+            "id": 2371,
+            "verse_number": 23,
+            "verse_key": "20:23",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 270,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "لِنُرِيَكَ مِنْ ءَايَـٰتِنَا ٱلْكُبْرَى",
+            "page_number": 313,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97306,
+                    "resource_id": 20,
+                    "text": "That We may show you [some] of Our greater signs."
+                },
+                {
+                    "id": 215175,
+                    "resource_id": 39,
+                    "text": "\"(Berlakunya yang demikian itu) kerana Kami hendak memperlihatkan kepadamu sebahagian dari tanda-tanda kekuasaan Kami yang besar."
+                },
+                {
+                    "id": 1093348,
+                    "resource_id": 161,
+                    "text": "যাতে আমি তোমাকে আমার বড় বড় নিদর্শনগুলোর কিছু দেখাতে পারি।"
+                }
+            ]
+        },
+        {
+            "id": 2372,
+            "verse_number": 24,
+            "verse_key": "20:24",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 270,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+            "page_number": 313,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97307,
+                    "resource_id": 20,
+                    "text": "Go to Pharaoh. Indeed, he has transgressed [i.e., tyrannized].\""
+                },
+                {
+                    "id": 215176,
+                    "resource_id": 39,
+                    "text": "\"Pergilah kepada Firaun, sesungguhnya ia telah melampaui batas\"."
+                },
+                {
+                    "id": 1093349,
+                    "resource_id": 161,
+                    "text": "ফেরাউনের কাছে যাও, বাস্তবিকই সে সীমালঙ্ঘন করেছে।’"
+                }
+            ]
+        },
+        {
+            "id": 2373,
+            "verse_number": 25,
+            "verse_key": "20:25",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 271,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ رَبِّ ٱشْرَحْ لِى صَدْرِى",
+            "page_number": 313,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97308,
+                    "resource_id": 20,
+                    "text": "[Moses] said, \"My Lord, expand [i.e., relax] for me my breast [with assurance]"
+                },
+                {
+                    "id": 215193,
+                    "resource_id": 39,
+                    "text": "Nabi Musa berdoa dengan berkata: \"Wahai Tuhanku, lapangkanlah bagiku, dadaku;"
+                },
+                {
+                    "id": 1093350,
+                    "resource_id": 161,
+                    "text": "মূসা বলল, ‘হে আমার প্রতিপালক! আমার জন্য আমার বক্ষকে প্রশস্ত করে দাও"
+                }
+            ]
+        },
+        {
+            "id": 2374,
+            "verse_number": 26,
+            "verse_key": "20:26",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 271,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَيَسِّرْ لِىٓ أَمْرِى",
+            "page_number": 313,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97309,
+                    "resource_id": 20,
+                    "text": "And ease for me my task"
+                },
+                {
+                    "id": 214776,
+                    "resource_id": 39,
+                    "text": "\"Dan mudahkanlah bagiku, tugasku;"
+                },
+                {
+                    "id": 1093351,
+                    "resource_id": 161,
+                    "text": "আর আমার জন্য আমার কাজকে সহজ করে দাও।"
+                }
+            ]
+        },
+        {
+            "id": 2375,
+            "verse_number": 27,
+            "verse_key": "20:27",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 271,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱحْلُلْ عُقْدَةً مِّن لِّسَانِى",
+            "page_number": 313,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97310,
+                    "resource_id": 20,
+                    "text": "And untie the knot from my tongue"
+                },
+                {
+                    "id": 215177,
+                    "resource_id": 39,
+                    "text": "\"Dan lepaskanlah simpulan dari lidahku,"
+                },
+                {
+                    "id": 1093352,
+                    "resource_id": 161,
+                    "text": "আমার জিহ্বার জড়তা দূর করে দাও।"
+                }
+            ]
+        },
+        {
+            "id": 2376,
+            "verse_number": 28,
+            "verse_key": "20:28",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 271,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "يَفْقَهُوا۟ قَوْلِى",
+            "page_number": 313,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97311,
+                    "resource_id": 20,
+                    "text": "That they may understand my speech."
+                },
+                {
+                    "id": 215188,
+                    "resource_id": 39,
+                    "text": "\"Supaya mereka faham perkataanku;"
+                },
+                {
+                    "id": 1093353,
+                    "resource_id": 161,
+                    "text": "যাতে তারা আমার কথা বুঝতে পারে।"
+                }
+            ]
+        },
+        {
+            "id": 2377,
+            "verse_number": 29,
+            "verse_key": "20:29",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 271,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱجْعَل لِّى وَزِيرًا مِّنْ أَهْلِى",
+            "page_number": 313,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97312,
+                    "resource_id": 20,
+                    "text": "And appoint for me a minister [i.e., assistant] from my family -"
+                },
+                {
+                    "id": 215178,
+                    "resource_id": 39,
+                    "text": "\"Dan jadikanlah bagiku, seorang penyokong dari keluargaku."
+                },
+                {
+                    "id": 1093354,
+                    "resource_id": 161,
+                    "text": "আর আমার পরিবার হতে আমার জন্য একজন সাহায্যকারী বানিয়ে দাও।"
+                }
+            ]
+        },
+        {
+            "id": 2378,
+            "verse_number": 30,
+            "verse_key": "20:30",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 271,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "هَـٰرُونَ أَخِى",
+            "page_number": 313,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97314,
+                    "resource_id": 20,
+                    "text": "Aaron, my brother."
+                },
+                {
+                    "id": 215180,
+                    "resource_id": 39,
+                    "text": "\"Iaitu Harun saudaraku;"
+                },
+                {
+                    "id": 1093355,
+                    "resource_id": 161,
+                    "text": "আমার ভাই হারূনকে।"
+                }
+            ]
+        },
+        {
+            "id": 2379,
+            "verse_number": 31,
+            "verse_key": "20:31",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 271,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "ٱشْدُدْ بِهِۦٓ أَزْرِى",
+            "page_number": 313,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97315,
+                    "resource_id": 20,
+                    "text": "Increase through him my strength"
+                },
+                {
+                    "id": 215181,
+                    "resource_id": 39,
+                    "text": "\"Kuatkanlah dengan sokongannya, pendirianku,"
+                },
+                {
+                    "id": 1093356,
+                    "resource_id": 161,
+                    "text": "তার দ্বারা আমার শক্তি বৃদ্ধি কর।"
+                }
+            ]
+        },
+        {
+            "id": 2380,
+            "verse_number": 32,
+            "verse_key": "20:32",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 271,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَشْرِكْهُ فِىٓ أَمْرِى",
+            "page_number": 313,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97316,
+                    "resource_id": 20,
+                    "text": "And let him share my task"
+                },
+                {
+                    "id": 215182,
+                    "resource_id": 39,
+                    "text": "\"Dan jadikanlah dia turut campur bertanggungjawab dalam urusanku,"
+                },
+                {
+                    "id": 1093357,
+                    "resource_id": 161,
+                    "text": "আমার কাজে তাকে অংশীদার কর।"
+                }
+            ]
+        },
+        {
+            "id": 2381,
+            "verse_number": 33,
+            "verse_key": "20:33",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 271,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "كَىْ نُسَبِّحَكَ كَثِيرًا",
+            "page_number": 313,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97317,
+                    "resource_id": 20,
+                    "text": "That we may exalt You much"
+                },
+                {
+                    "id": 215183,
+                    "resource_id": 39,
+                    "text": "\"Supaya kami sentiasa beribadat dan memujiMu,"
+                },
+                {
+                    "id": 1093358,
+                    "resource_id": 161,
+                    "text": "যাতে আমরা বেশি বেশি করে তোমার পবিত্রতা ও মহিমা ঘোষণা করতে পারি।"
+                }
+            ]
+        },
+        {
+            "id": 2382,
+            "verse_number": 34,
+            "verse_key": "20:34",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 271,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَنَذْكُرَكَ كَثِيرًا",
+            "page_number": 313,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97318,
+                    "resource_id": 20,
+                    "text": "And remember You much."
+                },
+                {
+                    "id": 215184,
+                    "resource_id": 39,
+                    "text": "\"Dan (supaya) kami sentiasa menyebut dan mengingatiMu;"
+                },
+                {
+                    "id": 1093359,
+                    "resource_id": 161,
+                    "text": "আর তোমাকে অধিক স্মরণ করতে পারি।"
+                }
+            ]
+        },
+        {
+            "id": 2383,
+            "verse_number": 35,
+            "verse_key": "20:35",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 271,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّكَ كُنتَ بِنَا بَصِيرًا",
+            "page_number": 313,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97319,
+                    "resource_id": 20,
+                    "text": "Indeed, You are of us ever Seeing.\""
+                },
+                {
+                    "id": 215185,
+                    "resource_id": 39,
+                    "text": "\"Sesungguhnya Engkau adalah sedia melihat dan mengetahui hal ehwal kami\"."
+                },
+                {
+                    "id": 1093360,
+                    "resource_id": 161,
+                    "text": "তুমি তো আমাদের অবস্থা সবই দেখছ।’"
+                }
+            ]
+        },
+        {
+            "id": 2384,
+            "verse_number": 36,
+            "verse_key": "20:36",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 271,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ قَدْ أُوتِيتَ سُؤْلَكَ يَـٰمُوسَىٰ",
+            "page_number": 313,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97320,
+                    "resource_id": 20,
+                    "text": "[Allāh] said, \"You have been granted your request, O Moses."
+                },
+                {
+                    "id": 215186,
+                    "resource_id": 39,
+                    "text": "Allah berfirman: \"Sesungguhnya telah diberikan kepadamu apa yang engkau pohonkan itu, wahai Musa!"
+                },
+                {
+                    "id": 1093361,
+                    "resource_id": 161,
+                    "text": "তিনি (আল্লাহ) বললেন, ‘হে মূসা! তোমার প্রার্থনা গৃহীত হল।"
+                }
+            ]
+        },
+        {
+            "id": 2385,
+            "verse_number": 37,
+            "verse_key": "20:37",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 271,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَقَدْ مَنَنَّا عَلَيْكَ مَرَّةً أُخْرَىٰٓ",
+            "page_number": 313,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97321,
+                    "resource_id": 20,
+                    "text": "And We had already conferred favor upon you another time,"
+                },
+                {
+                    "id": 215187,
+                    "resource_id": 39,
+                    "text": "\"Dan demi sesungguhnya! Kami telahpun mengurniakan kepadamu berbagai nikmat pada satu masa yang lain sebelum ini."
+                },
+                {
+                    "id": 1093362,
+                    "resource_id": 161,
+                    "text": "আমি তো তোমার উপর আরো একবার অনুগ্রহ করেছিলাম।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 25,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 25
+    }
+}

@@ -1,0 +1,161 @@
+{
+    "verses": [
+        {
+            "id": 8,
+            "verse_number": 1,
+            "verse_key": "2:1",
+            "hizb_number": 1,
+            "rub_el_hizb_number": 1,
+            "ruku_number": 2,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": " الٓمٓ",
+            "page_number": 2,
+            "juz_number": 1,
+            "translations": [
+                {
+                    "id": 97387,
+                    "resource_id": 20,
+                    "text": "Alif, Lām, Meem.<sup foot_note=195935>1</sup>"
+                },
+                {
+                    "id": 214632,
+                    "resource_id": 39,
+                    "text": "Alif, Laam, Miim."
+                },
+                {
+                    "id": 1090985,
+                    "resource_id": 161,
+                    "text": "আলিফ, লাম, মীম।"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "verse_number": 2,
+            "verse_key": "2:2",
+            "hizb_number": 1,
+            "rub_el_hizb_number": 1,
+            "ruku_number": 2,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "ذَٰلِكَ ٱلْكِتَـٰبُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ",
+            "page_number": 2,
+            "juz_number": 1,
+            "translations": [
+                {
+                    "id": 97614,
+                    "resource_id": 20,
+                    "text": "This is the Book about which there is no doubt, a guidance for those conscious of Allāh<sup foot_note=195936>1</sup> -"
+                },
+                {
+                    "id": 215483,
+                    "resource_id": 39,
+                    "text": "Kitab Al-Quran ini, tidak ada sebarang syak padanya (tentang datangnya dari Allah dan tentang sempurnanya); ia pula menjadi petunjuk bagi orang-orang yang (hendak) bertaqwa;"
+                },
+                {
+                    "id": 1090986,
+                    "resource_id": 161,
+                    "text": "এটা ঐ (মহান) কিতাব যাতে কোন সন্দেহ নেই, মুত্তাকীদের জন্য পথ নির্দেশ।"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "verse_number": 3,
+            "verse_key": "2:3",
+            "hizb_number": 1,
+            "rub_el_hizb_number": 1,
+            "ruku_number": 2,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِينَ يُؤْمِنُونَ بِٱلْغَيْبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",
+            "page_number": 2,
+            "juz_number": 1,
+            "translations": [
+                {
+                    "id": 97797,
+                    "resource_id": 20,
+                    "text": "Who believe in the unseen, establish prayer,<sup foot_note=195938>1</sup> and spend out of what We<sup foot_note=195937>2</sup> have provided for them,"
+                },
+                {
+                    "id": 215860,
+                    "resource_id": 39,
+                    "text": "Iaitu orang-orang yang beriman kepada perkara-perkara yang ghaib, dan mendirikan (mengerjakan) sembahyang serta membelanjakan (mendermakan) sebahagian dari rezeki yang Kami berikan kepada mereka."
+                },
+                {
+                    "id": 1090987,
+                    "resource_id": 161,
+                    "text": "যারা গায়বের প্রতি ঈমান আনে, নামায কায়িম করে এবং আমি যে জীবনোপকরণ তাদেরকে দিয়েছি তা থেকে তারা ব্যয় করে।"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "verse_number": 4,
+            "verse_key": "2:4",
+            "hizb_number": 1,
+            "rub_el_hizb_number": 1,
+            "ruku_number": 2,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّذِينَ يُؤْمِنُونَ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ وَبِٱلْـَٔاخِرَةِ هُمْ يُوقِنُونَ",
+            "page_number": 2,
+            "juz_number": 1,
+            "translations": [
+                {
+                    "id": 97920,
+                    "resource_id": 20,
+                    "text": "And who believe in what has been revealed to you, [O Muḥammad], and what was revealed before you, and of the Hereafter they are certain [in faith]."
+                },
+                {
+                    "id": 215780,
+                    "resource_id": 39,
+                    "text": "Dan juga orang-orang yang beriman kepada Kitab \"Al-Quran\" yang diturunkan kepadamu (Wahai Muhammad), dan Kitab-kitab yang diturunkan dahulu daripadamu, serta mereka yakin akan (adanya) hari akhirat (dengan sepenuhnya)."
+                },
+                {
+                    "id": 1090988,
+                    "resource_id": 161,
+                    "text": "আর তোমার প্রতি যা নাযিল হয়েছে ও তোমার পূর্বে যা নাযিল হয়েছে তাতে তারা বিশ্বাস স্থাপন করে এবং পরকালের প্রতিও তারা নিশ্চিত বিশ্বাসী।"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "verse_number": 5,
+            "verse_key": "2:5",
+            "hizb_number": 1,
+            "rub_el_hizb_number": 1,
+            "ruku_number": 2,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "أُو۟لَـٰٓئِكَ عَلَىٰ هُدًى مِّن رَّبِّهِمْ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+            "page_number": 2,
+            "juz_number": 1,
+            "translations": [
+                {
+                    "id": 97997,
+                    "resource_id": 20,
+                    "text": "Those are upon [right] guidance from their Lord, and it is those who are the successful."
+                },
+                {
+                    "id": 216325,
+                    "resource_id": 39,
+                    "text": "Mereka itulah yang tetap mendapat petunjuk dari Tuhan mereka, dan merekalah orang-orang yang berjaya."
+                },
+                {
+                    "id": 1090989,
+                    "resource_id": 161,
+                    "text": "তারাই তাদের প্রতিপালকের হিদায়াতের উপর প্রতিষ্ঠিত আছে, আর তারাই সফলকাম।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 5,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 5
+    }
+}

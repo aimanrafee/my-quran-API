@@ -1,0 +1,551 @@
+{
+    "verses": [
+        {
+            "id": 5430,
+            "verse_number": 11,
+            "verse_key": "71:11",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 506,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "يُرْسِلِ ٱلسَّمَآءَ عَلَيْكُم مِّدْرَارًا",
+            "page_number": 571,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101280,
+                    "resource_id": 20,
+                    "text": "He will send [rain from] the sky upon you in [continuing] showers"
+                },
+                {
+                    "id": 219126,
+                    "resource_id": 39,
+                    "text": "\"(Sekiranya kamu berbuat demikian), Ia akan menghantarkan hujan lebat mencurah-curah, kepada kamu;"
+                },
+                {
+                    "id": 1096407,
+                    "resource_id": 161,
+                    "text": "(তোমরা তা করলে) তিনি অজস্র ধারায় তোমাদের উপর বৃষ্টি বর্ষণ করবেন,"
+                }
+            ]
+        },
+        {
+            "id": 5431,
+            "verse_number": 12,
+            "verse_key": "71:12",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 506,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَيُمْدِدْكُم بِأَمْوَٰلٍ وَبَنِينَ وَيَجْعَل لَّكُمْ جَنَّـٰتٍ وَيَجْعَل لَّكُمْ أَنْهَـٰرًا",
+            "page_number": 571,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101282,
+                    "resource_id": 20,
+                    "text": "And give you increase in wealth and children and provide for you gardens and provide for you rivers."
+                },
+                {
+                    "id": 219118,
+                    "resource_id": 39,
+                    "text": "\"Dan Ia akan memberi kepada kamu dengan banyaknya harta kekayaan serta anak-pinak; dan Ia akan mengadakan bagi kamu kebun-kebun tanaman, serta mengadakan bagi kamu sungai-sungai (yang mengalir di dalamnya)."
+                },
+                {
+                    "id": 1096408,
+                    "resource_id": 161,
+                    "text": "তোমাদের ধন সম্পদ ও সন্তানাদি বাড়িয়ে দেবেন, তোমাদের জন্য বাগান সৃষ্টি করবেন এবং তোমাদের জন্য নদীনালা প্রবাহিত করবেন।"
+                }
+            ]
+        },
+        {
+            "id": 5432,
+            "verse_number": 13,
+            "verse_key": "71:13",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 506,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "مَّا لَكُمْ لَا تَرْجُونَ لِلَّهِ وَقَارًا",
+            "page_number": 571,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101284,
+                    "resource_id": 20,
+                    "text": "What is [the matter] with you that you do not attribute to Allāh [due] grandeur"
+                },
+                {
+                    "id": 219120,
+                    "resource_id": 39,
+                    "text": "\"Mengapa kamu berkeadaan tidak menghargai kebesaran Allah (dan kekuasaanNya), -"
+                },
+                {
+                    "id": 1096409,
+                    "resource_id": 161,
+                    "text": "‘তোমাদের হল কী যে, তোমরা আল্লাহর শ্রেষ্ঠত্ব মেনে নিতে অস্বীকার করছ?"
+                }
+            ]
+        },
+        {
+            "id": 5433,
+            "verse_number": 14,
+            "verse_key": "71:14",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 506,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَقَدْ خَلَقَكُمْ أَطْوَارًا",
+            "page_number": 571,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101286,
+                    "resource_id": 20,
+                    "text": "While He has created you in stages?<sup foot_note=197621>1</sup>"
+                },
+                {
+                    "id": 219122,
+                    "resource_id": 39,
+                    "text": "\"Padahal sesungguhnya Ia telah menciptakan kamu dengan kejadian yang berperingkat-peringkat?"
+                },
+                {
+                    "id": 1096410,
+                    "resource_id": 161,
+                    "text": "অথচ তিনিই তোমাদেরকে সৃষ্টি করেছেন নানান স্তর অতিক্রম করিয়ে।"
+                }
+            ]
+        },
+        {
+            "id": 5434,
+            "verse_number": 15,
+            "verse_key": "71:15",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 506,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَلَمْ تَرَوْا۟ كَيْفَ خَلَقَ ٱللَّهُ سَبْعَ سَمَـٰوَٰتٍ طِبَاقًا",
+            "page_number": 571,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101288,
+                    "resource_id": 20,
+                    "text": "Do you not consider how Allāh has created seven heavens in layers<sup foot_note=197622>1</sup>"
+                },
+                {
+                    "id": 219124,
+                    "resource_id": 39,
+                    "text": "\"Tidakkah kamu mengetahui dan memikirkan bagaimana Allah telah menciptakan tujuh petala langit bertingkat-tingkat,"
+                },
+                {
+                    "id": 1096411,
+                    "resource_id": 161,
+                    "text": "তোমরা কি দেখ না, কীভাবে আল্লাহ সাত আসমান সৃষ্টি করেছেন একের উপরে আরেকটিকে (স্থাপন করে)?"
+                }
+            ]
+        },
+        {
+            "id": 5435,
+            "verse_number": 16,
+            "verse_key": "71:16",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 506,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَجَعَلَ ٱلْقَمَرَ فِيهِنَّ نُورًا وَجَعَلَ ٱلشَّمْسَ سِرَاجًا",
+            "page_number": 571,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101290,
+                    "resource_id": 20,
+                    "text": "And made the moon therein a [reflected] light and made the sun a burning lamp?"
+                },
+                {
+                    "id": 219128,
+                    "resource_id": 39,
+                    "text": "\"Dan Ia menjadikan padanya bulan sebagai cahaya serta menjadikan matahari sebagai lampu (yang terang-benderang),"
+                },
+                {
+                    "id": 1096412,
+                    "resource_id": 161,
+                    "text": "আর তাদের মাঝে চাঁদকে বানিয়েছেন আলো এবং সূর্যকে করেছেন প্রদীপ।"
+                }
+            ]
+        },
+        {
+            "id": 5436,
+            "verse_number": 17,
+            "verse_key": "71:17",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 506,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱللَّهُ أَنۢبَتَكُم مِّنَ ٱلْأَرْضِ نَبَاتًا",
+            "page_number": 571,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101292,
+                    "resource_id": 20,
+                    "text": "And Allāh has caused you to grow from the earth a [progressive] growth."
+                },
+                {
+                    "id": 219129,
+                    "resource_id": 39,
+                    "text": "\"Dan Allah telah menumbuhkan kamu (hidup dari benda-benda yang berasal) dari bumi, dengan pertumbuhan yang sungguh-sungguh sempurna,"
+                },
+                {
+                    "id": 1096413,
+                    "resource_id": 161,
+                    "text": "আল্লাহ তোমাদেরকে মাটি থেকে উদগত করেন (এবং ক্রমশঃ বাড়িয়ে তোলেন যেমন বাড়িয়ে তোলেন বৃক্ষকে)"
+                }
+            ]
+        },
+        {
+            "id": 5437,
+            "verse_number": 18,
+            "verse_key": "71:18",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 506,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ثُمَّ يُعِيدُكُمْ فِيهَا وَيُخْرِجُكُمْ إِخْرَاجًا",
+            "page_number": 571,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101294,
+                    "resource_id": 20,
+                    "text": "Then He will return you into it and extract you [another] extraction."
+                },
+                {
+                    "id": 219130,
+                    "resource_id": 39,
+                    "text": "\"Kemudian Ia mengembalikan kamu ke dalam bumi (sesudah mati), dan mengeluarkan kamu daripadanya (sesudah dihidupkan semula untuk dihitung amal kamu dan diberi balasan), dengan pengeluaran yang sesungguh-sungguhnya?"
+                },
+                {
+                    "id": 1096414,
+                    "resource_id": 161,
+                    "text": "অতঃপর এই মাটিতেই তোমাদেরকে ফিরিয়ে আনবেন এবং তোমাদেরকে পুনরুত্থিত করবেন।"
+                }
+            ]
+        },
+        {
+            "id": 5438,
+            "verse_number": 19,
+            "verse_key": "71:19",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 506,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱللَّهُ جَعَلَ لَكُمُ ٱلْأَرْضَ بِسَاطًا",
+            "page_number": 571,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101296,
+                    "resource_id": 20,
+                    "text": "And Allāh has made for you the earth an expanse"
+                },
+                {
+                    "id": 219132,
+                    "resource_id": 39,
+                    "text": "\"Dan Allah telah menjadikan bumi bagi kamu sebagai hamparan,"
+                },
+                {
+                    "id": 1096415,
+                    "resource_id": 161,
+                    "text": "আল্লাহ তোমাদের জন্য যমীনকে করেছেন সম্প্রসারিত,"
+                }
+            ]
+        },
+        {
+            "id": 5439,
+            "verse_number": 20,
+            "verse_key": "71:20",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 506,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "لِّتَسْلُكُوا۟ مِنْهَا سُبُلًا فِجَاجًا",
+            "page_number": 571,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101300,
+                    "resource_id": 20,
+                    "text": "That you may follow therein roads of passage.'\""
+                },
+                {
+                    "id": 219136,
+                    "resource_id": 39,
+                    "text": "\"Supaya kamu melalui jalan-jalan yang luas padanya\"."
+                },
+                {
+                    "id": 1096416,
+                    "resource_id": 161,
+                    "text": "যাতে তোমরা তার প্রশস্ত পথ-ঘাট দিয়ে চলাচল করতে পার।’"
+                }
+            ]
+        },
+        {
+            "id": 5440,
+            "verse_number": 21,
+            "verse_key": "71:21",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 507,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ نُوحٌ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًا",
+            "page_number": 571,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101302,
+                    "resource_id": 20,
+                    "text": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss."
+                },
+                {
+                    "id": 219157,
+                    "resource_id": 39,
+                    "text": "Nabi Nuh (merayu lagi dengan) berkata: \"Wahai Tuhanku! Sesungguhnya, mereka telah menderhaka kepadaku, dan mereka telah menurut orang yang harta bendanya dan anak-pinaknya tidak menambahinya melainkan kerugian (di akhirat kelak)."
+                },
+                {
+                    "id": 1096417,
+                    "resource_id": 161,
+                    "text": "নূহ বলেছিল, ‘হে আমার প্রতিপালক! তারা আমার কথা প্রত্যাখ্যান করেছে আর আনুগত্য করছে তাদের (অর্থাৎ এমন সব লোকদের) যাদের মালধন আর সন্তানাদি তাদের ক্ষতি ছাড়া অন্য কিছুই বৃদ্ধি করেনি,"
+                }
+            ]
+        },
+        {
+            "id": 5441,
+            "verse_number": 22,
+            "verse_key": "71:22",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 507,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَكَرُوا۟ مَكْرًا كُبَّارًا",
+            "page_number": 571,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101304,
+                    "resource_id": 20,
+                    "text": "And they conspired an immense conspiracy"
+                },
+                {
+                    "id": 219151,
+                    "resource_id": 39,
+                    "text": "\"Dan mereka telah menjalankan tipu daya dengan merancangkan rancangan yang amat besar jahatnya (untuk menentang seruanku)."
+                },
+                {
+                    "id": 1096418,
+                    "resource_id": 161,
+                    "text": "আর তারা ষড়যন্ত্র করেছিল সাংঘাতিক ষড়যন্ত্র।"
+                }
+            ]
+        },
+        {
+            "id": 5442,
+            "verse_number": 23,
+            "verse_key": "71:23",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 507,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَقَالُوا۟ لَا تَذَرُنَّ ءَالِهَتَكُمْ وَلَا تَذَرُنَّ وَدًّا وَلَا سُوَاعًا وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرًا",
+            "page_number": 571,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101306,
+                    "resource_id": 20,
+                    "text": "And said, 'Never leave your gods and never leave Wadd or Suwāʿ or Yaghūth and Yaʿūq and Nasr.'<sup foot_note=197623>1</sup>"
+                },
+                {
+                    "id": 219153,
+                    "resource_id": 39,
+                    "text": "\"Dan (ketua-ketua) mereka (menghasut dengan) berkata: `Jangan kamu meninggalkan (penyembahan) tuhan-tuhan kamu, terutama (penyembahan) Wadd, dan Suwaa', dan Yaghuth, dan Ya'uuq, serta Nasr."
+                },
+                {
+                    "id": 1096419,
+                    "resource_id": 161,
+                    "text": "আর তারা বলেছিল, তোমাদের দেবদেবীদের কক্ষনো পরিত্যাগ করো না, আর অবশ্যই পরিত্যাগ করো না ওয়াদ সুআ‘আকে, আর না ‘ইয়াগুস, ইয়া‘ঊক ও নাসরকে।"
+                }
+            ]
+        },
+        {
+            "id": 5443,
+            "verse_number": 24,
+            "verse_key": "71:24",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 507,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَقَدْ أَضَلُّوا۟ كَثِيرًا ۖ وَلَا تَزِدِ ٱلظَّـٰلِمِينَ إِلَّا ضَلَـٰلًا",
+            "page_number": 571,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101308,
+                    "resource_id": 20,
+                    "text": "And already they have misled many. And, [my Lord], do not increase the wrongdoers except in error.\""
+                },
+                {
+                    "id": 219156,
+                    "resource_id": 39,
+                    "text": "\"Dan sesungguhnya ketua-ketua itu telah menyesatkan kebanyakan (dari umat manusia); dan (dengan yang demikian) janganlah Engkau (wahai Tuhanku) menambahi orang-orang yang zalim itu melainkan kesesatan jua\"."
+                },
+                {
+                    "id": 1096420,
+                    "resource_id": 161,
+                    "text": "তারা গুমরাহ করেছে অনেককে, তুমি যালিমদের গুমরাহী ছাড়া আর কিছুই বৃদ্ধি করো না।"
+                }
+            ]
+        },
+        {
+            "id": 5444,
+            "verse_number": 25,
+            "verse_key": "71:25",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 507,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًا",
+            "page_number": 571,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101310,
+                    "resource_id": 20,
+                    "text": "Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allāh [any] helpers."
+                },
+                {
+                    "id": 219159,
+                    "resource_id": 39,
+                    "text": "Disebabkan dosa-dosa dan kesalahan mereka, mereka ditenggelamkan (dengan banjir dan taufan), kemudian (pada hari akhirat) dimasukkan ke dalam neraka; maka mereka tidak akan beroleh sebarang penolong yang lain dari Allah (yang dapat memberikan pertolongan)."
+                },
+                {
+                    "id": 1096421,
+                    "resource_id": 161,
+                    "text": "পাপের কারণে তাদেরকে ডুবিয়ে দেয়া হয়েছে, পরে তাদেরকে দাখিল করা হয়েছে আগুনে, অত:পর তারা আল্লাহকে ছাড়া কাউকে সাহায্যকারী পায়নি।"
+                }
+            ]
+        },
+        {
+            "id": 5445,
+            "verse_number": 26,
+            "verse_key": "71:26",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 507,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَقَالَ نُوحٌ رَّبِّ لَا تَذَرْ عَلَى ٱلْأَرْضِ مِنَ ٱلْكَـٰفِرِينَ دَيَّارًا",
+            "page_number": 571,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101313,
+                    "resource_id": 20,
+                    "text": "And Noah said, \"My Lord, do not leave upon the earth from among the disbelievers an inhabitant."
+                },
+                {
+                    "id": 219161,
+                    "resource_id": 39,
+                    "text": "Dan Nabi Nuh (merayu lagi dengan) berkata: \"Wahai Tuhanku! Janganlah Engkau biarkan seorangpun dari orang-orang kafir itu hidup di atas muka bumi!"
+                },
+                {
+                    "id": 1096422,
+                    "resource_id": 161,
+                    "text": "নূহ বলল, ‘হে আমার রব্ব! ভূপৃষ্ঠে বসবাসকারী কাফিরদের একজনকেও তুমি রেহাই দিও না।"
+                }
+            ]
+        },
+        {
+            "id": 5446,
+            "verse_number": 27,
+            "verse_key": "71:27",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 507,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّكَ إِن تَذَرْهُمْ يُضِلُّوا۟ عِبَادَكَ وَلَا يَلِدُوٓا۟ إِلَّا فَاجِرًا كَفَّارًا",
+            "page_number": 571,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101316,
+                    "resource_id": 20,
+                    "text": "Indeed, if You leave them, they will mislead Your servants and not beget except [every] wicked one and [confirmed] disbeliever."
+                },
+                {
+                    "id": 219163,
+                    "resource_id": 39,
+                    "text": "\"Kerana sesungguhnya jika Engkau biarkan mereka (hidup), nescaya mereka akan menyesatkan hamba-hambaMu, dan mereka tidak akan melahirkan anak melainkan yang berbuat dosa lagi kufur ingkar."
+                },
+                {
+                    "id": 1096423,
+                    "resource_id": 161,
+                    "text": "তুমি যদি তাদেরকে রেহাই দাও, তাহলে তারা তোমার বান্দাহদেরকে গুমরাহ করে দেবে আর কেবল পাপাচারী কাফির জন্ম দিতে থাকবে।"
+                }
+            ]
+        },
+        {
+            "id": 5447,
+            "verse_number": 28,
+            "verse_key": "71:28",
+            "hizb_number": 57,
+            "rub_el_hizb_number": 228,
+            "ruku_number": 507,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "رَّبِّ ٱغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِمَن دَخَلَ بَيْتِىَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ وَلَا تَزِدِ ٱلظَّـٰلِمِينَ إِلَّا تَبَارًۢا",
+            "page_number": 571,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101318,
+                    "resource_id": 20,
+                    "text": "My Lord, forgive me and my parents and whoever enters my house a believer and the believing men and believing women. And do not increase the wrongdoers except in destruction.\""
+                },
+                {
+                    "id": 219165,
+                    "resource_id": 39,
+                    "text": "\"Wahai Tuhanku! Ampunkanlah bagiku, dan bagi kedua ibu bapaku, serta bagi sesiapa yang masuk ke rumahku dengan keadaan beriman; dan (ampunkanlah) bagi sekalian orang-orang yang beriman, lelaki dan perempuan (dalam segala zaman); dan janganlah Engkau tambahi orang-orang yang zalim melainkan kebinasaan!\""
+                },
+                {
+                    "id": 1096424,
+                    "resource_id": 161,
+                    "text": "হে আমার রব্ব! তুমি ক্ষমা কর আমাকে, আমার পিতামাতাকে যারা আমার গৃহে মু’মিন হয়ে প্রবেশ করে তাদেরকে আর মু’মিন পুরুষ ও মু’মিন নারীদেরকে; আর যালিমদের জন্য ধ্বংস ছাড়া আর কিছুই বৃদ্ধি করো না।’"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 18,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 18
+    }
+}

@@ -1,0 +1,641 @@
+{
+    "verses": [
+        {
+            "id": 3139,
+            "verse_number": 207,
+            "verse_key": "26:207",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 150,
+            "ruku_number": 326,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "مَآ أَغْنَىٰ عَنْهُم مَّا كَانُوا۟ يُمَتَّعُونَ",
+            "page_number": 376,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98204,
+                    "resource_id": 20,
+                    "text": "They would not be availed by the enjoyment with which they were provided."
+                },
+                {
+                    "id": 216061,
+                    "resource_id": 39,
+                    "text": "(Tentulah) kesenangan yang mereka nikmati bertahun-tahun itu tidak dapat memberikan mereka sebarang pertolongan."
+                },
+                {
+                    "id": 1094116,
+                    "resource_id": 161,
+                    "text": "তখন তাদের বিলাসের সামগ্রী তাদের কোন উপকারে আসবে না।"
+                }
+            ]
+        },
+        {
+            "id": 3140,
+            "verse_number": 208,
+            "verse_key": "26:208",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 150,
+            "ruku_number": 326,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَآ أَهْلَكْنَا مِن قَرْيَةٍ إِلَّا لَهَا مُنذِرُونَ",
+            "page_number": 376,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98205,
+                    "resource_id": 20,
+                    "text": "And We did not destroy any city except that it had warners"
+                },
+                {
+                    "id": 216063,
+                    "resource_id": 39,
+                    "text": "Dan tiadalah Kami membinasakan mana-mana negeri (yang telah dibinasakan itu), melainkan setelah diutus kepadanya lebih dahulu, Rasul-rasul pemberi amaran."
+                },
+                {
+                    "id": 1094117,
+                    "resource_id": 161,
+                    "text": "আমি এমন কোন জনপদ ধ্বংস করিনি যার জন্য কোন ভয় প্রদর্শনকারী ছিল না"
+                }
+            ]
+        },
+        {
+            "id": 3141,
+            "verse_number": 209,
+            "verse_key": "26:209",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 150,
+            "ruku_number": 326,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "ذِكْرَىٰ وَمَا كُنَّا ظَـٰلِمِينَ",
+            "page_number": 376,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98206,
+                    "resource_id": 20,
+                    "text": "As a reminder; and never have We been unjust."
+                },
+                {
+                    "id": 216064,
+                    "resource_id": 39,
+                    "text": "Memperingatkan mereka; dan Kami tidak sekali-kali berlaku zalim."
+                },
+                {
+                    "id": 1094118,
+                    "resource_id": 161,
+                    "text": "স্মরণ করানোর জন্য। আমি কখনো অন্যায়কারী নই।"
+                }
+            ]
+        },
+        {
+            "id": 3142,
+            "verse_number": 210,
+            "verse_key": "26:210",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 150,
+            "ruku_number": 326,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا تَنَزَّلَتْ بِهِ ٱلشَّيَـٰطِينُ",
+            "page_number": 376,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98208,
+                    "resource_id": 20,
+                    "text": "And the devils have not brought it [i.e., the revelation] down.<sup foot_note=196966>1</sup>"
+                },
+                {
+                    "id": 216066,
+                    "resource_id": 39,
+                    "text": "Dan Al-Quran itu pula tidak sekali-kali dibawa turun oleh Syaitan-syaitan."
+                },
+                {
+                    "id": 1094119,
+                    "resource_id": 161,
+                    "text": "শয়ত্বানরা তা (অর্থাৎ কুরআন) নিয়ে অবতরণ করেনি।"
+                }
+            ]
+        },
+        {
+            "id": 3143,
+            "verse_number": 211,
+            "verse_key": "26:211",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 150,
+            "ruku_number": 326,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا يَنۢبَغِى لَهُمْ وَمَا يَسْتَطِيعُونَ",
+            "page_number": 376,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98209,
+                    "resource_id": 20,
+                    "text": "It is not allowable for them, nor would they be able."
+                },
+                {
+                    "id": 214747,
+                    "resource_id": 39,
+                    "text": "Dan tidak layak bagi Syaitan-syaitan itu berbuat demikian, dan mereka juga tidak akan dapat melakukannya."
+                },
+                {
+                    "id": 1094120,
+                    "resource_id": 161,
+                    "text": "তারা এ কাজের যোগ্য নয় আর তারা এর সামর্থ্যও রাখে না।"
+                }
+            ]
+        },
+        {
+            "id": 3144,
+            "verse_number": 212,
+            "verse_key": "26:212",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 150,
+            "ruku_number": 326,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّهُمْ عَنِ ٱلسَّمْعِ لَمَعْزُولُونَ",
+            "page_number": 376,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98210,
+                    "resource_id": 20,
+                    "text": "Indeed they, from [its] hearing, are removed.<sup foot_note=196967>1</sup>"
+                },
+                {
+                    "id": 216068,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya mereka dihalang sama sekali daripada mendengar wahyu yang dibawa oleh Malaikat."
+                },
+                {
+                    "id": 1094121,
+                    "resource_id": 161,
+                    "text": "তাদেরকে এটা শোনা থেকে অবশ্যই দূরে রাখা হয়েছে।"
+                }
+            ]
+        },
+        {
+            "id": 3145,
+            "verse_number": 213,
+            "verse_key": "26:213",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 150,
+            "ruku_number": 326,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "فَلَا تَدْعُ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ فَتَكُونَ مِنَ ٱلْمُعَذَّبِينَ",
+            "page_number": 376,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98211,
+                    "resource_id": 20,
+                    "text": "So do not invoke<sup foot_note=196968>1</sup> with Allāh another deity and [thus] be among the punished."
+                },
+                {
+                    "id": 216067,
+                    "resource_id": 39,
+                    "text": "Maka janganlah engkau (wahai Muhammad) menyembah tuhan yang lain bersama-sama Allah, akibatnya engkau akan menjadi dari golongan yang dikenakan azab seksa."
+                },
+                {
+                    "id": 1094122,
+                    "resource_id": 161,
+                    "text": "কাজেই তুমি অন্য কোন ইলাহ্কে আল্লাহর সঙ্গে ডেক না। ডাকলে তুমি শাস্তিপ্রাপ্তদের অন্তর্ভুক্ত হয়ে যাবে।"
+                }
+            ]
+        },
+        {
+            "id": 3146,
+            "verse_number": 214,
+            "verse_key": "26:214",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 150,
+            "ruku_number": 326,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَنذِرْ عَشِيرَتَكَ ٱلْأَقْرَبِينَ",
+            "page_number": 376,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98212,
+                    "resource_id": 20,
+                    "text": "And warn, [O Muḥammad], your closest kindred."
+                },
+                {
+                    "id": 216071,
+                    "resource_id": 39,
+                    "text": "Dan berilah peringatan serta amaran kepada kaum kerabatmu yang dekat."
+                },
+                {
+                    "id": 1094123,
+                    "resource_id": 161,
+                    "text": "আর তুমি সতর্ক কর তোমার নিকটাত্মীয় স্বজনদের"
+                }
+            ]
+        },
+        {
+            "id": 3147,
+            "verse_number": 215,
+            "verse_key": "26:215",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 150,
+            "ruku_number": 326,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱخْفِضْ جَنَاحَكَ لِمَنِ ٱتَّبَعَكَ مِنَ ٱلْمُؤْمِنِينَ",
+            "page_number": 376,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98213,
+                    "resource_id": 20,
+                    "text": "And lower your wing [i.e., show kindness] to those who follow you of the believers."
+                },
+                {
+                    "id": 216069,
+                    "resource_id": 39,
+                    "text": "Dan hendaklah engkau merendah diri kepada pengikut-pengikutmu dari orang-orang yang beriman."
+                },
+                {
+                    "id": 1094124,
+                    "resource_id": 161,
+                    "text": "যে সকল বিশ্বাসীরা তোমার আনুগত্য করে তাদের জন্য তুমি তোমার অনুকম্পার বাহু প্রসারিত কর।"
+                }
+            ]
+        },
+        {
+            "id": 3148,
+            "verse_number": 216,
+            "verse_key": "26:216",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 150,
+            "ruku_number": 326,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "فَإِنْ عَصَوْكَ فَقُلْ إِنِّى بَرِىٓءٌ مِّمَّا تَعْمَلُونَ",
+            "page_number": 376,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98214,
+                    "resource_id": 20,
+                    "text": "And if they disobey you, then say, \"Indeed, I am disassociated from what you are doing.\""
+                },
+                {
+                    "id": 216070,
+                    "resource_id": 39,
+                    "text": "Kemudian jika mereka berlaku ingkar kepadamu, maka katakanlah: \"Sesungguhnya aku berlepas diri dari apa yang kamu lakukan!\""
+                },
+                {
+                    "id": 1094125,
+                    "resource_id": 161,
+                    "text": "তারা যদি তোমার অবাধ্যতা করে তাহলে তুমি বলে দাও- তোমরা যা কর তার সঙ্গে আমি সম্পর্কহীন।"
+                }
+            ]
+        },
+        {
+            "id": 3149,
+            "verse_number": 217,
+            "verse_key": "26:217",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 150,
+            "ruku_number": 326,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَتَوَكَّلْ عَلَى ٱلْعَزِيزِ ٱلرَّحِيمِ",
+            "page_number": 376,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98215,
+                    "resource_id": 20,
+                    "text": "And rely upon the Exalted in Might, the Merciful,"
+                },
+                {
+                    "id": 216075,
+                    "resource_id": 39,
+                    "text": "Dan berserahlah kepada Allah Yang Maha Kuasa, lagi Maha Mengasihani,"
+                },
+                {
+                    "id": 1094126,
+                    "resource_id": 161,
+                    "text": "আর তুমি প্রবল পরাক্রান্ত পরম দয়ালুর উপর নির্ভর কর;"
+                }
+            ]
+        },
+        {
+            "id": 3150,
+            "verse_number": 218,
+            "verse_key": "26:218",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 150,
+            "ruku_number": 326,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِى يَرَىٰكَ حِينَ تَقُومُ",
+            "page_number": 376,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98216,
+                    "resource_id": 20,
+                    "text": "Who sees you when you arise<sup foot_note=196969>1</sup>"
+                },
+                {
+                    "id": 216072,
+                    "resource_id": 39,
+                    "text": "Yang melihatmu semasa engkau berdiri (mengerjakan sembahyang),"
+                },
+                {
+                    "id": 1094127,
+                    "resource_id": 161,
+                    "text": "যিনি তোমাকে দেখেন যখন তুমি (নামাযের জন্য) দন্ডায়মান হও।"
+                }
+            ]
+        },
+        {
+            "id": 3151,
+            "verse_number": 219,
+            "verse_key": "26:219",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 150,
+            "ruku_number": 326,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَتَقَلُّبَكَ فِى ٱلسَّـٰجِدِينَ",
+            "page_number": 376,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98217,
+                    "resource_id": 20,
+                    "text": "And your movement among those who prostrate.<sup foot_note=196970>1</sup>"
+                },
+                {
+                    "id": 216073,
+                    "resource_id": 39,
+                    "text": "Dan (melihat) gerak-gerimu di antara orang-orang yang sujud."
+                },
+                {
+                    "id": 1094128,
+                    "resource_id": 161,
+                    "text": "আর (তিনি দেখেন) সাজদাকারীদের সঙ্গে তোমার চলাফিরা।"
+                }
+            ]
+        },
+        {
+            "id": 3152,
+            "verse_number": 220,
+            "verse_key": "26:220",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 150,
+            "ruku_number": 326,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+            "page_number": 376,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98219,
+                    "resource_id": 20,
+                    "text": "Indeed, He is the Hearing, the Knowing."
+                },
+                {
+                    "id": 216079,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Dia lah jua yang Maha Mendengar, lagi Maha Mengetahui."
+                },
+                {
+                    "id": 1094129,
+                    "resource_id": 161,
+                    "text": "তিনি সব কিছু শোনেন, সব কিছু জানেন।"
+                }
+            ]
+        },
+        {
+            "id": 3153,
+            "verse_number": 221,
+            "verse_key": "26:221",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 150,
+            "ruku_number": 326,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "هَلْ أُنَبِّئُكُمْ عَلَىٰ مَن تَنَزَّلُ ٱلشَّيَـٰطِينُ",
+            "page_number": 376,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98220,
+                    "resource_id": 20,
+                    "text": "Shall I inform you upon whom the devils descend?"
+                },
+                {
+                    "id": 216076,
+                    "resource_id": 39,
+                    "text": "Mahukah, Aku khabarkan kepada kamu, kepada siapakah Syaitan-syaitan itu selalu turun?"
+                },
+                {
+                    "id": 1094130,
+                    "resource_id": 161,
+                    "text": "আমি কি তোমাদেরকে জানাব কাদের নিকট শয়ত্বানরা অবতীর্ণ হয়।"
+                }
+            ]
+        },
+        {
+            "id": 3154,
+            "verse_number": 222,
+            "verse_key": "26:222",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 150,
+            "ruku_number": 326,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "تَنَزَّلُ عَلَىٰ كُلِّ أَفَّاكٍ أَثِيمٍ",
+            "page_number": 376,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98221,
+                    "resource_id": 20,
+                    "text": "They descend upon every sinful liar."
+                },
+                {
+                    "id": 216077,
+                    "resource_id": 39,
+                    "text": "Mereka selalu turun kepada tiap-tiap pendusta yang berdosa,"
+                },
+                {
+                    "id": 1094131,
+                    "resource_id": 161,
+                    "text": "তারা অবতীর্ণ হয় প্রত্যেকটি চরম মিথ্যুক ও পাপীর নিকট।"
+                }
+            ]
+        },
+        {
+            "id": 3155,
+            "verse_number": 223,
+            "verse_key": "26:223",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 150,
+            "ruku_number": 326,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "يُلْقُونَ ٱلسَّمْعَ وَأَكْثَرُهُمْ كَـٰذِبُونَ",
+            "page_number": 376,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98222,
+                    "resource_id": 20,
+                    "text": "They pass on what is heard,<sup foot_note=196971>1</sup> and most of them are liars."
+                },
+                {
+                    "id": 216078,
+                    "resource_id": 39,
+                    "text": "Yang mendengar bersungguh-sungguh (apa yang disampaikan oleh Syaitan-syaitan itu), sedang kebanyakan beritanya adalah dusta."
+                },
+                {
+                    "id": 1094132,
+                    "resource_id": 161,
+                    "text": "ওরা কান পেতে থাকে আর তাদের অধিকাংশই মিথ্যাবাদী।"
+                }
+            ]
+        },
+        {
+            "id": 3156,
+            "verse_number": 224,
+            "verse_key": "26:224",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 150,
+            "ruku_number": 326,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلشُّعَرَآءُ يَتَّبِعُهُمُ ٱلْغَاوُۥنَ",
+            "page_number": 376,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98223,
+                    "resource_id": 20,
+                    "text": "And the poets - [only] the deviators follow them;"
+                },
+                {
+                    "id": 216081,
+                    "resource_id": 39,
+                    "text": "Dan Ahli-ahli syair itu, diturut oleh golongan yang sesat - tidak berketentuan hala."
+                },
+                {
+                    "id": 1094133,
+                    "resource_id": 161,
+                    "text": "বিভ্রান্তরাই কবিদের অনুসরণ করে,"
+                }
+            ]
+        },
+        {
+            "id": 3157,
+            "verse_number": 225,
+            "verse_key": "26:225",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 150,
+            "ruku_number": 326,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "أَلَمْ تَرَ أَنَّهُمْ فِى كُلِّ وَادٍ يَهِيمُونَ",
+            "page_number": 376,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98224,
+                    "resource_id": 20,
+                    "text": "Do you not see that in every valley they roam<sup foot_note=196972>1</sup>"
+                },
+                {
+                    "id": 216080,
+                    "resource_id": 39,
+                    "text": "Tidakkah engkau melihat bahawa mereka merayau-rayau dengan tidak berketentuan hala dalam tiap-tiap lembah (khayal dan angan-angan kosong)?"
+                },
+                {
+                    "id": 1094134,
+                    "resource_id": 161,
+                    "text": "তুমি কি দেখ না যে, তারা প্রতি ময়দানেই উদভ্রান্ত হয়ে ফিরে?"
+                }
+            ]
+        },
+        {
+            "id": 3158,
+            "verse_number": 226,
+            "verse_key": "26:226",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 150,
+            "ruku_number": 326,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَنَّهُمْ يَقُولُونَ مَا لَا يَفْعَلُونَ",
+            "page_number": 376,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98225,
+                    "resource_id": 20,
+                    "text": "And that they say what they do not do? -"
+                },
+                {
+                    "id": 216083,
+                    "resource_id": 39,
+                    "text": "Dan bahawa mereka memperkatakan apa yang mereka tidak melakukannya?"
+                },
+                {
+                    "id": 1094135,
+                    "resource_id": 161,
+                    "text": "আর তারা যা বলে তা তারা নিজেরা করে না।"
+                }
+            ]
+        },
+        {
+            "id": 3159,
+            "verse_number": 227,
+            "verse_key": "26:227",
+            "hizb_number": 38,
+            "rub_el_hizb_number": 150,
+            "ruku_number": 326,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَذَكَرُوا۟ ٱللَّهَ كَثِيرًا وَٱنتَصَرُوا۟ مِنۢ بَعْدِ مَا ظُلِمُوا۟ ۗ وَسَيَعْلَمُ ٱلَّذِينَ ظَلَمُوٓا۟ أَىَّ مُنقَلَبٍ يَنقَلِبُونَ",
+            "page_number": 376,
+            "juz_number": 19,
+            "translations": [
+                {
+                    "id": 98226,
+                    "resource_id": 20,
+                    "text": "Except those [poets] who believe and do righteous deeds and remember Allāh often and defend [the Muslims]<sup foot_note=196973>1</sup> after they were wronged. And those who have wronged are going to know to what [kind of] return they will be returned."
+                },
+                {
+                    "id": 216082,
+                    "resource_id": 39,
+                    "text": "Kecuali orang-orang yang beriman dan beramal soleh (dari kalangan penyair-penyair itu), dan mereka pula mengingati Allah banyak-banyak, serta mereka membela diri sesudah mereka dianiaya. Dan (ingatlah), orang-orang yang melakukan sebarang kezaliman, akan mengetahui kelak, ke tempat mana, mereka akan kembali."
+                },
+                {
+                    "id": 1094136,
+                    "resource_id": 161,
+                    "text": "কিন্তু ওরা ব্যতীত যারা ঈমান আনে ও সৎকাজ করে আর আল্লাহকে খুব বেশি স্মরণ করে আর নির্যাতিত হওয়ার পর নিজেদের প্রতিরক্ষার ব্যবস্থা করে। যালিমরা শীঘ্রই জানতে পারবে কোন্ (মহা সংকটময়) জায়গায় তারা ফিরে যাচ্ছে।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 21,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 21
+    }
+}

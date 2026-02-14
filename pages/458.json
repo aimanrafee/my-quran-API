@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 4054,
+            "verse_number": 84,
+            "verse_key": "38:84",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 183,
+            "ruku_number": 397,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ فَٱلْحَقُّ وَٱلْحَقَّ أَقُولُ",
+            "page_number": 458,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 98948,
+                    "resource_id": 20,
+                    "text": "[Allāh] said, \"The truth [is My oath], and the truth I say -"
+                },
+                {
+                    "id": 217275,
+                    "resource_id": 39,
+                    "text": "Allah berfirman: \" Maka Akulah Tuhan Yang Sebenar-benarnya, dan hanya perkara yang benar Aku firmankan -"
+                },
+                {
+                    "id": 1095031,
+                    "resource_id": 161,
+                    "text": "তিনি বললেন- এটাই সত্য, আমি সত্যই বলি যে,"
+                }
+            ]
+        },
+        {
+            "id": 4055,
+            "verse_number": 85,
+            "verse_key": "38:85",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 183,
+            "ruku_number": 397,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "لَأَمْلَأَنَّ جَهَنَّمَ مِنكَ وَمِمَّن تَبِعَكَ مِنْهُمْ أَجْمَعِينَ",
+            "page_number": 458,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99432,
+                    "resource_id": 20,
+                    "text": "[That] I will surely fill Hell with you and those of them that follow you all together.\""
+                },
+                {
+                    "id": 217276,
+                    "resource_id": 39,
+                    "text": "\" Demi sesungguhnya! Aku akan memenuhi neraka Jahannam dengan jenismu dan dengan orang-orang yang menurutmu di antara zuriat-zuriat Adam (yang derhaka) semuanya \"."
+                },
+                {
+                    "id": 1095032,
+                    "resource_id": 161,
+                    "text": "আমি তোমাকে আর তাদের (অর্থাৎ মানুষদের) মধ্যে যারা তোমাকে অনুসরণ করবে তাদের সব্বাইকে দিয়ে অবশ্যই জাহান্নাম পূর্ণ করব।"
+                }
+            ]
+        },
+        {
+            "id": 4056,
+            "verse_number": 86,
+            "verse_key": "38:86",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 183,
+            "ruku_number": 397,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "قُلْ مَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ وَمَآ أَنَا۠ مِنَ ٱلْمُتَكَلِّفِينَ",
+            "page_number": 458,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99433,
+                    "resource_id": 20,
+                    "text": "Say, [O Muḥammad], \"I do not ask you for it [i.e., the Qur’ān] any payment, and I am not of the pretentious."
+                },
+                {
+                    "id": 217277,
+                    "resource_id": 39,
+                    "text": "Katakanlah (wahai Muhammad): \" Aku tidak meminta kepada kamu sebarang bayaran kerana menyampaikan ajaran Al-Quran ini, dan bukanlah aku dari orang-orang yang mengada-ngada \"."
+                },
+                {
+                    "id": 1095033,
+                    "resource_id": 161,
+                    "text": "বল- আমি এর (অর্থাৎ সত্য-সঠিক পথের দিকে ডাকার) জন্য তোমাদের কাছে পারিশ্রমিক চাই না, আর আমি কোন ধোঁকাবাজ নই।"
+                }
+            ]
+        },
+        {
+            "id": 4057,
+            "verse_number": 87,
+            "verse_key": "38:87",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 183,
+            "ruku_number": 397,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَـٰلَمِينَ",
+            "page_number": 458,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99434,
+                    "resource_id": 20,
+                    "text": "It is but a reminder to the worlds."
+                },
+                {
+                    "id": 217284,
+                    "resource_id": 39,
+                    "text": "Al-Quran tidak lain hanyalah peringatan bagi penduduk seluruh alam."
+                },
+                {
+                    "id": 1095034,
+                    "resource_id": 161,
+                    "text": "এটা তো বিশ্বজগতের জন্য কেবল উপদেশ বাণী।"
+                }
+            ]
+        },
+        {
+            "id": 4058,
+            "verse_number": 88,
+            "verse_key": "38:88",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 183,
+            "ruku_number": 397,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَتَعْلَمُنَّ نَبَأَهُۥ بَعْدَ حِينٍۭ",
+            "page_number": 458,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99435,
+                    "resource_id": 20,
+                    "text": "And you will surely know [the truth of] its information after a time.\""
+                },
+                {
+                    "id": 217278,
+                    "resource_id": 39,
+                    "text": "Dan demi sesungguhnya, kamu akan mengetahui kabenaran perkara-perkara yang diterangkannya, tidak lama lagi."
+                },
+                {
+                    "id": 1095035,
+                    "resource_id": 161,
+                    "text": "কিছুকাল পরেই এর সংবাদ তোমরা অবশ্য অবশ্যই জানতে পারবে।"
+                }
+            ]
+        },
+        {
+            "id": 4059,
+            "verse_number": 1,
+            "verse_key": "39:1",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 183,
+            "ruku_number": 398,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": " تَنزِيلُ ٱلْكِتَـٰبِ مِنَ ٱللَّهِ ٱلْعَزِيزِ ٱلْحَكِيمِ",
+            "page_number": 458,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99441,
+                    "resource_id": 20,
+                    "text": "The revelation of the Book [i.e., the Qur’ān] is from Allāh, the Exalted in Might, the Wise."
+                },
+                {
+                    "id": 217286,
+                    "resource_id": 39,
+                    "text": "Turunnya Kitab Al-Quran ini dari Allah, Yang Maha Kuasa, lagi Maha Bijaksana."
+                },
+                {
+                    "id": 1095036,
+                    "resource_id": 161,
+                    "text": "এ কিতাব নাযিল হয়েছে মহাপরাক্রমশালী মহাবিজ্ঞানী আল্লাহর নিকট হতে।"
+                }
+            ]
+        },
+        {
+            "id": 4060,
+            "verse_number": 2,
+            "verse_key": "39:2",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 183,
+            "ruku_number": 398,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّآ أَنزَلْنَآ إِلَيْكَ ٱلْكِتَـٰبَ بِٱلْحَقِّ فَٱعْبُدِ ٱللَّهَ مُخْلِصًا لَّهُ ٱلدِّينَ",
+            "page_number": 458,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99453,
+                    "resource_id": 20,
+                    "text": "Indeed, We have sent down to you the Book, [O Muḥammad], in truth. So worship Allāh, [being] sincere to Him in religion."
+                },
+                {
+                    "id": 217298,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Kami menurunkan Al-Quran ini kepadamu (wahai Muhammad) dengan membawa kebenaran; oleh itu hendaklah engkau menyembah Allah dengan mengikhlaskan segala ibadat dan bawaanmu kepadaNya."
+                },
+                {
+                    "id": 1095037,
+                    "resource_id": 161,
+                    "text": "আমি তোমার প্রতি এ কিতাব অবতীর্ণ করেছি সত্যতা সহকারে, (এতে নেই কোন প্রকার মিথ্যে) কাজেই আল্লাহর ‘ইবাদাত কর দ্বীনকে (অর্থাৎ আনুগত্য, হুকুম পালন, দাসত্ব ও গোলামীকে) একমাত্র তাঁরই জন্য নির্দিষ্ট করে।"
+                }
+            ]
+        },
+        {
+            "id": 4061,
+            "verse_number": 3,
+            "verse_key": "39:3",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 183,
+            "ruku_number": 398,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "أَلَا لِلَّهِ ٱلدِّينُ ٱلْخَالِصُ ۚ وَٱلَّذِينَ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ مَا نَعْبُدُهُمْ إِلَّا لِيُقَرِّبُونَآ إِلَى ٱللَّهِ زُلْفَىٰٓ إِنَّ ٱللَّهَ يَحْكُمُ بَيْنَهُمْ فِى مَا هُمْ فِيهِ يَخْتَلِفُونَ ۗ إِنَّ ٱللَّهَ لَا يَهْدِى مَنْ هُوَ كَـٰذِبٌ كَفَّارٌ",
+            "page_number": 458,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99465,
+                    "resource_id": 20,
+                    "text": "Unquestionably, for Allāh is the pure religion.<sup foot_note=197230>1</sup> And those who take protectors besides Him [say], \"We only worship them that they may bring us nearer to Allāh in position.\" Indeed, Allāh will judge between them concerning that over which they differ. Indeed, Allāh does not guide he who is a liar and [confirmed] disbeliever."
+                },
+                {
+                    "id": 217309,
+                    "resource_id": 39,
+                    "text": "Ingatlah! (Hak yang wajib dipersembahkan) kepada Allah ialah segala ibadat dan bawaan yang suci bersih (dari segala rupa syirik). Dan orang-orang musyrik yang mengambil selain dari Allah untuk menjadi pelindung dan penolong (sambil berkata): \"Kami tidak menyembah atau memujanya melainkan supaya mereka mendampingkan kami kepada Allah sehampir-hampirnya\", - sesungguhnya Allah akan menghukum di antara mereka (dengan orang-orang yang tidak melakukan syirik) tentang apa yang mereka berselisihan padanya. Sesungguhnya Allah tidak memberi hidayah petunjuk kepada orang-orang yang tetap berdusta (mengatakan yang bukan-bukan), lagi sentiasa kufur (dengan melakukan syirik)."
+                },
+                {
+                    "id": 1095038,
+                    "resource_id": 161,
+                    "text": "জেনে রেখ, খালেস দ্বীন কেবল আল্লাহরই জন্য। যারা তাঁকে বাদ দিয়ে অন্যদেরকে অভিভাবক বানিয়ে নিয়েছে তারা বলে- আমরা তাদের ‘ইবাদাত একমাত্র এ উদ্দেশ্যেই করি যে, তারা আমাদেরকে আল্লাহর নৈকট্যে পৌঁছে দেবে। (সত্য পথ থেকে সরে গিয়ে মিথ্যে পথ ও মতের জন্ম দিয়ে) তারা যে মতভেদ করছে, আল্লাহ তার চূড়ান্ত ফয়সালা করে দেবেন। যে মিথ্যেবাদী ও কাফির আল্লাহ তাকে সঠিক পথ দেখান না।"
+                }
+            ]
+        },
+        {
+            "id": 4062,
+            "verse_number": 4,
+            "verse_key": "39:4",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 183,
+            "ruku_number": 398,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "لَّوْ أَرَادَ ٱللَّهُ أَن يَتَّخِذَ وَلَدًا لَّٱصْطَفَىٰ مِمَّا يَخْلُقُ مَا يَشَآءُ ۚ سُبْحَـٰنَهُۥ ۖ هُوَ ٱللَّهُ ٱلْوَٰحِدُ ٱلْقَهَّارُ",
+            "page_number": 458,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99479,
+                    "resource_id": 20,
+                    "text": "If Allāh had intended to take a son, He could have chosen from what He creates whatever He willed. Exalted is He; He is Allāh, the One, the Prevailing.<sup foot_note=197231>1</sup>"
+                },
+                {
+                    "id": 217321,
+                    "resource_id": 39,
+                    "text": "Kalaulah Allah hendak mempunyai anak, tentulah Ia memilih mana-mana yang dikehendakiNya dari makhluk-makhluk yang diciptakanNya; Maha Sucilah Ia (dari menghendaki yang demikian). Dia lah Allah, Yang Maha Esa, lagi Yang Mengatasi kekuasaanNya segala-galanya."
+                },
+                {
+                    "id": 1095039,
+                    "resource_id": 161,
+                    "text": "আল্লাহ সন্তান গ্রহণ করার ইচ্ছে করলে তিনি তার সৃষ্টিকুল থেকে নিজ পছন্দ মত বেছে নিতেন। এসব থেকে তিনি পবিত্র। অপ্রতিরোধ্য ক্ষমতার অধিকারী তিনি এক ও একক আল্লাহ।"
+                }
+            ]
+        },
+        {
+            "id": 4063,
+            "verse_number": 5,
+            "verse_key": "39:5",
+            "hizb_number": 46,
+            "rub_el_hizb_number": 183,
+            "ruku_number": 398,
+            "manzil_number": 6,
+            "sajdah_number": null,
+            "text_uthmani": "خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ ۖ يُكَوِّرُ ٱلَّيْلَ عَلَى ٱلنَّهَارِ وَيُكَوِّرُ ٱلنَّهَارَ عَلَى ٱلَّيْلِ ۖ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ ۖ كُلٌّ يَجْرِى لِأَجَلٍ مُّسَمًّى ۗ أَلَا هُوَ ٱلْعَزِيزُ ٱلْغَفَّـٰرُ",
+            "page_number": 458,
+            "juz_number": 23,
+            "translations": [
+                {
+                    "id": 99491,
+                    "resource_id": 20,
+                    "text": "He created the heavens and earth in truth. He wraps the night over the day and wraps the day over the night and has subjected the sun and the moon, each running [its course] for a specified term. Unquestionably, He is the Exalted in Might, the Perpetual Forgiver.<sup foot_note=197232>1</sup>"
+                },
+                {
+                    "id": 217335,
+                    "resource_id": 39,
+                    "text": "Ia menciptakan langit dan bumi dengan ada faedah dan gunanya yang sebenar; Ia pula menjadikan malam melingkari siang (dengan gelapnya), dan menjadikan siang melingkari malam (dengan cahayanya); dan Ia menjadikan matahari dan bulan beredar menurut perintahnya, - tiap-tiap satu dari keduanya, beredar untuk suatu masa yang telah ditetapkan. Ingatlah! Dia lah Yang Maha Kuasa, lagi Yang sentiasa Mengampuni."
+                },
+                {
+                    "id": 1095040,
+                    "resource_id": 161,
+                    "text": "তিনি আকাশ ও পৃথিবী সৃষ্টি করেছেন যথাযথভাবে। রাত দিনকে ঢেকে নেয়, আর দিন ঢেকে নেয় রাতকে। তিনিই নিয়ন্ত্রণ করেন সুরুজ আর চাঁদকে, প্রত্যেকেই চলছে নির্দিষ্ট সময় অনুসারে। জেনে রেখ, তিনি মহাপরাক্রমশালী, পরম ক্ষমাশীল (মহাশক্তিধর হওয়া সত্ত্বেও বার বার ক্ষমা করেন)।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 10
+    }
+}

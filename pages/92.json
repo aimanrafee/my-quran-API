@@ -1,0 +1,161 @@
+{
+    "verses": [
+        {
+            "id": 580,
+            "verse_number": 87,
+            "verse_key": "4:87",
+            "hizb_number": 9,
+            "rub_el_hizb_number": 36,
+            "ruku_number": 72,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۚ لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَا رَيْبَ فِيهِ ۗ وَمَنْ أَصْدَقُ مِنَ ٱللَّهِ حَدِيثًا",
+            "page_number": 92,
+            "juz_number": 5,
+            "translations": [
+                {
+                    "id": 100169,
+                    "resource_id": 20,
+                    "text": "Allāh - there is no deity except Him. He will surely assemble you for [account on] the Day of Resurrection, about which there is no doubt. And who is more truthful than Allāh in statement."
+                },
+                {
+                    "id": 218024,
+                    "resource_id": 39,
+                    "text": "Allah, tiada Tuhan (yang berhak disembah) melainkan Dia. Sesungguhnya Ia akan menghimpunkan kamu pada hari kiamat, (hari) yang tidak ada syak padanya. Dan siapakah pula yang lebih benar perkataannya daripada Allah?"
+                },
+                {
+                    "id": 1091557,
+                    "resource_id": 161,
+                    "text": "আল্লাহ, তিনি ছাড়া সত্যিকারের কোন ইলাহ নেই, তিনি ক্বিয়ামাত দিবসে সকলকে একত্র করবেনই, এতে কোনই সন্দেহ নেই, আল্লাহ অপেক্ষা আর কার কথা অধিক সত্য হতে পারে?"
+                }
+            ]
+        },
+        {
+            "id": 581,
+            "verse_number": 88,
+            "verse_key": "4:88",
+            "hizb_number": 10,
+            "rub_el_hizb_number": 37,
+            "ruku_number": 73,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "۞ فَمَا لَكُمْ فِى ٱلْمُنَـٰفِقِينَ فِئَتَيْنِ وَٱللَّهُ أَرْكَسَهُم بِمَا كَسَبُوٓا۟ ۚ أَتُرِيدُونَ أَن تَهْدُوا۟ مَنْ أَضَلَّ ٱللَّهُ ۖ وَمَن يُضْلِلِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ سَبِيلًا",
+            "page_number": 92,
+            "juz_number": 5,
+            "translations": [
+                {
+                    "id": 100171,
+                    "resource_id": 20,
+                    "text": "What is [the matter] with you [that you are] two groups concerning the hypocrites,<sup foot_note=196134>1</sup> while Allāh has made them fall back [into error and disbelief] for what they earned.<sup foot_note=196133>2</sup> Do you wish to guide those whom Allāh has sent astray? And he whom Allāh sends astray - never will you find for him a way [of guidance].<sup foot_note=196132>3</sup>"
+                },
+                {
+                    "id": 218026,
+                    "resource_id": 39,
+                    "text": "Maka apakah yang menyebabkan kamu (berpecah) menjadi dua golongan terhadap kaum munafik itu, padahal Allah telah menjerumuskan mereka (ke dalam kekufuran) disebabkan apa yang telah mereka usahakan? Adakah kamu pula hendak memberi pertunjuk kepada orang-orang yang telah disesatkan oleh Allah? Padahal sesiapa yang telah disesatkan oleh Allah, maka engkau tidak sekali-kali akan mendapat jalan untuk menyelamatkannya."
+                },
+                {
+                    "id": 1091558,
+                    "resource_id": 161,
+                    "text": "তোমাদের কী হল যে, মুনাফিকদের ব্যাপারে (কী নীতি অবলম্বন করা হবে সে বিষয়ে) তোমরা দু’ দলে বিভক্ত হয়ে গেলে? বস্তুতঃ আল্লাহ তাদের এ কার্যকলাপের কারণে তাদেরকে উল্টা মুখে ফিরিয়ে দিয়েছেন (ইসলাম থেকে আবার কুফরের দিকে)। আল্লাহ যাকে পথভ্রষ্ট করেছেন, তোমরা কি তাকে সুপথ দেখাতে চাও? বস্তুতঃ আল্লাহ যাকে পথভ্রষ্ট করেন, তার জন্য কক্ষনো পথ খুঁজে পাবে না।"
+                }
+            ]
+        },
+        {
+            "id": 582,
+            "verse_number": 89,
+            "verse_key": "4:89",
+            "hizb_number": 10,
+            "rub_el_hizb_number": 37,
+            "ruku_number": 73,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "وَدُّوا۟ لَوْ تَكْفُرُونَ كَمَا كَفَرُوا۟ فَتَكُونُونَ سَوَآءً ۖ فَلَا تَتَّخِذُوا۟ مِنْهُمْ أَوْلِيَآءَ حَتَّىٰ يُهَاجِرُوا۟ فِى سَبِيلِ ٱللَّهِ ۚ فَإِن تَوَلَّوْا۟ فَخُذُوهُمْ وَٱقْتُلُوهُمْ حَيْثُ وَجَدتُّمُوهُمْ ۖ وَلَا تَتَّخِذُوا۟ مِنْهُمْ وَلِيًّا وَلَا نَصِيرًا",
+            "page_number": 92,
+            "juz_number": 5,
+            "translations": [
+                {
+                    "id": 100173,
+                    "resource_id": 20,
+                    "text": "They wish you would disbelieve as they disbelieved so you would be alike. So do not take from among them allies until they emigrate for the cause of Allāh. But if they turn away [i.e., refuse], then seize them and kill them [for their betrayal] wherever you find them and take not from among them any ally or helper,"
+                },
+                {
+                    "id": 218013,
+                    "resource_id": 39,
+                    "text": ". Mereka suka kalau kamu pula menjadi kafir sebagaimana mereka telah menjadi kafir, maka (dengan yang demikian) menjadilah kamu sama seperti mereka. Oleh itu janganlah kamu mengambil (seorang pun) di antara mereka menjadi teman rapat kamu, sehingga mereka berhijrah pada jalan Allah (untuk menegakkan Islam). Kemudian kalau mereka sengaja berpaling ingkar, maka tawanlah mereka dan bunuhlah mereka di mana sahaja kamu menemuinya; dan jangan sekali-kali kamu mengambil (seorang pun) di antara mereka menjadi teman rapat atau penolong;"
+                },
+                {
+                    "id": 1091559,
+                    "resource_id": 161,
+                    "text": "তারা আকাঙ্ক্ষা করে যে, তারা নিজেরা যেমন কুফরী করেছে, তোমরাও তেমনি কুফরী কর, যাতে তোমরা তাদের সমান হয়ে যাও। কাজেই তাদের মধ্য হতে কাউকেও বন্ধুরূপে গ্রহণ করো না, যে পর্যন্ত তারা আল্লাহর পথে হিজরত না করে। যদি তারা মুখ ফিরিয়ে নেয়, তবে তাদেরকে গ্রেফতার কর এবং যেখানেই তাদেরকে পাও, হত্যা কর। তাদের মধ্য হতে কোন বন্ধু ও সাহায্যকারী গ্রহণ করো না।"
+                }
+            ]
+        },
+        {
+            "id": 583,
+            "verse_number": 90,
+            "verse_key": "4:90",
+            "hizb_number": 10,
+            "rub_el_hizb_number": 37,
+            "ruku_number": 73,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "إِلَّا ٱلَّذِينَ يَصِلُونَ إِلَىٰ قَوْمٍۭ بَيْنَكُمْ وَبَيْنَهُم مِّيثَـٰقٌ أَوْ جَآءُوكُمْ حَصِرَتْ صُدُورُهُمْ أَن يُقَـٰتِلُوكُمْ أَوْ يُقَـٰتِلُوا۟ قَوْمَهُمْ ۚ وَلَوْ شَآءَ ٱللَّهُ لَسَلَّطَهُمْ عَلَيْكُمْ فَلَقَـٰتَلُوكُمْ ۚ فَإِنِ ٱعْتَزَلُوكُمْ فَلَمْ يُقَـٰتِلُوكُمْ وَأَلْقَوْا۟ إِلَيْكُمُ ٱلسَّلَمَ فَمَا جَعَلَ ٱللَّهُ لَكُمْ عَلَيْهِمْ سَبِيلًا",
+            "page_number": 92,
+            "juz_number": 5,
+            "translations": [
+                {
+                    "id": 100176,
+                    "resource_id": 20,
+                    "text": "Except for those who take refuge with a people between yourselves and whom is a treaty or those who come to you, their hearts strained at [the prospect of] fighting you or fighting their own people. And if Allāh had willed, He could have given them power over you, and they would have fought you. So if they remove themselves from you and do not fight you and offer you peace, then Allāh has not made for you a cause [for fighting] against them."
+                },
+                {
+                    "id": 218039,
+                    "resource_id": 39,
+                    "text": "Kecuali orang-orang yang pergi (meminta perlindungan) kepada suatu kaum yang ada ikatan perjanjian setia antara kamu dengan mereka, atau orang-orang yang datang kepada kamu sedang hati mereka merasa berat hendak memerangi kamu atau memerangi kaumnya. Dan jika Allah menghendaki, nescaya Ia menjadikan mereka berkuasa melawan kamu, kemudian tentulah mereka memerangi kamu. Dalam pada itu, jika mereka membiarkan kamu (dengan tidak mengancam atau mengganggu), serta mereka tidak memerangi kamu dan mereka menawarkan perdamaian kepada kamu, maka Allah tidak menjadikan bagi kamu sesuatu jalan (yang membolehkan kamu memerangi atau menawan) mereka."
+                },
+                {
+                    "id": 1091560,
+                    "resource_id": 161,
+                    "text": "কিন্তু (সে সব মুনাফিক এ কথার মধ্যে শামিল নয়) যারা তোমাদের সাথে চুক্তিবদ্ধ কোন জাতির সঙ্গে গিয়ে মিলিত হয়। তেমনি (তারাও এর মধ্যে শামিল নয়) যারা তোমার কাছে আসে আর তারা ঝগড়া-বিবাদে উৎসাহী নয়, তারা না তোমাদের বিরুদ্ধে লড়াই করতে চায়, না নিজের জাতির বিরুদ্ধে। আল্লাহ যদি ইচ্ছে করতেন, তবে তাদেরকে তোমাদের উপর প্রবল করে দিতেন, সে অবস্থায় তারা নিশ্চয় তোমাদের বিরুদ্ধে যুদ্ধ করত। কাজেই তারা যদি তোমাদের হতে সরে থাকে, তোমাদের বিরুদ্ধে যুদ্ধ না করে ও তোমাদের নিকট শান্তি প্রস্তাব করে, তবে আল্লাহ তোমাদের জন্য তাদের বিরুদ্ধে কোনও ব্যবস্থা অবলম্বনের পথ রাখেননি।"
+                }
+            ]
+        },
+        {
+            "id": 584,
+            "verse_number": 91,
+            "verse_key": "4:91",
+            "hizb_number": 10,
+            "rub_el_hizb_number": 37,
+            "ruku_number": 73,
+            "manzil_number": 1,
+            "sajdah_number": null,
+            "text_uthmani": "سَتَجِدُونَ ءَاخَرِينَ يُرِيدُونَ أَن يَأْمَنُوكُمْ وَيَأْمَنُوا۟ قَوْمَهُمْ كُلَّ مَا رُدُّوٓا۟ إِلَى ٱلْفِتْنَةِ أُرْكِسُوا۟ فِيهَا ۚ فَإِن لَّمْ يَعْتَزِلُوكُمْ وَيُلْقُوٓا۟ إِلَيْكُمُ ٱلسَّلَمَ وَيَكُفُّوٓا۟ أَيْدِيَهُمْ فَخُذُوهُمْ وَٱقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ ۚ وَأُو۟لَـٰٓئِكُمْ جَعَلْنَا لَكُمْ عَلَيْهِمْ سُلْطَـٰنًا مُّبِينًا",
+            "page_number": 92,
+            "juz_number": 5,
+            "translations": [
+                {
+                    "id": 100177,
+                    "resource_id": 20,
+                    "text": "You will find others who wish to obtain security from you and [to] obtain security from their people. Every time they are returned to [the influence of] disbelief, they fall back into it. So if they do not withdraw from you or offer you peace or restrain their hands, then seize them and kill them wherever you overtake them. And those - We have made for you against them a clear authorization."
+                },
+                {
+                    "id": 218127,
+                    "resource_id": 39,
+                    "text": "Kamu juga akan dapati golongan-golongan yang lain (yang pura-pura Islam) supaya mereka beroleh aman dari pihak kamu, dan (sebaliknya mereka melahirkan kekufurannya) supaya mereka beroleh aman dari pihak kaumnya (yang masih kafir). Tiap-tiap kali mereka diajak kepada fitnah (pencerobohan), mereka segera terjerumus ke dalamnya. Oleh itu, jika mereka tidak membiarkan kamu (dan terus mengganggu atau berpihak kepada musuh), dan (tidak pula) menawarkan perdamaian kepada kamu dan juga (tidak) menahan tangan mereka (daripada memerangi kamu), maka hendaklah kamu bertindak menawan mereka dan membunuh mereka di mana sahaja kamu menemuinya; kerana merekalah orang-orang yang Kami jadikan bagi kamu alasan yang terang nyata untuk bertindak terhadapnya."
+                },
+                {
+                    "id": 1091561,
+                    "resource_id": 161,
+                    "text": "অচিরেই তোমরা কতক লোককে এমনও পাবে, যারা তোমাদের কাছ থেকেও নিরাপদ থাকতে চায়, তাদের নিজ সম্প্রদায় থেকেও নিরাপদ থাকতে চায়, যখন তাদেরকে ফিতনার দিকে মনোনিবেশ করানো হয় তখন তাতেই জড়িয়ে পড়ে। কাজেই যদি তারা তোমাদের শত্রুতা হতে সরে না যায় এবং তোমাদের নিকট শান্তি প্রস্তাব না করে এবং তাদের হস্ত সংবরণ না করে, তবে তাদেরকে গ্রেফতার কর আর যেখানেই পাও হত্যা কর, এরাই হচ্ছে সেই সব লোক তোমাদেরকে যাদের বিরুদ্ধাচরণের স্পষ্ট অধিকার দিয়েছি।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 5,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 5
+    }
+}

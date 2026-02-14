@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 5105,
+            "verse_number": 1,
+            "verse_key": "58:1",
+            "hizb_number": 55,
+            "rub_el_hizb_number": 217,
+            "ruku_number": 478,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " قَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّتِى تُجَـٰدِلُكَ فِى زَوْجِهَا وَتَشْتَكِىٓ إِلَى ٱللَّهِ وَٱللَّهُ يَسْمَعُ تَحَاوُرَكُمَآ ۚ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ",
+            "page_number": 542,
+            "juz_number": 28,
+            "translations": [
+                {
+                    "id": 100765,
+                    "resource_id": 20,
+                    "text": "Certainly has Allāh heard the speech of the one who argues [i.e., pleads] with you, [O Muḥammad], concerning her husband and directs her complaint to Allāh. And Allāh hears your dialogue; indeed, Allāh is Hearing and Seeing."
+                },
+                {
+                    "id": 218618,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Allah telah mendengar (dan memperkenan) aduan perempuan yang bersoal jawab denganmu (wahai Muhammad) mengenai suaminya, sambil ia berdoa merayu kepada Allah (mengenai perkara yang menyusahkannya), sedang Allah sedia mendengar perbincangan kamu berdua. Sesungguhnya Allah Maha Mendengar, lagi Maha Melihat."
+                },
+                {
+                    "id": 1096082,
+                    "resource_id": 161,
+                    "text": "আল্লাহ তার কথা শুনেছেন যে নারী (খাওলাহ বিনত সা‘লাবাহ) তার স্বামীর বিষয়ে তোমার সাথে বাদানুবাদ করছে আর আল্লাহর কাছে ফরিয়াদ জানাচ্ছে, আল্লাহ তোমাদের দু’জনের কথা শুনছেন, আল্লাহ সর্বশ্রোতা, সর্বদ্রষ্টা।"
+                }
+            ]
+        },
+        {
+            "id": 5106,
+            "verse_number": 2,
+            "verse_key": "58:2",
+            "hizb_number": 55,
+            "rub_el_hizb_number": 217,
+            "ruku_number": 478,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِينَ يُظَـٰهِرُونَ مِنكُم مِّن نِّسَآئِهِم مَّا هُنَّ أُمَّهَـٰتِهِمْ ۖ إِنْ أُمَّهَـٰتُهُمْ إِلَّا ٱلَّـٰٓـِٔى وَلَدْنَهُمْ ۚ وَإِنَّهُمْ لَيَقُولُونَ مُنكَرًا مِّنَ ٱلْقَوْلِ وَزُورًا ۚ وَإِنَّ ٱللَّهَ لَعَفُوٌّ غَفُورٌ",
+            "page_number": 542,
+            "juz_number": 28,
+            "translations": [
+                {
+                    "id": 100778,
+                    "resource_id": 20,
+                    "text": "Those who pronounce ẓihār<sup foot_note=197511>1</sup> among you [to separate] from their wives - they are not [consequently] their mothers. Their mothers are none but those who gave birth to them. And indeed, they are saying an objectionable statement and a falsehood. But indeed, Allāh is Pardoning and Forgiving."
+                },
+                {
+                    "id": 218629,
+                    "resource_id": 39,
+                    "text": "Orang-orang yang \"ziharkan\" isterinya dari kalangan kamu (adalah orang-orang yang bersalah, kerana) isteri-isteri mereka bukanlah ibu-ibu mereka. Ibu-ibu mereka tidak lain hanyalah perempuan-perempuan yang melahirkan mereka. Dan sesungguhnya mereka (dengan melakukan yang demikian) memperkatakan suatu perkara yang mungkar dan dusta. Dan (ingatlah), sesungguhnya Allah Maha Pemaaf, lagi Maha Pengampun."
+                },
+                {
+                    "id": 1096083,
+                    "resource_id": 161,
+                    "text": "তোমাদের মধ্যে যারা তাদের স্ত্রীদের সাথে জিহার করে (অর্থাৎ স্ত্রীকে বলে যে, তুমি আমার জন্য আমার মায়ের পিঠের মত) তাদের স্ত্রীরা তাদের মা নয়। তাদের মা তো কেবল তারাই যারা তাদের জন্ম দিয়েছে। তারা অবশ্যই ঘৃণ্য ও মিথ্যে কথা বলে, নিশ্চয়ই আল্লাহ পাপ মোচনকারী, বড়ই ক্ষমাশীল।"
+                }
+            ]
+        },
+        {
+            "id": 5107,
+            "verse_number": 3,
+            "verse_key": "58:3",
+            "hizb_number": 55,
+            "rub_el_hizb_number": 217,
+            "ruku_number": 478,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّذِينَ يُظَـٰهِرُونَ مِن نِّسَآئِهِمْ ثُمَّ يَعُودُونَ لِمَا قَالُوا۟ فَتَحْرِيرُ رَقَبَةٍ مِّن قَبْلِ أَن يَتَمَآسَّا ۚ ذَٰلِكُمْ تُوعَظُونَ بِهِۦ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+            "page_number": 542,
+            "juz_number": 28,
+            "translations": [
+                {
+                    "id": 100783,
+                    "resource_id": 20,
+                    "text": "And those who pronounce ẓihār from their wives and then [wish to] go back on what they said - then [there must be] the freeing of a slave before they touch one another. That is what you are admonished thereby; and Allāh is Aware of what you do."
+                },
+                {
+                    "id": 218635,
+                    "resource_id": 39,
+                    "text": "Dan orang-orang yang \"ziharkan\" isterinya, kemudian mereka berbalik dari apa yang mereka ucapkan (bahawa isterinya itu haram kepadanya), maka hendaklah (suami itu) memerdekakan seorang hamba sebelum mereka berdua (suami isteri) bercampur. Dengan hukum yang demikian, kamu diberi pengajaran (supaya jangan mendekati perkara yang mungkar itu). Dan (ingatlah), Allah Maha Mendalam PengetahuanNya akan apa yang kamu lakukan."
+                },
+                {
+                    "id": 1096084,
+                    "resource_id": 161,
+                    "text": "যারা নিজেদের স্ত্রীদের সাথে জিহার করে, অতঃপর তারা যে কথা বলেছে তা প্রত্যাহার করে নেয় তবে পরস্পরকে স্পর্শ করার পূর্বে তাদেরকে একটি দাস মুক্ত করতে হবে, এর দ্বারা তোমাদেরকে উপদেশ দেয়া হচ্ছে। তোমরা যা কর, আল্লাহ তার খবর রাখেন।"
+                }
+            ]
+        },
+        {
+            "id": 5108,
+            "verse_number": 4,
+            "verse_key": "58:4",
+            "hizb_number": 55,
+            "rub_el_hizb_number": 217,
+            "ruku_number": 478,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَمَن لَّمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ مِن قَبْلِ أَن يَتَمَآسَّا ۖ فَمَن لَّمْ يَسْتَطِعْ فَإِطْعَامُ سِتِّينَ مِسْكِينًا ۚ ذَٰلِكَ لِتُؤْمِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ ۚ وَتِلْكَ حُدُودُ ٱللَّهِ ۗ وَلِلْكَـٰفِرِينَ عَذَابٌ أَلِيمٌ",
+            "page_number": 542,
+            "juz_number": 28,
+            "translations": [
+                {
+                    "id": 100785,
+                    "resource_id": 20,
+                    "text": "And he who does not find [a slave] - then a fast for two months consecutively<sup foot_note=197512>1</sup> before they touch one another; and he who is unable - then the feeding of sixty poor persons. That is for you to believe [completely] in Allāh and His Messenger; and those are the limits [set by] Allāh. And for the disbelievers is a painful punishment."
+                },
+                {
+                    "id": 218637,
+                    "resource_id": 39,
+                    "text": "Kemudian, sesiapa yang tidak dapat (memerdekakan hamba), maka hendaklah ia berpuasa dua bulan berturut-turut sebelum mereka (suami isteri) itu bercampur. Akhirnya sesiapa yang tidak sanggup berpuasa, maka hendaklah ia memberi makan enam puluh orang miskin. Ditetapkan hukum itu untuk membuktikan iman kamu kepada Allah dan RasulNya (dengan mematuhi perintahNya serta menjauhi adat Jahiliyah). Dan itulah batas-batas hukum Allah; dan bagi orang-orang yang kafir disediakan azab seksa yang tidak terperi sakitnya."
+                },
+                {
+                    "id": 1096085,
+                    "resource_id": 161,
+                    "text": "কিন্তু যার (দাস সংগ্রহ করার) সামর্থ্য নেই, সে এক নাগাড়ে দু’মাস রোযা রাখবে পরস্পরকে স্পর্শ করার পূর্বে। আর যে তা করতে পারবে না, সে ষাট জন মিসকীনকে খাবার খাওয়াবে। এ নির্দেশ দেয়া হচ্ছে এ জন্য যাতে তোমরা আল্লাহ ও তাঁর রসূলের প্রতি ঈমান আনো। এগুলো আল্লাহর নির্ধারিত সীমা। (যারা এটা অস্বীকার করবে সেই) কাফিরদের জন্য আছে মর্মান্তিক শাস্তি।"
+                }
+            ]
+        },
+        {
+            "id": 5109,
+            "verse_number": 5,
+            "verse_key": "58:5",
+            "hizb_number": 55,
+            "rub_el_hizb_number": 217,
+            "ruku_number": 478,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ ٱلَّذِينَ يُحَآدُّونَ ٱللَّهَ وَرَسُولَهُۥ كُبِتُوا۟ كَمَا كُبِتَ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ وَقَدْ أَنزَلْنَآ ءَايَـٰتٍۭ بَيِّنَـٰتٍ ۚ وَلِلْكَـٰفِرِينَ عَذَابٌ مُّهِينٌ",
+            "page_number": 542,
+            "juz_number": 28,
+            "translations": [
+                {
+                    "id": 100787,
+                    "resource_id": 20,
+                    "text": "Indeed, those who oppose Allāh and His Messenger are abased as those before them were abased. And We have certainly sent down verses of clear evidence. And for the disbelievers is a humiliating punishment"
+                },
+                {
+                    "id": 218639,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya orang-orang yang menentang (perintah) Allah dan RasulNya, mereka tetap ditimpa kehinaan sebagaimana orang-orang yang terdahulu dari mereka ditimpa kehinaan; kerana sesungguhnya Kami telah menurunkan keterangan-keterangan yang jelas nyata. Dan bagi orang-orang yang kafir disediakan azab seksa yang menghina,"
+                },
+                {
+                    "id": 1096086,
+                    "resource_id": 161,
+                    "text": "যারা আল্লাহ ও তাঁর রসূলের বিরোধিতা করে তাদেরকে লাঞ্ছিত করা হবে যেমন লাঞ্ছিত করা হয়েছিল তাদের পূর্ববর্তীদেরকে। আমি সুস্পষ্ট আয়াত অবতীর্ণ করেছি আর (অস্বীকারকারী) কাফিরদের জন্য আছে অপমানজনক শাস্তি,"
+                }
+            ]
+        },
+        {
+            "id": 5110,
+            "verse_number": 6,
+            "verse_key": "58:6",
+            "hizb_number": 55,
+            "rub_el_hizb_number": 217,
+            "ruku_number": 478,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "يَوْمَ يَبْعَثُهُمُ ٱللَّهُ جَمِيعًا فَيُنَبِّئُهُم بِمَا عَمِلُوٓا۟ ۚ أَحْصَىٰهُ ٱللَّهُ وَنَسُوهُ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ",
+            "page_number": 542,
+            "juz_number": 28,
+            "translations": [
+                {
+                    "id": 100789,
+                    "resource_id": 20,
+                    "text": "On the Day when Allāh will resurrect them all and inform them of what they did. Allāh had enumerated it, while they forgot it; and Allāh is, over all things, Witness.<sup foot_note=197513>1</sup>"
+                },
+                {
+                    "id": 218641,
+                    "resource_id": 39,
+                    "text": "Semasa mereka semuanya dibangkitkan hidup semula oleh Allah (pada hari kiamat), lalu diterangkan kepada mereka segala yang mereka telah kerjakan. Allah telah menghitung amal-amal mereka itu satu persatu, sedang mereka telah melupakannya. Dan (ingatlah), Allah menjadi Saksi akan tiap-tiap sesuatu."
+                },
+                {
+                    "id": 1096087,
+                    "resource_id": 161,
+                    "text": "সেদিন, যেদিন আল্লাহ তাদের সকলকে আবার জীবিত করে উঠাবেন এবং তাদের কৃতকর্মের সংবাদ তাদেরকে জানিয়ে দিবেন, আল্লাহ তা হিসেব করে রেখেছেন যদিও তারা (নিজেরা) ভুলে গেছে। আল্লাহ প্রতিটি বিষয়ের প্রত্যক্ষদর্শী।"
+                }
+            ]
+        },
+        {
+            "id": 5111,
+            "verse_number": 7,
+            "verse_key": "58:7",
+            "hizb_number": 55,
+            "rub_el_hizb_number": 217,
+            "ruku_number": 479,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَلَمْ تَرَ أَنَّ ٱللَّهَ يَعْلَمُ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ مَا يَكُونُ مِن نَّجْوَىٰ ثَلَـٰثَةٍ إِلَّا هُوَ رَابِعُهُمْ وَلَا خَمْسَةٍ إِلَّا هُوَ سَادِسُهُمْ وَلَآ أَدْنَىٰ مِن ذَٰلِكَ وَلَآ أَكْثَرَ إِلَّا هُوَ مَعَهُمْ أَيْنَ مَا كَانُوا۟ ۖ ثُمَّ يُنَبِّئُهُم بِمَا عَمِلُوا۟ يَوْمَ ٱلْقِيَـٰمَةِ ۚ إِنَّ ٱللَّهَ بِكُلِّ شَىْءٍ عَلِيمٌ",
+            "page_number": 543,
+            "juz_number": 28,
+            "translations": [
+                {
+                    "id": 100791,
+                    "resource_id": 20,
+                    "text": "Have you not considered that Allāh knows what is in the heavens and what is on the earth? There are not three in a private conversation but that He is the fourth of them,<sup foot_note=197514>1</sup> nor are there five but that He is the sixth of them - and no less than that and no more except that He is with them [in knowledge] wherever they are. Then He will inform them of what they did, on the Day of Resurrection. Indeed Allāh is, of all things, Knowing."
+                },
+                {
+                    "id": 218643,
+                    "resource_id": 39,
+                    "text": "Tidakkah engkau memikirkan, bahawa sesungguhnya Allah mengetahui segala yang ada di langit dan yang ada di bumi? Tiada berlaku bisikan antara tiga orang melainkan Dia lah yang keempatnya, dan tiada (berlaku antara) lima orang melainkan Dia lah yang keenamnya, dan tiada yang kurang dari bilangan itu dan tiada yang lebih ramai, melainkan Ia ada bersama-sama mereka di mana sahaja mereka berada. Kemudian Ia akan memberi tahu kepada mereka - pada hari kiamat - apa yang mereka telah kerjakan. Sesungguhnya Allah Maha Mengetahui akan tiap-tiap sesuatu."
+                },
+                {
+                    "id": 1096088,
+                    "resource_id": 161,
+                    "text": "তুমি কি জান না যে, যা আকাশে আছে আর যা যমীনে আছে আল্লাহ সব জানেন। তিনজনের মধ্যে এমন কোন গোপন পরামর্শ হয় না যাতে চতুর্থজন আল্লাহ হন না, আর পাঁচজনেও হয় না, ষষ্ঠজন তিনি ছাড়া, এর কম সংখ্যকেও হয় না, আর বেশি সংখ্যকেও হয় না, তিনি তাদের সঙ্গে থাকা ব্যতীত, তারা যেখানেই থাকুক না কেন। অতঃপর ক্বিয়ামত দিবসে তিনি জানিয়ে দেবেন যা তারা ‘আমাল করেছিল। আল্লাহ সকল বিষয়ে পূর্ণভাবে অবগত।"
+                }
+            ]
+        },
+        {
+            "id": 5112,
+            "verse_number": 8,
+            "verse_key": "58:8",
+            "hizb_number": 55,
+            "rub_el_hizb_number": 217,
+            "ruku_number": 479,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَلَمْ تَرَ إِلَى ٱلَّذِينَ نُهُوا۟ عَنِ ٱلنَّجْوَىٰ ثُمَّ يَعُودُونَ لِمَا نُهُوا۟ عَنْهُ وَيَتَنَـٰجَوْنَ بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَمَعْصِيَتِ ٱلرَّسُولِ وَإِذَا جَآءُوكَ حَيَّوْكَ بِمَا لَمْ يُحَيِّكَ بِهِ ٱللَّهُ وَيَقُولُونَ فِىٓ أَنفُسِهِمْ لَوْلَا يُعَذِّبُنَا ٱللَّهُ بِمَا نَقُولُ ۚ حَسْبُهُمْ جَهَنَّمُ يَصْلَوْنَهَا ۖ فَبِئْسَ ٱلْمَصِيرُ",
+            "page_number": 543,
+            "juz_number": 28,
+            "translations": [
+                {
+                    "id": 100793,
+                    "resource_id": 20,
+                    "text": "Have you not considered those who were forbidden from private conversation [i.e., ridicule and conspiracy] and then return to that which they were forbidden and converse among themselves about sin and aggression and disobedience to the Messenger? And when they come to you, they greet you with that [word] by which Allāh does not greet you<sup foot_note=197515>1</sup> and say among themselves, \"Why does Allāh not punish us for what we say?\" Sufficient for them is Hell, which they will [enter to] burn, and wretched is the destination."
+                },
+                {
+                    "id": 218645,
+                    "resource_id": 39,
+                    "text": "Tidakkah engkau memerhatikan (wahai Muhammad) akan orang-orang (Yahudi) yang telah dilarang daripada perbuatan berbisik-bisik, kemudian mereka berbalik melakukan perbuatan yang telah dilarang itu serta mereka berbisik-bisik berkenaan dengan melakukan dosa dan pencerobohan serta kederhakaan kepada Rasulullah? Dan lagi apabila mereka datang kepadamu, mereka memberi salam hormat bukan dengan lafaz salam hormat yang diberikan Allah kepadamu; dan mereka berkata sesama sendiri: \"(Kalau benar Muhammad utusan Tuhan, maka) sepatutnya kami diseksa oleh Allah disebabkan (kata-kata buruk) yang kami ucapkan itu?\" Cukuplah untuk mereka neraka Jahannam, yang mereka akan dibakar di dalamnya; maka itulah seburuk-buruk tempat kembali."
+                },
+                {
+                    "id": 1096089,
+                    "resource_id": 161,
+                    "text": "তুমি কি তাদেরকে দেখনি যাদেরকে গোপন পরামর্শ করতে নিষেধ করা হয়েছিল, অতঃপর তারা আবার তাই করল যা করতে তাদেরকে নিষেধ করা হয়েছিল, তারা গোপনে পরামর্শ করল পাপাচার, সীমালঙ্ঘন আর রসূলকে অমান্য করা নিয়ে। তারা যখন তোমার কাছে আসে তখন তারা তোমাকে এমনভাবে সম্ভাষণ করে যেমনভাবে আল্লাহ তোমাকে সম্ভাষণ করেননি। তারা মনে মনে বলে- ‘আমরা যা বলি তার জন্য আল্লাহ আমাদেরকে ‘আযাব দেন না কেন? জাহান্নামই তাদের জন্য যথেষ্ট, তাতে তারা জ্বলবে, কতই না নিকৃষ্ট সেই গন্তব্যস্থল!"
+                }
+            ]
+        },
+        {
+            "id": 5113,
+            "verse_number": 9,
+            "verse_key": "58:9",
+            "hizb_number": 55,
+            "rub_el_hizb_number": 217,
+            "ruku_number": 479,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا تَنَـٰجَيْتُمْ فَلَا تَتَنَـٰجَوْا۟ بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَمَعْصِيَتِ ٱلرَّسُولِ وَتَنَـٰجَوْا۟ بِٱلْبِرِّ وَٱلتَّقْوَىٰ ۖ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِىٓ إِلَيْهِ تُحْشَرُونَ",
+            "page_number": 543,
+            "juz_number": 28,
+            "translations": [
+                {
+                    "id": 100795,
+                    "resource_id": 20,
+                    "text": "O you who have believed, when you converse privately, do not converse about sin and aggression and disobedience to the Messenger but converse about righteousness and piety. And fear Allāh, to whom you will be gathered."
+                },
+                {
+                    "id": 218647,
+                    "resource_id": 39,
+                    "text": "Wahai orang-orang yang beriman! Apabila kamu berbisik-bisik sesama sendiri, maka janganlah kamu berbisik-bisik untuk melakukan dosa dan pencerobohan serta perbuatan derhaka kepada Rasulullah; dan (sebaliknya) berbisiklah untuk berbuat kebajikan dan bertaqwa. Dan hendaklah kamu tetap bertaqwa kepada Allah yang kepadaNya kamu semua akan dihimpunkan (pada hari kiamat untuk dihitung amal kamu dan menerima balasan)."
+                },
+                {
+                    "id": 1096090,
+                    "resource_id": 161,
+                    "text": "হে মু’মিনগণ! তোমরা যখন গোপন পরামর্শ কর, তখন পাপাচার, সীমালঙ্ঘন আর রসূলকে অমান্য করার পরামর্শ কর না। তোমরা সৎকর্ম ও তাকওয়া অবলম্বনের ব্যাপারে পরামর্শ করো। আর তোমরা আল্লাহকে ভয় কর যাঁর কাছে তোমাদেরকে সমবেত করা হবে।"
+                }
+            ]
+        },
+        {
+            "id": 5114,
+            "verse_number": 10,
+            "verse_key": "58:10",
+            "hizb_number": 55,
+            "rub_el_hizb_number": 217,
+            "ruku_number": 479,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّمَا ٱلنَّجْوَىٰ مِنَ ٱلشَّيْطَـٰنِ لِيَحْزُنَ ٱلَّذِينَ ءَامَنُوا۟ وَلَيْسَ بِضَآرِّهِمْ شَيْـًٔا إِلَّا بِإِذْنِ ٱللَّهِ ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
+            "page_number": 543,
+            "juz_number": 28,
+            "translations": [
+                {
+                    "id": 100766,
+                    "resource_id": 20,
+                    "text": "Private conversation is only from Satan that he may grieve those who have believed,<sup foot_note=197516>1</sup> but he will not harm them at all except by permission of Allāh. And upon Allāh let the believers rely."
+                },
+                {
+                    "id": 218619,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya perbuatan berbisik (dengan kejahatan) itu adalah dari (hasutan) Syaitan, untuk menjadikan orang-orang yang beriman berdukacita; sedang bisikan itu tidak akan dapat membahayakan mereka sedikitpun melainkan dengan izin Allah; dan kepada Allah jualah hendaknya orang-orang yang beriman berserah diri."
+                },
+                {
+                    "id": 1096091,
+                    "resource_id": 161,
+                    "text": "গোপন পরামর্শ হল মু’মিনদেরকে দুঃখ দেয়ার জন্য শয়ত্বান প্ররোচিত কাজ। তবে আল্লাহর অনুমতি ছাড়া তা তাদের কোন ক্ষতি করতে পারে না। মু’মিনদের কর্তব্য হল একমাত্র আল্লাহরই উপর ভরসা করা।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 3,
+        "total_records": 22
+    }
+}

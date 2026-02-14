@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 5476,
+            "verse_number": 1,
+            "verse_key": "73:1",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 229,
+            "ruku_number": 510,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " يَـٰٓأَيُّهَا ٱلْمُزَّمِّلُ",
+            "page_number": 574,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101453,
+                    "resource_id": 20,
+                    "text": "O you who wraps himself [in clothing]<sup foot_note=197635>1</sup>"
+                },
+                {
+                    "id": 215584,
+                    "resource_id": 39,
+                    "text": "Wahai orang yang berselimut!."
+                },
+                {
+                    "id": 1096453,
+                    "resource_id": 161,
+                    "text": "ওহে চাদরে আবৃত (ব্যক্তি)!"
+                }
+            ]
+        },
+        {
+            "id": 5477,
+            "verse_number": 2,
+            "verse_key": "73:2",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 229,
+            "ruku_number": 510,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "قُمِ ٱلَّيْلَ إِلَّا قَلِيلًا",
+            "page_number": 574,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101465,
+                    "resource_id": 20,
+                    "text": "Arise [to pray] the night, except for a little -"
+                },
+                {
+                    "id": 219320,
+                    "resource_id": 39,
+                    "text": "Bangunlah sembahyang Tahajjud pada waktu malam, selain dari sedikit masa (yang tak dapat tidak untuk berehat),"
+                },
+                {
+                    "id": 1096454,
+                    "resource_id": 161,
+                    "text": "রাতে নামাযে দাঁড়াও তবে (রাতের) কিছু অংশ বাদে,"
+                }
+            ]
+        },
+        {
+            "id": 5478,
+            "verse_number": 3,
+            "verse_key": "73:3",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 229,
+            "ruku_number": 510,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "نِّصْفَهُۥٓ أَوِ ٱنقُصْ مِنْهُ قَلِيلًا",
+            "page_number": 574,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101476,
+                    "resource_id": 20,
+                    "text": "Half of it - or subtract from it a little"
+                },
+                {
+                    "id": 219326,
+                    "resource_id": 39,
+                    "text": "Iaitu separuh dari waktu malam, atau kurangkan sedikit dari separuh itu,"
+                },
+                {
+                    "id": 1096455,
+                    "resource_id": 161,
+                    "text": "রাতের অর্ধেক (সময় দাঁড়াও) কিংবা তার থেকে কিছুটা কম কর,"
+                }
+            ]
+        },
+        {
+            "id": 5479,
+            "verse_number": 4,
+            "verse_key": "73:4",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 229,
+            "ruku_number": 510,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَوْ زِدْ عَلَيْهِ وَرَتِّلِ ٱلْقُرْءَانَ تَرْتِيلًا",
+            "page_number": 574,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101478,
+                    "resource_id": 20,
+                    "text": "Or add to it, and recite the Qur’ān with measured recitation."
+                },
+                {
+                    "id": 219328,
+                    "resource_id": 39,
+                    "text": "Ataupun lebihkan (sedikit) daripadanya; dan bacalah Al-Quran dengan \"Tartil\"."
+                },
+                {
+                    "id": 1096456,
+                    "resource_id": 161,
+                    "text": "অথবা তার চেয়ে বাড়াও, আর ধীরে ধীরে সুস্পষ্টভাবে কুরআন পাঠ কর।"
+                }
+            ]
+        },
+        {
+            "id": 5480,
+            "verse_number": 5,
+            "verse_key": "73:5",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 229,
+            "ruku_number": 510,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّا سَنُلْقِى عَلَيْكَ قَوْلًا ثَقِيلًا",
+            "page_number": 574,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101480,
+                    "resource_id": 20,
+                    "text": "Indeed, We will cast upon you a heavy word.<sup foot_note=197636>1</sup>"
+                },
+                {
+                    "id": 219330,
+                    "resource_id": 39,
+                    "text": "(Sayugialah engkau dan pengikut-pengikutmu membiasakan diri masing-masing dengan ibadat yang berat kepada hawa nafsu, kerana) sesungguhnya Kami akan menurunkan kepadamu wahyu (Al-Quran yang mengandungi perintah-perintah) yang berat (kepada orang-orang yang tidak bersedia menyempurnakannya)."
+                },
+                {
+                    "id": 1096457,
+                    "resource_id": 161,
+                    "text": "আমি তোমার উপর গুরুভার কালাম নাযিল করব (বিশ্বের বুকে যার প্রচার ও প্রতিষ্ঠা করার দায়িত্বভার অতি বড় কঠিন কাজ)।"
+                }
+            ]
+        },
+        {
+            "id": 5481,
+            "verse_number": 6,
+            "verse_key": "73:6",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 229,
+            "ruku_number": 510,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ نَاشِئَةَ ٱلَّيْلِ هِىَ أَشَدُّ وَطْـًٔا وَأَقْوَمُ قِيلًا",
+            "page_number": 574,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101482,
+                    "resource_id": 20,
+                    "text": "Indeed, the hours of the night are more effective for concurrence [of heart and tongue]<sup foot_note=197638>1</sup> and more suitable for words.<sup foot_note=197637>2</sup>"
+                },
+                {
+                    "id": 219332,
+                    "resource_id": 39,
+                    "text": "Sebenarnya sembahyang dan ibadat malam lebih kuat kesannya (kepada jiwa), dan lebih tetap betul bacaannya."
+                },
+                {
+                    "id": 1096458,
+                    "resource_id": 161,
+                    "text": "বাস্তবিকই রাতে বিছানা ছেড়ে উঠা আত্মসংযমের জন্য বেশি কার্যকর এবং (কুরআন) স্পষ্ট উচ্চারণের অনুকূল।"
+                }
+            ]
+        },
+        {
+            "id": 5482,
+            "verse_number": 7,
+            "verse_key": "73:7",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 229,
+            "ruku_number": 510,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ لَكَ فِى ٱلنَّهَارِ سَبْحًا طَوِيلًا",
+            "page_number": 574,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101484,
+                    "resource_id": 20,
+                    "text": "Indeed, for you by day is prolonged occupation."
+                },
+                {
+                    "id": 219334,
+                    "resource_id": 39,
+                    "text": "(Kami galakkan engkau dan umatmu beribadat pada waktu malam), kerana sesungguhnya engkau pada siang hari mempunyai urusan-urusan yang panjang kira bicaranya;"
+                },
+                {
+                    "id": 1096459,
+                    "resource_id": 161,
+                    "text": "দিনের বেলায় তোমার জন্য আছে দীর্ঘ কর্মব্যস্ততা।"
+                }
+            ]
+        },
+        {
+            "id": 5483,
+            "verse_number": 8,
+            "verse_key": "73:8",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 229,
+            "ruku_number": 510,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱذْكُرِ ٱسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا",
+            "page_number": 574,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101486,
+                    "resource_id": 20,
+                    "text": "And remember the name of your Lord and devote yourself to Him with [complete] devotion."
+                },
+                {
+                    "id": 219336,
+                    "resource_id": 39,
+                    "text": "Dan sebutlah (dengan lidah dan hati) akan nama Tuhanmu (terus menerus siang dan malam), serta tumpukanlah (amal ibadatmu) kepadaNya dengan sebulat-bulat tumpuan."
+                },
+                {
+                    "id": 1096460,
+                    "resource_id": 161,
+                    "text": "কাজেই তুমি তোমার প্রতিপালকের নাম স্মরণ কর এবং একাগ্রচিত্তে তাঁর প্রতি মগ্ন হও।"
+                }
+            ]
+        },
+        {
+            "id": 5484,
+            "verse_number": 9,
+            "verse_key": "73:9",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 229,
+            "ruku_number": 510,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "رَّبُّ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ لَآ إِلَـٰهَ إِلَّا هُوَ فَٱتَّخِذْهُ وَكِيلًا",
+            "page_number": 574,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101488,
+                    "resource_id": 20,
+                    "text": "[He is] the Lord of the East and the West; there is no deity except Him, so take Him as Disposer of [your] affairs.<sup foot_note=197639>1</sup>"
+                },
+                {
+                    "id": 219340,
+                    "resource_id": 39,
+                    "text": "Dia lah Tuhan yang menguasai timur dan barat; tiada Tuhan melainkan Dia; maka jadikanlah Dia Penjaga yang menyempurnakan urusanmu."
+                },
+                {
+                    "id": 1096461,
+                    "resource_id": 161,
+                    "text": "(তিনি) পূর্ব ও পশ্চিমের সর্বময় কর্তা, তিনি ছাড়া সত্যিকারের কোন ইলাহ নেই, অতএব তাঁকেই তুমি তোমার কার্য সম্পদানকারী বানিয়ে লও।"
+                }
+            ]
+        },
+        {
+            "id": 5485,
+            "verse_number": 10,
+            "verse_key": "73:10",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 229,
+            "ruku_number": 510,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَٱهْجُرْهُمْ هَجْرًا جَمِيلًا",
+            "page_number": 574,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101454,
+                    "resource_id": 20,
+                    "text": "And be patient over what they say and avoid them with gracious avoidance."
+                },
+                {
+                    "id": 219309,
+                    "resource_id": 39,
+                    "text": "Dan bersabarlah terhadap apa yang dikatakan oleh mereka (yang menentangmu), dan jauhkanlah dirimu dari mereka dengan cara yang baik."
+                },
+                {
+                    "id": 1096462,
+                    "resource_id": 161,
+                    "text": "তারা যা বলে সে ব্যাপারে ধৈর্য ধারণ কর আর ভদ্রতার সঙ্গে তাদেরকে পরিহার ক’রে চল।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 2,
+        "total_records": 20
+    }
+}

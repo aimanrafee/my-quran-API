@@ -1,0 +1,491 @@
+{
+    "verses": [
+        {
+            "id": 1059,
+            "verse_number": 105,
+            "verse_key": "7:105",
+            "hizb_number": 17,
+            "rub_el_hizb_number": 65,
+            "ruku_number": 134,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "حَقِيقٌ عَلَىٰٓ أَن لَّآ أَقُولَ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ ۚ قَدْ جِئْتُكُم بِبَيِّنَةٍ مِّن رَّبِّكُمْ فَأَرْسِلْ مَعِىَ بَنِىٓ إِسْرَٰٓءِيلَ",
+            "page_number": 164,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 101270,
+                    "resource_id": 20,
+                    "text": "[Who is] obligated not to say about Allāh except the truth. I have come to you with clear evidence from your Lord, so send with me the Children of Israel.\"<sup foot_note=196314>1</sup>"
+                },
+                {
+                    "id": 219107,
+                    "resource_id": 39,
+                    "text": "\"Sudah semestinya aku tidak mengatakan sesuatu terhadap Allah melainkan yang benar. Sesungguhnya aku datang kepada kamu dengan membawa keterangan yang nyata dari Tuhan kamu. Oleh itu, bebaskanlah Kaum Bani Israil menyertai aku (ke Palestin)."
+                },
+                {
+                    "id": 1092036,
+                    "resource_id": 161,
+                    "text": "আমার জন্য অবশ্য করণীয় এই যে, আমি প্রকৃত সত্য ছাড়া আল্লাহর সম্বন্ধে কিছু বলি না, তোমাদের প্রতিপালকের নিকট হতে স্পষ্ট প্রমাণ সহকারে তোমাদের কাছে এসেছি। কাজেই বানী ইসরাঈলকে আমার সঙ্গে পাঠিয়ে দাও।"
+                }
+            ]
+        },
+        {
+            "id": 1060,
+            "verse_number": 106,
+            "verse_key": "7:106",
+            "hizb_number": 17,
+            "rub_el_hizb_number": 65,
+            "ruku_number": 134,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ إِن كُنتَ جِئْتَ بِـَٔايَةٍ فَأْتِ بِهَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+            "page_number": 164,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 101271,
+                    "resource_id": 20,
+                    "text": "[Pharaoh] said, \"If you have come with a sign, then bring it forth, if you should be of the truthful.\""
+                },
+                {
+                    "id": 219113,
+                    "resource_id": 39,
+                    "text": "Firaun menjawab: \"Kalau betul engkau datang dengan membawa sesuatu mukjizat maka bawalah dia (supaya aku melihatnya), jika betul engkau dari orang-orang yang benar\"."
+                },
+                {
+                    "id": 1092037,
+                    "resource_id": 161,
+                    "text": "ফিরআউন বলল, নিদর্শন নিয়েই তুমি যদি এসে থাক, তাহলে সত্যবাদী হলে তুমি তা পেশ কর।"
+                }
+            ]
+        },
+        {
+            "id": 1061,
+            "verse_number": 107,
+            "verse_key": "7:107",
+            "hizb_number": 17,
+            "rub_el_hizb_number": 65,
+            "ruku_number": 134,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "فَأَلْقَىٰ عَصَاهُ فَإِذَا هِىَ ثُعْبَانٌ مُّبِينٌ",
+            "page_number": 164,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 101272,
+                    "resource_id": 20,
+                    "text": "So he [i.e., Moses] threw his staff, and suddenly it was a serpent, manifest.<sup foot_note=196315>1</sup>"
+                },
+                {
+                    "id": 219109,
+                    "resource_id": 39,
+                    "text": "Nabi Musa pun mencampakkan tongkatnya, maka tiba-tiba tongkatnya itu menjadi seekor ular yang jelas nyata."
+                },
+                {
+                    "id": 1092038,
+                    "resource_id": 161,
+                    "text": "সে তার লাঠি নিক্ষেপ করল আর তখন তা একটা প্রকাশ্য অজগর হয়ে গেল।"
+                }
+            ]
+        },
+        {
+            "id": 1062,
+            "verse_number": 108,
+            "verse_key": "7:108",
+            "hizb_number": 17,
+            "rub_el_hizb_number": 65,
+            "ruku_number": 134,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَنَزَعَ يَدَهُۥ فَإِذَا هِىَ بَيْضَآءُ لِلنَّـٰظِرِينَ",
+            "page_number": 164,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 101273,
+                    "resource_id": 20,
+                    "text": "And he drew out his hand; thereupon it was white [with radiance] for the observers."
+                },
+                {
+                    "id": 219110,
+                    "resource_id": 39,
+                    "text": "Dan Nabi Musa mengeluarkan tangannya, tiba-tiba tangannya (menjadi) putih (bersinar-sinar) bagi orang-orang yang melihatnya."
+                },
+                {
+                    "id": 1092039,
+                    "resource_id": 161,
+                    "text": "আর সে তার হাত (বগল থেকে) টেনে বের করল, তখন তা দর্শকদের দৃষ্টিতে সাদা উজ্জ্বল হয়ে দেখা দিল।"
+                }
+            ]
+        },
+        {
+            "id": 1063,
+            "verse_number": 109,
+            "verse_key": "7:109",
+            "hizb_number": 17,
+            "rub_el_hizb_number": 65,
+            "ruku_number": 135,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ ٱلْمَلَأُ مِن قَوْمِ فِرْعَوْنَ إِنَّ هَـٰذَا لَسَـٰحِرٌ عَلِيمٌ",
+            "page_number": 164,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 101274,
+                    "resource_id": 20,
+                    "text": "Said the eminent among the people of Pharaoh, \"Indeed, this is a learned magician"
+                },
+                {
+                    "id": 219111,
+                    "resource_id": 39,
+                    "text": "Berkatalah Ketua-ketua dari kaum Firaun: \"Sesungguhnya orang ini (Musa) ialah seorang ahli sihir yang mahir."
+                },
+                {
+                    "id": 1092040,
+                    "resource_id": 161,
+                    "text": "ফির‘আওন গোষ্ঠীর প্রধানরা বলল, নিশ্চয় সে বিজ্ঞ যাদুকর।’"
+                }
+            ]
+        },
+        {
+            "id": 1064,
+            "verse_number": 110,
+            "verse_key": "7:110",
+            "hizb_number": 17,
+            "rub_el_hizb_number": 65,
+            "ruku_number": 135,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "يُرِيدُ أَن يُخْرِجَكُم مِّنْ أَرْضِكُمْ ۖ فَمَاذَا تَأْمُرُونَ",
+            "page_number": 164,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 101277,
+                    "resource_id": 20,
+                    "text": "Who wants to expel you from your land [through magic], so what do you instruct?\""
+                },
+                {
+                    "id": 219114,
+                    "resource_id": 39,
+                    "text": "\"Ia bertujuan hendak mengeluarkan kamu dari negeri kamu\". (Firaun bertanya): \"Oleh itu, apa yang kamu syorkan?\""
+                },
+                {
+                    "id": 1092041,
+                    "resource_id": 161,
+                    "text": "‘সে চায় তোমাদেরকে বের করে দিতে তোমাদের দেশ থেকে। এখন তোমাদের পরামর্শ কী?’"
+                }
+            ]
+        },
+        {
+            "id": 1065,
+            "verse_number": 111,
+            "verse_key": "7:111",
+            "hizb_number": 17,
+            "rub_el_hizb_number": 65,
+            "ruku_number": 135,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "قَالُوٓا۟ أَرْجِهْ وَأَخَاهُ وَأَرْسِلْ فِى ٱلْمَدَآئِنِ حَـٰشِرِينَ",
+            "page_number": 164,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 101279,
+                    "resource_id": 20,
+                    "text": "They said,<sup foot_note=196316>1</sup> \"Postpone [the matter of] him and his brother and send among the cities gatherers"
+                },
+                {
+                    "id": 219116,
+                    "resource_id": 39,
+                    "text": "Mereka berkata: \"Tangguhkanlah dia dan saudaranya (daripada dijatuhkan sebarang hukuman) serta utuslah ke bandar-bandar (di merata-rata negeri Mesir untuk) mengumpulkan (ahli-ahli sihir);"
+                },
+                {
+                    "id": 1092042,
+                    "resource_id": 161,
+                    "text": "তারা বলল, ‘তাকে ও তার ভাইকে অবকাশ দাও, আর নগরে নগরে সংগ্রাহক পাঠিয়ে দাও’।"
+                }
+            ]
+        },
+        {
+            "id": 1066,
+            "verse_number": 112,
+            "verse_key": "7:112",
+            "hizb_number": 17,
+            "rub_el_hizb_number": 65,
+            "ruku_number": 135,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "يَأْتُوكَ بِكُلِّ سَـٰحِرٍ عَلِيمٍ",
+            "page_number": 164,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 101281,
+                    "resource_id": 20,
+                    "text": "Who will bring you every learned magician.\""
+                },
+                {
+                    "id": 219117,
+                    "resource_id": 39,
+                    "text": "\"Yang kelak akan membawa kepadamu segala ahli sihir yang mahir\"."
+                },
+                {
+                    "id": 1092043,
+                    "resource_id": 161,
+                    "text": "তারা তোমার কাছে সব বড় বড় যাদুকরকে নিয়ে আসবে।"
+                }
+            ]
+        },
+        {
+            "id": 1067,
+            "verse_number": 113,
+            "verse_key": "7:113",
+            "hizb_number": 17,
+            "rub_el_hizb_number": 65,
+            "ruku_number": 135,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَجَآءَ ٱلسَّحَرَةُ فِرْعَوْنَ قَالُوٓا۟ إِنَّ لَنَا لَأَجْرًا إِن كُنَّا نَحْنُ ٱلْغَـٰلِبِينَ",
+            "page_number": 164,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 101283,
+                    "resource_id": 20,
+                    "text": "And the magicians came to Pharaoh. They said, \"Indeed for us is a reward if we are the predominant.\""
+                },
+                {
+                    "id": 219119,
+                    "resource_id": 39,
+                    "text": "Dan datanglah ahli-ahli sihir itu kepada Firaun lalu berkata: \"Sungguhkah kami akan beroleh upah, kalau kami dapat mengalahkannya?\""
+                },
+                {
+                    "id": 1092044,
+                    "resource_id": 161,
+                    "text": "যাদুকররা ফিরআউনের নিকট এসে বলল, আমরা যদি বিজয়ী হই, তবে আমাদের জন্য পুরস্কার আছে তো?"
+                }
+            ]
+        },
+        {
+            "id": 1068,
+            "verse_number": 114,
+            "verse_key": "7:114",
+            "hizb_number": 17,
+            "rub_el_hizb_number": 65,
+            "ruku_number": 135,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ نَعَمْ وَإِنَّكُمْ لَمِنَ ٱلْمُقَرَّبِينَ",
+            "page_number": 164,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 101285,
+                    "resource_id": 20,
+                    "text": "He said, \"Yes, and, [moreover], you will be among those made near [to me].\""
+                },
+                {
+                    "id": 219121,
+                    "resource_id": 39,
+                    "text": "Firaun menjawab: \"Benar, (kamu akan mendapat upah) dan kamu sesungguhnya (akan menjadi) dari orang-orang yang damping (denganku)\"."
+                },
+                {
+                    "id": 1092045,
+                    "resource_id": 161,
+                    "text": "সে বলল, হাঁ, তোমরা অবশ্যই (আমার) নৈকট্যলাভকারীদের মধ্যে শামিল হবে।"
+                }
+            ]
+        },
+        {
+            "id": 1069,
+            "verse_number": 115,
+            "verse_key": "7:115",
+            "hizb_number": 17,
+            "rub_el_hizb_number": 65,
+            "ruku_number": 135,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "قَالُوا۟ يَـٰمُوسَىٰٓ إِمَّآ أَن تُلْقِىَ وَإِمَّآ أَن نَّكُونَ نَحْنُ ٱلْمُلْقِينَ",
+            "page_number": 164,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 101287,
+                    "resource_id": 20,
+                    "text": "They said, \"O Moses, either you throw [your staff], or we will be the ones to throw [first].\""
+                },
+                {
+                    "id": 219123,
+                    "resource_id": 39,
+                    "text": "Mereka berkata: \"Hai Musa! Engkaukah yang akan mencampakkan (tongkatmu lebih dahulu) atau kamikah yang akan mencampakkan (lebih dahulu)?\""
+                },
+                {
+                    "id": 1092046,
+                    "resource_id": 161,
+                    "text": "তারা বলল, ‘হে মূসা! তুমিই কি (প্রথমে যাদু) ছুঁড়বে, না আমরাই ছুঁড়ব?’"
+                }
+            ]
+        },
+        {
+            "id": 1070,
+            "verse_number": 116,
+            "verse_key": "7:116",
+            "hizb_number": 17,
+            "rub_el_hizb_number": 65,
+            "ruku_number": 135,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ أَلْقُوا۟ ۖ فَلَمَّآ أَلْقَوْا۟ سَحَرُوٓا۟ أَعْيُنَ ٱلنَّاسِ وَٱسْتَرْهَبُوهُمْ وَجَآءُو بِسِحْرٍ عَظِيمٍ",
+            "page_number": 164,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 101289,
+                    "resource_id": 20,
+                    "text": "He said, \"Throw,\" and when they threw, they bewitched the eyes of the people and struck terror into them, and they presented a great [feat of] magic.<sup foot_note=196317>1</sup>"
+                },
+                {
+                    "id": 219125,
+                    "resource_id": 39,
+                    "text": "Nabi Musa menjawab: \"Campakkanlah kamu (dahulu)!\" Maka apabila mereka mencampakkan (tongkat-tongkat dan tali masing-masing), mereka menyilap mata orang ramai dan menjadikan orang-orang itu merasa gerun, serta mereka melakukan sihir yang besar (keadaan dan caranya)."
+                },
+                {
+                    "id": 1092047,
+                    "resource_id": 161,
+                    "text": "সে বলল, ‘তোমরাই ছুঁড়’। যখন তারা বান ছুঁড়ল তখন লোকজনের চোখ যাদুগ্রস্ত হয়ে গেল, তারা ভীত সন্ত্রস্ত হয়ে পড়ল। তারা বড়ই সাংঘাতিক এক যাদু দেখাল।"
+                }
+            ]
+        },
+        {
+            "id": 1071,
+            "verse_number": 117,
+            "verse_key": "7:117",
+            "hizb_number": 17,
+            "rub_el_hizb_number": 66,
+            "ruku_number": 135,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "۞ وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَلْقِ عَصَاكَ ۖ فَإِذَا هِىَ تَلْقَفُ مَا يَأْفِكُونَ",
+            "page_number": 164,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 101291,
+                    "resource_id": 20,
+                    "text": "And We inspired to Moses, \"Throw your staff,\" and at once it devoured what they were falsifying."
+                },
+                {
+                    "id": 219127,
+                    "resource_id": 39,
+                    "text": "Dan Kami wahyukan kepada Nabi Musa: \"Campakkanlah tongkatmu!\" Maka tiba-tiba tongkat itu menelan apa yang mereka pura-pura adakan (dengan sihir mereka)."
+                },
+                {
+                    "id": 1092048,
+                    "resource_id": 161,
+                    "text": "আমি মূসার কাছে ওয়াহী করলাম, ‘তোমার লাঠি ছুঁড়ে দাও’। তখন তা তাদের অলীক বস্তুগুলোকে গ্রাস করতে শুরু করল।"
+                }
+            ]
+        },
+        {
+            "id": 1072,
+            "verse_number": 118,
+            "verse_key": "7:118",
+            "hizb_number": 17,
+            "rub_el_hizb_number": 66,
+            "ruku_number": 135,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "فَوَقَعَ ٱلْحَقُّ وَبَطَلَ مَا كَانُوا۟ يَعْمَلُونَ",
+            "page_number": 164,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 101293,
+                    "resource_id": 20,
+                    "text": "So the truth was established, and abolished was what they were doing."
+                },
+                {
+                    "id": 219139,
+                    "resource_id": 39,
+                    "text": "Maka sabitlah kebenaran (mukjizat Nabi Musa), dan batalah (sihir) yang mereka telah lakukan."
+                },
+                {
+                    "id": 1092049,
+                    "resource_id": 161,
+                    "text": "প্রকৃত সত্য প্রকাশ হয়ে গেল, তারা যা সাজিয়েছিল তা নিস্ফল হয়ে গেল।"
+                }
+            ]
+        },
+        {
+            "id": 1073,
+            "verse_number": 119,
+            "verse_key": "7:119",
+            "hizb_number": 17,
+            "rub_el_hizb_number": 66,
+            "ruku_number": 135,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "فَغُلِبُوا۟ هُنَالِكَ وَٱنقَلَبُوا۟ صَـٰغِرِينَ",
+            "page_number": 164,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 101295,
+                    "resource_id": 20,
+                    "text": "And they [i.e., Pharaoh and his people] were overcome right there and became debased."
+                },
+                {
+                    "id": 219131,
+                    "resource_id": 39,
+                    "text": "Oleh itu, kalahlah Firaun dan Ketua-ketua kaumnya di situ dan kembalilah mereka dengan keadaan yang hina."
+                },
+                {
+                    "id": 1092050,
+                    "resource_id": 161,
+                    "text": "তারা সেখানে পরাজিত হল আর লাঞ্ছিত অবস্থায় ফিরে গেল।"
+                }
+            ]
+        },
+        {
+            "id": 1074,
+            "verse_number": 120,
+            "verse_key": "7:120",
+            "hizb_number": 17,
+            "rub_el_hizb_number": 66,
+            "ruku_number": 135,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَأُلْقِىَ ٱلسَّحَرَةُ سَـٰجِدِينَ",
+            "page_number": 164,
+            "juz_number": 9,
+            "translations": [
+                {
+                    "id": 101299,
+                    "resource_id": 20,
+                    "text": "And the magicians fell down in prostration [to Allāh]."
+                },
+                {
+                    "id": 219135,
+                    "resource_id": 39,
+                    "text": "Dan (kemenangan Nabi Musa menjadikan) ahli-ahli sihir itu dengan sendirinya merebahkan diri mereka sujud,"
+                },
+                {
+                    "id": 1092051,
+                    "resource_id": 161,
+                    "text": "আর যাদুকররা সাজদায় লুটিয়ে পড়ল।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 16,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 16
+    }
+}

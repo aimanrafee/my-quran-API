@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 5623,
+            "verse_number": 1,
+            "verse_key": "77:1",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 518,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " وَٱلْمُرْسَلَـٰتِ عُرْفًا",
+            "page_number": 580,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101643,
+                    "resource_id": 20,
+                    "text": "By those [winds] sent forth in gusts"
+                },
+                {
+                    "id": 219724,
+                    "resource_id": 39,
+                    "text": "Demi (makhluk-makhluk) yang dihantarkan berturut-turut (menjalankan tugasnya),"
+                },
+                {
+                    "id": 1096600,
+                    "resource_id": 161,
+                    "text": "পর পর পাঠানো বাতাসের শপথ যা উপকার সাধন করে,"
+                }
+            ]
+        },
+        {
+            "id": 5624,
+            "verse_number": 2,
+            "verse_key": "77:2",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 518,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَٱلْعَـٰصِفَـٰتِ عَصْفًا",
+            "page_number": 580,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101652,
+                    "resource_id": 20,
+                    "text": "And the winds that blow violently"
+                },
+                {
+                    "id": 216299,
+                    "resource_id": 39,
+                    "text": "Juga yang merempuh mara dengan sekencang-kencangnya,"
+                },
+                {
+                    "id": 1096601,
+                    "resource_id": 161,
+                    "text": "অতঃপর তা প্রচন্ড ঝড়ের বেগে বইতে থাকে,"
+                }
+            ]
+        },
+        {
+            "id": 5625,
+            "verse_number": 3,
+            "verse_key": "77:3",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 518,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلنَّـٰشِرَٰتِ نَشْرًا",
+            "page_number": 580,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101664,
+                    "resource_id": 20,
+                    "text": "And [by] the winds that spread [clouds]"
+                },
+                {
+                    "id": 219495,
+                    "resource_id": 39,
+                    "text": "Dan demi (makhluk-makhluk) yang menyebarkan (pengajaran dan peringatan) dengan sebaran yang sesungguh-sungguhnya,"
+                },
+                {
+                    "id": 1096602,
+                    "resource_id": 161,
+                    "text": "শপথ সেই বায়ুর যা (মেঘমালাকে) ছড়িয়ে দেয় দূর দূরান্তে,"
+                }
+            ]
+        },
+        {
+            "id": 5626,
+            "verse_number": 4,
+            "verse_key": "77:4",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 518,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَٱلْفَـٰرِقَـٰتِ فَرْقًا",
+            "page_number": 580,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101676,
+                    "resource_id": 20,
+                    "text": "And those [angels] who bring criterion<sup foot_note=197669>1</sup>"
+                },
+                {
+                    "id": 219517,
+                    "resource_id": 39,
+                    "text": "Serta yang memisahkan (antara yang benar dengan yang salah) dengan pemisahan yang sejelas-jelasnya,"
+                },
+                {
+                    "id": 1096603,
+                    "resource_id": 161,
+                    "text": "আর বিচ্ছিন্নকারী বাতাসের শপথ যা (মেঘমালাকে) বিচ্ছিন্ন করে,"
+                }
+            ]
+        },
+        {
+            "id": 5627,
+            "verse_number": 5,
+            "verse_key": "77:5",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 518,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَٱلْمُلْقِيَـٰتِ ذِكْرًا",
+            "page_number": 580,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101688,
+                    "resource_id": 20,
+                    "text": "And those [angels] who deliver a message."
+                },
+                {
+                    "id": 219522,
+                    "resource_id": 39,
+                    "text": "Lalu menyampaikan pengajaran dan peringatan (kepada manusia),"
+                },
+                {
+                    "id": 1096604,
+                    "resource_id": 161,
+                    "text": "অতঃপর (মানুষের অন্তরে) পৌঁছে দেয় (আল্লাহর) স্মরণ,"
+                }
+            ]
+        },
+        {
+            "id": 5628,
+            "verse_number": 6,
+            "verse_key": "77:6",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 518,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "عُذْرًا أَوْ نُذْرًا",
+            "page_number": 580,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101691,
+                    "resource_id": 20,
+                    "text": "As justification or warning,"
+                },
+                {
+                    "id": 219520,
+                    "resource_id": 39,
+                    "text": "Untuk menghapuskan kesalahan orang-orang yang bertaubat serta memperbaiki keadaan dirinya, dan untuk menakutkan orang-orang yang ingkar - derhaka; -"
+                },
+                {
+                    "id": 1096605,
+                    "resource_id": 161,
+                    "text": "(বিশ্বাসী লোকদেরকে) ক্ষমা চাওয়ার সুযোগ দেয়ার জন্য আর (কাফিরদেরকে) সতর্ক করার জন্য।"
+                }
+            ]
+        },
+        {
+            "id": 5629,
+            "verse_number": 7,
+            "verse_key": "77:7",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 518,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّمَا تُوعَدُونَ لَوَٰقِعٌ",
+            "page_number": 580,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101693,
+                    "resource_id": 20,
+                    "text": "Indeed, what you are promised is to occur."
+                },
+                {
+                    "id": 219526,
+                    "resource_id": 39,
+                    "text": "(Sumpah demi sumpah) sesungguhnya segala yang dijanjikan kepada kamu tetap berlaku."
+                },
+                {
+                    "id": 1096606,
+                    "resource_id": 161,
+                    "text": "তোমাদেরকে যার ও‘য়াদা দেয়া হয়েছে তা অবশ্যই সংঘটিত হবে।"
+                }
+            ]
+        },
+        {
+            "id": 5630,
+            "verse_number": 8,
+            "verse_key": "77:8",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 518,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَإِذَا ٱلنُّجُومُ طُمِسَتْ",
+            "page_number": 580,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101695,
+                    "resource_id": 20,
+                    "text": "So when the stars are obliterated"
+                },
+                {
+                    "id": 219524,
+                    "resource_id": 39,
+                    "text": "Oleh itu, apabila bintang-bintang (binasa dan) hilang lenyap;"
+                },
+                {
+                    "id": 1096607,
+                    "resource_id": 161,
+                    "text": "যখন নক্ষত্ররাজির আলো বিলুপ্ত হবে,"
+                }
+            ]
+        },
+        {
+            "id": 5631,
+            "verse_number": 9,
+            "verse_key": "77:9",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 518,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا ٱلسَّمَآءُ فُرِجَتْ",
+            "page_number": 580,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101697,
+                    "resource_id": 20,
+                    "text": "And when the heaven is opened"
+                },
+                {
+                    "id": 219561,
+                    "resource_id": 39,
+                    "text": "Dan apabila langit terbelah;"
+                },
+                {
+                    "id": 1096608,
+                    "resource_id": 161,
+                    "text": "যখন আকাশ বিদীর্ণ হবে,"
+                }
+            ]
+        },
+        {
+            "id": 5632,
+            "verse_number": 10,
+            "verse_key": "77:10",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 518,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا ٱلْجِبَالُ نُسِفَتْ",
+            "page_number": 580,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101644,
+                    "resource_id": 20,
+                    "text": "And when the mountains are blown away"
+                },
+                {
+                    "id": 219474,
+                    "resource_id": 39,
+                    "text": "Dan apabila gunung-ganang hancur lebur berterbangan;"
+                },
+                {
+                    "id": 1096609,
+                    "resource_id": 161,
+                    "text": "যখন পবর্তমালা ধুনিত হবে।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 5,
+        "total_records": 50
+    }
+}

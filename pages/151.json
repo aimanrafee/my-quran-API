@@ -1,0 +1,341 @@
+{
+    "verses": [
+        {
+            "id": 955,
+            "verse_number": 1,
+            "verse_key": "7:1",
+            "hizb_number": 16,
+            "rub_el_hizb_number": 61,
+            "ruku_number": 122,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": " الٓمٓصٓ",
+            "page_number": 151,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 101263,
+                    "resource_id": 20,
+                    "text": "Alif, Lām, Meem, Ṣād.<sup foot_note=196286>1</sup>"
+                },
+                {
+                    "id": 214911,
+                    "resource_id": 39,
+                    "text": "Alif, Laam, Miim, Saad."
+                },
+                {
+                    "id": 1091932,
+                    "resource_id": 161,
+                    "text": "আলিফ, লাম, মীম, সাদ।"
+                }
+            ]
+        },
+        {
+            "id": 956,
+            "verse_number": 2,
+            "verse_key": "7:2",
+            "hizb_number": 16,
+            "rub_el_hizb_number": 61,
+            "ruku_number": 122,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "كِتَـٰبٌ أُنزِلَ إِلَيْكَ فَلَا يَكُن فِى صَدْرِكَ حَرَجٌ مِّنْهُ لِتُنذِرَ بِهِۦ وَذِكْرَىٰ لِلْمُؤْمِنِينَ",
+            "page_number": 151,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 101406,
+                    "resource_id": 20,
+                    "text": "[This is] a Book revealed to you, [O Muḥammad] - so let there not be in your breast distress therefrom - that you may warn thereby and as a reminder to the believers."
+                },
+                {
+                    "id": 219257,
+                    "resource_id": 39,
+                    "text": "(Al-Quran ini) sebuah Kitab yang diturunkan kepadamu (wahai Muhammad dari Tuhanmu). Oleh itu, janganlah ada perasaan bimbang dalam dadamu mengenainya, supaya engkau memberi amaran dengan Al-Quran itu (kepada orang-orang yang ingkar), dan supaya menjadi peringatan bagi orang-orang yang beriman."
+                },
+                {
+                    "id": 1091933,
+                    "resource_id": 161,
+                    "text": "এটি একটি কিতাব যা তোমার উপর নাযিল করা হয়েছে, এ ব্যাপারে তোমার অন্তরে যেন কোন প্রকার কুণ্ঠাবোধ না হয়, (এটা নাযিল করা হয়েছে অমান্যকারীদেরকে) এর দ্বারা ভয় প্রদর্শনের জন্য এবং মু’মিনদেরকে উপদেশ প্রদানের জন্য।"
+                }
+            ]
+        },
+        {
+            "id": 957,
+            "verse_number": 3,
+            "verse_key": "7:3",
+            "hizb_number": 16,
+            "rub_el_hizb_number": 61,
+            "ruku_number": 122,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "ٱتَّبِعُوا۟ مَآ أُنزِلَ إِلَيْكُم مِّن رَّبِّكُمْ وَلَا تَتَّبِعُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ ۗ قَلِيلًا مَّا تَذَكَّرُونَ",
+            "page_number": 151,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 101450,
+                    "resource_id": 20,
+                    "text": "Follow, [O mankind], what has been revealed to you from your Lord and do not follow other than Him any allies. Little do you remember."
+                },
+                {
+                    "id": 219306,
+                    "resource_id": 39,
+                    "text": "(Katakanlah kepada mereka wahai Muhammad): \"Turutlah apa yang telah diturunkan kepada kamu dari Tuhan kamu dan janganlah kamu menurut pemimpin-pemimpin yang lain dari Allah; (tetapi sayang) amatlah sedikit kamu mengambil peringatan\"."
+                },
+                {
+                    "id": 1091934,
+                    "resource_id": 161,
+                    "text": "তোমাদের প্রতিপালকের নিকট হতে তোমাদের প্রতি যা অবতীর্ণ হয়েছে তোমরা তা মান্য করে চল, তাঁকে ছাড়া (অন্যদের) অভিভাবক মান্য করো না, তোমরা খুব সামান্য উপদেশই গ্রহণ কর।"
+                }
+            ]
+        },
+        {
+            "id": 958,
+            "verse_number": 4,
+            "verse_key": "7:4",
+            "hizb_number": 16,
+            "rub_el_hizb_number": 61,
+            "ruku_number": 122,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَكَم مِّن قَرْيَةٍ أَهْلَكْنَـٰهَا فَجَآءَهَا بَأْسُنَا بَيَـٰتًا أَوْ هُمْ قَآئِلُونَ",
+            "page_number": 151,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 101489,
+                    "resource_id": 20,
+                    "text": "And how many cities have We destroyed, and Our punishment came to them at night or while they were sleeping at noon."
+                },
+                {
+                    "id": 219268,
+                    "resource_id": 39,
+                    "text": "Dan berapa banyak negeri yang Kami binasakan, iaitu datang azab seksa Kami menimpa penduduknya pada malam hari, atau ketika mereka berehat pada tengah hari."
+                },
+                {
+                    "id": 1091935,
+                    "resource_id": 161,
+                    "text": "আমি কত জনপদকে ধ্বংস করে দিয়েছি। আমার শাস্তি তাদের নিকট এসেছিল হঠাৎ রাত্রিবেলা কিংবা দুপুর বেলা তারা যখন বিশ্রাম নিচ্ছিল।"
+                }
+            ]
+        },
+        {
+            "id": 959,
+            "verse_number": 5,
+            "verse_key": "7:5",
+            "hizb_number": 16,
+            "rub_el_hizb_number": 61,
+            "ruku_number": 122,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "فَمَا كَانَ دَعْوَىٰهُمْ إِذْ جَآءَهُم بَأْسُنَآ إِلَّآ أَن قَالُوٓا۟ إِنَّا كُنَّا ظَـٰلِمِينَ",
+            "page_number": 151,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 101544,
+                    "resource_id": 20,
+                    "text": "And their declaration when Our punishment came to them was only that they said, \"Indeed, we were wrongdoers!\""
+                },
+                {
+                    "id": 219393,
+                    "resource_id": 39,
+                    "text": "Maka tidak ada yang mereka katakan ketika datangnya azab Kami kepada mereka, melainkan mereka (mengakui dengan) berkata: \"Sebenarnya kami adalah orang-orang yang zalim\"."
+                },
+                {
+                    "id": 1091936,
+                    "resource_id": 161,
+                    "text": "আমার শাস্তি যখন তাদের উপর এসেছিল তখন এ কথা বলা ছাড়া তারা আর কোন ধ্বনি উচ্চারণ করতে পারেনি যে, ‘‘অবশ্যই আমরা যালিম ছিলাম’’।"
+                }
+            ]
+        },
+        {
+            "id": 960,
+            "verse_number": 6,
+            "verse_key": "7:6",
+            "hizb_number": 16,
+            "rub_el_hizb_number": 61,
+            "ruku_number": 122,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "فَلَنَسْـَٔلَنَّ ٱلَّذِينَ أُرْسِلَ إِلَيْهِمْ وَلَنَسْـَٔلَنَّ ٱلْمُرْسَلِينَ",
+            "page_number": 151,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 101598,
+                    "resource_id": 20,
+                    "text": "Then We will surely question those to whom [a message] was sent, and We will surely question the messengers."
+                },
+                {
+                    "id": 219435,
+                    "resource_id": 39,
+                    "text": "Maka sesungguhnya Kami (Allah) akan menyoal umat-umat yang telah diutuskan (Rasul-rasul) kepada mereka, dan sesungguhnya Kami akan menyoal juga Rasul-rasul itu."
+                },
+                {
+                    "id": 1091937,
+                    "resource_id": 161,
+                    "text": "অতঃপর যাদের নিকট রসূল পাঠানো হয়েছিল আমি অবশ্যই তাদেরকে জিজ্ঞেস করব আর রসূলগণকেও (আল্লাহর বাণী পৌঁছে দেয়া সম্পর্কে) অবশ্যই জিজ্ঞেস করব।"
+                }
+            ]
+        },
+        {
+            "id": 961,
+            "verse_number": 7,
+            "verse_key": "7:7",
+            "hizb_number": 16,
+            "rub_el_hizb_number": 61,
+            "ruku_number": 122,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "فَلَنَقُصَّنَّ عَلَيْهِم بِعِلْمٍ ۖ وَمَا كُنَّا غَآئِبِينَ",
+            "page_number": 151,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 101640,
+                    "resource_id": 20,
+                    "text": "Then We will surely relate [their deeds] to them with knowledge, and We were not [at all] absent."
+                },
+                {
+                    "id": 219470,
+                    "resource_id": 39,
+                    "text": "Kemudian sesungguhnya Kami akan ceritakan kepada mereka (Rasul-rasul dan umat-umatnya), dengan (berdasarkan) pengetahuan (yang meliputi akan apa yang mereka lakukan), dan sememangnya Kami tidak sekali-kali ghaib (bahkan sentiasa Mendengar, Melihat dan Mengetahui akan hal ehwal mereka)."
+                },
+                {
+                    "id": 1091938,
+                    "resource_id": 161,
+                    "text": "অতঃপর পরিপূর্ণ জ্ঞানের ভিত্তিতে তাদের নিকট তাদের সমস্ত কাহিনী অবশ্যই জানিয়ে দেব, কেননা আমি তো মোটেই অনুপস্থিত ছিলাম না।"
+                }
+            ]
+        },
+        {
+            "id": 962,
+            "verse_number": 8,
+            "verse_key": "7:8",
+            "hizb_number": 16,
+            "rub_el_hizb_number": 61,
+            "ruku_number": 122,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلْوَزْنُ يَوْمَئِذٍ ٱلْحَقُّ ۚ فَمَن ثَقُلَتْ مَوَٰزِينُهُۥ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+            "page_number": 151,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 101698,
+                    "resource_id": 20,
+                    "text": "And the weighing [of deeds] that Day will be the truth. So those whose scales are heavy - it is they who will be the successful."
+                },
+                {
+                    "id": 219527,
+                    "resource_id": 39,
+                    "text": "Dan timbangan amal pada hari itu adalah benar; maka sesiapa yang berat timbangan amalnya (yang baik), maka mereka itulah orang-orang yang berjaya."
+                },
+                {
+                    "id": 1091939,
+                    "resource_id": 161,
+                    "text": "সেদিনের ওজন হবে ঠিক ঠিক। ফলে যাদের পাল্লা ভারী হবে তারা সফলকাম হবে।"
+                }
+            ]
+        },
+        {
+            "id": 963,
+            "verse_number": 9,
+            "verse_key": "7:9",
+            "hizb_number": 16,
+            "rub_el_hizb_number": 61,
+            "ruku_number": 122,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَنْ خَفَّتْ مَوَٰزِينُهُۥ فَأُو۟لَـٰٓئِكَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُم بِمَا كَانُوا۟ بِـَٔايَـٰتِنَا يَظْلِمُونَ",
+            "page_number": 151,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 101745,
+                    "resource_id": 20,
+                    "text": "And those whose scales are light - they are the ones who will lose themselves for what injustice they were doing toward Our verses."
+                },
+                {
+                    "id": 219747,
+                    "resource_id": 39,
+                    "text": "Dan sesiapa yang ringan timbangan amalnya (yang baik), maka mereka itulah orang-orang yang merugikan dirinya sendiri, dengan sebab mereka berlaku zalim terhadap ayat-ayat Kami (dengan meletakkannya pada bukan tempatnya)."
+                },
+                {
+                    "id": 1091940,
+                    "resource_id": 161,
+                    "text": "যাদের পাল্লা হালকা হবে তারা হল যারা নিজেদেরকে ক্ষতিগ্রস্ত করেছে, কারণ তারা আমার নিদর্শনসমূহকে প্রত্যাখ্যান করেছিল।"
+                }
+            ]
+        },
+        {
+            "id": 964,
+            "verse_number": 10,
+            "verse_key": "7:10",
+            "hizb_number": 16,
+            "rub_el_hizb_number": 61,
+            "ruku_number": 122,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَقَدْ مَكَّنَّـٰكُمْ فِى ٱلْأَرْضِ وَجَعَلْنَا لَكُمْ فِيهَا مَعَـٰيِشَ ۗ قَلِيلًا مَّا تَشْكُرُونَ",
+            "page_number": 151,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 101264,
+                    "resource_id": 20,
+                    "text": "And We have certainly established you upon the earth and made for you therein ways of livelihood. Little are you grateful."
+                },
+                {
+                    "id": 219099,
+                    "resource_id": 39,
+                    "text": "Dan sesungguhnya Kami telah menetapkan kamu (dan memberi kuasa) di bumi, dan Kami jadikan untuk kamu padanya (berbagai jalan) penghidupan (supaya kamu bersyukur, tetapi) amatlah sedikit kamu bersyukur."
+                },
+                {
+                    "id": 1091941,
+                    "resource_id": 161,
+                    "text": "আমি তোমাদেরকে যমীনে প্রতিষ্ঠিত করেছি; আর সেখানে তোমাদের জন্য জীবিকার ব্যবস্থা করেছি তোমরা খুব সামান্যই কৃতজ্ঞতা প্রকাশ কর।"
+                }
+            ]
+        },
+        {
+            "id": 965,
+            "verse_number": 11,
+            "verse_key": "7:11",
+            "hizb_number": 16,
+            "rub_el_hizb_number": 61,
+            "ruku_number": 123,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَقَدْ خَلَقْنَـٰكُمْ ثُمَّ صَوَّرْنَـٰكُمْ ثُمَّ قُلْنَا لِلْمَلَـٰٓئِكَةِ ٱسْجُدُوا۟ لِـَٔادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ لَمْ يَكُن مِّنَ ٱلسَّـٰجِدِينَ",
+            "page_number": 151,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 101275,
+                    "resource_id": 20,
+                    "text": "And We have certainly created you, [O mankind], and given you [human] form. Then We said to the angels, \"Prostrate to Adam\"; so they prostrated, except for Iblees.<sup foot_note=196287>1</sup> He was not of those who prostrated."
+                },
+                {
+                    "id": 219112,
+                    "resource_id": 39,
+                    "text": "Dan sesungguhnya Kami telah menciptakan kamu, lalu Kami membentuk rupa kamu, kemudian Kami berfirman kepada malaikat-malaikat: \"Sujudlah kamu kepada Adam\", lalu mereka sujud melainkan Iblis, ia tidaklah termasuk dalam golongan yang sujud."
+                },
+                {
+                    "id": 1091942,
+                    "resource_id": 161,
+                    "text": "আমি তো তোমাদেরকে সৃষ্টি করেছি, অতঃপর তোমাদের আকৃতি দিয়েছি, অতঃপর ফেরেশতাদের নির্দেশ দিলাম আদামকে সাজদাহ করার জন্য। তখন ইবলিস ছাড়া সবাই সিজদা করল। সে সিজদাকারীদের অন্তর্ভুক্ত হল না।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 11,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 11
+    }
+}

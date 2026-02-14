@@ -1,0 +1,341 @@
+{
+    "verses": [
+        {
+            "id": 3504,
+            "verse_number": 1,
+            "verse_key": "32:1",
+            "hizb_number": 42,
+            "rub_el_hizb_number": 165,
+            "ruku_number": 360,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": " الٓمٓ",
+            "page_number": 415,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98816,
+                    "resource_id": 20,
+                    "text": "Alif, Lām, Meem.<sup foot_note=197068>1</sup>"
+                },
+                {
+                    "id": 214991,
+                    "resource_id": 39,
+                    "text": "Alif, Laam Miim."
+                },
+                {
+                    "id": 1094481,
+                    "resource_id": 161,
+                    "text": "আলিফ-লাম-মীম,"
+                }
+            ]
+        },
+        {
+            "id": 3505,
+            "verse_number": 2,
+            "verse_key": "32:2",
+            "hizb_number": 42,
+            "rub_el_hizb_number": 165,
+            "ruku_number": 360,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "تَنزِيلُ ٱلْكِتَـٰبِ لَا رَيْبَ فِيهِ مِن رَّبِّ ٱلْعَـٰلَمِينَ",
+            "page_number": 415,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98828,
+                    "resource_id": 20,
+                    "text": "[This is] the revelation of the Book about which there is no doubt from the Lord of the worlds."
+                },
+                {
+                    "id": 216555,
+                    "resource_id": 39,
+                    "text": "Diturunkan Al-Quran ini, dengan tidak ada sebarang syak padanya, dari Tuhan yang memelihara dan mentadbirkan sekalian alam."
+                },
+                {
+                    "id": 1094482,
+                    "resource_id": 161,
+                    "text": "এ কিতাব বিশ্বজগতের পালনকর্তার নিকট হতে অবতীর্ণ, এতে কোন সন্দেহ নেই।"
+                }
+            ]
+        },
+        {
+            "id": 3506,
+            "verse_number": 3,
+            "verse_key": "32:3",
+            "hizb_number": 42,
+            "rub_el_hizb_number": 165,
+            "ruku_number": 360,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۚ بَلْ هُوَ ٱلْحَقُّ مِن رَّبِّكَ لِتُنذِرَ قَوْمًا مَّآ أَتَىٰهُم مِّن نَّذِيرٍ مِّن قَبْلِكَ لَعَلَّهُمْ يَهْتَدُونَ",
+            "page_number": 415,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98840,
+                    "resource_id": 20,
+                    "text": "Or do they say, \"He invented it\"? Rather, it is the truth from your Lord, [O Muḥammad], that you may warn a people to whom no warner has come before you [so] perhaps they will be guided."
+                },
+                {
+                    "id": 216694,
+                    "resource_id": 39,
+                    "text": "(Orang-orang kafir tidak mengakui hakikat yang demikian) bahkan mereka mengatakan: \"Dia lah (Muhammad) yang mengada-adakan Al-Quran menurut rekaannya\". (Dakwaan mereka itu tidaklah benar) bahkan Al-Quran ialah perkara yang benar dari Tuhanmu (wahai Muhammad), supaya engkau memberi ingatan dan amaran kepada kaum (mu) yang telah lama tidak didatangi sebarang pemberi ingatan dan amaran sebelummu, semoga mereka beroleh hidayah petunjuk."
+                },
+                {
+                    "id": 1094483,
+                    "resource_id": 161,
+                    "text": "তবে তারা কি বলে যে, সে নিজেই তা রচনা করেছে (এবং আল্লাহর নিকট থেকে আগত কিতাব ব’লে মিথ্যে দাবী করছে, না তা নয়), বরং তা তোমাদের প্রতিপালকের নিকট থেকে (আগত) সত্য যাতে তুমি এমন এক সম্প্রদায়কে সতর্ক করতে পার যাদের কাছে তোমার পূর্বে কোন সকর্তকারী আসেনি, সম্ভবতঃ তারা সঠিকপথ প্রাপ্ত হবে।"
+                }
+            ]
+        },
+        {
+            "id": 3507,
+            "verse_number": 4,
+            "verse_key": "32:4",
+            "hizb_number": 42,
+            "rub_el_hizb_number": 165,
+            "ruku_number": 360,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ ۖ مَا لَكُم مِّن دُونِهِۦ مِن وَلِىٍّ وَلَا شَفِيعٍ ۚ أَفَلَا تَتَذَكَّرُونَ",
+            "page_number": 415,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98843,
+                    "resource_id": 20,
+                    "text": "It is Allāh who created the heavens and the earth and whatever is between them in six days; then He established Himself above the Throne.<sup foot_note=197069>1</sup> You have not besides Him any protector or any intercessor; so will you not be reminded?"
+                },
+                {
+                    "id": 216697,
+                    "resource_id": 39,
+                    "text": "Allah Tuhan yang menciptakan langit dan bumi serta segala yang ada di antara keduanya dalam enam masa, kemudian Ia bersemayam di atas Arasy; kamu tidak akan beroleh sebarang penolong dan pemberi syafaat selain dari Allah; oleh itu tidakkah kamu mahu insaf dan mengambil iktibar (untuk mencapai keredaanNya)?"
+                },
+                {
+                    "id": 1094484,
+                    "resource_id": 161,
+                    "text": "আল্লাহ যিনি আকাশমন্ডলী ও পৃথিবী এবং এ দু’এর মাঝে যা কিছু আছে ছয় দিনে সৃষ্টি করেছেন- অতঃপর তিনি ‘আরশে সমুন্নত হন। তিনি ব্যতীত তোমাদের জন্য কোন অভিভাবক নেই, সুপারিশকারীও নেই। তবুও কি তোমরা উপদেশ গ্রহণ করবে না?"
+                }
+            ]
+        },
+        {
+            "id": 3508,
+            "verse_number": 5,
+            "verse_key": "32:5",
+            "hizb_number": 42,
+            "rub_el_hizb_number": 165,
+            "ruku_number": 360,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "يُدَبِّرُ ٱلْأَمْرَ مِنَ ٱلسَّمَآءِ إِلَى ٱلْأَرْضِ ثُمَّ يَعْرُجُ إِلَيْهِ فِى يَوْمٍ كَانَ مِقْدَارُهُۥٓ أَلْفَ سَنَةٍ مِّمَّا تَعُدُّونَ",
+            "page_number": 415,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98845,
+                    "resource_id": 20,
+                    "text": "He arranges [each] matter from the heaven to the earth; then it will ascend to Him in a Day, the extent of which is a thousand years of those which you count."
+                },
+                {
+                    "id": 216699,
+                    "resource_id": 39,
+                    "text": "Allah mentadbirkan makhluk-makhlukNya; (bagi melaksanakan tadbirNya itu Ia menurunkan segala sebab dan peraturan) dari langit ke bumi; kemudian diangkat naik kepada pengetahuanNya (segala yang berlaku dari perlaksanaan tadbirNya itu untuk dihakimiNya) pada suatu masa yang (dirasai oleh orang-orang yang bersalah) banyak bilangan tahunnya menurut hitungan masa kamu yang biasa."
+                },
+                {
+                    "id": 1094485,
+                    "resource_id": 161,
+                    "text": "তিনি আকাশ হতে পৃথিবী পর্যন্ত কার্য পরিচালনা করেন, অতঃপর সকল বিষয়াদি তাঁরই কাছে একদিন উত্থিত হবে যার পরিমাপ তোমাদের গণনা অনুযায়ী হাজার বছর।"
+                }
+            ]
+        },
+        {
+            "id": 3509,
+            "verse_number": 6,
+            "verse_key": "32:6",
+            "hizb_number": 42,
+            "rub_el_hizb_number": 165,
+            "ruku_number": 360,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "ذَٰلِكَ عَـٰلِمُ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ ٱلْعَزِيزُ ٱلرَّحِيمُ",
+            "page_number": 415,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98848,
+                    "resource_id": 20,
+                    "text": "That is the Knower of the unseen and the witnessed, the Exalted in Might, the Merciful,"
+                },
+                {
+                    "id": 216701,
+                    "resource_id": 39,
+                    "text": "Yang demikian sifatnya ialah Tuhan yang mengetahui perkara-perkara yang ghaib dan yang nyata; Yang Maha Kuasa, lagi Maha Mengasihani;"
+                },
+                {
+                    "id": 1094486,
+                    "resource_id": 161,
+                    "text": "এমনই তিনি, অদৃশ্য ও দৃশ্যমান সম্পর্কে জ্ঞাত, মহাপরাক্রমশালী, পরম দয়ালু।"
+                }
+            ]
+        },
+        {
+            "id": 3510,
+            "verse_number": 7,
+            "verse_key": "32:7",
+            "hizb_number": 42,
+            "rub_el_hizb_number": 165,
+            "ruku_number": 360,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِىٓ أَحْسَنَ كُلَّ شَىْءٍ خَلَقَهُۥ ۖ وَبَدَأَ خَلْقَ ٱلْإِنسَـٰنِ مِن طِينٍ",
+            "page_number": 415,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98850,
+                    "resource_id": 20,
+                    "text": "Who perfected everything which He created and began the creation of man from clay."
+                },
+                {
+                    "id": 216703,
+                    "resource_id": 39,
+                    "text": "Yang menciptakan tiap-tiap sesuatu dengan sebaik-baiknya, dan dimulakanNya kejadian manusia berasal dari tanah;"
+                },
+                {
+                    "id": 1094487,
+                    "resource_id": 161,
+                    "text": "যিনি সব কিছুকে উত্তমরূপে সৃষ্টি করেছেন, আর মানুষ সৃষ্টির সূচনা করেছেন মাটি থেকে।"
+                }
+            ]
+        },
+        {
+            "id": 3511,
+            "verse_number": 8,
+            "verse_key": "32:8",
+            "hizb_number": 42,
+            "rub_el_hizb_number": 165,
+            "ruku_number": 360,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "ثُمَّ جَعَلَ نَسْلَهُۥ مِن سُلَـٰلَةٍ مِّن مَّآءٍ مَّهِينٍ",
+            "page_number": 415,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98852,
+                    "resource_id": 20,
+                    "text": "Then He made his posterity out of the extract of a liquid disdained."
+                },
+                {
+                    "id": 216746,
+                    "resource_id": 39,
+                    "text": "Kemudian Ia menjadikan keturunan manusia itu dari sejenis pati, iaitu dari air (benih) yang sedikit dipandang orang;"
+                },
+                {
+                    "id": 1094488,
+                    "resource_id": 161,
+                    "text": "অতঃপর তিনি তার বংশধর সৃষ্টি করেন তুচ্ছ তরল পদার্থের নির্যাস থেকে।"
+                }
+            ]
+        },
+        {
+            "id": 3512,
+            "verse_number": 9,
+            "verse_key": "32:9",
+            "hizb_number": 42,
+            "rub_el_hizb_number": 165,
+            "ruku_number": 360,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "ثُمَّ سَوَّىٰهُ وَنَفَخَ فِيهِ مِن رُّوحِهِۦ ۖ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَٱلْأَفْـِٔدَةَ ۚ قَلِيلًا مَّا تَشْكُرُونَ",
+            "page_number": 415,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98854,
+                    "resource_id": 20,
+                    "text": "Then He proportioned him and breathed into him from His [created] soul<sup foot_note=197070>1</sup> and made for you hearing and vision and hearts [i.e., intellect]; little are you grateful."
+                },
+                {
+                    "id": 216708,
+                    "resource_id": 39,
+                    "text": "Kemudian Ia menyempurnakan kejadiannya, serta meniupkan padanya: roh ciptaanNya. Dan Ia mengurniakan kepada kamu pendengaran dan penglihatan serta hati (akal fikiran), (supaya kamu bersyukur, tetapi) amatlah sedikit kamu bersyukur."
+                },
+                {
+                    "id": 1094489,
+                    "resource_id": 161,
+                    "text": "অতঃপর তিনি তাকে সামঞ্জস্যপূর্ণ করেছেন আর তার ভিতরে স্বীয় রূহ হতে ফুঁক দিয়েছেন, আর তোমাদেরকে দিয়েছেন শ্রবণেন্দ্রীয়, দর্শনেন্দ্রিয় ও অন্তঃকরণ; কৃতজ্ঞতা তোমরা সামান্যই প্রকাশ কর।"
+                }
+            ]
+        },
+        {
+            "id": 3513,
+            "verse_number": 10,
+            "verse_key": "32:10",
+            "hizb_number": 42,
+            "rub_el_hizb_number": 165,
+            "ruku_number": 360,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "وَقَالُوٓا۟ أَءِذَا ضَلَلْنَا فِى ٱلْأَرْضِ أَءِنَّا لَفِى خَلْقٍ جَدِيدٍۭ ۚ بَلْ هُم بِلِقَآءِ رَبِّهِمْ كَـٰفِرُونَ",
+            "page_number": 415,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98817,
+                    "resource_id": 20,
+                    "text": "And they say, \"When we are lost [i.e., disintegrated] within the earth, will we indeed be [recreated] in a new creation?\" Rather, they are, in the meeting with their Lord, disbelievers."
+                },
+                {
+                    "id": 216683,
+                    "resource_id": 39,
+                    "text": "Dan mereka (yang kafir) itu berkata: \"Adakah apabila kami telah hilang lenyap dalam tanah, kami pula akan hidup semula dalam bentuk kejadian yang baharu? Betulkah demikian? \" (Mereka bukan sahaja tidak percaya tentang hidup semula) bahkan mereka tidak percaya tentang pertemuan dengan Tuhannya."
+                },
+                {
+                    "id": 1094490,
+                    "resource_id": 161,
+                    "text": "তারা বলে, কী! আমরা মাটিতে মিশিয়ে গেলেও কি আমাদেরকে আবার নতুন ক’রে সৃষ্টি করা হবে? বরং তারা তাদের প্রতিপালকের সাক্ষাৎকে অস্বীকার করে।"
+                }
+            ]
+        },
+        {
+            "id": 3514,
+            "verse_number": 11,
+            "verse_key": "32:11",
+            "hizb_number": 42,
+            "rub_el_hizb_number": 166,
+            "ruku_number": 360,
+            "manzil_number": 5,
+            "sajdah_number": null,
+            "text_uthmani": "۞ قُلْ يَتَوَفَّىٰكُم مَّلَكُ ٱلْمَوْتِ ٱلَّذِى وُكِّلَ بِكُمْ ثُمَّ إِلَىٰ رَبِّكُمْ تُرْجَعُونَ",
+            "page_number": 415,
+            "juz_number": 21,
+            "translations": [
+                {
+                    "id": 98818,
+                    "resource_id": 20,
+                    "text": "Say, \"The angel of death who has been entrusted with you will take you. Then to your Lord you will be returned.\""
+                },
+                {
+                    "id": 216684,
+                    "resource_id": 39,
+                    "text": "Katakanlah (wahai Muhammad); \"Nyawa kamu akan diambil oleh Malikil Maut yang ditugaskan berbuat demikian ketika habis ajal kamu, kemudian kamu akan dikembalikan kepada Tuhan kamu (untuk menerima balasan)\"."
+                },
+                {
+                    "id": 1094491,
+                    "resource_id": 161,
+                    "text": "বল, তোমাদের প্রাণ হরণের দায়িত্বে নিয়োজিত ফেরেশতা তোমাদের প্রাণ হরণ করবে, অতঃপর তোমাদের প্রতিপালকের নিকট তোমাদেরকে ফিরিয়ে আনা হবে।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 11,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 11
+    }
+}

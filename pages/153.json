@@ -1,0 +1,251 @@
+{
+    "verses": [
+        {
+            "id": 977,
+            "verse_number": 23,
+            "verse_key": "7:23",
+            "hizb_number": 16,
+            "rub_el_hizb_number": 61,
+            "ruku_number": 123,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+            "page_number": 153,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 101436,
+                    "resource_id": 20,
+                    "text": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\""
+                },
+                {
+                    "id": 219289,
+                    "resource_id": 39,
+                    "text": "Mereka berdua merayu: \"Wahai Tuhan kami, kami telah menganiaya diri kami sendiri, dan kalau Engkau tidak mengampunkan kami dan memberi rahmat kepada kami, nescaya menjadilah kami dari orang-orang yang rugi\"."
+                },
+                {
+                    "id": 1091954,
+                    "resource_id": 161,
+                    "text": "তারা বলল, ‘হে আমাদের প্রতিপালক! আমরা নিজেদের প্রতি অন্যায় করে ফেলেছি, যদি তুমি আমাদেরকে ক্ষমা না কর আর দয়া না কর তাহলে আমরা অবশ্য অবশ্যই ক্ষতিগ্রস্তদের অন্তর্ভুক্ত হয়ে যাব।’"
+                }
+            ]
+        },
+        {
+            "id": 978,
+            "verse_number": 24,
+            "verse_key": "7:24",
+            "hizb_number": 16,
+            "rub_el_hizb_number": 61,
+            "ruku_number": 123,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ ٱهْبِطُوا۟ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ ۖ وَلَكُمْ فِى ٱلْأَرْضِ مُسْتَقَرٌّ وَمَتَـٰعٌ إِلَىٰ حِينٍ",
+            "page_number": 153,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 101438,
+                    "resource_id": 20,
+                    "text": "[Allāh] said, \"Descend, being to one another enemies. And for you on the earth is a place of settlement and enjoyment [i.e., provision] for a time.\""
+                },
+                {
+                    "id": 219291,
+                    "resource_id": 39,
+                    "text": "Allah berfirman: \"Turunlah kamu semuanya, dengan keadaan setengah kamu menjadi musuh bagi setengahnya yang lain, dan bagi kamu disediakan tempat kediaman di bumi, dan juga diberi kesenangan hingga ke suatu ketika (mati)\"."
+                },
+                {
+                    "id": 1091955,
+                    "resource_id": 161,
+                    "text": "তিনি বললেন, ‘তোমরা নেমে যাও, তোমরা একে অন্যের শত্রু, পৃথিবীতে তোমাদের অবস্থান ও জীবিকা থাকবে একটা নির্দিষ্ট সময়ের জন্য।’"
+                }
+            ]
+        },
+        {
+            "id": 979,
+            "verse_number": 25,
+            "verse_key": "7:25",
+            "hizb_number": 16,
+            "rub_el_hizb_number": 61,
+            "ruku_number": 123,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ فِيهَا تَحْيَوْنَ وَفِيهَا تَمُوتُونَ وَمِنْهَا تُخْرَجُونَ",
+            "page_number": 153,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 101440,
+                    "resource_id": 20,
+                    "text": "He said, \"Therein you will live, and therein you will die, and from it you will be brought forth.\""
+                },
+                {
+                    "id": 219293,
+                    "resource_id": 39,
+                    "text": "Allah berfirman lagi: \"Di bumi itu kamu hidup dan situ juga kamu mati, dan daripadanya pula kamu akan dikeluarkan (dibangkitkan hidup semula pada hari kiamat)\"."
+                },
+                {
+                    "id": 1091956,
+                    "resource_id": 161,
+                    "text": "বললেন, ‘ওখানে তোমরা জীবন যাপন করবে, ওখানেই তোমাদের মৃত্যু হবে, আর তাথেকেই তোমাদেরকে বের করা হবে।’"
+                }
+            ]
+        },
+        {
+            "id": 980,
+            "verse_number": 26,
+            "verse_key": "7:26",
+            "hizb_number": 16,
+            "rub_el_hizb_number": 61,
+            "ruku_number": 124,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "يَـٰبَنِىٓ ءَادَمَ قَدْ أَنزَلْنَا عَلَيْكُمْ لِبَاسًا يُوَٰرِى سَوْءَٰتِكُمْ وَرِيشًا ۖ وَلِبَاسُ ٱلتَّقْوَىٰ ذَٰلِكَ خَيْرٌ ۚ ذَٰلِكَ مِنْ ءَايَـٰتِ ٱللَّهِ لَعَلَّهُمْ يَذَّكَّرُونَ",
+            "page_number": 153,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 101442,
+                    "resource_id": 20,
+                    "text": "O children of Adam, We have bestowed upon you clothing to conceal your private parts and as adornment. But the clothing of righteousness - that is best. That is from the signs of Allāh that perhaps they will remember."
+                },
+                {
+                    "id": 219295,
+                    "resource_id": 39,
+                    "text": "Wahai anak-anak Adam! Sesungguhnya Kami telah menurunkan kepada kamu (bahan-bahan untuk) pakaian menutup aurat kamu, dan pakaian perhiasan; dan pakaian yang berupa taqwa itulah yang sebaik-baiknya. Yang demikian itu adalah dari tanda-tanda (limpah kurnia) Allah (dan rahmatNya kepada hamba-hambaNya) supaya mereka mengenangnya (dan bersyukur)."
+                },
+                {
+                    "id": 1091957,
+                    "resource_id": 161,
+                    "text": "হে আদাম সন্তান! আমি তোমাদেরকে পোষাক-পরিচ্ছদ দিয়েছি তোমাদের লজ্জাস্থান আবৃত করার জন্য এবং শোভা বর্ধনের জন্য। আর তাকওয়ার পোশাক হচ্ছে সর্বোত্তম পোশাক। ওটা আল্লাহর নিদর্শনসমূহের মধ্যে একটি যাতে তারা উপদেশ গ্রহণ করে।"
+                }
+            ]
+        },
+        {
+            "id": 981,
+            "verse_number": 27,
+            "verse_key": "7:27",
+            "hizb_number": 16,
+            "rub_el_hizb_number": 61,
+            "ruku_number": 124,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "يَـٰبَنِىٓ ءَادَمَ لَا يَفْتِنَنَّكُمُ ٱلشَّيْطَـٰنُ كَمَآ أَخْرَجَ أَبَوَيْكُم مِّنَ ٱلْجَنَّةِ يَنزِعُ عَنْهُمَا لِبَاسَهُمَا لِيُرِيَهُمَا سَوْءَٰتِهِمَآ ۗ إِنَّهُۥ يَرَىٰكُمْ هُوَ وَقَبِيلُهُۥ مِنْ حَيْثُ لَا تَرَوْنَهُمْ ۗ إِنَّا جَعَلْنَا ٱلشَّيَـٰطِينَ أَوْلِيَآءَ لِلَّذِينَ لَا يُؤْمِنُونَ",
+            "page_number": 153,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 101444,
+                    "resource_id": 20,
+                    "text": "O children of Adam, let not Satan tempt you as he removed your parents from Paradise, stripping them of their clothing<sup foot_note=196288>1</sup> to show them their private parts. Indeed, he sees you, he and his tribe, from where you do not see them. Indeed, We have made the devils allies to those who do not believe."
+                },
+                {
+                    "id": 219300,
+                    "resource_id": 39,
+                    "text": "Wahai anak-anak Adam! Janganlah kamu diperdayakan oleh Syaitan sebagaimana ia telah mengeluarkan kedua ibu bapa kamu dari Syurga, sambil ia menyebabkan terlucutnya pakaian mereka berdua untuk memperlihatkan kepada mereka: aurat mereka (yang sebelum itu tertutup). Sesungguhnya Syaitan dan kaumnya melihat kamu dengan keadaan yang kamu tidak dapat melihat mereka. Sesungguhnya Kami telah menjadikan Syaitan-syaitan itu teman rapat bagi orang-orang yang tidak beriman."
+                },
+                {
+                    "id": 1091958,
+                    "resource_id": 161,
+                    "text": "হে আদাম সন্তান! শয়ত্বান যেন তোমাদেরকে কিছুতেই ফিতনায় ফেলতে না পারে যেমনভাবে তোমাদের পিতা-মাতাকে (আদম ও হাওয়াকে) জান্নাত থেকে বের করেছিল। সে তাদের পরস্পরকে লজ্জাস্থান দেখানোর জন্য তাদের দেহ হতে পোষাক খুলিয়ে ফেলেছিল। সে আর তার সাথীরা তোমাদেরকে এমনভাবে দেখতে পায় যে তোমরা তাদেরকে দেখতে পাও না। যারা ঈমান আনে না তাদের জন্য আমি শয়ত্বানকে অভিভাবক বানিয়ে দিয়েছি।"
+                }
+            ]
+        },
+        {
+            "id": 982,
+            "verse_number": 28,
+            "verse_key": "7:28",
+            "hizb_number": 16,
+            "rub_el_hizb_number": 61,
+            "ruku_number": 124,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا فَعَلُوا۟ فَـٰحِشَةً قَالُوا۟ وَجَدْنَا عَلَيْهَآ ءَابَآءَنَا وَٱللَّهُ أَمَرَنَا بِهَا ۗ قُلْ إِنَّ ٱللَّهَ لَا يَأْمُرُ بِٱلْفَحْشَآءِ ۖ أَتَقُولُونَ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ",
+            "page_number": 153,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 101446,
+                    "resource_id": 20,
+                    "text": "And when they commit an immorality, they say, \"We found our fathers doing it, and Allāh has ordered us to do it.\" Say, \"Indeed, Allāh does not order immorality. Do you say about Allāh that which you do not know?\""
+                },
+                {
+                    "id": 219302,
+                    "resource_id": 39,
+                    "text": "Dan (orang-orang yang tidak beriman itu) apabila mereka melakukan sesuatu perbuatan yang keji, mereka berkata: \"Kami dapati datuk nenek kami mengerjakannya, dan Allah perintahkan kami mengerjakannya\". Katakanlah (wahai Muhammad): \"Sesungguhnya Allah tidak sekali-kali menyuruh mengerjakan perbuatan yang keji. Patutkah kamu mengatakan terhadap Allah apa yang kamu tidak mengetahuinya?\""
+                },
+                {
+                    "id": 1091959,
+                    "resource_id": 161,
+                    "text": "তারা যখন কোন অশ্লীল কাজ করে তখন তারা বলে- ‘আমরা আমাদের পিতৃপুরুষদেরকে এ কাজই করতে দেখেছি, আর আল্লাহ আমাদেরকে এসব কাজ করার আদেশ দিয়েছেন।’ বল, ‘আল্লাহ অশ্লীলতার নির্দেশ দেন না, আল্লাহর সম্বন্ধে তোমরা কি এমন কথা বলছ যা তোমরা জান না?’"
+                }
+            ]
+        },
+        {
+            "id": 983,
+            "verse_number": 29,
+            "verse_key": "7:29",
+            "hizb_number": 16,
+            "rub_el_hizb_number": 61,
+            "ruku_number": 124,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "قُلْ أَمَرَ رَبِّى بِٱلْقِسْطِ ۖ وَأَقِيمُوا۟ وُجُوهَكُمْ عِندَ كُلِّ مَسْجِدٍ وَٱدْعُوهُ مُخْلِصِينَ لَهُ ٱلدِّينَ ۚ كَمَا بَدَأَكُمْ تَعُودُونَ",
+            "page_number": 153,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 101448,
+                    "resource_id": 20,
+                    "text": "Say, [O Muḥammad], \"My Lord has ordered justice and that you direct yourselves [to the Qiblah] at every place [or time] of prostration, and invoke Him, sincere to Him in religion.\" Just as He originated you, you will return [to life] -"
+                },
+                {
+                    "id": 219304,
+                    "resource_id": 39,
+                    "text": "Katakanlah: \"Tuhanku menyuruh berlaku adil (pada segala perkara), dan (menyuruh supaya kamu) hadapkan muka (dan hati) kamu (kepada Allah) dengan betul pada tiap-tiap kali mengerjakan sembahyang, dan beribadatlah dengan mengikhlaskan amal ugama kamu kepadaNya semata-mata; (kerana) sebagaimana Ia telah menjadikan kamu pada mulanya, (demikian pula) kamu akan kembali (kepadaNya)."
+                },
+                {
+                    "id": 1091960,
+                    "resource_id": 161,
+                    "text": "বল, ‘আমার প্রতিপালক ন্যায়পরায়ণতার নির্দেশ দিয়েছেন’, আর প্রত্যেক সলাতে তোমাদের লক্ষ্য ও মনোযোগকে (তাঁর প্রতি) নিবদ্ধ কর, তাঁর আনুগত্যে বিশুদ্ধ-চিত্ত হয়ে তাঁকে ডাক। যেভাবে তোমাদেরকে প্রথমে সৃষ্টি করা হয়েছে (তোমাদের মৃত্যুর পর আবার জীবিত হয়ে) সেভাবেই তোমরা ফিরে আসবে।"
+                }
+            ]
+        },
+        {
+            "id": 984,
+            "verse_number": 30,
+            "verse_key": "7:30",
+            "hizb_number": 16,
+            "rub_el_hizb_number": 61,
+            "ruku_number": 124,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "فَرِيقًا هَدَىٰ وَفَرِيقًا حَقَّ عَلَيْهِمُ ٱلضَّلَـٰلَةُ ۗ إِنَّهُمُ ٱتَّخَذُوا۟ ٱلشَّيَـٰطِينَ أَوْلِيَآءَ مِن دُونِ ٱللَّهِ وَيَحْسَبُونَ أَنَّهُم مُّهْتَدُونَ",
+            "page_number": 153,
+            "juz_number": 8,
+            "translations": [
+                {
+                    "id": 101451,
+                    "resource_id": 20,
+                    "text": "A group [of you] He guided, and a group deserved [to be in] error. Indeed, they [i.e., the latter] had taken the devils as allies instead of Allāh while they thought that they were guided."
+                },
+                {
+                    "id": 219307,
+                    "resource_id": 39,
+                    "text": "Sebahagian (dari umat manusia) diberi hidayah petunjuk oleh Allah (dengan diberi taufiq untuk beriman dan beramal soleh); dan sebahagian lagi (yang ingkar) berhaklah mereka ditimpa kesesatan (dengan pilihan mereka sendiri), kerana sesungguhnya mereka telah menjadikan Syaitan-syaitan itu pemimpin-pemimpin (yang ditaati) selain Allah. Serta mereka pula menyangka, bahawa mereka berada dalam petunjuk hidayah."
+                },
+                {
+                    "id": 1091961,
+                    "resource_id": 161,
+                    "text": "একদলকে তিনি সঠিক পথ দেখিয়েছেন, আর অন্য দলের প্রতি গোমরাহী নির্ধারিত হয়েছে, তারা আল্লাহকে বাদ দিয়ে শয়ত্বানদেরকে তাদের অভিভাবক করে নিয়েছে আর মনে করছে যে তারা সঠিক পথে আছে।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 8,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 8
+    }
+}

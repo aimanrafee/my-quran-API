@@ -1,0 +1,311 @@
+{
+    "verses": [
+        {
+            "id": 2349,
+            "verse_number": 1,
+            "verse_key": "20:1",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 270,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": " طه",
+            "page_number": 312,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97255,
+                    "resource_id": 20,
+                    "text": "Ṭā, Hā.<sup foot_note=196741>1</sup>"
+                },
+                {
+                    "id": 214701,
+                    "resource_id": 39,
+                    "text": "Taa' Haa."
+                },
+                {
+                    "id": 1093326,
+                    "resource_id": 161,
+                    "text": "ত্ব-হা-।"
+                }
+            ]
+        },
+        {
+            "id": 2350,
+            "verse_number": 2,
+            "verse_key": "20:2",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 270,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "مَآ أَنزَلْنَا عَلَيْكَ ٱلْقُرْءَانَ لِتَشْقَىٰٓ",
+            "page_number": 312,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97302,
+                    "resource_id": 20,
+                    "text": "We have not sent down to you the Qur’ān that you be distressed"
+                },
+                {
+                    "id": 215173,
+                    "resource_id": 39,
+                    "text": "Kami tidak menurunkan Al-Quran kepadamu (wahai Muhammad) supaya engkau menanggung kesusahan."
+                },
+                {
+                    "id": 1093327,
+                    "resource_id": 161,
+                    "text": "তোমাকে ক্লেশ দেয়ার জন্য আমি তোমার প্রতি কুরআন নাযিল করিনি।"
+                }
+            ]
+        },
+        {
+            "id": 2351,
+            "verse_number": 3,
+            "verse_key": "20:3",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 270,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "إِلَّا تَذْكِرَةً لِّمَن يَخْشَىٰ",
+            "page_number": 312,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97313,
+                    "resource_id": 20,
+                    "text": "But only as a reminder for those who fear [Allāh] -"
+                },
+                {
+                    "id": 215179,
+                    "resource_id": 39,
+                    "text": "Hanya untuk menjadi peringatan bagi orang-orang yang takut melanggar perintah. Allah"
+                },
+                {
+                    "id": 1093328,
+                    "resource_id": 161,
+                    "text": "বরং তা (নাযিল করেছি) কেবল সতর্কবাণী হিসেবে যে (আল্লাহকে) ভয় করে তার জন্য।"
+                }
+            ]
+        },
+        {
+            "id": 2352,
+            "verse_number": 4,
+            "verse_key": "20:4",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 270,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "تَنزِيلًا مِّمَّنْ خَلَقَ ٱلْأَرْضَ وَٱلسَّمَـٰوَٰتِ ٱلْعُلَى",
+            "page_number": 312,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97324,
+                    "resource_id": 20,
+                    "text": "A revelation from He who created the earth and highest heavens,"
+                },
+                {
+                    "id": 215191,
+                    "resource_id": 39,
+                    "text": "(Al-Quran) diturunkan dari (Tuhan) yang menciptakan bumi dan langit yang tinggi."
+                },
+                {
+                    "id": 1093329,
+                    "resource_id": 161,
+                    "text": "যিনি পৃথিবী ও সুউচ্চ আকাশ সৃষ্টি করেছেন তাঁর নিকট হতে তা নাযিল হয়েছে।"
+                }
+            ]
+        },
+        {
+            "id": 2353,
+            "verse_number": 5,
+            "verse_key": "20:5",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 270,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلرَّحْمَـٰنُ عَلَى ٱلْعَرْشِ ٱسْتَوَىٰ",
+            "page_number": 312,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97332,
+                    "resource_id": 20,
+                    "text": "The Most Merciful [who is] above the Throne established.<sup foot_note=196742>1</sup>"
+                },
+                {
+                    "id": 215204,
+                    "resource_id": 39,
+                    "text": "Iaitu (Allah) Ar-Rahman, yang bersemayam di atas Arasy."
+                },
+                {
+                    "id": 1093330,
+                    "resource_id": 161,
+                    "text": "‘আরশে দয়াময় সমুন্নত আছেন।"
+                }
+            ]
+        },
+        {
+            "id": 2354,
+            "verse_number": 6,
+            "verse_key": "20:6",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 270,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "لَهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَمَا بَيْنَهُمَا وَمَا تَحْتَ ٱلثَّرَىٰ",
+            "page_number": 312,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97343,
+                    "resource_id": 20,
+                    "text": "To Him belongs what is in the heavens and what is on the earth and what is between them and what is under the soil."
+                },
+                {
+                    "id": 215215,
+                    "resource_id": 39,
+                    "text": "Dia lah jua yang memiliki segala yang ada di langit dan yang ada di bumi serta yang ada di antara keduanya dan juga yang ada di bawah tanah basah di perut bumi."
+                },
+                {
+                    "id": 1093331,
+                    "resource_id": 161,
+                    "text": "যা আকাশসমূহে আছে, যা যমীনে আছে, যা এ দু’য়ের মাঝে আছে আর যা ভূগর্ভে আছে সব তাঁরই।"
+                }
+            ]
+        },
+        {
+            "id": 2355,
+            "verse_number": 7,
+            "verse_key": "20:7",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 270,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِن تَجْهَرْ بِٱلْقَوْلِ فَإِنَّهُۥ يَعْلَمُ ٱلسِّرَّ وَأَخْفَى",
+            "page_number": 312,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97354,
+                    "resource_id": 20,
+                    "text": "And if you speak aloud - then indeed, He knows the secret and what is [even] more hidden."
+                },
+                {
+                    "id": 215228,
+                    "resource_id": 39,
+                    "text": "Dan jika engkau menyaringkan suara dengan doa permohonanmu, (maka yang demikian tidaklah perlu), kerana sesungguhnya Allah mengetahui segala rahsia dan segala yang tersembunyi."
+                },
+                {
+                    "id": 1093332,
+                    "resource_id": 161,
+                    "text": "যদি তুমি উচ্চকণ্ঠে কথা বল (তাহলে জেনে রেখ) তিনি গুপ্ত ও তদপেক্ষাও গুপ্ত বিষয় জানেন।"
+                }
+            ]
+        },
+        {
+            "id": 2356,
+            "verse_number": 8,
+            "verse_key": "20:8",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 270,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ لَهُ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ",
+            "page_number": 312,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97365,
+                    "resource_id": 20,
+                    "text": "Allāh - there is no deity except Him. To Him belong the best names."
+                },
+                {
+                    "id": 215238,
+                    "resource_id": 39,
+                    "text": "Allah! Tiada Tuhan yang berhak disembah melainkan Dia, bagiNyalah segala nama yang baik."
+                },
+                {
+                    "id": 1093333,
+                    "resource_id": 161,
+                    "text": "আল্লাহ, তিনি ব্যতীত সত্যিকারের কোন ইলাহ নেই, সুন্দর নামসমূহ তাঁরই।"
+                }
+            ]
+        },
+        {
+            "id": 2357,
+            "verse_number": 9,
+            "verse_key": "20:9",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 270,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَهَلْ أَتَىٰكَ حَدِيثُ مُوسَىٰٓ",
+            "page_number": 312,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97376,
+                    "resource_id": 20,
+                    "text": "And has the story of Moses reached you? -"
+                },
+                {
+                    "id": 215249,
+                    "resource_id": 39,
+                    "text": "Dan sudahkah sampai kepadamu (wahai Muhammad) perihal Nabi Musa?"
+                },
+                {
+                    "id": 1093334,
+                    "resource_id": 161,
+                    "text": "মূসার কাহিনী তোমার কাছে পৌঁছেছে কি?"
+                }
+            ]
+        },
+        {
+            "id": 2358,
+            "verse_number": 10,
+            "verse_key": "20:10",
+            "hizb_number": 32,
+            "rub_el_hizb_number": 125,
+            "ruku_number": 270,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "إِذْ رَءَا نَارًا فَقَالَ لِأَهْلِهِ ٱمْكُثُوٓا۟ إِنِّىٓ ءَانَسْتُ نَارًا لَّعَلِّىٓ ءَاتِيكُم مِّنْهَا بِقَبَسٍ أَوْ أَجِدُ عَلَى ٱلنَّارِ هُدًى",
+            "page_number": 312,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97256,
+                    "resource_id": 20,
+                    "text": "When he saw a fire and said to his family, \"Stay here; indeed, I have perceived a fire; perhaps I can bring you a torch or find at the fire some guidance.\""
+                },
+                {
+                    "id": 215123,
+                    "resource_id": 39,
+                    "text": "Ketika ia melihat api, lalu berkatalah ia kepada isterinya: \"Berhentilah! Sesungguhnya aku ada melihat api semoga aku dapat membawa kepada kamu satu cucuhan daripadanya, atau aku dapat di tempat api itu: penunjuk jalan."
+                },
+                {
+                    "id": 1093335,
+                    "resource_id": 161,
+                    "text": "যখন সে আগুন দেখল (মাদ্ইয়ান থেকে মিসর যাবার পথে), তখন সে তার পরিবারবর্গকে বলল, ‘তোমরা এখানে অবস্থান কর, আমি আগুন দেখেছি, সম্ভবতঃ আমি তাত্থেকে তোমাদের জন্য কিছু জ্বলন্ত আগুন আনতে পারব কিংবা আগুনের নিকট পথের সন্ধান পাব।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": 2,
+        "total_pages": 14,
+        "total_records": 135
+    }
+}

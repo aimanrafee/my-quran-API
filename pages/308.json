@@ -1,0 +1,401 @@
+{
+    "verses": [
+        {
+            "id": 2289,
+            "verse_number": 39,
+            "verse_key": "19:39",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 123,
+            "ruku_number": 265,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَنذِرْهُمْ يَوْمَ ٱلْحَسْرَةِ إِذْ قُضِىَ ٱلْأَمْرُ وَهُمْ فِى غَفْلَةٍ وَهُمْ لَا يُؤْمِنُونَ",
+            "page_number": 308,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97189,
+                    "resource_id": 20,
+                    "text": "And warn them, [O Muḥammad], of the Day of Regret, when the matter will be concluded;<sup foot_note=196725>1</sup> and [yet], they are in [a state of] heedlessness, and they do not believe."
+                },
+                {
+                    "id": 215060,
+                    "resource_id": 39,
+                    "text": "Dan berilah amaran (wahai Muhammad) kepada umat manusia seluruhnya tentang hari penyesalan iaitu hari diselesaikan perbicaraan perkara masing-masing pada masa mereka (yang ingkar) di dunia ini berada dalam kelalaian serta mereka pula tidak mahu beriman."
+                },
+                {
+                    "id": 1093266,
+                    "resource_id": 161,
+                    "text": "বিপদের দিন সম্পর্কে তাদেরকে সতর্ক করে দাও যখন ব্যাপার চূড়ান্ত করা হবে আর (দেখ) এ সম্পর্কে তারা উদাসীন আর তারা ঈমান আনে না।"
+                }
+            ]
+        },
+        {
+            "id": 2290,
+            "verse_number": 40,
+            "verse_key": "19:40",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 123,
+            "ruku_number": 265,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّا نَحْنُ نَرِثُ ٱلْأَرْضَ وَمَنْ عَلَيْهَا وَإِلَيْنَا يُرْجَعُونَ",
+            "page_number": 308,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97191,
+                    "resource_id": 20,
+                    "text": "Indeed, it is We who will inherit the earth and whoever is on it, and to Us they will be returned."
+                },
+                {
+                    "id": 215068,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya Kamilah yang mewarisi bumi dan segala makhluk yang ada di atasnya; dan kepada Kamilah mereka akan dikembalikan."
+                },
+                {
+                    "id": 1093267,
+                    "resource_id": 161,
+                    "text": "যমীন আর যমীনের উপর যারা আছে তাদের মালিকানা আমারই থাকবে, আর তারা আমার কাছেই ফিরে আসবে।"
+                }
+            ]
+        },
+        {
+            "id": 2291,
+            "verse_number": 41,
+            "verse_key": "19:41",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 123,
+            "ruku_number": 266,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ إِبْرَٰهِيمَ ۚ إِنَّهُۥ كَانَ صِدِّيقًا نَّبِيًّا",
+            "page_number": 308,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97192,
+                    "resource_id": 20,
+                    "text": "And mention in the Book [the story of] Abraham. Indeed, he was a man of truth and a prophet."
+                },
+                {
+                    "id": 215062,
+                    "resource_id": 39,
+                    "text": "Dan bacakanlah (wahai Muhammad) di dalam Kitab (Al-Quran) ini perihal Nabi Ibrahim; sesungguhnya adalah ia seorang yang amat benar, lagi menjadi Nabi."
+                },
+                {
+                    "id": 1093268,
+                    "resource_id": 161,
+                    "text": "এ কিতাবে উল্লেখিত ইবরাহীমের কথা স্মরণ কর, সে ছিল একজন সত্যনিষ্ঠ মানুষ, একজন নবী।"
+                }
+            ]
+        },
+        {
+            "id": 2292,
+            "verse_number": 42,
+            "verse_key": "19:42",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 123,
+            "ruku_number": 266,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "إِذْ قَالَ لِأَبِيهِ يَـٰٓأَبَتِ لِمَ تَعْبُدُ مَا لَا يَسْمَعُ وَلَا يُبْصِرُ وَلَا يُغْنِى عَنكَ شَيْـًٔا",
+            "page_number": 308,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97193,
+                    "resource_id": 20,
+                    "text": "[Mention] when he said to his father, \"O my father, why do you worship that which does not hear and does not see and will not benefit you at all?"
+                },
+                {
+                    "id": 215063,
+                    "resource_id": 39,
+                    "text": "Ketika ia berkata kepada bapanya:\" Wahai ayahku, mengapa ayah menyembah benda yang tidak mendengar dan tidak melihat serta tidak dapat menolongmu sedikitpun?"
+                },
+                {
+                    "id": 1093269,
+                    "resource_id": 161,
+                    "text": "যখন সে তার পিতাকে বলেছিল, ‘হে আমার পিতা! আপনি কেন এমন জিনিসের ‘ইবাদাত করেন যা শুনে না, দেখে না, আর আপনার কোন কাজেই আসে না?"
+                }
+            ]
+        },
+        {
+            "id": 2293,
+            "verse_number": 43,
+            "verse_key": "19:43",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 123,
+            "ruku_number": 266,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "يَـٰٓأَبَتِ إِنِّى قَدْ جَآءَنِى مِنَ ٱلْعِلْمِ مَا لَمْ يَأْتِكَ فَٱتَّبِعْنِىٓ أَهْدِكَ صِرَٰطًا سَوِيًّا",
+            "page_number": 308,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97194,
+                    "resource_id": 20,
+                    "text": "O my father, indeed there has come to me of knowledge that which has not come to you, so follow me; I will guide you to an even path."
+                },
+                {
+                    "id": 215064,
+                    "resource_id": 39,
+                    "text": "\" Wahai ayahku, sesungguhnya telah datang kepadaku dari ilmu pengetahuan yang tidak pernah datang kepadamu oleh itu ikutlah daku; aku akan memimpinmu ke jalan yang betul."
+                },
+                {
+                    "id": 1093270,
+                    "resource_id": 161,
+                    "text": "হে আমার পিতা! আমার কাছে এমন জ্ঞান এসেছে যা আপনার কাছে আসেনি, কাজেই আমার অনুসরণ করুন, আমি আপনাকে সরল সঠিক পথ দেখাব।"
+                }
+            ]
+        },
+        {
+            "id": 2294,
+            "verse_number": 44,
+            "verse_key": "19:44",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 123,
+            "ruku_number": 266,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "يَـٰٓأَبَتِ لَا تَعْبُدِ ٱلشَّيْطَـٰنَ ۖ إِنَّ ٱلشَّيْطَـٰنَ كَانَ لِلرَّحْمَـٰنِ عَصِيًّا",
+            "page_number": 308,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97195,
+                    "resource_id": 20,
+                    "text": "O my father, do not worship [i.e., obey] Satan. Indeed Satan has ever been, to the Most Merciful, disobedient."
+                },
+                {
+                    "id": 215065,
+                    "resource_id": 39,
+                    "text": "\" Wahai ayahku, janganlah ayah menyembah Syaitan, sesungguhnya Syaitan itu adalah menderhaka kepada Allah yang melimpah-limpah rahmatNya."
+                },
+                {
+                    "id": 1093271,
+                    "resource_id": 161,
+                    "text": "হে আমার পিতা! আপনি শয়তানের ‘ইবাদাত করবেন না, শয়তান হচ্ছে দয়াময়ের বিরুদ্ধে বিদ্রোহী।"
+                }
+            ]
+        },
+        {
+            "id": 2295,
+            "verse_number": 45,
+            "verse_key": "19:45",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 123,
+            "ruku_number": 266,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "يَـٰٓأَبَتِ إِنِّىٓ أَخَافُ أَن يَمَسَّكَ عَذَابٌ مِّنَ ٱلرَّحْمَـٰنِ فَتَكُونَ لِلشَّيْطَـٰنِ وَلِيًّا",
+            "page_number": 308,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97196,
+                    "resource_id": 20,
+                    "text": "O my father, indeed I fear that there will touch you a punishment from the Most Merciful so you would be to Satan a companion [in Hellfire].\""
+                },
+                {
+                    "id": 215066,
+                    "resource_id": 39,
+                    "text": "\" Wahai ayahku, sesungguhnya aku bimbang bahawa ayah akan kena azab dari (Allah) Ar-Rahman disebabkan ayah menyembah yang lainnya; maka dengan sebab itu akan menjadilah ayah rakan bagi Syaitan di dalam neraka\"."
+                },
+                {
+                    "id": 1093272,
+                    "resource_id": 161,
+                    "text": "হে আমার পিতা! আমার ভয় হয় যে, দয়াময়ের ‘আযাব আপনাকে ধরে বসবে, তখন আপনি শয়তানের বন্ধু হয়ে যাবেন।’"
+                }
+            ]
+        },
+        {
+            "id": 2296,
+            "verse_number": 46,
+            "verse_key": "19:46",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 123,
+            "ruku_number": 266,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ أَرَاغِبٌ أَنتَ عَنْ ءَالِهَتِى يَـٰٓإِبْرَٰهِيمُ ۖ لَئِن لَّمْ تَنتَهِ لَأَرْجُمَنَّكَ ۖ وَٱهْجُرْنِى مَلِيًّا",
+            "page_number": 308,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97197,
+                    "resource_id": 20,
+                    "text": "[His father] said, \"Have you no desire for my gods, O Abraham? If you do not desist, I will surely stone you, so avoid me a prolonged time.\""
+                },
+                {
+                    "id": 215067,
+                    "resource_id": 39,
+                    "text": "(Bapanya) menjawab: \"Patutkah engkau bencikan tuhan-tuhanku, wahai Ibrahim? Demi sesungguhnya jika engkau tidak berhenti daripada menyeru dan menasihati daku sudah tentu aku akan meluntarmu dengan batu; dan (ingatlah lebih baik) engkau tinggalkan daku sepanjang masa\"."
+                },
+                {
+                    "id": 1093273,
+                    "resource_id": 161,
+                    "text": "পিতা বলল, ‘হে ইবরাহীম! তুমি কি আমার দেবদেবীগুলো থেকে মুখ ফিরিয়ে নিচ্ছ? যদি তুমি বিরত না হও তবে আমি অবশ্যই তোমাকে পাথরের আঘাতে মেরে ফেলব। তুমি চিরতরে আমার কাছ থেকে দূর হয়ে যাও।’"
+                }
+            ]
+        },
+        {
+            "id": 2297,
+            "verse_number": 47,
+            "verse_key": "19:47",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 123,
+            "ruku_number": 266,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالَ سَلَـٰمٌ عَلَيْكَ ۖ سَأَسْتَغْفِرُ لَكَ رَبِّىٓ ۖ إِنَّهُۥ كَانَ بِى حَفِيًّا",
+            "page_number": 308,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97198,
+                    "resource_id": 20,
+                    "text": "[Abraham] said, \"Peace [i.e., safety] will be upon you.<sup foot_note=196726>1</sup> I will ask forgiveness for you of my Lord. Indeed, He is ever gracious to me."
+                },
+                {
+                    "id": 215070,
+                    "resource_id": 39,
+                    "text": "Nabi Ibrahim berkata: \" Selamat tinggalah ayah; aku akan memohon kepada Tuhanku mengampuni dosamu; sesungguhnya Ia sentiasa melimpahkan kemurahan ihsanNya kepadaku."
+                },
+                {
+                    "id": 1093274,
+                    "resource_id": 161,
+                    "text": "ইবরাহীম বলল, ‘আপনার প্রতি সালাম, আমি আমার প্রতিপালকের নিকট আপনার জন্য ক্ষমা প্রার্থনা করব, তিনি আমার প্রতি বড়ই মেহেরবান।"
+                }
+            ]
+        },
+        {
+            "id": 2298,
+            "verse_number": 48,
+            "verse_key": "19:48",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 123,
+            "ruku_number": 266,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَعْتَزِلُكُمْ وَمَا تَدْعُونَ مِن دُونِ ٱللَّهِ وَأَدْعُوا۟ رَبِّى عَسَىٰٓ أَلَّآ أَكُونَ بِدُعَآءِ رَبِّى شَقِيًّا",
+            "page_number": 308,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97199,
+                    "resource_id": 20,
+                    "text": "And I will leave you and those you invoke other than Allāh and will invoke<sup foot_note=196727>1</sup> my Lord. I expect that I will not be in invocation to my Lord unhappy [i.e., disappointed].\""
+                },
+                {
+                    "id": 215069,
+                    "resource_id": 39,
+                    "text": "Dan aku akan membawa diri meninggalkan kamu semua serta apa yang kamu sembah yang lain dari Allah; dan aku akan beribadat kepada Tuhanku dengan ikhlas; mudah-mudahan aku dengan ibadatku kepada Tuhanku itu tidak menjadi hampa (dan derhaka seperti kamu)\"."
+                },
+                {
+                    "id": 1093275,
+                    "resource_id": 161,
+                    "text": "আমি পরিত্যাগ করছি আপনাদেরকে আর আপনারা আল্লাহকে বাদ দিয়ে যাদেরকে ডাকেন তাদেরকে। আমি আমার প্রতিপালককে ডাকি, আশা করি আমি আমার প্রতিপালককে ডেকে বঞ্চিত হব না।’"
+                }
+            ]
+        },
+        {
+            "id": 2299,
+            "verse_number": 49,
+            "verse_key": "19:49",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 123,
+            "ruku_number": 266,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَلَمَّا ٱعْتَزَلَهُمْ وَمَا يَعْبُدُونَ مِن دُونِ ٱللَّهِ وَهَبْنَا لَهُۥٓ إِسْحَـٰقَ وَيَعْقُوبَ ۖ وَكُلًّا جَعَلْنَا نَبِيًّا",
+            "page_number": 308,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97200,
+                    "resource_id": 20,
+                    "text": "So when he had left them and those they worshipped other than Allāh, We gave him Isaac and Jacob, and each [of them] We made a prophet."
+                },
+                {
+                    "id": 215080,
+                    "resource_id": 39,
+                    "text": "Maka apabila ia berhijrah meninggalkan mereka dan apa yang mereka sembah yang lain dari Allah kami kurniakan kepadanya: Ishak (anaknya), dan Yaakub (cucunya); dan kedua-duanya Kami jadikan berpangkat Nabi."
+                },
+                {
+                    "id": 1093276,
+                    "resource_id": 161,
+                    "text": "অতঃপর সে যখন তাদেরকে আর তারা আল্লাহকে বাদ দিয়ে যাদের ‘ইবাদাত করত তাদেরকে পরিত্যাগ করল, তখন আমি তাকে দান করলাম ইসহাক্ব আর ইয়া‘কূব আর তাদের প্রত্যেককে নবী করলাম।"
+                }
+            ]
+        },
+        {
+            "id": 2300,
+            "verse_number": 50,
+            "verse_key": "19:50",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 123,
+            "ruku_number": 266,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَوَهَبْنَا لَهُم مِّن رَّحْمَتِنَا وَجَعَلْنَا لَهُمْ لِسَانَ صِدْقٍ عَلِيًّا",
+            "page_number": 308,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97202,
+                    "resource_id": 20,
+                    "text": "And We gave them of Our mercy, and We made for them a mention [i.e., reputation] of high honor."
+                },
+                {
+                    "id": 215072,
+                    "resource_id": 39,
+                    "text": "Dan Kami kurniakan kepada mereka dari rahmat Kami, dan Kami jadikan bagi mereka sebutan dan pujian yang tinggi dalam kalangan umat manusia."
+                },
+                {
+                    "id": 1093277,
+                    "resource_id": 161,
+                    "text": "আমি তাদেরকে দান করলাম আমার অনুগ্রহ আর সত্যিকার নাম-যশের সুউচ্চ সুখ্যাতি।"
+                }
+            ]
+        },
+        {
+            "id": 2301,
+            "verse_number": 51,
+            "verse_key": "19:51",
+            "hizb_number": 31,
+            "rub_el_hizb_number": 123,
+            "ruku_number": 267,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مُوسَىٰٓ ۚ إِنَّهُۥ كَانَ مُخْلَصًا وَكَانَ رَسُولًا نَّبِيًّا",
+            "page_number": 308,
+            "juz_number": 16,
+            "translations": [
+                {
+                    "id": 97203,
+                    "resource_id": 20,
+                    "text": "And mention in the Book, Moses. Indeed, he was chosen, and he was a messenger and a prophet.<sup foot_note=196728>1</sup>"
+                },
+                {
+                    "id": 215073,
+                    "resource_id": 39,
+                    "text": "Dan bacakanlah (wahai Muhammad) di dalam Kitab (Al-Quran) ini perihal Nabi Musa; sesungguhnya ia adalah orang pilihan, dan adalah ia seorang Rasul, lagi Nabi."
+                },
+                {
+                    "id": 1093278,
+                    "resource_id": 161,
+                    "text": "এ কিতাবে উল্লেখিত মূসার কথা স্মরণ কর, সে ছিল বিশেষভাবে মনোনীত, আর একজন রসূল ও নবী।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 13,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 13
+    }
+}

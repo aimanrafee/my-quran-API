@@ -1,0 +1,731 @@
+{
+    "verses": [
+        {
+            "id": 4829,
+            "verse_number": 45,
+            "verse_key": "53:45",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 464,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَنَّهُۥ خَلَقَ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰ",
+            "page_number": 528,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100442,
+                    "resource_id": 20,
+                    "text": "And that He creates the two mates - the male and female -"
+                },
+                {
+                    "id": 218269,
+                    "resource_id": 39,
+                    "text": "Dan bahawa sesungguhnya, Dia lah yang menciptakan pasangan - lelaki dan perempuan, -"
+                },
+                {
+                    "id": 1095806,
+                    "resource_id": 161,
+                    "text": "আর এই যে, তিনিই সৃষ্টি করেন জোড়া- পুরুষ আর নারী,"
+                }
+            ]
+        },
+        {
+            "id": 4830,
+            "verse_number": 46,
+            "verse_key": "53:46",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 464,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "مِن نُّطْفَةٍ إِذَا تُمْنَىٰ",
+            "page_number": 528,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100443,
+                    "resource_id": 20,
+                    "text": "From a sperm-drop when it is emitted"
+                },
+                {
+                    "id": 218270,
+                    "resource_id": 39,
+                    "text": "Dari (setitis) air mani ketika dipancarkan (ke dalam rahim);"
+                },
+                {
+                    "id": 1095807,
+                    "resource_id": 161,
+                    "text": "এক ফোঁটা শুক্র হতে যখন তা নিক্ষিপ্ত হয়"
+                }
+            ]
+        },
+        {
+            "id": 4831,
+            "verse_number": 47,
+            "verse_key": "53:47",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 464,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَنَّ عَلَيْهِ ٱلنَّشْأَةَ ٱلْأُخْرَىٰ",
+            "page_number": 528,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100444,
+                    "resource_id": 20,
+                    "text": "And that [incumbent] upon Him is the other [i.e., next] creation."
+                },
+                {
+                    "id": 218271,
+                    "resource_id": 39,
+                    "text": "Dan bahawa sesungguhnya, Dia lah yang tetap menghidupkan semula (makhluk-makhluk yang mati);"
+                },
+                {
+                    "id": 1095808,
+                    "resource_id": 161,
+                    "text": "আর এই যে, পুনরায় সৃষ্টির দায়িত্বভার তাঁরই উপর,"
+                }
+            ]
+        },
+        {
+            "id": 4832,
+            "verse_number": 48,
+            "verse_key": "53:48",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 464,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَنَّهُۥ هُوَ أَغْنَىٰ وَأَقْنَىٰ",
+            "page_number": 528,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100445,
+                    "resource_id": 20,
+                    "text": "And that it is He who enriches and suffices"
+                },
+                {
+                    "id": 218272,
+                    "resource_id": 39,
+                    "text": "Dan bahawa sesungguhnya, Dia lah yang memberikan (sesiapa yang dikehendakiNya) apa yang diperlukannya dan memberikannya tambahan yang boleh disimpan;"
+                },
+                {
+                    "id": 1095809,
+                    "resource_id": 161,
+                    "text": "আর এই যে, তিনিই অভাবমুক্ত করেন আর সম্পদ দেন,"
+                }
+            ]
+        },
+        {
+            "id": 4833,
+            "verse_number": 49,
+            "verse_key": "53:49",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 464,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَنَّهُۥ هُوَ رَبُّ ٱلشِّعْرَىٰ",
+            "page_number": 528,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100446,
+                    "resource_id": 20,
+                    "text": "And that it is He who is the Lord of Sirius<sup foot_note=197449>1</sup>."
+                },
+                {
+                    "id": 218275,
+                    "resource_id": 39,
+                    "text": "Dan bahawa sesungguhnya, Dia lah Tuhan (Pencipta) \"Bintang Syikra;"
+                },
+                {
+                    "id": 1095810,
+                    "resource_id": 161,
+                    "text": "আর এই যে, শি‘রা (অর্থাৎ লুব্ধক নক্ষত্র)’র তিনিই প্রতিপালক,"
+                }
+            ]
+        },
+        {
+            "id": 4834,
+            "verse_number": 50,
+            "verse_key": "53:50",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 464,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَنَّهُۥٓ أَهْلَكَ عَادًا ٱلْأُولَىٰ",
+            "page_number": 528,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100449,
+                    "resource_id": 20,
+                    "text": "And that He destroyed the first [people of] ʿAad."
+                },
+                {
+                    "id": 218276,
+                    "resource_id": 39,
+                    "text": "Dan bahawa sesungguhnya, Dia lah yang membinasakan kaum \"Aad\" yang pertama (kaum Nabi Hud), -"
+                },
+                {
+                    "id": 1095811,
+                    "resource_id": 161,
+                    "text": "আর এই যে, তিনিই প্রাচীন ‘আদ জাতিকে ধ্বংস করেছিলেন,"
+                }
+            ]
+        },
+        {
+            "id": 4835,
+            "verse_number": 51,
+            "verse_key": "53:51",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 464,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَثَمُودَا۟ فَمَآ أَبْقَىٰ",
+            "page_number": 528,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100450,
+                    "resource_id": 20,
+                    "text": "And Thamūd - and He did not spare [them] -"
+                },
+                {
+                    "id": 218277,
+                    "resource_id": 39,
+                    "text": "Dan kaum \"Thamud\" (kaum Nabi Soleh). Maka tidak ada seorangpun (dari kedua-dua kaum itu) yang dibiarkan hidup."
+                },
+                {
+                    "id": 1095812,
+                    "resource_id": 161,
+                    "text": "আর সামূদ জাতিকেও, তাদের একজনকেও বাকী রাখেননি।"
+                }
+            ]
+        },
+        {
+            "id": 4836,
+            "verse_number": 52,
+            "verse_key": "53:52",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 464,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَقَوْمَ نُوحٍ مِّن قَبْلُ ۖ إِنَّهُمْ كَانُوا۟ هُمْ أَظْلَمَ وَأَطْغَىٰ",
+            "page_number": 528,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100451,
+                    "resource_id": 20,
+                    "text": "And the people of Noah before. Indeed, it was they who were [even] more unjust and oppressing."
+                },
+                {
+                    "id": 218279,
+                    "resource_id": 39,
+                    "text": "Dan kaum Nabi Nuh sebelum itu (telah juga dibinasakan). Sesungguhnya mereka adalah orang-orang yang sangat zalim dan sangat melampaui batas."
+                },
+                {
+                    "id": 1095813,
+                    "resource_id": 161,
+                    "text": "আর তার পূর্বে নূহের জাতিকেও, তারা ছিল অত্যধিক যালিম ও সীমালঙ্ঘনকারী।"
+                }
+            ]
+        },
+        {
+            "id": 4837,
+            "verse_number": 53,
+            "verse_key": "53:53",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 464,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلْمُؤْتَفِكَةَ أَهْوَىٰ",
+            "page_number": 528,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100452,
+                    "resource_id": 20,
+                    "text": "And the overturned towns<sup foot_note=197450>1</sup> He hurled down."
+                },
+                {
+                    "id": 218280,
+                    "resource_id": 39,
+                    "text": "Dan bandar-bandar yang ditunggang balikkan itu, Dia lah yang (mengangkatnya ke angkasa dan) menghempaskannya ke bumi;"
+                },
+                {
+                    "id": 1095814,
+                    "resource_id": 161,
+                    "text": "তিনি (লূত জাতির) উল্টানো আবাস ভূমিকে উঠিয়ে নিক্ষেপ করেছিলেন,"
+                }
+            ]
+        },
+        {
+            "id": 4838,
+            "verse_number": 54,
+            "verse_key": "53:54",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 464,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَغَشَّىٰهَا مَا غَشَّىٰ",
+            "page_number": 528,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100453,
+                    "resource_id": 20,
+                    "text": "And covered them by that which He covered.<sup foot_note=197451>1</sup>"
+                },
+                {
+                    "id": 218281,
+                    "resource_id": 39,
+                    "text": "Lalu (penduduk) bandar-bandar itu diliputi azab seksa yang meliputinya."
+                },
+                {
+                    "id": 1095815,
+                    "resource_id": 161,
+                    "text": "অতঃপর তাকে আচ্ছন্ন করল যা তাকে আচ্ছন্ন করেছে।"
+                }
+            ]
+        },
+        {
+            "id": 4839,
+            "verse_number": 55,
+            "verse_key": "53:55",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 464,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكَ تَتَمَارَىٰ",
+            "page_number": 528,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100454,
+                    "resource_id": 20,
+                    "text": "Then which of the favors of your Lord do you doubt?"
+                },
+                {
+                    "id": 218282,
+                    "resource_id": 39,
+                    "text": "Maka yang mana satu di antara nikmat-nikmat Tuhanmu (yang tidak terhingga itu) engkau ragu-ragukan (wahai manusia)?"
+                },
+                {
+                    "id": 1095816,
+                    "resource_id": 161,
+                    "text": "অতএব তুমি তোমার প্রতিপালকের কোন নি‘মাতে সন্দেহ পোষণ করবে?"
+                }
+            ]
+        },
+        {
+            "id": 4840,
+            "verse_number": 56,
+            "verse_key": "53:56",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 464,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "هَـٰذَا نَذِيرٌ مِّنَ ٱلنُّذُرِ ٱلْأُولَىٰٓ",
+            "page_number": 528,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100455,
+                    "resource_id": 20,
+                    "text": "This [Prophet (ﷺ)] is a warner from [i.e., like] the former warners."
+                },
+                {
+                    "id": 218283,
+                    "resource_id": 39,
+                    "text": "(Al-Quran) ini adalah pemberi amaran di antara jenis-jenis amaran yang telah lalu!"
+                },
+                {
+                    "id": 1095817,
+                    "resource_id": 161,
+                    "text": "অতীতের সতর্ককারীদের মত এ (নবীও) একজন সতর্ককারী।"
+                }
+            ]
+        },
+        {
+            "id": 4841,
+            "verse_number": 57,
+            "verse_key": "53:57",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 464,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَزِفَتِ ٱلْـَٔازِفَةُ",
+            "page_number": 528,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 96104,
+                    "resource_id": 20,
+                    "text": "The Approaching Day has approached."
+                },
+                {
+                    "id": 218286,
+                    "resource_id": 39,
+                    "text": "Telah hampir masa datangnya saat yang dekat itu (hari kiamat);"
+                },
+                {
+                    "id": 1095818,
+                    "resource_id": 161,
+                    "text": "আগমনকারী মুহূর্ত (ক্বিয়ামত) নিকটবর্তী।"
+                }
+            ]
+        },
+        {
+            "id": 4842,
+            "verse_number": 58,
+            "verse_key": "53:58",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 464,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "لَيْسَ لَهَا مِن دُونِ ٱللَّهِ كَاشِفَةٌ",
+            "page_number": 528,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 96615,
+                    "resource_id": 20,
+                    "text": "Of it, [from those] besides Allāh, there is no remover."
+                },
+                {
+                    "id": 218284,
+                    "resource_id": 39,
+                    "text": "Tidak ada sesiapapun selain Allah yang dapat menahan atau menghapuskan huru-hara \"hari kiamat\" itu."
+                },
+                {
+                    "id": 1095819,
+                    "resource_id": 161,
+                    "text": "আল্লাহ ছাড়া কেউ তা সরাতে পারে না (বা প্রকাশ করতে পারে না)।"
+                }
+            ]
+        },
+        {
+            "id": 4843,
+            "verse_number": 59,
+            "verse_key": "53:59",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 464,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَفَمِنْ هَـٰذَا ٱلْحَدِيثِ تَعْجَبُونَ",
+            "page_number": 528,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 97043,
+                    "resource_id": 20,
+                    "text": "Then at this statement do you wonder?"
+                },
+                {
+                    "id": 218285,
+                    "resource_id": 39,
+                    "text": "Maka patutkah kamu merasa hairan terhadap keterangan-keterangan Al-Quran ini (sehingga kamu mengingkarinya)?"
+                },
+                {
+                    "id": 1095820,
+                    "resource_id": 161,
+                    "text": "তোমরা কি এ কথায় বিস্মিত হচ্ছ?"
+                }
+            ]
+        },
+        {
+            "id": 4844,
+            "verse_number": 60,
+            "verse_key": "53:60",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 464,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَتَضْحَكُونَ وَلَا تَبْكُونَ",
+            "page_number": 528,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 79521,
+                    "resource_id": 20,
+                    "text": "And you laugh and do not weep"
+                },
+                {
+                    "id": 218289,
+                    "resource_id": 39,
+                    "text": "Serta kamu tertawa (mengejek-ejeknya), dan kamu tidak mahu menangis (menyesali kesalahan kamu serta takutkan balasan buruk yang akan menimpa kamu)?"
+                },
+                {
+                    "id": 1095821,
+                    "resource_id": 161,
+                    "text": "আর হাসছ, কাঁদছ না?"
+                }
+            ]
+        },
+        {
+            "id": 4845,
+            "verse_number": 61,
+            "verse_key": "53:61",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 464,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَنتُمْ سَـٰمِدُونَ",
+            "page_number": 528,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100035,
+                    "resource_id": 20,
+                    "text": "While you are proudly sporting?<sup foot_note=197452>1</sup>"
+                },
+                {
+                    "id": 218295,
+                    "resource_id": 39,
+                    "text": "Sedang kamu adalah orang-orang yang sombong angkuh, lagi yang melalaikan kewajipan?"
+                },
+                {
+                    "id": 1095822,
+                    "resource_id": 161,
+                    "text": "বৃথা খেল-তামাশায় সময় ক্ষেপন করছ,"
+                }
+            ]
+        },
+        {
+            "id": 4846,
+            "verse_number": 62,
+            "verse_key": "53:62",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 464,
+            "manzil_number": 7,
+            "sajdah_number": 12,
+            "text_uthmani": "فَٱسْجُدُوا۟ لِلَّهِ وَٱعْبُدُوا۟ ۩",
+            "page_number": 528,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100103,
+                    "resource_id": 20,
+                    "text": "So prostrate to Allāh and worship [Him]."
+                },
+                {
+                    "id": 218291,
+                    "resource_id": 39,
+                    "text": "Oleh yang demikian, hendaklah kamu sujud kepada Allah (yang telah menurunkan Al-Quran itu), dan beribadatlah kamu kepadaNya (dengan sepenuh-penuh tauhid)."
+                },
+                {
+                    "id": 1095823,
+                    "resource_id": 161,
+                    "text": "তাই, আল্লাহর উদ্দেশ্যে সাজদায় পতিত হও আর তাঁর বন্দেগী কর।[সাজদাহ]"
+                }
+            ]
+        },
+        {
+            "id": 4847,
+            "verse_number": 1,
+            "verse_key": "54:1",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 465,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " ٱقْتَرَبَتِ ٱلسَّاعَةُ وَٱنشَقَّ ٱلْقَمَرُ",
+            "page_number": 528,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100465,
+                    "resource_id": 20,
+                    "text": "The Hour has come near, and the moon has split [in two].<sup foot_note=197453>1</sup>"
+                },
+                {
+                    "id": 218322,
+                    "resource_id": 39,
+                    "text": "Telah hampir saat (kedatangan hari kiamat) dan terbelahlah bulan."
+                },
+                {
+                    "id": 1095824,
+                    "resource_id": 161,
+                    "text": "ক্বিয়ামত নিকটবর্তী হয়েছে এবং চন্দ্র খন্ডিত হয়েছে,"
+                }
+            ]
+        },
+        {
+            "id": 4848,
+            "verse_number": 2,
+            "verse_key": "54:2",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 465,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِن يَرَوْا۟ ءَايَةً يُعْرِضُوا۟ وَيَقُولُوا۟ سِحْرٌ مُّسْتَمِرٌّ",
+            "page_number": 528,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100477,
+                    "resource_id": 20,
+                    "text": "And if they see a sign [i.e., miracle], they turn away and say, \"Passing magic.\"<sup foot_note=197454>1</sup>"
+                },
+                {
+                    "id": 218332,
+                    "resource_id": 39,
+                    "text": "Dan kalau mereka (kaum musyrik Mekah) melihat sesuatu mukjizat, mereka berpaling ingkar sambil berkata: (Ini ialah) sihir yang terus menerus berlaku."
+                },
+                {
+                    "id": 1095825,
+                    "resource_id": 161,
+                    "text": "কিন্তু তারা যখন কোন নিদর্শন দেখে তখন মুখ ফিরিয়ে নেয় আর বলে- ‘এটা তো সেই আগের থেকে চলে আসা যাদু।’"
+                }
+            ]
+        },
+        {
+            "id": 4849,
+            "verse_number": 3,
+            "verse_key": "54:3",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 465,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَكَذَّبُوا۟ وَٱتَّبَعُوٓا۟ أَهْوَآءَهُمْ ۚ وَكُلُّ أَمْرٍ مُّسْتَقِرٌّ",
+            "page_number": 528,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100489,
+                    "resource_id": 20,
+                    "text": "And they denied and followed their inclinations. But for every matter is a [time of] settlement."
+                },
+                {
+                    "id": 218349,
+                    "resource_id": 39,
+                    "text": "Dan (telah menjadi adat) mereka mendustakan (Nabi Muhammad dan mukjizat-mukjizat yang dibawanya) serta menurut hawa nafsu mereka, sedang tiap-tiap perkara tetap (menurut keadaan yang ditentukan oleh Allah)."
+                },
+                {
+                    "id": 1095826,
+                    "resource_id": 161,
+                    "text": "তারা সত্যকে অস্বীকার করে, আর নিজেদের কামনা বাসনার অনুসরণ করে। প্রতিটি বিষয়েরই একটা নির্দিষ্ট সময় আছে (সময় আসলেই বর্তমান অবস্থার পরিবর্তন ঘটবে)।"
+                }
+            ]
+        },
+        {
+            "id": 4850,
+            "verse_number": 4,
+            "verse_key": "54:4",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 465,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَقَدْ جَآءَهُم مِّنَ ٱلْأَنۢبَآءِ مَا فِيهِ مُزْدَجَرٌ",
+            "page_number": 528,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100501,
+                    "resource_id": 20,
+                    "text": "And there has already come to them of information that in which there is deterrence."
+                },
+                {
+                    "id": 218348,
+                    "resource_id": 39,
+                    "text": "Dan sesungguhnya! Telah sampai kepada mereka (dengan perantaraan Al-Quran), sebahagian dari kisah-kisah dan berita (umat-umat yang telah lalu), yang mengandungi perkara-perkara yang cukup untuk mencegah mereka (dari perbuatan kufur itu)."
+                },
+                {
+                    "id": 1095827,
+                    "resource_id": 161,
+                    "text": "এই লোকেদের কাছে তো (অতীতের জাতিগুলোর) সংবাদ এসেছে যাতে আছে সাবধান বাণী।"
+                }
+            ]
+        },
+        {
+            "id": 4851,
+            "verse_number": 5,
+            "verse_key": "54:5",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 465,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "حِكْمَةٌۢ بَـٰلِغَةٌ ۖ فَمَا تُغْنِ ٱلنُّذُرُ",
+            "page_number": 528,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100513,
+                    "resource_id": 20,
+                    "text": "Extensive wisdom - but warning does not avail [them]."
+                },
+                {
+                    "id": 218358,
+                    "resource_id": 39,
+                    "text": "(Yang demikian ialah) pengajaran yang cukup sempurna; dalam pada itu, segala peringatan dan amaran tidak akan mendatangkan faedah (kepada mereka yang ingkar)."
+                },
+                {
+                    "id": 1095828,
+                    "resource_id": 161,
+                    "text": "তা (হল) সুদূর প্রসারী জ্ঞান, কিন্তু সেই সতর্কবাণী কোন কাজে আসেনি।"
+                }
+            ]
+        },
+        {
+            "id": 4852,
+            "verse_number": 6,
+            "verse_key": "54:6",
+            "hizb_number": 53,
+            "rub_el_hizb_number": 211,
+            "ruku_number": 465,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَتَوَلَّ عَنْهُمْ ۘ يَوْمَ يَدْعُ ٱلدَّاعِ إِلَىٰ شَىْءٍ نُّكُرٍ",
+            "page_number": 528,
+            "juz_number": 27,
+            "translations": [
+                {
+                    "id": 100521,
+                    "resource_id": 20,
+                    "text": "So leave them, [O Muḥammad]. The Day the Caller<sup foot_note=197455>1</sup> calls to something forbidding,"
+                },
+                {
+                    "id": 218366,
+                    "resource_id": 39,
+                    "text": "Oleh itu, berpalinglah dari mereka (wahai Muhammad dan janganlah dihiraukan). (Ingatlah) masa (malaikat) penyeru menyeru (mereka pada hari kiamat) kepada perkara yang tidak diingini (oleh orang yang bersalah);"
+                },
+                {
+                    "id": 1095829,
+                    "resource_id": 161,
+                    "text": "কাজেই (হে নবী) তুমি তাদের থেকে মুখ ফিরিয়ে নাও (আর অপেক্ষা কর সে দিনের) যেদিন এক আহবানকারী (তাদেরকে) আহবান করবে এক ভয়াবহ বিষয়ের দিকে।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 24,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 24
+    }
+}

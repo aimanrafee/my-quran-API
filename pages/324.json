@@ -1,0 +1,341 @@
+{
+    "verses": [
+        {
+            "id": 2508,
+            "verse_number": 25,
+            "verse_key": "21:25",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 129,
+            "ruku_number": 279,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَآ أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ إِلَّا نُوحِىٓ إِلَيْهِ أَنَّهُۥ لَآ إِلَـٰهَ إِلَّآ أَنَا۠ فَٱعْبُدُونِ",
+            "page_number": 324,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97447,
+                    "resource_id": 20,
+                    "text": "And We sent not before you any messenger except We revealed to him that, \"There is no deity except Me, so worship Me.\""
+                },
+                {
+                    "id": 215321,
+                    "resource_id": 39,
+                    "text": "Dan Kami tidak mengutus sebelummu (wahai Muhammad) seseorang Rasul pun melainkan Kami wahyukan kepadanya: \"Bahawa sesungguhnya tiada Tuhan (yang berhak disembah) melainkan Aku; oleh itu, beribadatlah kamu kepadaKu\"."
+                },
+                {
+                    "id": 1093485,
+                    "resource_id": 161,
+                    "text": "আমি তোমার পূর্বে এমন কোন রসূলই পাঠাইনি যার প্রতি আমি ওয়াহী করিনি যে, আমি ছাড়া সত্যিকারের কোন ইলাহ নেই। কাজেই তোমরা আমারই ‘ইবাদাত কর।"
+                }
+            ]
+        },
+        {
+            "id": 2509,
+            "verse_number": 26,
+            "verse_key": "21:26",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 129,
+            "ruku_number": 279,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَقَالُوا۟ ٱتَّخَذَ ٱلرَّحْمَـٰنُ وَلَدًا ۗ سُبْحَـٰنَهُۥ ۚ بَلْ عِبَادٌ مُّكْرَمُونَ",
+            "page_number": 324,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97449,
+                    "resource_id": 20,
+                    "text": "And they say, \"The Most Merciful has taken a son.\" Exalted is He! Rather, they<sup foot_note=196791>1</sup> are [but] honored servants."
+                },
+                {
+                    "id": 215346,
+                    "resource_id": 39,
+                    "text": "Dan mereka (yang musyrik) berkata: \"(Allah) Ar-Rahman mempunyai anak\". Maha Sucilah Ia. Bahkan (mereka yang dikatakan menjadi anak Allah itu) ialah hamba-hambaNya yang dimuliakan."
+                },
+                {
+                    "id": 1093486,
+                    "resource_id": 161,
+                    "text": "তারা বলে, ‘দয়াময় সন্তান গ্রহণ করেছেন’, তিনি এসব থেকে মহা পবিত্র। তারা হল তাঁর বান্দাহ যাদেরকে সম্মানে উন্নীত করা হয়েছে।"
+                }
+            ]
+        },
+        {
+            "id": 2510,
+            "verse_number": 27,
+            "verse_key": "21:27",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 129,
+            "ruku_number": 279,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "لَا يَسْبِقُونَهُۥ بِٱلْقَوْلِ وَهُم بِأَمْرِهِۦ يَعْمَلُونَ",
+            "page_number": 324,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97451,
+                    "resource_id": 20,
+                    "text": "They cannot precede Him in word, and they act by His command."
+                },
+                {
+                    "id": 215329,
+                    "resource_id": 39,
+                    "text": "Mereka tidak mendahuluiNya dengan perkataan dan mereka pula mengerjakan apa yang diperintahkanNya."
+                },
+                {
+                    "id": 1093487,
+                    "resource_id": 161,
+                    "text": "তিনি কথা বলার আগেই তারা (অর্থাৎ সম্মানিত বান্দারা) কথা বলে না, তারা তাঁর নির্দেশেই কাজ করে।"
+                }
+            ]
+        },
+        {
+            "id": 2511,
+            "verse_number": 28,
+            "verse_key": "21:28",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 129,
+            "ruku_number": 279,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يَشْفَعُونَ إِلَّا لِمَنِ ٱرْتَضَىٰ وَهُم مِّنْ خَشْيَتِهِۦ مُشْفِقُونَ",
+            "page_number": 324,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97453,
+                    "resource_id": 20,
+                    "text": "He knows what is [presently] before them and what will be after them,<sup foot_note=196792>1</sup> and they cannot intercede except on behalf of one whom He approves. And they, from fear of Him, are apprehensive."
+                },
+                {
+                    "id": 215328,
+                    "resource_id": 39,
+                    "text": "Allah mengetahui apa yang di hadapan mereka (yang telah mereka lakukan), dan apa yang di belakang mereka (yang akan mereka lakukan); dan mereka tidak memohon syafaat melainkan bagi sesiapa yang diredhai Allah; dan mereka pula sentiasa cemas takut daripada ditimpa azabNya."
+                },
+                {
+                    "id": 1093488,
+                    "resource_id": 161,
+                    "text": "তাদের সামনে আর পেছনে যা আছে তা তিনি জানেন। তিনি যাদের প্রতি খুবই সন্তুষ্ট তাদের ব্যাপারে ছাড়া তারা কোন সুপারিশ করে না। তারা তাঁর ভয় ও সম্মানে ভীত-সন্ত্রস্ত।"
+                }
+            ]
+        },
+        {
+            "id": 2512,
+            "verse_number": 29,
+            "verse_key": "21:29",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 130,
+            "ruku_number": 279,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "۞ وَمَن يَقُلْ مِنْهُمْ إِنِّىٓ إِلَـٰهٌ مِّن دُونِهِۦ فَذَٰلِكَ نَجْزِيهِ جَهَنَّمَ ۚ كَذَٰلِكَ نَجْزِى ٱلظَّـٰلِمِينَ",
+            "page_number": 324,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97455,
+                    "resource_id": 20,
+                    "text": "And whoever of them should say, \"Indeed, I am a god besides Him\" - that one We would recompense with Hell. Thus do We recompense the wrongdoers."
+                },
+                {
+                    "id": 215331,
+                    "resource_id": 39,
+                    "text": "Dan (jika ada) sesiapa di antara mereka berkata: \"Sesungguhnya aku ialah tuhan selain dari Allah\", maka yang berkata sedemikian itu, Kami akan membalasnya dengan (azab) neraka jahannam; demikianlah Kami membalas golongan yang zalim."
+                },
+                {
+                    "id": 1093489,
+                    "resource_id": 161,
+                    "text": "তাদের মধ্যে যে বলবে যে, ‘তিনি ব্যতীত আমিই ইলাহ’, তাহলে আমি তাকে তার প্রতিফল দেব জাহান্নাম। যালিমদেরকে আমি এভাবেই পুরস্কার দিয়ে থাকি।"
+                }
+            ]
+        },
+        {
+            "id": 2513,
+            "verse_number": 30,
+            "verse_key": "21:30",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 130,
+            "ruku_number": 280,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "أَوَلَمْ يَرَ ٱلَّذِينَ كَفَرُوٓا۟ أَنَّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ كَانَتَا رَتْقًا فَفَتَقْنَـٰهُمَا ۖ وَجَعَلْنَا مِنَ ٱلْمَآءِ كُلَّ شَىْءٍ حَىٍّ ۖ أَفَلَا يُؤْمِنُونَ",
+            "page_number": 324,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97460,
+                    "resource_id": 20,
+                    "text": "Have those who disbelieved not considered that the heavens and the earth were a joined entity, and then We separated them and made from water every living thing? Then will they not believe?"
+                },
+                {
+                    "id": 215335,
+                    "resource_id": 39,
+                    "text": "Dan tidakkah orang-orang kafir itu memikirkan dan mempercayai bahawa sesungguhnya langit dan bumi itu pada asal mulanya bercantum (sebagai benda yang satu), lalu Kami pisahkan antara keduanya? Dan Kami jadikan dari air, tiap-tiap benda yang hidup? Maka mengapa mereka tidak mahu beriman?"
+                },
+                {
+                    "id": 1093490,
+                    "resource_id": 161,
+                    "text": "অবিশ্বাসীরা কি দেখে না যে, আকাশ আর যমীন এক সঙ্গে সংযুক্ত ছিল, অতঃপর আমি উভয়কে আলাদা করে দিলাম, আর প্রাণসম্পন্ন সব কিছু পানি থেকে সৃষ্টি করলাম। তবুও কি তারা ঈমান আনবে না?"
+                }
+            ]
+        },
+        {
+            "id": 2514,
+            "verse_number": 31,
+            "verse_key": "21:31",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 130,
+            "ruku_number": 280,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَجَعَلْنَا فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِهِمْ وَجَعَلْنَا فِيهَا فِجَاجًا سُبُلًا لَّعَلَّهُمْ يَهْتَدُونَ",
+            "page_number": 324,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97462,
+                    "resource_id": 20,
+                    "text": "And We placed within the earth firmly set mountains, lest it should shift with them, and We made therein [mountain] passes [as] roads that they might be guided."
+                },
+                {
+                    "id": 215337,
+                    "resource_id": 39,
+                    "text": "Dan Kami telah menjadikan di bumi gunung-ganang yang menetapnya, supaya bumi itu tidak menggegar mereka; dan Kami jadikan padanya celah-celah sebagai jalan-jalan lalu-lalang, supaya mereka dapat sampai kepada mencapai keperluan rohani dan jasmani."
+                },
+                {
+                    "id": 1093491,
+                    "resource_id": 161,
+                    "text": "আর পৃথিবীতে আমি স্থাপন করেছি সুদৃঢ় পর্বত যাতে পৃথিবী তাদেরকে নিয়ে নড়াচড়া না করে। আর তাতে সৃষ্টি করেছি প্রশস্ত পথ যাতে তারা পথ পেতে পারে।"
+                }
+            ]
+        },
+        {
+            "id": 2515,
+            "verse_number": 32,
+            "verse_key": "21:32",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 130,
+            "ruku_number": 280,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَجَعَلْنَا ٱلسَّمَآءَ سَقْفًا مَّحْفُوظًا ۖ وَهُمْ عَنْ ءَايَـٰتِهَا مُعْرِضُونَ",
+            "page_number": 324,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97464,
+                    "resource_id": 20,
+                    "text": "And We made the sky a protected ceiling, but they, from its signs,<sup foot_note=196793>1</sup> are turning away."
+                },
+                {
+                    "id": 215339,
+                    "resource_id": 39,
+                    "text": "Dan Kami telah menjadikan langit sebagai bumbung yang terpelihara dan terkawal, sedang mereka (yang kafir itu) berpaling tidak memerhatikan tanda-tanda (kekuasaan Kami) yang ada padanya."
+                },
+                {
+                    "id": 1093492,
+                    "resource_id": 161,
+                    "text": "আর আমি আকাশকে করেছি সুরক্ষিত ছাদ, কিন্তু এ সবের নিদর্শন থেকে তারা মুখ ফিরিয়ে নেয়।"
+                }
+            ]
+        },
+        {
+            "id": 2516,
+            "verse_number": 33,
+            "verse_key": "21:33",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 130,
+            "ruku_number": 280,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَهُوَ ٱلَّذِى خَلَقَ ٱلَّيْلَ وَٱلنَّهَارَ وَٱلشَّمْسَ وَٱلْقَمَرَ ۖ كُلٌّ فِى فَلَكٍ يَسْبَحُونَ",
+            "page_number": 324,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97466,
+                    "resource_id": 20,
+                    "text": "And it is He who created the night and the day and the sun and the moon; all [heavenly bodies] in an orbit are swimming."
+                },
+                {
+                    "id": 215341,
+                    "resource_id": 39,
+                    "text": "Dan Dia lah (Tuhan) yang telah menjadikan malam dan siang, serta matahari dan bulan; tiap-tiap satunya beredar terapung-apung di tempat edaran masing-masing (di angkasa lepas)."
+                },
+                {
+                    "id": 1093493,
+                    "resource_id": 161,
+                    "text": "তিনিই সৃষ্টি করেছেন রাত ও দিন, সূর্য আর চন্দ্র, প্রত্যেকেই তার চক্রাকার পথে সাঁতার কাটছে।"
+                }
+            ]
+        },
+        {
+            "id": 2517,
+            "verse_number": 34,
+            "verse_key": "21:34",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 130,
+            "ruku_number": 280,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا جَعَلْنَا لِبَشَرٍ مِّن قَبْلِكَ ٱلْخُلْدَ ۖ أَفَإِي۟ن مِّتَّ فَهُمُ ٱلْخَـٰلِدُونَ",
+            "page_number": 324,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97468,
+                    "resource_id": 20,
+                    "text": "And We did not grant to any man before you eternity [on earth]; so if you die - would they be eternal?"
+                },
+                {
+                    "id": 215343,
+                    "resource_id": 39,
+                    "text": "Dan Kami tidak menjadikan seseorang manusia sebelummu dapat hidup kekal (di dunia ini). Maka kalau engkau meninggal dunia (wahai Muhammad), adakah mereka akan hidup selama-lamanya?"
+                },
+                {
+                    "id": 1093494,
+                    "resource_id": 161,
+                    "text": "তোমার পূর্বেও আমি কোন মানুষকে চিরস্থায়ী করিনি। তুমি যদি মারা যাও, তাহলে তারা কি চিরস্থায়ী হবে?"
+                }
+            ]
+        },
+        {
+            "id": 2518,
+            "verse_number": 35,
+            "verse_key": "21:35",
+            "hizb_number": 33,
+            "rub_el_hizb_number": 130,
+            "ruku_number": 280,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "كُلُّ نَفْسٍ ذَآئِقَةُ ٱلْمَوْتِ ۗ وَنَبْلُوكُم بِٱلشَّرِّ وَٱلْخَيْرِ فِتْنَةً ۖ وَإِلَيْنَا تُرْجَعُونَ",
+            "page_number": 324,
+            "juz_number": 17,
+            "translations": [
+                {
+                    "id": 97470,
+                    "resource_id": 20,
+                    "text": "Every soul will taste death. And We test you with evil and with good as trial; and to Us you will be returned."
+                },
+                {
+                    "id": 214709,
+                    "resource_id": 39,
+                    "text": "Tiap-tiap diri akan merasai mati, dan Kami menguji kamu dengan kesusahan dan kesenangan sebagai cubaan; dan kepada Kamilah kamu semua akan dikembalikan."
+                },
+                {
+                    "id": 1093495,
+                    "resource_id": 161,
+                    "text": "প্রত্যেক আত্মাকে মৃত্যু আস্বাদন করত হবে। আমি তোমাদেরকে ভাল ও মন্দ (উভয়টি দিয়ে এবং উভয় অবস্থায় ফেলে এর) দ্বারা পরীক্ষা করি। আমার কাছেই তোমাদেরকে ফিরিয়ে আনা হবে।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 11,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 11
+    }
+}

@@ -1,0 +1,221 @@
+{
+    "verses": [
+        {
+            "id": 6198,
+            "verse_number": 1,
+            "verse_key": "107:1",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 551,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ",
+            "page_number": 602,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96295,
+                    "resource_id": 20,
+                    "text": "Have you seen the one who denies the Recompense?"
+                },
+                {
+                    "id": 220267,
+                    "resource_id": 39,
+                    "text": "Tahukah engkau akan orang yang mendustakan ugama (meliputi hari pembalasan)?"
+                },
+                {
+                    "id": 1097175,
+                    "resource_id": 161,
+                    "text": "তুমি কি তাকে দেখেছ, যে কর্মফল (দিবসকে) অস্বীকার করে?"
+                }
+            ]
+        },
+        {
+            "id": 6199,
+            "verse_number": 2,
+            "verse_key": "107:2",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 551,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ",
+            "page_number": 602,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96297,
+                    "resource_id": 20,
+                    "text": "For that is the one who drives away the orphan"
+                },
+                {
+                    "id": 220255,
+                    "resource_id": 39,
+                    "text": "Orang itu ialah yang menindas serta berlaku zalim kepada anak yatim,"
+                },
+                {
+                    "id": 1097176,
+                    "resource_id": 161,
+                    "text": "সে তো সেই (লোক) যে ইয়াতীমকে ধাক্কা দিয়ে সরিয়ে দেয়,"
+                }
+            ]
+        },
+        {
+            "id": 6200,
+            "verse_number": 3,
+            "verse_key": "107:3",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 551,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+            "page_number": 602,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96299,
+                    "resource_id": 20,
+                    "text": "And does not encourage the feeding of the poor."
+                },
+                {
+                    "id": 218687,
+                    "resource_id": 39,
+                    "text": "Dan ia tidak menggalakkan untuk memberi makanan yang berhak diterima oleh orang miskin."
+                },
+                {
+                    "id": 1097177,
+                    "resource_id": 161,
+                    "text": "এবং মিসকীনকে অন্ন দিতে উৎসাহ দেয় না"
+                }
+            ]
+        },
+        {
+            "id": 6201,
+            "verse_number": 4,
+            "verse_key": "107:4",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 551,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَوَيْلٌ لِّلْمُصَلِّينَ",
+            "page_number": 602,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96301,
+                    "resource_id": 20,
+                    "text": "So woe to those who pray"
+                },
+                {
+                    "id": 220276,
+                    "resource_id": 39,
+                    "text": "(Kalau orang yang demikian dikira dari bilangan orang-orang yang mendustakan ugama), maka kecelakaan besar bagi orang-orang Ahli Sembahyang -"
+                },
+                {
+                    "id": 1097178,
+                    "resource_id": 161,
+                    "text": "অতএব দুর্ভোগ সে সব নামায আদায়কারীর"
+                }
+            ]
+        },
+        {
+            "id": 6202,
+            "verse_number": 5,
+            "verse_key": "107:5",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 551,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
+            "page_number": 602,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96303,
+                    "resource_id": 20,
+                    "text": "[But] who are heedless of their prayer<sup foot_note=197823>1</sup> -"
+                },
+                {
+                    "id": 220278,
+                    "resource_id": 39,
+                    "text": "(laitu) mereka yang berkeadaan lalai daripada menyempurnakan sembahyangnya;"
+                },
+                {
+                    "id": 1097179,
+                    "resource_id": 161,
+                    "text": "যারা নিজেদের নামাযের ব্যাপারে উদাসীন,"
+                }
+            ]
+        },
+        {
+            "id": 6203,
+            "verse_number": 6,
+            "verse_key": "107:6",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 551,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِينَ هُمْ يُرَآءُونَ",
+            "page_number": 602,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96305,
+                    "resource_id": 20,
+                    "text": "Those who make show [of their deeds]"
+                },
+                {
+                    "id": 220272,
+                    "resource_id": 39,
+                    "text": "(Juga bagi) orang-orang yang berkeadaan riak (bangga diri dalam ibadat dan bawaannya),"
+                },
+                {
+                    "id": 1097180,
+                    "resource_id": 161,
+                    "text": "যারা লোক দেখানোর জন্য তা করে,"
+                }
+            ]
+        },
+        {
+            "id": 6204,
+            "verse_number": 7,
+            "verse_key": "107:7",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 551,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَيَمْنَعُونَ ٱلْمَاعُونَ",
+            "page_number": 602,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96307,
+                    "resource_id": 20,
+                    "text": "And withhold [simple] assistance."
+                },
+                {
+                    "id": 220575,
+                    "resource_id": 39,
+                    "text": "Dan orang-orang yang tidak memberi sedikit pertolongan (kepada orang yang berhak mendapatnya)."
+                },
+                {
+                    "id": 1097181,
+                    "resource_id": 161,
+                    "text": "এবং প্রয়োজনীয় গৃহসামগ্রী দানের ছোট খাট সাহায্য করা থেকেও বিরত থাকে।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 10,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 7
+    }
+}

@@ -1,0 +1,941 @@
+{
+    "verses": [
+        {
+            "id": 5642,
+            "verse_number": 20,
+            "verse_key": "77:20",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 518,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَلَمْ نَخْلُقكُّم مِّن مَّآءٍ مَّهِينٍ",
+            "page_number": 581,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101653,
+                    "resource_id": 20,
+                    "text": "Did We not create you from a liquid disdained?"
+                },
+                {
+                    "id": 219482,
+                    "resource_id": 39,
+                    "text": "Bukankah Kami telah menciptakan kamu dari air (benih) yang sedikit dipandang orang?"
+                },
+                {
+                    "id": 1096619,
+                    "resource_id": 161,
+                    "text": "আমি কি নগণ্য পানি থেকে তোমাদেরকে সৃষ্টি করিনি?"
+                }
+            ]
+        },
+        {
+            "id": 5643,
+            "verse_number": 21,
+            "verse_key": "77:21",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 518,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَجَعَلْنَـٰهُ فِى قَرَارٍ مَّكِينٍ",
+            "page_number": 581,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101654,
+                    "resource_id": 20,
+                    "text": "And We placed it in a firm lodging [i.e., the womb]"
+                },
+                {
+                    "id": 219483,
+                    "resource_id": 39,
+                    "text": "Lalu Kami jadikan air (benih) itu pada tempat penetapan yang kukuh,"
+                },
+                {
+                    "id": 1096620,
+                    "resource_id": 161,
+                    "text": "অতঃপর আমি তা রেখেছি এক সুসংরক্ষিত স্থানে।"
+                }
+            ]
+        },
+        {
+            "id": 5644,
+            "verse_number": 22,
+            "verse_key": "77:22",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 518,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِلَىٰ قَدَرٍ مَّعْلُومٍ",
+            "page_number": 581,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101655,
+                    "resource_id": 20,
+                    "text": "For a known extent."
+                },
+                {
+                    "id": 219485,
+                    "resource_id": 39,
+                    "text": "Hingga ke suatu masa yang termaklum?"
+                },
+                {
+                    "id": 1096621,
+                    "resource_id": 161,
+                    "text": "একটা নির্ধারিত সময় পর্যন্ত,"
+                }
+            ]
+        },
+        {
+            "id": 5645,
+            "verse_number": 23,
+            "verse_key": "77:23",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 518,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَقَدَرْنَا فَنِعْمَ ٱلْقَـٰدِرُونَ",
+            "page_number": 581,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101656,
+                    "resource_id": 20,
+                    "text": "And We determined [it], and excellent [are We] to determine."
+                },
+                {
+                    "id": 219991,
+                    "resource_id": 39,
+                    "text": "Serta Kami tentukan (keadaannya), maka Kamilah sebaik-baik yang berkuasa menentukan dan melakukan (tiap-tiap sesuatu)!"
+                },
+                {
+                    "id": 1096622,
+                    "resource_id": 161,
+                    "text": "অতঃপর আমি তাকে গঠন করেছি সুসামঞ্জস্যপূর্ণরূপে, আমি কতই না উত্তম ক্ষমতার অধিকারী!"
+                }
+            ]
+        },
+        {
+            "id": 5646,
+            "verse_number": 24,
+            "verse_key": "77:24",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 518,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+            "page_number": 581,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101657,
+                    "resource_id": 20,
+                    "text": "Woe, that Day, to the deniers."
+                },
+                {
+                    "id": 219486,
+                    "resource_id": 39,
+                    "text": "Kecelakaan besar, pada hari itu, bagi orang-orang yang mendustakan (kekuasaan Kami)!"
+                },
+                {
+                    "id": 1096623,
+                    "resource_id": 161,
+                    "text": "সে দিন দুর্ভোগ সত্য প্রত্যাখ্যানকারীদের জন্য।"
+                }
+            ]
+        },
+        {
+            "id": 5647,
+            "verse_number": 25,
+            "verse_key": "77:25",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 518,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَلَمْ نَجْعَلِ ٱلْأَرْضَ كِفَاتًا",
+            "page_number": 581,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101658,
+                    "resource_id": 20,
+                    "text": "Have We not made the earth a container"
+                },
+                {
+                    "id": 219487,
+                    "resource_id": 39,
+                    "text": "Bukankah Kami telah menjadikan bumi (sebagai tempat) penampung dan penghimpun (penduduknya)? -"
+                },
+                {
+                    "id": 1096624,
+                    "resource_id": 161,
+                    "text": "আমি কি পৃথিবীকে (সব কিছুকে টেনে গুটিয়ে) ধারণকারীরূপে সৃষ্টি করিনি?"
+                }
+            ]
+        },
+        {
+            "id": 5648,
+            "verse_number": 26,
+            "verse_key": "77:26",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 518,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَحْيَآءً وَأَمْوَٰتًا",
+            "page_number": 581,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101659,
+                    "resource_id": 20,
+                    "text": "Of the living and the dead?"
+                },
+                {
+                    "id": 219488,
+                    "resource_id": 39,
+                    "text": "Yang hidup dan yang mati?"
+                },
+                {
+                    "id": 1096625,
+                    "resource_id": 161,
+                    "text": "জীবিত ও মৃতদেরকে (ভাল আর মন্দকে নেককার আর পাপাচারীকে)।"
+                }
+            ]
+        },
+        {
+            "id": 5649,
+            "verse_number": 27,
+            "verse_key": "77:27",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 518,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَجَعَلْنَا فِيهَا رَوَٰسِىَ شَـٰمِخَـٰتٍ وَأَسْقَيْنَـٰكُم مَّآءً فُرَاتًا",
+            "page_number": 581,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101660,
+                    "resource_id": 20,
+                    "text": "And We placed therein lofty, firmly set mountains and have given you to drink sweet water."
+                },
+                {
+                    "id": 219489,
+                    "resource_id": 39,
+                    "text": "Dan Kami telah jadikan di bumi: gunung-ganang yang menetapnya, yang tinggi menjulang; dan Kami telah memberi minum kepada kamu air yang tawar lagi memuaskan dahaga?"
+                },
+                {
+                    "id": 1096626,
+                    "resource_id": 161,
+                    "text": "আর আমি তাতে স্থাপন করেছি অনড় সুউচ্চ পবর্তমালা আর তোমাদেরকে পান করিয়েছি সুমিষ্ট সুপেয় পানি।"
+                }
+            ]
+        },
+        {
+            "id": 5650,
+            "verse_number": 28,
+            "verse_key": "77:28",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 518,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+            "page_number": 581,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101661,
+                    "resource_id": 20,
+                    "text": "Woe, that Day, to the deniers."
+                },
+                {
+                    "id": 219493,
+                    "resource_id": 39,
+                    "text": "Kecelakaan besar, pada hari itu, bagi orang-orang yang mendustakan (nikmat-nikmat pemberian Kami)!"
+                },
+                {
+                    "id": 1096627,
+                    "resource_id": 161,
+                    "text": "সেদিন দুর্ভোগ সত্য প্রত্যাখ্যানকারীদের জন্য।"
+                }
+            ]
+        },
+        {
+            "id": 5651,
+            "verse_number": 29,
+            "verse_key": "77:29",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 518,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ٱنطَلِقُوٓا۟ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ",
+            "page_number": 581,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101662,
+                    "resource_id": 20,
+                    "text": "[They will be told], \"Proceed to that which you used to deny."
+                },
+                {
+                    "id": 219491,
+                    "resource_id": 39,
+                    "text": "(Dikatakan kepada mereka semasa ditimpakan dengan azab): \"Pergilah kepada azab yang dahulu kamu mendustakannya."
+                },
+                {
+                    "id": 1096628,
+                    "resource_id": 161,
+                    "text": "(তাদেরকে বলা হবে) ‘চলো তার দিকে তোমরা যাকে মিথ্যে ব’লে প্রত্যাখ্যান করতে।"
+                }
+            ]
+        },
+        {
+            "id": 5652,
+            "verse_number": 30,
+            "verse_key": "77:30",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 518,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ٱنطَلِقُوٓا۟ إِلَىٰ ظِلٍّ ذِى ثَلَـٰثِ شُعَبٍ",
+            "page_number": 581,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101665,
+                    "resource_id": 20,
+                    "text": "Proceed to a shadow [of smoke] having three columns."
+                },
+                {
+                    "id": 214933,
+                    "resource_id": 39,
+                    "text": "\"Pergilah kamu kepada naungan (asap neraka) yang bercabang tiga, -"
+                },
+                {
+                    "id": 1096629,
+                    "resource_id": 161,
+                    "text": "‘চলো সেই (ধোঁয়ার) ছায়ার দিকে যার আছে তিনটি শাখা (অর্থাৎ ডানে, বামে, উপরে সব দিক থেকেই ঘিরে ধরবে),"
+                }
+            ]
+        },
+        {
+            "id": 5653,
+            "verse_number": 31,
+            "verse_key": "77:31",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 518,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "لَّا ظَلِيلٍ وَلَا يُغْنِى مِنَ ٱللَّهَبِ",
+            "page_number": 581,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101666,
+                    "resource_id": 20,
+                    "text": "[But having] no cool shade and availing not against the flame.\""
+                },
+                {
+                    "id": 219494,
+                    "resource_id": 39,
+                    "text": "\"Yang tidak dapat dijadikan naungan, dan tidak dapat memberikan sebarang lindungan dari julangan api neraka."
+                },
+                {
+                    "id": 1096630,
+                    "resource_id": 161,
+                    "text": "যা শীতল নয়, আর তা লেলিহান অগ্নিশিখা থেকে বাঁচাতেও পারবে না।"
+                }
+            ]
+        },
+        {
+            "id": 5654,
+            "verse_number": 32,
+            "verse_key": "77:32",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 518,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّهَا تَرْمِى بِشَرَرٍ كَٱلْقَصْرِ",
+            "page_number": 581,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101667,
+                    "resource_id": 20,
+                    "text": "Indeed, it throws sparks [as huge] as a fortress,"
+                },
+                {
+                    "id": 219504,
+                    "resource_id": 39,
+                    "text": "\"Sesungguhnya neraka itu melemparkan bunga api, (yang besarnya) seperti bangunan besar,"
+                },
+                {
+                    "id": 1096631,
+                    "resource_id": 161,
+                    "text": "সে আগুন প্রাসাদের ন্যায় (বিশাল) স্ফুলিঙ্গ উৎক্ষেপ করবে,"
+                }
+            ]
+        },
+        {
+            "id": 5655,
+            "verse_number": 33,
+            "verse_key": "77:33",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 518,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "كَأَنَّهُۥ جِمَـٰلَتٌ صُفْرٌ",
+            "page_number": 581,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101668,
+                    "resource_id": 20,
+                    "text": "As if they were yellowish [black] camels."
+                },
+                {
+                    "id": 219496,
+                    "resource_id": 39,
+                    "text": "\"(Banyaknya dan warnanya) bunga api itu seolah-olah rombongan unta kuning\"."
+                },
+                {
+                    "id": 1096632,
+                    "resource_id": 161,
+                    "text": "যেন হলুদ রঙ্গের উটের সারি,"
+                }
+            ]
+        },
+        {
+            "id": 5656,
+            "verse_number": 34,
+            "verse_key": "77:34",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 518,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+            "page_number": 581,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101669,
+                    "resource_id": 20,
+                    "text": "Woe, that Day, to the deniers."
+                },
+                {
+                    "id": 219497,
+                    "resource_id": 39,
+                    "text": "Kecelakaan besar, pada hari itu, bagi orang-orang yang mendustakan (keadaan yang demikian)."
+                },
+                {
+                    "id": 1096633,
+                    "resource_id": 161,
+                    "text": "সেদিন দুর্ভোগ সত্য প্রত্যাখ্যানকারীদের জন্য।"
+                }
+            ]
+        },
+        {
+            "id": 5657,
+            "verse_number": 35,
+            "verse_key": "77:35",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 518,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "هَـٰذَا يَوْمُ لَا يَنطِقُونَ",
+            "page_number": 581,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101670,
+                    "resource_id": 20,
+                    "text": "This is a Day they will not speak,"
+                },
+                {
+                    "id": 219498,
+                    "resource_id": 39,
+                    "text": "Inilah hari mereka tidak dapat berkata-kata, (kerana masing-masing terpinga-pinga ketakutan),"
+                },
+                {
+                    "id": 1096634,
+                    "resource_id": 161,
+                    "text": "এদিন এমন যে, কেউ কথা বলতে পারবে না,"
+                }
+            ]
+        },
+        {
+            "id": 5658,
+            "verse_number": 36,
+            "verse_key": "77:36",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 518,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ",
+            "page_number": 581,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101671,
+                    "resource_id": 20,
+                    "text": "Nor will it be permitted for them to make an excuse."
+                },
+                {
+                    "id": 219499,
+                    "resource_id": 39,
+                    "text": "Dan tidak pula diizinkan mereka bercakap, maka mereka tidak dapat meminta maaf."
+                },
+                {
+                    "id": 1096635,
+                    "resource_id": 161,
+                    "text": "তাদেরকে কোন ওজর পেশ করারও সুযোগ দেয়া হবে না।"
+                }
+            ]
+        },
+        {
+            "id": 5659,
+            "verse_number": 37,
+            "verse_key": "77:37",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 518,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+            "page_number": 581,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101672,
+                    "resource_id": 20,
+                    "text": "Woe, that Day, to the deniers."
+                },
+                {
+                    "id": 219500,
+                    "resource_id": 39,
+                    "text": "Kecelakaan besar, pada hari itu, bagi orang-orang yang mendustakan (hari akhirat)!"
+                },
+                {
+                    "id": 1096636,
+                    "resource_id": 161,
+                    "text": "সেদিন দুর্ভোগ সত্য প্রত্যাখ্যানকারীদের জন্য।"
+                }
+            ]
+        },
+        {
+            "id": 5660,
+            "verse_number": 38,
+            "verse_key": "77:38",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 518,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "هَـٰذَا يَوْمُ ٱلْفَصْلِ ۖ جَمَعْنَـٰكُمْ وَٱلْأَوَّلِينَ",
+            "page_number": 581,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101673,
+                    "resource_id": 20,
+                    "text": "This is the Day of Judgement; We will have assembled you and the former peoples."
+                },
+                {
+                    "id": 219501,
+                    "resource_id": 39,
+                    "text": "Inilah hari pemutusan hukum (yang menentukan siapa yang benar dan siapa yang salah). Kami himpunkan kamu bersama orang-orang yang terdahulu (dari kamu)."
+                },
+                {
+                    "id": 1096637,
+                    "resource_id": 161,
+                    "text": "এটা চূড়ান্ত ফয়সালার দিন, আমি একত্রিত করেছি তোমাদেরকে আর আগের লোকেদেরকে।"
+                }
+            ]
+        },
+        {
+            "id": 5661,
+            "verse_number": 39,
+            "verse_key": "77:39",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 518,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَإِن كَانَ لَكُمْ كَيْدٌ فَكِيدُونِ",
+            "page_number": 581,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101674,
+                    "resource_id": 20,
+                    "text": "So if you have a plan, then plan against Me."
+                },
+                {
+                    "id": 219502,
+                    "resource_id": 39,
+                    "text": "Oleh itu, kalau kamu ada sebarang tipu-helah melepaskan diri, maka cubalah kamu lakukan terhadap azabKu."
+                },
+                {
+                    "id": 1096638,
+                    "resource_id": 161,
+                    "text": "এক্ষণে তোমাদের কাছে যদি কোন কৌশল থাকে তাহলে তা আমার বিরুদ্ধে প্রয়োগ কর।"
+                }
+            ]
+        },
+        {
+            "id": 5662,
+            "verse_number": 40,
+            "verse_key": "77:40",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 518,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+            "page_number": 581,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101677,
+                    "resource_id": 20,
+                    "text": "Woe, that Day, to the deniers."
+                },
+                {
+                    "id": 219505,
+                    "resource_id": 39,
+                    "text": "Kecelakaan besar, pada hari itu, bagi orang-orang yang mendustakan (apa yang telah dijanjikan oleh Allah)!"
+                },
+                {
+                    "id": 1096639,
+                    "resource_id": 161,
+                    "text": "সেদিন দুর্ভোগ সত্য প্রত্যাখ্যানকারীদের জন্য।"
+                }
+            ]
+        },
+        {
+            "id": 5663,
+            "verse_number": 41,
+            "verse_key": "77:41",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 519,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ ٱلْمُتَّقِينَ فِى ظِلَـٰلٍ وَعُيُونٍ",
+            "page_number": 581,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101678,
+                    "resource_id": 20,
+                    "text": "Indeed, the righteous will be among shades and springs"
+                },
+                {
+                    "id": 219506,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya orang-orang yang bertaqwa berada di tempat teduh (yang dipenuhi pelbagai nikmat), dan yang berdekatan dengan matair-matair (yang mengalir), -"
+                },
+                {
+                    "id": 1096640,
+                    "resource_id": 161,
+                    "text": "মুত্তাকীরা থাকবে ছায়া আর ঝর্ণাধারার মাঝে,"
+                }
+            ]
+        },
+        {
+            "id": 5664,
+            "verse_number": 42,
+            "verse_key": "77:42",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 519,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَفَوَٰكِهَ مِمَّا يَشْتَهُونَ",
+            "page_number": 581,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101679,
+                    "resource_id": 20,
+                    "text": "And fruits from whatever they desire,"
+                },
+                {
+                    "id": 219507,
+                    "resource_id": 39,
+                    "text": "Serta menikmati buah-buahan dari segala jenis yang mereka ingini."
+                },
+                {
+                    "id": 1096641,
+                    "resource_id": 161,
+                    "text": "আর তাদের জন্য থাকবে ফলমূল- যেটি তাদের মন চাইবে।"
+                }
+            ]
+        },
+        {
+            "id": 5665,
+            "verse_number": 43,
+            "verse_key": "77:43",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 519,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ",
+            "page_number": 581,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101680,
+                    "resource_id": 20,
+                    "text": "[Being told], \"Eat and drink in satisfaction for what you used to do.\""
+                },
+                {
+                    "id": 219508,
+                    "resource_id": 39,
+                    "text": "(Pada ketika itu dikatakan kepada mereka): \"Makanlah dan minumlah kamu dengan lazatnya, disebabkan apa yang kamu telah kerjakan.\""
+                },
+                {
+                    "id": 1096642,
+                    "resource_id": 161,
+                    "text": "(তাদেরকে বলা হবে) ‘তোমরা তৃপ্তির সঙ্গে খাও আর পান কর, তোমরা যে ‘আমাল করেছিলে তার পুরস্কারস্বরূপ।"
+                }
+            ]
+        },
+        {
+            "id": 5666,
+            "verse_number": 44,
+            "verse_key": "77:44",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 519,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+            "page_number": 581,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101681,
+                    "resource_id": 20,
+                    "text": "Indeed, We thus reward the doers of good."
+                },
+                {
+                    "id": 219509,
+                    "resource_id": 39,
+                    "text": "Sesungguhnya, demikianlah Kami membalas orang-orang yang berusaha mengerjakan amal-amal yang baik."
+                },
+                {
+                    "id": 1096643,
+                    "resource_id": 161,
+                    "text": "সৎকর্মশীলদেরকে আমি এভাবেই প্রতিফল দিয়ে থাকি।"
+                }
+            ]
+        },
+        {
+            "id": 5667,
+            "verse_number": 45,
+            "verse_key": "77:45",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 519,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+            "page_number": 581,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101682,
+                    "resource_id": 20,
+                    "text": "Woe, that Day, to the deniers."
+                },
+                {
+                    "id": 219510,
+                    "resource_id": 39,
+                    "text": "Kecelakaan besar, pada hari itu, bagi orang-orang yang mendustakan (nikmat-nikmat Syurga)!"
+                },
+                {
+                    "id": 1096644,
+                    "resource_id": 161,
+                    "text": "সেদিন দুর্ভোগ সত্য প্রত্যাখ্যানকারীদের জন্য।"
+                }
+            ]
+        },
+        {
+            "id": 5668,
+            "verse_number": 46,
+            "verse_key": "77:46",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 519,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "كُلُوا۟ وَتَمَتَّعُوا۟ قَلِيلًا إِنَّكُم مُّجْرِمُونَ",
+            "page_number": 581,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101683,
+                    "resource_id": 20,
+                    "text": "[O disbelievers], eat and enjoy yourselves a little; indeed, you are criminals."
+                },
+                {
+                    "id": 219511,
+                    "resource_id": 39,
+                    "text": "Makanlah dan bersenang-senanglah kamu (wahai orang-orang yang ingkar derhaka) sementara waktu hidup, (kemudian kamu akan menghadapi bahaya), kerana sesungguhnya kamu adalah orang-orang yang berdosa."
+                },
+                {
+                    "id": 1096645,
+                    "resource_id": 161,
+                    "text": "(ওহে সত্য প্রত্যাখ্যানকারীরা!) তোমরা অল্প কিছুকাল খেয়ে নাও আর ভোগ করে নাও, তোমরা তো অপরাধী।"
+                }
+            ]
+        },
+        {
+            "id": 5669,
+            "verse_number": 47,
+            "verse_key": "77:47",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 519,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+            "page_number": 581,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101684,
+                    "resource_id": 20,
+                    "text": "Woe, that Day, to the deniers."
+                },
+                {
+                    "id": 219512,
+                    "resource_id": 39,
+                    "text": "Kecelakaan besar, pada hari itu, bagi orang-orang yang mendustakan (amaran Allah), -"
+                },
+                {
+                    "id": 1096646,
+                    "resource_id": 161,
+                    "text": "সেদিন দুর্ভোগ সত্য প্রত্যাখ্যানকারীদের জন্য।"
+                }
+            ]
+        },
+        {
+            "id": 5670,
+            "verse_number": 48,
+            "verse_key": "77:48",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 519,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا قِيلَ لَهُمُ ٱرْكَعُوا۟ لَا يَرْكَعُونَ",
+            "page_number": 581,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101685,
+                    "resource_id": 20,
+                    "text": "And when it is said to them, \"Bow [in prayer],\" they do not bow."
+                },
+                {
+                    "id": 219513,
+                    "resource_id": 39,
+                    "text": "Dan apabila dikatakan kepada mereka (yang ingkar): \"Taatlah dan kerjakanlah sembahyang\", mereka enggan mengerjakannya."
+                },
+                {
+                    "id": 1096647,
+                    "resource_id": 161,
+                    "text": "তাদেরকে যখন বলা হয় (আল্লাহর সম্মুখে) নত হও, (তাঁর আদেশসমূহ পালনের মাধ্যমে) তখন তারা নত হয় না।"
+                }
+            ]
+        },
+        {
+            "id": 5671,
+            "verse_number": 49,
+            "verse_key": "77:49",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 519,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+            "page_number": 581,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101686,
+                    "resource_id": 20,
+                    "text": "Woe, that Day, to the deniers."
+                },
+                {
+                    "id": 219514,
+                    "resource_id": 39,
+                    "text": "Kecelakaan besar, pada hari itu, bagi orang-orang yang mendustakan (perintah-perintah Allah dan laranganNya)!"
+                },
+                {
+                    "id": 1096648,
+                    "resource_id": 161,
+                    "text": "সেদিন দুর্ভোগ সত্য প্রত্যাখ্যানকারীদের জন্য।"
+                }
+            ]
+        },
+        {
+            "id": 5672,
+            "verse_number": 50,
+            "verse_key": "77:50",
+            "hizb_number": 58,
+            "rub_el_hizb_number": 232,
+            "ruku_number": 519,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَبِأَىِّ حَدِيثٍۭ بَعْدَهُۥ يُؤْمِنُونَ",
+            "page_number": 581,
+            "juz_number": 29,
+            "translations": [
+                {
+                    "id": 101689,
+                    "resource_id": 20,
+                    "text": "Then in what statement after it [i.e., the Qur’ān] will they believe?"
+                },
+                {
+                    "id": 219518,
+                    "resource_id": 39,
+                    "text": "(Kalau mereka tidak juga mahu beriman kepada keterangan-keterangan yang tersebut) maka kepada perkataan yang mana lagi, sesudah itu, mereka mahu beriman?"
+                },
+                {
+                    "id": 1096649,
+                    "resource_id": 161,
+                    "text": "তাহলে কুরআনের পর (তার চেয়ে উত্তম) আর কোন্ কিতাব আছে যার উপর তারা ঈমান আনবে?"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 31,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 31
+    }
+}

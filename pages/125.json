@@ -1,0 +1,161 @@
+{
+    "verses": [
+        {
+            "id": 773,
+            "verse_number": 104,
+            "verse_key": "5:104",
+            "hizb_number": 13,
+            "rub_el_hizb_number": 50,
+            "ruku_number": 99,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ إِلَىٰ مَآ أَنزَلَ ٱللَّهُ وَإِلَى ٱلرَّسُولِ قَالُوا۟ حَسْبُنَا مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ ۚ أَوَلَوْ كَانَ ءَابَآؤُهُمْ لَا يَعْلَمُونَ شَيْـًٔا وَلَا يَهْتَدُونَ",
+            "page_number": 125,
+            "juz_number": 7,
+            "translations": [
+                {
+                    "id": 100254,
+                    "resource_id": 20,
+                    "text": "And when it is said to them, \"Come to what Allāh has revealed and to the Messenger,\" they say, \"Sufficient for us is that upon which we found our fathers.\" Even though their fathers knew nothing, nor were they guided?"
+                },
+                {
+                    "id": 218091,
+                    "resource_id": 39,
+                    "text": "Dan apabila dikatakan kepada mereka: \"Marilah menurut kepada apa yang telah diturunkan oleh Allah (Al-Quran), dan kepada RasulNya (yang menyampaikannya)\", mereka menjawab: \"Cukuplah bagi kami apa yang kami dapati datuk nenek kami mengerjakannya\". Adakah (mereka akan menurut juga) sekalipun datuk nenek mereka tidak mengetahui apa-apa dan tidak pula mendapat hidayah petunjuk?"
+                },
+                {
+                    "id": 1091750,
+                    "resource_id": 161,
+                    "text": "তাদেরকে যখন বলা হয় আল্লাহ যা অবতীর্ণ করেছেন তার দিকে ও রসূলের দিকে এসো (তখন) তারা বলে, আমরা আমাদের পিতৃপুরুষকে যা করতে দেখেছি (যে পথ ও পন্থা অবলম্বন করতে দেখেছি) আমাদের জন্য তাই যথেষ্ট। যদিও তাদের পিতৃপুরুষরা কিছুই জানত না এবং সঠিক পথপ্রাপ্ত ছিল না (তবুও কি তারা তাদের পথেই চলবে)?"
+                }
+            ]
+        },
+        {
+            "id": 774,
+            "verse_number": 105,
+            "verse_key": "5:105",
+            "hizb_number": 13,
+            "rub_el_hizb_number": 50,
+            "ruku_number": 99,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ عَلَيْكُمْ أَنفُسَكُمْ ۖ لَا يَضُرُّكُم مَّن ضَلَّ إِذَا ٱهْتَدَيْتُمْ ۚ إِلَى ٱللَّهِ مَرْجِعُكُمْ جَمِيعًا فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+            "page_number": 125,
+            "juz_number": 7,
+            "translations": [
+                {
+                    "id": 100255,
+                    "resource_id": 20,
+                    "text": "O you who have believed, upon you is [responsibility for] yourselves. Those who have gone astray will not harm you when you have been guided. To Allāh is your return all together; then He will inform you of what you used to do."
+                },
+                {
+                    "id": 218092,
+                    "resource_id": 39,
+                    "text": "Wahai orang-orang yang beriman! Jagalah sahaja diri kamu (dari melakukan sesuatu yang dilarang oleh Allah). Orang-orang yang sesat tidak akan mendatangkan mudarat kepada kamu apabila kamu sendiri telah mendapat hidayah petunjuk (taat mengerjakan suruhan Allah dan meninggalkan laranganNya). Kepada Allah jualah tempat kembali kamu semuanya, kemudian Ia akan menerangkan kepada kamu (balasan) apa yang kamu telah lakukan."
+                },
+                {
+                    "id": 1091751,
+                    "resource_id": 161,
+                    "text": "হে মু’মিনগণ! তোমাদের দায়িত্ব তোমাদের উপর। যখন তোমরা সত্যপথ প্রাপ্ত হয়েছ তখন যারা পথভ্রষ্ট হয়ে গেছে তারা তোমাদের কোন ক্ষতি করতে পারবে না। তোমাদের সকলের প্রত্যাবর্তন আল্লাহর দিকে, অতঃপর তোমরা যা করছিলে সে সম্পর্কে তোমাদেরকে জানিয়ে দেয়া হবে।"
+                }
+            ]
+        },
+        {
+            "id": 775,
+            "verse_number": 106,
+            "verse_key": "5:106",
+            "hizb_number": 13,
+            "rub_el_hizb_number": 50,
+            "ruku_number": 99,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَـٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَـٰبَتْكُم مُّصِيبَةُ ٱلْمَوْتِ ۚ تَحْبِسُونَهُمَا مِنۢ بَعْدِ ٱلصَّلَوٰةِ فَيُقْسِمَانِ بِٱللَّهِ إِنِ ٱرْتَبْتُمْ لَا نَشْتَرِى بِهِۦ ثَمَنًا وَلَوْ كَانَ ذَا قُرْبَىٰ ۙ وَلَا نَكْتُمُ شَهَـٰدَةَ ٱللَّهِ إِنَّآ إِذًا لَّمِنَ ٱلْـَٔاثِمِينَ",
+            "page_number": 125,
+            "juz_number": 7,
+            "translations": [
+                {
+                    "id": 100256,
+                    "resource_id": 20,
+                    "text": "O you who have believed, testimony [should be taken] among you when death approaches one of you at the time of bequest - [that of] two just men from among you or two others from outside if you are traveling through the land and the disaster of death should strike you. Detain them after the prayer and let them both swear by Allāh if you doubt [their testimony, saying], \"We will not exchange it [i.e., our oath] for a price [i.e., worldly gain], even if he should be a near relative, and we will not withhold the testimony of [i.e., ordained by] Allāh. Indeed, we would then be of the sinful.\""
+                },
+                {
+                    "id": 218093,
+                    "resource_id": 39,
+                    "text": "Wahai orang-orang yang beriman! Apabila salah seorang di antara kamu hampir mati, ketika (ia mahu) berwasiat, hendaklah wasiatnya itu disaksikan oleh dua orang yang adil di antara kamu, atau dua orang lain (yang bukan seugama) dengan kamu, jika kamu dalam pelayaran di muka bumi lalu kamu ditimpa bencana sakit yang membawa maut. Kalau kamu ragu-ragu tentang kejujuran kedua saksi itu, hendaklah) kamu tahan mereka sesudah selesai sembahyang, kemudian mereka (disuruh) bersumpah dengan nama Allah (dengan berkata: \"Demi Allah) kami tidak akan menjual sumpah kami untuk mendapat sesuatu harta benda, walaupun orang itu dari kaum kerabat, dan kami tidak menyembunyikan (keterangan yang kami ketahui) sebagai saksi (sebagaimana yang diperintahkan oleh) Allah, (kerana jika kami menyembunyikannya) tentulah kami dengan itu termasuk dalam golongan orang-orang yang berdosa\"."
+                },
+                {
+                    "id": 1091752,
+                    "resource_id": 161,
+                    "text": "হে বিশ্বাসীগণ! তোমাদের কারো মৃত্যু উপস্থিত হলে যখন ওসিয়াত করবে তখন তোমাদের মধ্য হতে দু’জন ন্যায়পরায়ণ লোককে সাক্ষী করবে, আর সফররত অবস্থায় মৃত্যুর মুসিবত উপস্থিত হলে তোমাদের ছাড়া অন্যদের থেকে দু’জন সাক্ষী রাখবে। (সাক্ষীদের সত্যতা সম্পর্কে) তোমাদের সন্দেহ হলে সলাতের পর তাদেরকে রেখে দেবে আর তারা আল্লাহর নামে শপথ করবে যে, আমরা কোন কিছুর বিনিময়ে সাক্ষ্য বিক্রয় করব না, যদিও সে আমাদের আত্মীয় হয়, আর আল্লাহর ওয়াস্তে কৃত সাক্ষ্য গোপন করব না, করলে পাপীদের মধ্যে গণ্য হয়ে যাব।"
+                }
+            ]
+        },
+        {
+            "id": 776,
+            "verse_number": 107,
+            "verse_key": "5:107",
+            "hizb_number": 13,
+            "rub_el_hizb_number": 50,
+            "ruku_number": 99,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "فَإِنْ عُثِرَ عَلَىٰٓ أَنَّهُمَا ٱسْتَحَقَّآ إِثْمًا فَـَٔاخَرَانِ يَقُومَانِ مَقَامَهُمَا مِنَ ٱلَّذِينَ ٱسْتَحَقَّ عَلَيْهِمُ ٱلْأَوْلَيَـٰنِ فَيُقْسِمَانِ بِٱللَّهِ لَشَهَـٰدَتُنَآ أَحَقُّ مِن شَهَـٰدَتِهِمَا وَمَا ٱعْتَدَيْنَآ إِنَّآ إِذًا لَّمِنَ ٱلظَّـٰلِمِينَ",
+            "page_number": 125,
+            "juz_number": 7,
+            "translations": [
+                {
+                    "id": 100257,
+                    "resource_id": 20,
+                    "text": "But if it is found that those two were guilty of sin [i.e., perjury], let two others stand in their place [who are] foremost [in claim] from those who have a lawful right. And let them swear by Allāh, \"Our testimony is truer than their testimony, and we have not transgressed. Indeed, we would then be of the wrongdoers.\""
+                },
+                {
+                    "id": 218095,
+                    "resource_id": 39,
+                    "text": "Kemudian jika didapati bahawa kedua saksi itu (sesudah bersumpah) ada melakukan dosa (kerana berdusta atau mengkhianati dalam perkara yang mereka menjadi saksi itu), maka hendaklah dua orang yang lain menggantikan tempat mereka dari waris-waris si mati lebih dekat, yang lebih berhak (menuntut dan memberi keterangan yang sebenarnya), kemudian mereka bersumpah dengan nama Allah (dengan berkata): \"Demi sesungguhnya, persaksian kami lebih berhak diterima daripada persaksian kedua saksi itu (yang telah nyata berdusta), dan kami tidak melampaui batas, (kerana jika kami berbuat demikian) tentulah kami dengan itu termasuk dalam golongan orang-orang yang zalim."
+                },
+                {
+                    "id": 1091753,
+                    "resource_id": 161,
+                    "text": "যদি জানা যায় যে, তারা পাপে জড়িয়ে পড়েছে, তবে তাদের স্থলে অন্য দু’জন সেই লোকেদের মধ্য হতে দাঁড়াবে, যাদের স্বত্ব পূর্বের দু’জন সাক্ষী নষ্ট করতে চেয়েছিল। তারা আল্লাহর নামে শপথ করে বলবে যে, আমাদের সাক্ষ্য অবশ্যই তাদের সাক্ষ্য অপেক্ষা অধিক সত্য (আর আমরা আমাদের সাক্ষ্যদানের ব্যাপারে) সীমালঙ্ঘন করিনি, করলে আমরা অবশ্য যালিমদের মধ্যে গণ্য হয়ে যাব।"
+                }
+            ]
+        },
+        {
+            "id": 777,
+            "verse_number": 108,
+            "verse_key": "5:108",
+            "hizb_number": 13,
+            "rub_el_hizb_number": 50,
+            "ruku_number": 99,
+            "manzil_number": 2,
+            "sajdah_number": null,
+            "text_uthmani": "ذَٰلِكَ أَدْنَىٰٓ أَن يَأْتُوا۟ بِٱلشَّهَـٰدَةِ عَلَىٰ وَجْهِهَآ أَوْ يَخَافُوٓا۟ أَن تُرَدَّ أَيْمَـٰنٌۢ بَعْدَ أَيْمَـٰنِهِمْ ۗ وَٱتَّقُوا۟ ٱللَّهَ وَٱسْمَعُوا۟ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَـٰسِقِينَ",
+            "page_number": 125,
+            "juz_number": 7,
+            "translations": [
+                {
+                    "id": 100258,
+                    "resource_id": 20,
+                    "text": "That is more likely that they will give testimony according to its [true] objective, or [at least] they would fear that [other] oaths might be taken after their oaths. And fear Allāh and listen [i.e., obey Him]; and Allāh does not guide the defiantly disobedient people."
+                },
+                {
+                    "id": 218098,
+                    "resource_id": 39,
+                    "text": "(Hukum-hukum dan peraturan menjadi saksi) yang tersebut itu adalah jalan yang lebih dekat untuk mereka memberi keterangan persaksian menurut cara yang sebenarnya, atau untuk mereka merasa takut akan ditolak sumpah mereka (kepada waris-waris si mati) sesudah mereka bersumpah (yang akan mendedahkan kecurangan mereka). Oleh itu bertaqwalah kepada Allah, dan dengarlah dengan patuh (segala perintahNya), dan (ingatlah) Allah tidak memberi hidayah petunjuk kepada kaum yang fasik."
+                },
+                {
+                    "id": 1091754,
+                    "resource_id": 161,
+                    "text": "এ পন্থায় বেশি সম্ভাবনা আছে যে, লোকে ঠিকভাবে সাক্ষ্যদান করবে, কিংবা অন্ততঃপক্ষে তারা এ ভয় অবশ্যই করবে যে, তাদের কসম করার পর অপর কোন কসম দ্বারা তাদের প্রতিবাদ করা না হয়। আল্লাহকে ভয় কর আর শোন; আল্লাহ সত্য পরিত্যাগকারী সম্প্রদায়কে সঠিক পথে পরিচালিত করেন না।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 5,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 5
+    }
+}

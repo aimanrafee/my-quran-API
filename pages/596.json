@@ -1,0 +1,791 @@
+{
+    "verses": [
+        {
+            "id": 6073,
+            "verse_number": 15,
+            "verse_key": "92:15",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 536,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "لَا يَصْلَىٰهَآ إِلَّا ٱلْأَشْقَى",
+            "page_number": 596,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102228,
+                    "resource_id": 20,
+                    "text": "None will [enter to] burn therein except the most wretched one"
+                },
+                {
+                    "id": 220072,
+                    "resource_id": 39,
+                    "text": "Yang tidak akan menderita bakarannya melainkan orang yang sungguh celaka, -"
+                },
+                {
+                    "id": 1097050,
+                    "resource_id": 161,
+                    "text": "চরম হতভাগা ছাড়া কেউ তাতে প্রবেশ করবে না।"
+                }
+            ]
+        },
+        {
+            "id": 6074,
+            "verse_number": 16,
+            "verse_key": "92:16",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 536,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِى كَذَّبَ وَتَوَلَّىٰ",
+            "page_number": 596,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102229,
+                    "resource_id": 20,
+                    "text": "Who had denied and turned away."
+                },
+                {
+                    "id": 214957,
+                    "resource_id": 39,
+                    "text": "Yang telah mendustakan (kebenaran) dan berpaling ingkar."
+                },
+                {
+                    "id": 1097051,
+                    "resource_id": 161,
+                    "text": "যে অস্বীকার করে ও মুখ ফিরিয়ে নেয়"
+                }
+            ]
+        },
+        {
+            "id": 6075,
+            "verse_number": 17,
+            "verse_key": "92:17",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 536,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَسَيُجَنَّبُهَا ٱلْأَتْقَى",
+            "page_number": 596,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102230,
+                    "resource_id": 20,
+                    "text": "But the righteous one will avoid it"
+                },
+                {
+                    "id": 220073,
+                    "resource_id": 39,
+                    "text": "Dan (sebaliknya) akan dijauhkan (azab neraka) itu daripada orang yang sungguh bertaqwa, -"
+                },
+                {
+                    "id": 1097052,
+                    "resource_id": 161,
+                    "text": "তাত্থেকে দূরে রাখা হবে এমন ব্যক্তিকে যে আল্লাহকে খুব বেশি ভয় করে,"
+                }
+            ]
+        },
+        {
+            "id": 6076,
+            "verse_number": 18,
+            "verse_key": "92:18",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 536,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِى يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ",
+            "page_number": 596,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102231,
+                    "resource_id": 20,
+                    "text": "[He] who gives [from] his wealth to purify himself"
+                },
+                {
+                    "id": 220074,
+                    "resource_id": 39,
+                    "text": "Yang mendermakan hartanya dengan tujuan membersihkan dirinya dan hartabendanya,"
+                },
+                {
+                    "id": 1097053,
+                    "resource_id": 161,
+                    "text": "যে পবিত্রতা অর্জনের উদ্দেশ্যে নিজের ধন-সম্পদ দান করে,"
+                }
+            ]
+        },
+        {
+            "id": 6077,
+            "verse_number": 19,
+            "verse_key": "92:19",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 536,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعْمَةٍ تُجْزَىٰٓ",
+            "page_number": 596,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102232,
+                    "resource_id": 20,
+                    "text": "And not [giving] for anyone who has [done him] a favor to be rewarded<sup foot_note=197777>1</sup>"
+                },
+                {
+                    "id": 220075,
+                    "resource_id": 39,
+                    "text": "Sedang ia tidak menanggung budi sesiapapun, yang patut di balas,"
+                },
+                {
+                    "id": 1097054,
+                    "resource_id": 161,
+                    "text": "(সে দান করে) তার প্রতি কারো অনুগ্রহের প্রতিদান হিসেবে নয়,"
+                }
+            ]
+        },
+        {
+            "id": 6078,
+            "verse_number": 20,
+            "verse_key": "92:20",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 536,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِلَّا ٱبْتِغَآءَ وَجْهِ رَبِّهِ ٱلْأَعْلَىٰ",
+            "page_number": 596,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102235,
+                    "resource_id": 20,
+                    "text": "But only seeking the face [i.e., acceptance] of his Lord, Most High."
+                },
+                {
+                    "id": 220077,
+                    "resource_id": 39,
+                    "text": "Hanyalah mengharapkan keredaan Tuhannya Yang Maha Tinggi;"
+                },
+                {
+                    "id": 1097055,
+                    "resource_id": 161,
+                    "text": "একমাত্র তার মহান প্রতিপালকের চেহারা (সন্তোষ) লাভের আশায়।"
+                }
+            ]
+        },
+        {
+            "id": 6079,
+            "verse_number": 21,
+            "verse_key": "92:21",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 536,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَسَوْفَ يَرْضَىٰ",
+            "page_number": 596,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102236,
+                    "resource_id": 20,
+                    "text": "And he is going to be satisfied."
+                },
+                {
+                    "id": 220049,
+                    "resource_id": 39,
+                    "text": "Dan demi sesungguhnya, ia tetap akan berpuas hati (pada hari akhirat, dengan mendapat segala yang diharapkannya)."
+                },
+                {
+                    "id": 1097056,
+                    "resource_id": 161,
+                    "text": "সে অবশ্যই অতি শীঘ্র (আল্লাহর নি‘মাত পেয়ে) সন্তুষ্ট হয়ে যাবে।"
+                }
+            ]
+        },
+        {
+            "id": 6080,
+            "verse_number": 1,
+            "verse_key": "93:1",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 537,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " وَٱلضُّحَىٰ",
+            "page_number": 596,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102254,
+                    "resource_id": 20,
+                    "text": "By the morning brightness"
+                },
+                {
+                    "id": 220080,
+                    "resource_id": 39,
+                    "text": "Demi waktu dhuha,"
+                },
+                {
+                    "id": 1097057,
+                    "resource_id": 161,
+                    "text": "সকালের উজ্জ্বল আলোর শপথ,"
+                }
+            ]
+        },
+        {
+            "id": 6081,
+            "verse_number": 2,
+            "verse_key": "93:2",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 537,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَٱلَّيْلِ إِذَا سَجَىٰ",
+            "page_number": 596,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102258,
+                    "resource_id": 20,
+                    "text": "And [by] the night when it covers with darkness,<sup foot_note=197778>1</sup>"
+                },
+                {
+                    "id": 220084,
+                    "resource_id": 39,
+                    "text": "Dan malam apabila ia sunyi-sepi -"
+                },
+                {
+                    "id": 1097058,
+                    "resource_id": 161,
+                    "text": "রাতের শপথ যখন তা হয় শান্ত-নিঝুম,"
+                }
+            ]
+        },
+        {
+            "id": 6082,
+            "verse_number": 3,
+            "verse_key": "93:3",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 537,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+            "page_number": 596,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102260,
+                    "resource_id": 20,
+                    "text": "Your Lord has not taken leave of you, [O Muḥammad], nor has He detested [you]."
+                },
+                {
+                    "id": 220086,
+                    "resource_id": 39,
+                    "text": "(Bahawa) Tuhanmu (wahai Muhammad) tidak meninggalkanmu, dan Ia tidak benci (kepadamu, sebagaimana yang dituduh oleh kaum musyrik)."
+                },
+                {
+                    "id": 1097059,
+                    "resource_id": 161,
+                    "text": "তোমার প্রতিপালক তোমাকে কক্ষনো পরিত্যাগ করেননি, আর তিনি অসন্তুষ্টও নন।"
+                }
+            ]
+        },
+        {
+            "id": 6083,
+            "verse_number": 4,
+            "verse_key": "93:4",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 537,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَلْـَٔاخِرَةُ خَيْرٌ لَّكَ مِنَ ٱلْأُولَىٰ",
+            "page_number": 596,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102262,
+                    "resource_id": 20,
+                    "text": "And the Hereafter is better for you than the first [life]."
+                },
+                {
+                    "id": 220088,
+                    "resource_id": 39,
+                    "text": "Dan sesungguhnya kesudahan keaadaanmu adalah lebih baik bagimu daripada permulaannya."
+                },
+                {
+                    "id": 1097060,
+                    "resource_id": 161,
+                    "text": "অবশ্যই পরবর্তী সময় পূর্ববর্তী সময়ের চেয়ে তোমার জন্য হবে অধিক উৎকৃষ্ট।"
+                }
+            ]
+        },
+        {
+            "id": 6084,
+            "verse_number": 5,
+            "verse_key": "93:5",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 537,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ",
+            "page_number": 596,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102264,
+                    "resource_id": 20,
+                    "text": "And your Lord is going to give you, and you will be satisfied."
+                },
+                {
+                    "id": 220090,
+                    "resource_id": 39,
+                    "text": "Dan sesungguhnya Tuhanmu akan memberikanmu (kejayaan dan kebahagiaan di dunia dan di akhirat) sehingga engkau reda - berpuas hati."
+                },
+                {
+                    "id": 1097061,
+                    "resource_id": 161,
+                    "text": "শীঘ্রই তোমার প্রতিপালক তোমাকে (এত নি‘মাত) দিবেন যার ফলে তুমি সন্তুষ্ট হয়ে যাবে।"
+                }
+            ]
+        },
+        {
+            "id": 6085,
+            "verse_number": 6,
+            "verse_key": "93:6",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 537,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ",
+            "page_number": 596,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102266,
+                    "resource_id": 20,
+                    "text": "Did He not find you an orphan and give [you] refuge?"
+                },
+                {
+                    "id": 220093,
+                    "resource_id": 39,
+                    "text": "Bukankah dia mendapati engkau yatim piatu, lalu la memberikan perlindungan?"
+                },
+                {
+                    "id": 1097062,
+                    "resource_id": 161,
+                    "text": "তিনি কি তোমাকে ইয়াতীম অবস্থায় পান নাই? অতঃপর তিনি আশ্রয় দিয়েছেন।"
+                }
+            ]
+        },
+        {
+            "id": 6086,
+            "verse_number": 7,
+            "verse_key": "93:7",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 537,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَوَجَدَكَ ضَآلًّا فَهَدَىٰ",
+            "page_number": 596,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102268,
+                    "resource_id": 20,
+                    "text": "And He found you lost and guided [you],"
+                },
+                {
+                    "id": 220030,
+                    "resource_id": 39,
+                    "text": "Dan didapatiNya engkau mencari-cari (jalan yang benar), lalu Ia memberikan hidayah petunjuk (dengan wahyu - Al-Quran)?"
+                },
+                {
+                    "id": 1097063,
+                    "resource_id": 161,
+                    "text": "তিনি তোমাকে পেয়েছিলেন পথের দিশা-হীন, অতঃপর দেখালেন সঠিক পথ।"
+                }
+            ]
+        },
+        {
+            "id": 6087,
+            "verse_number": 8,
+            "verse_key": "93:8",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 537,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ",
+            "page_number": 596,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102270,
+                    "resource_id": 20,
+                    "text": "And He found you poor and made [you] self-sufficient."
+                },
+                {
+                    "id": 220097,
+                    "resource_id": 39,
+                    "text": "Dan didapatiNya engkau miskin, lalu Ia memberikan kekayaan?"
+                },
+                {
+                    "id": 1097064,
+                    "resource_id": 161,
+                    "text": "তিনি তোমাকে পেলেন নিঃস্ব, অতঃপর করলেন অভাবমুক্ত।"
+                }
+            ]
+        },
+        {
+            "id": 6088,
+            "verse_number": 9,
+            "verse_key": "93:9",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 537,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ",
+            "page_number": 596,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102272,
+                    "resource_id": 20,
+                    "text": "So as for the orphan, do not oppress [him]."
+                },
+                {
+                    "id": 220099,
+                    "resource_id": 39,
+                    "text": "Oleh itu, adapun anak yatim maka janganlah engkau berlaku kasar terhadapnya,"
+                },
+                {
+                    "id": 1097065,
+                    "resource_id": 161,
+                    "text": "কাজেই তুমি ইয়াতীমের প্রতি কঠোরতা করবে না।"
+                }
+            ]
+        },
+        {
+            "id": 6089,
+            "verse_number": 10,
+            "verse_key": "93:10",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 537,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ",
+            "page_number": 596,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102255,
+                    "resource_id": 20,
+                    "text": "And as for the petitioner,<sup foot_note=197779>1</sup> do not repel [him]."
+                },
+                {
+                    "id": 220081,
+                    "resource_id": 39,
+                    "text": "Adapun orang yang meminta (bantuan pimpinan) maka janganlah engkau tengking herdik;"
+                },
+                {
+                    "id": 1097066,
+                    "resource_id": 161,
+                    "text": "এবং ভিক্ষুককে ধমক দিবে না।"
+                }
+            ]
+        },
+        {
+            "id": 6090,
+            "verse_number": 11,
+            "verse_key": "93:11",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 238,
+            "ruku_number": 537,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+            "page_number": 596,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102256,
+                    "resource_id": 20,
+                    "text": "But as for the favor of your Lord, report [it]."
+                },
+                {
+                    "id": 220082,
+                    "resource_id": 39,
+                    "text": "Adapun nikmat Tuhanmu, maka hendaklah engkau sebut-sebutkan (dan zahirkan) sebagai bersyukur kepadaNya."
+                },
+                {
+                    "id": 1097067,
+                    "resource_id": 161,
+                    "text": "আর তুমি তোমার রব-এর নি‘মাতকে (তোমার কথা, কাজকর্ম ও আচরণের মাধ্যমে) প্রকাশ করতে থাক।"
+                }
+            ]
+        },
+        {
+            "id": 6091,
+            "verse_number": 1,
+            "verse_key": "94:1",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 538,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+            "page_number": 596,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102276,
+                    "resource_id": 20,
+                    "text": "Did We not expand for you, [O Muḥammad], your breast?<sup foot_note=197780>1</sup>"
+                },
+                {
+                    "id": 220103,
+                    "resource_id": 39,
+                    "text": "Bukankah Kami telah melapangkan bagimu: dadamu (wahai Muhammad serta mengisinya dengan iman dan hidayah petunjuk) ?"
+                },
+                {
+                    "id": 1097068,
+                    "resource_id": 161,
+                    "text": "(হে নবী! ওয়াহীর মাধ্যমে প্রকৃত জ্ঞান ও মানসিক শক্তি দিয়ে) আমি কি তোমার বক্ষদেশকে প্রসারিত করে দেইনি?"
+                }
+            ]
+        },
+        {
+            "id": 6092,
+            "verse_number": 2,
+            "verse_key": "94:2",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 538,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+            "page_number": 596,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102278,
+                    "resource_id": 20,
+                    "text": "And We removed from you your burden<sup foot_note=197781>1</sup>"
+                },
+                {
+                    "id": 220105,
+                    "resource_id": 39,
+                    "text": "Dan Kami telah meringankan daripadamu: bebanmu (menyiarkan Islam) -"
+                },
+                {
+                    "id": 1097069,
+                    "resource_id": 161,
+                    "text": "আর আমি তোমার হতে সরিয়ে দিয়েছি (সমাজের অনাচার, অশ্লীলতা ও পঙ্কিলতা দেখে তোমার অন্তরে জেগে উঠা দুঃখ, বেদনা, উদ্বেগ ও অস্থিরতার) ভার,"
+                }
+            ]
+        },
+        {
+            "id": 6093,
+            "verse_number": 3,
+            "verse_key": "94:3",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 538,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ",
+            "page_number": 596,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102280,
+                    "resource_id": 20,
+                    "text": "Which had weighed upon your back"
+                },
+                {
+                    "id": 220107,
+                    "resource_id": 39,
+                    "text": "Yang memberati tanggunganmu, (dengan memberikan berbagai kemudahan dalam melaksanakannya)?"
+                },
+                {
+                    "id": 1097070,
+                    "resource_id": 161,
+                    "text": "যা তোমার কোমরকে ভেঙ্গে দিচ্ছিল।"
+                }
+            ]
+        },
+        {
+            "id": 6094,
+            "verse_number": 4,
+            "verse_key": "94:4",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 538,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+            "page_number": 596,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102282,
+                    "resource_id": 20,
+                    "text": "And raised high for you your repute."
+                },
+                {
+                    "id": 220109,
+                    "resource_id": 39,
+                    "text": "Dan Kami telah meninggikan bagimu: sebutan namamu (dengan mengurniakan pangkat Nabi dan berbagai kemuliaan)?"
+                },
+                {
+                    "id": 1097071,
+                    "resource_id": 161,
+                    "text": "এবং আমি (মু’মিনদের যাবতীয় আবশ্যিক ‘ইবাদাত আযান, ইক্বামাত, নামায, খুৎবাহ ইত্যাদির মাধ্যমে) তোমার স্মৃতিকে উচ্চ মর্যাদায় তুলে ধরেছি।"
+                }
+            ]
+        },
+        {
+            "id": 6095,
+            "verse_number": 5,
+            "verse_key": "94:5",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 538,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+            "page_number": 596,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102284,
+                    "resource_id": 20,
+                    "text": "For indeed, with hardship [will be] ease [i.e., relief]."
+                },
+                {
+                    "id": 220111,
+                    "resource_id": 39,
+                    "text": "Oleh itu, maka (tetapkanlah kepercayaanmu) bahawa sesungguhnya tiap-tiap kesukaran disertai kemudahan,"
+                },
+                {
+                    "id": 1097072,
+                    "resource_id": 161,
+                    "text": "কষ্টের সাথেই স্বস্তি আছে,"
+                }
+            ]
+        },
+        {
+            "id": 6096,
+            "verse_number": 6,
+            "verse_key": "94:6",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 538,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+            "page_number": 596,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102286,
+                    "resource_id": 20,
+                    "text": "Indeed, with hardship [will be] ease."
+                },
+                {
+                    "id": 220113,
+                    "resource_id": 39,
+                    "text": "(Sekali lagi ditegaskan): bahawa sesungguhnya tiap-tiap kesukaran disertai kemudahan."
+                },
+                {
+                    "id": 1097073,
+                    "resource_id": 161,
+                    "text": "নিঃসন্দেহে কষ্টের সাথেই স্বস্তি আছে।"
+                }
+            ]
+        },
+        {
+            "id": 6097,
+            "verse_number": 7,
+            "verse_key": "94:7",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 538,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
+            "page_number": 596,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102288,
+                    "resource_id": 20,
+                    "text": "So when you have finished [your duties], then stand up [for worship]."
+                },
+                {
+                    "id": 220115,
+                    "resource_id": 39,
+                    "text": "Kemudian apabila engkau telah selesai (daripada sesuatu amal soleh), maka bersungguh-sungguhlah engkau berusaha (mengerjakan amal soleh yang lain),"
+                },
+                {
+                    "id": 1097074,
+                    "resource_id": 161,
+                    "text": "কাজেই তুমি যখনই অবসর পাবে, ‘ইবাদাতের কঠোর শ্রমে লেগে যাবে,"
+                }
+            ]
+        },
+        {
+            "id": 6098,
+            "verse_number": 8,
+            "verse_key": "94:8",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 239,
+            "ruku_number": 538,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِلَىٰ رَبِّكَ فَٱرْغَب",
+            "page_number": 596,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 102290,
+                    "resource_id": 20,
+                    "text": "And to your Lord direct [your] longing."
+                },
+                {
+                    "id": 214959,
+                    "resource_id": 39,
+                    "text": "Dan kepada Tuhanmu sahaja hendaklah engkau memohon (apa yang engkau gemar dan ingini)."
+                },
+                {
+                    "id": 1097075,
+                    "resource_id": 161,
+                    "text": "এবং তোমার রব-এর প্রতি গভীরভাবে মনোযোগ দিবে।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 25,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 25
+    }
+}

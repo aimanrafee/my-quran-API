@@ -1,0 +1,281 @@
+{
+    "verses": [
+        {
+            "id": 2867,
+            "verse_number": 12,
+            "verse_key": "25:12",
+            "hizb_number": 36,
+            "rub_el_hizb_number": 144,
+            "ruku_number": 311,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "إِذَا رَأَتْهُم مِّن مَّكَانٍۭ بَعِيدٍ سَمِعُوا۟ لَهَا تَغَيُّظًا وَزَفِيرًا",
+            "page_number": 361,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 98003,
+                    "resource_id": 20,
+                    "text": "When it [i.e., the Hellfire] sees them from a distant place, they will hear its fury and roaring."
+                },
+                {
+                    "id": 215859,
+                    "resource_id": 39,
+                    "text": "Apabila neraka itu melihat mereka dari tempat yang jauh, kedengaranlah mereka suara marahnya yang menggelegak dan mengeluh."
+                },
+                {
+                    "id": 1093844,
+                    "resource_id": 161,
+                    "text": "আগুন যখন তাদেরকে বহু দূরবর্তী স্থান থেকে দেখবে, তখন তারা শুনতে পারে তার ক্রুদ্ধ গর্জন ও হুঙ্কার।"
+                }
+            ]
+        },
+        {
+            "id": 2868,
+            "verse_number": 13,
+            "verse_key": "25:13",
+            "hizb_number": 36,
+            "rub_el_hizb_number": 144,
+            "ruku_number": 311,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَإِذَآ أُلْقُوا۟ مِنْهَا مَكَانًا ضَيِّقًا مُّقَرَّنِينَ دَعَوْا۟ هُنَالِكَ ثُبُورًا",
+            "page_number": 361,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 98004,
+                    "resource_id": 20,
+                    "text": "And when they are thrown into a narrow place therein bound in chains, they will cry out thereupon for destruction."
+                },
+                {
+                    "id": 215856,
+                    "resource_id": 39,
+                    "text": "Dan apabila mereka dihumbankan ke tempat yang sempit di dalam neraka itu, dengan keadaan mereka dibelenggu, menjeritlah mereka di sana meminta sejenis kebinasaan (yang melepaskan dari azab itu)."
+                },
+                {
+                    "id": 1093845,
+                    "resource_id": 161,
+                    "text": "যখন তাদেরকে এক সঙ্গে বেঁধে জাহান্নামের কোন সংকীর্ণ স্থানে নিক্ষেপ করা হবে, তখন সেখানে তারা মৃত্যুকে ডাকবে।"
+                }
+            ]
+        },
+        {
+            "id": 2869,
+            "verse_number": 14,
+            "verse_key": "25:14",
+            "hizb_number": 36,
+            "rub_el_hizb_number": 144,
+            "ruku_number": 311,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "لَّا تَدْعُوا۟ ٱلْيَوْمَ ثُبُورًا وَٰحِدًا وَٱدْعُوا۟ ثُبُورًا كَثِيرًا",
+            "page_number": 361,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 98005,
+                    "resource_id": 20,
+                    "text": "[They will be told], \"Do not cry this Day for one destruction but cry for much destruction.\""
+                },
+                {
+                    "id": 215857,
+                    "resource_id": 39,
+                    "text": "(Lalu dikatakan kepada mereka): \"Janganlah kamu menjerit-jerit meminta pada hari ini sejenis kebinasaan sahaja, tetapi mintalah kebinasaan sebanyak-banyaknya (kerana azab yang menunggu kamu di sini banyak jenisnya)\"."
+                },
+                {
+                    "id": 1093846,
+                    "resource_id": 161,
+                    "text": "(বলা হবে) ‘তোমরা আজ এক মৃত্যুকে ডেক না, অনেক মৃত্যুকে ডাক।’"
+                }
+            ]
+        },
+        {
+            "id": 2870,
+            "verse_number": 15,
+            "verse_key": "25:15",
+            "hizb_number": 36,
+            "rub_el_hizb_number": 144,
+            "ruku_number": 311,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قُلْ أَذَٰلِكَ خَيْرٌ أَمْ جَنَّةُ ٱلْخُلْدِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ ۚ كَانَتْ لَهُمْ جَزَآءً وَمَصِيرًا",
+            "page_number": 361,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 98006,
+                    "resource_id": 20,
+                    "text": "Say, \"Is that better or the Garden of Eternity which is promised to the righteous? It will be for them a reward and destination."
+                },
+                {
+                    "id": 215858,
+                    "resource_id": 39,
+                    "text": "Bertanyalah (kepada mereka): \"Adakah (azab seksa neraka) yang demikian itu lebih baik atau Syurga yang kekal, yang dijanjikan kepada orang-orang yang bertaqwa?\" Syurga yang sedia diuntukkan bagi mereka sebagai balasan dan tempat kembali."
+                },
+                {
+                    "id": 1093847,
+                    "resource_id": 161,
+                    "text": "তাদেরকে জিজ্ঞেস কর- এটাই উত্তম না চিরস্থায়ী জান্নাত, মুত্তাকীদেরকে যার ওয়াদা দেয়া হয়েছে? তাদের জন্য এটা হবে প্রতিদান ও শেষ আবাসস্থল।"
+                }
+            ]
+        },
+        {
+            "id": 2871,
+            "verse_number": 16,
+            "verse_key": "25:16",
+            "hizb_number": 36,
+            "rub_el_hizb_number": 144,
+            "ruku_number": 311,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "لَّهُمْ فِيهَا مَا يَشَآءُونَ خَـٰلِدِينَ ۚ كَانَ عَلَىٰ رَبِّكَ وَعْدًا مَّسْـُٔولًا",
+            "page_number": 361,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 98007,
+                    "resource_id": 20,
+                    "text": "For them therein is whatever they wish, [while] abiding eternally. It is ever upon your Lord a promise [worthy to be] requested.<sup foot_note=196915>1</sup>"
+                },
+                {
+                    "id": 215861,
+                    "resource_id": 39,
+                    "text": "Mereka beroleh di dalam Syurga itu apa yang mereka kehendaki, mereka pula kekal di dalamnya. Balasan yang demikian adalah satu janji yang dijamin oleh Tuhanmu, lagi yang dipohonkan dan dituntut (dalam doa masing-masing)."
+                },
+                {
+                    "id": 1093848,
+                    "resource_id": 161,
+                    "text": "সেখানে তাদের জন্য তা-ই থাকবে যা তারা ইচ্ছে করবে। সেখানে তারা চিরকাল থাকবে। এটা একটা ওয়াদা যা পূরণ করা তোমার প্রতিপালকের দায়িত্ব।"
+                }
+            ]
+        },
+        {
+            "id": 2872,
+            "verse_number": 17,
+            "verse_key": "25:17",
+            "hizb_number": 36,
+            "rub_el_hizb_number": 144,
+            "ruku_number": 311,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَيَوْمَ يَحْشُرُهُمْ وَمَا يَعْبُدُونَ مِن دُونِ ٱللَّهِ فَيَقُولُ ءَأَنتُمْ أَضْلَلْتُمْ عِبَادِى هَـٰٓؤُلَآءِ أَمْ هُمْ ضَلُّوا۟ ٱلسَّبِيلَ",
+            "page_number": 361,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 98008,
+                    "resource_id": 20,
+                    "text": "And [mention] the Day He will gather them and that which they worship besides Allāh and will say, \"Did you mislead these, My servants, or did they [themselves] stray from the way?\""
+                },
+                {
+                    "id": 216334,
+                    "resource_id": 39,
+                    "text": "Dan (ingatkanlah) hari Tuhan menghimpunkan mereka (yang kafir) dan makhluk-makhluk yang mereka sembah yang lain dari Allah, lalu Ia bertanya (kepada makhluk-makhluk yang telah dipuja dan disembah itu): \"Kamukah yang menyesatkan hamba-hambaKu itu atau mereka yang sesat jalan?\""
+                },
+                {
+                    "id": 1093849,
+                    "resource_id": 161,
+                    "text": "যেদিন তিনি তাদেরকে আর আল্লাহকে বাদ দিয়ে তারা যেগুলোর ‘ইবাদাত করত সেগুলোকে একত্র করবেন, সেদিন তিনি জিজ্ঞেস করবেন- ‘তোমরাই কি আমার এ সব বান্দাহদেরকে পথভ্রষ্ট করেছিলে? না তারা নিজেরাই পথ থেকে বিচ্যুত হয়েছিল?’"
+                }
+            ]
+        },
+        {
+            "id": 2873,
+            "verse_number": 18,
+            "verse_key": "25:18",
+            "hizb_number": 36,
+            "rub_el_hizb_number": 144,
+            "ruku_number": 311,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "قَالُوا۟ سُبْحَـٰنَكَ مَا كَانَ يَنۢبَغِى لَنَآ أَن نَّتَّخِذَ مِن دُونِكَ مِنْ أَوْلِيَآءَ وَلَـٰكِن مَّتَّعْتَهُمْ وَءَابَآءَهُمْ حَتَّىٰ نَسُوا۟ ٱلذِّكْرَ وَكَانُوا۟ قَوْمًۢا بُورًا",
+            "page_number": 361,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 98009,
+                    "resource_id": 20,
+                    "text": "They will say, \"Exalted are You! It was not for us to take besides You any allies [i.e., protectors]. But You provided comforts for them and their fathers until they forgot the message and became a people ruined.\""
+                },
+                {
+                    "id": 215862,
+                    "resource_id": 39,
+                    "text": "Mereka menjawab: \"Maha Suci Engkau (wahai Tuhan kami)! Sudah tentu tidak patut bagi kami mengambil sesiapa pun yang lain daripadaMu sebagai pelindung yang disembah (dan tidak patut juga kami menyeru orang menyembah kami); tetapi engkau (wahai Tuhan kami) telah melimpahkan kemewahan kepada mereka dan kepada datuk neneknya sehingga mereka lalai dan cuaikan ajaran ugamaMu, dan menjadilah mereka kaum yang binasa\"."
+                },
+                {
+                    "id": 1093850,
+                    "resource_id": 161,
+                    "text": "তারা বলবে : ‘পবিত্র ও মহান তুমি। আমাদের জন্য শোভনীয় ছিল না যে তোমাকে বাদ দিয়ে অন্যান্য ইলাহ গ্রহণ করব, বরং তুমি ওদেরকে আর ওদের পিতৃপুরুষদেরকে দিয়েছিলে পার্থিব ভোগ সম্ভার, পরিণামে তারা ভুলে গিয়েছিল (তোমার প্রেরিত) বাণী, যার ফলে তারা পরিণত হল এক ধ্বংসপ্রাপ্ত জাতিতে।"
+                }
+            ]
+        },
+        {
+            "id": 2874,
+            "verse_number": 19,
+            "verse_key": "25:19",
+            "hizb_number": 36,
+            "rub_el_hizb_number": 144,
+            "ruku_number": 311,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "فَقَدْ كَذَّبُوكُم بِمَا تَقُولُونَ فَمَا تَسْتَطِيعُونَ صَرْفًا وَلَا نَصْرًا ۚ وَمَن يَظْلِم مِّنكُمْ نُذِقْهُ عَذَابًا كَبِيرًا",
+            "page_number": 361,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 98010,
+                    "resource_id": 20,
+                    "text": "So they will deny you, [disbelievers], in what you say,<sup foot_note=196917>1</sup> and you cannot avert [punishment] or [find] help. And whoever commits injustice<sup foot_note=196916>2</sup> among you - We will make him taste a great punishment."
+                },
+                {
+                    "id": 215864,
+                    "resource_id": 39,
+                    "text": "Maka (dikatakan pula kepada golongan itu): \"Sesungguhnya mereka (yang kamu puja dan sembah) itu telah mendustakan dakwaan kamu (bahawa mereka yang menyesatkan kamu). Oleh itu, kamu semua tidak akan dapat menjauhkan azab seksa atau beroleh sebarang pertolongan\". Dan sesiapa yang berlaku zalim di antara kamu (wahai umat manusia, dengan kekufuran atau maksiat), Kami akan merasakannya azab seksa yang besar."
+                },
+                {
+                    "id": 1093851,
+                    "resource_id": 161,
+                    "text": "(আল্লাহ মুশরিকদেরকে বলবেন) ‘তোমরা যা বলতে সে ব্যাপারে তারা তোমাদেরকে মিথ্যে প্রমাণিত করেছে। কাজেই তোমরা না পারবে (তোমাদের শাস্তি) প্রতিরোধ করতে আর না পাবে সাহায্য। তোমাদের মধ্যে যে অন্যায়কারী আমি তাকে গুরুতর শাস্তি আস্বাদন করাব।"
+                }
+            ]
+        },
+        {
+            "id": 2875,
+            "verse_number": 20,
+            "verse_key": "25:20",
+            "hizb_number": 36,
+            "rub_el_hizb_number": 144,
+            "ruku_number": 311,
+            "manzil_number": 4,
+            "sajdah_number": null,
+            "text_uthmani": "وَمَآ أَرْسَلْنَا قَبْلَكَ مِنَ ٱلْمُرْسَلِينَ إِلَّآ إِنَّهُمْ لَيَأْكُلُونَ ٱلطَّعَامَ وَيَمْشُونَ فِى ٱلْأَسْوَاقِ ۗ وَجَعَلْنَا بَعْضَكُمْ لِبَعْضٍ فِتْنَةً أَتَصْبِرُونَ ۗ وَكَانَ رَبُّكَ بَصِيرًا",
+            "page_number": 361,
+            "juz_number": 18,
+            "translations": [
+                {
+                    "id": 98013,
+                    "resource_id": 20,
+                    "text": "And We did not send before you, [O Muḥammad], any of the messengers except that they ate food and walked in the markets. And We have made some of you [people] as trial for others - will you have patience? And ever is your Lord, Seeing."
+                },
+                {
+                    "id": 215867,
+                    "resource_id": 39,
+                    "text": "Dan Kami tidak mengutus Rasul-rasul sebelummu (wahai Muhammad) melainkan orang-orang yang tentu makan minum dan berjalan di pasar-pasar, dan Kami jadikan sebahagian dari kamu sebagai ujian dan cubaan bagi sebahagian yang lain, supaya ternyata adakah kamu dapat bersabar (menghadapi ujian itu)? Dan (ingatlah) adalah Tuhanmu sentiasa Melihat (akan keadaan makhluk-makhlukNya)."
+                },
+                {
+                    "id": 1093852,
+                    "resource_id": 161,
+                    "text": "আমি তোমার পূর্বে যে সব রসূল পাঠিয়েছিলাম তারা সবাই খাদ্য গ্রহণ করত, আর হাট-বাজারে চলাফেরা করত। আমি তোমাদের এককে অপরের জন্য করেছি পরীক্ষাস্বরূপ (কাউকে করেছি ধনী, কাউকে গরীব, কাউকে সবল, কাউকে দুর্বল, কাউকে রুগ্ন, কাউকে সুস্থ), দেখি, তোমরা (নিজ নিজ অবস্থার উপর) ধৈর্য ধারণ কর কিনা। তোমার প্রতিপালক সব কিছু দেখেন।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 9,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 9
+    }
+}

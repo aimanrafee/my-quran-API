@@ -1,0 +1,461 @@
+{
+    "verses": [
+        {
+            "id": 6222,
+            "verse_number": 1,
+            "verse_key": "112:1",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 556,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+            "page_number": 604,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96391,
+                    "resource_id": 20,
+                    "text": "Say, \"He is Allāh, [who is] One,<sup foot_note=197829>1</sup>"
+                },
+                {
+                    "id": 220349,
+                    "resource_id": 39,
+                    "text": "Katakanlah (wahai Muhammad): \"(Tuhanku) ialah Allah Yang Maha Esa;"
+                },
+                {
+                    "id": 1097199,
+                    "resource_id": 161,
+                    "text": "বল, তিনি আল্লাহ, এক অদ্বিতীয়,"
+                }
+            ]
+        },
+        {
+            "id": 6223,
+            "verse_number": 2,
+            "verse_key": "112:2",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 556,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ٱللَّهُ ٱلصَّمَدُ",
+            "page_number": 604,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96393,
+                    "resource_id": 20,
+                    "text": "Allāh, the Eternal Refuge.<sup foot_note=197830>1</sup>"
+                },
+                {
+                    "id": 220348,
+                    "resource_id": 39,
+                    "text": "\"Allah Yang menjadi tumpuan sekalian makhluk untuk memohon sebarang hajat;"
+                },
+                {
+                    "id": 1097200,
+                    "resource_id": 161,
+                    "text": "আল্লাহ কোন কিছুর মুখাপেক্ষী নন, সবই তাঁর মুখাপেক্ষী,"
+                }
+            ]
+        },
+        {
+            "id": 6224,
+            "verse_number": 3,
+            "verse_key": "112:3",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 556,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+            "page_number": 604,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96395,
+                    "resource_id": 20,
+                    "text": "He neither begets nor is born,"
+                },
+                {
+                    "id": 214969,
+                    "resource_id": 39,
+                    "text": "\"Ia tiada beranak, dan Ia pula tidak diperanakkan;"
+                },
+                {
+                    "id": 1097201,
+                    "resource_id": 161,
+                    "text": "তিনি কাউকে জন্ম দেন না, আর তাঁকেও জন্ম দেয়া হয়নি।"
+                }
+            ]
+        },
+        {
+            "id": 6225,
+            "verse_number": 4,
+            "verse_key": "112:4",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 556,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+            "page_number": 604,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96397,
+                    "resource_id": 20,
+                    "text": "Nor is there to Him any equivalent.\""
+                },
+                {
+                    "id": 220427,
+                    "resource_id": 39,
+                    "text": "\"Dan tidak ada sesiapapun yang serupa denganNya\"."
+                },
+                {
+                    "id": 1097202,
+                    "resource_id": 161,
+                    "text": "তাঁর সমকক্ষ কেউ নয়।"
+                }
+            ]
+        },
+        {
+            "id": 6226,
+            "verse_number": 1,
+            "verse_key": "113:1",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 557,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+            "page_number": 604,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96406,
+                    "resource_id": 20,
+                    "text": "Say, \"I seek refuge in the Lord of daybreak"
+                },
+                {
+                    "id": 220397,
+                    "resource_id": 39,
+                    "text": "Katakanlah (wahai Muhammad); \"Aku berlindung kepada (Allah) Tuhan yang menciptakan sekalian makhluk,"
+                },
+                {
+                    "id": 1097203,
+                    "resource_id": 161,
+                    "text": "বল, ‘আমি আশ্রয় চাচ্ছি সকাল বেলার রব-এর,"
+                }
+            ]
+        },
+        {
+            "id": 6227,
+            "verse_number": 2,
+            "verse_key": "113:2",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 557,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "مِن شَرِّ مَا خَلَقَ",
+            "page_number": 604,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96408,
+                    "resource_id": 20,
+                    "text": "From the evil of that which He created"
+                },
+                {
+                    "id": 220364,
+                    "resource_id": 39,
+                    "text": "\"Dari bencana makhluk-makhluk yang Ia ciptakan;"
+                },
+                {
+                    "id": 1097204,
+                    "resource_id": 161,
+                    "text": "তিনি যা সৃষ্টি করেছেন তার অনিষ্ট হতে,"
+                }
+            ]
+        },
+        {
+            "id": 6228,
+            "verse_number": 3,
+            "verse_key": "113:3",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 557,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+            "page_number": 604,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96410,
+                    "resource_id": 20,
+                    "text": "And from the evil of darkness when it settles"
+                },
+                {
+                    "id": 214659,
+                    "resource_id": 39,
+                    "text": "\"Dan dari bahaya gelap apabila ia masuk;"
+                },
+                {
+                    "id": 1097205,
+                    "resource_id": 161,
+                    "text": "আর অন্ধকার রাতের অনিষ্ট হতে যখন তা আচ্ছন্ন হয়ে যায়।"
+                }
+            ]
+        },
+        {
+            "id": 6229,
+            "verse_number": 4,
+            "verse_key": "113:4",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 557,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلْعُقَدِ",
+            "page_number": 604,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96412,
+                    "resource_id": 20,
+                    "text": "And from the evil of the blowers in knots<sup foot_note=197831>1</sup>"
+                },
+                {
+                    "id": 220366,
+                    "resource_id": 39,
+                    "text": "\"Dan dari kejahatan makhluk-makhluk yang menghembus-hembus pada simpulan-simpulan (dan ikatan-ikatan);"
+                },
+                {
+                    "id": 1097206,
+                    "resource_id": 161,
+                    "text": "এবং (জাদু করার উদ্দেশ্যে) গিরায় ফুৎকারকারিণীদের অনিষ্ট হতে,"
+                }
+            ]
+        },
+        {
+            "id": 6230,
+            "verse_number": 5,
+            "verse_key": "113:5",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 557,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+            "page_number": 604,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96414,
+                    "resource_id": 20,
+                    "text": "And from the evil of an envier when he envies.\""
+                },
+                {
+                    "id": 220396,
+                    "resource_id": 39,
+                    "text": "\"Dan dari kejahatan orang yang dengki apabila ia melakukan dengkinya\"."
+                },
+                {
+                    "id": 1097207,
+                    "resource_id": 161,
+                    "text": "এবং হিংসুকের অনিষ্ট হতে, যখন সে হিংসা করে।"
+                }
+            ]
+        },
+        {
+            "id": 6231,
+            "verse_number": 1,
+            "verse_key": "114:1",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 558,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": " قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+            "page_number": 604,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96330,
+                    "resource_id": 20,
+                    "text": "Say, \"I seek refuge in the Lord of mankind,"
+                },
+                {
+                    "id": 220401,
+                    "resource_id": 39,
+                    "text": "Katakanlah (wahai Muhammad): \"Aku berlindung kepada (Allah) Pemulihara sekalian manusia."
+                },
+                {
+                    "id": 1097208,
+                    "resource_id": 161,
+                    "text": "বল, ‘আমি আশ্রয় চাচ্ছি মানুষের প্রতিপালকের,"
+                }
+            ]
+        },
+        {
+            "id": 6232,
+            "verse_number": 2,
+            "verse_key": "114:2",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 558,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "مَلِكِ ٱلنَّاسِ",
+            "page_number": 604,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96423,
+                    "resource_id": 20,
+                    "text": "The Sovereign of mankind,"
+                },
+                {
+                    "id": 220382,
+                    "resource_id": 39,
+                    "text": "\"Yang Menguasai sekalian manusia,"
+                },
+                {
+                    "id": 1097209,
+                    "resource_id": 161,
+                    "text": "মানুষের অধিপতির,"
+                }
+            ]
+        },
+        {
+            "id": 6233,
+            "verse_number": 3,
+            "verse_key": "114:3",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 558,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "إِلَـٰهِ ٱلنَّاسِ",
+            "page_number": 604,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96426,
+                    "resource_id": 20,
+                    "text": "The God of mankind,"
+                },
+                {
+                    "id": 220383,
+                    "resource_id": 39,
+                    "text": "\"Tuhan yang berhak disembah oleh sekalian manusia,"
+                },
+                {
+                    "id": 1097210,
+                    "resource_id": 161,
+                    "text": "মানুষের প্রকৃত ইলাহর,"
+                }
+            ]
+        },
+        {
+            "id": 6234,
+            "verse_number": 4,
+            "verse_key": "114:4",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 558,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+            "page_number": 604,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96428,
+                    "resource_id": 20,
+                    "text": "From the evil of the retreating whisperer<sup foot_note=197832>1</sup> -"
+                },
+                {
+                    "id": 220381,
+                    "resource_id": 39,
+                    "text": "\"Dari kejahatan pembisik penghasut yang timbul tenggelam, -"
+                },
+                {
+                    "id": 1097211,
+                    "resource_id": 161,
+                    "text": "যে নিজেকে লুকিয়ে রেখে বার বার এসে কুমন্ত্রণা দেয় তার অনিষ্ট হতে,"
+                }
+            ]
+        },
+        {
+            "id": 6235,
+            "verse_number": 5,
+            "verse_key": "114:5",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 558,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+            "page_number": 604,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96430,
+                    "resource_id": 20,
+                    "text": "Who whispers [evil] into the breasts of mankind -"
+                },
+                {
+                    "id": 220368,
+                    "resource_id": 39,
+                    "text": "\"Yang melemparkan bisikan dan hasutannya ke dalam hati manusia, -"
+                },
+                {
+                    "id": 1097212,
+                    "resource_id": 161,
+                    "text": "যে কুমন্ত্রণা দেয় মানুষের অন্তরে"
+                }
+            ]
+        },
+        {
+            "id": 6236,
+            "verse_number": 6,
+            "verse_key": "114:6",
+            "hizb_number": 60,
+            "rub_el_hizb_number": 240,
+            "ruku_number": 558,
+            "manzil_number": 7,
+            "sajdah_number": null,
+            "text_uthmani": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+            "page_number": 604,
+            "juz_number": 30,
+            "translations": [
+                {
+                    "id": 96432,
+                    "resource_id": 20,
+                    "text": "From among the jinn and mankind\".<sup foot_note=197833>1</sup>"
+                },
+                {
+                    "id": 220389,
+                    "resource_id": 39,
+                    "text": "\"(Iaitu pembisik dan penghasut) dari kalangan jin dan manusia\"."
+                },
+                {
+                    "id": 1097213,
+                    "resource_id": 161,
+                    "text": "(এই কুমন্ত্রণাদাতা হচ্ছে) জিন্নের মধ্য হতে এবং মানুষের মধ্য হতে।"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "per_page": 15,
+        "current_page": 1,
+        "next_page": null,
+        "total_pages": 1,
+        "total_records": 15
+    }
+}
